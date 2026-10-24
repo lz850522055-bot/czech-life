@@ -4,9 +4,9 @@
 
 # Czech Life · 捷语人生
 
-### Learn Czech. Explore Prague. Build a life.
+### Your game level. Your real-world Czech.
 
-An open-source language adventure for people who have never spoken Czech — and want to feel at home in a real city.
+A language-first life simulator with one central ambition: **the Czech you master in the game becomes the Czech you can use in real life.**
 
 **[中文](README.zh-CN.md) · [Play the prototype](#play-the-prototype) · [Roadmap](docs/ROADMAP.md) · [Contribute](CONTRIBUTING.md) · [Report a bug](https://github.com/lz850522055-bot/czech-life/issues/new/choose)**
 
@@ -16,17 +16,25 @@ An open-source language adventure for people who have never spoken Czech — and
 
 </div>
 
-## A language you can live in
+## Play a Czech life. Build real Czech ability.
 
-Imagine arriving in Prague without a single Czech word. You hear two sounds, open the right door, meet a shopkeeper, ask for directions, ride across town and gradually make a place for yourself. The streets become familiar. The language starts to mean something.
+**Our mission: when you genuinely pass A1, A2 or C2 in the game, your real-world Czech ability should match that level.** Progress must mean being able to understand, speak, read, write and respond independently — including situations you have never memorized. This is the standard we want to build and validate, not an XP badge.
 
-That is the world we want to build: **a playable bridge between learning a language and belonging in a place**. Prague comes first; a wider Czech world is a future direction.
+To make that possible, we aim to recreate a Czech life **one-to-one**, starting with Prague and eventually extending across Czechia: actual streets and routes, buildings, infrastructure, landmarks, neighborhoods and the social situations that make a language necessary. The city is the training ground; real-world language transfer is the point.
 
-| Learn | Explore | Live | Build | Connect |
-| --- | --- | --- | --- | --- |
-| Start with sounds; learn patterns through actions and consequences. | Follow real-geography-backed roads, districts and landmarks. | Discover local culture through everyday stories. | Run fictional shops, trade and improve a neighborhood. | Eventually share the world with other players. |
+You might rent a home, shop for groceries, make friends, handle a misunderstanding, read an official notice or start a business. A shop should have customers, suppliers, stock, rent, purchasing costs, wages, utilities and trade-offs. Business scenarios should reflect dated, sourced Czech policy and local conditions. Learning Czech remains the first requirement throughout: the world should make you need, use and retain the language.
 
-**This is an early, single-player prototype seeking contributors.** Fine-art coverage is limited to two authored outdoor chunks. Map movement can stutter. The C2 curriculum is a content structure, not a completed or independently validated proficiency course. Multiplayer is not implemented. Promotional illustrations show the intended art direction, not finished gameplay.
+**The destination is a game life that prepares you for real life in Czechia.** Geography, culture, commerce and future social play all serve that goal.
+
+| Core goal | What the world provides |
+| --- | --- |
+| In-game A1–C2 mastery transfers to real Czech ability | Listening, speaking, reading, writing, interaction and unfamiliar-context checks |
+| Learn by living, not memorizing a route through questions | Daily life, relationships, decisions and consequences |
+| Feel present in a real place | A faithful 1:1 reconstruction target for Prague's roads, buildings and infrastructure |
+| Rehearse independent life and business | Customers, sourcing, rent, stock, labor, utilities and policy-grounded simulations |
+| Grow into a shared world | Future multiplayer; not implemented in this alpha |
+
+This is the project's **development and validation goal**. The current release is an early single-player prototype: two authored outdoor chunks, initial learning/quest/economy systems and a course structure through C2. Map stutter and language review remain open work; equivalence between game completion and real CEFR ability has not yet been validated. See the [mastery and simulation design](docs/VISION.md).
 
 ## See the direction
 
@@ -73,9 +81,9 @@ Assets are approximately **1.01 GB compressed / 1.13 GB extracted**, fetched onc
 
 [Setup, mobile access and troubleshooting](docs/GETTING_STARTED.md). Learner records/recordings are private and excluded from this repository.
 
-## Help make the first neighborhood great
+## Help make in-game mastery work in real life
 
-We would rather ship **one good, playable neighborhood** than claim an unfinished country is complete.
+The first neighborhood is the proving ground: can a complete beginner learn something here and independently use it in a new real-world situation?
 
 - **Game/rendering developers:** profile camera panning, texture uploads, chunk loading and mobile frame pacing.
 - **Czech speakers and teachers:** review phonetics, natural dialogue and beginner progression.

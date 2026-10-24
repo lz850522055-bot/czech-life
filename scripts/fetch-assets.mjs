@@ -20,12 +20,20 @@ else{
  const archive=local?path.resolve(local):path.join(root,'cache/downloads',manifest.file);
  fs.mkdirSync(path.dirname(archive),{recursive:true});
  if(!local&&(!fs.existsSync(archive)||fs.statSync(archive).size!==manifest.bytes)){
-  const url='https://github.com/lz850522055-bot/czech-life/releases/download/v0.1.0-alpha/'+manifest.file;
-  console.log('Downloading',url,'('+manifest.bytes+' bytes)');
-  const res=await fetch(url);if(!res.ok)throw Error('Download failed: HTTP '+res.status);
-  let bytes=0,last=0;const meter=new Transform({transform(c,e,cb){bytes+=c.length;if(bytes-last>50000000){console.log(Math.round(bytes/manifest.bytes*100)+'%');last=bytes;}cb(null,c);}});
-  await pipeline(Readable.fromWeb(res.body),meter,fs.createWriteStream(archive+'.part'));
-  if(bytes!==manifest.bytes)throw Error('Incomplete download');
+  const parts=manifest.parts||[{file:manifest.file,bytes:manifest.bytes,sha256:manifest.sha256}];
+  for(const [i,part] of parts.entries()){
+   if(!/^[A-Za-z0-9._-]+$/.test(part.file))throw Error('Unsafe part name');
+   const dest=path.join(path.dirname(archive),part.file);
+   if(fs.existsSync(dest)&&fs.statSync(dest).size===part.bytes&&await hashFile(dest)===part.sha256){console.log('Verified cached part',i+1);continue;}
+   const url='https://github.com/lz850522055-bot/czech-life/releases/download/v0.1.0-alpha/'+part.file;
+   console.log('Downloading part',i+1,'/',parts.length);
+   const res=await fetch(url);if(!res.ok)throw Error('Download failed: HTTP '+res.status);
+   await pipeline(Readable.fromWeb(res.body),fs.createWriteStream(dest+'.download'));
+   if(fs.statSync(dest+'.download').size!==part.bytes||await hashFile(dest+'.download')!==part.sha256)throw Error('Part verification failed: '+part.file);
+   fs.renameSync(dest+'.download',dest);
+  }
+  // Stream into one verified archive; never hold the whole asset pack in memory.
+  await pipeline(Readable.from((async function*(){for(const part of parts)for await(const c of fs.createReadStream(path.join(path.dirname(archive),part.file)))yield c;})()),fs.createWriteStream(archive+'.part'));
   fs.renameSync(archive+'.part',archive);
  }
  if(await hashFile(archive)!==manifest.sha256)throw Error('Archive SHA-256 mismatch; nothing extracted');

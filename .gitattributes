@@ -8,3 +8,7 @@
 *.mjs text eol=lf
 *.js text eol=lf
 *.md text eol=lf
+
+# Upstream evidence is byte-hashed; preserve original line endings.
+content/authentic/provenance/** -text
+content/authentic/alignment/** -text
