@@ -1,0 +1,66 @@
+{
+  "id": "B2-U13-CHECK--2026.10.22.1--text",
+  "lesson_id": "B2-U13-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "B2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Organizátor výzkumu odstraní jména z výstupu, ale původní záznamy si ponechá. Účastníkům dosud nesdělil, kdo k nim má přístup ani jak dlouho je uchová.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Organizátor výzkumu odstraní jména z výstupu, ale původní záznamy si ponechá.",
+        "Účastníkům dosud nesdělil, kdo k nim má přístup ani jak dlouho je uchová."
+      ]
+    }
+  ],
+  "text_sha256": "722e03f8927aaf014d708993589bc35faf3c9735adb54af0d337dc33245b440b",
+  "source_file": "content/assessments/B2-U13.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U13-CHECK--2026.10.22.1--text--722e03f892--normal.mp3",
+  "slow_file": "content/audio/files/B2-U13-CHECK--2026.10.22.1--text--722e03f892--slow.mp3",
+  "duration_seconds": 14.315192743764172,
+  "slow_duration_seconds": 15.975419501133787,
+  "cues": [
+    {
+      "text": "Organizátor výzkumu odstraní jména z výstupu, ale původní záznamy si ponechá. Účastníkům dosud nesdělil, kdo k nim má přístup ani jak dlouho je uchová.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Organizátor výzkumu odstraní jména z výstupu, ale původní záznamy si ponechá.",
+        "Účastníkům dosud nesdělil, kdo k nim má přístup ani jak dlouho je uchová."
+      ],
+      "start": 0.0,
+      "end": 14.135192743764172,
+      "sentences": [
+        {
+          "text": "Organizátor výzkumu odstraní jména z výstupu, ale původní záznamy si ponechá.",
+          "start": 0.0,
+          "end": 7.349115646258503,
+          "slow_start": 0.0,
+          "slow_end": 8.312743764172335
+        },
+        {
+          "text": "Účastníkům dosud nesdělil, kdo k nim má přístup ani jak dlouho je uchová.",
+          "start": 7.529115646258504,
+          "end": 14.135192743764172,
+          "slow_start": 8.492743764172335,
+          "slow_end": 15.795419501133788
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 15.795419501133788
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "313cc50af02a129533c7e6fd5ed07cb7729944b91f3294d0057078cb1585bf73",
+    "slow": "69b951c57adef490008d7604ff55e667acf522aaef922d65236cf3557eedca13"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "id": "B1-U05-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "B1-U05-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Máme omezený rozpočet.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Máme omezený rozpočet."
+      ]
+    },
+    {
+      "text": "Cena zahrnuje úklid.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Cena zahrnuje úklid."
+      ]
+    },
+    {
+      "text": "Za kratší cestu si připlatím.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Za kratší cestu si připlatím."
+      ]
+    },
+    {
+      "text": "Domluvíme si prohlídku bytu.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Domluvíme si prohlídku bytu."
+      ]
+    }
+  ],
+  "text_sha256": "b7a5c754f94873d3f3169f4da4b81483edc1722b02a59906978ec55218638f86",
+  "source_file": "content/lessons/B1/B1-U05-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U05-L01--2026.10.22.1--vocabulary--b7a5c754f9--normal.mp3",
+  "slow_file": "content/audio/files/B1-U05-L01--2026.10.22.1--vocabulary--b7a5c754f9--slow.mp3",
+  "duration_seconds": 9.996371882086168,
+  "slow_duration_seconds": 11.273469387755101,
+  "cues": [
+    {
+      "text": "Máme omezený rozpočet.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Máme omezený rozpočet."
+      ],
+      "start": 0.0,
+      "end": 2.345215419501134,
+      "sentences": [
+        {
+          "text": "Máme omezený rozpočet.",
+          "start": 0.0,
+          "end": 2.345215419501134,
+          "slow_start": 0.0,
+          "slow_end": 2.6354648526077096
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.6354648526077096
+    },
+    {
+      "text": "Cena zahrnuje úklid.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Cena zahrnuje úklid."
+      ],
+      "start": 2.5252154195011336,
+      "end": 4.53374149659864,
+      "sentences": [
+        {
+          "text": "Cena zahrnuje úklid.",
+          "start": 2.5252154195011336,
+          "end": 4.53374149659864,
+          "slow_start": 2.8154648526077097,
+          "slow_end": 5.06780045351474
+        }
+      ],
+      "slow_start": 2.8154648526077097,
+      "slow_end": 5.06780045351474
+    },
+    {
+      "text": "Za kratší cestu si připlatím.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Za kratší cestu si připlatím."
+      ],
+      "start": 4.713741496598639,
+      "end": 7.279546485260771,
+      "sentences": [
+        {
+          "text": "Za kratší cestu si připlatím.",
+          "start": 4.713741496598639,
+          "end": 7.279546485260771,
+          "slow_start": 5.247800453514739,
+          "slow_end": 8.185124716553288
+        }
+      ],
+      "slow_start": 5.247800453514739,
+      "slow_end": 8.185124716553288
+    },
+    {
+      "text": "Domluvíme si prohlídku bytu.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Domluvíme si prohlídku bytu."
+      ],
+      "start": 7.459546485260771,
+      "end": 9.816371882086168,
+      "sentences": [
+        {
+          "text": "Domluvíme si prohlídku bytu.",
+          "start": 7.459546485260771,
+          "end": 9.816371882086168,
+          "slow_start": 8.365124716553288,
+          "slow_end": 11.093469387755102
+        }
+      ],
+      "slow_start": 8.365124716553288,
+      "slow_end": 11.093469387755102
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "87866689201cfaf38a47821f759890956f944ef35dd9c137ad401996825dada5",
+    "slow": "dd4f5890871f81e3699607132e56abf54220efc1f4d1ad2d775820ecf678b1de"
+  }
+}

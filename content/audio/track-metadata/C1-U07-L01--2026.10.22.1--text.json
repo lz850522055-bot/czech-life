@@ -1,0 +1,465 @@
+{
+  "id": "C1-U07-L01--2026.10.22.1--text",
+  "lesson_id": "C1-U07-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Technické oddělení připravilo oznámení, že v důsledku plánované aktualizace řídicí jednotky dojde k dočasnému omezení provozu výtahu. Text byl věcně správný, přesto obyvatelé domu volali správci s otázkami, kdy výtah nepůjde a zda se bude možné dostat do vyšších pater. Oznámení totiž popisovalo příčinu z pohledu technika, nikoli dopad z pohledu člověka, který se potřebuje vrátit domů. Změna publika vyžadovala změnu výběru informací, ne změnu skutečnosti.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Technické oddělení připravilo oznámení, že v důsledku plánované aktualizace řídicí jednotky dojde k dočasnému omezení provozu výtahu.",
+        "Text byl věcně správný, přesto obyvatelé domu volali správci s otázkami, kdy výtah nepůjde a zda se bude možné dostat do vyšších pater.",
+        "Oznámení totiž popisovalo příčinu z pohledu technika, nikoli dopad z pohledu člověka, který se potřebuje vrátit domů.",
+        "Změna publika vyžadovala změnu výběru informací, ne změnu skutečnosti."
+      ]
+    },
+    {
+      "text": "Správce proto napsal novou verzi. Začal časovým rozsahem odstávky, potom uvedl, že výtah během této doby nebude možné používat. Teprve následně vysvětlil důvod a přidal kontakt pro lidi, kteří potřebují domluvit pomoc. Nezamlčel technickou příčinu; přesunul ji tam, kde nenarušovala rychlé porozumění. Zároveň se vyhnul formulaci omlouváme se za případné nepohodlí jako jedinému vyjádření dopadu. Pro některé obyvatele totiž nešlo o drobné nepohodlí, ale o skutečnou překážku pohybu.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Správce proto napsal novou verzi.",
+        "Začal časovým rozsahem odstávky, potom uvedl, že výtah během této doby nebude možné používat.",
+        "Teprve následně vysvětlil důvod a přidal kontakt pro lidi, kteří potřebují domluvit pomoc.",
+        "Nezamlčel technickou příčinu; přesunul ji tam, kde nenarušovala rychlé porozumění.",
+        "Zároveň se vyhnul formulaci omlouváme se za případné nepohodlí jako jedinému vyjádření dopadu.",
+        "Pro některé obyvatele totiž nešlo o drobné nepohodlí, ale o skutečnou překážku pohybu."
+      ]
+    },
+    {
+      "text": "Verze určená servisní firmě vypadala jinak. Obsahovala označení zařízení, požadovaný postup kontroly a způsob potvrzení, že je výtah znovu bezpečně uveden do provozu. Tyto údaje by obyvatele při prvním čtení zbytečně zatěžovaly, pro technika však byly nezbytné. Zjednodušit text tedy neznamenalo odstranit odborné výrazy ze všech verzí. Znamenalo to vybrat takovou míru přesnosti a podrobnosti, která adresátovi umožní vykonat jeho část úkolu.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Verze určená servisní firmě vypadala jinak.",
+        "Obsahovala označení zařízení, požadovaný postup kontroly a způsob potvrzení, že je výtah znovu bezpečně uveden do provozu.",
+        "Tyto údaje by obyvatele při prvním čtení zbytečně zatěžovaly, pro technika však byly nezbytné.",
+        "Zjednodušit text tedy neznamenalo odstranit odborné výrazy ze všech verzí.",
+        "Znamenalo to vybrat takovou míru přesnosti a podrobnosti, která adresátovi umožní vykonat jeho část úkolu."
+      ]
+    },
+    {
+      "text": "Třetí text směřoval k partnerovi, který v domě pořádal veřejnou akci. Zde bylo třeba zdůraznit důsledek pro návštěvníky a vyžádat si potvrzení upravených organizačních opatření. Pouhé přeposlání technického oznámení by přeneslo práci s výkladem na člověka, který nemusí znát uspořádání budovy. Správce proto navrhl konkrétní krok: informovat účastníky a ověřit, zda někdo potřebuje bezbariérový přístup. Nemohl však bez dohody slíbit náhradní řešení, které dosud nebylo zajištěno.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Třetí text směřoval k partnerovi, který v domě pořádal veřejnou akci.",
+        "Zde bylo třeba zdůraznit důsledek pro návštěvníky a vyžádat si potvrzení upravených organizačních opatření.",
+        "Pouhé přeposlání technického oznámení by přeneslo práci s výkladem na člověka, který nemusí znát uspořádání budovy.",
+        "Správce proto navrhl konkrétní krok: informovat účastníky a ověřit, zda někdo potřebuje bezbariérový přístup.",
+        "Nemohl však bez dohody slíbit náhradní řešení, které dosud nebylo zajištěno."
+      ]
+    },
+    {
+      "text": "Při porovnání verzí tým kontroloval, zda zůstaly stejné základní údaje: rozsah omezení, míra jistoty, odpovědnost a další postup. V jedné původní úpravě se totiž věta předpokládáme ukončení odpoledne změnila na provoz bude odpoledne obnoven. Stylové uhlazení tak nepozorovaně odstranilo nejistotu. Přizpůsobení publiku smí měnit pořadí, slovní zásobu i délku vět, nemělo by však z odhadu vytvořit záruku nebo z doporučení povinnost, pokud pro to není jiný podklad.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Při porovnání verzí tým kontroloval, zda zůstaly stejné základní údaje: rozsah omezení, míra jistoty, odpovědnost a další postup.",
+        "V jedné původní úpravě se totiž věta předpokládáme ukončení odpoledne změnila na provoz bude odpoledne obnoven.",
+        "Stylové uhlazení tak nepozorovaně odstranilo nejistotu.",
+        "Přizpůsobení publiku smí měnit pořadí, slovní zásobu i délku vět, nemělo by však z odhadu vytvořit záruku nebo z doporučení povinnost, pokud pro to není jiný podklad."
+      ]
+    },
+    {
+      "text": "V neformální zprávě sousedovi lze napsat, že výtah bude chvíli mimo provoz, pokud oba znají přesný čas z jiného zdroje. V samostatném veřejném oznámení by slovo chvíli bylo nedostatečné. Vhodnost výrazu tedy nezávisí jen na tom, zda je spisovný nebo hovorový. Rozhoduje také sdílené vědění, účel textu a možnost následně se doptat. Osobní rozhovor snese některé zkratky, které by na nástěnce zanechaly všechny ostatní bez odpovědi.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "V neformální zprávě sousedovi lze napsat, že výtah bude chvíli mimo provoz, pokud oba znají přesný čas z jiného zdroje.",
+        "V samostatném veřejném oznámení by slovo chvíli bylo nedostatečné.",
+        "Vhodnost výrazu tedy nezávisí jen na tom, zda je spisovný nebo hovorový.",
+        "Rozhoduje také sdílené vědění, účel textu a možnost následně se doptat.",
+        "Osobní rozhovor snese některé zkratky, které by na nástěnce zanechaly všechny ostatní bez odpovědi."
+      ]
+    },
+    {
+      "text": "Výsledkem nebyl jeden dokonalý text použitelný všude, ale sada vzájemně souladných sdělení. Každé začínalo informací, kterou příslušný čtenář potřeboval nejdříve, a každé dovolovalo dohledat další podrobnosti. To je podstatou odpovědné adaptace: ušetřit druhému člověku zbytečné luštění, aniž bychom mu vzali údaje nutné k vlastnímu rozhodnutí. Srozumitelnost přestává být pouhou zdvořilostí a stává se součástí skutečně funkční služby.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Výsledkem nebyl jeden dokonalý text použitelný všude, ale sada vzájemně souladných sdělení.",
+        "Každé začínalo informací, kterou příslušný čtenář potřeboval nejdříve, a každé dovolovalo dohledat další podrobnosti.",
+        "To je podstatou odpovědné adaptace: ušetřit druhému člověku zbytečné luštění, aniž bychom mu vzali údaje nutné k vlastnímu rozhodnutí.",
+        "Srozumitelnost přestává být pouhou zdvořilostí a stává se součástí skutečně funkční služby."
+      ]
+    }
+  ],
+  "text_sha256": "c0ed779ef032dba11314b35a2afa283505a2ef2f5ec363f129287e38b5a553f2",
+  "source_file": "content/lessons/C1/C1-U07-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U07-L01--2026.10.22.1--text--c0ed779ef0--normal.mp3",
+  "slow_file": "content/audio/files/C1-U07-L01--2026.10.22.1--text--c0ed779ef0--slow.mp3",
+  "duration_seconds": 288.7822675736961,
+  "slow_duration_seconds": 325.21437641723355,
+  "cues": [
+    {
+      "text": "Technické oddělení připravilo oznámení, že v důsledku plánované aktualizace řídicí jednotky dojde k dočasnému omezení provozu výtahu. Text byl věcně správný, přesto obyvatelé domu volali správci s otázkami, kdy výtah nepůjde a zda se bude možné dostat do vyšších pater. Oznámení totiž popisovalo příčinu z pohledu technika, nikoli dopad z pohledu člověka, který se potřebuje vrátit domů. Změna publika vyžadovala změnu výběru informací, ne změnu skutečnosti.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Technické oddělení připravilo oznámení, že v důsledku plánované aktualizace řídicí jednotky dojde k dočasnému omezení provozu výtahu.",
+        "Text byl věcně správný, přesto obyvatelé domu volali správci s otázkami, kdy výtah nepůjde a zda se bude možné dostat do vyšších pater.",
+        "Oznámení totiž popisovalo příčinu z pohledu technika, nikoli dopad z pohledu člověka, který se potřebuje vrátit domů.",
+        "Změna publika vyžadovala změnu výběru informací, ne změnu skutečnosti."
+      ],
+      "start": 0.0,
+      "end": 40.919501133786845,
+      "sentences": [
+        {
+          "text": "Technické oddělení připravilo oznámení, že v důsledku plánované aktualizace řídicí jednotky dojde k dočasnému omezení provozu výtahu.",
+          "start": 0.0,
+          "end": 11.470657596371883,
+          "slow_start": 0.0,
+          "slow_end": 12.770975056689343
+        },
+        {
+          "text": "Text byl věcně správný, přesto obyvatelé domu volali správci s otázkami, kdy výtah nepůjde a zda se bude možné dostat do vyšších pater.",
+          "start": 11.650657596371882,
+          "end": 23.44639455782313,
+          "slow_start": 12.950975056689343,
+          "slow_end": 26.453378684807255
+        },
+        {
+          "text": "Oznámení totiž popisovalo příčinu z pohledu technika, nikoli dopad z pohledu člověka, který se potřebuje vrátit domů.",
+          "start": 23.62639455782313,
+          "end": 33.92444444444445,
+          "slow_start": 26.633378684807255,
+          "slow_end": 38.278185941043084
+        },
+        {
+          "text": "Změna publika vyžadovala změnu výběru informací, ne změnu skutečnosti.",
+          "start": 34.10444444444445,
+          "end": 40.919501133786845,
+          "slow_start": 38.458185941043084,
+          "slow_end": 46.16721088435374
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 46.16721088435374
+    },
+    {
+      "text": "Správce proto napsal novou verzi. Začal časovým rozsahem odstávky, potom uvedl, že výtah během této doby nebude možné používat. Teprve následně vysvětlil důvod a přidal kontakt pro lidi, kteří potřebují domluvit pomoc. Nezamlčel technickou příčinu; přesunul ji tam, kde nenarušovala rychlé porozumění. Zároveň se vyhnul formulaci omlouváme se za případné nepohodlí jako jedinému vyjádření dopadu. Pro některé obyvatele totiž nešlo o drobné nepohodlí, ale o skutečnou překážku pohybu.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Správce proto napsal novou verzi.",
+        "Začal časovým rozsahem odstávky, potom uvedl, že výtah během této doby nebude možné používat.",
+        "Teprve následně vysvětlil důvod a přidal kontakt pro lidi, kteří potřebují domluvit pomoc.",
+        "Nezamlčel technickou příčinu; přesunul ji tam, kde nenarušovala rychlé porozumění.",
+        "Zároveň se vyhnul formulaci omlouváme se za případné nepohodlí jako jedinému vyjádření dopadu.",
+        "Pro některé obyvatele totiž nešlo o drobné nepohodlí, ale o skutečnou překážku pohybu."
+      ],
+      "start": 41.099501133786845,
+      "end": 85.06090702947846,
+      "sentences": [
+        {
+          "text": "Správce proto napsal novou verzi.",
+          "start": 41.099501133786845,
+          "end": 44.08326530612245,
+          "slow_start": 46.34721088435374,
+          "slow_end": 49.60961451247166
+        },
+        {
+          "text": "Začal časovým rozsahem odstávky, potom uvedl, že výtah během této doby nebude možné používat.",
+          "start": 44.26326530612245,
+          "end": 53.88793650793651,
+          "slow_start": 49.78961451247166,
+          "slow_end": 60.67977324263038
+        },
+        {
+          "text": "Teprve následně vysvětlil důvod a přidal kontakt pro lidi, kteří potřebují domluvit pomoc.",
+          "start": 54.06793650793651,
+          "end": 61.68408163265306,
+          "slow_start": 60.85977324263038,
+          "slow_end": 69.09124716553288
+        },
+        {
+          "text": "Nezamlčel technickou příčinu; přesunul ji tam, kde nenarušovala rychlé porozumění.",
+          "start": 61.86408163265306,
+          "end": 69.27124716553288,
+          "slow_start": 69.27124716553288,
+          "slow_end": 77.73492063492064
+        },
+        {
+          "text": "Zároveň se vyhnul formulaci omlouváme se za případné nepohodlí jako jedinému vyjádření dopadu.",
+          "start": 69.45124716553288,
+          "end": 77.75238095238095,
+          "slow_start": 77.91492063492063,
+          "slow_end": 87.12163265306123
+        },
+        {
+          "text": "Pro některé obyvatele totiž nešlo o drobné nepohodlí, ale o skutečnou překážku pohybu.",
+          "start": 77.93238095238095,
+          "end": 85.06090702947846,
+          "slow_start": 87.30163265306122,
+          "slow_end": 95.17319727891156
+        }
+      ],
+      "slow_start": 46.34721088435374,
+      "slow_end": 95.17319727891156
+    },
+    {
+      "text": "Verze určená servisní firmě vypadala jinak. Obsahovala označení zařízení, požadovaný postup kontroly a způsob potvrzení, že je výtah znovu bezpečně uveden do provozu. Tyto údaje by obyvatele při prvním čtení zbytečně zatěžovaly, pro technika však byly nezbytné. Zjednodušit text tedy neznamenalo odstranit odborné výrazy ze všech verzí. Znamenalo to vybrat takovou míru přesnosti a podrobnosti, která adresátovi umožní vykonat jeho část úkolu.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Verze určená servisní firmě vypadala jinak.",
+        "Obsahovala označení zařízení, požadovaný postup kontroly a způsob potvrzení, že je výtah znovu bezpečně uveden do provozu.",
+        "Tyto údaje by obyvatele při prvním čtení zbytečně zatěžovaly, pro technika však byly nezbytné.",
+        "Zjednodušit text tedy neznamenalo odstranit odborné výrazy ze všech verzí.",
+        "Znamenalo to vybrat takovou míru přesnosti a podrobnosti, která adresátovi umožní vykonat jeho část úkolu."
+      ],
+      "start": 85.24090702947846,
+      "end": 124.62213151927438,
+      "sentences": [
+        {
+          "text": "Verze určená servisní firmě vypadala jinak.",
+          "start": 85.24090702947846,
+          "end": 89.0257596371882,
+          "slow_start": 95.35319727891157,
+          "slow_end": 99.57922902494332
+        },
+        {
+          "text": "Obsahovala označení zařízení, požadovaný postup kontroly a způsob potvrzení, že je výtah znovu bezpečně uveden do provozu.",
+          "start": 89.20575963718821,
+          "end": 99.70117913832199,
+          "slow_start": 99.75922902494331,
+          "slow_end": 111.76394557823129
+        },
+        {
+          "text": "Tyto údaje by obyvatele při prvním čtení zbytečně zatěžovaly, pro technika však byly nezbytné.",
+          "start": 99.881179138322,
+          "end": 108.04299319727892,
+          "slow_start": 111.9439455782313,
+          "slow_end": 121.13904761904762
+        },
+        {
+          "text": "Zjednodušit text tedy neznamenalo odstranit odborné výrazy ze všech verzí.",
+          "start": 108.22299319727891,
+          "end": 114.14408163265306,
+          "slow_start": 121.31904761904762,
+          "slow_end": 127.9831746031746
+        },
+        {
+          "text": "Znamenalo to vybrat takovou míru přesnosti a podrobnosti, která adresátovi umožní vykonat jeho část úkolu.",
+          "start": 114.32408163265306,
+          "end": 124.62213151927438,
+          "slow_start": 128.1631746031746,
+          "slow_end": 139.6918820861678
+        }
+      ],
+      "slow_start": 95.35319727891157,
+      "slow_end": 139.6918820861678
+    },
+    {
+      "text": "Třetí text směřoval k partnerovi, který v domě pořádal veřejnou akci. Zde bylo třeba zdůraznit důsledek pro návštěvníky a vyžádat si potvrzení upravených organizačních opatření. Pouhé přeposlání technického oznámení by přeneslo práci s výkladem na člověka, který nemusí znát uspořádání budovy. Správce proto navrhl konkrétní krok: informovat účastníky a ověřit, zda někdo potřebuje bezbariérový přístup. Nemohl však bez dohody slíbit náhradní řešení, které dosud nebylo zajištěno.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Třetí text směřoval k partnerovi, který v domě pořádal veřejnou akci.",
+        "Zde bylo třeba zdůraznit důsledek pro návštěvníky a vyžádat si potvrzení upravených organizačních opatření.",
+        "Pouhé přeposlání technického oznámení by přeneslo práci s výkladem na člověka, který nemusí znát uspořádání budovy.",
+        "Správce proto navrhl konkrétní krok: informovat účastníky a ověřit, zda někdo potřebuje bezbariérový přístup.",
+        "Nemohl však bez dohody slíbit náhradní řešení, které dosud nebylo zajištěno."
+      ],
+      "start": 124.80213151927438,
+      "end": 168.11913832199548,
+      "sentences": [
+        {
+          "text": "Třetí text směřoval k partnerovi, který v domě pořádal veřejnou akci.",
+          "start": 124.80213151927438,
+          "end": 130.8509297052154,
+          "slow_start": 139.8718820861678,
+          "slow_end": 146.75659863945577
+        },
+        {
+          "text": "Zde bylo třeba zdůraznit důsledek pro návštěvníky a vyžádat si potvrzení upravených organizačních opatření.",
+          "start": 131.0309297052154,
+          "end": 140.06349206349208,
+          "slow_start": 146.93659863945578,
+          "slow_end": 157.2346485260771
+        },
+        {
+          "text": "Pouhé přeposlání technického oznámení by přeneslo práci s výkladem na člověka, který nemusí znát uspořádání budovy.",
+          "start": 140.24349206349206,
+          "end": 150.878231292517,
+          "slow_start": 157.4146485260771,
+          "slow_end": 169.50063492063492
+        },
+        {
+          "text": "Správce proto navrhl konkrétní krok: informovat účastníky a ověřit, zda někdo potřebuje bezbariérový přístup.",
+          "start": 151.058231292517,
+          "end": 161.34467120181407,
+          "slow_start": 169.68063492063493,
+          "slow_end": 181.00036281179138
+        },
+        {
+          "text": "Nemohl však bez dohody slíbit náhradní řešení, které dosud nebylo zajištěno.",
+          "start": 161.52467120181407,
+          "end": 168.11913832199548,
+          "slow_start": 181.18036281179138,
+          "slow_end": 188.84294784580499
+        }
+      ],
+      "slow_start": 139.8718820861678,
+      "slow_end": 188.84294784580499
+    },
+    {
+      "text": "Při porovnání verzí tým kontroloval, zda zůstaly stejné základní údaje: rozsah omezení, míra jistoty, odpovědnost a další postup. V jedné původní úpravě se totiž věta předpokládáme ukončení odpoledne změnila na provoz bude odpoledne obnoven. Stylové uhlazení tak nepozorovaně odstranilo nejistotu. Přizpůsobení publiku smí měnit pořadí, slovní zásobu i délku vět, nemělo by však z odhadu vytvořit záruku nebo z doporučení povinnost, pokud pro to není jiný podklad.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Při porovnání verzí tým kontroloval, zda zůstaly stejné základní údaje: rozsah omezení, míra jistoty, odpovědnost a další postup.",
+        "V jedné původní úpravě se totiž věta předpokládáme ukončení odpoledne změnila na provoz bude odpoledne obnoven.",
+        "Stylové uhlazení tak nepozorovaně odstranilo nejistotu.",
+        "Přizpůsobení publiku smí měnit pořadí, slovní zásobu i délku vět, nemělo by však z odhadu vytvořit záruku nebo z doporučení povinnost, pokud pro to není jiný podklad."
+      ],
+      "start": 168.29913832199546,
+      "end": 210.5770068027211,
+      "sentences": [
+        {
+          "text": "Při porovnání verzí tým kontroloval, zda zůstaly stejné základní údaje: rozsah omezení, míra jistoty, odpovědnost a další postup.",
+          "start": 168.29913832199546,
+          "end": 180.6637641723356,
+          "slow_start": 189.022947845805,
+          "slow_end": 202.81560090702948
+        },
+        {
+          "text": "V jedné původní úpravě se totiž věta předpokládáme ukončení odpoledne změnila na provoz bude odpoledne obnoven.",
+          "start": 180.8437641723356,
+          "end": 190.09691609977324,
+          "slow_start": 202.99560090702948,
+          "slow_end": 213.67678004535148
+        },
+        {
+          "text": "Stylové uhlazení tak nepozorovaně odstranilo nejistotu.",
+          "start": 190.27691609977325,
+          "end": 195.1298866213152,
+          "slow_start": 213.85678004535148,
+          "slow_end": 219.33668934240362
+        },
+        {
+          "text": "Přizpůsobení publiku smí měnit pořadí, slovní zásobu i délku vět, nemělo by však z odhadu vytvořit záruku nebo z doporučení povinnost, pokud pro to není jiný podklad.",
+          "start": 195.3098866213152,
+          "end": 210.5770068027211,
+          "slow_start": 219.51668934240362,
+          "slow_end": 236.93165532879817
+        }
+      ],
+      "slow_start": 189.022947845805,
+      "slow_end": 236.93165532879817
+    },
+    {
+      "text": "V neformální zprávě sousedovi lze napsat, že výtah bude chvíli mimo provoz, pokud oba znají přesný čas z jiného zdroje. V samostatném veřejném oznámení by slovo chvíli bylo nedostatečné. Vhodnost výrazu tedy nezávisí jen na tom, zda je spisovný nebo hovorový. Rozhoduje také sdílené vědění, účel textu a možnost následně se doptat. Osobní rozhovor snese některé zkratky, které by na nástěnce zanechaly všechny ostatní bez odpovědi.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "V neformální zprávě sousedovi lze napsat, že výtah bude chvíli mimo provoz, pokud oba znají přesný čas z jiného zdroje.",
+        "V samostatném veřejném oznámení by slovo chvíli bylo nedostatečné.",
+        "Vhodnost výrazu tedy nezávisí jen na tom, zda je spisovný nebo hovorový.",
+        "Rozhoduje také sdílené vědění, účel textu a možnost následně se doptat.",
+        "Osobní rozhovor snese některé zkratky, které by na nástěnce zanechaly všechny ostatní bez odpovědi."
+      ],
+      "start": 210.7570068027211,
+      "end": 249.27909297052153,
+      "sentences": [
+        {
+          "text": "V neformální zprávě sousedovi lze napsat, že výtah bude chvíli mimo provoz, pokud oba znají přesný čas z jiného zdroje.",
+          "start": 210.7570068027211,
+          "end": 221.78648526077097,
+          "slow_start": 237.11165532879818,
+          "slow_end": 249.59238095238095
+        },
+        {
+          "text": "V samostatném veřejném oznámení by slovo chvíli bylo nedostatečné.",
+          "start": 221.96648526077098,
+          "end": 227.84113378684808,
+          "slow_start": 249.77238095238096,
+          "slow_end": 256.3320181405896
+        },
+        {
+          "text": "Vhodnost výrazu tedy nezávisí jen na tom, zda je spisovný nebo hovorový.",
+          "start": 228.02113378684808,
+          "end": 234.33696145124716,
+          "slow_start": 256.5120181405896,
+          "slow_end": 263.8843537414966
+        },
+        {
+          "text": "Rozhoduje také sdílené vědění, účel textu a možnost následně se doptat.",
+          "start": 234.51696145124717,
+          "end": 241.1926984126984,
+          "slow_start": 264.0643537414966,
+          "slow_end": 271.80820861678006
+        },
+        {
+          "text": "Osobní rozhovor snese některé zkratky, které by na nástěnce zanechaly všechny ostatní bez odpovědi.",
+          "start": 241.3726984126984,
+          "end": 249.27909297052153,
+          "slow_start": 271.98820861678007,
+          "slow_end": 280.7885714285714
+        }
+      ],
+      "slow_start": 237.11165532879818,
+      "slow_end": 280.7885714285714
+    },
+    {
+      "text": "Výsledkem nebyl jeden dokonalý text použitelný všude, ale sada vzájemně souladných sdělení. Každé začínalo informací, kterou příslušný čtenář potřeboval nejdříve, a každé dovolovalo dohledat další podrobnosti. To je podstatou odpovědné adaptace: ušetřit druhému člověku zbytečné luštění, aniž bychom mu vzali údaje nutné k vlastnímu rozhodnutí. Srozumitelnost přestává být pouhou zdvořilostí a stává se součástí skutečně funkční služby.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Výsledkem nebyl jeden dokonalý text použitelný všude, ale sada vzájemně souladných sdělení.",
+        "Každé začínalo informací, kterou příslušný čtenář potřeboval nejdříve, a každé dovolovalo dohledat další podrobnosti.",
+        "To je podstatou odpovědné adaptace: ušetřit druhému člověku zbytečné luštění, aniž bychom mu vzali údaje nutné k vlastnímu rozhodnutí.",
+        "Srozumitelnost přestává být pouhou zdvořilostí a stává se součástí skutečně funkční služby."
+      ],
+      "start": 249.45909297052154,
+      "end": 288.60226757369617,
+      "sentences": [
+        {
+          "text": "Výsledkem nebyl jeden dokonalý text použitelný všude, ale sada vzájemně souladných sdělení.",
+          "start": 249.45909297052154,
+          "end": 257.19133786848073,
+          "slow_start": 280.9685714285714,
+          "slow_end": 289.5483446712018
+        },
+        {
+          "text": "Každé začínalo informací, kterou příslušný čtenář potřeboval nejdříve, a každé dovolovalo dohledat další podrobnosti.",
+          "start": 257.37133786848074,
+          "end": 268.20344671201815,
+          "slow_start": 289.7283446712018,
+          "slow_end": 301.8839909297052
+        },
+        {
+          "text": "To je podstatou odpovědné adaptace: ušetřit druhému člověku zbytečné luštění, aniž bychom mu vzali údaje nutné k vlastnímu rozhodnutí.",
+          "start": 268.38344671201816,
+          "end": 279.9585941043084,
+          "slow_start": 302.0639909297052,
+          "slow_end": 315.252925170068
+        },
+        {
+          "text": "Srozumitelnost přestává být pouhou zdvořilostí a stává se součástí skutečně funkční služby.",
+          "start": 280.13859410430837,
+          "end": 288.60226757369617,
+          "slow_start": 315.432925170068,
+          "slow_end": 325.03437641723355
+        }
+      ],
+      "slow_start": 280.9685714285714,
+      "slow_end": 325.03437641723355
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "8d8b455a71ad50b88c013c6a5b49eaac546c5bfef76c2d2e6fb33fdf6cf0b14e",
+    "slow": "462f082362e30c00c6cf0439f5ce8a678e579acc8b32091a2328fcc24ed7f522"
+  }
+}

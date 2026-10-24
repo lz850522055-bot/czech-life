@@ -1,0 +1,173 @@
+{
+  "id": "C1-U09-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "C1-U09-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Přísloví shrnuje zkušenost.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Přísloví shrnuje zkušenost."
+      ]
+    },
+    {
+      "text": "Narážce jsem nerozuměl.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Narážce jsem nerozuměl."
+      ]
+    },
+    {
+      "text": "Nálepka nevysvětluje situaci.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Nálepka nevysvětluje situaci."
+      ]
+    },
+    {
+      "text": "Doslovný překlad nestačí.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Doslovný překlad nestačí."
+      ]
+    },
+    {
+      "text": "Výrok vybízí k opatrnosti.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Výrok vybízí k opatrnosti."
+      ]
+    }
+  ],
+  "text_sha256": "313ac6e1ce9294ee41af66d9c86d8061514aa19ef3b7d9de42a2cc070cbaf79b",
+  "source_file": "content/lessons/C1/C1-U09-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U09-L01--2026.10.22.1--vocabulary--313ac6e1ce--normal.mp3",
+  "slow_file": "content/audio/files/C1-U09-L01--2026.10.22.1--vocabulary--313ac6e1ce--slow.mp3",
+  "duration_seconds": 13.427165532879819,
+  "slow_duration_seconds": 15.029342403628117,
+  "cues": [
+    {
+      "text": "Přísloví shrnuje zkušenost.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Přísloví shrnuje zkušenost."
+      ],
+      "start": 0.0,
+      "end": 2.4380952380952383,
+      "sentences": [
+        {
+          "text": "Přísloví shrnuje zkušenost.",
+          "start": 0.0,
+          "end": 2.4380952380952383,
+          "slow_start": 0.0,
+          "slow_end": 2.670294784580499
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.670294784580499
+    },
+    {
+      "text": "Narážce jsem nerozuměl.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Narážce jsem nerozuměl."
+      ],
+      "start": 2.618095238095238,
+      "end": 5.079410430839002,
+      "sentences": [
+        {
+          "text": "Narážce jsem nerozuměl.",
+          "start": 2.618095238095238,
+          "end": 5.079410430839002,
+          "slow_start": 2.8502947845804987,
+          "slow_end": 5.625079365079365
+        }
+      ],
+      "slow_start": 2.8502947845804987,
+      "slow_end": 5.625079365079365
+    },
+    {
+      "text": "Nálepka nevysvětluje situaci.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Nálepka nevysvětluje situaci."
+      ],
+      "start": 5.259410430839003,
+      "end": 7.860045351473923,
+      "sentences": [
+        {
+          "text": "Nálepka nevysvětluje situaci.",
+          "start": 5.259410430839003,
+          "end": 7.860045351473923,
+          "slow_start": 5.805079365079365,
+          "slow_end": 8.91655328798186
+        }
+      ],
+      "slow_start": 5.805079365079365,
+      "slow_end": 8.91655328798186
+    },
+    {
+      "text": "Doslovný překlad nestačí.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Doslovný překlad nestačí."
+      ],
+      "start": 8.040045351473923,
+      "end": 10.571020408163266,
+      "sentences": [
+        {
+          "text": "Doslovný překlad nestačí.",
+          "start": 8.040045351473923,
+          "end": 10.571020408163266,
+          "slow_start": 9.096553287981859,
+          "slow_end": 11.906167800453515
+        }
+      ],
+      "slow_start": 9.096553287981859,
+      "slow_end": 11.906167800453515
+    },
+    {
+      "text": "Výrok vybízí k opatrnosti.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Výrok vybízí k opatrnosti."
+      ],
+      "start": 10.751020408163265,
+      "end": 13.24716553287982,
+      "sentences": [
+        {
+          "text": "Výrok vybízí k opatrnosti.",
+          "start": 10.751020408163265,
+          "end": 13.24716553287982,
+          "slow_start": 12.086167800453515,
+          "slow_end": 14.849342403628118
+        }
+      ],
+      "slow_start": 12.086167800453515,
+      "slow_end": 14.849342403628118
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "5d0c025de43e2efd86629aa2012f23a42d2aa11fae053edf65c523c55b1abf8b",
+    "slow": "454f43a2b0d2f75b5252821f86397a863cab5efb931bacf5b5f106bd1691c846"
+  }
+}

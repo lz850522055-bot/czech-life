@@ -1,0 +1,241 @@
+{
+  "unseen_text": [
+    {
+      "cs": "Muzeum potvrzuje skupině vstup v devět. Veřejnost může vstupovat až od deseti. Průvodce ale onemocněl a náhradníka muzeum teprve hledá. Skupina může přijít v devět i bez komentované prohlídky.",
+      "zh": "博物馆确认团体九点进入，公众十点才开放。导游病了正在找替代者，团体没有导览也可九点入场。",
+      "note_zh": ""
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "当前真正不确定哪项？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "团体能否九点进"
+        },
+        {
+          "id": "b",
+          "text": "是否有导览讲解"
+        },
+        {
+          "id": "c",
+          "text": "公众十点开放"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "入口时间和导览服务分开。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U14-CHECK-E01",
+      "knowledge_points": [
+        "integrated-scope",
+        "evidence-based-review"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "填“仍然”的副词。",
+      "stimulus_cs": "Skupinový vstup v devět ___ platí.",
+      "answer": "stále",
+      "accepted_answers": [
+        "stále",
+        "pořád"
+      ],
+      "explanation_zh": "时间没变。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "meaning",
+      "id": "B1-U14-CHECK-E02",
+      "knowledge_points": [
+        "integrated-scope",
+        "evidence-based-review"
+      ]
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "致电确认导览替补何时能知道，若没有应如何调整。",
+      "stimulus_cs": "",
+      "answer": "Děkuji za potvrzení vstupu v devět. Kdy budeme vědět, zda zajistíte náhradního průvodce? Pokud nebude k dispozici, můžeme dostat materiály pro samostatnou návštěvu?",
+      "accepted_answers": [],
+      "explanation_zh": "只追问未定项并提替代请求。",
+      "rubric": [
+        "已定未定分开",
+        "时间追问",
+        "替代方案为请求"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "error_category": "fluency",
+      "id": "B1-U14-CHECK-E03",
+      "knowledge_points": [
+        "integrated-scope",
+        "evidence-based-review"
+      ]
+    }
+  ],
+  "id": "B1-U14-CHECK",
+  "kind": "unit",
+  "level": "B1",
+  "unit_id": "B1-U14",
+  "title_zh": "综合表达及补弱测评：换场景检验",
+  "version": "2026.10.22.1",
+  "rubric": [
+    "关键信息准确且没有添加原文没有的信息",
+    "能使用本单元规律完成新情境",
+    "输出能让对方采取下一步行动"
+  ],
+  "remediation": [
+    {
+      "condition_zh": "理解遗漏或把推测说成事实",
+      "lesson_ids": [
+        "B1-U14-L01"
+      ],
+      "action_zh": "对照逐段译文，重新提取人物、限制和下一步。"
+    },
+    {
+      "condition_zh": "表达需要提示或形式反复出错",
+      "lesson_ids": [
+        "B1-U14-L01"
+      ],
+      "action_zh": "复看规律卡后更换人物、时间与限制条件，延后独立重做。"
+    }
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "B1-U14-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U14-CHECK--2026.10.22.1--text--bf2f6a4b95--normal.mp3",
+      "slow_file": "audio/files/B1-U14-CHECK--2026.10.22.1--text--bf2f6a4b95--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U14-CHECK--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Muzeum potvrzuje skupině vstup v devět. Veřejnost může vstupovat až od deseti. Průvodce ale onemocněl a náhradníka muzeum teprve hledá. Skupina může přijít v devět i bez komentované prohlídky.",
+      "duration_seconds": 17.775056689342403,
+      "slow_duration_seconds": 20.08544217687075,
+      "sha256": "2235435c24159c3b2112b370e2c16f700ab280e1b7b151fdeb8867f291be86a5",
+      "slow_sha256": "c27a778c7f56d41e31a824a3c1f863d1bcd323f3d662b0ac7762186f90330021"
+    },
+    {
+      "lesson_id": "B1-U14-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U14-CHECK--2026.10.22.1--text--bf2f6a4b95--normal.mp3",
+      "slow_file": "audio/files/B1-U14-CHECK--2026.10.22.1--text--bf2f6a4b95--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U14-CHECK--2026.10.22.1--text--p0",
+      "asset_id": "B1-U14-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Muzeum potvrzuje skupině vstup v devět. Veřejnost může vstupovat až od deseti. Průvodce ale onemocněl a náhradníka muzeum teprve hledá. Skupina může přijít v devět i bez komentované prohlídky.",
+      "start": 0,
+      "end": 17.595056689342403,
+      "slow_start": 0,
+      "slow_end": 19.90544217687075
+    },
+    {
+      "lesson_id": "B1-U14-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U14-CHECK--2026.10.22.1--text--bf2f6a4b95--normal.mp3",
+      "slow_file": "audio/files/B1-U14-CHECK--2026.10.22.1--text--bf2f6a4b95--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U14-CHECK--2026.10.22.1--text--s0",
+      "asset_id": "B1-U14-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Muzeum potvrzuje skupině vstup v devět.",
+      "start": 0,
+      "end": 3.436553287981859,
+      "slow_start": 0,
+      "slow_end": 3.947392290249433
+    },
+    {
+      "lesson_id": "B1-U14-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U14-CHECK--2026.10.22.1--text--bf2f6a4b95--normal.mp3",
+      "slow_file": "audio/files/B1-U14-CHECK--2026.10.22.1--text--bf2f6a4b95--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U14-CHECK--2026.10.22.1--text--s1",
+      "asset_id": "B1-U14-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Veřejnost může vstupovat až od deseti.",
+      "start": 3.6165532879818594,
+      "end": 7.204036281179138,
+      "slow_start": 4.127392290249433,
+      "slow_end": 8.086394557823128
+    },
+    {
+      "lesson_id": "B1-U14-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U14-CHECK--2026.10.22.1--text--bf2f6a4b95--normal.mp3",
+      "slow_file": "audio/files/B1-U14-CHECK--2026.10.22.1--text--bf2f6a4b95--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U14-CHECK--2026.10.22.1--text--s2",
+      "asset_id": "B1-U14-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Průvodce ale onemocněl a náhradníka muzeum teprve hledá.",
+      "start": 7.384036281179139,
+      "end": 12.43437641723356,
+      "slow_start": 8.26639455782313,
+      "slow_end": 14.059773242630385
+    },
+    {
+      "lesson_id": "B1-U14-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U14-CHECK--2026.10.22.1--text--bf2f6a4b95--normal.mp3",
+      "slow_file": "audio/files/B1-U14-CHECK--2026.10.22.1--text--bf2f6a4b95--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U14-CHECK--2026.10.22.1--text--s3",
+      "asset_id": "B1-U14-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 3,
+      "paragraph_index": 0,
+      "sentence_index": 3,
+      "text": "Skupina může přijít v devět i bez komentované prohlídky.",
+      "start": 12.61437641723356,
+      "end": 17.595056689342403,
+      "slow_start": 14.239773242630385,
+      "slow_end": 19.90544217687075
+    }
+  ]
+}

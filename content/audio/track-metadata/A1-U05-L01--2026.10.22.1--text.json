@@ -1,0 +1,408 @@
+{
+  "id": "A1-U05-L01--2026.10.22.1--text",
+  "lesson_id": "A1-U05-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Dobrý den. Kolik stojí ten hrnek?",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Dobrý den.",
+        "Kolik stojí ten hrnek?"
+      ]
+    },
+    {
+      "text": "Jeden hrnek stojí osmdesát korun. Dva hrnky stojí sto šedesát korun.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Jeden hrnek stojí osmdesát korun.",
+        "Dva hrnky stojí sto šedesát korun."
+      ]
+    },
+    {
+      "text": "A ty malé lžičky? Potřebuju tři kusy.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "A ty malé lžičky?",
+        "Potřebuju tři kusy."
+      ]
+    },
+    {
+      "text": "Jedna lžička stojí dvacet korun. Tři lžičky stojí šedesát.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Jedna lžička stojí dvacet korun.",
+        "Tři lžičky stojí šedesát."
+      ]
+    },
+    {
+      "text": "Dobře. Mám dvě stě korun. Vezmu jeden hrnek a tři lžičky.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Dobře.",
+        "Mám dvě stě korun.",
+        "Vezmu jeden hrnek a tři lžičky."
+      ]
+    },
+    {
+      "text": "To je celkem sto čtyřicet korun. Chcete tašku za pět korun?",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "To je celkem sto čtyřicet korun.",
+        "Chcete tašku za pět korun?"
+      ]
+    },
+    {
+      "text": "Ne, děkuju. Mám vlastní tašku. Platím dvěma sty.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Ne, děkuju.",
+        "Mám vlastní tašku.",
+        "Platím dvěma sty."
+      ]
+    },
+    {
+      "text": "Tady máte šedesát korun zpátky a účtenku.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Tady máte šedesát korun zpátky a účtenku."
+      ]
+    },
+    {
+      "text": "Děkuju. Cena je za kus, ne za celé balení, ano?",
+      "index": 8,
+      "role": "text",
+      "parts": [
+        "Děkuju.",
+        "Cena je za kus, ne za celé balení, ano?"
+      ]
+    },
+    {
+      "text": "Ano, přesně tak.",
+      "index": 9,
+      "role": "text",
+      "parts": [
+        "Ano, přesně tak."
+      ]
+    }
+  ],
+  "text_sha256": "9f3e64dfe5b2b2b691eea49e67ee24a757ce2cf488c946228f8869ebdd22cc39",
+  "source_file": "content/lessons/A1/A1-U05-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U05-L01--2026.10.22.1--text--9f3e64dfe5--normal.mp3",
+  "slow_file": "content/audio/files/A1-U05-L01--2026.10.22.1--text--9f3e64dfe5--slow.mp3",
+  "duration_seconds": 47.71791383219955,
+  "slow_duration_seconds": 54.12662131519274,
+  "cues": [
+    {
+      "text": "Dobrý den. Kolik stojí ten hrnek?",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Dobrý den.",
+        "Kolik stojí ten hrnek?"
+      ],
+      "start": 0.0,
+      "end": 3.407573696145125,
+      "sentences": [
+        {
+          "text": "Dobrý den.",
+          "start": 0.0,
+          "end": 1.1029478458049886,
+          "slow_start": 0.0,
+          "slow_end": 1.2654875283446712
+        },
+        {
+          "text": "Kolik stojí ten hrnek?",
+          "start": 1.2829478458049886,
+          "end": 3.407573696145125,
+          "slow_start": 1.445487528344671,
+          "slow_end": 3.8951927437641722
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 3.8951927437641722
+    },
+    {
+      "text": "Jeden hrnek stojí osmdesát korun. Dva hrnky stojí sto šedesát korun.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Jeden hrnek stojí osmdesát korun.",
+        "Dva hrnky stojí sto šedesát korun."
+      ],
+      "start": 3.5875736961451246,
+      "end": 10.095011337868481,
+      "sentences": [
+        {
+          "text": "Jeden hrnek stojí osmdesát korun.",
+          "start": 3.5875736961451246,
+          "end": 6.710657596371882,
+          "slow_start": 4.075192743764172,
+          "slow_end": 7.674285714285714
+        },
+        {
+          "text": "Dva hrnky stojí sto šedesát korun.",
+          "start": 6.890657596371882,
+          "end": 10.095011337868481,
+          "slow_start": 7.854285714285714,
+          "slow_end": 11.476598639455782
+        }
+      ],
+      "slow_start": 4.075192743764172,
+      "slow_end": 11.476598639455782
+    },
+    {
+      "text": "A ty malé lžičky? Potřebuju tři kusy.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "A ty malé lžičky?",
+        "Potřebuju tři kusy."
+      ],
+      "start": 10.27501133786848,
+      "end": 14.04249433106576,
+      "sentences": [
+        {
+          "text": "A ty malé lžičky?",
+          "start": 10.27501133786848,
+          "end": 12.062947845804988,
+          "slow_start": 11.656598639455781,
+          "slow_end": 13.67673469387755
+        },
+        {
+          "text": "Potřebuju tři kusy.",
+          "start": 12.242947845804988,
+          "end": 14.04249433106576,
+          "slow_start": 13.85673469387755,
+          "slow_end": 15.934920634920635
+        }
+      ],
+      "slow_start": 11.656598639455781,
+      "slow_end": 15.934920634920635
+    },
+    {
+      "text": "Jedna lžička stojí dvacet korun. Tři lžičky stojí šedesát.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Jedna lžička stojí dvacet korun.",
+        "Tři lžičky stojí šedesát."
+      ],
+      "start": 14.222494331065759,
+      "end": 19.95206349206349,
+      "sentences": [
+        {
+          "text": "Jedna lžička stojí dvacet korun.",
+          "start": 14.222494331065759,
+          "end": 17.1946485260771,
+          "slow_start": 16.114920634920637,
+          "slow_end": 19.481814058956918
+        },
+        {
+          "text": "Tři lžičky stojí šedesát.",
+          "start": 17.3746485260771,
+          "end": 19.95206349206349,
+          "slow_start": 19.661814058956917,
+          "slow_end": 22.599138321995465
+        }
+      ],
+      "slow_start": 16.114920634920637,
+      "slow_end": 22.599138321995465
+    },
+    {
+      "text": "Dobře. Mám dvě stě korun. Vezmu jeden hrnek a tři lžičky.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Dobře.",
+        "Mám dvě stě korun.",
+        "Vezmu jeden hrnek a tři lžičky."
+      ],
+      "start": 20.13206349206349,
+      "end": 26.006802721088434,
+      "sentences": [
+        {
+          "text": "Dobře.",
+          "start": 20.13206349206349,
+          "end": 20.89832199546485,
+          "slow_start": 22.779138321995465,
+          "slow_end": 23.615056689342403
+        },
+        {
+          "text": "Mám dvě stě korun.",
+          "start": 21.07832199546485,
+          "end": 22.75015873015873,
+          "slow_start": 23.795056689342402,
+          "slow_end": 25.757142857142856
+        },
+        {
+          "text": "Vezmu jeden hrnek a tři lžičky.",
+          "start": 22.93015873015873,
+          "end": 26.006802721088434,
+          "slow_start": 25.937142857142856,
+          "slow_end": 29.489795918367346
+        }
+      ],
+      "slow_start": 22.779138321995465,
+      "slow_end": 29.489795918367346
+    },
+    {
+      "text": "To je celkem sto čtyřicet korun. Chcete tašku za pět korun?",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "To je celkem sto čtyřicet korun.",
+        "Chcete tašku za pět korun?"
+      ],
+      "start": 26.186802721088437,
+      "end": 31.173333333333332,
+      "sentences": [
+        {
+          "text": "To je celkem sto čtyřicet korun.",
+          "start": 26.186802721088437,
+          "end": 28.938367346938776,
+          "slow_start": 29.669795918367345,
+          "slow_end": 32.85092970521542
+        },
+        {
+          "text": "Chcete tašku za pět korun?",
+          "start": 29.118367346938776,
+          "end": 31.173333333333332,
+          "slow_start": 33.03092970521542,
+          "slow_end": 35.36453514739229
+        }
+      ],
+      "slow_start": 29.669795918367345,
+      "slow_end": 35.36453514739229
+    },
+    {
+      "text": "Ne, děkuju. Mám vlastní tašku. Platím dvěma sty.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Ne, děkuju.",
+        "Mám vlastní tašku.",
+        "Platím dvěma sty."
+      ],
+      "start": 31.35333333333333,
+      "end": 36.717233560090705,
+      "sentences": [
+        {
+          "text": "Ne, děkuju.",
+          "start": 31.35333333333333,
+          "end": 32.57238095238095,
+          "slow_start": 35.54453514739229,
+          "slow_end": 36.92612244897959
+        },
+        {
+          "text": "Mám vlastní tašku.",
+          "start": 32.75238095238095,
+          "end": 34.7492970521542,
+          "slow_start": 37.10612244897959,
+          "slow_end": 39.323628117913835
+        },
+        {
+          "text": "Platím dvěma sty.",
+          "start": 34.9292970521542,
+          "end": 36.717233560090705,
+          "slow_start": 39.503628117913834,
+          "slow_end": 41.51215419501134
+        }
+      ],
+      "slow_start": 35.54453514739229,
+      "slow_end": 41.51215419501134
+    },
+    {
+      "text": "Tady máte šedesát korun zpátky a účtenku.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Tady máte šedesát korun zpátky a účtenku."
+      ],
+      "start": 36.897233560090704,
+      "end": 40.833015873015874,
+      "sentences": [
+        {
+          "text": "Tady máte šedesát korun zpátky a účtenku.",
+          "start": 36.897233560090704,
+          "end": 40.833015873015874,
+          "slow_start": 41.69215419501134,
+          "slow_end": 46.301315192743765
+        }
+      ],
+      "slow_start": 41.69215419501134,
+      "slow_end": 46.301315192743765
+    },
+    {
+      "text": "Děkuju. Cena je za kus, ne za celé balení, ano?",
+      "index": 8,
+      "role": "text",
+      "parts": [
+        "Děkuju.",
+        "Cena je za kus, ne za celé balení, ano?"
+      ],
+      "start": 41.013015873015874,
+      "end": 45.69768707482993,
+      "sentences": [
+        {
+          "text": "Děkuju.",
+          "start": 41.013015873015874,
+          "end": 41.8837641723356,
+          "slow_start": 46.481315192743764,
+          "slow_end": 47.47977324263039
+        },
+        {
+          "text": "Cena je za kus, ne za celé balení, ano?",
+          "start": 42.0637641723356,
+          "end": 45.69768707482993,
+          "slow_start": 47.659773242630386,
+          "slow_end": 51.94385487528345
+        }
+      ],
+      "slow_start": 46.481315192743764,
+      "slow_end": 51.94385487528345
+    },
+    {
+      "text": "Ano, přesně tak.",
+      "index": 9,
+      "role": "text",
+      "parts": [
+        "Ano, přesně tak."
+      ],
+      "start": 45.87768707482993,
+      "end": 47.53791383219955,
+      "sentences": [
+        {
+          "text": "Ano, přesně tak.",
+          "start": 45.87768707482993,
+          "end": 47.53791383219955,
+          "slow_start": 52.12385487528345,
+          "slow_end": 53.94662131519274
+        }
+      ],
+      "slow_start": 52.12385487528345,
+      "slow_end": 53.94662131519274
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "9c086c6d0276918ff01be444c37cd831fca8b5471e4982f3d876d36915d4bef1",
+    "slow": "b36270d61950e27095c2df5b64bd18d25f9ae1b5be2be3dd55e37b75a75d68bc"
+  }
+}

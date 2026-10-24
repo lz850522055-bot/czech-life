@@ -1,0 +1,84 @@
+{
+  "id": "B1-U14-CHECK--2026.10.22.1--text",
+  "lesson_id": "B1-U14-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Muzeum potvrzuje skupině vstup v devět. Veřejnost může vstupovat až od deseti. Průvodce ale onemocněl a náhradníka muzeum teprve hledá. Skupina může přijít v devět i bez komentované prohlídky.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Muzeum potvrzuje skupině vstup v devět.",
+        "Veřejnost může vstupovat až od deseti.",
+        "Průvodce ale onemocněl a náhradníka muzeum teprve hledá.",
+        "Skupina může přijít v devět i bez komentované prohlídky."
+      ]
+    }
+  ],
+  "text_sha256": "bf2f6a4b9529f7041f982452797f20279ef2def6f3516fd4828c009aab27bed6",
+  "source_file": "content/assessments/B1-U14.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U14-CHECK--2026.10.22.1--text--bf2f6a4b95--normal.mp3",
+  "slow_file": "content/audio/files/B1-U14-CHECK--2026.10.22.1--text--bf2f6a4b95--slow.mp3",
+  "duration_seconds": 17.775056689342403,
+  "slow_duration_seconds": 20.08544217687075,
+  "cues": [
+    {
+      "text": "Muzeum potvrzuje skupině vstup v devět. Veřejnost může vstupovat až od deseti. Průvodce ale onemocněl a náhradníka muzeum teprve hledá. Skupina může přijít v devět i bez komentované prohlídky.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Muzeum potvrzuje skupině vstup v devět.",
+        "Veřejnost může vstupovat až od deseti.",
+        "Průvodce ale onemocněl a náhradníka muzeum teprve hledá.",
+        "Skupina může přijít v devět i bez komentované prohlídky."
+      ],
+      "start": 0.0,
+      "end": 17.595056689342403,
+      "sentences": [
+        {
+          "text": "Muzeum potvrzuje skupině vstup v devět.",
+          "start": 0.0,
+          "end": 3.436553287981859,
+          "slow_start": 0.0,
+          "slow_end": 3.947392290249433
+        },
+        {
+          "text": "Veřejnost může vstupovat až od deseti.",
+          "start": 3.6165532879818594,
+          "end": 7.204036281179138,
+          "slow_start": 4.127392290249433,
+          "slow_end": 8.086394557823128
+        },
+        {
+          "text": "Průvodce ale onemocněl a náhradníka muzeum teprve hledá.",
+          "start": 7.384036281179139,
+          "end": 12.43437641723356,
+          "slow_start": 8.26639455782313,
+          "slow_end": 14.059773242630385
+        },
+        {
+          "text": "Skupina může přijít v devět i bez komentované prohlídky.",
+          "start": 12.61437641723356,
+          "end": 17.595056689342403,
+          "slow_start": 14.239773242630385,
+          "slow_end": 19.90544217687075
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 19.90544217687075
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "2235435c24159c3b2112b370e2c16f700ab280e1b7b151fdeb8867f291be86a5",
+    "slow": "c27a778c7f56d41e31a824a3c1f863d1bcd323f3d662b0ac7762186f90330021"
+  }
+}

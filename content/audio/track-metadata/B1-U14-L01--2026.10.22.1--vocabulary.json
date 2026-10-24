@@ -1,0 +1,144 @@
+{
+  "id": "B1-U14-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "B1-U14-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Nejdřív ověříme rozsah změny.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Nejdřív ověříme rozsah změny."
+      ]
+    },
+    {
+      "text": "Rezervace stále platí.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Rezervace stále platí."
+      ]
+    },
+    {
+      "text": "Změna se týká vstupu.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Změna se týká vstupu."
+      ]
+    },
+    {
+      "text": "Technik ověří připojení mikrofonu.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Technik ověří připojení mikrofonu."
+      ]
+    }
+  ],
+  "text_sha256": "287618f451ec57f0978047e14d19508164b61a5ec5bff41f5a48ad58e23dc1da",
+  "source_file": "content/lessons/B1/B1-U14-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U14-L01--2026.10.22.1--vocabulary--287618f451--normal.mp3",
+  "slow_file": "content/audio/files/B1-U14-L01--2026.10.22.1--vocabulary--287618f451--slow.mp3",
+  "duration_seconds": 10.623310657596372,
+  "slow_duration_seconds": 11.99328798185941,
+  "cues": [
+    {
+      "text": "Nejdřív ověříme rozsah změny.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Nejdřív ověříme rozsah změny."
+      ],
+      "start": 0.0,
+      "end": 2.693514739229025,
+      "sentences": [
+        {
+          "text": "Nejdřív ověříme rozsah změny.",
+          "start": 0.0,
+          "end": 2.693514739229025,
+          "slow_start": 0.0,
+          "slow_end": 3.053424036281179
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 3.053424036281179
+    },
+    {
+      "text": "Rezervace stále platí.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Rezervace stále platí."
+      ],
+      "start": 2.873514739229025,
+      "end": 4.928480725623583,
+      "sentences": [
+        {
+          "text": "Rezervace stále platí.",
+          "start": 2.873514739229025,
+          "end": 4.928480725623583,
+          "slow_start": 3.2334240362811792,
+          "slow_end": 5.613469387755102
+        }
+      ],
+      "slow_start": 3.2334240362811792,
+      "slow_end": 5.613469387755102
+    },
+    {
+      "text": "Změna se týká vstupu.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Změna se týká vstupu."
+      ],
+      "start": 5.108480725623583,
+      "end": 7.151836734693878,
+      "sentences": [
+        {
+          "text": "Změna se týká vstupu.",
+          "start": 5.108480725623583,
+          "end": 7.151836734693878,
+          "slow_start": 5.793469387755102,
+          "slow_end": 8.103854875283446
+        }
+      ],
+      "slow_start": 5.793469387755102,
+      "slow_end": 8.103854875283446
+    },
+    {
+      "text": "Technik ověří připojení mikrofonu.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Technik ověří připojení mikrofonu."
+      ],
+      "start": 7.331836734693877,
+      "end": 10.443310657596372,
+      "sentences": [
+        {
+          "text": "Technik ověří připojení mikrofonu.",
+          "start": 7.331836734693877,
+          "end": 10.443310657596372,
+          "slow_start": 8.283854875283447,
+          "slow_end": 11.81328798185941
+        }
+      ],
+      "slow_start": 8.283854875283447,
+      "slow_end": 11.81328798185941
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "a36288990dcdd802735ce84f9446186d65e17975cdc2b5aed842e11cc33d9097",
+    "slow": "d75144829cb180c776267c8c4bf2f4ca89d976cf5c9fabe297f6087f1496f684"
+  }
+}

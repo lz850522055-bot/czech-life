@@ -1,0 +1,57 @@
+{
+  "id": "A1-U03-L01--2026.10.22.1--contrasts",
+  "lesson_id": "A1-U03-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A1",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "mluvím. mluvíme.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "mluvím. mluvíme."
+      ]
+    }
+  ],
+  "text_sha256": "322fb3ef980e2412b5139667bf80ddfde94f9dcec1b282e196486190353fbdb0",
+  "source_file": "content/lessons/A1/A1-U03-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U03-L01--2026.10.22.1--contrasts--322fb3ef98--normal.mp3",
+  "slow_file": "content/audio/files/A1-U03-L01--2026.10.22.1--contrasts--322fb3ef98--slow.mp3",
+  "duration_seconds": 1.8170068027210884,
+  "slow_duration_seconds": 2.0608163265306123,
+  "cues": [
+    {
+      "text": "mluvím. mluvíme.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "mluvím. mluvíme."
+      ],
+      "start": 0.0,
+      "end": 1.6370068027210884,
+      "sentences": [
+        {
+          "text": "mluvím. mluvíme.",
+          "start": 0.0,
+          "end": 1.6370068027210884,
+          "slow_start": 0.0,
+          "slow_end": 1.8808163265306121
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.8808163265306121
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "5534cdcfdbc4f2520f9d0bdeba3b3c1457f40d1050215a54ff6578a6e3d5875e",
+    "slow": "a09bd67434592740623b600ddb9510f0818fa79d49081a82d288bae11bf4f4d3"
+  }
+}

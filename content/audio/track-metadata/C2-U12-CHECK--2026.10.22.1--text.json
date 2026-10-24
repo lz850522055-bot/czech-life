@@ -1,0 +1,66 @@
+{
+  "id": "C2-U12-CHECK--2026.10.22.1--text",
+  "lesson_id": "C2-U12-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "C2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Při přípravě výstavy řemesel byl výrok pamětnice dříve jsme si všechno opravovali sami zkrácen bez pokračování, v němž dodala, že některé věci musel opravovat odborník a na jiné se dlouho čekalo. Popisek pak tvrdil, že minulá generace nikdy nepotřebovala cizí pomoc.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Při přípravě výstavy řemesel byl výrok pamětnice dříve jsme si všechno opravovali sami zkrácen bez pokračování, v němž dodala, že některé věci musel opravovat odborník a na jiné se dlouho čekalo.",
+        "Popisek pak tvrdil, že minulá generace nikdy nepotřebovala cizí pomoc."
+      ]
+    }
+  ],
+  "text_sha256": "15515c57725314a687e816ba58d594f345c02c951683a5075302e9f6eca1e50a",
+  "source_file": "content/assessments/C2-U12.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U12-CHECK--2026.10.22.1--text--15515c5772--normal.mp3",
+  "slow_file": "content/audio/files/C2-U12-CHECK--2026.10.22.1--text--15515c5772--slow.mp3",
+  "duration_seconds": 22.883356009070294,
+  "slow_duration_seconds": 25.600090702947846,
+  "cues": [
+    {
+      "text": "Při přípravě výstavy řemesel byl výrok pamětnice dříve jsme si všechno opravovali sami zkrácen bez pokračování, v němž dodala, že některé věci musel opravovat odborník a na jiné se dlouho čekalo. Popisek pak tvrdil, že minulá generace nikdy nepotřebovala cizí pomoc.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Při přípravě výstavy řemesel byl výrok pamětnice dříve jsme si všechno opravovali sami zkrácen bez pokračování, v němž dodala, že některé věci musel opravovat odborník a na jiné se dlouho čekalo.",
+        "Popisek pak tvrdil, že minulá generace nikdy nepotřebovala cizí pomoc."
+      ],
+      "start": 0.0,
+      "end": 22.703356009070294,
+      "sentences": [
+        {
+          "text": "Při přípravě výstavy řemesel byl výrok pamětnice dříve jsme si všechno opravovali sami zkrácen bez pokračování, v němž dodala, že některé věci musel opravovat odborník a na jiné se dlouho čekalo.",
+          "start": 0.0,
+          "end": 16.4281179138322,
+          "slow_start": 0.0,
+          "slow_end": 18.506303854875284
+        },
+        {
+          "text": "Popisek pak tvrdil, že minulá generace nikdy nepotřebovala cizí pomoc.",
+          "start": 16.6081179138322,
+          "end": 22.703356009070294,
+          "slow_start": 18.686303854875284,
+          "slow_end": 25.420090702947846
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 25.420090702947846
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "96e03b87e236a5659e273cbf28dce6378315e330a6ccf40eb4e395fa64980447",
+    "slow": "1e905341d7e608cf771678214ebc26c6e23f4cc3399beedcde49d6fe178b2d88"
+  }
+}

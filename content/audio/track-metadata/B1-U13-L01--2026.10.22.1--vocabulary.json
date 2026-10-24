@@ -1,0 +1,144 @@
+{
+  "id": "B1-U13-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "B1-U13-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Prodejce potvrdil termín.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Prodejce potvrdil termín."
+      ]
+    },
+    {
+      "text": "V prodejně je několik zákazníků.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "V prodejně je několik zákazníků."
+      ]
+    },
+    {
+      "text": "Ověřte dostupnost výrobku.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Ověřte dostupnost výrobku."
+      ]
+    },
+    {
+      "text": "Nabídka nemusí být výhodná.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Nabídka nemusí být výhodná."
+      ]
+    }
+  ],
+  "text_sha256": "cbbd36f2d263f536563a68579915fd7603166a7529a56bc161ba1fc5cf1b8a76",
+  "source_file": "content/lessons/B1/B1-U13-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U13-L01--2026.10.22.1--vocabulary--cbbd36f2d2--normal.mp3",
+  "slow_file": "content/audio/files/B1-U13-L01--2026.10.22.1--vocabulary--cbbd36f2d2--slow.mp3",
+  "duration_seconds": 11.064489795918368,
+  "slow_duration_seconds": 12.457687074829932,
+  "cues": [
+    {
+      "text": "Prodejce potvrdil termín.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Prodejce potvrdil termín."
+      ],
+      "start": 0.0,
+      "end": 2.182675736961451,
+      "sentences": [
+        {
+          "text": "Prodejce potvrdil termín.",
+          "start": 0.0,
+          "end": 2.182675736961451,
+          "slow_start": 0.0,
+          "slow_end": 2.5193650793650795
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.5193650793650795
+    },
+    {
+      "text": "V prodejně je několik zákazníků.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "V prodejně je několik zákazníků."
+      ],
+      "start": 2.3626757369614513,
+      "end": 5.102630385487529,
+      "sentences": [
+        {
+          "text": "V prodejně je několik zákazníků.",
+          "start": 2.3626757369614513,
+          "end": 5.102630385487529,
+          "slow_start": 2.699365079365079,
+          "slow_end": 5.845668934240363
+        }
+      ],
+      "slow_start": 2.699365079365079,
+      "slow_end": 5.845668934240363
+    },
+    {
+      "text": "Ověřte dostupnost výrobku.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Ověřte dostupnost výrobku."
+      ],
+      "start": 5.282630385487528,
+      "end": 7.84843537414966,
+      "sentences": [
+        {
+          "text": "Ověřte dostupnost výrobku.",
+          "start": 5.282630385487528,
+          "end": 7.84843537414966,
+          "slow_start": 6.025668934240363,
+          "slow_end": 8.91655328798186
+        }
+      ],
+      "slow_start": 6.025668934240363,
+      "slow_end": 8.91655328798186
+    },
+    {
+      "text": "Nabídka nemusí být výhodná.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Nabídka nemusí být výhodná."
+      ],
+      "start": 8.02843537414966,
+      "end": 10.884489795918368,
+      "sentences": [
+        {
+          "text": "Nabídka nemusí být výhodná.",
+          "start": 8.02843537414966,
+          "end": 10.884489795918368,
+          "slow_start": 9.096553287981859,
+          "slow_end": 12.277687074829933
+        }
+      ],
+      "slow_start": 9.096553287981859,
+      "slow_end": 12.277687074829933
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "f4dad18733d5e3e3565ddf7196f26af73ace9d8e8149122aa4621aebf89d7f9c",
+    "slow": "c39e01dec1e8c6ddf0ffecfbe4bcae42fb03ef9441273cc144edec643a8fa0d1"
+  }
+}

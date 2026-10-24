@@ -1,0 +1,67 @@
+{
+  "id": "C1-U09-L01--2026.10.23.1--contrasts",
+  "lesson_id": "C1-U09-L01",
+  "content_version": "2026.10.23.1",
+  "level": "C1",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "To jsem neřekl.. To jsem neřekl já..",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "To jsem neřekl..",
+        "To jsem neřekl já.."
+      ]
+    }
+  ],
+  "text_sha256": "03ae7c1898e5ceac01cd8cc5ef67238b7a63158c5224c043715f0f60c56857a3",
+  "source_file": "content/lessons/C1/C1-U09-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U09-L01--2026.10.22.1--contrasts--03ae7c1898--normal.mp3",
+  "slow_file": "content/audio/files/C1-U09-L01--2026.10.22.1--contrasts--03ae7c1898--slow.mp3",
+  "duration_seconds": 3.970702947845805,
+  "slow_duration_seconds": 5.143310657596372,
+  "cues": [
+    {
+      "text": "To jsem neřekl.. To jsem neřekl já..",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "To jsem neřekl..",
+        "To jsem neřekl já.."
+      ],
+      "start": 0.0,
+      "end": 3.790702947845805,
+      "sentences": [
+        {
+          "text": "To jsem neřekl..",
+          "start": 0.0,
+          "end": 1.4164172335600906,
+          "slow_start": 0.0,
+          "slow_end": 2.2407256235827666
+        },
+        {
+          "text": "To jsem neřekl já..",
+          "start": 1.5964172335600908,
+          "end": 3.790702947845805,
+          "slow_start": 2.4207256235827663,
+          "slow_end": 4.963310657596372
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 4.963310657596372
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "1cb0206ee8e43f0fa051501e16033823a00110d181703d37f72eaeee80227b51",
+    "slow": "d67f64c805cbc96689d43b11e9851d0ec138ad598b036c60ab441618e4b11413"
+  },
+  "reused_from_track_id": "C1-U09-L01--2026.10.22.1--contrasts"
+}

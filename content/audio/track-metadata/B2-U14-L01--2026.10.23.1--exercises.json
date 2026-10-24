@@ -1,0 +1,60 @@
+{
+  "id": "B2-U14-L01--2026.10.23.1--exercises",
+  "lesson_id": "B2-U14-L01",
+  "content_version": "2026.10.23.1",
+  "level": "B2",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Potřebuji vědět nejpozději v jedenáct, kterou možnost využijete.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "B2-U14-L01-E03",
+      "parts": [
+        "Potřebuji vědět nejpozději v jedenáct, kterou možnost využijete."
+      ]
+    }
+  ],
+  "text_sha256": "134e3ecade8d72681a2947cbf3e005256729982f97d55b089cf3972dc2fa648a",
+  "source_file": "content/lessons/B2/B2-U14-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U14-L01--2026.10.22.1--exercises--134e3ecade--normal.mp3",
+  "slow_file": "content/audio/files/B2-U14-L01--2026.10.22.1--exercises--134e3ecade--slow.mp3",
+  "duration_seconds": 5.95015873015873,
+  "slow_duration_seconds": 6.495827664399093,
+  "cues": [
+    {
+      "text": "Potřebuji vědět nejpozději v jedenáct, kterou možnost využijete.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "B2-U14-L01-E03",
+      "parts": [
+        "Potřebuji vědět nejpozději v jedenáct, kterou možnost využijete."
+      ],
+      "start": 0.0,
+      "end": 5.77015873015873,
+      "sentences": [
+        {
+          "text": "Potřebuji vědět nejpozději v jedenáct, kterou možnost využijete.",
+          "start": 0.0,
+          "end": 5.77015873015873,
+          "slow_start": 0.0,
+          "slow_end": 6.315827664399093
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 6.315827664399093
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "19e55da168d48b7a28858374714e7a6ddb5b1926532871462282a3f67b96a904",
+    "slow": "b1cc36af127831eb7a24252dd856cc8be6183f8d447e7d8410de4607cb2442c7"
+  },
+  "reused_from_track_id": "B2-U14-L01--2026.10.22.1--exercises"
+}

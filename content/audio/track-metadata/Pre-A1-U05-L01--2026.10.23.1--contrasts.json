@@ -1,0 +1,58 @@
+{
+  "id": "Pre-A1-U05-L01--2026.10.23.1--contrasts",
+  "lesson_id": "Pre-A1-U05-L01",
+  "content_version": "2026.10.23.1",
+  "level": "Pre-A1",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "led. let.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "led. let."
+      ]
+    }
+  ],
+  "text_sha256": "a33fc092d6b383c321b8c22ceda46e6fbd19cc5c0a504fe3eac7be5b9fd9adc9",
+  "source_file": "content/lessons/Pre-A1/Pre-A1-U05-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/Pre-A1-U05-L01--2026.10.22.1--contrasts--a33fc092d6--normal.mp3",
+  "slow_file": "content/audio/files/Pre-A1-U05-L01--2026.10.22.1--contrasts--a33fc092d6--slow.mp3",
+  "duration_seconds": 1.2365079365079366,
+  "slow_duration_seconds": 1.387437641723356,
+  "cues": [
+    {
+      "text": "led. let.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "led. let."
+      ],
+      "start": 0.0,
+      "end": 1.0565079365079366,
+      "sentences": [
+        {
+          "text": "led. let.",
+          "start": 0.0,
+          "end": 1.0565079365079366,
+          "slow_start": 0.0,
+          "slow_end": 1.207437641723356
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.207437641723356
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "7413500080cc4ddbb0bb1389c3a4e8b20cb5261cb99c64690bf35bf0de507457",
+    "slow": "4727024c02d03cd376fc6488d38b23ccb57ace2d50bb682229149fd4b327576f"
+  },
+  "reused_from_track_id": "Pre-A1-U05-L01--2026.10.22.1--contrasts"
+}

@@ -1,0 +1,202 @@
+{
+  "id": "A2-U06-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "A2-U06-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Položte knihu na stůl.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Položte knihu na stůl."
+      ]
+    },
+    {
+      "text": "Obraz visí na zdi.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Obraz visí na zdi."
+      ]
+    },
+    {
+      "text": "Na zdi je mapa.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Na zdi je mapa."
+      ]
+    },
+    {
+      "text": "Krabice je vedle skříně.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Krabice je vedle skříně."
+      ]
+    },
+    {
+      "text": "Chodím do práce pěšky.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Chodím do práce pěšky."
+      ]
+    },
+    {
+      "text": "Jezdím autobusem.",
+      "index": 5,
+      "role": "vocabulary",
+      "parts": [
+        "Jezdím autobusem."
+      ]
+    }
+  ],
+  "text_sha256": "cceacfca7c686aeecd13b9910d37321614febf86857406bf5a54bc896c6bb514",
+  "source_file": "content/lessons/A2/A2-U06-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U06-L01--2026.10.22.1--vocabulary--cceacfca7c--normal.mp3",
+  "slow_file": "content/audio/files/A2-U06-L01--2026.10.22.1--vocabulary--cceacfca7c--slow.mp3",
+  "duration_seconds": 11.830839002267574,
+  "slow_duration_seconds": 13.398185941043083,
+  "cues": [
+    {
+      "text": "Položte knihu na stůl.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Položte knihu na stůl."
+      ],
+      "start": 0.0,
+      "end": 1.9156462585034013,
+      "sentences": [
+        {
+          "text": "Položte knihu na stůl.",
+          "start": 0.0,
+          "end": 1.9156462585034013,
+          "slow_start": 0.0,
+          "slow_end": 2.1942857142857144
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.1942857142857144
+    },
+    {
+      "text": "Obraz visí na zdi.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Obraz visí na zdi."
+      ],
+      "start": 2.0956462585034012,
+      "end": 3.837142857142857,
+      "sentences": [
+        {
+          "text": "Obraz visí na zdi.",
+          "start": 2.0956462585034012,
+          "end": 3.837142857142857,
+          "slow_start": 2.374285714285714,
+          "slow_end": 4.406031746031746
+        }
+      ],
+      "slow_start": 2.374285714285714,
+      "slow_end": 4.406031746031746
+    },
+    {
+      "text": "Na zdi je mapa.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Na zdi je mapa."
+      ],
+      "start": 4.017142857142857,
+      "end": 5.282630385487528,
+      "sentences": [
+        {
+          "text": "Na zdi je mapa.",
+          "start": 4.017142857142857,
+          "end": 5.282630385487528,
+          "slow_start": 4.586031746031746,
+          "slow_end": 6.083718820861678
+        }
+      ],
+      "slow_start": 4.586031746031746,
+      "slow_end": 6.083718820861678
+    },
+    {
+      "text": "Krabice je vedle skříně.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Krabice je vedle skříně."
+      ],
+      "start": 5.462630385487528,
+      "end": 7.447936507936508,
+      "sentences": [
+        {
+          "text": "Krabice je vedle skříně.",
+          "start": 5.462630385487528,
+          "end": 7.447936507936508,
+          "slow_start": 6.263718820861678,
+          "slow_end": 8.492834467120181
+        }
+      ],
+      "slow_start": 6.263718820861678,
+      "slow_end": 8.492834467120181
+    },
+    {
+      "text": "Chodím do práce pěšky.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Chodím do práce pěšky."
+      ],
+      "start": 7.627936507936508,
+      "end": 9.706122448979592,
+      "sentences": [
+        {
+          "text": "Chodím do práce pěšky.",
+          "start": 7.627936507936508,
+          "end": 9.706122448979592,
+          "slow_start": 8.67283446712018,
+          "slow_end": 11.064489795918368
+        }
+      ],
+      "slow_start": 8.67283446712018,
+      "slow_end": 11.064489795918368
+    },
+    {
+      "text": "Jezdím autobusem.",
+      "index": 5,
+      "role": "vocabulary",
+      "parts": [
+        "Jezdím autobusem."
+      ],
+      "start": 9.886122448979592,
+      "end": 11.650839002267574,
+      "sentences": [
+        {
+          "text": "Jezdím autobusem.",
+          "start": 9.886122448979592,
+          "end": 11.650839002267574,
+          "slow_start": 11.244489795918367,
+          "slow_end": 13.218185941043084
+        }
+      ],
+      "slow_start": 11.244489795918367,
+      "slow_end": 13.218185941043084
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "0720d507dfd3a614bc77669d93eaa21007378cc3b5e875d8ae4208c791e74c59",
+    "slow": "6b8648f2be5f57fa5b5dc7056b6bc30a626d7bde8b5e3fe0434146a192250185"
+  }
+}

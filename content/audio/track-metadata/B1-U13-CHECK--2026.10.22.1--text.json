@@ -1,0 +1,75 @@
+{
+  "id": "B1-U13-CHECK--2026.10.22.1--text",
+  "lesson_id": "B1-U13-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Dopravce oznámil zpoždění zásilky. Dopravní omezení se týká pouze jedné ulice. Cena dopravy se nemění.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Dopravce oznámil zpoždění zásilky.",
+        "Dopravní omezení se týká pouze jedné ulice.",
+        "Cena dopravy se nemění."
+      ]
+    }
+  ],
+  "text_sha256": "f0f152c92e02a3f084e2ed6502c3710178aedcdd1162c981282e0b462e35096d",
+  "source_file": "content/assessments/B1-U13.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U13-CHECK--2026.10.22.1--text--f0f152c92e--normal.mp3",
+  "slow_file": "content/audio/files/B1-U13-CHECK--2026.10.22.1--text--f0f152c92e--slow.mp3",
+  "duration_seconds": 10.164671201814059,
+  "slow_duration_seconds": 11.395328798185941,
+  "cues": [
+    {
+      "text": "Dopravce oznámil zpoždění zásilky. Dopravní omezení se týká pouze jedné ulice. Cena dopravy se nemění.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Dopravce oznámil zpoždění zásilky.",
+        "Dopravní omezení se týká pouze jedné ulice.",
+        "Cena dopravy se nemění."
+      ],
+      "start": 0.0,
+      "end": 9.98467120181406,
+      "sentences": [
+        {
+          "text": "Dopravce oznámil zpoždění zásilky.",
+          "start": 0.0,
+          "end": 3.4481632653061225,
+          "slow_start": 0.0,
+          "slow_end": 3.9706122448979593
+        },
+        {
+          "text": "Dopravní omezení se týká pouze jedné ulice.",
+          "start": 3.6281632653061227,
+          "end": 7.78453514739229,
+          "slow_start": 4.150612244897959,
+          "slow_end": 8.817823129251702
+        },
+        {
+          "text": "Cena dopravy se nemění.",
+          "start": 7.96453514739229,
+          "end": 9.98467120181406,
+          "slow_start": 8.997823129251701,
+          "slow_end": 11.215328798185942
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 11.215328798185942
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "5b6dfb998c4c039aebf0fef2eef9a2e5cd81fffac1b4cbc28c50cb4573456a9c",
+    "slow": "33d54565f75fbbfb990d6a6a9cbae2df21d9617db06b3be6ff3ffcfac0f96414"
+  }
+}

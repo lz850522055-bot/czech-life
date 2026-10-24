@@ -1,0 +1,57 @@
+{
+  "id": "A2-U14-L01--2026.10.22.1--contrasts",
+  "lesson_id": "A2-U14-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "potvrzená. není potvrzená.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "potvrzená. není potvrzená."
+      ]
+    }
+  ],
+  "text_sha256": "e71c23a54f6b3d736c11b9c58770f054c322305b2aad9a3ad20b5cd7e5f7f0e0",
+  "source_file": "content/lessons/A2/A2-U14-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U14-L01--2026.10.22.1--contrasts--e71c23a54f--normal.mp3",
+  "slow_file": "content/audio/files/A2-U14-L01--2026.10.22.1--contrasts--e71c23a54f--slow.mp3",
+  "duration_seconds": 2.7109750566893425,
+  "slow_duration_seconds": 2.9780045351473925,
+  "cues": [
+    {
+      "text": "potvrzená. není potvrzená.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "potvrzená. není potvrzená."
+      ],
+      "start": 0.0,
+      "end": 2.5309750566893423,
+      "sentences": [
+        {
+          "text": "potvrzená. není potvrzená.",
+          "start": 0.0,
+          "end": 2.5309750566893423,
+          "slow_start": 0.0,
+          "slow_end": 2.7980045351473923
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.7980045351473923
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "596a543a3907f5ba20ec680f5d6ce9e3ca546468d99feec0b291ac8fefcdfaf2",
+    "slow": "d585a23c1966d044764e3516a698a4d357c5760dce973d0ade032f8c8dc2ad0d"
+  }
+}

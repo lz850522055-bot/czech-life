@@ -1,0 +1,75 @@
+{
+  "id": "A1-U12-L01--2026.10.22.1--listening",
+  "lesson_id": "A1-U12-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A1",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Vaše zásilka je na adrese Dlouhá třicet. Otevřeno máme do sedmnácti hodin. Přineste doklad a kód.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Vaše zásilka je na adrese Dlouhá třicet.",
+        "Otevřeno máme do sedmnácti hodin.",
+        "Přineste doklad a kód."
+      ]
+    }
+  ],
+  "text_sha256": "21f40dba3faa076cbd0d2edff9760e1c874223f43d80c0466233a63f05789057",
+  "source_file": "content/lessons/A1/A1-U12-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U12-L01--2026.10.22.1--listening--21f40dba3f--normal.mp3",
+  "slow_file": "content/audio/files/A1-U12-L01--2026.10.22.1--listening--21f40dba3f--slow.mp3",
+  "duration_seconds": 8.98045351473923,
+  "slow_duration_seconds": 9.874421768707483,
+  "cues": [
+    {
+      "text": "Vaše zásilka je na adrese Dlouhá třicet. Otevřeno máme do sedmnácti hodin. Přineste doklad a kód.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Vaše zásilka je na adrese Dlouhá třicet.",
+        "Otevřeno máme do sedmnácti hodin.",
+        "Přineste doklad a kód."
+      ],
+      "start": 0.0,
+      "end": 8.800453514739228,
+      "sentences": [
+        {
+          "text": "Vaše zásilka je na adrese Dlouhá třicet.",
+          "start": 0.0,
+          "end": 3.4017233560090703,
+          "slow_start": 0.0,
+          "slow_end": 3.7500226757369615
+        },
+        {
+          "text": "Otevřeno máme do sedmnácti hodin.",
+          "start": 3.5817233560090704,
+          "end": 6.495827664399093,
+          "slow_start": 3.9300226757369616,
+          "slow_end": 7.1459863945578235
+        },
+        {
+          "text": "Přineste doklad a kód.",
+          "start": 6.675827664399093,
+          "end": 8.800453514739228,
+          "slow_start": 7.325986394557823,
+          "slow_end": 9.694421768707484
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 9.694421768707484
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "764680ce07616287175b59aa3d4b70ce90f43603a565968f536ac9e0ecaec37e",
+    "slow": "4ef90250a724f4f3826f88c801a6fe7b823bfd182b43c751894c403f5418d59f"
+  }
+}

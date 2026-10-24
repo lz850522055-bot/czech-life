@@ -1,0 +1,84 @@
+{
+  "id": "A2-U14-CHECK--2026.10.22.1--text",
+  "lesson_id": "A2-U14-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Setkání začne v sobotu ve čtyři odpoledne. Hostů bude patnáct. Objednávka vody je potvrzená, ale klíče ještě nemáme. Jana je vyzvedne v pátek.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Setkání začne v sobotu ve čtyři odpoledne.",
+        "Hostů bude patnáct.",
+        "Objednávka vody je potvrzená, ale klíče ještě nemáme.",
+        "Jana je vyzvedne v pátek."
+      ]
+    }
+  ],
+  "text_sha256": "92339ba7141656f354118140ed60c45bad1dec2ca5707a9ba680182ab956d84f",
+  "source_file": "content/assessments/A2-U14.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U14-CHECK--2026.10.22.1--text--92339ba714--normal.mp3",
+  "slow_file": "content/audio/files/A2-U14-CHECK--2026.10.22.1--text--92339ba714--slow.mp3",
+  "duration_seconds": 13.21233560090703,
+  "slow_duration_seconds": 14.59392290249433,
+  "cues": [
+    {
+      "text": "Setkání začne v sobotu ve čtyři odpoledne. Hostů bude patnáct. Objednávka vody je potvrzená, ale klíče ještě nemáme. Jana je vyzvedne v pátek.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Setkání začne v sobotu ve čtyři odpoledne.",
+        "Hostů bude patnáct.",
+        "Objednávka vody je potvrzená, ale klíče ještě nemáme.",
+        "Jana je vyzvedne v pátek."
+      ],
+      "start": 0.0,
+      "end": 13.032335600907029,
+      "sentences": [
+        {
+          "text": "Setkání začne v sobotu ve čtyři odpoledne.",
+          "start": 0.0,
+          "end": 3.657142857142857,
+          "slow_start": 0.0,
+          "slow_end": 4.237641723356009
+        },
+        {
+          "text": "Hostů bude patnáct.",
+          "start": 3.837142857142857,
+          "end": 5.845668934240363,
+          "slow_start": 4.4176417233560095,
+          "slow_end": 6.658367346938776
+        },
+        {
+          "text": "Objednávka vody je potvrzená, ale klíče ještě nemáme.",
+          "start": 6.025668934240363,
+          "end": 10.669659863945578,
+          "slow_start": 6.838367346938775,
+          "slow_end": 11.78421768707483
+        },
+        {
+          "text": "Jana je vyzvedne v pátek.",
+          "start": 10.849659863945579,
+          "end": 13.032335600907029,
+          "slow_start": 11.96421768707483,
+          "slow_end": 14.413922902494331
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 14.413922902494331
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "cd26eae81a8f8ee8c86d18ef2c3ab494c214264d6e40da5f461dd71b7bfe2a53",
+    "slow": "98d374ab3409c0a66c7dac5e733f38ea879d913f39c641afc2c87c04f98233d5"
+  }
+}

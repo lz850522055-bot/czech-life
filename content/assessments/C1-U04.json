@@ -1,0 +1,221 @@
+{
+  "id": "C1-U04-CHECK",
+  "kind": "unit",
+  "level": "C1",
+  "unit_id": "C1-U04",
+  "title_zh": "把专业词讲到对方能作决定：新情境检验",
+  "version": "2026.10.22.1",
+  "unseen_text": [
+    {
+      "cs": "Ve školním projektu znamená anonymní odpověď takovou odpověď, u níž organizátor nezná jméno autora. Žáci ale píší i své jedinečné zkušenosti. Učitel upozorňuje, že někdy lze autora poznat podle popisu, přestože jméno chybí.",
+      "zh": "学校定义匿名为组织者不知道名字，但独特经历仍可能让人识别作者。"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "仅删名字为何可能不足？",
+      "stimulus_cs": "",
+      "answer": "a",
+      "explanation_zh": "指出具体边界，不绝对化。",
+      "skill_ids": [
+        "reading"
+      ],
+      "knowledge_points": [
+        "c1-operational-definition",
+        "c1-certainty-attribution"
+      ],
+      "error_category": "comprehension",
+      "options": [
+        {
+          "id": "a",
+          "text": "内容可能暴露身份"
+        },
+        {
+          "id": "b",
+          "text": "所有文字都不能匿名"
+        },
+        {
+          "id": "c",
+          "text": "老师已知道所有人"
+        }
+      ],
+      "scoring_basis": "封闭题以答案核对；解析说明本题边界。",
+      "id": "C1-U04-CHECK-E01"
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "给学生两句操作说明。",
+      "stimulus_cs": "",
+      "answer": "Neuvádějte jméno ani podrobnosti, podle nichž by vás ostatní snadno poznali. Pokud si nejste jisti, požádejte učitele o kontrolu před zveřejněním.",
+      "explanation_zh": "说明操作而非抽象“注意隐私”。",
+      "skill_ids": [
+        "writing"
+      ],
+      "knowledge_points": [
+        "c1-operational-definition",
+        "c1-certainty-attribution"
+      ],
+      "error_category": "comprehension",
+      "rubric": [
+        "回应具体任务，信息不失真",
+        "逻辑有衔接，能说明证据与限制",
+        "语法与搭配基本准确，语域适合对象",
+        "能自主组织语言而非照读范文"
+      ],
+      "scoring_basis": "开放表达：示范不是唯一答案；依量规自评或人工评阅，未接受人工评阅时不自动判定能力达标。",
+      "id": "C1-U04-CHECK-E02"
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "转述本例中定义与实际风险的差异。",
+      "stimulus_cs": "",
+      "answer": "Formální definice sleduje znalost jména, ale skutečné rozpoznání může vycházet také z obsahu odpovědi.",
+      "explanation_zh": "区分定义口径与使用效果。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "knowledge_points": [
+        "c1-operational-definition",
+        "c1-certainty-attribution"
+      ],
+      "error_category": "comprehension",
+      "rubric": [
+        "回应具体任务，信息不失真",
+        "逻辑有衔接，能说明证据与限制",
+        "语法与搭配基本准确，语域适合对象",
+        "能自主组织语言而非照读范文"
+      ],
+      "scoring_basis": "开放表达：示范不是唯一答案；依量规自评或人工评阅，未接受人工评阅时不自动判定能力达标。",
+      "id": "C1-U04-CHECK-E03"
+    }
+  ],
+  "rubric": [
+    "理解未见材料中的主张及限定",
+    "主动表达时准确转述不同立场",
+    "区分事实、推断与建议",
+    "能针对误解调整解释方式"
+  ],
+  "remediation": [
+    {
+      "condition_zh": "误把可能性说成事实，或遗漏反方条件",
+      "lesson_ids": [
+        "C1-U04-L01"
+      ],
+      "action_zh": "重做信息定位与转述，标出每个判断的来源和语气词。"
+    },
+    {
+      "condition_zh": "表达卡住或只有单句结论",
+      "lesson_ids": [
+        "C1-U04-L01"
+      ],
+      "action_zh": "先列论点—依据—限制—行动四点，再换对象重录一次。"
+    }
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "C1-U04-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U04-CHECK--2026.10.22.1--text--5c5571b8a4--normal.mp3",
+      "slow_file": "audio/files/C1-U04-CHECK--2026.10.22.1--text--5c5571b8a4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U04-CHECK--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Ve školním projektu znamená anonymní odpověď takovou odpověď, u níž organizátor nezná jméno autora. Žáci ale píší i své jedinečné zkušenosti. Učitel upozorňuje, že někdy lze autora poznat podle popisu, přestože jméno chybí.",
+      "duration_seconds": 20.683310657596373,
+      "slow_duration_seconds": 23.51614512471655,
+      "sha256": "73dbd3212494d6070c7515363a0e2b1a1b916963063b40f1aa186607cb6a372e",
+      "slow_sha256": "51094212b72ca3c363c477d6d14fcaae1e49413c5d20920d453522add150a72d"
+    },
+    {
+      "lesson_id": "C1-U04-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U04-CHECK--2026.10.22.1--text--5c5571b8a4--normal.mp3",
+      "slow_file": "audio/files/C1-U04-CHECK--2026.10.22.1--text--5c5571b8a4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U04-CHECK--2026.10.22.1--text--p0",
+      "asset_id": "C1-U04-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Ve školním projektu znamená anonymní odpověď takovou odpověď, u níž organizátor nezná jméno autora. Žáci ale píší i své jedinečné zkušenosti. Učitel upozorňuje, že někdy lze autora poznat podle popisu, přestože jméno chybí.",
+      "start": 0,
+      "end": 20.503310657596373,
+      "slow_start": 0,
+      "slow_end": 23.336145124716552
+    },
+    {
+      "lesson_id": "C1-U04-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U04-CHECK--2026.10.22.1--text--5c5571b8a4--normal.mp3",
+      "slow_file": "audio/files/C1-U04-CHECK--2026.10.22.1--text--5c5571b8a4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U04-CHECK--2026.10.22.1--text--s0",
+      "asset_id": "C1-U04-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Ve školním projektu znamená anonymní odpověď takovou odpověď, u níž organizátor nezná jméno autora.",
+      "start": 0,
+      "end": 8.498503401360544,
+      "slow_start": 0,
+      "slow_end": 9.822040816326531
+    },
+    {
+      "lesson_id": "C1-U04-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U04-CHECK--2026.10.22.1--text--5c5571b8a4--normal.mp3",
+      "slow_file": "audio/files/C1-U04-CHECK--2026.10.22.1--text--5c5571b8a4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U04-CHECK--2026.10.22.1--text--s1",
+      "asset_id": "C1-U04-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Žáci ale píší i své jedinečné zkušenosti.",
+      "start": 8.678503401360544,
+      "end": 12.741995464852607,
+      "slow_start": 10.00204081632653,
+      "slow_end": 14.564761904761905
+    },
+    {
+      "lesson_id": "C1-U04-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U04-CHECK--2026.10.22.1--text--5c5571b8a4--normal.mp3",
+      "slow_file": "audio/files/C1-U04-CHECK--2026.10.22.1--text--5c5571b8a4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U04-CHECK--2026.10.22.1--text--s2",
+      "asset_id": "C1-U04-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Učitel upozorňuje, že někdy lze autora poznat podle popisu, přestože jméno chybí.",
+      "start": 12.921995464852607,
+      "end": 20.503310657596373,
+      "slow_start": 14.744761904761905,
+      "slow_end": 23.336145124716552
+    }
+  ]
+}

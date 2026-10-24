@@ -1,0 +1,59 @@
+{
+  "id": "A1-U10-L01--2026.10.22.1--exercises",
+  "lesson_id": "A1-U10-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A1",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Není mi zima, ale jsem unavená.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "A1-U10-L01-E01",
+      "parts": [
+        "Není mi zima, ale jsem unavená."
+      ]
+    }
+  ],
+  "text_sha256": "f429dee05cc782c9d661037f9a5a62cbc786bf28c78d5b63556ba3b432825968",
+  "source_file": "content/lessons/A1/A1-U10-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U10-L01--2026.10.22.1--exercises--f429dee05c--normal.mp3",
+  "slow_file": "content/audio/files/A1-U10-L01--2026.10.22.1--exercises--f429dee05c--slow.mp3",
+  "duration_seconds": 3.105714285714286,
+  "slow_duration_seconds": 3.6397732426303855,
+  "cues": [
+    {
+      "text": "Není mi zima, ale jsem unavená.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "A1-U10-L01-E01",
+      "parts": [
+        "Není mi zima, ale jsem unavená."
+      ],
+      "start": 0.0,
+      "end": 2.9257142857142857,
+      "sentences": [
+        {
+          "text": "Není mi zima, ale jsem unavená.",
+          "start": 0.0,
+          "end": 2.9257142857142857,
+          "slow_start": 0.0,
+          "slow_end": 3.4597732426303853
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 3.4597732426303853
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "6eb58e02644bbdaa88237f4f8f7a9c3ca11815e3f1bbe869af6f5bb3327a7d73",
+    "slow": "acc6d3b0f51f89c8410fb516402aa847c85aa85bcfc8d04fb660221a70328c35"
+  }
+}

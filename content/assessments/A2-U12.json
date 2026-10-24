@@ -1,0 +1,208 @@
+{
+  "id": "A2-U12-CHECK",
+  "kind": "unit",
+  "level": "A2",
+  "unit_id": "A2-U12",
+  "title_zh": "收错货后，清楚提出解决办法：换情境独立完成",
+  "version": "2026.10.22.1",
+  "unseen_text": [
+    {
+      "cs": "Zásilka obsahuje dvanáct kusů. Jeden kus chybí a jeden z doručených kusů je rozbitý. Objednáno bylo třináct kusů.",
+      "zh": "实收十二件，缺一件，收到的还有一件破损；原订十三件。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt_zh": "需要新增补缺多少件，先不算换坏？",
+      "stimulus_cs": "",
+      "answer": "1",
+      "accepted_answers": [
+        "1"
+      ],
+      "explanation_zh": "缺1与坏1是两类。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "comprehension",
+      "id": "A2-U12-CHECK-E01",
+      "knowledge_points": [
+        "delivery-discrepancy",
+        "passive-adjective-intro"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "实收完好件数？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "11"
+        },
+        {
+          "id": "b",
+          "text": "12"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "12实收减1坏=11。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "A2-U12-CHECK-E02",
+      "knowledge_points": [
+        "delivery-discrepancy",
+        "passive-adjective-intro"
+      ]
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "写清补缺与更换两类请求。",
+      "stimulus_cs": "",
+      "answer": "Prosím doplňte jeden chybějící kus a vyměňte jeden rozbitý kus.",
+      "accepted_answers": [],
+      "explanation_zh": "不能把两件都说从未收到。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A2-U12-CHECK-E03",
+      "knowledge_points": [
+        "delivery-discrepancy",
+        "passive-adjective-intro"
+      ]
+    }
+  ],
+  "rubric": [
+    "能提取新材料中的关键事实，不靠背诵原文",
+    "能根据变化的条件组织一句或一段表达",
+    "能指出不确定之处并请求澄清"
+  ],
+  "remediation": [
+    {
+      "condition_zh": "目标规律使用不稳定或未能提取关键信息",
+      "lesson_ids": [
+        "A2-U12-L01"
+      ],
+      "action_zh": "返回规律卡，对照两例；隔一次其他练习后重做未见情境。"
+    }
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "A2-U12-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U12-CHECK--2026.10.22.1--text--5e3fa4afcf--normal.mp3",
+      "slow_file": "audio/files/A2-U12-CHECK--2026.10.22.1--text--5e3fa4afcf--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U12-CHECK--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Zásilka obsahuje dvanáct kusů. Jeden kus chybí a jeden z doručených kusů je rozbitý. Objednáno bylo třináct kusů.",
+      "duration_seconds": 10.74517006802721,
+      "slow_duration_seconds": 12.219637188208617,
+      "sha256": "ced66feb3346e94c518d0a6aef0b3b447f11e2fda8b7e89ca558dfcd4ef911e5",
+      "slow_sha256": "30f13a07c06350fa24f5036a2ad3c1f6f8649c9f0a212c4175b70064be1988e0"
+    },
+    {
+      "lesson_id": "A2-U12-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U12-CHECK--2026.10.22.1--text--5e3fa4afcf--normal.mp3",
+      "slow_file": "audio/files/A2-U12-CHECK--2026.10.22.1--text--5e3fa4afcf--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U12-CHECK--2026.10.22.1--text--p0",
+      "asset_id": "A2-U12-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Zásilka obsahuje dvanáct kusů. Jeden kus chybí a jeden z doručených kusů je rozbitý. Objednáno bylo třináct kusů.",
+      "start": 0,
+      "end": 10.56517006802721,
+      "slow_start": 0,
+      "slow_end": 12.039637188208618
+    },
+    {
+      "lesson_id": "A2-U12-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U12-CHECK--2026.10.22.1--text--5e3fa4afcf--normal.mp3",
+      "slow_file": "audio/files/A2-U12-CHECK--2026.10.22.1--text--5e3fa4afcf--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U12-CHECK--2026.10.22.1--text--s0",
+      "asset_id": "A2-U12-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Zásilka obsahuje dvanáct kusů.",
+      "start": 0,
+      "end": 2.8212244897959184,
+      "slow_start": 0,
+      "slow_end": 3.2043537414965986
+    },
+    {
+      "lesson_id": "A2-U12-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U12-CHECK--2026.10.22.1--text--5e3fa4afcf--normal.mp3",
+      "slow_file": "audio/files/A2-U12-CHECK--2026.10.22.1--text--5e3fa4afcf--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U12-CHECK--2026.10.22.1--text--s1",
+      "asset_id": "A2-U12-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Jeden kus chybí a jeden z doručených kusů je rozbitý.",
+      "start": 3.001224489795918,
+      "end": 7.621995464852608,
+      "slow_start": 3.3843537414965987,
+      "slow_end": 8.73655328798186
+    },
+    {
+      "lesson_id": "A2-U12-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U12-CHECK--2026.10.22.1--text--5e3fa4afcf--normal.mp3",
+      "slow_file": "audio/files/A2-U12-CHECK--2026.10.22.1--text--5e3fa4afcf--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U12-CHECK--2026.10.22.1--text--s2",
+      "asset_id": "A2-U12-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Objednáno bylo třináct kusů.",
+      "start": 7.801995464852608,
+      "end": 10.56517006802721,
+      "slow_start": 8.91655328798186,
+      "slow_end": 12.039637188208618
+    }
+  ]
+}

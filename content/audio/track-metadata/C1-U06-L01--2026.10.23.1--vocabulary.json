@@ -1,0 +1,174 @@
+{
+  "id": "C1-U06-L01--2026.10.23.1--vocabulary",
+  "lesson_id": "C1-U06-L01",
+  "content_version": "2026.10.23.1",
+  "level": "C1",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Rada potřebuje úplné podklady.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Rada potřebuje úplné podklady."
+      ]
+    },
+    {
+      "text": "Docházku eviduje lektor.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Docházku eviduje lektor."
+      ]
+    },
+    {
+      "text": "Plošná změna zasáhne všechny kurzy.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Plošná změna zasáhne všechny kurzy."
+      ]
+    },
+    {
+      "text": "Podmínky vyhodnocení zveřejníme.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Podmínky vyhodnocení zveřejníme."
+      ]
+    },
+    {
+      "text": "Jednomyslnost není zaručena.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Jednomyslnost není zaručena."
+      ]
+    }
+  ],
+  "text_sha256": "f22acbf3c8da397b649e0054e2c179a8115d3dea0f464599c7be55f32aca6fe0",
+  "source_file": "content/lessons/C1/C1-U06-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U06-L01--2026.10.22.1--vocabulary--f22acbf3c8--normal.mp3",
+  "slow_file": "content/audio/files/C1-U06-L01--2026.10.22.1--vocabulary--f22acbf3c8--slow.mp3",
+  "duration_seconds": 14.80875283446712,
+  "slow_duration_seconds": 16.585079365079366,
+  "cues": [
+    {
+      "text": "Rada potřebuje úplné podklady.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Rada potřebuje úplné podklady."
+      ],
+      "start": 0.0,
+      "end": 2.8328344671201813,
+      "sentences": [
+        {
+          "text": "Rada potřebuje úplné podklady.",
+          "start": 0.0,
+          "end": 2.8328344671201813,
+          "slow_start": 0.0,
+          "slow_end": 3.1346938775510202
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 3.1346938775510202
+    },
+    {
+      "text": "Docházku eviduje lektor.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Docházku eviduje lektor."
+      ],
+      "start": 3.0128344671201814,
+      "end": 5.276780045351474,
+      "sentences": [
+        {
+          "text": "Docházku eviduje lektor.",
+          "start": 3.0128344671201814,
+          "end": 5.276780045351474,
+          "slow_start": 3.3146938775510204,
+          "slow_end": 5.95015873015873
+        }
+      ],
+      "slow_start": 3.3146938775510204,
+      "slow_end": 5.95015873015873
+    },
+    {
+      "text": "Plošná změna zasáhne všechny kurzy.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Plošná změna zasáhne všechny kurzy."
+      ],
+      "start": 5.456780045351474,
+      "end": 8.742403628117914,
+      "sentences": [
+        {
+          "text": "Plošná změna zasáhne všechny kurzy.",
+          "start": 5.456780045351474,
+          "end": 8.742403628117914,
+          "slow_start": 6.130158730158731,
+          "slow_end": 9.915011337868481
+        }
+      ],
+      "slow_start": 6.130158730158731,
+      "slow_end": 9.915011337868481
+    },
+    {
+      "text": "Podmínky vyhodnocení zveřejníme.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Podmínky vyhodnocení zveřejníme."
+      ],
+      "start": 8.922403628117914,
+      "end": 11.673968253968255,
+      "sentences": [
+        {
+          "text": "Podmínky vyhodnocení zveřejníme.",
+          "start": 8.922403628117914,
+          "end": 11.673968253968255,
+          "slow_start": 10.095011337868481,
+          "slow_end": 13.171655328798186
+        }
+      ],
+      "slow_start": 10.095011337868481,
+      "slow_end": 13.171655328798186
+    },
+    {
+      "text": "Jednomyslnost není zaručena.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Jednomyslnost není zaručena."
+      ],
+      "start": 11.853968253968254,
+      "end": 14.62875283446712,
+      "sentences": [
+        {
+          "text": "Jednomyslnost není zaručena.",
+          "start": 11.853968253968254,
+          "end": 14.62875283446712,
+          "slow_start": 13.351655328798186,
+          "slow_end": 16.405079365079366
+        }
+      ],
+      "slow_start": 13.351655328798186,
+      "slow_end": 16.405079365079366
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "a12b388a4fe286f4a258e0c33f81b1b0706de87bf51d64f6a26ed36fb1cb1b6f",
+    "slow": "9f526862ab6ca16255de79ef90628ab36a9ae4bbe8d939d5720447dd0b95626c"
+  },
+  "reused_from_track_id": "C1-U06-L01--2026.10.22.1--vocabulary"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "A1-U08-L01--2026.10.22.1--exercises",
+  "lesson_id": "A1-U08-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A1",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Omáčka obsahuje jogurt.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "A1-U08-L01-E01",
+      "parts": [
+        "Omáčka obsahuje jogurt."
+      ]
+    }
+  ],
+  "text_sha256": "ad5daba68933114e42a6a68a7b9bcd5e4a0f586d6fa172c21ee13ba68c5ee2af",
+  "source_file": "content/lessons/A1/A1-U08-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U08-L01--2026.10.22.1--exercises--ad5daba689--normal.mp3",
+  "slow_file": "content/audio/files/A1-U08-L01--2026.10.22.1--exercises--ad5daba689--slow.mp3",
+  "duration_seconds": 2.316235827664399,
+  "slow_duration_seconds": 2.594875283446712,
+  "cues": [
+    {
+      "text": "Omáčka obsahuje jogurt.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "A1-U08-L01-E01",
+      "parts": [
+        "Omáčka obsahuje jogurt."
+      ],
+      "start": 0.0,
+      "end": 2.136235827664399,
+      "sentences": [
+        {
+          "text": "Omáčka obsahuje jogurt.",
+          "start": 0.0,
+          "end": 2.136235827664399,
+          "slow_start": 0.0,
+          "slow_end": 2.414875283446712
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.414875283446712
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "9745918951cd1bf1efca443d2d8dc17c842dde5588879c2127700391a82a5473",
+    "slow": "cfe8e407843f7984246edc2b2f756c2fea6ccbe75cedf1e17bb8e5f189eabc48"
+  }
+}

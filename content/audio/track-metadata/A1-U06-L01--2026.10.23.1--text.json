@@ -1,0 +1,409 @@
+{
+  "id": "A1-U06-L01--2026.10.23.1--text",
+  "lesson_id": "A1-U06-L01",
+  "content_version": "2026.10.23.1",
+  "level": "A1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Ahoj, máš zítra čas? Potřebuju s tebou mluvit.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Ahoj, máš zítra čas?",
+        "Potřebuju s tebou mluvit."
+      ]
+    },
+    {
+      "text": "Zítra je úterý. Dopoledne pracuju, ale odpoledne mám volno.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Zítra je úterý.",
+        "Dopoledne pracuju, ale odpoledne mám volno."
+      ]
+    },
+    {
+      "text": "Můžeme se sejít v šest hodin u kavárny?",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Můžeme se sejít v šest hodin u kavárny?"
+      ]
+    },
+    {
+      "text": "V šest nemůžu. V sedm mám další schůzku. Co v půl šesté?",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "V šest nemůžu.",
+        "V sedm mám další schůzku.",
+        "Co v půl šesté?"
+      ]
+    },
+    {
+      "text": "Půl šesté, tedy sedmnáct třicet? Ano, to je dobré.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Půl šesté, tedy sedmnáct třicet?",
+        "Ano, to je dobré."
+      ]
+    },
+    {
+      "text": "Kavárna je otevřená od devíti do osmnácti. Máme dost času.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Kavárna je otevřená od devíti do osmnácti.",
+        "Máme dost času."
+      ]
+    },
+    {
+      "text": "A kde přesně čekáš? Před vchodem, nebo uvnitř?",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "A kde přesně čekáš?",
+        "Před vchodem, nebo uvnitř?"
+      ]
+    },
+    {
+      "text": "Před vchodem. Když prší, jsem uvnitř u okna.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Před vchodem.",
+        "Když prší, jsem uvnitř u okna."
+      ]
+    },
+    {
+      "text": "Dobře. V úterý v sedmnáct třicet u kavárny.",
+      "index": 8,
+      "role": "text",
+      "parts": [
+        "Dobře.",
+        "V úterý v sedmnáct třicet u kavárny."
+      ]
+    },
+    {
+      "text": "Ano. Když nemůžeš přijít, napiš mi zprávu.",
+      "index": 9,
+      "role": "text",
+      "parts": [
+        "Ano.",
+        "Když nemůžeš přijít, napiš mi zprávu."
+      ]
+    }
+  ],
+  "text_sha256": "fabfb4c1324bfeeb7c921eba6496771e161bd8b912e142db670f886d65a18a27",
+  "source_file": "content/lessons/A1/A1-U06-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U06-L01--2026.10.22.1--text--fabfb4c132--normal.mp3",
+  "slow_file": "content/audio/files/A1-U06-L01--2026.10.22.1--text--fabfb4c132--slow.mp3",
+  "duration_seconds": 48.96018140589569,
+  "slow_duration_seconds": 54.75356009070295,
+  "cues": [
+    {
+      "text": "Ahoj, máš zítra čas? Potřebuju s tebou mluvit.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Ahoj, máš zítra čas?",
+        "Potřebuju s tebou mluvit."
+      ],
+      "start": 0.0,
+      "end": 4.847210884353742,
+      "sentences": [
+        {
+          "text": "Ahoj, máš zítra čas?",
+          "start": 0.0,
+          "end": 2.391655328798186,
+          "slow_start": 0.0,
+          "slow_end": 2.7631746031746034
+        },
+        {
+          "text": "Potřebuju s tebou mluvit.",
+          "start": 2.571655328798186,
+          "end": 4.847210884353742,
+          "slow_start": 2.943174603174603,
+          "slow_end": 5.659909297052154
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 5.659909297052154
+    },
+    {
+      "text": "Zítra je úterý. Dopoledne pracuju, ale odpoledne mám volno.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Zítra je úterý.",
+        "Dopoledne pracuju, ale odpoledne mám volno."
+      ],
+      "start": 5.0272108843537415,
+      "end": 10.675510204081633,
+      "sentences": [
+        {
+          "text": "Zítra je úterý.",
+          "start": 5.0272108843537415,
+          "end": 6.582947845804989,
+          "slow_start": 5.839909297052154,
+          "slow_end": 7.453696145124717
+        },
+        {
+          "text": "Dopoledne pracuju, ale odpoledne mám volno.",
+          "start": 6.762947845804988,
+          "end": 10.675510204081633,
+          "slow_start": 7.633696145124716,
+          "slow_end": 11.871337868480726
+        }
+      ],
+      "slow_start": 5.839909297052154,
+      "slow_end": 11.871337868480726
+    },
+    {
+      "text": "Můžeme se sejít v šest hodin u kavárny?",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Můžeme se sejít v šest hodin u kavárny?"
+      ],
+      "start": 10.855510204081632,
+      "end": 14.373333333333333,
+      "sentences": [
+        {
+          "text": "Můžeme se sejít v šest hodin u kavárny?",
+          "start": 10.855510204081632,
+          "end": 14.373333333333333,
+          "slow_start": 12.051337868480726,
+          "slow_end": 16.08
+        }
+      ],
+      "slow_start": 12.051337868480726,
+      "slow_end": 16.08
+    },
+    {
+      "text": "V šest nemůžu. V sedm mám další schůzku. Co v půl šesté?",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "V šest nemůžu.",
+        "V sedm mám další schůzku.",
+        "Co v půl šesté?"
+      ],
+      "start": 14.553333333333333,
+      "end": 20.207482993197278,
+      "sentences": [
+        {
+          "text": "V šest nemůžu.",
+          "start": 14.553333333333333,
+          "end": 15.969750566893424,
+          "slow_start": 16.26,
+          "slow_end": 17.885396825396825
+        },
+        {
+          "text": "V sedm mám další schůzku.",
+          "start": 16.149750566893424,
+          "end": 18.483356009070295,
+          "slow_start": 18.065396825396824,
+          "slow_end": 20.74730158730159
+        },
+        {
+          "text": "Co v půl šesté?",
+          "start": 18.663356009070295,
+          "end": 20.207482993197278,
+          "slow_start": 20.92730158730159,
+          "slow_end": 22.715238095238096
+        }
+      ],
+      "slow_start": 16.26,
+      "slow_end": 22.715238095238096
+    },
+    {
+      "text": "Půl šesté, tedy sedmnáct třicet? Ano, to je dobré.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Půl šesté, tedy sedmnáct třicet?",
+        "Ano, to je dobré."
+      ],
+      "start": 20.387482993197278,
+      "end": 25.31596371882086,
+      "sentences": [
+        {
+          "text": "Půl šesté, tedy sedmnáct třicet?",
+          "start": 20.387482993197278,
+          "end": 23.60344671201814,
+          "slow_start": 22.895238095238096,
+          "slow_end": 26.58721088435374
+        },
+        {
+          "text": "Ano, to je dobré.",
+          "start": 23.78344671201814,
+          "end": 25.31596371882086,
+          "slow_start": 26.76721088435374,
+          "slow_end": 28.43904761904762
+        }
+      ],
+      "slow_start": 22.895238095238096,
+      "slow_end": 28.43904761904762
+    },
+    {
+      "text": "Kavárna je otevřená od devíti do osmnácti. Máme dost času.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Kavárna je otevřená od devíti do osmnácti.",
+        "Máme dost času."
+      ],
+      "start": 25.49596371882086,
+      "end": 30.854013605442177,
+      "sentences": [
+        {
+          "text": "Kavárna je otevřená od devíti do osmnácti.",
+          "start": 25.49596371882086,
+          "end": 29.141496598639456,
+          "slow_start": 28.61904761904762,
+          "slow_end": 32.624489795918365
+        },
+        {
+          "text": "Máme dost času.",
+          "start": 29.321496598639456,
+          "end": 30.854013605442177,
+          "slow_start": 32.804489795918364,
+          "slow_end": 34.58081632653061
+        }
+      ],
+      "slow_start": 28.61904761904762,
+      "slow_end": 34.58081632653061
+    },
+    {
+      "text": "A kde přesně čekáš? Před vchodem, nebo uvnitř?",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "A kde přesně čekáš?",
+        "Před vchodem, nebo uvnitř?"
+      ],
+      "start": 31.034013605442176,
+      "end": 35.60258503401361,
+      "sentences": [
+        {
+          "text": "A kde přesně čekáš?",
+          "start": 31.034013605442176,
+          "end": 33.01931972789116,
+          "slow_start": 34.76081632653061,
+          "slow_end": 37.08281179138322
+        },
+        {
+          "text": "Před vchodem, nebo uvnitř?",
+          "start": 33.19931972789116,
+          "end": 35.60258503401361,
+          "slow_start": 37.26281179138322,
+          "slow_end": 39.94471655328798
+        }
+      ],
+      "slow_start": 34.76081632653061,
+      "slow_end": 39.94471655328798
+    },
+    {
+      "text": "Před vchodem. Když prší, jsem uvnitř u okna.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Před vchodem.",
+        "Když prší, jsem uvnitř u okna."
+      ],
+      "start": 35.78258503401361,
+      "end": 39.99124716553288,
+      "sentences": [
+        {
+          "text": "Před vchodem.",
+          "start": 35.78258503401361,
+          "end": 36.81587301587302,
+          "slow_start": 40.12471655328798,
+          "slow_end": 41.29732426303855
+        },
+        {
+          "text": "Když prší, jsem uvnitř u okna.",
+          "start": 36.995873015873016,
+          "end": 39.99124716553288,
+          "slow_start": 41.47732426303855,
+          "slow_end": 44.867437641723356
+        }
+      ],
+      "slow_start": 40.12471655328798,
+      "slow_end": 44.867437641723356
+    },
+    {
+      "text": "Dobře. V úterý v sedmnáct třicet u kavárny.",
+      "index": 8,
+      "role": "text",
+      "parts": [
+        "Dobře.",
+        "V úterý v sedmnáct třicet u kavárny."
+      ],
+      "start": 40.17124716553288,
+      "end": 44.240589569160996,
+      "sentences": [
+        {
+          "text": "Dobře.",
+          "start": 40.17124716553288,
+          "end": 40.96072562358277,
+          "slow_start": 45.047437641723356,
+          "slow_end": 45.871746031746035
+        },
+        {
+          "text": "V úterý v sedmnáct třicet u kavárny.",
+          "start": 41.14072562358277,
+          "end": 44.240589569160996,
+          "slow_start": 46.051746031746035,
+          "slow_end": 49.650839002267574
+        }
+      ],
+      "slow_start": 45.047437641723356,
+      "slow_end": 49.650839002267574
+    },
+    {
+      "text": "Ano. Když nemůžeš přijít, napiš mi zprávu.",
+      "index": 9,
+      "role": "text",
+      "parts": [
+        "Ano.",
+        "Když nemůžeš přijít, napiš mi zprávu."
+      ],
+      "start": 44.420589569160995,
+      "end": 48.78018140589569,
+      "sentences": [
+        {
+          "text": "Ano.",
+          "start": 44.420589569160995,
+          "end": 44.98947845804989,
+          "slow_start": 49.830839002267574,
+          "slow_end": 50.4809977324263
+        },
+        {
+          "text": "Když nemůžeš přijít, napiš mi zprávu.",
+          "start": 45.16947845804989,
+          "end": 48.78018140589569,
+          "slow_start": 50.6609977324263,
+          "slow_end": 54.57356009070295
+        }
+      ],
+      "slow_start": 49.830839002267574,
+      "slow_end": 54.57356009070295
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "aa0c3d517765d27b1ee273600b14df52ede7d4c12c9d9ff6b5cd10d5b6f7b709",
+    "slow": "81137cf86df890bc6385a3347cdef9d2637889baf39845576736097f764c5427"
+  },
+  "reused_from_track_id": "A1-U06-L01--2026.10.22.1--text"
+}

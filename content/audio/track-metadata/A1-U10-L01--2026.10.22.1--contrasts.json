@@ -1,0 +1,66 @@
+{
+  "id": "A1-U10-L01--2026.10.22.1--contrasts",
+  "lesson_id": "A1-U10-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A1",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Je mi zima.. Bolí mě hlava..",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "Je mi zima..",
+        "Bolí mě hlava.."
+      ]
+    }
+  ],
+  "text_sha256": "34910ef7424f2efd8be477d9ed0dd7006651d70d2dc7f43957f3228c4b01a64f",
+  "source_file": "content/lessons/A1/A1-U10-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U10-L01--2026.10.22.1--contrasts--34910ef742--normal.mp3",
+  "slow_file": "content/audio/files/A1-U10-L01--2026.10.22.1--contrasts--34910ef742--slow.mp3",
+  "duration_seconds": 3.366984126984127,
+  "slow_duration_seconds": 4.202902494331066,
+  "cues": [
+    {
+      "text": "Je mi zima.. Bolí mě hlava..",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "Je mi zima..",
+        "Bolí mě hlava.."
+      ],
+      "start": 0.0,
+      "end": 3.186984126984127,
+      "sentences": [
+        {
+          "text": "Je mi zima..",
+          "start": 0.0,
+          "end": 1.0797278911564625,
+          "slow_start": 0.0,
+          "slow_end": 1.6370068027210884
+        },
+        {
+          "text": "Bolí mě hlava..",
+          "start": 1.2597278911564627,
+          "end": 3.186984126984127,
+          "slow_start": 1.8170068027210884,
+          "slow_end": 4.022902494331066
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 4.022902494331066
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "78e4546b5935430d09c5621a6b8ae1c1ccc9cb30170e5b6276b0d7bf8b7d1ac0",
+    "slow": "608de763bbfb6120dc06e5df80c39ca8292a36d3a3b7eca08901aac9956e144d"
+  }
+}

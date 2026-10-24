@@ -1,0 +1,57 @@
+{
+  "id": "Pre-A1-U04-L01--2026.10.22.1--contrasts",
+  "lesson_id": "Pre-A1-U04-L01",
+  "content_version": "2026.10.22.1",
+  "level": "Pre-A1",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "díky. dým.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "díky. dým."
+      ]
+    }
+  ],
+  "text_sha256": "9a7808b918b32c2df3cfe0defb46aa8625bc2efc3e9b9ef374a87452fd19c7c2",
+  "source_file": "content/lessons/Pre-A1/Pre-A1-U04-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/Pre-A1-U04-L01--2026.10.22.1--contrasts--9a7808b918--normal.mp3",
+  "slow_file": "content/audio/files/Pre-A1-U04-L01--2026.10.22.1--contrasts--9a7808b918--slow.mp3",
+  "duration_seconds": 1.2481179138321996,
+  "slow_duration_seconds": 1.3293877551020408,
+  "cues": [
+    {
+      "text": "díky. dým.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "díky. dým."
+      ],
+      "start": 0.0,
+      "end": 1.0681179138321995,
+      "sentences": [
+        {
+          "text": "díky. dým.",
+          "start": 0.0,
+          "end": 1.0681179138321995,
+          "slow_start": 0.0,
+          "slow_end": 1.1493877551020408
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.1493877551020408
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "88b3b1e9e1c284508e9497ac4c5e0fd195555470a94f041f00e51ad3fc6ffb97",
+    "slow": "6519e57c1970c5dff2fc7f92fc9ea4e4d5c8e59ed04e1e80351f77a507a6c030"
+  }
+}

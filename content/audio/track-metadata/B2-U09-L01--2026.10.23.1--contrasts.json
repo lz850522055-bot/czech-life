@@ -1,0 +1,58 @@
+{
+  "id": "B2-U09-L01--2026.10.23.1--contrasts",
+  "lesson_id": "B2-U09-L01",
+  "content_version": "2026.10.23.1",
+  "level": "B2",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "včetně úklidu. bez úklidu.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "včetně úklidu. bez úklidu."
+      ]
+    }
+  ],
+  "text_sha256": "80bf56f8fa3ca0bc8879ea0c55090b59129336cb314c83ac63f661d4f000d83f",
+  "source_file": "content/lessons/B2/B2-U09-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U09-L01--2026.10.22.1--contrasts--80bf56f8fa--normal.mp3",
+  "slow_file": "content/audio/files/B2-U09-L01--2026.10.22.1--contrasts--80bf56f8fa--slow.mp3",
+  "duration_seconds": 2.3046258503401362,
+  "slow_duration_seconds": 2.6297052154195013,
+  "cues": [
+    {
+      "text": "včetně úklidu. bez úklidu.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "včetně úklidu. bez úklidu."
+      ],
+      "start": 0.0,
+      "end": 2.124625850340136,
+      "sentences": [
+        {
+          "text": "včetně úklidu. bez úklidu.",
+          "start": 0.0,
+          "end": 2.124625850340136,
+          "slow_start": 0.0,
+          "slow_end": 2.449705215419501
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.449705215419501
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "cd4fdf28218cf1ef3811790daea1640e2f3e2669a4295e99c14ef10abd870105",
+    "slow": "b560325473bf2d5e7cbc015fef5e9fbab4168e592d08c39673ee74e7ad311b11"
+  },
+  "reused_from_track_id": "B2-U09-L01--2026.10.22.1--contrasts"
+}

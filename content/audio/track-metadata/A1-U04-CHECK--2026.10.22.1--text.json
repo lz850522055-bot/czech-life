@@ -1,0 +1,66 @@
+{
+  "id": "A1-U04-CHECK--2026.10.22.1--text",
+  "lesson_id": "A1-U04-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "A1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Tady můžete sedět, ale nesmíte jíst. Toaleta není daleko.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Tady můžete sedět, ale nesmíte jíst.",
+        "Toaleta není daleko."
+      ]
+    }
+  ],
+  "text_sha256": "d19c1c7b1fd05b3d786391be7e5ab71afee2cfc784694fea4b7a805a2b32bd3a",
+  "source_file": "content/assessments/A1-U04.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U04-CHECK--2026.10.22.1--text--d19c1c7b1f--normal.mp3",
+  "slow_file": "content/audio/files/A1-U04-CHECK--2026.10.22.1--text--d19c1c7b1f--slow.mp3",
+  "duration_seconds": 5.468390022675737,
+  "slow_duration_seconds": 6.188208616780045,
+  "cues": [
+    {
+      "text": "Tady můžete sedět, ale nesmíte jíst. Toaleta není daleko.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Tady můžete sedět, ale nesmíte jíst.",
+        "Toaleta není daleko."
+      ],
+      "start": 0.0,
+      "end": 5.2883900226757365,
+      "sentences": [
+        {
+          "text": "Tady můžete sedět, ale nesmíte jíst.",
+          "start": 0.0,
+          "end": 3.215963718820862,
+          "slow_start": 0.0,
+          "slow_end": 3.7151927437641725
+        },
+        {
+          "text": "Toaleta není daleko.",
+          "start": 3.3959637188208616,
+          "end": 5.2883900226757365,
+          "slow_start": 3.8951927437641722,
+          "slow_end": 6.0082086167800455
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 6.0082086167800455
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "0e8ebda8ad2fb4285587cfd53a6ff2bac548e4eec4b16d2a333e317f3d158ae1",
+    "slow": "cdbb8fc34751bfafc12ce278879d882b0f0028dc9e1026204e96c0e18b61939a"
+  }
+}

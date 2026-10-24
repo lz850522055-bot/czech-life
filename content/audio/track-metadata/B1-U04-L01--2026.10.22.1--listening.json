@@ -1,0 +1,84 @@
+{
+  "id": "B1-U04-L01--2026.10.22.1--listening",
+  "lesson_id": "B1-U04-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Schůzku přesouváme do knihovny, protože klubovna není volná. Přijďte prosím o deset minut dříve, abychom mohli začít včas. Pokud nové místo nenajdete, zavolejte mi. Přestože se místo mění, začátek zůstává v šest hodin.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Schůzku přesouváme do knihovny, protože klubovna není volná.",
+        "Přijďte prosím o deset minut dříve, abychom mohli začít včas.",
+        "Pokud nové místo nenajdete, zavolejte mi.",
+        "Přestože se místo mění, začátek zůstává v šest hodin."
+      ]
+    }
+  ],
+  "text_sha256": "c51998a39c15b37aecd0e62af8adee8cdfc753e6901f53f1e6f38ea98704f658",
+  "source_file": "content/lessons/B1/B1-U04-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U04-L01--2026.10.22.1--listening--c51998a39c--normal.mp3",
+  "slow_file": "content/audio/files/B1-U04-L01--2026.10.22.1--listening--c51998a39c--slow.mp3",
+  "duration_seconds": 20.224761904761905,
+  "slow_duration_seconds": 22.4887074829932,
+  "cues": [
+    {
+      "text": "Schůzku přesouváme do knihovny, protože klubovna není volná. Přijďte prosím o deset minut dříve, abychom mohli začít včas. Pokud nové místo nenajdete, zavolejte mi. Přestože se místo mění, začátek zůstává v šest hodin.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Schůzku přesouváme do knihovny, protože klubovna není volná.",
+        "Přijďte prosím o deset minut dříve, abychom mohli začít včas.",
+        "Pokud nové místo nenajdete, zavolejte mi.",
+        "Přestože se místo mění, začátek zůstává v šest hodin."
+      ],
+      "start": 0.0,
+      "end": 20.044761904761906,
+      "sentences": [
+        {
+          "text": "Schůzku přesouváme do knihovny, protože klubovna není volná.",
+          "start": 0.0,
+          "end": 5.166439909297052,
+          "slow_start": 0.0,
+          "slow_end": 5.7817687074829935
+        },
+        {
+          "text": "Přijďte prosím o deset minut dříve, abychom mohli začít včas.",
+          "start": 5.346439909297052,
+          "end": 11.313968253968254,
+          "slow_start": 5.961768707482993,
+          "slow_end": 12.591065759637187
+        },
+        {
+          "text": "Pokud nové místo nenajdete, zavolejte mi.",
+          "start": 11.493968253968253,
+          "end": 14.953741496598639,
+          "slow_start": 12.771065759637189,
+          "slow_end": 16.567528344671203
+        },
+        {
+          "text": "Přestože se místo mění, začátek zůstává v šest hodin.",
+          "start": 15.13374149659864,
+          "end": 20.044761904761906,
+          "slow_start": 16.747528344671203,
+          "slow_end": 22.308707482993196
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 22.308707482993196
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "44311ab80757c0d9a84babe7cf158276b6f760d7a01d1d1f1493bfe83fe04a18",
+    "slow": "3b807317dfa69da648c41bd1aad4b39fc6e810508beef6e38730a731e314eb65"
+  }
+}

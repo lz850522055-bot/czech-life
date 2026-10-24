@@ -1,0 +1,221 @@
+{
+  "id": "C2-U04-CHECK",
+  "kind": "unit",
+  "level": "C2",
+  "unit_id": "C2-U04",
+  "title_zh": "同一事件在公告、回忆和评论里：新情境检验",
+  "version": "2026.10.22.1",
+  "unseen_text": [
+    {
+      "cs": "Oznámení: Dojde k optimalizaci obslužnosti. Dopis cestující: Autobus v jízdním řádu zůstal, jen už po práci nestihnu poslední spoj. Komentář souseda: Takže doprava byla úplně zrušena.",
+      "zh": "公告称优化服务，乘客说下班赶不上末班，邻居概括为交通完全取消。"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "邻居的转述有什么越界？",
+      "stimulus_cs": "",
+      "answer": "a",
+      "explanation_zh": "不同层次不能合并。",
+      "skill_ids": [
+        "reading"
+      ],
+      "knowledge_points": [
+        "c2-genre-critical-reading",
+        "c2-impersonal-agency"
+      ],
+      "error_category": "comprehension",
+      "options": [
+        {
+          "id": "a",
+          "text": "把个人可用性下降变成服务全取消"
+        },
+        {
+          "id": "b",
+          "text": "没有加入更多形容词"
+        },
+        {
+          "id": "c",
+          "text": "否认有人下班"
+        }
+      ],
+      "scoring_basis": "封闭题以答案核对；解析说明本题边界。",
+      "id": "C2-U04-CHECK-E01"
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "写准确综合两句。",
+      "stimulus_cs": "",
+      "answer": "Spoj podle dopisu nezmizel, ale jeho čas nevyhovuje této cestující. Pojem optimalizace sám nevysvětluje, jak se změnila dostupnost pro různé skupiny.",
+      "explanation_zh": "事实存在与个人可使用性分开。",
+      "skill_ids": [
+        "writing"
+      ],
+      "knowledge_points": [
+        "c2-genre-critical-reading",
+        "c2-impersonal-agency"
+      ],
+      "error_category": "comprehension",
+      "rubric": [
+        "回应具体任务，信息不失真",
+        "逻辑有衔接，能说明证据与限制",
+        "语法与搭配基本准确，语域适合对象",
+        "能自主组织语言而非照读范文"
+      ],
+      "scoring_basis": "开放表达：示范不是唯一答案；依量规自评或人工评阅，未接受人工评阅时不自动判定能力达标。",
+      "id": "C2-U04-CHECK-E02"
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "向运营方问一个对应实际影响的问题。",
+      "stimulus_cs": "",
+      "answer": "Jak změna ovlivní cestující, kteří končí práci po dané hodině, a jakou mají reálnou alternativu?",
+      "explanation_zh": "从空泛优化转到具体人群。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "knowledge_points": [
+        "c2-genre-critical-reading",
+        "c2-impersonal-agency"
+      ],
+      "error_category": "comprehension",
+      "rubric": [
+        "回应具体任务，信息不失真",
+        "逻辑有衔接，能说明证据与限制",
+        "语法与搭配基本准确，语域适合对象",
+        "能自主组织语言而非照读范文"
+      ],
+      "scoring_basis": "开放表达：示范不是唯一答案；依量规自评或人工评阅，未接受人工评阅时不自动判定能力达标。",
+      "id": "C2-U04-CHECK-E03"
+    }
+  ],
+  "rubric": [
+    "理解未见材料中的主张及限定",
+    "主动表达时准确转述不同立场",
+    "区分事实、推断与建议",
+    "能针对误解调整解释方式"
+  ],
+  "remediation": [
+    {
+      "condition_zh": "误把可能性说成事实，或遗漏反方条件",
+      "lesson_ids": [
+        "C2-U04-L01"
+      ],
+      "action_zh": "重做信息定位与转述，标出每个判断的来源和语气词。"
+    },
+    {
+      "condition_zh": "表达卡住或只有单句结论",
+      "lesson_ids": [
+        "C2-U04-L01"
+      ],
+      "action_zh": "先列论点—依据—限制—行动四点，再换对象重录一次。"
+    }
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "C2-U04-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U04-CHECK--2026.10.22.1--text--29bf34cc4a--normal.mp3",
+      "slow_file": "audio/files/C2-U04-CHECK--2026.10.22.1--text--29bf34cc4a--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U04-CHECK--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Oznámení: Dojde k optimalizaci obslužnosti. Dopis cestující: Autobus v jízdním řádu zůstal, jen už po práci nestihnu poslední spoj. Komentář souseda: Takže doprava byla úplně zrušena.",
+      "duration_seconds": 17.36285714285714,
+      "slow_duration_seconds": 19.88222222222222,
+      "sha256": "3badf825ea2953910afd1ea90460f7e1637e3340dff1faee40f176ae93638e26",
+      "slow_sha256": "49e07d2c3dff75687e4171b5cdf2e6f2b96e5d065ea54b078f12c25797db6ad4"
+    },
+    {
+      "lesson_id": "C2-U04-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U04-CHECK--2026.10.22.1--text--29bf34cc4a--normal.mp3",
+      "slow_file": "audio/files/C2-U04-CHECK--2026.10.22.1--text--29bf34cc4a--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U04-CHECK--2026.10.22.1--text--p0",
+      "asset_id": "C2-U04-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Oznámení: Dojde k optimalizaci obslužnosti. Dopis cestující: Autobus v jízdním řádu zůstal, jen už po práci nestihnu poslední spoj. Komentář souseda: Takže doprava byla úplně zrušena.",
+      "start": 0,
+      "end": 17.18285714285714,
+      "slow_start": 0,
+      "slow_end": 19.702222222222222
+    },
+    {
+      "lesson_id": "C2-U04-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U04-CHECK--2026.10.22.1--text--29bf34cc4a--normal.mp3",
+      "slow_file": "audio/files/C2-U04-CHECK--2026.10.22.1--text--29bf34cc4a--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U04-CHECK--2026.10.22.1--text--s0",
+      "asset_id": "C2-U04-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Oznámení: Dojde k optimalizaci obslužnosti.",
+      "start": 0,
+      "end": 4.249251700680272,
+      "slow_start": 0,
+      "slow_end": 4.899410430839002
+    },
+    {
+      "lesson_id": "C2-U04-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U04-CHECK--2026.10.22.1--text--29bf34cc4a--normal.mp3",
+      "slow_file": "audio/files/C2-U04-CHECK--2026.10.22.1--text--29bf34cc4a--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U04-CHECK--2026.10.22.1--text--s1",
+      "asset_id": "C2-U04-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Dopis cestující: Autobus v jízdním řádu zůstal, jen už po práci nestihnu poslední spoj.",
+      "start": 4.429251700680272,
+      "end": 12.63750566893424,
+      "slow_start": 5.079410430839002,
+      "slow_end": 14.4718820861678
+    },
+    {
+      "lesson_id": "C2-U04-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U04-CHECK--2026.10.22.1--text--29bf34cc4a--normal.mp3",
+      "slow_file": "audio/files/C2-U04-CHECK--2026.10.22.1--text--29bf34cc4a--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U04-CHECK--2026.10.22.1--text--s2",
+      "asset_id": "C2-U04-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Komentář souseda: Takže doprava byla úplně zrušena.",
+      "start": 12.81750566893424,
+      "end": 17.18285714285714,
+      "slow_start": 14.6518820861678,
+      "slow_end": 19.702222222222222
+    }
+  ]
+}

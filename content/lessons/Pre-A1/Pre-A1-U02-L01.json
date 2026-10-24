@@ -1,0 +1,1228 @@
+{
+  "id": "Pre-A1-U02-L01",
+  "level": "Pre-A1",
+  "unit_id": "Pre-A1-U02",
+  "order": 2,
+  "version": "2026.10.23.1",
+  "title_zh": "长音不是重音：听清一张护照和一条带子",
+  "title_cs": "Délka a přízvuk",
+  "prerequisites": [
+    "Pre-A1-U01-L01"
+  ],
+  "can_do": [
+    "区分长短元音",
+    "识别词开头重音",
+    "对比两个相近词"
+  ],
+  "scene": "发音起步",
+  "skills": [
+    "listening",
+    "speaking",
+    "reading",
+    "writing",
+    "interaction",
+    "mediation"
+  ],
+  "knowledge_points": [
+    "vowel-length",
+    "stress-group"
+  ],
+  "intro_zh": "你要避免把长音当成“念得用力”。用手轻轻打拍表示词的开头，嘴里的元音长度另算。",
+  "lesson_text": [
+    {
+      "id": "s01",
+      "cs": "Pas. Pás.",
+      "zh": "护照。带子。",
+      "note_zh": "区别在a的长度。"
+    },
+    {
+      "id": "s02",
+      "cs": "Rada. Ráda.",
+      "zh": "建议。高兴地/喜欢，女性说话者用。",
+      "note_zh": "这里只比较长短，含义看语境。"
+    },
+    {
+      "id": "s03",
+      "cs": "Byt. Být.",
+      "zh": "公寓。是/存在。",
+      "note_zh": "y与ý有时长差别。"
+    },
+    {
+      "id": "s04",
+      "cs": "To je můj pas.",
+      "zh": "这是我的护照。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s05",
+      "cs": "Tady je černý pás.",
+      "zh": "这里有一条黑带子。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s06",
+      "cs": "Paní Jana má kávu.",
+      "zh": "雅娜女士有咖啡。",
+      "note_zh": "paní第一音节重读，第二音节í仍长。"
+    },
+    {
+      "id": "s07",
+      "cs": "Na stole je mapa.",
+      "zh": "桌上有地图。",
+      "note_zh": "na stole通常合成一个重音组，na承重音。"
+    },
+    {
+      "id": "s08",
+      "cs": "Prosím pomalu.",
+      "zh": "请慢一点。",
+      "note_zh": "放慢不是把每个短元音都拉长。"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "vowel-length",
+      "rule_zh": "长音拉长声音，重音只是突出一个音节。",
+      "detail_zh": "元音长度能区分词义，如pas/pás。重音通常在一个发音词组的第一个音节；长元音可以在不重读的位置，例如paní的ní。不要用中文声调升降来代替长度，也不要固定所有长音都恰好是短音两倍。长短主要区别在持续时间，但i/í还会有音质差别：长í更闭，舌更靠近上腭、下颌开度略小；不能把所有长音都教成口型完全不变。",
+      "examples": [
+        {
+          "cs": "pas",
+          "zh": "护照",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        },
+        {
+          "cs": "pás",
+          "zh": "带子",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        },
+        {
+          "cs": "paní",
+          "zh": "女士",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        }
+      ],
+      "pitfalls": [
+        "把paní重音移到í上。"
+      ],
+      "exceptions": [
+        "自然语速、词中位置会影响实际时长，听对比比计时更可靠。"
+      ],
+      "term": "元音长度与重音"
+    },
+    {
+      "id": "stress-group",
+      "rule_zh": "短介词常与后面的词一起念。",
+      "detail_zh": "像na stole通常在na上有词组重音。不是每个书写词都必须单独重读。先听整块，再在不破坏长短音的前提下跟读。",
+      "examples": [
+        {
+          "cs": "na stole",
+          "zh": "在桌上",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        },
+        {
+          "cs": "do Prahy",
+          "zh": "去布拉格",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        }
+      ],
+      "pitfalls": [
+        "每个词之间都停一拍会破坏自然节奏。"
+      ],
+      "exceptions": [
+        "强调、对比或复杂词组时重音组织会变化；入门先掌握中性读法。"
+      ],
+      "term": "重音组"
+    }
+  ],
+  "vocabulary": [
+    {
+      "lemma": "pas",
+      "pos": "名词，阳性无生",
+      "forms": "pasu; pasy",
+      "meaning_zh": "护照",
+      "collocation": "cestovní pas",
+      "example_cs": "Mám pas.",
+      "example_zh": "我有护照。",
+      "confusion_zh": "与pás区分。"
+    },
+    {
+      "lemma": "pás",
+      "pos": "名词，阳性无生",
+      "forms": "pásu; pásy",
+      "meaning_zh": "带子",
+      "collocation": "černý pás",
+      "example_cs": "Pás je černý.",
+      "example_zh": "带子是黑色的。",
+      "confusion_zh": "长á。"
+    },
+    {
+      "lemma": "byt",
+      "pos": "名词，阳性无生",
+      "forms": "bytu; byty",
+      "meaning_zh": "公寓",
+      "collocation": "malý byt",
+      "example_cs": "To je byt.",
+      "example_zh": "这是公寓。",
+      "confusion_zh": "与být区分。"
+    },
+    {
+      "lemma": "být",
+      "pos": "动词，未完成体",
+      "forms": "jsem; byl; budu",
+      "meaning_zh": "是；存在",
+      "collocation": "být doma",
+      "example_cs": "Chci být doma.",
+      "example_zh": "我想待在家。",
+      "confusion_zh": "ý长音，不是byt。"
+    }
+  ],
+  "listening": {
+    "script": [
+      {
+        "cs": "Mám pas.",
+        "zh": "我有护照。",
+        "note_zh": "先理解整句意图，再回看本课规律。"
+      },
+      {
+        "cs": "Pás je tady.",
+        "zh": "带子在这里。",
+        "note_zh": "先理解整句意图，再回看本课规律。"
+      },
+      {
+        "cs": "Paní Jana má nový byt.",
+        "zh": "雅娜女士有一套新公寓。",
+        "note_zh": "先理解整句意图，再回看本课规律。"
+      }
+    ],
+    "focus_zh": "先不看文本听出任务关键信息；第二遍核对词形、数字与否定；最后对照中文。",
+    "source": "original"
+  },
+  "pronunciation": {
+    "focus_zh": "下颌放松，先稳定a的口型；pas短促，pás让a持续更久。手在第一音节轻敲，身体不要跟着长音额外用力。",
+    "contrast": [
+      {
+        "a": "pas",
+        "b": "pás",
+        "note_zh": "只改变元音长度，不改变开头和结尾辅音。"
+      }
+    ],
+    "task_zh": "录下pas–pás三组，随机回放，标出哪个长；再录paní。"
+  },
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "听到的是哪个词？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "pas"
+        },
+        {
+          "id": "b",
+          "text": "pás"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "长á对应pás。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "listening"
+      ],
+      "error_category": "pronunciation",
+      "audio_text_cs": "pás",
+      "id": "Pre-A1-U02-L01-E01",
+      "knowledge_points": [
+        "vowel-length",
+        "stress-group"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "哪个词表示公寓？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "být"
+        },
+        {
+          "id": "b",
+          "text": "byt"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "byt短元音是公寓；být是动词。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "meaning",
+      "id": "Pre-A1-U02-L01-E02",
+      "knowledge_points": [
+        "vowel-length",
+        "stress-group"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "写出长元音词“带子”。",
+      "stimulus_cs": "",
+      "answer": "pás",
+      "accepted_answers": [
+        "pás"
+      ],
+      "explanation_zh": "需要á。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "spelling",
+      "id": "Pre-A1-U02-L01-E03",
+      "knowledge_points": [
+        "vowel-length",
+        "stress-group"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "paní的通常词重音在哪里？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "pa"
+        },
+        {
+          "id": "b",
+          "text": "ní"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "重音在pa，ní仍长。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "pronunciation",
+      "id": "Pre-A1-U02-L01-E04",
+      "knowledge_points": [
+        "vowel-length",
+        "stress-group"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "na stole中性连读通常突出哪里？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "na"
+        },
+        {
+          "id": "b",
+          "text": "le"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "短介词可与名词组成重音组。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "listening"
+      ],
+      "error_category": "pronunciation",
+      "audio_text_cs": "na stole",
+      "id": "Pre-A1-U02-L01-E05",
+      "knowledge_points": [
+        "vowel-length",
+        "stress-group"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt_zh": "以Prosím开头，组成“请慢一点”。",
+      "stimulus_cs": "pomalu / Prosím",
+      "answer": "Prosím pomalu.",
+      "accepted_answers": [
+        "Prosím pomalu."
+      ],
+      "explanation_zh": "pomalu表示慢慢地。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "word_order",
+      "options": [
+        "pomalu",
+        "Prosím"
+      ],
+      "id": "Pre-A1-U02-L01-E06",
+      "knowledge_points": [
+        "vowel-length",
+        "stress-group"
+      ]
+    },
+    {
+      "type": "correct",
+      "prompt_zh": "修正唯一错误：要表达“我有护照”。",
+      "stimulus_cs": "Mám pás.",
+      "answer": "Mám pas.",
+      "accepted_answers": [
+        "Mám pas."
+      ],
+      "explanation_zh": "护照是pas，不能拉成长á。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "spelling",
+      "id": "Pre-A1-U02-L01-E07",
+      "knowledge_points": [
+        "vowel-length",
+        "stress-group"
+      ]
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "录下rada–ráda、byt–být，重点比较元音长短。rada–ráda主要比较a的长度；byt–být还要模仿短y与长ý的音质差别，不只机械拉长。",
+      "stimulus_cs": "",
+      "answer": "Rada, ráda. Byt, být.",
+      "accepted_answers": [],
+      "explanation_zh": "回听是否能独立分辨顺序。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "Pre-A1-U02-L01-E08",
+      "knowledge_points": [
+        "vowel-length",
+        "stress-group"
+      ]
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "对方把护照听成带子，用短句纠正。",
+      "stimulus_cs": "",
+      "answer": "Pas, ne pás.",
+      "accepted_answers": [],
+      "explanation_zh": "先说正确词，再否定误解词。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "Pre-A1-U02-L01-E09",
+      "knowledge_points": [
+        "vowel-length",
+        "stress-group"
+      ]
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "向朋友用中文解释为什么paní的í虽长却不重读。",
+      "stimulus_cs": "",
+      "answer": "paní的重音在第一音节pa；第二音节ní里的í仍是长音。重音说的是哪个音节突出，长短说的是元音持续多久，两件事要分开。",
+      "accepted_answers": [],
+      "explanation_zh": "长度和重音是独立维度。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "Pre-A1-U02-L01-E10",
+      "knowledge_points": [
+        "vowel-length",
+        "stress-group"
+      ]
+    }
+  ],
+  "transfer_task": {
+    "prompt_zh": "随机写下pas、pás、byt、být，读给自己录音，隔一会听写核对。",
+    "model_answer_cs": "Pas. Pás. Byt. Být.",
+    "rubric": [
+      "任务信息完整",
+      "用目标规律表达",
+      "独立完成并回听/回看"
+    ]
+  },
+  "review_links": [
+    "Pre-A1-U01-L01"
+  ],
+  "sources": [
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?id=903",
+      "scope": "本课涉及的声音/词形/语法规则；编排与例句为原创",
+      "verification": "官方来源用于相关规则交叉核查；具体查核范围见content/sources/foundation-verification.md；本课例句为原创，未逐句母语审校。"
+    },
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?id=915",
+      "scope": "本课涉及的声音/词形/语法规则；编排与例句为原创",
+      "verification": "官方来源用于相关规则交叉核查；具体查核范围见content/sources/foundation-verification.md；本课例句为原创，未逐句母语审校。"
+    }
+  ],
+  "content_status": "authored_crosschecked_not_native_reviewed",
+  "quality_notes": [
+    "课程及题目原创；自动检查结构、唯一ID与答案。",
+    "已对照所列官方发音、数词、条件式、物主词等章节核查相应规则；其余内容做内部语言一致性复核，未逐句外部审校。",
+    "CEFR级别为教学编排，不构成官方达标或考试认证。"
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "Pre-A1-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--text--c9768d4523--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--text--c9768d4523--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U02-L01--2026.10.23.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Pas. Pás. Rada. Ráda. Byt. Být. To je můj pas. Tady je černý pás. Paní Jana má kávu. Na stole je mapa. Prosím pomalu.",
+      "duration_seconds": 14.065986394557823,
+      "slow_duration_seconds": 15.946802721088435,
+      "sha256": "b5211dad9d3c930b220c0183cd6825468892baf9f998bbdfa878df6c2df30183",
+      "slow_sha256": "bc76af15014c6f376483861fc4af09b337e22c82a72315ab3a3303a4a2c3683e"
+    },
+    {
+      "lesson_id": "Pre-A1-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--text--c9768d4523--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--text--c9768d4523--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U02-L01--2026.10.23.1--text--p0",
+      "asset_id": "Pre-A1-U02-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Pas. Pás.",
+      "start": 0,
+      "end": 1.5615873015873016,
+      "slow_start": 0,
+      "slow_end": 1.7821768707482992
+    },
+    {
+      "lesson_id": "Pre-A1-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--text--c9768d4523--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--text--c9768d4523--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U02-L01--2026.10.23.1--text--s0",
+      "asset_id": "Pre-A1-U02-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Pas.",
+      "start": 0,
+      "end": 0.7082086167800453,
+      "slow_start": 0,
+      "slow_end": 0.8359183673469388
+    },
+    {
+      "lesson_id": "Pre-A1-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--text--c9768d4523--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--text--c9768d4523--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U02-L01--2026.10.23.1--text--s1",
+      "asset_id": "Pre-A1-U02-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Pás.",
+      "start": 0.8882086167800454,
+      "end": 1.5615873015873016,
+      "slow_start": 1.0159183673469387,
+      "slow_end": 1.7821768707482992
+    },
+    {
+      "lesson_id": "Pre-A1-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--text--c9768d4523--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--text--c9768d4523--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U02-L01--2026.10.23.1--text--p1",
+      "asset_id": "Pre-A1-U02-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Rada. Ráda.",
+      "start": 1.7415873015873016,
+      "end": 3.3728344671201813,
+      "slow_start": 1.9621768707482994,
+      "slow_end": 3.7791836734693875
+    },
+    {
+      "lesson_id": "Pre-A1-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--text--c9768d4523--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--text--c9768d4523--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U02-L01--2026.10.23.1--text--s2",
+      "asset_id": "Pre-A1-U02-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 1,
+      "sentence_index": 0,
+      "text": "Rada.",
+      "start": 1.7415873015873016,
+      "end": 2.426575963718821,
+      "slow_start": 1.9621768707482994,
+      "slow_end": 2.751655328798186
+    },
+    {
+      "lesson_id": "Pre-A1-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--text--c9768d4523--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--text--c9768d4523--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U02-L01--2026.10.23.1--text--s3",
+      "asset_id": "Pre-A1-U02-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 3,
+      "paragraph_index": 1,
+      "sentence_index": 1,
+      "text": "Ráda.",
+      "start": 2.606575963718821,
+      "end": 3.3728344671201813,
+      "slow_start": 2.931655328798186,
+      "slow_end": 3.7791836734693875
+    },
+    {
+      "lesson_id": "Pre-A1-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--text--c9768d4523--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--text--c9768d4523--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U02-L01--2026.10.23.1--text--p2",
+      "asset_id": "Pre-A1-U02-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Byt. Být.",
+      "start": 3.5528344671201815,
+      "end": 5.1492517006802725,
+      "slow_start": 3.9591836734693877,
+      "slow_end": 5.845850340136054
+    },
+    {
+      "lesson_id": "Pre-A1-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--text--c9768d4523--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--text--c9768d4523--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U02-L01--2026.10.23.1--text--s4",
+      "asset_id": "Pre-A1-U02-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 4,
+      "paragraph_index": 2,
+      "sentence_index": 0,
+      "text": "Byt.",
+      "start": 3.5528344671201815,
+      "end": 4.295873015873016,
+      "slow_start": 3.9591836734693877,
+      "slow_end": 4.864761904761905
+    },
+    {
+      "lesson_id": "Pre-A1-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--text--c9768d4523--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--text--c9768d4523--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U02-L01--2026.10.23.1--text--s5",
+      "asset_id": "Pre-A1-U02-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 5,
+      "paragraph_index": 2,
+      "sentence_index": 1,
+      "text": "Být.",
+      "start": 4.475873015873016,
+      "end": 5.1492517006802725,
+      "slow_start": 5.044761904761905,
+      "slow_end": 5.845850340136054
+    },
+    {
+      "lesson_id": "Pre-A1-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--text--c9768d4523--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--text--c9768d4523--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U02-L01--2026.10.23.1--text--p3",
+      "asset_id": "Pre-A1-U02-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "To je můj pas.",
+      "start": 5.329251700680272,
+      "end": 6.676009070294785,
+      "slow_start": 6.025850340136055,
+      "slow_end": 7.639637188208617
+    },
+    {
+      "lesson_id": "Pre-A1-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--text--c9768d4523--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--text--c9768d4523--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U02-L01--2026.10.23.1--text--s6",
+      "asset_id": "Pre-A1-U02-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 6,
+      "paragraph_index": 3,
+      "sentence_index": 0,
+      "text": "To je můj pas.",
+      "start": 5.329251700680272,
+      "end": 6.676009070294785,
+      "slow_start": 6.025850340136055,
+      "slow_end": 7.639637188208617
+    },
+    {
+      "lesson_id": "Pre-A1-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--text--c9768d4523--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--text--c9768d4523--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U02-L01--2026.10.23.1--text--p4",
+      "asset_id": "Pre-A1-U02-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 4,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Tady je černý pás.",
+      "start": 6.8560090702947845,
+      "end": 8.643945578231293,
+      "slow_start": 7.819637188208617,
+      "slow_end": 9.86299319727891
+    },
+    {
+      "lesson_id": "Pre-A1-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--text--c9768d4523--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--text--c9768d4523--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U02-L01--2026.10.23.1--text--s7",
+      "asset_id": "Pre-A1-U02-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 7,
+      "paragraph_index": 4,
+      "sentence_index": 0,
+      "text": "Tady je černý pás.",
+      "start": 6.8560090702947845,
+      "end": 8.643945578231293,
+      "slow_start": 7.819637188208617,
+      "slow_end": 9.86299319727891
+    },
+    {
+      "lesson_id": "Pre-A1-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--text--c9768d4523--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--text--c9768d4523--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U02-L01--2026.10.23.1--text--p5",
+      "asset_id": "Pre-A1-U02-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 5,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Paní Jana má kávu.",
+      "start": 8.823945578231292,
+      "end": 10.64671201814059,
+      "slow_start": 10.042993197278912,
+      "slow_end": 12.132789115646258
+    },
+    {
+      "lesson_id": "Pre-A1-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--text--c9768d4523--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--text--c9768d4523--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U02-L01--2026.10.23.1--text--s8",
+      "asset_id": "Pre-A1-U02-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 8,
+      "paragraph_index": 5,
+      "sentence_index": 0,
+      "text": "Paní Jana má kávu.",
+      "start": 8.823945578231292,
+      "end": 10.64671201814059,
+      "slow_start": 10.042993197278912,
+      "slow_end": 12.132789115646258
+    },
+    {
+      "lesson_id": "Pre-A1-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--text--c9768d4523--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--text--c9768d4523--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U02-L01--2026.10.23.1--text--p6",
+      "asset_id": "Pre-A1-U02-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 6,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Na stole je mapa.",
+      "start": 10.82671201814059,
+      "end": 12.219909297052155,
+      "slow_start": 12.31278911564626,
+      "slow_end": 13.914965986394558
+    },
+    {
+      "lesson_id": "Pre-A1-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--text--c9768d4523--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--text--c9768d4523--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U02-L01--2026.10.23.1--text--s9",
+      "asset_id": "Pre-A1-U02-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 9,
+      "paragraph_index": 6,
+      "sentence_index": 0,
+      "text": "Na stole je mapa.",
+      "start": 10.82671201814059,
+      "end": 12.219909297052155,
+      "slow_start": 12.31278911564626,
+      "slow_end": 13.914965986394558
+    },
+    {
+      "lesson_id": "Pre-A1-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--text--c9768d4523--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--text--c9768d4523--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U02-L01--2026.10.23.1--text--p7",
+      "asset_id": "Pre-A1-U02-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 7,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Prosím pomalu.",
+      "start": 12.399909297052154,
+      "end": 13.885986394557824,
+      "slow_start": 14.094965986394557,
+      "slow_end": 15.766802721088435
+    },
+    {
+      "lesson_id": "Pre-A1-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--text--c9768d4523--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--text--c9768d4523--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U02-L01--2026.10.23.1--text--s10",
+      "asset_id": "Pre-A1-U02-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 10,
+      "paragraph_index": 7,
+      "sentence_index": 0,
+      "text": "Prosím pomalu.",
+      "start": 12.399909297052154,
+      "end": 13.885986394557824,
+      "slow_start": 14.094965986394557,
+      "slow_end": 15.766802721088435
+    },
+    {
+      "lesson_id": "Pre-A1-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--listening--b35f583d1c--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--listening--b35f583d1c--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U02-L01--2026.10.23.1--listening",
+      "role": "listening-full",
+      "index": 0,
+      "text": "Mám pas. Pás je tady. Paní Jana má nový byt.",
+      "duration_seconds": 5.0678911564625855,
+      "slow_duration_seconds": 5.706439909297052,
+      "sha256": "7a20867c981504d2dbac630646247202298c79a2940353b4e6458157dd6a67fa",
+      "slow_sha256": "d1438caf4346871d9dc9907983b5365cf188446ff262c01ec090657ec22116ae"
+    },
+    {
+      "lesson_id": "Pre-A1-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--listening--b35f583d1c--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--listening--b35f583d1c--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U02-L01--2026.10.23.1--listening--p0",
+      "asset_id": "Pre-A1-U02-L01--2026.10.23.1--listening",
+      "role": "listening",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Mám pas.",
+      "start": 0,
+      "end": 1.172607709750567,
+      "slow_start": 0,
+      "slow_end": 1.4280272108843537
+    },
+    {
+      "lesson_id": "Pre-A1-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--listening--b35f583d1c--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--listening--b35f583d1c--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U02-L01--2026.10.23.1--listening--p1",
+      "asset_id": "Pre-A1-U02-L01--2026.10.23.1--listening",
+      "role": "listening",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Pás je tady.",
+      "start": 1.3526077097505669,
+      "end": 2.4091156462585035,
+      "slow_start": 1.6080272108843536,
+      "slow_end": 2.7574149659863947
+    },
+    {
+      "lesson_id": "Pre-A1-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--listening--b35f583d1c--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--listening--b35f583d1c--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U02-L01--2026.10.23.1--listening--p2",
+      "asset_id": "Pre-A1-U02-L01--2026.10.23.1--listening",
+      "role": "listening",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Paní Jana má nový byt.",
+      "start": 2.589115646258503,
+      "end": 4.887891156462585,
+      "slow_start": 2.9374149659863944,
+      "slow_end": 5.526439909297052
+    },
+    {
+      "lesson_id": "Pre-A1-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--vocabulary--51c104fca6--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--vocabulary--51c104fca6--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U02-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary-full",
+      "index": 0,
+      "text": "Mám pas. Pás je černý. To je byt. Chci být doma.",
+      "duration_seconds": 5.433650793650794,
+      "slow_duration_seconds": 5.816780045351474,
+      "sha256": "96c1d9e85616b50eb4bb109bcc2579ced65f34ace40c810b8c6f508c35b11f4b",
+      "slow_sha256": "5a32e8fc9f4548e9ba484ec71de2dac6fe4a0c376f1347231c3c7e00cd750ce4"
+    },
+    {
+      "lesson_id": "Pre-A1-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--vocabulary--51c104fca6--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--vocabulary--51c104fca6--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U02-L01--2026.10.23.1--vocabulary--p0",
+      "asset_id": "Pre-A1-U02-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Mám pas.",
+      "start": 0,
+      "end": 1.230657596371882,
+      "slow_start": 0,
+      "slow_end": 1.3119274376417234
+    },
+    {
+      "lesson_id": "Pre-A1-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--vocabulary--51c104fca6--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--vocabulary--51c104fca6--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U02-L01--2026.10.23.1--vocabulary--p1",
+      "asset_id": "Pre-A1-U02-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Pás je černý.",
+      "start": 1.4106575963718821,
+      "end": 2.7690249433106575,
+      "slow_start": 1.4919274376417233,
+      "slow_end": 2.908344671201814
+    },
+    {
+      "lesson_id": "Pre-A1-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--vocabulary--51c104fca6--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--vocabulary--51c104fca6--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U02-L01--2026.10.23.1--vocabulary--p2",
+      "asset_id": "Pre-A1-U02-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "To je byt.",
+      "start": 2.9490249433106577,
+      "end": 3.8778231292517007,
+      "slow_start": 3.088344671201814,
+      "slow_end": 4.14485260770975
+    },
+    {
+      "lesson_id": "Pre-A1-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--vocabulary--51c104fca6--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--vocabulary--51c104fca6--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U02-L01--2026.10.23.1--vocabulary--p3",
+      "asset_id": "Pre-A1-U02-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Chci být doma.",
+      "start": 4.057823129251701,
+      "end": 5.2536507936507935,
+      "slow_start": 4.324852607709751,
+      "slow_end": 5.636780045351474
+    },
+    {
+      "lesson_id": "Pre-A1-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--exercises--c2ff555f07--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--exercises--c2ff555f07--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U02-L01--2026.10.23.1--exercises",
+      "role": "exercises-full",
+      "index": 0,
+      "text": "pás na stole",
+      "duration_seconds": 1.8460770975056688,
+      "slow_duration_seconds": 2.1131065759637186,
+      "sha256": "01151923e27041431e487d8c1bca1215be67c1fc70ee1c3fad5945ae8016f7ef",
+      "slow_sha256": "1c91d506a144c964adeadd9177eeb6f906bde2521d4eff6487b7bc53ccfa5f23"
+    },
+    {
+      "lesson_id": "Pre-A1-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--exercises--c2ff555f07--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--exercises--c2ff555f07--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U02-L01--2026.10.23.1--exercises--p0",
+      "asset_id": "Pre-A1-U02-L01--2026.10.23.1--exercises",
+      "role": "exercise",
+      "index": 0,
+      "exercise_id": "Pre-A1-U02-L01-E01",
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "pás",
+      "start": 0,
+      "end": 0.603718820861678,
+      "slow_start": 0,
+      "slow_end": 0.7430385487528345
+    },
+    {
+      "lesson_id": "Pre-A1-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--exercises--c2ff555f07--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--exercises--c2ff555f07--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U02-L01--2026.10.23.1--exercises--p1",
+      "asset_id": "Pre-A1-U02-L01--2026.10.23.1--exercises",
+      "role": "exercise",
+      "index": 1,
+      "exercise_id": "Pre-A1-U02-L01-E05",
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "na stole",
+      "start": 0.783718820861678,
+      "end": 1.666077097505669,
+      "slow_start": 0.9230385487528344,
+      "slow_end": 1.933106575963719
+    },
+    {
+      "lesson_id": "Pre-A1-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--contrasts--12771b98d7--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--contrasts--12771b98d7--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U02-L01--2026.10.23.1--contrasts",
+      "role": "contrasts-full",
+      "index": 0,
+      "text": "pas. pás.",
+      "duration_seconds": 1.2481179138321996,
+      "slow_duration_seconds": 1.4338775510204083,
+      "sha256": "99ae61ce2202c8868a60694c889bc4006c235349a507f3b10663f620e9035386",
+      "slow_sha256": "a7c54c5633e5439187bda6e5a659ea9fd0eb8e2a9a8cdc8344cc7d3f0fa57636"
+    },
+    {
+      "lesson_id": "Pre-A1-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--contrasts--12771b98d7--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U02-L01--2026.10.22.1--contrasts--12771b98d7--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U02-L01--2026.10.23.1--contrasts--p0",
+      "asset_id": "Pre-A1-U02-L01--2026.10.23.1--contrasts",
+      "role": "contrast",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "pas. pás.",
+      "start": 0,
+      "end": 1.0681179138321995,
+      "slow_start": 0,
+      "slow_end": 1.253877551020408
+    }
+  ]
+}

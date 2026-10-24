@@ -1,0 +1,202 @@
+{
+  "id": "A1-U11-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "A1-U11-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A1",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Přijď bez dárku.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Přijď bez dárku."
+      ]
+    },
+    {
+      "text": "Telefonuju Petrovi.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Telefonuju Petrovi."
+      ]
+    },
+    {
+      "text": "Mluvím s Janou.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Mluvím s Janou."
+      ]
+    },
+    {
+      "text": "Čaj bez cukru.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Čaj bez cukru."
+      ]
+    },
+    {
+      "text": "Káva s mlékem.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Káva s mlékem."
+      ]
+    },
+    {
+      "text": "Mluvíme o Praze.",
+      "index": 5,
+      "role": "vocabulary",
+      "parts": [
+        "Mluvíme o Praze."
+      ]
+    }
+  ],
+  "text_sha256": "f43de05346af1b023c7c5d2b17e65600706e4ad671df52abc0aa2455dfc0a3b8",
+  "source_file": "content/lessons/A1/A1-U11-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U11-L01--2026.10.22.1--vocabulary--f43de05346--normal.mp3",
+  "slow_file": "content/audio/files/A1-U11-L01--2026.10.22.1--vocabulary--f43de05346--slow.mp3",
+  "duration_seconds": 10.01968253968254,
+  "slow_duration_seconds": 11.412879818594105,
+  "cues": [
+    {
+      "text": "Přijď bez dárku.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Přijď bez dárku."
+      ],
+      "start": 0.0,
+      "end": 1.4628571428571429,
+      "sentences": [
+        {
+          "text": "Přijď bez dárku.",
+          "start": 0.0,
+          "end": 1.4628571428571429,
+          "slow_start": 0.0,
+          "slow_end": 1.6370068027210884
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.6370068027210884
+    },
+    {
+      "text": "Telefonuju Petrovi.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Telefonuju Petrovi."
+      ],
+      "start": 1.6428571428571428,
+      "end": 3.3843537414965987,
+      "sentences": [
+        {
+          "text": "Telefonuju Petrovi.",
+          "start": 1.6428571428571428,
+          "end": 3.3843537414965987,
+          "slow_start": 1.8170068027210884,
+          "slow_end": 3.790702947845805
+        }
+      ],
+      "slow_start": 1.8170068027210884,
+      "slow_end": 3.790702947845805
+    },
+    {
+      "text": "Mluvím s Janou.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Mluvím s Janou."
+      ],
+      "start": 3.5643537414965984,
+      "end": 4.957551020408164,
+      "sentences": [
+        {
+          "text": "Mluvím s Janou.",
+          "start": 3.5643537414965984,
+          "end": 4.957551020408164,
+          "slow_start": 3.970702947845805,
+          "slow_end": 5.677369614512472
+        }
+      ],
+      "slow_start": 3.970702947845805,
+      "slow_end": 5.677369614512472
+    },
+    {
+      "text": "Čaj bez cukru.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Čaj bez cukru."
+      ],
+      "start": 5.137551020408163,
+      "end": 6.495918367346939,
+      "sentences": [
+        {
+          "text": "Čaj bez cukru.",
+          "start": 5.137551020408163,
+          "end": 6.495918367346939,
+          "slow_start": 5.857369614512471,
+          "slow_end": 7.436326530612245
+        }
+      ],
+      "slow_start": 5.857369614512471,
+      "slow_end": 7.436326530612245
+    },
+    {
+      "text": "Káva s mlékem.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Káva s mlékem."
+      ],
+      "start": 6.675918367346939,
+      "end": 8.161995464852607,
+      "sentences": [
+        {
+          "text": "Káva s mlékem.",
+          "start": 6.675918367346939,
+          "end": 8.161995464852607,
+          "slow_start": 7.616326530612245,
+          "slow_end": 9.299773242630385
+        }
+      ],
+      "slow_start": 7.616326530612245,
+      "slow_end": 9.299773242630385
+    },
+    {
+      "text": "Mluvíme o Praze.",
+      "index": 5,
+      "role": "vocabulary",
+      "parts": [
+        "Mluvíme o Praze."
+      ],
+      "start": 8.341995464852607,
+      "end": 9.83968253968254,
+      "sentences": [
+        {
+          "text": "Mluvíme o Praze.",
+          "start": 8.341995464852607,
+          "end": 9.83968253968254,
+          "slow_start": 9.479773242630385,
+          "slow_end": 11.232879818594105
+        }
+      ],
+      "slow_start": 9.479773242630385,
+      "slow_end": 11.232879818594105
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "fc46f156044ee4ad8caeadd13b5f71bae7e53cb2193358ea09b5b19c19529864",
+    "slow": "c9c02e120a8aaf058a4db7b39b0357ea665db8befca4d9ec5d7a5e87e9750163"
+  }
+}

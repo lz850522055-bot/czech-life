@@ -1,0 +1,57 @@
+{
+  "id": "A2-U02-L01--2026.10.22.1--contrasts",
+  "lesson_id": "A2-U02-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "noví studenti. nové studentky.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "noví studenti. nové studentky."
+      ]
+    }
+  ],
+  "text_sha256": "3aede5b96780e6caa78a25524fe5c87c71baa4a3fbbf66dfe70aa0df21451304",
+  "source_file": "content/lessons/A2/A2-U02-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U02-L01--2026.10.22.1--contrasts--3aede5b967--normal.mp3",
+  "slow_file": "content/audio/files/A2-U02-L01--2026.10.22.1--contrasts--3aede5b967--slow.mp3",
+  "duration_seconds": 3.0708843537414965,
+  "slow_duration_seconds": 3.442403628117914,
+  "cues": [
+    {
+      "text": "noví studenti. nové studentky.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "noví studenti. nové studentky."
+      ],
+      "start": 0.0,
+      "end": 2.8908843537414968,
+      "sentences": [
+        {
+          "text": "noví studenti. nové studentky.",
+          "start": 0.0,
+          "end": 2.8908843537414968,
+          "slow_start": 0.0,
+          "slow_end": 3.2624036281179136
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 3.2624036281179136
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "ed4b6432c9fc834ede09591f9c725ae3fe08704a9866505dd0938cca17c86b82",
+    "slow": "efb30f131330d2d4ba91c858ed875ba1994ec936883eb96b2a0ae252749dfff1"
+  }
+}

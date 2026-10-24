@@ -1,0 +1,57 @@
+{
+  "id": "A2-U09-L01--2026.10.22.1--contrasts",
+  "lesson_id": "A2-U09-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "lepší. lépe.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "lepší. lépe."
+      ]
+    }
+  ],
+  "text_sha256": "22115e367b5b2d8fbb9d7151cfaa0c11483807435c763fcb1a62071f4463186c",
+  "source_file": "content/lessons/A2/A2-U09-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U09-L01--2026.10.22.1--contrasts--22115e367b--normal.mp3",
+  "slow_file": "content/audio/files/A2-U09-L01--2026.10.22.1--contrasts--22115e367b--slow.mp3",
+  "duration_seconds": 1.5499773242630386,
+  "slow_duration_seconds": 1.7821768707482992,
+  "cues": [
+    {
+      "text": "lepší. lépe.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "lepší. lépe."
+      ],
+      "start": 0.0,
+      "end": 1.3699773242630386,
+      "sentences": [
+        {
+          "text": "lepší. lépe.",
+          "start": 0.0,
+          "end": 1.3699773242630386,
+          "slow_start": 0.0,
+          "slow_end": 1.6021768707482993
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.6021768707482993
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "bd3cc21f4acbfd7015de5e0c5d6c3128f0349ddc35aef22451f412b3a22ae670",
+    "slow": "c3099dd3e949c3ea5fc9922b9cd957635a6196e1b4cb351758f6390cf6723a0e"
+  }
+}

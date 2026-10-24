@@ -1,0 +1,1318 @@
+{
+  "id": "B1-U09-L01",
+  "level": "B1",
+  "unit_id": "B1-U09",
+  "order": 41,
+  "version": "2026.10.23.1",
+  "title_zh": "投诉协商与解决误会",
+  "title_cs": "Reklamace, která vede k řešení",
+  "prerequisites": [
+    "B1-U08-L01"
+  ],
+  "can_do": [
+    "按订单与实收差异提出投诉",
+    "区分事实、要求和可接受替代方案",
+    "用澄清问题修复误会"
+  ],
+  "scene": "投诉、协商与误会修复",
+  "skills": [
+    "listening",
+    "speaking",
+    "reading",
+    "writing",
+    "interaction",
+    "mediation"
+  ],
+  "knowledge_points": [
+    "complaint-structure",
+    "repair-clarification"
+  ],
+  "intro_zh": "投诉能否解决，取决于对方能否看懂“哪里不符、你需要什么、什么时候确认”。不先堆情绪，也不替对方编理由。",
+  "lesson_text": [
+    {
+      "id": "s01",
+      "cs": "Objednal jsem šest modrých hrnků jako dárek pro přátele. Když zásilka dorazila, byly v krabici čtyři modré a dva bílé hrnky. Jeden z modrých měl navíc poškozené ucho. Nejdřív jsem porovnal zboží s potvrzením objednávky. Chtěl jsem si být jistý, že jsem při nákupu sám nezvolil smíšené balení. V potvrzení však stálo šest kusů v modré barvě.",
+      "zh": "我订了六只蓝色杯送朋友。到货四蓝两白，一只蓝杯把手损坏。我先核对订单确认，排除自己选了混装；确认单确实写六只蓝杯。",
+      "note_zh": ""
+    },
+    {
+      "id": "s02",
+      "cs": "Prodejci jsem poslal číslo objednávky, stručný popis rozdílu a fotografie. Nepsal jsem, že firma vždy posílá špatné zboží, protože jsem to nevěděl. Požádal jsem o výměnu dvou bílých hrnků a poškozeného kusu. Současně jsem uvedl, že dárek potřebuji před sobotou. To byl můj časový požadavek, nikoli tvrzení, že mi prodejce tento termín už slíbil.",
+      "zh": "我发订单号、差异说明和照片，没有无依据指责商家“总是发错”。我请求换两只白杯和破损杯，并说明周六前需要礼物。这是我的时间需求，不是说卖家已经承诺。",
+      "note_zh": ""
+    },
+    {
+      "id": "s03",
+      "cs": "První odpověď byla nejasná. Prodejce napsal: „Chybějící kusy pošleme zítra.“ Zeptal jsem se, zda tím myslí tři správné hrnky, nebo jen jeden náhradní za poškozený. Ukázalo se, že si nevšiml informace o barvě. Po krátkém upřesnění potvrdil zaslání tří modrých kusů a vysvětlil, jak vrátit ty nesprávné. Náklady na tento konkrétní postup jsme si potvrdili písemně.",
+      "zh": "首次回复含糊：“明天寄缺少的件数。”我问是三个正确杯还是只补破损的一只。原来卖家漏看颜色。澄清后，他确认寄三只蓝杯，并说明退错货方式；我们书面确认这个具体处理的费用。",
+      "note_zh": ""
+    },
+    {
+      "id": "s04",
+      "cs": "Druhý den přišlo potvrzení o odeslání. Poděkoval jsem za vyřešení a uložil si komunikaci, dokud nebyla výměna dokončena. Kdyby náhradní zboží nemohlo dorazit včas, přijal bych jiné řešení, například vrácení peněz za dotčené kusy. Podmínky by ale bylo nutné domluvit zvlášť. V tomto příběhu trénujeme jazyk konkrétní dohody, ne obecnou právní radu o všech reklamacích.",
+      "zh": "第二天收到发货确认。我感谢处理，并保留沟通到换货完成。若补货不能及时到，我愿考虑其他方案，例如相关杯子退款，但需另外商定。这是具体协商语言练习，不是针对所有投诉的法律规则。",
+      "note_zh": ""
+    }
+  ],
+  "grammar": [
+    {
+      "id": "complaint-structure",
+      "rule_zh": "先写可核对差异，再写你要的处理。",
+      "detail_zh": "Objednal jsem…, ale obdržel jsem…；Jeden kus je poškozený；Žádám o výměnu / Prosím o potvrzení。o 后用第四格。要求与已确认安排分开：Potřebuji doručení do pátku 不等于 Potvrdili jste doručení do pátku。",
+      "examples": [
+        {
+          "cs": "Objednal jsem modré hrnky, ale obdržel jsem bílé.",
+          "zh": "我订蓝杯，却收到白杯。",
+          "note_zh": ""
+        },
+        {
+          "cs": "Prosím o potvrzení dalšího postupu.",
+          "zh": "请确认下一步处理。",
+          "note_zh": ""
+        }
+      ],
+      "pitfalls": [
+        "不用“总是”来描述没有证据的一次错误。"
+      ],
+      "exceptions": [
+        "法定权利、期限依具体合同和法律，教材不凭例子给法律结论。"
+      ],
+      "term": "投诉文本结构"
+    },
+    {
+      "id": "repair-clarification",
+      "rule_zh": "先确认你理解的是不是对方的意思。",
+      "detail_zh": "Rozumím tomu správně, že…?；Myslíte tím…?；Upřesním svůj požadavek… 可避免双方在同一个词上想不同事情。指代 chybějící kusy 可能范围不清，应换成具体数量、颜色和对象。",
+      "examples": [
+        {
+          "cs": "Myslíte tím tři modré hrnky?",
+          "zh": "您指三只蓝杯吗？",
+          "note_zh": ""
+        }
+      ],
+      "pitfalls": [
+        "确认发货不等于确认送达。"
+      ],
+      "exceptions": [
+        "重复对方话语时保持中性，不挖苦。"
+      ],
+      "term": "沟通修复"
+    }
+  ],
+  "vocabulary": [
+    {
+      "lemma": "poškozený",
+      "pos": "形容词",
+      "forms": "poškozená; poškozené",
+      "meaning_zh": "损坏的",
+      "collocation": "poškozené ucho",
+      "example_cs": "Hrnek má poškozené ucho.",
+      "example_zh": "杯把损坏。",
+      "confusion_zh": "nesprávný 只是错误规格，不一定破损。"
+    },
+    {
+      "lemma": "výměna",
+      "pos": "名词，阴性",
+      "forms": "výměny; o výměnu",
+      "meaning_zh": "换货、更换",
+      "collocation": "žádat o výměnu",
+      "example_cs": "Žádám o výměnu tří kusů.",
+      "example_zh": "请求换三件。",
+      "confusion_zh": "vrácení peněz 为退款。"
+    },
+    {
+      "lemma": "obdržet",
+      "pos": "动词，完成体",
+      "forms": "obdržím; obdržel",
+      "meaning_zh": "收到",
+      "collocation": "obdržet zásilku",
+      "example_cs": "Zásilku jsem obdržel včera.",
+      "example_zh": "昨天收到包裹。",
+      "confusion_zh": "正式些，日常可用 dostat。"
+    },
+    {
+      "lemma": "upřesnit",
+      "pos": "动词，完成体",
+      "forms": "upřesním; upřesnil",
+      "meaning_zh": "进一步说准",
+      "collocation": "upřesnit požadavek",
+      "example_cs": "Upřesním počet kusů.",
+      "example_zh": "我说明准确数量。",
+      "confusion_zh": "不是彻底改变要求。"
+    }
+  ],
+  "listening": {
+    "script": [
+      {
+        "cs": "Dobrý den, objednal jsem dvě černé lampy. Jedna dorazila bílá a druhá nejde zapnout. Prosím o potvrzení, zda můžete vyměnit oba kusy. Pokud by výměna trvala déle než týden, rád bych se domluvil na jiném řešení.",
+        "zh": "您好，我订两盏黑灯。一盏是白色，另一盏无法开机。请确认能否两件都换。若换货超过一周，我想另商处理方案。",
+        "note_zh": ""
+      }
+    ],
+    "focus_zh": "区分错色和故障两种问题，不能只记“两盏有问题”。",
+    "source": "original"
+  },
+  "pronunciation": {
+    "focus_zh": "reklamace 中每个音节清楚；poškozený 保留最后长 ý，数字与颜色放在清晰的短组中。",
+    "contrast": [
+      {
+        "a": "odeslání",
+        "b": "doručení",
+        "note_zh": "发出与送达是不同词，也是不同时点。"
+      }
+    ],
+    "task_zh": "先听一句，再按意义块跟读；录下自然语速版本，对照长短元音、句中停顿和关键词。不要追求机械加速。"
+  },
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "需要换几只杯？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "一只"
+        },
+        {
+          "id": "b",
+          "text": "两只"
+        },
+        {
+          "id": "c",
+          "text": "三只"
+        }
+      ],
+      "answer": "c",
+      "accepted_answers": [],
+      "explanation_zh": "两只错色加一只破损，共三只；没有重复算同一件。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U09-L01-E01",
+      "knowledge_points": [
+        "complaint-structure",
+        "repair-clarification"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "为什么追问“缺少的件数”？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "确认范围是否含错色两件"
+        },
+        {
+          "id": "b",
+          "text": "要求更多赠品"
+        },
+        {
+          "id": "c",
+          "text": "证明卖家故意骗人"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "首次回复忽略了颜色信息。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U09-L01-E02",
+      "knowledge_points": [
+        "complaint-structure",
+        "repair-clarification"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "听：第二盏灯的问题是什么？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "白色"
+        },
+        {
+          "id": "b",
+          "text": "无法开机"
+        },
+        {
+          "id": "c",
+          "text": "没有寄出"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "第一盏错色，第二盏功能故障。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "listening"
+      ],
+      "error_category": "comprehension",
+      "audio_text_cs": "Jedna lampa dorazila bílá a druhá nejde zapnout.",
+      "id": "B1-U09-L01-E03",
+      "knowledge_points": [
+        "complaint-structure",
+        "repair-clarification"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "请求换货，填正确形式。",
+      "stimulus_cs": "Žádám o ___.",
+      "answer": "výměnu",
+      "accepted_answers": [
+        "výměnu"
+      ],
+      "explanation_zh": "o+第四格，výměna 变 výměnu。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "B1-U09-L01-E04",
+      "knowledge_points": [
+        "complaint-structure",
+        "repair-clarification"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "填obdržet（收到）的男性单数过去分词。",
+      "stimulus_cs": "Zásilku jsem ___ včera.",
+      "answer": "obdržel",
+      "accepted_answers": [
+        "obdržel"
+      ],
+      "explanation_zh": "题目限定正式 obdržet 动词。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "B1-U09-L01-E05",
+      "knowledge_points": [
+        "complaint-structure",
+        "repair-clarification"
+      ]
+    },
+    {
+      "type": "correct",
+      "prompt_zh": "只改中性名词的形容词一致。",
+      "stimulus_cs": "Ucho je poškozená.",
+      "answer": "Ucho je poškozené.",
+      "accepted_answers": [
+        "Ucho je poškozené."
+      ],
+      "explanation_zh": "ucho 中性单数。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "B1-U09-L01-E06",
+      "knowledge_points": [
+        "complaint-structure",
+        "repair-clarification"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt_zh": "先报告订单，再报告实收。",
+      "stimulus_cs": "ale obdržel jsem bílé. / Objednal jsem modré hrnky,",
+      "options": [
+        "ale obdržel jsem bílé.",
+        "Objednal jsem modré hrnky,"
+      ],
+      "answer": "Objednal jsem modré hrnky, ale obdržel jsem bílé.",
+      "accepted_answers": [
+        "Objednal jsem modré hrnky, ale obdržel jsem bílé."
+      ],
+      "explanation_zh": "差异对照是投诉核心。",
+      "scoring_basis": "本题限定句首及语境；不据一个参考语序否定捷语所有语序变体。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "word_order",
+      "id": "B1-U09-L01-E07",
+      "knowledge_points": [
+        "complaint-structure",
+        "repair-clarification"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "“Potvrzení o odeslání”证明哪项？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "对方报告已发出"
+        },
+        {
+          "id": "b",
+          "text": "你已经收到"
+        },
+        {
+          "id": "c",
+          "text": "周六必到"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "发出与送达不可混。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U09-L01-E08",
+      "knowledge_points": [
+        "complaint-structure",
+        "repair-clarification"
+      ]
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "用一分钟说明订单、两个问题、数量和期望处理。",
+      "stimulus_cs": "",
+      "answer": "Objednal jsem šest modrých hrnků. Dva dorazily bílé a jeden modrý je poškozený. Prosím o výměnu těchto tří kusů a o potvrzení termínu odeslání.",
+      "accepted_answers": [],
+      "explanation_zh": "数量与问题逐项匹配。",
+      "rubric": [
+        "差异准确",
+        "请求具体",
+        "时间需确认"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "error_category": "fluency",
+      "id": "B1-U09-L01-E09",
+      "knowledge_points": [
+        "complaint-structure",
+        "repair-clarification"
+      ]
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "写投诉消息：订单 248，五件中两件错尺寸，请换并问退回方式。",
+      "stimulus_cs": "",
+      "answer": "Dobrý den, u objednávky 248 mají dva z pěti kusů nesprávnou velikost. Prosím o jejich výměnu. Můžete mi potvrdit postup vrácení a sdělit, kdo uhradí dopravu? Fotografie přikládám.",
+      "accepted_answers": [],
+      "explanation_zh": "具体费用未确认前询问，不替双方决定。",
+      "rubric": [
+        "订单数量",
+        "请求处理",
+        "退回费用问题"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U09-L01-E10",
+      "knowledge_points": [
+        "complaint-structure",
+        "repair-clarification"
+      ]
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "卖家只说“补一件”，你有一件破损和两件错色，请澄清。",
+      "stimulus_cs": "",
+      "answer": "Děkuji. Upřesním, že nejde jen o poškozený hrnek. Další dva kusy mají jinou barvu. Rozumím správně, že vyměníte všechny tři?",
+      "accepted_answers": [],
+      "explanation_zh": "用范围问题修复误解。",
+      "rubric": [
+        "列两问题",
+        "数量准确",
+        "请求确认"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "error_category": "fluency",
+      "id": "B1-U09-L01-E11",
+      "knowledge_points": [
+        "complaint-structure",
+        "repair-clarification"
+      ]
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "向中文同事解释双方已经同意什么、还有什么未完成。",
+      "stimulus_cs": "",
+      "answer": "卖家确认寄三只蓝杯，并说明错货退回方式；第二天已有发货确认，但换货仍要等实际送达后才能算完成。",
+      "accepted_answers": [],
+      "explanation_zh": "保留过程阶段。",
+      "rubric": [
+        "已确认与待完成",
+        "数量颜色",
+        "不虚构送达"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U09-L01-E12",
+      "knowledge_points": [
+        "complaint-structure",
+        "repair-clarification"
+      ]
+    }
+  ],
+  "transfer_task": {
+    "prompt_zh": "改成酒店订房误会：订双床、给大床；说清确认单、要求和可接受备选。",
+    "model_answer_cs": "V potvrzení máme pokoj se dvěma oddělenými postelemi. Dostali jsme ale pokoj s jednou velkou postelí. Bylo by možné pokoj vyměnit? Pokud není volný, prosím o návrh jiného řešení.",
+    "rubric": [
+      "证据引用",
+      "请求与备选",
+      "不编权利结论"
+    ]
+  },
+  "review_links": [
+    "B1-U08-L01"
+  ],
+  "sources": [
+    {
+      "source_id": "LANG01",
+      "url": "https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions",
+      "scope": "按实际能做的任务编排能力，不把CEFR说成官方捷语语法课表",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    },
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?id=620",
+      "scope": "动词与名词的格搭配、díky/kvůli的语用边界",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    },
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?id=600",
+      "scope": "主语与谓语的性数及有生性一致",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    }
+  ],
+  "content_status": "authored_crosschecked_not_native_reviewed",
+  "quality_notes": [
+    "原创课文和练习；规则按所列来源交叉核查，未获得捷语母语教师逐句审校。",
+    "本课级别属于教材编排判断，不代表官方能力认证。",
+    "听力为原创可合成脚本；真人多说话人、地区口音与录音自然度尚待现场核验。"
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "B1-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--normal.mp3",
+      "slow_file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U09-L01--2026.10.23.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Objednal jsem šest modrých hrnků jako dárek pro přátele. Když zásilka dorazila, byly v krabici čtyři modré a dva bílé hrnky. Jeden z modrých měl navíc poškozené ucho. Nejdřív jsem porovnal zboží s potvrzením objednávky. Chtěl jsem si být jistý, že jsem při nákupu sám nezvolil smíšené balení. V potvrzení však stálo šest kusů v modré barvě. Prodejci jsem poslal číslo objednávky, stručný popis rozdílu a fotografie. Nepsal jsem, že firma vždy posílá špatné zboží, protože jsem to nevěděl. Požádal jsem o výměnu dvou bílých hrnků a poškozeného kusu. Současně jsem uvedl, že dárek potřebuji před sobotou. To byl můj časový požadavek, nikoli tvrzení, že mi prodejce tento termín už slíbil. První odpověď byla nejasná. Prodejce napsal: „Chybějící kusy pošleme zítra.“ Zeptal jsem se, zda tím myslí tři správné hrnky, nebo jen jeden náhradní za poškozený. Ukázalo se, že si nevšiml informace o barvě. Po krátkém upřesnění potvrdil zaslání tří modrých kusů a vysvětlil, jak vrátit ty nesprávné. Náklady na tento konkrétní postup jsme si potvrdili písemně. Druhý den přišlo potvrzení o odeslání. Poděkoval jsem za vyřešení a uložil si komunikaci, dokud nebyla výměna dokončena. Kdyby náhradní zboží nemohlo dorazit včas, přijal bych jiné řešení, například vrácení peněz za dotčené kusy. Podmínky by ale bylo nutné domluvit zvlášť. V tomto příběhu trénujeme jazyk konkrétní dohody, ne obecnou právní radu o všech reklamacích.",
+      "duration_seconds": 129.80054421768708,
+      "slow_duration_seconds": 146.77433106575964,
+      "sha256": "af05f7a3b1bad9db99d97bb17c006f68d1830754a45e2a441e2b36bc04064344",
+      "slow_sha256": "7610ed294532540e41a3b4c23a3fe2ce674efa3eac0c672f8309b87d67d983af"
+    },
+    {
+      "lesson_id": "B1-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--normal.mp3",
+      "slow_file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U09-L01--2026.10.23.1--text--p0",
+      "asset_id": "B1-U09-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Objednal jsem šest modrých hrnků jako dárek pro přátele. Když zásilka dorazila, byly v krabici čtyři modré a dva bílé hrnky. Jeden z modrých měl navíc poškozené ucho. Nejdřív jsem porovnal zboží s potvrzením objednávky. Chtěl jsem si být jistý, že jsem při nákupu sám nezvolil smíšené balení. V potvrzení však stálo šest kusů v modré barvě.",
+      "start": 0,
+      "end": 31.863809523809525,
+      "slow_start": 0,
+      "slow_end": 36.310430839002265
+    },
+    {
+      "lesson_id": "B1-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--normal.mp3",
+      "slow_file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U09-L01--2026.10.23.1--text--s0",
+      "asset_id": "B1-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Objednal jsem šest modrých hrnků jako dárek pro přátele.",
+      "start": 0,
+      "end": 4.73687074829932,
+      "slow_start": 0,
+      "slow_end": 5.572789115646258
+    },
+    {
+      "lesson_id": "B1-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--normal.mp3",
+      "slow_file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U09-L01--2026.10.23.1--text--s1",
+      "asset_id": "B1-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Když zásilka dorazila, byly v krabici čtyři modré a dva bílé hrnky.",
+      "start": 4.91687074829932,
+      "end": 11.10498866213152,
+      "slow_start": 5.752789115646259,
+      "slow_end": 12.765215419501134
+    },
+    {
+      "lesson_id": "B1-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--normal.mp3",
+      "slow_file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U09-L01--2026.10.23.1--text--s2",
+      "asset_id": "B1-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Jeden z modrých měl navíc poškozené ucho.",
+      "start": 11.28498866213152,
+      "end": 15.22077097505669,
+      "slow_start": 12.945215419501134,
+      "slow_end": 17.647256235827665
+    },
+    {
+      "lesson_id": "B1-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--normal.mp3",
+      "slow_file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U09-L01--2026.10.23.1--text--s3",
+      "asset_id": "B1-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 3,
+      "paragraph_index": 0,
+      "sentence_index": 3,
+      "text": "Nejdřív jsem porovnal zboží s potvrzením objednávky.",
+      "start": 15.40077097505669,
+      "end": 20.25374149659864,
+      "slow_start": 17.827256235827665,
+      "slow_end": 23.34199546485261
+    },
+    {
+      "lesson_id": "B1-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--normal.mp3",
+      "slow_file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U09-L01--2026.10.23.1--text--s4",
+      "asset_id": "B1-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 4,
+      "paragraph_index": 0,
+      "sentence_index": 4,
+      "text": "Chtěl jsem si být jistý, že jsem při nákupu sám nezvolil smíšené balení.",
+      "start": 20.43374149659864,
+      "end": 27.446167800453516,
+      "slow_start": 23.52199546485261,
+      "slow_end": 31.370340136054423
+    },
+    {
+      "lesson_id": "B1-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--normal.mp3",
+      "slow_file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U09-L01--2026.10.23.1--text--s5",
+      "asset_id": "B1-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 5,
+      "paragraph_index": 0,
+      "sentence_index": 5,
+      "text": "V potvrzení však stálo šest kusů v modré barvě.",
+      "start": 27.626167800453516,
+      "end": 31.863809523809525,
+      "slow_start": 31.550340136054423,
+      "slow_end": 36.310430839002265
+    },
+    {
+      "lesson_id": "B1-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--normal.mp3",
+      "slow_file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U09-L01--2026.10.23.1--text--p1",
+      "asset_id": "B1-U09-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Prodejci jsem poslal číslo objednávky, stručný popis rozdílu a fotografie. Nepsal jsem, že firma vždy posílá špatné zboží, protože jsem to nevěděl. Požádal jsem o výměnu dvou bílých hrnků a poškozeného kusu. Současně jsem uvedl, že dárek potřebuji před sobotou. To byl můj časový požadavek, nikoli tvrzení, že mi prodejce tento termín už slíbil.",
+      "start": 32.04380952380952,
+      "end": 63.43736961451247,
+      "slow_start": 36.490430839002265,
+      "slow_end": 71.86621315192744
+    },
+    {
+      "lesson_id": "B1-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--normal.mp3",
+      "slow_file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U09-L01--2026.10.23.1--text--s6",
+      "asset_id": "B1-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 6,
+      "paragraph_index": 1,
+      "sentence_index": 0,
+      "text": "Prodejci jsem poslal číslo objednávky, stručný popis rozdílu a fotografie.",
+      "start": 32.04380952380952,
+      "end": 38.98657596371882,
+      "slow_start": 36.490430839002265,
+      "slow_end": 44.32716553287982
+    },
+    {
+      "lesson_id": "B1-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--normal.mp3",
+      "slow_file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U09-L01--2026.10.23.1--text--s7",
+      "asset_id": "B1-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 7,
+      "paragraph_index": 1,
+      "sentence_index": 1,
+      "text": "Nepsal jsem, že firma vždy posílá špatné zboží, protože jsem to nevěděl.",
+      "start": 39.16657596371882,
+      "end": 45.749433106575964,
+      "slow_start": 44.50716553287982,
+      "slow_end": 51.80984126984127
+    },
+    {
+      "lesson_id": "B1-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--normal.mp3",
+      "slow_file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U09-L01--2026.10.23.1--text--s8",
+      "asset_id": "B1-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 8,
+      "paragraph_index": 1,
+      "sentence_index": 2,
+      "text": "Požádal jsem o výměnu dvou bílých hrnků a poškozeného kusu.",
+      "start": 45.929433106575964,
+      "end": 51.32807256235828,
+      "slow_start": 51.98984126984127,
+      "slow_end": 58.236009070294784
+    },
+    {
+      "lesson_id": "B1-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--normal.mp3",
+      "slow_file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U09-L01--2026.10.23.1--text--s9",
+      "asset_id": "B1-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 9,
+      "paragraph_index": 1,
+      "sentence_index": 3,
+      "text": "Současně jsem uvedl, že dárek potřebuji před sobotou.",
+      "start": 51.50807256235828,
+      "end": 56.2449433106576,
+      "slow_start": 58.416009070294784,
+      "slow_end": 63.663718820861675
+    },
+    {
+      "lesson_id": "B1-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--normal.mp3",
+      "slow_file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U09-L01--2026.10.23.1--text--s10",
+      "asset_id": "B1-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 10,
+      "paragraph_index": 1,
+      "sentence_index": 4,
+      "text": "To byl můj časový požadavek, nikoli tvrzení, že mi prodejce tento termín už slíbil.",
+      "start": 56.424943310657596,
+      "end": 63.43736961451247,
+      "slow_start": 63.843718820861675,
+      "slow_end": 71.86621315192744
+    },
+    {
+      "lesson_id": "B1-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--normal.mp3",
+      "slow_file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U09-L01--2026.10.23.1--text--p2",
+      "asset_id": "B1-U09-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "První odpověď byla nejasná. Prodejce napsal: „Chybějící kusy pošleme zítra.“ Zeptal jsem se, zda tím myslí tři správné hrnky, nebo jen jeden náhradní za poškozený. Ukázalo se, že si nevšiml informace o barvě. Po krátkém upřesnění potvrdil zaslání tří modrých kusů a vysvětlil, jak vrátit ty nesprávné. Náklady na tento konkrétní postup jsme si potvrdili písemně.",
+      "start": 63.61736961451247,
+      "end": 96.49124716553288,
+      "slow_start": 72.04621315192743,
+      "slow_end": 109.34349206349206
+    },
+    {
+      "lesson_id": "B1-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--normal.mp3",
+      "slow_file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U09-L01--2026.10.23.1--text--s11",
+      "asset_id": "B1-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 11,
+      "paragraph_index": 2,
+      "sentence_index": 0,
+      "text": "První odpověď byla nejasná.",
+      "start": 63.61736961451247,
+      "end": 66.49664399092971,
+      "slow_start": 72.04621315192743,
+      "slow_end": 75.25056689342404
+    },
+    {
+      "lesson_id": "B1-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--normal.mp3",
+      "slow_file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U09-L01--2026.10.23.1--text--s12",
+      "asset_id": "B1-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 12,
+      "paragraph_index": 2,
+      "sentence_index": 1,
+      "text": "Prodejce napsal: „Chybějící kusy pošleme zítra.“",
+      "start": 66.6766439909297,
+      "end": 70.7285260770975,
+      "slow_start": 75.43056689342404,
+      "slow_end": 80.2487074829932
+    },
+    {
+      "lesson_id": "B1-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--normal.mp3",
+      "slow_file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U09-L01--2026.10.23.1--text--s13",
+      "asset_id": "B1-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 13,
+      "paragraph_index": 2,
+      "sentence_index": 2,
+      "text": "Zeptal jsem se, zda tím myslí tři správné hrnky, nebo jen jeden náhradní za poškozený.",
+      "start": 70.9085260770975,
+      "end": 78.54789115646258,
+      "slow_start": 80.4287074829932,
+      "slow_end": 89.13619047619048
+    },
+    {
+      "lesson_id": "B1-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--normal.mp3",
+      "slow_file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U09-L01--2026.10.23.1--text--s14",
+      "asset_id": "B1-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 14,
+      "paragraph_index": 2,
+      "sentence_index": 3,
+      "text": "Ukázalo se, že si nevšiml informace o barvě.",
+      "start": 78.72789115646259,
+      "end": 82.73333333333333,
+      "slow_start": 89.31619047619047,
+      "slow_end": 93.93696145124717
+    },
+    {
+      "lesson_id": "B1-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--normal.mp3",
+      "slow_file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U09-L01--2026.10.23.1--text--s15",
+      "asset_id": "B1-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 15,
+      "paragraph_index": 2,
+      "sentence_index": 4,
+      "text": "Po krátkém upřesnění potvrdil zaslání tří modrých kusů a vysvětlil, jak vrátit ty nesprávné.",
+      "start": 82.91333333333333,
+      "end": 91.31895691609978,
+      "slow_start": 94.11696145124716,
+      "slow_end": 103.61392290249434
+    },
+    {
+      "lesson_id": "B1-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--normal.mp3",
+      "slow_file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U09-L01--2026.10.23.1--text--s16",
+      "asset_id": "B1-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 16,
+      "paragraph_index": 2,
+      "sentence_index": 5,
+      "text": "Náklady na tento konkrétní postup jsme si potvrdili písemně.",
+      "start": 91.49895691609977,
+      "end": 96.49124716553288,
+      "slow_start": 103.79392290249433,
+      "slow_end": 109.34349206349206
+    },
+    {
+      "lesson_id": "B1-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--normal.mp3",
+      "slow_file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U09-L01--2026.10.23.1--text--p3",
+      "asset_id": "B1-U09-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Druhý den přišlo potvrzení o odeslání. Poděkoval jsem za vyřešení a uložil si komunikaci, dokud nebyla výměna dokončena. Kdyby náhradní zboží nemohlo dorazit včas, přijal bych jiné řešení, například vrácení peněz za dotčené kusy. Podmínky by ale bylo nutné domluvit zvlášť. V tomto příběhu trénujeme jazyk konkrétní dohody, ne obecnou právní radu o všech reklamacích.",
+      "start": 96.67124716553288,
+      "end": 129.62054421768707,
+      "slow_start": 109.52349206349206,
+      "slow_end": 146.59433106575963
+    },
+    {
+      "lesson_id": "B1-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--normal.mp3",
+      "slow_file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U09-L01--2026.10.23.1--text--s17",
+      "asset_id": "B1-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 17,
+      "paragraph_index": 3,
+      "sentence_index": 0,
+      "text": "Druhý den přišlo potvrzení o odeslání.",
+      "start": 96.67124716553288,
+      "end": 100.34,
+      "slow_start": 109.52349206349206,
+      "slow_end": 113.65664399092971
+    },
+    {
+      "lesson_id": "B1-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--normal.mp3",
+      "slow_file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U09-L01--2026.10.23.1--text--s18",
+      "asset_id": "B1-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 18,
+      "paragraph_index": 3,
+      "sentence_index": 1,
+      "text": "Poděkoval jsem za vyřešení a uložil si komunikaci, dokud nebyla výměna dokončena.",
+      "start": 100.52,
+      "end": 107.53242630385488,
+      "slow_start": 113.8366439909297,
+      "slow_end": 121.68498866213152
+    },
+    {
+      "lesson_id": "B1-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--normal.mp3",
+      "slow_file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U09-L01--2026.10.23.1--text--s19",
+      "asset_id": "B1-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 19,
+      "paragraph_index": 3,
+      "sentence_index": 2,
+      "text": "Kdyby náhradní zboží nemohlo dorazit včas, přijal bych jiné řešení, například vrácení peněz za dotčené kusy.",
+      "start": 107.71242630385487,
+      "end": 117.5692970521542,
+      "slow_start": 121.86498866213152,
+      "slow_end": 133.05700680272108
+    },
+    {
+      "lesson_id": "B1-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--normal.mp3",
+      "slow_file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U09-L01--2026.10.23.1--text--s20",
+      "asset_id": "B1-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 20,
+      "paragraph_index": 3,
+      "sentence_index": 3,
+      "text": "Podmínky by ale bylo nutné domluvit zvlášť.",
+      "start": 117.74929705215419,
+      "end": 121.51092970521542,
+      "slow_start": 133.23700680272108,
+      "slow_end": 137.4746485260771
+    },
+    {
+      "lesson_id": "B1-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--normal.mp3",
+      "slow_file": "audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U09-L01--2026.10.23.1--text--s21",
+      "asset_id": "B1-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 21,
+      "paragraph_index": 3,
+      "sentence_index": 4,
+      "text": "V tomto příběhu trénujeme jazyk konkrétní dohody, ne obecnou právní radu o všech reklamacích.",
+      "start": 121.69092970521542,
+      "end": 129.62054421768707,
+      "slow_start": 137.6546485260771,
+      "slow_end": 146.59433106575963
+    },
+    {
+      "lesson_id": "B1-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U09-L01--2026.10.22.1--listening--6c87e6e228--normal.mp3",
+      "slow_file": "audio/files/B1-U09-L01--2026.10.22.1--listening--6c87e6e228--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U09-L01--2026.10.23.1--listening",
+      "role": "listening-full",
+      "index": 0,
+      "text": "Dobrý den, objednal jsem dvě černé lampy. Jedna dorazila bílá a druhá nejde zapnout. Prosím o potvrzení, zda můžete vyměnit oba kusy. Pokud by výměna trvala déle než týden, rád bych se domluvil na jiném řešení.",
+      "duration_seconds": 19.063764172335603,
+      "slow_duration_seconds": 21.58312925170068,
+      "sha256": "b12f7b86e0054112a5007ec23644fe0b90b4bb723cc73992828e9dc2f13972aa",
+      "slow_sha256": "43c0d61b7e057de6a25687adc2a30ce54968140242cc297f374868ab6df1ed7b"
+    },
+    {
+      "lesson_id": "B1-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U09-L01--2026.10.22.1--listening--6c87e6e228--normal.mp3",
+      "slow_file": "audio/files/B1-U09-L01--2026.10.22.1--listening--6c87e6e228--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U09-L01--2026.10.23.1--listening--p0",
+      "asset_id": "B1-U09-L01--2026.10.23.1--listening",
+      "role": "listening",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Dobrý den, objednal jsem dvě černé lampy. Jedna dorazila bílá a druhá nejde zapnout. Prosím o potvrzení, zda můžete vyměnit oba kusy. Pokud by výměna trvala déle než týden, rád bych se domluvil na jiném řešení.",
+      "start": 0,
+      "end": 18.8837641723356,
+      "slow_start": 0,
+      "slow_end": 21.40312925170068
+    },
+    {
+      "lesson_id": "B1-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U09-L01--2026.10.22.1--vocabulary--b43e5df3fa--normal.mp3",
+      "slow_file": "audio/files/B1-U09-L01--2026.10.22.1--vocabulary--b43e5df3fa--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U09-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary-full",
+      "index": 0,
+      "text": "Hrnek má poškozené ucho. Žádám o výměnu tří kusů. Zásilku jsem obdržel včera. Upřesním počet kusů.",
+      "duration_seconds": 10.809070294784581,
+      "slow_duration_seconds": 12.17904761904762,
+      "sha256": "51b09066cda84d91317d7ab58811f9033f4d6c85a67306490a2496882b8e1fd7",
+      "slow_sha256": "3ba97c9cadc4b9b27d0a0d76b21180d457c7de05e26a44711f2f67e0c9f86bf0"
+    },
+    {
+      "lesson_id": "B1-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U09-L01--2026.10.22.1--vocabulary--b43e5df3fa--normal.mp3",
+      "slow_file": "audio/files/B1-U09-L01--2026.10.22.1--vocabulary--b43e5df3fa--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U09-L01--2026.10.23.1--vocabulary--p0",
+      "asset_id": "B1-U09-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Hrnek má poškozené ucho.",
+      "start": 0,
+      "end": 2.48453514739229,
+      "slow_start": 0,
+      "slow_end": 2.8212244897959184
+    },
+    {
+      "lesson_id": "B1-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U09-L01--2026.10.22.1--vocabulary--b43e5df3fa--normal.mp3",
+      "slow_file": "audio/files/B1-U09-L01--2026.10.22.1--vocabulary--b43e5df3fa--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U09-L01--2026.10.23.1--vocabulary--p1",
+      "asset_id": "B1-U09-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Žádám o výměnu tří kusů.",
+      "start": 2.6645351473922902,
+      "end": 5.392879818594104,
+      "slow_start": 3.001224489795918,
+      "slow_end": 6.077868480725623
+    },
+    {
+      "lesson_id": "B1-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U09-L01--2026.10.22.1--vocabulary--b43e5df3fa--normal.mp3",
+      "slow_file": "audio/files/B1-U09-L01--2026.10.22.1--vocabulary--b43e5df3fa--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U09-L01--2026.10.23.1--vocabulary--p2",
+      "asset_id": "B1-U09-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Zásilku jsem obdržel včera.",
+      "start": 5.572879818594104,
+      "end": 8.34766439909297,
+      "slow_start": 6.257868480725624,
+      "slow_end": 9.392562358276644
+    },
+    {
+      "lesson_id": "B1-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U09-L01--2026.10.22.1--vocabulary--b43e5df3fa--normal.mp3",
+      "slow_file": "audio/files/B1-U09-L01--2026.10.22.1--vocabulary--b43e5df3fa--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U09-L01--2026.10.23.1--vocabulary--p3",
+      "asset_id": "B1-U09-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Upřesním počet kusů.",
+      "start": 8.52766439909297,
+      "end": 10.629070294784581,
+      "slow_start": 9.572562358276643,
+      "slow_end": 11.99904761904762
+    },
+    {
+      "lesson_id": "B1-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U09-L01--2026.10.22.1--exercises--672e28da55--normal.mp3",
+      "slow_file": "audio/files/B1-U09-L01--2026.10.22.1--exercises--672e28da55--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U09-L01--2026.10.23.1--exercises",
+      "role": "exercises-full",
+      "index": 0,
+      "text": "Jedna lampa dorazila bílá a druhá nejde zapnout.",
+      "duration_seconds": 4.452471655328798,
+      "slow_duration_seconds": 4.986530612244898,
+      "sha256": "8ca39b5d1c32a278666313bc6487109082de1a9c40c2905d3fc278b58d345c34",
+      "slow_sha256": "5ad49351f0e049a4c09750897558f8a7b0e985203e2478a332f86391daa1f6b5"
+    },
+    {
+      "lesson_id": "B1-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U09-L01--2026.10.22.1--exercises--672e28da55--normal.mp3",
+      "slow_file": "audio/files/B1-U09-L01--2026.10.22.1--exercises--672e28da55--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U09-L01--2026.10.23.1--exercises--p0",
+      "asset_id": "B1-U09-L01--2026.10.23.1--exercises",
+      "role": "exercise",
+      "index": 0,
+      "exercise_id": "B1-U09-L01-E03",
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Jedna lampa dorazila bílá a druhá nejde zapnout.",
+      "start": 0,
+      "end": 4.272471655328798,
+      "slow_start": 0,
+      "slow_end": 4.806530612244898
+    },
+    {
+      "lesson_id": "B1-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U09-L01--2026.10.22.1--contrasts--d646420dc9--normal.mp3",
+      "slow_file": "audio/files/B1-U09-L01--2026.10.22.1--contrasts--d646420dc9--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U09-L01--2026.10.23.1--contrasts",
+      "role": "contrasts-full",
+      "index": 0,
+      "text": "odeslání. doručení.",
+      "duration_seconds": 2.1653061224489796,
+      "slow_duration_seconds": 2.374285714285714,
+      "sha256": "55d8742422e5a1add7080519d42e5a6c61870377032e287605ff84e02516861c",
+      "slow_sha256": "134f59b70cd14c73d0ef8a35aa846f599f6661f08cbb68589a4671ff5fb90fa4"
+    },
+    {
+      "lesson_id": "B1-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U09-L01--2026.10.22.1--contrasts--d646420dc9--normal.mp3",
+      "slow_file": "audio/files/B1-U09-L01--2026.10.22.1--contrasts--d646420dc9--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U09-L01--2026.10.23.1--contrasts--p0",
+      "asset_id": "B1-U09-L01--2026.10.23.1--contrasts",
+      "role": "contrast",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "odeslání. doručení.",
+      "start": 0,
+      "end": 1.9853061224489796,
+      "slow_start": 0,
+      "slow_end": 2.1942857142857144
+    }
+  ]
+}

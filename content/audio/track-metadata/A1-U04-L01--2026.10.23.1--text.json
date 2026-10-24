@@ -1,0 +1,483 @@
+{
+  "id": "A1-U04-L01--2026.10.23.1--text",
+  "lesson_id": "A1-U04-L01",
+  "content_version": "2026.10.23.1",
+  "level": "A1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Dobrý den, prosím vás, kde je informační centrum?",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Dobrý den, prosím vás, kde je informační centrum?"
+      ]
+    },
+    {
+      "text": "Je v prvním patře. Ale teď není otevřené.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Je v prvním patře.",
+        "Ale teď není otevřené."
+      ]
+    },
+    {
+      "text": "Kdy otevírá? Potřebuju mapu a jednu informaci.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Kdy otevírá?",
+        "Potřebuju mapu a jednu informaci."
+      ]
+    },
+    {
+      "text": "Otevírá v deset. Mapu máme i tady. Chcete ji?",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Otevírá v deset.",
+        "Mapu máme i tady.",
+        "Chcete ji?"
+      ]
+    },
+    {
+      "text": "Ano, prosím. Kolik stojí? A můžu platit kartou?",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Ano, prosím.",
+        "Kolik stojí?",
+        "A můžu platit kartou?"
+      ]
+    },
+    {
+      "text": "Mapa je zdarma. Nemusíte platit.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Mapa je zdarma.",
+        "Nemusíte platit."
+      ]
+    },
+    {
+      "text": "Děkuju. Nerozumím tomuto slovu. Můžete to napsat?",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Děkuju.",
+        "Nerozumím tomuto slovu.",
+        "Můžete to napsat?"
+      ]
+    },
+    {
+      "text": "Ano. Tady je název ulice. Není to daleko.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Ano.",
+        "Tady je název ulice.",
+        "Není to daleko."
+      ]
+    },
+    {
+      "text": "Výborně. Ještě jednu otázku: můžu tady čekat?",
+      "index": 8,
+      "role": "text",
+      "parts": [
+        "Výborně.",
+        "Ještě jednu otázku: můžu tady čekat?"
+      ]
+    },
+    {
+      "text": "Ano, můžete. Jen tady nesmíte kouřit.",
+      "index": 9,
+      "role": "text",
+      "parts": [
+        "Ano, můžete.",
+        "Jen tady nesmíte kouřit."
+      ]
+    },
+    {
+      "text": "A kde můžu koupit jízdenku? U automatu vedle dveří. Děkuju za pomoc.",
+      "index": 10,
+      "role": "text",
+      "parts": [
+        "A kde můžu koupit jízdenku?",
+        "U automatu vedle dveří.",
+        "Děkuju za pomoc."
+      ]
+    }
+  ],
+  "text_sha256": "f2a475c52b03bb995bb085ee0bc1038e809adaee9f098ba6ca9f1a9161b0b5d9",
+  "source_file": "content/lessons/A1/A1-U04-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U04-L01--2026.10.22.1--text--f2a475c52b--normal.mp3",
+  "slow_file": "content/audio/files/A1-U04-L01--2026.10.22.1--text--f2a475c52b--slow.mp3",
+  "duration_seconds": 52.37378684807256,
+  "slow_duration_seconds": 59.14240362811791,
+  "cues": [
+    {
+      "text": "Dobrý den, prosím vás, kde je informační centrum?",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Dobrý den, prosím vás, kde je informační centrum?"
+      ],
+      "start": 0.0,
+      "end": 4.655600907029479,
+      "sentences": [
+        {
+          "text": "Dobrý den, prosím vás, kde je informační centrum?",
+          "start": 0.0,
+          "end": 4.655600907029479,
+          "slow_start": 0.0,
+          "slow_end": 5.352199546485261
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 5.352199546485261
+    },
+    {
+      "text": "Je v prvním patře. Ale teď není otevřené.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Je v prvním patře.",
+        "Ale teď není otevřené."
+      ],
+      "start": 4.8356009070294785,
+      "end": 9.021043083900226,
+      "sentences": [
+        {
+          "text": "Je v prvním patře.",
+          "start": 4.8356009070294785,
+          "end": 6.588707482993197,
+          "slow_start": 5.532199546485261,
+          "slow_end": 7.552335600907029
+        },
+        {
+          "text": "Ale teď není otevřené.",
+          "start": 6.7687074829931975,
+          "end": 9.021043083900226,
+          "slow_start": 7.73233560090703,
+          "slow_end": 10.33297052154195
+        }
+      ],
+      "slow_start": 5.532199546485261,
+      "slow_end": 10.33297052154195
+    },
+    {
+      "text": "Kdy otevírá? Potřebuju mapu a jednu informaci.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Kdy otevírá?",
+        "Potřebuju mapu a jednu informaci."
+      ],
+      "start": 9.201043083900228,
+      "end": 13.990204081632653,
+      "sentences": [
+        {
+          "text": "Kdy otevírá?",
+          "start": 9.201043083900228,
+          "end": 10.559410430839002,
+          "slow_start": 10.51297052154195,
+          "slow_end": 11.96421768707483
+        },
+        {
+          "text": "Potřebuju mapu a jednu informaci.",
+          "start": 10.739410430839003,
+          "end": 13.990204081632653,
+          "slow_start": 12.14421768707483,
+          "slow_end": 15.859410430839002
+        }
+      ],
+      "slow_start": 10.51297052154195,
+      "slow_end": 15.859410430839002
+    },
+    {
+      "text": "Otevírá v deset. Mapu máme i tady. Chcete ji?",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Otevírá v deset.",
+        "Mapu máme i tady.",
+        "Chcete ji?"
+      ],
+      "start": 14.170204081632653,
+      "end": 18.79106575963719,
+      "sentences": [
+        {
+          "text": "Otevírá v deset.",
+          "start": 14.170204081632653,
+          "end": 15.772380952380953,
+          "slow_start": 16.039410430839002,
+          "slow_end": 17.815736961451247
+        },
+        {
+          "text": "Mapu máme i tady.",
+          "start": 15.952380952380953,
+          "end": 17.62421768707483,
+          "slow_start": 17.995736961451247,
+          "slow_end": 20.015873015873016
+        },
+        {
+          "text": "Chcete ji?",
+          "start": 17.80421768707483,
+          "end": 18.79106575963719,
+          "slow_start": 20.195873015873016,
+          "slow_end": 21.31043083900227
+        }
+      ],
+      "slow_start": 16.039410430839002,
+      "slow_end": 21.31043083900227
+    },
+    {
+      "text": "Ano, prosím. Kolik stojí? A můžu platit kartou?",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Ano, prosím.",
+        "Kolik stojí?",
+        "A můžu platit kartou?"
+      ],
+      "start": 18.971065759637188,
+      "end": 23.858956916099775,
+      "sentences": [
+        {
+          "text": "Ano, prosím.",
+          "start": 18.971065759637188,
+          "end": 20.42231292517007,
+          "slow_start": 21.49043083900227,
+          "slow_end": 23.13904761904762
+        },
+        {
+          "text": "Kolik stojí?",
+          "start": 20.602312925170068,
+          "end": 21.740090702947846,
+          "slow_start": 23.31904761904762,
+          "slow_end": 24.677414965986394
+        },
+        {
+          "text": "A můžu platit kartou?",
+          "start": 21.920090702947846,
+          "end": 23.858956916099775,
+          "slow_start": 24.857414965986393,
+          "slow_end": 27.028480725623584
+        }
+      ],
+      "slow_start": 21.49043083900227,
+      "slow_end": 27.028480725623584
+    },
+    {
+      "text": "Mapa je zdarma. Nemusíte platit.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Mapa je zdarma.",
+        "Nemusíte platit."
+      ],
+      "start": 24.038956916099774,
+      "end": 27.318820861678006,
+      "sentences": [
+        {
+          "text": "Mapa je zdarma.",
+          "start": 24.038956916099774,
+          "end": 25.548253968253967,
+          "slow_start": 27.208480725623584,
+          "slow_end": 28.822267573696145
+        },
+        {
+          "text": "Nemusíte platit.",
+          "start": 25.72825396825397,
+          "end": 27.318820861678006,
+          "slow_start": 29.002267573696145,
+          "slow_end": 30.871473922902496
+        }
+      ],
+      "slow_start": 27.208480725623584,
+      "slow_end": 30.871473922902496
+    },
+    {
+      "text": "Děkuju. Nerozumím tomuto slovu. Můžete to napsat?",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Děkuju.",
+        "Nerozumím tomuto slovu.",
+        "Můžete to napsat?"
+      ],
+      "start": 27.498820861678006,
+      "end": 32.52603174603175,
+      "sentences": [
+        {
+          "text": "Děkuju.",
+          "start": 27.498820861678006,
+          "end": 28.346349206349206,
+          "slow_start": 31.051473922902495,
+          "slow_end": 31.991882086167802
+        },
+        {
+          "text": "Nerozumím tomuto slovu.",
+          "start": 28.526349206349206,
+          "end": 30.70902494331066,
+          "slow_start": 32.1718820861678,
+          "slow_end": 34.58675736961451
+        },
+        {
+          "text": "Můžete to napsat?",
+          "start": 30.88902494331066,
+          "end": 32.52603174603175,
+          "slow_start": 34.76675736961451,
+          "slow_end": 36.68240362811791
+        }
+      ],
+      "slow_start": 31.051473922902495,
+      "slow_end": 36.68240362811791
+    },
+    {
+      "text": "Ano. Tady je název ulice. Není to daleko.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Ano.",
+        "Tady je název ulice.",
+        "Není to daleko."
+      ],
+      "start": 32.70603174603175,
+      "end": 36.95537414965986,
+      "sentences": [
+        {
+          "text": "Ano.",
+          "start": 32.70603174603175,
+          "end": 33.25170068027211,
+          "slow_start": 36.86240362811792,
+          "slow_end": 37.51256235827665
+        },
+        {
+          "text": "Tady je název ulice.",
+          "start": 33.43170068027211,
+          "end": 35.2892970521542,
+          "slow_start": 37.692562358276646,
+          "slow_end": 39.70108843537415
+        },
+        {
+          "text": "Není to daleko.",
+          "start": 35.4692970521542,
+          "end": 36.95537414965986,
+          "slow_start": 39.88108843537415,
+          "slow_end": 41.576145124716554
+        }
+      ],
+      "slow_start": 36.86240362811792,
+      "slow_end": 41.576145124716554
+    },
+    {
+      "text": "Výborně. Ještě jednu otázku: můžu tady čekat?",
+      "index": 8,
+      "role": "text",
+      "parts": [
+        "Výborně.",
+        "Ještě jednu otázku: můžu tady čekat?"
+      ],
+      "start": 37.13537414965987,
+      "end": 41.75038548752835,
+      "sentences": [
+        {
+          "text": "Výborně.",
+          "start": 37.13537414965987,
+          "end": 38.02934240362812,
+          "slow_start": 41.756145124716554,
+          "slow_end": 42.754603174603176
+        },
+        {
+          "text": "Ještě jednu otázku: můžu tady čekat?",
+          "start": 38.20934240362812,
+          "end": 41.75038548752835,
+          "slow_start": 42.934603174603176,
+          "slow_end": 47.05614512471655
+        }
+      ],
+      "slow_start": 41.756145124716554,
+      "slow_end": 47.05614512471655
+    },
+    {
+      "text": "Ano, můžete. Jen tady nesmíte kouřit.",
+      "index": 9,
+      "role": "text",
+      "parts": [
+        "Ano, můžete.",
+        "Jen tady nesmíte kouřit."
+      ],
+      "start": 41.93038548752835,
+      "end": 45.6746485260771,
+      "sentences": [
+        {
+          "text": "Ano, můžete.",
+          "start": 41.93038548752835,
+          "end": 43.26553287981859,
+          "slow_start": 47.23614512471655,
+          "slow_end": 48.82671201814059
+        },
+        {
+          "text": "Jen tady nesmíte kouřit.",
+          "start": 43.44553287981859,
+          "end": 45.6746485260771,
+          "slow_start": 49.00671201814059,
+          "slow_end": 51.52607709750567
+        }
+      ],
+      "slow_start": 47.23614512471655,
+      "slow_end": 51.52607709750567
+    },
+    {
+      "text": "A kde můžu koupit jízdenku? U automatu vedle dveří. Děkuju za pomoc.",
+      "index": 10,
+      "role": "text",
+      "parts": [
+        "A kde můžu koupit jízdenku?",
+        "U automatu vedle dveří.",
+        "Děkuju za pomoc."
+      ],
+      "start": 45.8546485260771,
+      "end": 52.19378684807256,
+      "sentences": [
+        {
+          "text": "A kde můžu koupit jízdenku?",
+          "start": 45.8546485260771,
+          "end": 48.28113378684807,
+          "slow_start": 51.70607709750567,
+          "slow_end": 54.43442176870748
+        },
+        {
+          "text": "U automatu vedle dveří.",
+          "start": 48.46113378684807,
+          "end": 50.46965986394558,
+          "slow_start": 54.61442176870748,
+          "slow_end": 56.93641723356009
+        },
+        {
+          "text": "Děkuju za pomoc.",
+          "start": 50.64965986394558,
+          "end": 52.19378684807256,
+          "slow_start": 57.11641723356009,
+          "slow_end": 58.96240362811791
+        }
+      ],
+      "slow_start": 51.70607709750567,
+      "slow_end": 58.96240362811791
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "a8fc9712a63f7dc3c0d8dcba6a06732b219bd71481332e85ee15434e31a62d71",
+    "slow": "67f2888e3de333fada797656d5c60fc17271ca825c7a2d12e1fbe673a43ec86b"
+  },
+  "reused_from_track_id": "A1-U04-L01--2026.10.22.1--text"
+}

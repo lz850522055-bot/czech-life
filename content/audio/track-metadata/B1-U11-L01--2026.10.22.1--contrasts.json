@@ -1,0 +1,57 @@
+{
+  "id": "B1-U11-L01--2026.10.22.1--contrasts",
+  "lesson_id": "B1-U11-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "nejpozději. nejdříve.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "nejpozději. nejdříve."
+      ]
+    }
+  ],
+  "text_sha256": "06d43fc472fe127a3ddebf780cc6a4179455b308e1cabc6cad419d87b777d5c3",
+  "source_file": "content/lessons/B1/B1-U11-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U11-L01--2026.10.22.1--contrasts--06d43fc472--normal.mp3",
+  "slow_file": "content/audio/files/B1-U11-L01--2026.10.22.1--contrasts--06d43fc472--slow.mp3",
+  "duration_seconds": 2.025986394557823,
+  "slow_duration_seconds": 2.3046258503401362,
+  "cues": [
+    {
+      "text": "nejpozději. nejdříve.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "nejpozději. nejdříve."
+      ],
+      "start": 0.0,
+      "end": 1.8459863945578232,
+      "sentences": [
+        {
+          "text": "nejpozději. nejdříve.",
+          "start": 0.0,
+          "end": 1.8459863945578232,
+          "slow_start": 0.0,
+          "slow_end": 2.124625850340136
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.124625850340136
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "5daf4adfb12f5e82432d95e66c769cdb9434c16b2103eab411839643be450773",
+    "slow": "e8013dbe48eaf11217231751f24d174b53bb74232079dad8fc63e8cf7c07e838"
+  }
+}

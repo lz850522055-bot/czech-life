@@ -1,0 +1,342 @@
+{
+  "id": "A2-U10-L01--2026.10.23.1--text",
+  "lesson_id": "A2-U10-L01",
+  "content_version": "2026.10.23.1",
+  "level": "A2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Zítra připravujeme malé setkání v komunitním centru. Máme dost lidí, ale potřebujeme si jasně rozdělit práci.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Zítra připravujeme malé setkání v komunitním centru.",
+        "Máme dost lidí, ale potřebujeme si jasně rozdělit práci."
+      ]
+    },
+    {
+      "text": "Jana píše Petrovi: Přijď prosím v devět a přines prodlužovací kabel. Pokud ho nemáš, napiš mi ještě dnes.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Jana píše Petrovi: Přijď prosím v devět a přines prodlužovací kabel.",
+        "Pokud ho nemáš, napiš mi ještě dnes."
+      ]
+    },
+    {
+      "text": "Novému dobrovolníkovi ale píše formálněji: Mohl byste přijít o půl hodiny dříve? Potřebovali bychom pomoct se stoly.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Novému dobrovolníkovi ale píše formálněji: Mohl byste přijít o půl hodiny dříve?",
+        "Potřebovali bychom pomoct se stoly."
+      ]
+    },
+    {
+      "text": "Petr odpovídá, že může přijít, ale nemůže nést těžké věci. Rád by pomohl s technikou nebo s registrací hostů.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Petr odpovídá, že může přijít, ale nemůže nést těžké věci.",
+        "Rád by pomohl s technikou nebo s registrací hostů."
+      ]
+    },
+    {
+      "text": "To je v pořádku. Zkontroluj prosím mikrofon a napiš jména na seznam. Krabice zatím neotvírej, nejdřív je spočítáme.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "To je v pořádku.",
+        "Zkontroluj prosím mikrofon a napiš jména na seznam.",
+        "Krabice zatím neotvírej, nejdřív je spočítáme."
+      ]
+    },
+    {
+      "text": "Kdybychom měli více času, připravili bychom také krátké promítání. Dnes ale nechceme přidávat další úkoly.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Kdybychom měli více času, připravili bychom také krátké promítání.",
+        "Dnes ale nechceme přidávat další úkoly."
+      ]
+    },
+    {
+      "text": "Jana nakonec shrne plán: Když přijde méně lidí, spojíme dvě skupiny. Pokud bude problém se zvukem, budeme pracovat bez mikrofonu.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Jana nakonec shrne plán: Když přijde méně lidí, spojíme dvě skupiny.",
+        "Pokud bude problém se zvukem, budeme pracovat bez mikrofonu."
+      ]
+    },
+    {
+      "text": "Každý má vědět nejen co udělat, ale i komu říct, že něco nejde. Včasné odmítnutí je lepší než tichý souhlas bez výsledku.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Každý má vědět nejen co udělat, ale i komu říct, že něco nejde.",
+        "Včasné odmítnutí je lepší než tichý souhlas bez výsledku."
+      ]
+    }
+  ],
+  "text_sha256": "3d3287498e1f688ce3d6a8f8e1ba980f31f8f5db4ffe8b200d3d5c2c47037024",
+  "source_file": "content/lessons/A2/A2-U10-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--normal.mp3",
+  "slow_file": "content/audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--slow.mp3",
+  "duration_seconds": 83.76095238095238,
+  "slow_duration_seconds": 94.10544217687075,
+  "cues": [
+    {
+      "text": "Zítra připravujeme malé setkání v komunitním centru. Máme dost lidí, ale potřebujeme si jasně rozdělit práci.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Zítra připravujeme malé setkání v komunitním centru.",
+        "Máme dost lidí, ale potřebujeme si jasně rozdělit práci."
+      ],
+      "start": 0.0,
+      "end": 10.048480725623582,
+      "sentences": [
+        {
+          "text": "Zítra připravujeme malé setkání v komunitním centru.",
+          "start": 0.0,
+          "end": 4.620770975056689,
+          "slow_start": 0.0,
+          "slow_end": 5.038730158730159
+        },
+        {
+          "text": "Máme dost lidí, ale potřebujeme si jasně rozdělit práci.",
+          "start": 4.80077097505669,
+          "end": 10.048480725623582,
+          "slow_start": 5.218730158730159,
+          "slow_end": 10.965668934240362
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 10.965668934240362
+    },
+    {
+      "text": "Jana píše Petrovi: Přijď prosím v devět a přines prodlužovací kabel. Pokud ho nemáš, napiš mi ještě dnes.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Jana píše Petrovi: Přijď prosím v devět a přines prodlužovací kabel.",
+        "Pokud ho nemáš, napiš mi ještě dnes."
+      ],
+      "start": 10.228480725623582,
+      "end": 19.812562358276644,
+      "sentences": [
+        {
+          "text": "Jana píše Petrovi: Přijď prosím v devět a přines prodlužovací kabel.",
+          "start": 10.228480725623582,
+          "end": 16.509478458049887,
+          "slow_start": 11.145668934240362,
+          "slow_end": 18.13487528344671
+        },
+        {
+          "text": "Pokud ho nemáš, napiš mi ještě dnes.",
+          "start": 16.689478458049887,
+          "end": 19.812562358276644,
+          "slow_start": 18.31487528344671,
+          "slow_end": 21.925578231292516
+        }
+      ],
+      "slow_start": 11.145668934240362,
+      "slow_end": 21.925578231292516
+    },
+    {
+      "text": "Novému dobrovolníkovi ale píše formálněji: Mohl byste přijít o půl hodiny dříve? Potřebovali bychom pomoct se stoly.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Novému dobrovolníkovi ale píše formálněji: Mohl byste přijít o půl hodiny dříve?",
+        "Potřebovali bychom pomoct se stoly."
+      ],
+      "start": 19.992562358276643,
+      "end": 30.447392290249432,
+      "sentences": [
+        {
+          "text": "Novému dobrovolníkovi ale píše formálněji: Mohl byste přijít o půl hodiny dříve?",
+          "start": 19.992562358276643,
+          "end": 27.295238095238094,
+          "slow_start": 22.105578231292515,
+          "slow_end": 30.267392290249433
+        },
+        {
+          "text": "Potřebovali bychom pomoct se stoly.",
+          "start": 27.475238095238094,
+          "end": 30.447392290249432,
+          "slow_start": 30.447392290249432,
+          "slow_end": 33.82589569160998
+        }
+      ],
+      "slow_start": 22.105578231292515,
+      "slow_end": 33.82589569160998
+    },
+    {
+      "text": "Petr odpovídá, že může přijít, ale nemůže nést těžké věci. Rád by pomohl s technikou nebo s registrací hostů.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Petr odpovídá, že může přijít, ale nemůže nést těžké věci.",
+        "Rád by pomohl s technikou nebo s registrací hostů."
+      ],
+      "start": 30.627392290249432,
+      "end": 40.617823129251704,
+      "sentences": [
+        {
+          "text": "Petr odpovídá, že může přijít, ale nemůže nést těžké věci.",
+          "start": 30.627392290249432,
+          "end": 36.31628117913832,
+          "slow_start": 34.00589569160998,
+          "slow_end": 40.3449433106576
+        },
+        {
+          "text": "Rád by pomohl s technikou nebo s registrací hostů.",
+          "start": 36.49628117913832,
+          "end": 40.617823129251704,
+          "slow_start": 40.5249433106576,
+          "slow_end": 45.3314739229025
+        }
+      ],
+      "slow_start": 34.00589569160998,
+      "slow_end": 45.3314739229025
+    },
+    {
+      "text": "To je v pořádku. Zkontroluj prosím mikrofon a napiš jména na seznam. Krabice zatím neotvírej, nejdřív je spočítáme.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "To je v pořádku.",
+        "Zkontroluj prosím mikrofon a napiš jména na seznam.",
+        "Krabice zatím neotvírej, nejdřív je spočítáme."
+      ],
+      "start": 40.797823129251704,
+      "end": 51.3978231292517,
+      "sentences": [
+        {
+          "text": "To je v pořádku.",
+          "start": 40.797823129251704,
+          "end": 42.26068027210884,
+          "slow_start": 45.511473922902496,
+          "slow_end": 47.22975056689342
+        },
+        {
+          "text": "Zkontroluj prosím mikrofon a napiš jména na seznam.",
+          "start": 42.44068027210884,
+          "end": 47.258820861678004,
+          "slow_start": 47.40975056689342,
+          "slow_end": 53.040589569161
+        },
+        {
+          "text": "Krabice zatím neotvírej, nejdřív je spočítáme.",
+          "start": 47.438820861678,
+          "end": 51.3978231292517,
+          "slow_start": 53.220589569161,
+          "slow_end": 57.57433106575964
+        }
+      ],
+      "slow_start": 45.511473922902496,
+      "slow_end": 57.57433106575964
+    },
+    {
+      "text": "Kdybychom měli více času, připravili bychom také krátké promítání. Dnes ale nechceme přidávat další úkoly.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Kdybychom měli více času, připravili bychom také krátké promítání.",
+        "Dnes ale nechceme přidávat další úkoly."
+      ],
+      "start": 51.5778231292517,
+      "end": 61.41732426303855,
+      "sentences": [
+        {
+          "text": "Kdybychom měli více času, připravili bychom také krátké promítání.",
+          "start": 51.5778231292517,
+          "end": 57.66145124716553,
+          "slow_start": 57.75433106575964,
+          "slow_end": 64.61582766439909
+        },
+        {
+          "text": "Dnes ale nechceme přidávat další úkoly.",
+          "start": 57.84145124716553,
+          "end": 61.41732426303855,
+          "slow_start": 64.7958276643991,
+          "slow_end": 68.87092970521542
+        }
+      ],
+      "slow_start": 57.75433106575964,
+      "slow_end": 68.87092970521542
+    },
+    {
+      "text": "Jana nakonec shrne plán: Když přijde méně lidí, spojíme dvě skupiny. Pokud bude problém se zvukem, budeme pracovat bez mikrofonu.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Jana nakonec shrne plán: Když přijde méně lidí, spojíme dvě skupiny.",
+        "Pokud bude problém se zvukem, budeme pracovat bez mikrofonu."
+      ],
+      "start": 61.59732426303855,
+      "end": 72.93451247165532,
+      "sentences": [
+        {
+          "text": "Jana nakonec shrne plán: Když přijde méně lidí, spojíme dvě skupiny.",
+          "start": 61.59732426303855,
+          "end": 67.53002267573696,
+          "slow_start": 69.05092970521542,
+          "slow_end": 75.8079365079365
+        },
+        {
+          "text": "Pokud bude problém se zvukem, budeme pracovat bez mikrofonu.",
+          "start": 67.71002267573697,
+          "end": 72.93451247165532,
+          "slow_start": 75.98793650793651,
+          "slow_end": 81.8625850340136
+        }
+      ],
+      "slow_start": 69.05092970521542,
+      "slow_end": 81.8625850340136
+    },
+    {
+      "text": "Každý má vědět nejen co udělat, ale i komu říct, že něco nejde. Včasné odmítnutí je lepší než tichý souhlas bez výsledku.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Každý má vědět nejen co udělat, ale i komu říct, že něco nejde.",
+        "Včasné odmítnutí je lepší než tichý souhlas bez výsledku."
+      ],
+      "start": 73.11451247165533,
+      "end": 83.58095238095238,
+      "sentences": [
+        {
+          "text": "Každý má vědět nejen co udělat, ale i komu říct, že něco nejde.",
+          "start": 73.11451247165533,
+          "end": 78.81501133786848,
+          "slow_start": 82.04258503401361,
+          "slow_end": 88.55578231292517
+        },
+        {
+          "text": "Včasné odmítnutí je lepší než tichý souhlas bez výsledku.",
+          "start": 78.99501133786848,
+          "end": 83.58095238095238,
+          "slow_start": 88.73578231292517,
+          "slow_end": 93.92544217687075
+        }
+      ],
+      "slow_start": 82.04258503401361,
+      "slow_end": 93.92544217687075
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "30e9a084d93230e8aca52ae65500cd0d4aa28c12bb5752c5ee5533cf565be0c1",
+    "slow": "5e9091cb559d89ac1330e1eaa397f4523cf1144e1235c0971bfdc90543473773"
+  },
+  "reused_from_track_id": "A2-U10-L01--2026.10.22.1--text"
+}

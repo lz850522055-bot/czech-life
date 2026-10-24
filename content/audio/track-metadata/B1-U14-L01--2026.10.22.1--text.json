@@ -1,0 +1,315 @@
+{
+  "id": "B1-U14-L01--2026.10.22.1--text",
+  "lesson_id": "B1-U14-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Připravujeme veřejnou debatu o sousedské výpomoci. V pondělním e-mailu knihovna potvrdila malý sál od šesti do osmi hodin. Ve středu však na webu přibylo oznámení, že budova zavírá už v sedm. Jeden člen týmu chtěl okamžitě zkrátit program. Já jsem navrhl nejprve ověřit, zda se oznámení týká i předem rezervovaných akcí. Oba texty mohly být správné, ale popisovat jiný rozsah.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Připravujeme veřejnou debatu o sousedské výpomoci.",
+        "V pondělním e-mailu knihovna potvrdila malý sál od šesti do osmi hodin.",
+        "Ve středu však na webu přibylo oznámení, že budova zavírá už v sedm.",
+        "Jeden člen týmu chtěl okamžitě zkrátit program.",
+        "Já jsem navrhl nejprve ověřit, zda se oznámení týká i předem rezervovaných akcí.",
+        "Oba texty mohly být správné, ale popisovat jiný rozsah."
+      ]
+    },
+    {
+      "text": "Zavolal jsem správkyni. Vysvětlila, že běžné služby končí v sedm, ale naše rezervace platí do osmi. Po sedmé ovšem bude otevřený jen boční vchod. Požádal jsem ji, aby mi tuto informaci poslala také písemně. Nešlo o nedůvěru. Potřeboval jsem přesný text, podle kterého mohu informovat hosty a rozdělit úkoly mezi organizátory.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Zavolal jsem správkyni.",
+        "Vysvětlila, že běžné služby končí v sedm, ale naše rezervace platí do osmi.",
+        "Po sedmé ovšem bude otevřený jen boční vchod.",
+        "Požádal jsem ji, aby mi tuto informaci poslala také písemně.",
+        "Nešlo o nedůvěru.",
+        "Potřeboval jsem přesný text, podle kterého mohu informovat hosty a rozdělit úkoly mezi organizátory."
+      ]
+    },
+    {
+      "text": "Další problém se objevil u vybavení. Projektor byl potvrzený, mikrofon však nebyl v nabídce. V našem původním seznamu chyběl, a proto jsme nemohli tvrdit, že ho knihovna zapomněla připravit. Zeptali jsme se, zda lze použít vlastní mikrofon a kdo ověří jeho připojení. Kdyby to nebylo možné, museli bychom upravit způsob vedení diskuse a počet účastníků.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Další problém se objevil u vybavení.",
+        "Projektor byl potvrzený, mikrofon však nebyl v nabídce.",
+        "V našem původním seznamu chyběl, a proto jsme nemohli tvrdit, že ho knihovna zapomněla připravit.",
+        "Zeptali jsme se, zda lze použít vlastní mikrofon a kdo ověří jeho připojení.",
+        "Kdyby to nebylo možné, museli bychom upravit způsob vedení diskuse a počet účastníků."
+      ]
+    },
+    {
+      "text": "Večer jsem napsal dvě zprávy. Hostům jsem sdělil čas, boční vstup po sedmé a kontaktní telefon. Týmu jsem navíc poslal seznam potvrzených bodů a otevřených otázek. Potom jsem si nahrál ústní shrnutí. Všiml jsem si, že při čtení rozumím všemu, ale při mluvení často hledám předložky. Do dalšího opakování jsem proto zařadil aktivní popis cesty a žádosti, nikoli jen další výběr správných možností.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Večer jsem napsal dvě zprávy.",
+        "Hostům jsem sdělil čas, boční vstup po sedmé a kontaktní telefon.",
+        "Týmu jsem navíc poslal seznam potvrzených bodů a otevřených otázek.",
+        "Potom jsem si nahrál ústní shrnutí.",
+        "Všiml jsem si, že při čtení rozumím všemu, ale při mluvení často hledám předložky.",
+        "Do dalšího opakování jsem proto zařadil aktivní popis cesty a žádosti, nikoli jen další výběr správných možností."
+      ]
+    }
+  ],
+  "text_sha256": "4ae204d7b697c2d84998a2f50e0d5622cbbfe8c398d468b9fd8c3fd5b63665b3",
+  "source_file": "content/lessons/B1/B1-U14-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U14-L01--2026.10.22.1--text--4ae204d7b6--normal.mp3",
+  "slow_file": "content/audio/files/B1-U14-L01--2026.10.22.1--text--4ae204d7b6--slow.mp3",
+  "duration_seconds": 132.5115192743764,
+  "slow_duration_seconds": 149.42725623582766,
+  "cues": [
+    {
+      "text": "Připravujeme veřejnou debatu o sousedské výpomoci. V pondělním e-mailu knihovna potvrdila malý sál od šesti do osmi hodin. Ve středu však na webu přibylo oznámení, že budova zavírá už v sedm. Jeden člen týmu chtěl okamžitě zkrátit program. Já jsem navrhl nejprve ověřit, zda se oznámení týká i předem rezervovaných akcí. Oba texty mohly být správné, ale popisovat jiný rozsah.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Připravujeme veřejnou debatu o sousedské výpomoci.",
+        "V pondělním e-mailu knihovna potvrdila malý sál od šesti do osmi hodin.",
+        "Ve středu však na webu přibylo oznámení, že budova zavírá už v sedm.",
+        "Jeden člen týmu chtěl okamžitě zkrátit program.",
+        "Já jsem navrhl nejprve ověřit, zda se oznámení týká i předem rezervovaných akcí.",
+        "Oba texty mohly být správné, ale popisovat jiný rozsah."
+      ],
+      "start": 0.0,
+      "end": 33.45437641723356,
+      "sentences": [
+        {
+          "text": "Připravujeme veřejnou debatu o sousedské výpomoci.",
+          "start": 0.0,
+          "end": 4.260861678004535,
+          "slow_start": 0.0,
+          "slow_end": 4.85297052154195
+        },
+        {
+          "text": "V pondělním e-mailu knihovna potvrdila malý sál od šesti do osmi hodin.",
+          "start": 4.440861678004535,
+          "end": 10.211020408163265,
+          "slow_start": 5.03297052154195,
+          "slow_end": 11.766757369614513
+        },
+        {
+          "text": "Ve středu však na webu přibylo oznámení, že budova zavírá už v sedm.",
+          "start": 10.391020408163266,
+          "end": 16.21922902494331,
+          "slow_start": 11.946757369614513,
+          "slow_end": 18.35546485260771
+        },
+        {
+          "text": "Jeden člen týmu chtěl okamžitě zkrátit program.",
+          "start": 16.39922902494331,
+          "end": 20.694920634920635,
+          "slow_start": 18.53546485260771,
+          "slow_end": 23.38843537414966
+        },
+        {
+          "text": "Já jsem navrhl nejprve ověřit, zda se oznámení týká i předem rezervovaných akcí.",
+          "start": 20.874920634920635,
+          "end": 28.00344671201814,
+          "slow_start": 23.56843537414966,
+          "slow_end": 31.648979591836735
+        },
+        {
+          "text": "Oba texty mohly být správné, ale popisovat jiný rozsah.",
+          "start": 28.183446712018142,
+          "end": 33.45437641723356,
+          "slow_start": 31.828979591836735,
+          "slow_end": 37.900997732426305
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 37.900997732426305
+    },
+    {
+      "text": "Zavolal jsem správkyni. Vysvětlila, že běžné služby končí v sedm, ale naše rezervace platí do osmi. Po sedmé ovšem bude otevřený jen boční vchod. Požádal jsem ji, aby mi tuto informaci poslala také písemně. Nešlo o nedůvěru. Potřeboval jsem přesný text, podle kterého mohu informovat hosty a rozdělit úkoly mezi organizátory.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Zavolal jsem správkyni.",
+        "Vysvětlila, že běžné služby končí v sedm, ale naše rezervace platí do osmi.",
+        "Po sedmé ovšem bude otevřený jen boční vchod.",
+        "Požádal jsem ji, aby mi tuto informaci poslala také písemně.",
+        "Nešlo o nedůvěru.",
+        "Potřeboval jsem přesný text, podle kterého mohu informovat hosty a rozdělit úkoly mezi organizátory."
+      ],
+      "start": 33.63437641723356,
+      "end": 62.943990929705215,
+      "sentences": [
+        {
+          "text": "Zavolal jsem správkyni.",
+          "start": 33.63437641723356,
+          "end": 35.80544217687075,
+          "slow_start": 38.080997732426304,
+          "slow_end": 40.55392290249433
+        },
+        {
+          "text": "Vysvětlila, že běžné služby končí v sedm, ale naše rezervace platí do osmi.",
+          "start": 35.98544217687075,
+          "end": 42.48702947845805,
+          "slow_start": 40.73392290249433,
+          "slow_end": 48.29201814058957
+        },
+        {
+          "text": "Po sedmé ovšem bude otevřený jen boční vchod.",
+          "start": 42.66702947845805,
+          "end": 46.881451247165536,
+          "slow_start": 48.47201814058957,
+          "slow_end": 53.18566893424036
+        },
+        {
+          "text": "Požádal jsem ji, aby mi tuto informaci poslala také písemně.",
+          "start": 47.061451247165536,
+          "end": 52.47170068027211,
+          "slow_start": 53.36566893424036,
+          "slow_end": 59.71632653061224
+        },
+        {
+          "text": "Nešlo o nedůvěru.",
+          "start": 52.65170068027211,
+          "end": 54.230657596371884,
+          "slow_start": 59.89632653061224,
+          "slow_end": 61.70748299319728
+        },
+        {
+          "text": "Potřeboval jsem přesný text, podle kterého mohu informovat hosty a rozdělit úkoly mezi organizátory.",
+          "start": 54.410657596371884,
+          "end": 62.943990929705215,
+          "slow_start": 61.88748299319728,
+          "slow_end": 71.69791383219955
+        }
+      ],
+      "slow_start": 38.080997732426304,
+      "slow_end": 71.69791383219955
+    },
+    {
+      "text": "Další problém se objevil u vybavení. Projektor byl potvrzený, mikrofon však nebyl v nabídce. V našem původním seznamu chyběl, a proto jsme nemohli tvrdit, že ho knihovna zapomněla připravit. Zeptali jsme se, zda lze použít vlastní mikrofon a kdo ověří jeho připojení. Kdyby to nebylo možné, museli bychom upravit způsob vedení diskuse a počet účastníků.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Další problém se objevil u vybavení.",
+        "Projektor byl potvrzený, mikrofon však nebyl v nabídce.",
+        "V našem původním seznamu chyběl, a proto jsme nemohli tvrdit, že ho knihovna zapomněla připravit.",
+        "Zeptali jsme se, zda lze použít vlastní mikrofon a kdo ověří jeho připojení.",
+        "Kdyby to nebylo možné, museli bychom upravit způsob vedení diskuse a počet účastníků."
+      ],
+      "start": 63.123990929705215,
+      "end": 94.71492063492063,
+      "sentences": [
+        {
+          "text": "Další problém se objevil u vybavení.",
+          "start": 63.123990929705215,
+          "end": 66.25868480725623,
+          "slow_start": 71.87791383219955,
+          "slow_end": 75.45378684807257
+        },
+        {
+          "text": "Projektor byl potvrzený, mikrofon však nebyl v nabídce.",
+          "start": 66.43868480725624,
+          "end": 71.58190476190477,
+          "slow_start": 75.63378684807256,
+          "slow_end": 81.48521541950113
+        },
+        {
+          "text": "V našem původním seznamu chyběl, a proto jsme nemohli tvrdit, že ho knihovna zapomněla připravit.",
+          "start": 71.76190476190476,
+          "end": 79.62185941043084,
+          "slow_start": 81.66521541950114,
+          "slow_end": 90.57006802721088
+        },
+        {
+          "text": "Zeptali jsme se, zda lze použít vlastní mikrofon a kdo ověří jeho připojení.",
+          "start": 79.80185941043084,
+          "end": 86.45437641723356,
+          "slow_start": 90.75006802721089,
+          "slow_end": 98.36621315192744
+        },
+        {
+          "text": "Kdyby to nebylo možné, museli bychom upravit způsob vedení diskuse a počet účastníků.",
+          "start": 86.63437641723355,
+          "end": 94.71492063492063,
+          "slow_start": 98.54621315192743,
+          "slow_end": 107.6019954648526
+        }
+      ],
+      "slow_start": 71.87791383219955,
+      "slow_end": 107.6019954648526
+    },
+    {
+      "text": "Večer jsem napsal dvě zprávy. Hostům jsem sdělil čas, boční vstup po sedmé a kontaktní telefon. Týmu jsem navíc poslal seznam potvrzených bodů a otevřených otázek. Potom jsem si nahrál ústní shrnutí. Všiml jsem si, že při čtení rozumím všemu, ale při mluvení často hledám předložky. Do dalšího opakování jsem proto zařadil aktivní popis cesty a žádosti, nikoli jen další výběr správných možností.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Večer jsem napsal dvě zprávy.",
+        "Hostům jsem sdělil čas, boční vstup po sedmé a kontaktní telefon.",
+        "Týmu jsem navíc poslal seznam potvrzených bodů a otevřených otázek.",
+        "Potom jsem si nahrál ústní shrnutí.",
+        "Všiml jsem si, že při čtení rozumím všemu, ale při mluvení často hledám předložky.",
+        "Do dalšího opakování jsem proto zařadil aktivní popis cesty a žádosti, nikoli jen další výběr správných možností."
+      ],
+      "start": 94.89492063492064,
+      "end": 132.3315192743764,
+      "sentences": [
+        {
+          "text": "Večer jsem napsal dvě zprávy.",
+          "start": 94.89492063492064,
+          "end": 97.78580498866214,
+          "slow_start": 107.78199546485261,
+          "slow_end": 110.96312925170068
+        },
+        {
+          "text": "Hostům jsem sdělil čas, boční vstup po sedmé a kontaktní telefon.",
+          "start": 97.96580498866213,
+          "end": 103.97977324263039,
+          "slow_start": 111.14312925170069,
+          "slow_end": 117.78403628117914
+        },
+        {
+          "text": "Týmu jsem navíc poslal seznam potvrzených bodů a otevřených otázek.",
+          "start": 104.15977324263038,
+          "end": 110.55687074829932,
+          "slow_start": 117.96403628117913,
+          "slow_end": 125.04612244897959
+        },
+        {
+          "text": "Potom jsem si nahrál ústní shrnutí.",
+          "start": 110.73687074829932,
+          "end": 114.05732426303855,
+          "slow_start": 125.2261224489796,
+          "slow_end": 128.90648526077098
+        },
+        {
+          "text": "Všiml jsem si, že při čtení rozumím všemu, ale při mluvení často hledám předložky.",
+          "start": 114.23732426303854,
+          "end": 121.91151927437642,
+          "slow_start": 129.08648526077098,
+          "slow_end": 137.561768707483
+        },
+        {
+          "text": "Do dalšího opakování jsem proto zařadil aktivní popis cesty a žádosti, nikoli jen další výběr správných možností.",
+          "start": 122.09151927437642,
+          "end": 132.3315192743764,
+          "slow_start": 137.741768707483,
+          "slow_end": 149.24725623582768
+        }
+      ],
+      "slow_start": 107.78199546485261,
+      "slow_end": 149.24725623582768
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "3b02e681f9155fbd605c0cb1ea4c44b68d7b41b18f64776f72d78af06a589625",
+    "slow": "f291ccbcf24c3729534baf7c2bcae7940a242ec289cbfafc91cbaf76e075691a"
+  }
+}

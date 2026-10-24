@@ -1,0 +1,620 @@
+{
+  "id": "A1-FINAL",
+  "kind": "level",
+  "level": "A1",
+  "title_zh": "A1独立任务：参加第一次社区活动",
+  "version": "2026.10.22.1",
+  "unseen_text": [
+    {
+      "cs": "Ahoj, jmenuju se Klára. Jsem z Olomouce, ale teď bydlím v malém bytě v Praze. Pracuju v knihovně a večer ráda čtu nebo vařím.",
+      "zh": "你好，我叫克拉拉，来自奥洛穆茨，现在住布拉格的小公寓。我在图书馆工作，晚上喜欢读书或做饭。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "cs": "V sobotu máme v parku malé setkání. Začínáme ve tři odpoledne. Sraz je u hlavního vchodu, ne u zastávky.",
+      "zh": "周六公园有小聚会，下午三点开始，在正门集合，不是在车站。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "cs": "Každý může přinést vodu nebo něco malého k jídlu. V obchodě vedle parku stojí jedna voda patnáct korun a jeden čaj dvacet korun.",
+      "zh": "每人可带水或小食，公园旁商店一瓶水十五克朗，一杯茶二十克朗。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "cs": "Pokud potřebujete pomoc s cestou, napište mi. Mluvím pomalu a ráda vám ukážu místo na mapě.",
+      "zh": "如果需要问路请写给我，我会慢慢说，也愿意在地图上指位置。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "听活动开始时间，选正确时刻。",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "13:00"
+        },
+        {
+          "id": "b",
+          "text": "15:00"
+        },
+        {
+          "id": "c",
+          "text": "17:00"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "ve tři odpoledne是15点。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "listening"
+      ],
+      "error_category": "comprehension",
+      "audio_text_cs": "V sobotu začínáme ve tři odpoledne.",
+      "id": "A1-FINAL-E01",
+      "knowledge_points": []
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "读材料：在哪里集合？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "车站"
+        },
+        {
+          "id": "b",
+          "text": "公园正门"
+        },
+        {
+          "id": "c",
+          "text": "商店里面"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "明确u hlavního vchodu, ne u zastávky。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "A1-FINAL-E02",
+      "knowledge_points": []
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "填“Klára喜欢做饭”（女性）。",
+      "stimulus_cs": "Klára ___ vaří.",
+      "answer": "ráda",
+      "accepted_answers": [
+        "ráda"
+      ],
+      "explanation_zh": "女性ráda，不能因vaří不变就忽略性别。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "A1-FINAL-E03",
+      "knowledge_points": []
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "买两瓶水一杯茶共多少，写数字。",
+      "stimulus_cs": "",
+      "answer": "50",
+      "accepted_answers": [
+        "50"
+      ],
+      "explanation_zh": "2×15+20=50，仅按本题示例。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "comprehension",
+      "id": "A1-FINAL-E04",
+      "knowledge_points": []
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "对Klára作30秒自我介绍：姓名、来处、现在所在地、一项爱好；信息可虚构但要说明。",
+      "stimulus_cs": "",
+      "answer": "Dobrý den, jsem Li. Jsem z Číny a teď bydlím v Praze. Rád chodím ven.",
+      "accepted_answers": [],
+      "explanation_zh": "不照抄Klára身份；男性rád，女性ráda。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "四项信息可理解",
+        "být与人称一致",
+        "至少一个完整行动句",
+        "能在不看示范时完成"
+      ],
+      "id": "A1-FINAL-E05",
+      "knowledge_points": []
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "给Klára写3—5句消息：你周六能来，问到达路线，说明想带什么。",
+      "stimulus_cs": "",
+      "answer": "Dobrý den, v sobotu můžu přijít. Kde je hlavní vchod? Přinesu vodu. Děkuju.",
+      "accepted_answers": [],
+      "explanation_zh": "能表达实际目的即可；未来词块可使用本课示范。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "出席态度明确",
+        "有一个具体问题",
+        "说明带的物品",
+        "问候和礼貌结束"
+      ],
+      "id": "A1-FINAL-E06",
+      "knowledge_points": []
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "店员把你要的一杯茶听成三杯。澄清数量，问能否刷卡，再要收据。",
+      "stimulus_cs": "",
+      "answer": "Jen jeden čaj, prosím, ne tři. Můžu platit kartou? A prosím účtenku.",
+      "accepted_answers": [],
+      "explanation_zh": "三步都要完成，不只重复数字。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "纠正错误数量",
+        "问支付方式",
+        "请求凭证",
+        "能处理一次追问"
+      ],
+      "id": "A1-FINAL-E07",
+      "knowledge_points": []
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "向中文朋友转告活动的星期、时刻、集合点与可带物品，不能自己增加费用。",
+      "stimulus_cs": "",
+      "answer": "周六15点在公园正门集合，可以带水或小食，材料没说活动收费。",
+      "accepted_answers": [],
+      "explanation_zh": "商店价格不是活动报名费。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "时间准确",
+        "地点含不是车站的限制",
+        "可带物品正确",
+        "不发明费用"
+      ],
+      "id": "A1-FINAL-E08",
+      "knowledge_points": []
+    }
+  ],
+  "rubric": [
+    "听读分别记录答题证据，不能相互代替",
+    "口语/写作看信息完整、可理解、基础词形，不用单个口误否定全部能力",
+    "互动必须经历一次误听修复",
+    "遇到未知能提问，比编造更合格"
+  ],
+  "typical_performances": [
+    {
+      "level": "需补基础",
+      "description_zh": "能找姓名但漏掉ne，集合点错误，开放任务只能复制原文。"
+    },
+    {
+      "level": "基本可用",
+      "description_zh": "大部分关键信息正确，能完成简单请求；时态或宾格偶尔需查看规律卡。"
+    },
+    {
+      "level": "较稳定",
+      "description_zh": "能独立介绍、纠错、写短消息，并在新情境准确转述时间数字；仍不等于官方A1成绩。"
+    }
+  ],
+  "remediation": [
+    {
+      "condition_zh": "时间或价格失误",
+      "lesson_ids": [
+        "A1-U05-L01",
+        "A1-U06-L01"
+      ],
+      "action_zh": "把听到数字写出，再用第二种形式复述确认。"
+    },
+    {
+      "condition_zh": "词形影响理解",
+      "lesson_ids": [
+        "A1-U02-L01",
+        "A1-U03-L01",
+        "A1-U08-L01"
+      ],
+      "action_zh": "先选人称/名词类别，再说三条自己的句子。"
+    },
+    {
+      "condition_zh": "互动难继续",
+      "lesson_ids": [
+        "A1-U04-L01",
+        "A1-U12-L01"
+      ],
+      "action_zh": "练具体澄清，不一味要求整段重说。"
+    }
+  ],
+  "source": "original",
+  "assessment_notice": "这是本系统的独立任务证据，不是官方CEFR证书；开放回答按量规自评或由教师复核。",
+  "audio_refs": [
+    {
+      "lesson_id": "A1-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-FINAL--2026.10.22.1--text--d3bae17a44--normal.mp3",
+      "slow_file": "audio/files/A1-FINAL--2026.10.22.1--text--d3bae17a44--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-FINAL--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Ahoj, jmenuju se Klára. Jsem z Olomouce, ale teď bydlím v malém bytě v Praze. Pracuju v knihovně a večer ráda čtu nebo vařím. V sobotu máme v parku malé setkání. Začínáme ve tři odpoledne. Sraz je u hlavního vchodu, ne u zastávky. Každý může přinést vodu nebo něco malého k jídlu. V obchodě vedle parku stojí jedna voda patnáct korun a jeden čaj dvacet korun. Pokud potřebujete pomoc s cestou, napište mi. Mluvím pomalu a ráda vám ukážu místo na mapě.",
+      "duration_seconds": 41.645442176870745,
+      "slow_duration_seconds": 46.64934240362812,
+      "sha256": "114a81c03610e7eef644f800ef479c582e57a2a984139d84f95762958de31361",
+      "slow_sha256": "9b5001d1e1cbdc73b7510b4fa0500d1f7ac26fc78b8f224151592b2d56c66fab"
+    },
+    {
+      "lesson_id": "A1-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-FINAL--2026.10.22.1--text--d3bae17a44--normal.mp3",
+      "slow_file": "audio/files/A1-FINAL--2026.10.22.1--text--d3bae17a44--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-FINAL--2026.10.22.1--text--p0",
+      "asset_id": "A1-FINAL--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Ahoj, jmenuju se Klára. Jsem z Olomouce, ale teď bydlím v malém bytě v Praze. Pracuju v knihovně a večer ráda čtu nebo vařím.",
+      "start": 0,
+      "end": 11.923537414965987,
+      "slow_start": 0,
+      "slow_end": 13.560544217687076
+    },
+    {
+      "lesson_id": "A1-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-FINAL--2026.10.22.1--text--d3bae17a44--normal.mp3",
+      "slow_file": "audio/files/A1-FINAL--2026.10.22.1--text--d3bae17a44--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-FINAL--2026.10.22.1--text--s0",
+      "asset_id": "A1-FINAL--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Ahoj, jmenuju se Klára.",
+      "start": 0,
+      "end": 2.147845804988662,
+      "slow_start": 0,
+      "slow_end": 2.403265306122449
+    },
+    {
+      "lesson_id": "A1-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-FINAL--2026.10.22.1--text--d3bae17a44--normal.mp3",
+      "slow_file": "audio/files/A1-FINAL--2026.10.22.1--text--d3bae17a44--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-FINAL--2026.10.22.1--text--s1",
+      "asset_id": "A1-FINAL--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Jsem z Olomouce, ale teď bydlím v malém bytě v Praze.",
+      "start": 2.3278458049886623,
+      "end": 7.494285714285715,
+      "slow_start": 2.583265306122449,
+      "slow_end": 8.562403628117913
+    },
+    {
+      "lesson_id": "A1-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-FINAL--2026.10.22.1--text--d3bae17a44--normal.mp3",
+      "slow_file": "audio/files/A1-FINAL--2026.10.22.1--text--d3bae17a44--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-FINAL--2026.10.22.1--text--s2",
+      "asset_id": "A1-FINAL--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Pracuju v knihovně a večer ráda čtu nebo vařím.",
+      "start": 7.674285714285714,
+      "end": 11.923537414965987,
+      "slow_start": 8.742403628117914,
+      "slow_end": 13.560544217687076
+    },
+    {
+      "lesson_id": "A1-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-FINAL--2026.10.22.1--text--d3bae17a44--normal.mp3",
+      "slow_file": "audio/files/A1-FINAL--2026.10.22.1--text--d3bae17a44--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-FINAL--2026.10.22.1--text--p1",
+      "asset_id": "A1-FINAL--2026.10.22.1--text",
+      "role": "text",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "V sobotu máme v parku malé setkání. Začínáme ve tři odpoledne. Sraz je u hlavního vchodu, ne u zastávky.",
+      "start": 12.103537414965986,
+      "end": 21.6934693877551,
+      "slow_start": 13.740544217687075,
+      "slow_end": 24.47986394557823
+    },
+    {
+      "lesson_id": "A1-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-FINAL--2026.10.22.1--text--d3bae17a44--normal.mp3",
+      "slow_file": "audio/files/A1-FINAL--2026.10.22.1--text--d3bae17a44--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-FINAL--2026.10.22.1--text--s3",
+      "asset_id": "A1-FINAL--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 3,
+      "paragraph_index": 1,
+      "sentence_index": 0,
+      "text": "V sobotu máme v parku malé setkání.",
+      "start": 12.103537414965986,
+      "end": 15.296281179138322,
+      "slow_start": 13.740544217687075,
+      "slow_end": 17.36285714285714
+    },
+    {
+      "lesson_id": "A1-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-FINAL--2026.10.22.1--text--d3bae17a44--normal.mp3",
+      "slow_file": "audio/files/A1-FINAL--2026.10.22.1--text--d3bae17a44--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-FINAL--2026.10.22.1--text--s4",
+      "asset_id": "A1-FINAL--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 4,
+      "paragraph_index": 1,
+      "sentence_index": 1,
+      "text": "Začínáme ve tři odpoledne.",
+      "start": 15.476281179138322,
+      "end": 17.96081632653061,
+      "slow_start": 17.542857142857144,
+      "slow_end": 20.32925170068027
+    },
+    {
+      "lesson_id": "A1-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-FINAL--2026.10.22.1--text--d3bae17a44--normal.mp3",
+      "slow_file": "audio/files/A1-FINAL--2026.10.22.1--text--d3bae17a44--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-FINAL--2026.10.22.1--text--s5",
+      "asset_id": "A1-FINAL--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 5,
+      "paragraph_index": 1,
+      "sentence_index": 2,
+      "text": "Sraz je u hlavního vchodu, ne u zastávky.",
+      "start": 18.14081632653061,
+      "end": 21.6934693877551,
+      "slow_start": 20.509251700680274,
+      "slow_end": 24.47986394557823
+    },
+    {
+      "lesson_id": "A1-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-FINAL--2026.10.22.1--text--d3bae17a44--normal.mp3",
+      "slow_file": "audio/files/A1-FINAL--2026.10.22.1--text--d3bae17a44--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-FINAL--2026.10.22.1--text--p2",
+      "asset_id": "A1-FINAL--2026.10.22.1--text",
+      "role": "text",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Každý může přinést vodu nebo něco malého k jídlu. V obchodě vedle parku stojí jedna voda patnáct korun a jeden čaj dvacet korun.",
+      "start": 21.8734693877551,
+      "end": 32.618548752834464,
+      "slow_start": 24.65986394557823,
+      "slow_end": 36.577551020408166
+    },
+    {
+      "lesson_id": "A1-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-FINAL--2026.10.22.1--text--d3bae17a44--normal.mp3",
+      "slow_file": "audio/files/A1-FINAL--2026.10.22.1--text--d3bae17a44--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-FINAL--2026.10.22.1--text--s6",
+      "asset_id": "A1-FINAL--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 6,
+      "paragraph_index": 2,
+      "sentence_index": 0,
+      "text": "Každý může přinést vodu nebo něco malého k jídlu.",
+      "start": 21.8734693877551,
+      "end": 25.983401360544217,
+      "slow_start": 24.65986394557823,
+      "slow_end": 29.141315192743765
+    },
+    {
+      "lesson_id": "A1-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-FINAL--2026.10.22.1--text--d3bae17a44--normal.mp3",
+      "slow_file": "audio/files/A1-FINAL--2026.10.22.1--text--d3bae17a44--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-FINAL--2026.10.22.1--text--s7",
+      "asset_id": "A1-FINAL--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 7,
+      "paragraph_index": 2,
+      "sentence_index": 1,
+      "text": "V obchodě vedle parku stojí jedna voda patnáct korun a jeden čaj dvacet korun.",
+      "start": 26.163401360544217,
+      "end": 32.618548752834464,
+      "slow_start": 29.321315192743764,
+      "slow_end": 36.577551020408166
+    },
+    {
+      "lesson_id": "A1-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-FINAL--2026.10.22.1--text--d3bae17a44--normal.mp3",
+      "slow_file": "audio/files/A1-FINAL--2026.10.22.1--text--d3bae17a44--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-FINAL--2026.10.22.1--text--p3",
+      "asset_id": "A1-FINAL--2026.10.22.1--text",
+      "role": "text",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Pokud potřebujete pomoc s cestou, napište mi. Mluvím pomalu a ráda vám ukážu místo na mapě.",
+      "start": 32.79854875283447,
+      "end": 41.465442176870745,
+      "slow_start": 36.757551020408165,
+      "slow_end": 46.46934240362812
+    },
+    {
+      "lesson_id": "A1-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-FINAL--2026.10.22.1--text--d3bae17a44--normal.mp3",
+      "slow_file": "audio/files/A1-FINAL--2026.10.22.1--text--d3bae17a44--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-FINAL--2026.10.22.1--text--s8",
+      "asset_id": "A1-FINAL--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 8,
+      "paragraph_index": 3,
+      "sentence_index": 0,
+      "text": "Pokud potřebujete pomoc s cestou, napište mi.",
+      "start": 32.79854875283447,
+      "end": 36.687891156462584,
+      "slow_start": 36.757551020408165,
+      "slow_end": 41.180952380952384
+    },
+    {
+      "lesson_id": "A1-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-FINAL--2026.10.22.1--text--d3bae17a44--normal.mp3",
+      "slow_file": "audio/files/A1-FINAL--2026.10.22.1--text--d3bae17a44--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-FINAL--2026.10.22.1--text--s9",
+      "asset_id": "A1-FINAL--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 9,
+      "paragraph_index": 3,
+      "sentence_index": 1,
+      "text": "Mluvím pomalu a ráda vám ukážu místo na mapě.",
+      "start": 36.86789115646258,
+      "end": 41.465442176870745,
+      "slow_start": 41.360952380952384,
+      "slow_end": 46.46934240362812
+    },
+    {
+      "lesson_id": "A1-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-FINAL--2026.10.22.1--exercises--01e24df92b--normal.mp3",
+      "slow_file": "audio/files/A1-FINAL--2026.10.22.1--exercises--01e24df92b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-FINAL--2026.10.22.1--exercises",
+      "role": "exercises-full",
+      "index": 0,
+      "text": "V sobotu začínáme ve tři odpoledne.",
+      "duration_seconds": 3.1753741496598638,
+      "slow_duration_seconds": 3.6862131519274377,
+      "sha256": "9f872cf9f3a4a2ff9c5c4d419a51de744f612f4fbc98d377a8c21a790ec9340b",
+      "slow_sha256": "4b091f4186fcacb15a8f91536d75704d1ee8dc60e81a532eb801aba02bf4e832"
+    },
+    {
+      "lesson_id": "A1-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-FINAL--2026.10.22.1--exercises--01e24df92b--normal.mp3",
+      "slow_file": "audio/files/A1-FINAL--2026.10.22.1--exercises--01e24df92b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-FINAL--2026.10.22.1--exercises--p0",
+      "asset_id": "A1-FINAL--2026.10.22.1--exercises",
+      "role": "exercise",
+      "index": 0,
+      "exercise_id": "A1-FINAL-E01",
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "V sobotu začínáme ve tři odpoledne.",
+      "start": 0,
+      "end": 2.995374149659864,
+      "slow_start": 0,
+      "slow_end": 3.5062131519274375
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "id": "B1-FINAL--2026.10.22.1--text",
+  "lesson_id": "B1-FINAL",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Městské centrum pořádá kurz základní péče o jízdní kolo. Přihlásili jste se na sobotu dopoledne. Původní e-mail uváděl začátek v devět a setkání před hlavním vchodem. V pátek jste dostali novou zprávu: kvůli opravě nádvoří se vstup přesouvá do boční ulice. Začátek se však nemění. Účastníci mají přijet s vlastním kolem; běžné nářadí bude k dispozici.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Městské centrum pořádá kurz základní péče o jízdní kolo.",
+        "Přihlásili jste se na sobotu dopoledne.",
+        "Původní e-mail uváděl začátek v devět a setkání před hlavním vchodem.",
+        "V pátek jste dostali novou zprávu: kvůli opravě nádvoří se vstup přesouvá do boční ulice.",
+        "Začátek se však nemění.",
+        "Účastníci mají přijet s vlastním kolem; běžné nářadí bude k dispozici."
+      ]
+    },
+    {
+      "text": "V ceně kurzu není náhradní materiál. Pokud technik zjistí, že je potřeba vyměnit součástku, nejprve účastníkovi vysvětlí možnosti a cenu. Kurz není služba, při níž člověk odevzdá kolo a vyzvedne si ho hotové. Účastníci se pod dohledem učí jednoduchým úkonům. Závažnější závady mohou vyžadovat samostatnou návštěvu servisu.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "V ceně kurzu není náhradní materiál.",
+        "Pokud technik zjistí, že je potřeba vyměnit součástku, nejprve účastníkovi vysvětlí možnosti a cenu.",
+        "Kurz není služba, při níž člověk odevzdá kolo a vyzvedne si ho hotové.",
+        "Účastníci se pod dohledem učí jednoduchým úkonům.",
+        "Závažnější závady mohou vyžadovat samostatnou návštěvu servisu."
+      ]
+    },
+    {
+      "text": "Kamarádka Tereza chce přijít také, ale zatím nemá potvrzené místo. Viděla na webu, že se uvolnily dvě registrace. Neví, zda informace ještě platí. Požádala vás, abyste zavolali organizátorovi a zjistili, jak se může přihlásit. Současně potřebuje vědět, zda se může zúčastnit bez vlastního kola, protože její kolo je nyní v opravně.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Kamarádka Tereza chce přijít také, ale zatím nemá potvrzené místo.",
+        "Viděla na webu, že se uvolnily dvě registrace.",
+        "Neví, zda informace ještě platí.",
+        "Požádala vás, abyste zavolali organizátorovi a zjistili, jak se může přihlásit.",
+        "Současně potřebuje vědět, zda se může zúčastnit bez vlastního kola, protože její kolo je nyní v opravně."
+      ]
+    },
+    {
+      "text": "Vy už jste zaplatili a máte potvrzení. Nechcete měnit vlastní registraci, pouze ověřit podmínky pro kamarádku. Po telefonátu jí musíte předat přesné informace a napsat organizátorovi krátké potvrzení toho, na čem jste se skutečně domluvili. Neznámé údaje označte jako otázky, nikoli jako hotovou odpověď.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Vy už jste zaplatili a máte potvrzení.",
+        "Nechcete měnit vlastní registraci, pouze ověřit podmínky pro kamarádku.",
+        "Po telefonátu jí musíte předat přesné informace a napsat organizátorovi krátké potvrzení toho, na čem jste se skutečně domluvili.",
+        "Neznámé údaje označte jako otázky, nikoli jako hotovou odpověď."
+      ]
+    }
+  ],
+  "text_sha256": "0e34210a604f3d715ced2abe6132713b2bb1ddb907661f3bcc1484701b8db2ab",
+  "source_file": "content/assessments/B1-FINAL.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--normal.mp3",
+  "slow_file": "content/audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--slow.mp3",
+  "duration_seconds": 119.66494331065759,
+  "slow_duration_seconds": 134.78113378684807,
+  "cues": [
+    {
+      "text": "Městské centrum pořádá kurz základní péče o jízdní kolo. Přihlásili jste se na sobotu dopoledne. Původní e-mail uváděl začátek v devět a setkání před hlavním vchodem. V pátek jste dostali novou zprávu: kvůli opravě nádvoří se vstup přesouvá do boční ulice. Začátek se však nemění. Účastníci mají přijet s vlastním kolem; běžné nářadí bude k dispozici.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Městské centrum pořádá kurz základní péče o jízdní kolo.",
+        "Přihlásili jste se na sobotu dopoledne.",
+        "Původní e-mail uváděl začátek v devět a setkání před hlavním vchodem.",
+        "V pátek jste dostali novou zprávu: kvůli opravě nádvoří se vstup přesouvá do boční ulice.",
+        "Začátek se však nemění.",
+        "Účastníci mají přijet s vlastním kolem; běžné nářadí bude k dispozici."
+      ],
+      "start": 0.0,
+      "end": 32.51396825396825,
+      "sentences": [
+        {
+          "text": "Městské centrum pořádá kurz základní péče o jízdní kolo.",
+          "start": 0.0,
+          "end": 5.793378684807256,
+          "slow_start": 0.0,
+          "slow_end": 6.606077097505669
+        },
+        {
+          "text": "Přihlásili jste se na sobotu dopoledne.",
+          "start": 5.9733786848072565,
+          "end": 8.957142857142857,
+          "slow_start": 6.786077097505669,
+          "slow_end": 10.234240362811791
+        },
+        {
+          "text": "Původní e-mail uváděl začátek v devět a setkání před hlavním vchodem.",
+          "start": 9.137142857142857,
+          "end": 15.37170068027211,
+          "slow_start": 10.41424036281179,
+          "slow_end": 17.577596371882088
+        },
+        {
+          "text": "V pátek jste dostali novou zprávu: kvůli opravě nádvoří se vstup přesouvá do boční ulice.",
+          "start": 15.55170068027211,
+          "end": 23.492925170068027,
+          "slow_start": 17.757596371882087,
+          "slow_end": 26.9875283446712
+        },
+        {
+          "text": "Začátek se však nemění.",
+          "start": 23.672925170068027,
+          "end": 25.83238095238095,
+          "slow_start": 27.1675283446712,
+          "slow_end": 29.65206349206349
+        },
+        {
+          "text": "Účastníci mají přijet s vlastním kolem; běžné nářadí bude k dispozici.",
+          "start": 26.01238095238095,
+          "end": 32.51396825396825,
+          "slow_start": 29.832063492063494,
+          "slow_end": 37.250839002267575
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 37.250839002267575
+    },
+    {
+      "text": "V ceně kurzu není náhradní materiál. Pokud technik zjistí, že je potřeba vyměnit součástku, nejprve účastníkovi vysvětlí možnosti a cenu. Kurz není služba, při níž člověk odevzdá kolo a vyzvedne si ho hotové. Účastníci se pod dohledem učí jednoduchým úkonům. Závažnější závady mohou vyžadovat samostatnou návštěvu servisu.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "V ceně kurzu není náhradní materiál.",
+        "Pokud technik zjistí, že je potřeba vyměnit součástku, nejprve účastníkovi vysvětlí možnosti a cenu.",
+        "Kurz není služba, při níž člověk odevzdá kolo a vyzvedne si ho hotové.",
+        "Účastníci se pod dohledem učí jednoduchým úkonům.",
+        "Závažnější závady mohou vyžadovat samostatnou návštěvu servisu."
+      ],
+      "start": 32.69396825396825,
+      "end": 62.20671201814059,
+      "sentences": [
+        {
+          "text": "V ceně kurzu není náhradní materiál.",
+          "start": 32.69396825396825,
+          "end": 36.15374149659864,
+          "slow_start": 37.430839002267575,
+          "slow_end": 41.27374149659864
+        },
+        {
+          "text": "Pokud technik zjistí, že je potřeba vyměnit součástku, nejprve účastníkovi vysvětlí možnosti a cenu.",
+          "start": 36.33374149659864,
+          "end": 45.41274376417233,
+          "slow_start": 41.45374149659864,
+          "slow_end": 51.821451247165534
+        },
+        {
+          "text": "Kurz není služba, při níž člověk odevzdá kolo a vyzvedne si ho hotové.",
+          "start": 45.59274376417233,
+          "end": 51.560272108843535,
+          "slow_start": 52.001451247165534,
+          "slow_end": 58.85133786848073
+        },
+        {
+          "text": "Účastníci se pod dohledem učí jednoduchým úkonům.",
+          "start": 51.740272108843534,
+          "end": 56.175283446712015,
+          "slow_start": 59.031337868480726,
+          "slow_end": 63.86108843537415
+        },
+        {
+          "text": "Závažnější závady mohou vyžadovat samostatnou návštěvu servisu.",
+          "start": 56.355283446712015,
+          "end": 62.20671201814059,
+          "slow_start": 64.04108843537415,
+          "slow_end": 70.51945578231293
+        }
+      ],
+      "slow_start": 37.430839002267575,
+      "slow_end": 70.51945578231293
+    },
+    {
+      "text": "Kamarádka Tereza chce přijít také, ale zatím nemá potvrzené místo. Viděla na webu, že se uvolnily dvě registrace. Neví, zda informace ještě platí. Požádala vás, abyste zavolali organizátorovi a zjistili, jak se může přihlásit. Současně potřebuje vědět, zda se může zúčastnit bez vlastního kola, protože její kolo je nyní v opravně.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Kamarádka Tereza chce přijít také, ale zatím nemá potvrzené místo.",
+        "Viděla na webu, že se uvolnily dvě registrace.",
+        "Neví, zda informace ještě platí.",
+        "Požádala vás, abyste zavolali organizátorovi a zjistili, jak se může přihlásit.",
+        "Současně potřebuje vědět, zda se může zúčastnit bez vlastního kola, protože její kolo je nyní v opravně."
+      ],
+      "start": 62.38671201814059,
+      "end": 91.84140589569161,
+      "sentences": [
+        {
+          "text": "Kamarádka Tereza chce přijít také, ale zatím nemá potvrzené místo.",
+          "start": 62.38671201814059,
+          "end": 68.37746031746032,
+          "slow_start": 70.69945578231292,
+          "slow_end": 77.42163265306122
+        },
+        {
+          "text": "Viděla na webu, že se uvolnily dvě registrace.",
+          "start": 68.55746031746031,
+          "end": 72.56290249433107,
+          "slow_start": 77.60163265306123,
+          "slow_end": 81.99020408163265
+        },
+        {
+          "text": "Neví, zda informace ještě platí.",
+          "start": 72.74290249433106,
+          "end": 75.66861678004535,
+          "slow_start": 82.17020408163265,
+          "slow_end": 85.49065759637188
+        },
+        {
+          "text": "Požádala vás, abyste zavolali organizátorovi a zjistili, jak se může přihlásit.",
+          "start": 75.84861678004535,
+          "end": 82.68689342403628,
+          "slow_start": 85.67065759637188,
+          "slow_end": 93.36807256235828
+        },
+        {
+          "text": "Současně potřebuje vědět, zda se může zúčastnit bez vlastního kola, protože její kolo je nyní v opravně.",
+          "start": 82.86689342403628,
+          "end": 91.84140589569161,
+          "slow_start": 93.54807256235827,
+          "slow_end": 103.67197278911564
+        }
+      ],
+      "slow_start": 70.69945578231292,
+      "slow_end": 103.67197278911564
+    },
+    {
+      "text": "Vy už jste zaplatili a máte potvrzení. Nechcete měnit vlastní registraci, pouze ověřit podmínky pro kamarádku. Po telefonátu jí musíte předat přesné informace a napsat organizátorovi krátké potvrzení toho, na čem jste se skutečně domluvili. Neznámé údaje označte jako otázky, nikoli jako hotovou odpověď.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Vy už jste zaplatili a máte potvrzení.",
+        "Nechcete měnit vlastní registraci, pouze ověřit podmínky pro kamarádku.",
+        "Po telefonátu jí musíte předat přesné informace a napsat organizátorovi krátké potvrzení toho, na čem jste se skutečně domluvili.",
+        "Neznámé údaje označte jako otázky, nikoli jako hotovou odpověď."
+      ],
+      "start": 92.02140589569161,
+      "end": 119.4849433106576,
+      "sentences": [
+        {
+          "text": "Vy už jste zaplatili a máte potvrzení.",
+          "start": 92.02140589569161,
+          "end": 95.43473922902494,
+          "slow_start": 103.85197278911565,
+          "slow_end": 107.71809523809524
+        },
+        {
+          "text": "Nechcete měnit vlastní registraci, pouze ověřit podmínky pro kamarádku.",
+          "start": 95.61473922902495,
+          "end": 101.86090702947845,
+          "slow_start": 107.89809523809524,
+          "slow_end": 114.817641723356
+        },
+        {
+          "text": "Po telefonátu jí musíte předat přesné informace a napsat organizátorovi krátké potvrzení toho, na čem jste se skutečně domluvili.",
+          "start": 102.04090702947846,
+          "end": 113.34902494331065,
+          "slow_start": 114.99764172335601,
+          "slow_end": 127.88471655328799
+        },
+        {
+          "text": "Neznámé údaje označte jako otázky, nikoli jako hotovou odpověď.",
+          "start": 113.52902494331066,
+          "end": 119.4849433106576,
+          "slow_start": 128.06471655328798,
+          "slow_end": 134.60113378684807
+        }
+      ],
+      "slow_start": 103.85197278911565,
+      "slow_end": 134.60113378684807
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "975fb61edbcaa15ed90492b7bd47806d7a4cb8a76666043ebe7395384f3ca383",
+    "slow": "d5723dab89c8be2ed9ea0637d4646c720184597d612a5777acdf652730fe59c4"
+  }
+}

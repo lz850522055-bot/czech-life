@@ -1,0 +1,59 @@
+{
+  "id": "A2-U14-L01--2026.10.22.1--exercises",
+  "lesson_id": "A2-U14-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Doprava nápojů ještě není potvrzená.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "A2-U14-L01-E01",
+      "parts": [
+        "Doprava nápojů ještě není potvrzená."
+      ]
+    }
+  ],
+  "text_sha256": "f268eb6f5e92dc979e6dd50dffc43367eaf0f493be2758b99b780460a9bfb448",
+  "source_file": "content/lessons/A2/A2-U14-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U14-L01--2026.10.22.1--exercises--f268eb6f5e--normal.mp3",
+  "slow_file": "content/audio/files/A2-U14-L01--2026.10.22.1--exercises--f268eb6f5e--slow.mp3",
+  "duration_seconds": 3.4191836734693877,
+  "slow_duration_seconds": 3.871972789115646,
+  "cues": [
+    {
+      "text": "Doprava nápojů ještě není potvrzená.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "A2-U14-L01-E01",
+      "parts": [
+        "Doprava nápojů ještě není potvrzená."
+      ],
+      "start": 0.0,
+      "end": 3.239183673469388,
+      "sentences": [
+        {
+          "text": "Doprava nápojů ještě není potvrzená.",
+          "start": 0.0,
+          "end": 3.239183673469388,
+          "slow_start": 0.0,
+          "slow_end": 3.6919727891156464
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 3.6919727891156464
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "15d3381a707e5027723566ec9d9da34d5150a1331a8afa819c7260fa1d651a03",
+    "slow": "1d4d3d2c79a6d68f8f6cc4ddbedc4c3d2077bb56ac8b8724943a462aa2f3ce30"
+  }
+}

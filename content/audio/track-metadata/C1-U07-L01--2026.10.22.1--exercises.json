@@ -1,0 +1,68 @@
+{
+  "id": "C1-U07-L01--2026.10.22.1--exercises",
+  "lesson_id": "C1-U07-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Přesný čas závisí na závěrečné kontrole. Zatím nelze slíbit, že bude výtah ve dvě fungovat.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "C1-U07-L01-E06",
+      "parts": [
+        "Přesný čas závisí na závěrečné kontrole.",
+        "Zatím nelze slíbit, že bude výtah ve dvě fungovat."
+      ]
+    }
+  ],
+  "text_sha256": "2b72464841e154a6f87d40d8904641f868e78c5aa5628b214aba7dbac93cc1d0",
+  "source_file": "content/lessons/C1/C1-U07-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U07-L01--2026.10.22.1--exercises--2b72464841--normal.mp3",
+  "slow_file": "content/audio/files/C1-U07-L01--2026.10.22.1--exercises--2b72464841--slow.mp3",
+  "duration_seconds": 8.545034013605441,
+  "slow_duration_seconds": 9.822131519274377,
+  "cues": [
+    {
+      "text": "Přesný čas závisí na závěrečné kontrole. Zatím nelze slíbit, že bude výtah ve dvě fungovat.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "C1-U07-L01-E06",
+      "parts": [
+        "Přesný čas závisí na závěrečné kontrole.",
+        "Zatím nelze slíbit, že bude výtah ve dvě fungovat."
+      ],
+      "start": 0.0,
+      "end": 8.365034013605442,
+      "sentences": [
+        {
+          "text": "Přesný čas závisí na závěrečné kontrole.",
+          "start": 0.0,
+          "end": 3.7964625850340137,
+          "slow_start": 0.0,
+          "slow_end": 4.3769614512471655
+        },
+        {
+          "text": "Zatím nelze slíbit, že bude výtah ve dvě fungovat.",
+          "start": 3.9764625850340134,
+          "end": 8.365034013605442,
+          "slow_start": 4.556961451247165,
+          "slow_end": 9.642131519274377
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 9.642131519274377
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "79b9538851152c7bb48f3d5d742a79d92095fe22935a88307d13fb903747cb50",
+    "slow": "6f3e3d9e16c4ed54875e59c50d4a55453b16e178db3bad780a8cd16d26e629e2"
+  }
+}

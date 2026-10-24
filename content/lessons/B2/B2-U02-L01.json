@@ -1,0 +1,1465 @@
+{
+  "id": "B2-U02-L01",
+  "level": "B2",
+  "unit_id": "B2-U02",
+  "order": 48,
+  "version": "2026.10.23.1",
+  "title_zh": "谈判协商与分歧处理",
+  "title_cs": "Dohoda není totéž co nejnižší cena",
+  "prerequisites": [
+    "B2-U01-L01"
+  ],
+  "can_do": [
+    "区分底线、偏好和可交换条件",
+    "提出附条件让步并书面确认范围",
+    "在不成交时维持清楚边界"
+  ],
+  "scene": "采购与资源协商",
+  "skills": [
+    "listening",
+    "speaking",
+    "reading",
+    "writing",
+    "interaction",
+    "mediation"
+  ],
+  "knowledge_points": [
+    "conditional-tradeoff",
+    "commitment-scope"
+  ],
+  "intro_zh": "协商不是不断压价。你要看总成本、时间、质量与不确定性，说明什么能换、什么不能变。本课数字为原创教学示例，不代表市场报价。",
+  "lesson_text": [
+    {
+      "id": "s01",
+      "cs": "Organizujeme menší kulturní festival a hledáme dodavatele vratných kelímků. Jedna nabídka má nejnižší cenu za kus, ale vyžaduje vysoký minimální odběr a neobsahuje dopravu. Druhá je dražší, zato umožňuje menší počet a dodání přímo na místo. Než jsme začali vyjednávat, sepsali jsme své skutečné potřeby: přiměřené množství, známý celkový rozpočet a jistotu, že zboží dorazí před zahájením akce.",
+      "zh": "我们组织文化节找可重复使用杯供应商。一个单价低但起订量高、不含运；另一个单价高但数量灵活、送到场。谈前先列需求：适量、明确总预算、开场前到货。",
+      "note_zh": ""
+    },
+    {
+      "id": "s02",
+      "cs": "Dodavateli jsme nevysvětlovali, že jeho cena je prostě nepřijatelná. Popsali jsme omezení a zeptali se, které části nabídky lze upravit. Ukázalo se, že nižší cenu podmiňuje objednávkou několika barev v přesně daném poměru. Pro nás však barva nebyla podstatná. Důležitější bylo, aby se kelímky daly snadno vracet a aby nebyly zaměnitelné s jednorázovým nádobím, které se v areálu také používá.",
+      "zh": "我们没有只说价格不可接受，而是说明约束并问可调整什么。降价要求按固定比例订多色。我们不太在意颜色，更在意易回收、不与场内一次性杯混淆。",
+      "note_zh": ""
+    },
+    {
+      "id": "s03",
+      "cs": "Navrhli jsme tedy výměnu podmínek: přijmeme dostupné barvy, pokud dodavatel sníží minimální množství a písemně potvrdí termín doručení. On nabídl menší slevu, ale ponechal původní minimum. Taková nabídka na první pohled vypadala výhodněji, celkovou útratu však téměř nesnížila. Vrátili jsme rozhovor k částce za celou objednávku a k tomu, kolik nevyužitých kusů by nám po akci zůstalo.",
+      "zh": "我们提出交换条件：接受现有颜色，换降低最低量和书面确认送达。他给小折扣却保留起订量，看似更便宜，总支出几乎不降。于是回到整单金额和活动后剩余量讨论。",
+      "note_zh": ""
+    },
+    {
+      "id": "s04",
+      "cs": "V další fázi jsme hledali možnost společné objednávky se sousedním spolkem. Dodavatel s tím souhlasil, pokud bude mít jednoho smluvního partnera a jednu dodací adresu. Museli jsme si proto nejprve interně vyjasnit odpovědnost za převzetí a rozdělení zboží. Bez toho bychom sice dosáhli nižší ceny, ale vytvořili bychom nový spor mezi dvěma organizacemi. Výhodná podmínka pro jednu stranu může přesouvat práci na druhou.",
+      "zh": "随后考虑和邻近协会合单。供应商同意，但要求单一合同方和地址。因此先内部明确接收、分货责任，否则省价却制造组织间争议。一方的优惠可能把工作转给另一方。",
+      "note_zh": ""
+    },
+    {
+      "id": "s05",
+      "cs": "Konečná dohoda obsahovala počet kusů, celkovou cenu, dopravu, datum doručení a postup při rozdílu mezi objednávkou a dodávkou. Větu „Pokusíme se dodat do čtvrtka“ jsme nepovažovali za pevné potvrzení. Požádali jsme dodavatele, aby odlišil závazný termín od odhadu. Pokud by termín potvrdit nemohl, museli bychom zvolit jiného partnera, i kdyby jeho nabídka byla o něco dražší.",
+      "zh": "最终约定包括数量、总价、运送、送达日、货不对单处理。“尽量周四前送”不当成固定确认；请对方区分确定日期与估计。若不能确认，即使其他方案更贵也需另选。",
+      "note_zh": ""
+    },
+    {
+      "id": "s06",
+      "cs": "Jednání skončilo dohodou, protože obě strany našly podmínky, které jim dávaly smysl. Neznamená to, že každá diskuse musí skončit nákupem. Kdyby se nepodařilo splnit klíčovou podmínku včasného doručení, bylo by rozumnější objednávku neuzavřít. Zdvořilá věta o tom, že nabídku nyní nemůžeme přijmout, může být přesnější a užitečnější než neurčitý souhlas, který později nedokážeme dodržet.",
+      "zh": "双方找到可接受条件而成交，但不是每次都必须买。若无法满足准时送达，放弃更合理。明确礼貌拒绝比以后做不到的含糊同意更好。",
+      "note_zh": ""
+    }
+  ],
+  "grammar": [
+    {
+      "id": "conditional-tradeoff",
+      "rule_zh": "让步要连着交换条件说，避免被听成无条件接受。",
+      "detail_zh": "Jsme ochotni přijmout…, pokud…；Za těchto podmínek můžeme…；Výměnou za… 表示交换，za 后接第四格：výměnou za nižší minimum。原句按完整结构记，不能从中文“给”推格。",
+      "examples": [
+        {
+          "cs": "Jsme ochotni přijmout jiné barvy, pokud snížíte minimum.",
+          "zh": "若降低起订量，我们愿接受其他颜色。",
+          "note_zh": ""
+        }
+      ],
+      "pitfalls": [
+        "“愿意考虑”不等于已承诺购买。"
+      ],
+      "exceptions": [
+        "具体合同效果需按实际条款处理，此处只是沟通训练。"
+      ],
+      "term": "附条件让步"
+    },
+    {
+      "id": "commitment-scope",
+      "rule_zh": "估计、尽力和确认不是同一种承诺。",
+      "detail_zh": "pokusíme se 表将尝试；předpokládáme 表预计；potvrzujeme 表确认。do čtvrtka 为周四截止，ve čtvrtek 为周四当天。doručit 是送达，odeslat 是发出；两者不能用同一个时间替代。",
+      "examples": [
+        {
+          "cs": "Potvrzujeme doručení ve čtvrtek.",
+          "zh": "确认周四送达。",
+          "note_zh": ""
+        },
+        {
+          "cs": "Pokusíme se zásilku ve čtvrtek odeslat.",
+          "zh": "争取周四发出包裹。",
+          "note_zh": ""
+        }
+      ],
+      "pitfalls": [
+        "单价下降不必然总成本下降。"
+      ],
+      "exceptions": [
+        "即使文字明确，真实履约仍需要跟踪，不靠语言结构保证结果。"
+      ],
+      "term": "承诺强度与时间范围"
+    }
+  ],
+  "vocabulary": [
+    {
+      "lemma": "minimální odběr",
+      "pos": "名词短语，阳性无生",
+      "forms": "minimálního odběru",
+      "meaning_zh": "最低订购量",
+      "collocation": "snížit minimální odběr",
+      "example_cs": "Lze snížit minimální odběr?",
+      "example_zh": "能降低最低量吗？",
+      "confusion_zh": "不同于最小包装单位。"
+    },
+    {
+      "lemma": "závazný",
+      "pos": "形容词",
+      "forms": "závazná; závazné",
+      "meaning_zh": "约束性的、确定承诺的",
+      "collocation": "závazný termín",
+      "example_cs": "Potřebujeme závazný termín.",
+      "example_zh": "需要明确承诺日期。",
+      "confusion_zh": "předběžný 是初步的。"
+    },
+    {
+      "lemma": "převzetí",
+      "pos": "名词，中性",
+      "forms": "převzetí",
+      "meaning_zh": "接收",
+      "collocation": "odpovědnost za převzetí",
+      "example_cs": "Kdo odpovídá za převzetí?",
+      "example_zh": "谁负责接收？",
+      "confusion_zh": "并不自动代表验货无误。"
+    },
+    {
+      "lemma": "ústupek",
+      "pos": "名词，阳性无生",
+      "forms": "ústupky",
+      "meaning_zh": "让步",
+      "collocation": "vzájemné ústupky",
+      "example_cs": "Dohoda vyžaduje vzájemné ústupky.",
+      "example_zh": "协议需双方让步。",
+      "confusion_zh": "退让不一定是降价。"
+    }
+  ],
+  "listening": {
+    "script": [
+      {
+        "cs": "Dodavatel: Můžeme snížit cenu, pokud objednáte alespoň tisíc kusů. Organizátor: Tisíc kusů nevyužijeme. Mohli bychom přijmout jinou barvu, kdybyste snížili minimum na šest set? Dodavatel: To je možné, ale doprava by byla zvlášť. Organizátor: Prosím tedy o celkovou cenu včetně dopravy a o potvrzení, zda jde o odeslání, nebo doručení do čtvrtka.",
+        "zh": "供应商：千件可降价。组织者：用不了千件，若降到六百可接受其他颜色。供应商同意但运费另算。组织者索含运总价，并核实周四是发出还是送达。",
+        "note_zh": ""
+      }
+    ],
+    "focus_zh": "分别记录数量、交换条件、附加费用和时间动作。",
+    "source": "original"
+  },
+  "pronunciation": {
+    "focus_zh": "šest set 的相邻 s/t 保持可辨，不通过吞音人为加速；doručení / odeslání 清楚区分词根。",
+    "contrast": [
+      {
+        "a": "doručit",
+        "b": "odeslat",
+        "note_zh": "到达与寄出不同，影响履约时点。"
+      }
+    ],
+    "task_zh": "先听一句，再按意义块跟读；录下自然语速版本，对照长短元音、句中停顿和关键词。不要追求机械加速。"
+  },
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "为何小折扣没有解决问题？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "数量仍太高，总支出近似"
+        },
+        {
+          "id": "b",
+          "text": "折扣不存在"
+        },
+        {
+          "id": "c",
+          "text": "颜色一样"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "核心约束是适量与总成本。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U02-L01-E01",
+      "knowledge_points": [
+        "conditional-tradeoff",
+        "commitment-scope"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "合单新增哪个责任？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "每组织各一个地址已获同意"
+        },
+        {
+          "id": "b",
+          "text": "需指定合同方和接收分配责任"
+        },
+        {
+          "id": "c",
+          "text": "可以不要确认"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "供应商只接受一合同方一地址。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U02-L01-E02",
+      "knowledge_points": [
+        "conditional-tradeoff",
+        "commitment-scope"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "听：降量后的运费如何？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "已全包"
+        },
+        {
+          "id": "b",
+          "text": "另算"
+        },
+        {
+          "id": "c",
+          "text": "免费到所有地址"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "doprava by byla zvlášť 明确另算。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "listening"
+      ],
+      "error_category": "comprehension",
+      "audio_text_cs": "Minimum můžeme snížit na šest set kusů, ale doprava by byla zvlášť.",
+      "id": "B2-U02-L01-E03",
+      "knowledge_points": [
+        "conditional-tradeoff",
+        "commitment-scope"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "填“如果”的普通条件词。",
+      "stimulus_cs": "Přijmeme jiné barvy, ___ snížíte minimum.",
+      "answer": "pokud",
+      "accepted_answers": [
+        "pokud",
+        "jestliže",
+        "jestli"
+      ],
+      "explanation_zh": "条件让步。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "meaning",
+      "id": "B2-U02-L01-E04",
+      "knowledge_points": [
+        "conditional-tradeoff",
+        "commitment-scope"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "送达周四之前，填时间介词。",
+      "stimulus_cs": "doručení ___ čtvrtka",
+      "answer": "do",
+      "accepted_answers": [
+        "do"
+      ],
+      "explanation_zh": "do+第二格为截止。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "collocation",
+      "id": "B2-U02-L01-E05",
+      "knowledge_points": [
+        "conditional-tradeoff",
+        "commitment-scope"
+      ]
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "修正信息：对方只承诺尝试发出，不能转为确认送达。",
+      "stimulus_cs": "Dodavatel potvrdil doručení do čtvrtka.",
+      "answer": "Dodavatel se pokusí zásilku do čtvrtka odeslat.",
+      "accepted_answers": [],
+      "explanation_zh": "保留尝试程度与发出动作。",
+      "scoring_basis": "开放改写：保留独立作答，按量规逐项自评或交教师评阅。示范句不是唯一答案，不以字符串相同与否自动判定正确。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U02-L01-E06",
+      "knowledge_points": [
+        "conditional-tradeoff",
+        "commitment-scope"
+      ],
+      "rubric": [
+        "区分尝试与已经确认",
+        "区分寄出与送达",
+        "保留周四这一时间边界"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt_zh": "先说明底线，再说明拒绝条件。",
+      "stimulus_cs": "nabídku nemůžeme přijmout. / Pokud nemůžete potvrdit doručení včas,",
+      "options": [
+        "nabídku nemůžeme přijmout.",
+        "Pokud nemůžete potvrdit doručení včas,"
+      ],
+      "answer": "Pokud nemůžete potvrdit doručení včas, nabídku nemůžeme přijmout.",
+      "accepted_answers": [
+        "Pokud nemůžete potvrdit doručení včas, nabídku nemůžeme přijmout."
+      ],
+      "explanation_zh": "拒绝有具体理由而非情绪判断。",
+      "scoring_basis": "本题限定句首及语境；不据一个参考语序否定捷语所有语序变体。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "word_order",
+      "id": "B2-U02-L01-E07",
+      "knowledge_points": [
+        "conditional-tradeoff",
+        "commitment-scope"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "哪项属于偏好而非本课底线？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "颜色"
+        },
+        {
+          "id": "b",
+          "text": "到货赶上活动"
+        },
+        {
+          "id": "c",
+          "text": "明确总成本"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "文中颜色可交换，准时是关键。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U02-L01-E08",
+      "knowledge_points": [
+        "conditional-tradeoff",
+        "commitment-scope"
+      ]
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "以采购方作两分钟方案：底线、可让步项、交换要求、退出条件。",
+      "stimulus_cs": "",
+      "answer": "Potřebujeme zboží před zahájením festivalu a znát celkovou cenu. Na konkrétní barvě netrváme. Pokud přijmeme dostupnou kombinaci, žádáme nižší minimum. Bez potvrzení termínu doručení objednávku neuzavřeme.",
+      "accepted_answers": [],
+      "explanation_zh": "让步与条件必须保持绑定。",
+      "rubric": [
+        "四项齐全",
+        "承诺边界",
+        "能回应成本转移"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "error_category": "fluency",
+      "id": "B2-U02-L01-E09",
+      "knowledge_points": [
+        "conditional-tradeoff",
+        "commitment-scope"
+      ]
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "写谈后确认邮件，保留待确认运输并避免把讨论写成已成交。",
+      "stimulus_cs": "",
+      "answer": "Děkuji za dnešní jednání. Předběžně jsme se shodli na šesti stech kusech v dostupných barvách. K dokončení objednávky ještě potřebujeme celkovou cenu včetně dopravy a písemné potvrzení doručení do čtvrtka. Prosím rovněž o upřesnění postupu při rozdílu v množství. Po obdržení těchto údajů objednávku definitivně potvrdíme.",
+      "accepted_answers": [],
+      "explanation_zh": "前置同意和最终确认分层。",
+      "rubric": [
+        "数量颜色",
+        "待决费用时点",
+        "最终确认条件"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U02-L01-E10",
+      "knowledge_points": [
+        "conditional-tradeoff",
+        "commitment-scope"
+      ]
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "供应商催你先答应，说运费以后算；你维持边界。",
+      "stimulus_cs": "",
+      "answer": "Rozumím, že potřebujete objednávku uzavřít. Bez celkové ceny ale nemohu dát konečné potvrzení. Můžete mi nejprve poslat cenu dopravy, případně nabídnout osobní odběr?",
+      "accepted_answers": [],
+      "explanation_zh": "不接受未知成本，也提供可谈替代。",
+      "rubric": [
+        "明确未授权事项",
+        "礼貌坚定",
+        "替代可执行"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "error_category": "fluency",
+      "id": "B2-U02-L01-E11",
+      "knowledge_points": [
+        "conditional-tradeoff",
+        "commitment-scope"
+      ]
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "用中文向合作协会说明合单好处与新增责任。",
+      "stimulus_cs": "",
+      "answer": "合单可能降低最低量和单价，但供应商要求单一合同方和收货地址。两协会需事先约定付款、接收、分货责任；否则省价会换来内部争议。",
+      "accepted_answers": [],
+      "explanation_zh": "不要只转述折扣而漏责任。",
+      "rubric": [
+        "经济与责任两面",
+        "未定事项",
+        "不代为签约"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U02-L01-E12",
+      "knowledge_points": [
+        "conditional-tradeoff",
+        "commitment-scope"
+      ]
+    }
+  ],
+  "transfer_task": {
+    "prompt_zh": "换成场地租赁：可调整日期但不能超预算，要求包清洁和明确取消条件。",
+    "model_answer_cs": "Termín můžeme posunout, pokud se celková cena vejde do rozpočtu a bude zahrnovat úklid. Před potvrzením potřebujeme znát podmínky zrušení rezervace.",
+    "rubric": [
+      "交换条件",
+      "总成本口径",
+      "最终确认边界"
+    ]
+  },
+  "review_links": [
+    "B2-U01-L01"
+  ],
+  "sources": [
+    {
+      "source_id": "LANG01",
+      "url": "https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions",
+      "scope": "按实际能做的任务编排能力，不把CEFR说成官方捷语语法课表",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    },
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?id=575",
+      "scope": "条件式的人称形式、礼貌用途及过去条件式限制",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    },
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?id=420",
+      "scope": "被动分词与形容词、动作和结果状态的表达倾向",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    }
+  ],
+  "content_status": "authored_crosschecked_not_native_reviewed",
+  "quality_notes": [
+    "原创课文和练习；规则按所列来源交叉核查，未获得捷语母语教师逐句审校。",
+    "本课级别属于教材编排判断，不代表官方能力认证。",
+    "听力为原创可合成脚本；真人多说话人、地区口音与录音自然度尚待现场核验。"
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "B2-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--normal.mp3",
+      "slow_file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U02-L01--2026.10.23.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Organizujeme menší kulturní festival a hledáme dodavatele vratných kelímků. Jedna nabídka má nejnižší cenu za kus, ale vyžaduje vysoký minimální odběr a neobsahuje dopravu. Druhá je dražší, zato umožňuje menší počet a dodání přímo na místo. Než jsme začali vyjednávat, sepsali jsme své skutečné potřeby: přiměřené množství, známý celkový rozpočet a jistotu, že zboží dorazí před zahájením akce. Dodavateli jsme nevysvětlovali, že jeho cena je prostě nepřijatelná. Popsali jsme omezení a zeptali se, které části nabídky lze upravit. Ukázalo se, že nižší cenu podmiňuje objednávkou několika barev v přesně daném poměru. Pro nás však barva nebyla podstatná. Důležitější bylo, aby se kelímky daly snadno vracet a aby nebyly zaměnitelné s jednorázovým nádobím, které se v areálu také používá. Navrhli jsme tedy výměnu podmínek: přijmeme dostupné barvy, pokud dodavatel sníží minimální množství a písemně potvrdí termín doručení. On nabídl menší slevu, ale ponechal původní minimum. Taková nabídka na první pohled vypadala výhodněji, celkovou útratu však téměř nesnížila. Vrátili jsme rozhovor k částce za celou objednávku a k tomu, kolik nevyužitých kusů by nám po akci zůstalo. V další fázi jsme hledali možnost společné objednávky se sousedním spolkem. Dodavatel s tím souhlasil, pokud bude mít jednoho smluvního partnera a jednu dodací adresu. Museli jsme si proto nejprve interně vyjasnit odpovědnost za převzetí a rozdělení zboží. Bez toho bychom sice dosáhli nižší ceny, ale vytvořili bychom nový spor mezi dvěma organizacemi. Výhodná podmínka pro jednu stranu může přesouvat práci na druhou. Konečná dohoda obsahovala počet kusů, celkovou cenu, dopravu, datum doručení a postup při rozdílu mezi objednávkou a dodávkou. Větu „Pokusíme se dodat do čtvrtka“ jsme nepovažovali za pevné potvrzení. Požádali jsme dodavatele, aby odlišil závazný termín od odhadu. Pokud by termín potvrdit nemohl, museli bychom zvolit jiného partnera, i kdyby jeho nabídka byla o něco dražší. Jednání skončilo dohodou, protože obě strany našly podmínky, které jim dávaly smysl. Neznamená to, že každá diskuse musí skončit nákupem. Kdyby se nepodařilo splnit klíčovou podmínku včasného doručení, bylo by rozumnější objednávku neuzavřít. Zdvořilá věta o tom, že nabídku nyní nemůžeme přijmout, může být přesnější a užitečnější než neurčitý souhlas, který později nedokážeme dodržet.",
+      "duration_seconds": 209.59609977324263,
+      "slow_duration_seconds": 237.44843537414965,
+      "sha256": "262cbd5c306d9b479ee16220c11a6fdf2d03c34ce986c45869d1f4e537c7270a",
+      "slow_sha256": "a3e825175141cb757138f64b333644f95379c1ef56e0a592b14d4d56db725cf4"
+    },
+    {
+      "lesson_id": "B2-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--normal.mp3",
+      "slow_file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U02-L01--2026.10.23.1--text--p0",
+      "asset_id": "B2-U02-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Organizujeme menší kulturní festival a hledáme dodavatele vratných kelímků. Jedna nabídka má nejnižší cenu za kus, ale vyžaduje vysoký minimální odběr a neobsahuje dopravu. Druhá je dražší, zato umožňuje menší počet a dodání přímo na místo. Než jsme začali vyjednávat, sepsali jsme své skutečné potřeby: přiměřené množství, známý celkový rozpočet a jistotu, že zboží dorazí před zahájením akce.",
+      "start": 0,
+      "end": 35.5324716553288,
+      "slow_start": 0,
+      "slow_end": 40.5595918367347
+    },
+    {
+      "lesson_id": "B2-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--normal.mp3",
+      "slow_file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U02-L01--2026.10.23.1--text--s0",
+      "asset_id": "B2-U02-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Organizujeme menší kulturní festival a hledáme dodavatele vratných kelímků.",
+      "start": 0,
+      "end": 6.466757369614513,
+      "slow_start": 0,
+      "slow_end": 7.476825396825397
+    },
+    {
+      "lesson_id": "B2-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--normal.mp3",
+      "slow_file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U02-L01--2026.10.23.1--text--s1",
+      "asset_id": "B2-U02-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Jedna nabídka má nejnižší cenu za kus, ale vyžaduje vysoký minimální odběr a neobsahuje dopravu.",
+      "start": 6.646757369614512,
+      "end": 14.959501133786848,
+      "slow_start": 7.656825396825397,
+      "slow_end": 16.88675736961451
+    },
+    {
+      "lesson_id": "B2-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--normal.mp3",
+      "slow_file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U02-L01--2026.10.23.1--text--s2",
+      "asset_id": "B2-U02-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Druhá je dražší, zato umožňuje menší počet a dodání přímo na místo.",
+      "start": 15.139501133786847,
+      "end": 21.316009070294786,
+      "slow_start": 17.066757369614514,
+      "slow_end": 24.253333333333334
+    },
+    {
+      "lesson_id": "B2-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--normal.mp3",
+      "slow_file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U02-L01--2026.10.23.1--text--s3",
+      "asset_id": "B2-U02-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 3,
+      "paragraph_index": 0,
+      "sentence_index": 3,
+      "text": "Než jsme začali vyjednávat, sepsali jsme své skutečné potřeby: přiměřené množství, známý celkový rozpočet a jistotu, že zboží dorazí před zahájením akce.",
+      "start": 21.496009070294786,
+      "end": 35.5324716553288,
+      "slow_start": 24.433333333333334,
+      "slow_end": 40.5595918367347
+    },
+    {
+      "lesson_id": "B2-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--normal.mp3",
+      "slow_file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U02-L01--2026.10.23.1--text--p1",
+      "asset_id": "B2-U02-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Dodavateli jsme nevysvětlovali, že jeho cena je prostě nepřijatelná. Popsali jsme omezení a zeptali se, které části nabídky lze upravit. Ukázalo se, že nižší cenu podmiňuje objednávkou několika barev v přesně daném poměru. Pro nás však barva nebyla podstatná. Důležitější bylo, aby se kelímky daly snadno vracet a aby nebyly zaměnitelné s jednorázovým nádobím, které se v areálu také používá.",
+      "start": 35.7124716553288,
+      "end": 70.65868480725624,
+      "slow_start": 40.7395918367347,
+      "slow_end": 80.19047619047619
+    },
+    {
+      "lesson_id": "B2-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--normal.mp3",
+      "slow_file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U02-L01--2026.10.23.1--text--s4",
+      "asset_id": "B2-U02-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 4,
+      "paragraph_index": 1,
+      "sentence_index": 0,
+      "text": "Dodavateli jsme nevysvětlovali, že jeho cena je prostě nepřijatelná.",
+      "start": 35.7124716553288,
+      "end": 41.42458049886621,
+      "slow_start": 40.7395918367347,
+      "slow_end": 47.13668934240363
+    },
+    {
+      "lesson_id": "B2-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--normal.mp3",
+      "slow_file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U02-L01--2026.10.23.1--text--s5",
+      "asset_id": "B2-U02-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 5,
+      "paragraph_index": 1,
+      "sentence_index": 1,
+      "text": "Popsali jsme omezení a zeptali se, které části nabídky lze upravit.",
+      "start": 41.60458049886621,
+      "end": 47.72303854875283,
+      "slow_start": 47.31668934240363,
+      "slow_end": 54.20140589569161
+    },
+    {
+      "lesson_id": "B2-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--normal.mp3",
+      "slow_file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U02-L01--2026.10.23.1--text--s6",
+      "asset_id": "B2-U02-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 6,
+      "paragraph_index": 1,
+      "sentence_index": 2,
+      "text": "Ukázalo se, že nižší cenu podmiňuje objednávkou několika barev v přesně daném poměru.",
+      "start": 47.90303854875283,
+      "end": 55.33342403628118,
+      "slow_start": 54.38140589569161,
+      "slow_end": 62.78702947845805
+    },
+    {
+      "lesson_id": "B2-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--normal.mp3",
+      "slow_file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U02-L01--2026.10.23.1--text--s7",
+      "asset_id": "B2-U02-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 7,
+      "paragraph_index": 1,
+      "sentence_index": 3,
+      "text": "Pro nás však barva nebyla podstatná.",
+      "start": 55.51342403628118,
+      "end": 58.69455782312925,
+      "slow_start": 62.96702947845805,
+      "slow_end": 66.60095238095238
+    },
+    {
+      "lesson_id": "B2-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--normal.mp3",
+      "slow_file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U02-L01--2026.10.23.1--text--s8",
+      "asset_id": "B2-U02-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 8,
+      "paragraph_index": 1,
+      "sentence_index": 4,
+      "text": "Důležitější bylo, aby se kelímky daly snadno vracet a aby nebyly zaměnitelné s jednorázovým nádobím, které se v areálu také používá.",
+      "start": 58.87455782312925,
+      "end": 70.65868480725624,
+      "slow_start": 66.78095238095239,
+      "slow_end": 80.19047619047619
+    },
+    {
+      "lesson_id": "B2-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--normal.mp3",
+      "slow_file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U02-L01--2026.10.23.1--text--p2",
+      "asset_id": "B2-U02-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Navrhli jsme tedy výměnu podmínek: přijmeme dostupné barvy, pokud dodavatel sníží minimální množství a písemně potvrdí termín doručení. On nabídl menší slevu, ale ponechal původní minimum. Taková nabídka na první pohled vypadala výhodněji, celkovou útratu však téměř nesnížila. Vrátili jsme rozhovor k částce za celou objednávku a k tomu, kolik nevyužitých kusů by nám po akci zůstalo.",
+      "start": 70.83868480725623,
+      "end": 104.94312925170068,
+      "slow_start": 80.3704761904762,
+      "slow_end": 119.39755102040816
+    },
+    {
+      "lesson_id": "B2-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--normal.mp3",
+      "slow_file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U02-L01--2026.10.23.1--text--s9",
+      "asset_id": "B2-U02-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 9,
+      "paragraph_index": 2,
+      "sentence_index": 0,
+      "text": "Navrhli jsme tedy výměnu podmínek: přijmeme dostupné barvy, pokud dodavatel sníží minimální množství a písemně potvrdí termín doručení.",
+      "start": 70.83868480725623,
+      "end": 81.97265306122449,
+      "slow_start": 80.3704761904762,
+      "slow_end": 93.29238095238095
+    },
+    {
+      "lesson_id": "B2-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--normal.mp3",
+      "slow_file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U02-L01--2026.10.23.1--text--s10",
+      "asset_id": "B2-U02-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 10,
+      "paragraph_index": 2,
+      "sentence_index": 1,
+      "text": "On nabídl menší slevu, ale ponechal původní minimum.",
+      "start": 82.15265306122448,
+      "end": 87.48163265306123,
+      "slow_start": 93.47238095238096,
+      "slow_end": 99.62566893424037
+    },
+    {
+      "lesson_id": "B2-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--normal.mp3",
+      "slow_file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U02-L01--2026.10.23.1--text--s11",
+      "asset_id": "B2-U02-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 11,
+      "paragraph_index": 2,
+      "sentence_index": 2,
+      "text": "Taková nabídka na první pohled vypadala výhodněji, celkovou útratu však téměř nesnížila.",
+      "start": 87.66163265306122,
+      "end": 95.40548752834466,
+      "slow_start": 99.80566893424036,
+      "slow_end": 108.58281179138322
+    },
+    {
+      "lesson_id": "B2-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--normal.mp3",
+      "slow_file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U02-L01--2026.10.23.1--text--s12",
+      "asset_id": "B2-U02-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 12,
+      "paragraph_index": 2,
+      "sentence_index": 3,
+      "text": "Vrátili jsme rozhovor k částce za celou objednávku a k tomu, kolik nevyužitých kusů by nám po akci zůstalo.",
+      "start": 95.58548752834467,
+      "end": 104.94312925170068,
+      "slow_start": 108.76281179138321,
+      "slow_end": 119.39755102040816
+    },
+    {
+      "lesson_id": "B2-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--normal.mp3",
+      "slow_file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U02-L01--2026.10.23.1--text--p3",
+      "asset_id": "B2-U02-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "V další fázi jsme hledali možnost společné objednávky se sousedním spolkem. Dodavatel s tím souhlasil, pokud bude mít jednoho smluvního partnera a jednu dodací adresu. Museli jsme si proto nejprve interně vyjasnit odpovědnost za převzetí a rozdělení zboží. Bez toho bychom sice dosáhli nižší ceny, ale vytvořili bychom nový spor mezi dvěma organizacemi. Výhodná podmínka pro jednu stranu může přesouvat práci na druhou.",
+      "start": 105.12312925170068,
+      "end": 141.90371882086168,
+      "slow_start": 119.57755102040817,
+      "slow_end": 161.22272108843538
+    },
+    {
+      "lesson_id": "B2-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--normal.mp3",
+      "slow_file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U02-L01--2026.10.23.1--text--s13",
+      "asset_id": "B2-U02-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 13,
+      "paragraph_index": 3,
+      "sentence_index": 0,
+      "text": "V další fázi jsme hledali možnost společné objednávky se sousedním spolkem.",
+      "start": 105.12312925170068,
+      "end": 111.75242630385488,
+      "slow_start": 119.57755102040817,
+      "slow_end": 127.42589569160998
+    },
+    {
+      "lesson_id": "B2-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--normal.mp3",
+      "slow_file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U02-L01--2026.10.23.1--text--s14",
+      "asset_id": "B2-U02-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 14,
+      "paragraph_index": 3,
+      "sentence_index": 1,
+      "text": "Dodavatel s tím souhlasil, pokud bude mít jednoho smluvního partnera a jednu dodací adresu.",
+      "start": 111.93242630385488,
+      "end": 119.90848072562358,
+      "slow_start": 127.60589569160997,
+      "slow_end": 136.61523809523808
+    },
+    {
+      "lesson_id": "B2-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--normal.mp3",
+      "slow_file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U02-L01--2026.10.23.1--text--s15",
+      "asset_id": "B2-U02-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 15,
+      "paragraph_index": 3,
+      "sentence_index": 2,
+      "text": "Museli jsme si proto nejprve interně vyjasnit odpovědnost za převzetí a rozdělení zboží.",
+      "start": 120.08848072562358,
+      "end": 127.8091156462585,
+      "slow_start": 136.7952380952381,
+      "slow_end": 145.44467120181406
+    },
+    {
+      "lesson_id": "B2-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--normal.mp3",
+      "slow_file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U02-L01--2026.10.23.1--text--s16",
+      "asset_id": "B2-U02-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 16,
+      "paragraph_index": 3,
+      "sentence_index": 3,
+      "text": "Bez toho bychom sice dosáhli nižší ceny, ale vytvořili bychom nový spor mezi dvěma organizacemi.",
+      "start": 127.9891156462585,
+      "end": 136.23219954648525,
+      "slow_start": 145.62467120181407,
+      "slow_end": 154.71528344671202
+    },
+    {
+      "lesson_id": "B2-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--normal.mp3",
+      "slow_file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U02-L01--2026.10.23.1--text--s17",
+      "asset_id": "B2-U02-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 17,
+      "paragraph_index": 3,
+      "sentence_index": 4,
+      "text": "Výhodná podmínka pro jednu stranu může přesouvat práci na druhou.",
+      "start": 136.41219954648525,
+      "end": 141.90371882086168,
+      "slow_start": 154.89528344671203,
+      "slow_end": 161.22272108843538
+    },
+    {
+      "lesson_id": "B2-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--normal.mp3",
+      "slow_file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U02-L01--2026.10.23.1--text--p4",
+      "asset_id": "B2-U02-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 4,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Konečná dohoda obsahovala počet kusů, celkovou cenu, dopravu, datum doručení a postup při rozdílu mezi objednávkou a dodávkou. Větu „Pokusíme se dodat do čtvrtka“ jsme nepovažovali za pevné potvrzení. Požádali jsme dodavatele, aby odlišil závazný termín od odhadu. Pokud by termín potvrdit nemohl, museli bychom zvolit jiného partnera, i kdyby jeho nabídka byla o něco dražší.",
+      "start": 142.0837188208617,
+      "end": 174.26090702947846,
+      "slow_start": 161.40272108843538,
+      "slow_end": 197.89882086167802
+    },
+    {
+      "lesson_id": "B2-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--normal.mp3",
+      "slow_file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U02-L01--2026.10.23.1--text--s18",
+      "asset_id": "B2-U02-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 18,
+      "paragraph_index": 4,
+      "sentence_index": 0,
+      "text": "Konečná dohoda obsahovala počet kusů, celkovou cenu, dopravu, datum doručení a postup při rozdílu mezi objednávkou a dodávkou.",
+      "start": 142.0837188208617,
+      "end": 153.43827664399092,
+      "slow_start": 161.40272108843538,
+      "slow_end": 174.40589569160997
+    },
+    {
+      "lesson_id": "B2-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--normal.mp3",
+      "slow_file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U02-L01--2026.10.23.1--text--s19",
+      "asset_id": "B2-U02-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 19,
+      "paragraph_index": 4,
+      "sentence_index": 1,
+      "text": "Větu „Pokusíme se dodat do čtvrtka“ jsme nepovažovali za pevné potvrzení.",
+      "start": 153.61827664399092,
+      "end": 159.44648526077097,
+      "slow_start": 174.58589569160998,
+      "slow_end": 181.12231292517006
+    },
+    {
+      "lesson_id": "B2-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--normal.mp3",
+      "slow_file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U02-L01--2026.10.23.1--text--s20",
+      "asset_id": "B2-U02-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 20,
+      "paragraph_index": 4,
+      "sentence_index": 2,
+      "text": "Požádali jsme dodavatele, aby odlišil závazný termín od odhadu.",
+      "start": 159.62648526077098,
+      "end": 165.07156462585033,
+      "slow_start": 181.30231292517007,
+      "slow_end": 187.50204081632654
+    },
+    {
+      "lesson_id": "B2-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--normal.mp3",
+      "slow_file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U02-L01--2026.10.23.1--text--s21",
+      "asset_id": "B2-U02-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 21,
+      "paragraph_index": 4,
+      "sentence_index": 3,
+      "text": "Pokud by termín potvrdit nemohl, museli bychom zvolit jiného partnera, i kdyby jeho nabídka byla o něco dražší.",
+      "start": 165.25156462585034,
+      "end": 174.26090702947846,
+      "slow_start": 187.68204081632652,
+      "slow_end": 197.89882086167802
+    },
+    {
+      "lesson_id": "B2-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--normal.mp3",
+      "slow_file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U02-L01--2026.10.23.1--text--p5",
+      "asset_id": "B2-U02-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 5,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Jednání skončilo dohodou, protože obě strany našly podmínky, které jim dávaly smysl. Neznamená to, že každá diskuse musí skončit nákupem. Kdyby se nepodařilo splnit klíčovou podmínku včasného doručení, bylo by rozumnější objednávku neuzavřít. Zdvořilá věta o tom, že nabídku nyní nemůžeme přijmout, může být přesnější a užitečnější než neurčitý souhlas, který později nedokážeme dodržet.",
+      "start": 174.44090702947847,
+      "end": 209.41609977324262,
+      "slow_start": 198.078820861678,
+      "slow_end": 237.26843537414965
+    },
+    {
+      "lesson_id": "B2-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--normal.mp3",
+      "slow_file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U02-L01--2026.10.23.1--text--s22",
+      "asset_id": "B2-U02-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 22,
+      "paragraph_index": 5,
+      "sentence_index": 0,
+      "text": "Jednání skončilo dohodou, protože obě strany našly podmínky, které jim dávaly smysl.",
+      "start": 174.44090702947847,
+      "end": 181.91773242630384,
+      "slow_start": 198.078820861678,
+      "slow_end": 206.39156462585035
+    },
+    {
+      "lesson_id": "B2-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--normal.mp3",
+      "slow_file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U02-L01--2026.10.23.1--text--s23",
+      "asset_id": "B2-U02-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 23,
+      "paragraph_index": 5,
+      "sentence_index": 1,
+      "text": "Neznamená to, že každá diskuse musí skončit nákupem.",
+      "start": 182.09773242630385,
+      "end": 186.9274829931973,
+      "slow_start": 206.57156462585033,
+      "slow_end": 211.98181405895693
+    },
+    {
+      "lesson_id": "B2-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--normal.mp3",
+      "slow_file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U02-L01--2026.10.23.1--text--s24",
+      "asset_id": "B2-U02-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 24,
+      "paragraph_index": 5,
+      "sentence_index": 2,
+      "text": "Kdyby se nepodařilo splnit klíčovou podmínku včasného doručení, bylo by rozumnější objednávku neuzavřít.",
+      "start": 187.10748299319727,
+      "end": 196.63927437641723,
+      "slow_start": 212.1618140589569,
+      "slow_end": 222.94748299319727
+    },
+    {
+      "lesson_id": "B2-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--normal.mp3",
+      "slow_file": "audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U02-L01--2026.10.23.1--text--s25",
+      "asset_id": "B2-U02-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 25,
+      "paragraph_index": 5,
+      "sentence_index": 3,
+      "text": "Zdvořilá věta o tom, že nabídku nyní nemůžeme přijmout, může být přesnější a užitečnější než neurčitý souhlas, který později nedokážeme dodržet.",
+      "start": 196.81927437641724,
+      "end": 209.41609977324262,
+      "slow_start": 223.12748299319728,
+      "slow_end": 237.26843537414965
+    },
+    {
+      "lesson_id": "B2-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U02-L01--2026.10.22.1--listening--d1b6c268c5--normal.mp3",
+      "slow_file": "audio/files/B2-U02-L01--2026.10.22.1--listening--d1b6c268c5--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U02-L01--2026.10.23.1--listening",
+      "role": "listening-full",
+      "index": 0,
+      "text": "Dodavatel: Můžeme snížit cenu, pokud objednáte alespoň tisíc kusů. Organizátor: Tisíc kusů nevyužijeme. Mohli bychom přijmout jinou barvu, kdybyste snížili minimum na šest set? Dodavatel: To je možné, ale doprava by byla zvlášť. Organizátor: Prosím tedy o celkovou cenu včetně dopravy a o potvrzení, zda jde o odeslání, nebo doručení do čtvrtka.",
+      "duration_seconds": 32.049569160997734,
+      "slow_duration_seconds": 35.96213151927438,
+      "sha256": "bb3c1ad35024dfb427a54c52dbc50b599e14f0204180f753a42c059c3bba7ce3",
+      "slow_sha256": "cd7b90b3a0ed1be96c618f16cfd1b41e23bc170556c7e7583f3793c3bbd4e9d4"
+    },
+    {
+      "lesson_id": "B2-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U02-L01--2026.10.22.1--listening--d1b6c268c5--normal.mp3",
+      "slow_file": "audio/files/B2-U02-L01--2026.10.22.1--listening--d1b6c268c5--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U02-L01--2026.10.23.1--listening--p0",
+      "asset_id": "B2-U02-L01--2026.10.23.1--listening",
+      "role": "listening",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Dodavatel: Můžeme snížit cenu, pokud objednáte alespoň tisíc kusů. Organizátor: Tisíc kusů nevyužijeme. Mohli bychom přijmout jinou barvu, kdybyste snížili minimum na šest set? Dodavatel: To je možné, ale doprava by byla zvlášť. Organizátor: Prosím tedy o celkovou cenu včetně dopravy a o potvrzení, zda jde o odeslání, nebo doručení do čtvrtka.",
+      "start": 0,
+      "end": 31.86956916099773,
+      "slow_start": 0,
+      "slow_end": 35.78213151927438
+    },
+    {
+      "lesson_id": "B2-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U02-L01--2026.10.22.1--vocabulary--6a85b7c915--normal.mp3",
+      "slow_file": "audio/files/B2-U02-L01--2026.10.22.1--vocabulary--6a85b7c915--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U02-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary-full",
+      "index": 0,
+      "text": "Lze snížit minimální odběr? Potřebujeme závazný termín. Kdo odpovídá za převzetí? Dohoda vyžaduje vzájemné ústupky.",
+      "duration_seconds": 11.296689342403628,
+      "slow_duration_seconds": 12.666666666666666,
+      "sha256": "88c90620c261732b44b83caf34d52e1a8ac12aa34c34d2d0b0c58691d46865b9",
+      "slow_sha256": "4ac373be0477b94a5eb6a9310e547c81f1ca4f864c7995c5f27d4a26c340c7c9"
+    },
+    {
+      "lesson_id": "B2-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U02-L01--2026.10.22.1--vocabulary--6a85b7c915--normal.mp3",
+      "slow_file": "audio/files/B2-U02-L01--2026.10.22.1--vocabulary--6a85b7c915--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U02-L01--2026.10.23.1--vocabulary--p0",
+      "asset_id": "B2-U02-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Lze snížit minimální odběr?",
+      "start": 0,
+      "end": 2.9605442176870747,
+      "slow_start": 0,
+      "slow_end": 3.4597732426303853
+    },
+    {
+      "lesson_id": "B2-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U02-L01--2026.10.22.1--vocabulary--6a85b7c915--normal.mp3",
+      "slow_file": "audio/files/B2-U02-L01--2026.10.22.1--vocabulary--6a85b7c915--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U02-L01--2026.10.23.1--vocabulary--p1",
+      "asset_id": "B2-U02-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Potřebujeme závazný termín.",
+      "start": 3.140544217687075,
+      "end": 5.590249433106576,
+      "slow_start": 3.6397732426303855,
+      "slow_end": 6.391337868480726
+    },
+    {
+      "lesson_id": "B2-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U02-L01--2026.10.22.1--vocabulary--6a85b7c915--normal.mp3",
+      "slow_file": "audio/files/B2-U02-L01--2026.10.22.1--vocabulary--6a85b7c915--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U02-L01--2026.10.23.1--vocabulary--p2",
+      "asset_id": "B2-U02-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Kdo odpovídá za převzetí?",
+      "start": 5.770249433106576,
+      "end": 7.96453514739229,
+      "slow_start": 6.571337868480725,
+      "slow_end": 9.03265306122449
+    },
+    {
+      "lesson_id": "B2-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U02-L01--2026.10.22.1--vocabulary--6a85b7c915--normal.mp3",
+      "slow_file": "audio/files/B2-U02-L01--2026.10.22.1--vocabulary--6a85b7c915--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U02-L01--2026.10.23.1--vocabulary--p3",
+      "asset_id": "B2-U02-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Dohoda vyžaduje vzájemné ústupky.",
+      "start": 8.14453514739229,
+      "end": 11.116689342403628,
+      "slow_start": 9.21265306122449,
+      "slow_end": 12.486666666666666
+    },
+    {
+      "lesson_id": "B2-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U02-L01--2026.10.22.1--exercises--a6ff1bc31e--normal.mp3",
+      "slow_file": "audio/files/B2-U02-L01--2026.10.22.1--exercises--a6ff1bc31e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U02-L01--2026.10.23.1--exercises",
+      "role": "exercises-full",
+      "index": 0,
+      "text": "Minimum můžeme snížit na šest set kusů, ale doprava by byla zvlášť.",
+      "duration_seconds": 6.5770975056689345,
+      "slow_duration_seconds": 7.540725623582767,
+      "sha256": "8cd522e4db393a5e259d67ffff384d34d04ab1fd6810b6ce70eb10d9b149fbb2",
+      "slow_sha256": "a936e0e8513d80966eb42c935b6a04c8f4a4da737de82c3e7c4e068b21bf6c77"
+    },
+    {
+      "lesson_id": "B2-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U02-L01--2026.10.22.1--exercises--a6ff1bc31e--normal.mp3",
+      "slow_file": "audio/files/B2-U02-L01--2026.10.22.1--exercises--a6ff1bc31e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U02-L01--2026.10.23.1--exercises--p0",
+      "asset_id": "B2-U02-L01--2026.10.23.1--exercises",
+      "role": "exercise",
+      "index": 0,
+      "exercise_id": "B2-U02-L01-E03",
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Minimum můžeme snížit na šest set kusů, ale doprava by byla zvlášť.",
+      "start": 0,
+      "end": 6.397097505668934,
+      "slow_start": 0,
+      "slow_end": 7.360725623582766
+    },
+    {
+      "lesson_id": "B2-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U02-L01--2026.10.22.1--contrasts--e28dee9201--normal.mp3",
+      "slow_file": "audio/files/B2-U02-L01--2026.10.22.1--contrasts--e28dee9201--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U02-L01--2026.10.23.1--contrasts",
+      "role": "contrasts-full",
+      "index": 0,
+      "text": "doručit. odeslat.",
+      "duration_seconds": 1.8518367346938776,
+      "slow_duration_seconds": 2.0840362811791384,
+      "sha256": "a1401f043fd712521cb53571800d9b1daf6ce3ebd15d5674d0819be9e9d88cb8",
+      "slow_sha256": "12a57486ebfcc5f42313348086ee164e8db206bb108ce70bcd68a9a84134570f"
+    },
+    {
+      "lesson_id": "B2-U02-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U02-L01--2026.10.22.1--contrasts--e28dee9201--normal.mp3",
+      "slow_file": "audio/files/B2-U02-L01--2026.10.22.1--contrasts--e28dee9201--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U02-L01--2026.10.23.1--contrasts--p0",
+      "asset_id": "B2-U02-L01--2026.10.23.1--contrasts",
+      "role": "contrast",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "doručit. odeslat.",
+      "start": 0,
+      "end": 1.6718367346938776,
+      "slow_start": 0,
+      "slow_end": 1.9040362811791383
+    }
+  ]
+}

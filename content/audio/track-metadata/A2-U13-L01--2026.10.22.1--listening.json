@@ -1,0 +1,66 @@
+{
+  "id": "A2-U13-L01--2026.10.22.1--listening",
+  "lesson_id": "A2-U13-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Kvůli opravě bude obchod v pátek zavřený. Výdej objednávek bude možný u zadního vchodu od devíti do jedenácti.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Kvůli opravě bude obchod v pátek zavřený.",
+        "Výdej objednávek bude možný u zadního vchodu od devíti do jedenácti."
+      ]
+    }
+  ],
+  "text_sha256": "a7f90f03a0faf037b244201a3cabb32abc2e452525cf9f2fd644b73d6b7261ae",
+  "source_file": "content/lessons/A2/A2-U13-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U13-L01--2026.10.22.1--listening--a7f90f03a0--normal.mp3",
+  "slow_file": "content/audio/files/A2-U13-L01--2026.10.22.1--listening--a7f90f03a0--slow.mp3",
+  "duration_seconds": 9.613151927437642,
+  "slow_duration_seconds": 10.634829931972789,
+  "cues": [
+    {
+      "text": "Kvůli opravě bude obchod v pátek zavřený. Výdej objednávek bude možný u zadního vchodu od devíti do jedenácti.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Kvůli opravě bude obchod v pátek zavřený.",
+        "Výdej objednávek bude možný u zadního vchodu od devíti do jedenácti."
+      ],
+      "start": 0.0,
+      "end": 9.433151927437642,
+      "sentences": [
+        {
+          "text": "Kvůli opravě bude obchod v pátek zavřený.",
+          "start": 0.0,
+          "end": 3.4597732426303853,
+          "slow_start": 0.0,
+          "slow_end": 3.866122448979592
+        },
+        {
+          "text": "Výdej objednávek bude možný u zadního vchodu od devíti do jedenácti.",
+          "start": 3.6397732426303855,
+          "end": 9.433151927437642,
+          "slow_start": 4.046122448979592,
+          "slow_end": 10.454829931972789
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 10.454829931972789
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "f4b6f07f6d3ef3ca27948a4c2b57fe7e3a00eeeb1421f9ff7b574e5c1887fbbe",
+    "slow": "512ffe28d380c5e701028ecd6e869eec53f73d3b644061d30e0e15d5057614ca"
+  }
+}

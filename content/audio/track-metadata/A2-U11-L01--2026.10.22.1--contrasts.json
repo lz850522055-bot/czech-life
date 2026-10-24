@@ -1,0 +1,57 @@
+{
+  "id": "A2-U11-L01--2026.10.22.1--contrasts",
+  "lesson_id": "A2-U11-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "psal. napsal.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "psal. napsal."
+      ]
+    }
+  ],
+  "text_sha256": "c4aa9aec8950be716c5bdea2ba66eb560df1ac9022953e9d7ea0d4db839b8320",
+  "source_file": "content/lessons/A2/A2-U11-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U11-L01--2026.10.22.1--contrasts--c4aa9aec89--normal.mp3",
+  "slow_file": "content/audio/files/A2-U11-L01--2026.10.22.1--contrasts--c4aa9aec89--slow.mp3",
+  "duration_seconds": 1.4338775510204083,
+  "slow_duration_seconds": 1.677687074829932,
+  "cues": [
+    {
+      "text": "psal. napsal.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "psal. napsal."
+      ],
+      "start": 0.0,
+      "end": 1.253877551020408,
+      "sentences": [
+        {
+          "text": "psal. napsal.",
+          "start": 0.0,
+          "end": 1.253877551020408,
+          "slow_start": 0.0,
+          "slow_end": 1.497687074829932
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.497687074829932
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "00ea91f77d836a3ebbfde692c8ff258ce0004bb9ec9dbf73e399df49f2884ea2",
+    "slow": "117e7acb4e60731fb95e889ee4e8952e6bd24b5387fa15b8a15eaf48cb87446d"
+  }
+}

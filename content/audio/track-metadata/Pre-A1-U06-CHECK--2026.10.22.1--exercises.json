@@ -1,0 +1,59 @@
+{
+  "id": "Pre-A1-U06-CHECK--2026.10.22.1--exercises",
+  "lesson_id": "Pre-A1-U06-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "Pre-A1",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "S mlékem, bez cukru.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "Pre-A1-U06-CHECK-E01",
+      "parts": [
+        "S mlékem, bez cukru."
+      ]
+    }
+  ],
+  "text_sha256": "8ee5dbf7850c29dfc92de0266df7ff1af1573b5396ecf76d28200cb70708942d",
+  "source_file": "content/assessments/Pre-A1-U06.json",
+  "status": "generated",
+  "file": "content/audio/files/Pre-A1-U06-CHECK--2026.10.22.1--exercises--8ee5dbf785--normal.mp3",
+  "slow_file": "content/audio/files/Pre-A1-U06-CHECK--2026.10.22.1--exercises--8ee5dbf785--slow.mp3",
+  "duration_seconds": 2.2233560090702946,
+  "slow_duration_seconds": 2.4903854875283447,
+  "cues": [
+    {
+      "text": "S mlékem, bez cukru.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "Pre-A1-U06-CHECK-E01",
+      "parts": [
+        "S mlékem, bez cukru."
+      ],
+      "start": 0.0,
+      "end": 2.043356009070295,
+      "sentences": [
+        {
+          "text": "S mlékem, bez cukru.",
+          "start": 0.0,
+          "end": 2.043356009070295,
+          "slow_start": 0.0,
+          "slow_end": 2.3103854875283445
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.3103854875283445
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "abc72c4b437c1039b70b4397320f2fd5aef951d3a39d18c46b37fe0d41fd8a71",
+    "slow": "22cf082e6187243937fc24016a911a8e177e478268a68cd66cbb6cf11c3debaa"
+  }
+}

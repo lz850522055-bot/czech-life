@@ -1,0 +1,57 @@
+{
+  "id": "A1-U02-L01--2026.10.22.1--contrasts",
+  "lesson_id": "A1-U02-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A1",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "nový. nová.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "nový. nová."
+      ]
+    }
+  ],
+  "text_sha256": "69ca87b477dc29ae743d37a09635c46fac965fae2927d83a39ec90ab80693ac8",
+  "source_file": "content/lessons/A1/A1-U02-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U02-L01--2026.10.22.1--contrasts--69ca87b477--normal.mp3",
+  "slow_file": "content/audio/files/A1-U02-L01--2026.10.22.1--contrasts--69ca87b477--slow.mp3",
+  "duration_seconds": 1.387437641723356,
+  "slow_duration_seconds": 1.5383673469387755,
+  "cues": [
+    {
+      "text": "nový. nová.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "nový. nová."
+      ],
+      "start": 0.0,
+      "end": 1.207437641723356,
+      "sentences": [
+        {
+          "text": "nový. nová.",
+          "start": 0.0,
+          "end": 1.207437641723356,
+          "slow_start": 0.0,
+          "slow_end": 1.3583673469387756
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.3583673469387756
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "5ee5411efbd8e2e4e58e5d7921810a0c96ef730b95eab46d1dfff95cca8cab2e",
+    "slow": "eb99e41db3d45d76b3335e46400e4cb552611adf9374e47fef29cf6b272d21c9"
+  }
+}

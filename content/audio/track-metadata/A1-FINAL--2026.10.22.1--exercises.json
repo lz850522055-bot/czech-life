@@ -1,0 +1,59 @@
+{
+  "id": "A1-FINAL--2026.10.22.1--exercises",
+  "lesson_id": "A1-FINAL",
+  "content_version": "2026.10.22.1",
+  "level": "A1",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "V sobotu začínáme ve tři odpoledne.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "A1-FINAL-E01",
+      "parts": [
+        "V sobotu začínáme ve tři odpoledne."
+      ]
+    }
+  ],
+  "text_sha256": "01e24df92bae5dd76b8222e8895c04edda799c60d27148818013229c6084d6c9",
+  "source_file": "content/assessments/A1-FINAL.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-FINAL--2026.10.22.1--exercises--01e24df92b--normal.mp3",
+  "slow_file": "content/audio/files/A1-FINAL--2026.10.22.1--exercises--01e24df92b--slow.mp3",
+  "duration_seconds": 3.1753741496598638,
+  "slow_duration_seconds": 3.6862131519274377,
+  "cues": [
+    {
+      "text": "V sobotu začínáme ve tři odpoledne.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "A1-FINAL-E01",
+      "parts": [
+        "V sobotu začínáme ve tři odpoledne."
+      ],
+      "start": 0.0,
+      "end": 2.995374149659864,
+      "sentences": [
+        {
+          "text": "V sobotu začínáme ve tři odpoledne.",
+          "start": 0.0,
+          "end": 2.995374149659864,
+          "slow_start": 0.0,
+          "slow_end": 3.5062131519274375
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 3.5062131519274375
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "9f872cf9f3a4a2ff9c5c4d419a51de744f612f4fbc98d377a8c21a790ec9340b",
+    "slow": "4b091f4186fcacb15a8f91536d75704d1ee8dc60e81a532eb801aba02bf4e832"
+  }
+}

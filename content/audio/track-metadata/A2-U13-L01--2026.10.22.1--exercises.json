@@ -1,0 +1,59 @@
+{
+  "id": "A2-U13-L01--2026.10.22.1--exercises",
+  "lesson_id": "A2-U13-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Obchod je zavřený, ale výdej je možný u zadního vchodu od devíti do jedenácti.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "A2-U13-L01-E01",
+      "parts": [
+        "Obchod je zavřený, ale výdej je možný u zadního vchodu od devíti do jedenácti."
+      ]
+    }
+  ],
+  "text_sha256": "262f787281c8dd942929de1c638f7f9bc21b5fd4dc221783168518d289ab0e49",
+  "source_file": "content/lessons/A2/A2-U13-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U13-L01--2026.10.22.1--exercises--262f787281--normal.mp3",
+  "slow_file": "content/audio/files/A2-U13-L01--2026.10.22.1--exercises--262f787281--slow.mp3",
+  "duration_seconds": 6.658367346938776,
+  "slow_duration_seconds": 7.703265306122449,
+  "cues": [
+    {
+      "text": "Obchod je zavřený, ale výdej je možný u zadního vchodu od devíti do jedenácti.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "A2-U13-L01-E01",
+      "parts": [
+        "Obchod je zavřený, ale výdej je možný u zadního vchodu od devíti do jedenácti."
+      ],
+      "start": 0.0,
+      "end": 6.478367346938776,
+      "sentences": [
+        {
+          "text": "Obchod je zavřený, ale výdej je možný u zadního vchodu od devíti do jedenácti.",
+          "start": 0.0,
+          "end": 6.478367346938776,
+          "slow_start": 0.0,
+          "slow_end": 7.523265306122449
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 7.523265306122449
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "9d5fda0e51f9c001efd635ec332cb0a9e017a0487e7b516937daabd6d079f5fe",
+    "slow": "b187f1ea3286c8a8dc44a5b7802b40f6d3efc62e66282c33cfda4c009ef7179c"
+  }
+}

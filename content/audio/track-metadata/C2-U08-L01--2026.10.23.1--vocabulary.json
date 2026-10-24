@@ -1,0 +1,174 @@
+{
+  "id": "C2-U08-L01--2026.10.23.1--vocabulary",
+  "lesson_id": "C2-U08-L01",
+  "content_version": "2026.10.23.1",
+  "level": "C2",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Očekával rozloučení, našel seznam.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Očekával rozloučení, našel seznam."
+      ]
+    },
+    {
+      "text": "Pokoj nemusel zůstat nedotčený.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Pokoj nemusel zůstat nedotčený."
+      ]
+    },
+    {
+      "text": "Smíření není popsáno jako hotový stav.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Smíření není popsáno jako hotový stav."
+      ]
+    },
+    {
+      "text": "Dveře musel nadzvednout.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Dveře musel nadzvednout."
+      ]
+    },
+    {
+      "text": "Výklad opřeme o text.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Výklad opřeme o text."
+      ]
+    }
+  ],
+  "text_sha256": "0e46450827800a2866c2da3d776a98f3abc9cd3a20a7d0c290712c1137e3d9da",
+  "source_file": "content/lessons/C2/C2-U08-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U08-L01--2026.10.22.1--vocabulary--0e46450827--normal.mp3",
+  "slow_file": "content/audio/files/C2-U08-L01--2026.10.22.1--vocabulary--0e46450827--slow.mp3",
+  "duration_seconds": 15.807210884353742,
+  "slow_duration_seconds": 18.013106575963718,
+  "cues": [
+    {
+      "text": "Očekával rozloučení, našel seznam.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Očekával rozloučení, našel seznam."
+      ],
+      "start": 0.0,
+      "end": 3.4597732426303853,
+      "sentences": [
+        {
+          "text": "Očekával rozloučení, našel seznam.",
+          "start": 0.0,
+          "end": 3.4597732426303853,
+          "slow_start": 0.0,
+          "slow_end": 3.982222222222222
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 3.982222222222222
+    },
+    {
+      "text": "Pokoj nemusel zůstat nedotčený.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Pokoj nemusel zůstat nedotčený."
+      ],
+      "start": 3.6397732426303855,
+      "end": 6.588707482993197,
+      "sentences": [
+        {
+          "text": "Pokoj nemusel zůstat nedotčený.",
+          "start": 3.6397732426303855,
+          "end": 6.588707482993197,
+          "slow_start": 4.162222222222222,
+          "slow_end": 7.540725623582767
+        }
+      ],
+      "slow_start": 4.162222222222222,
+      "slow_end": 7.540725623582767
+    },
+    {
+      "text": "Smíření není popsáno jako hotový stav.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Smíření není popsáno jako hotový stav."
+      ],
+      "start": 6.7687074829931975,
+      "end": 10.75092970521542,
+      "sentences": [
+        {
+          "text": "Smíření není popsáno jako hotový stav.",
+          "start": 6.7687074829931975,
+          "end": 10.75092970521542,
+          "slow_start": 7.720725623582767,
+          "slow_end": 12.318276643990929
+        }
+      ],
+      "slow_start": 7.720725623582767,
+      "slow_end": 12.318276643990929
+    },
+    {
+      "text": "Dveře musel nadzvednout.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Dveře musel nadzvednout."
+      ],
+      "start": 10.93092970521542,
+      "end": 13.345804988662131,
+      "sentences": [
+        {
+          "text": "Dveře musel nadzvednout.",
+          "start": 10.93092970521542,
+          "end": 13.345804988662131,
+          "slow_start": 12.49827664399093,
+          "slow_end": 15.238231292517007
+        }
+      ],
+      "slow_start": 12.49827664399093,
+      "slow_end": 15.238231292517007
+    },
+    {
+      "text": "Výklad opřeme o text.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Výklad opřeme o text."
+      ],
+      "start": 13.52580498866213,
+      "end": 15.627210884353742,
+      "sentences": [
+        {
+          "text": "Výklad opřeme o text.",
+          "start": 13.52580498866213,
+          "end": 15.627210884353742,
+          "slow_start": 15.418231292517007,
+          "slow_end": 17.83310657596372
+        }
+      ],
+      "slow_start": 15.418231292517007,
+      "slow_end": 17.83310657596372
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "3a1bda72752126a0b087bfa8dc997a0b71cf72f3822714695d63f8020b7cf25c",
+    "slow": "9e2135bd8b15280048c7c7c70008ba303438f62fb9a1718250faf4b63b58b723"
+  },
+  "reused_from_track_id": "C2-U08-L01--2026.10.22.1--vocabulary"
+}

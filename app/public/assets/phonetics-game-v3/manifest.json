@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "engine": "local Piper Czech explicit phonemes",
+  "quality": "input, bytes and decode checked; not native-listened",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "items": [
+    {
+      "key": "long-e",
+      "text": "é",
+      "ipa_input": "ɛː",
+      "phones": [
+        [
+          "ɛ",
+          "ː"
+        ],
+        []
+      ],
+      "files": {
+        "normal": {
+          "url": "/assets/phonetics-game-v3/long-e-normal.mp3",
+          "seconds": 0.6502,
+          "sha256": "47bb8dac58692b86b6cc62957cf51cda5890606c9815a5b7ec1c9b8dd78b5ced"
+        },
+        "slow": {
+          "url": "/assets/phonetics-game-v3/long-e-slow.mp3",
+          "seconds": 0.7779,
+          "sha256": "b655780732447dccb37fbb4ba7b0f03548d46923246036adcf3cc81dde2d2f29"
+        }
+      }
+    },
+    {
+      "key": "long-o",
+      "text": "ó",
+      "ipa_input": "oː",
+      "phones": [
+        [
+          "o",
+          "ː"
+        ],
+        []
+      ],
+      "files": {
+        "normal": {
+          "url": "/assets/phonetics-game-v3/long-o-normal.mp3",
+          "seconds": 0.5689,
+          "sha256": "4fed70a453af2ae78e55a3dbe45c6d3932777a07dae1a0f485ed521075730475"
+        },
+        "slow": {
+          "url": "/assets/phonetics-game-v3/long-o-slow.mp3",
+          "seconds": 0.6618,
+          "sha256": "10474da9fccffe221c8c2e20b3d5333e0993452515598cdb35d15794ce817d5d"
+        }
+      }
+    },
+    {
+      "key": "ra",
+      "text": "ra",
+      "ipa_input": "ra",
+      "phones": [
+        [
+          "r",
+          "a"
+        ],
+        []
+      ],
+      "files": {
+        "normal": {
+          "url": "/assets/phonetics-game-v3/ra-normal.mp3",
+          "seconds": 0.5573,
+          "sha256": "370f56b820df671dc5bb9d5694c5d323046f0a9f9da019ab6d1d1641df0f37b7"
+        },
+        "slow": {
+          "url": "/assets/phonetics-game-v3/ra-slow.mp3",
+          "seconds": 0.6966,
+          "sha256": "1edac8c5403d0e84a172cb4731f551332410faaf6e3c6ec618eaab5f9b6b5596"
+        }
+      }
+    },
+    {
+      "key": "rha",
+      "text": "řa",
+      "ipa_input": "r̝a",
+      "phones": [
+        [
+          "r",
+          "̝",
+          "a"
+        ],
+        []
+      ],
+      "files": {
+        "normal": {
+          "url": "/assets/phonetics-game-v3/rha-normal.mp3",
+          "seconds": 0.6502,
+          "sha256": "fc4ef33c71c8f727340ba1c7f4179fd201efbabf8bd908d65f5eecb2ae0c8456"
+        },
+        "slow": {
+          "url": "/assets/phonetics-game-v3/rha-slow.mp3",
+          "seconds": 0.7895,
+          "sha256": "53eb8a5dc29211d8ad4895533f5ca37927cef434f6857e0cd40eb324aca6b776"
+        }
+      }
+    },
+    {
+      "key": "ch",
+      "text": "ch",
+      "ipa_input": "x",
+      "phones": [
+        [
+          "x"
+        ],
+        []
+      ],
+      "files": {
+        "normal": {
+          "url": "/assets/phonetics-game-v3/ch-normal.mp3",
+          "seconds": 0.3367,
+          "sha256": "fd5acd7957a196b401e7db7b29171accc195f78268d18eb5a388a928d8d7d3a6"
+        },
+        "slow": {
+          "url": "/assets/phonetics-game-v3/ch-slow.mp3",
+          "seconds": 0.4296,
+          "sha256": "86e2b9190dd398e0ec4f410be5dafb44881e05ff3d49f6637663c7e28a728273"
+        }
+      }
+    }
+  ]
+}

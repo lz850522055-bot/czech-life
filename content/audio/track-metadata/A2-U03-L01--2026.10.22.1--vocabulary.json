@@ -1,0 +1,202 @@
+{
+  "id": "A2-U03-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "A2-U03-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Čeština má sedm pádů.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Čeština má sedm pádů."
+      ]
+    },
+    {
+      "text": "Hledám správný vzor.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Hledám správný vzor."
+      ]
+    },
+    {
+      "text": "Pád ukazuje vztah.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Pád ukazuje vztah."
+      ]
+    },
+    {
+      "text": "Napišu jednu větu.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Napišu jednu větu."
+      ]
+    },
+    {
+      "text": "Sedíme v zahradě.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Sedíme v zahradě."
+      ]
+    },
+    {
+      "text": "Děkuju Petrovi.",
+      "index": 5,
+      "role": "vocabulary",
+      "parts": [
+        "Děkuju Petrovi."
+      ]
+    }
+  ],
+  "text_sha256": "59eac0e3fca6a45a13acf729d607ff443ab6e6a4e79d2b957a9aa80b2a0abe1a",
+  "source_file": "content/lessons/A2/A2-U03-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U03-L01--2026.10.22.1--vocabulary--59eac0e3fc--normal.mp3",
+  "slow_file": "content/audio/files/A2-U03-L01--2026.10.22.1--vocabulary--59eac0e3fc--slow.mp3",
+  "duration_seconds": 11.772789115646258,
+  "slow_duration_seconds": 13.467845804988663,
+  "cues": [
+    {
+      "text": "Čeština má sedm pádů.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Čeština má sedm pádů."
+      ],
+      "start": 0.0,
+      "end": 2.2175056689342405,
+      "sentences": [
+        {
+          "text": "Čeština má sedm pádů.",
+          "start": 0.0,
+          "end": 2.2175056689342405,
+          "slow_start": 0.0,
+          "slow_end": 2.5774149659863945
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.5774149659863945
+    },
+    {
+      "text": "Hledám správný vzor.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Hledám správný vzor."
+      ],
+      "start": 2.39750566893424,
+      "end": 4.371201814058957,
+      "sentences": [
+        {
+          "text": "Hledám správný vzor.",
+          "start": 2.39750566893424,
+          "end": 4.371201814058957,
+          "slow_start": 2.7574149659863947,
+          "slow_end": 5.021360544217687
+        }
+      ],
+      "slow_start": 2.7574149659863947,
+      "slow_end": 5.021360544217687
+    },
+    {
+      "text": "Pád ukazuje vztah.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Pád ukazuje vztah."
+      ],
+      "start": 4.551201814058957,
+      "end": 6.304308390022676,
+      "sentences": [
+        {
+          "text": "Pád ukazuje vztah.",
+          "start": 4.551201814058957,
+          "end": 6.304308390022676,
+          "slow_start": 5.201360544217687,
+          "slow_end": 7.325986394557823
+        }
+      ],
+      "slow_start": 5.201360544217687,
+      "slow_end": 7.325986394557823
+    },
+    {
+      "text": "Napišu jednu větu.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Napišu jednu větu."
+      ],
+      "start": 6.484308390022676,
+      "end": 8.156145124716554,
+      "sentences": [
+        {
+          "text": "Napišu jednu větu.",
+          "start": 6.484308390022676,
+          "end": 8.156145124716554,
+          "slow_start": 7.505986394557823,
+          "slow_end": 9.456462585034014
+        }
+      ],
+      "slow_start": 7.505986394557823,
+      "slow_end": 9.456462585034014
+    },
+    {
+      "text": "Sedíme v zahradě.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Sedíme v zahradě."
+      ],
+      "start": 8.336145124716554,
+      "end": 9.996371882086168,
+      "sentences": [
+        {
+          "text": "Sedíme v zahradě.",
+          "start": 8.336145124716554,
+          "end": 9.996371882086168,
+          "slow_start": 9.636462585034014,
+          "slow_end": 11.505668934240363
+        }
+      ],
+      "slow_start": 9.636462585034014,
+      "slow_end": 11.505668934240363
+    },
+    {
+      "text": "Děkuju Petrovi.",
+      "index": 5,
+      "role": "vocabulary",
+      "parts": [
+        "Děkuju Petrovi."
+      ],
+      "start": 10.176371882086167,
+      "end": 11.592789115646259,
+      "sentences": [
+        {
+          "text": "Děkuju Petrovi.",
+          "start": 10.176371882086167,
+          "end": 11.592789115646259,
+          "slow_start": 11.685668934240363,
+          "slow_end": 13.287845804988661
+        }
+      ],
+      "slow_start": 11.685668934240363,
+      "slow_end": 13.287845804988661
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "639e21315016cc2cc67a10a82c98e207ae0d98166fcec5be0116c827e933aff0",
+    "slow": "6c5aca52f8c790119e7c36d061bd2fb4a40ce005decd15e51ba0b1525eb64e71"
+  }
+}

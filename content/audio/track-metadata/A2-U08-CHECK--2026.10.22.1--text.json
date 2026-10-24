@@ -1,0 +1,75 @@
+{
+  "id": "A2-U08-CHECK--2026.10.22.1--text",
+  "lesson_id": "A2-U08-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Schůzka se přesouvá na úterý. Čas zůstává jedenáct hodin. Pošlete prosím krátké potvrzení.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Schůzka se přesouvá na úterý.",
+        "Čas zůstává jedenáct hodin.",
+        "Pošlete prosím krátké potvrzení."
+      ]
+    }
+  ],
+  "text_sha256": "a582b4e9de88cb3eb74be03f43fe30d1563fac74f216bf5a43b7b358c8b01fb0",
+  "source_file": "content/assessments/A2-U08.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U08-CHECK--2026.10.22.1--text--a582b4e9de--normal.mp3",
+  "slow_file": "content/audio/files/A2-U08-CHECK--2026.10.22.1--text--a582b4e9de--slow.mp3",
+  "duration_seconds": 8.817913832199546,
+  "slow_duration_seconds": 9.560952380952381,
+  "cues": [
+    {
+      "text": "Schůzka se přesouvá na úterý. Čas zůstává jedenáct hodin. Pošlete prosím krátké potvrzení.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Schůzka se přesouvá na úterý.",
+        "Čas zůstává jedenáct hodin.",
+        "Pošlete prosím krátké potvrzení."
+      ],
+      "start": 0.0,
+      "end": 8.637913832199546,
+      "sentences": [
+        {
+          "text": "Schůzka se přesouvá na úterý.",
+          "start": 0.0,
+          "end": 2.426485260770975,
+          "slow_start": 0.0,
+          "slow_end": 2.6006349206349206
+        },
+        {
+          "text": "Čas zůstává jedenáct hodin.",
+          "start": 2.606485260770975,
+          "end": 5.334829931972789,
+          "slow_start": 2.780634920634921,
+          "slow_end": 5.776009070294784
+        },
+        {
+          "text": "Pošlete prosím krátké potvrzení.",
+          "start": 5.514829931972789,
+          "end": 8.637913832199546,
+          "slow_start": 5.956009070294785,
+          "slow_end": 9.380952380952381
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 9.380952380952381
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "7dfadfdb3774365953f6ff7e1247da01f2914f349516d019b95266a5c5455c51",
+    "slow": "5e475740b7cc233305aa7c0c341ee5f6257461d1db26ee409709620f93749b4b"
+  }
+}

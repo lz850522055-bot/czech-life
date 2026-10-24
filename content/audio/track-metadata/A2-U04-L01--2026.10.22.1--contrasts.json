@@ -1,0 +1,57 @@
+{
+  "id": "A2-U04-L01--2026.10.22.1--contrasts",
+  "lesson_id": "A2-U04-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "ji. jí.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "ji. jí."
+      ]
+    }
+  ],
+  "text_sha256": "925469f7a3ba63158b4c041316523ba9bcda8f2d4fbc84cf4c61ce79f6967089",
+  "source_file": "content/lessons/A2/A2-U04-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U04-L01--2026.10.22.1--contrasts--925469f7a3--normal.mp3",
+  "slow_file": "content/audio/files/A2-U04-L01--2026.10.22.1--contrasts--925469f7a3--slow.mp3",
+  "duration_seconds": 0.9230385487528344,
+  "slow_duration_seconds": 1.0159183673469387,
+  "cues": [
+    {
+      "text": "ji. jí.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "ji. jí."
+      ],
+      "start": 0.0,
+      "end": 0.7430385487528345,
+      "sentences": [
+        {
+          "text": "ji. jí.",
+          "start": 0.0,
+          "end": 0.7430385487528345,
+          "slow_start": 0.0,
+          "slow_end": 0.8359183673469388
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 0.8359183673469388
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "c59b23980465c55da15915b11278c3795df32289723b9c56d5be75019e2a8412",
+    "slow": "ec9e084d81dc193c8ee168c4582eb85e0184c0de434b2693050e17080e0bd70c"
+  }
+}

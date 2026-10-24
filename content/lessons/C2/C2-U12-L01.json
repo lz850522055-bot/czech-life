@@ -1,0 +1,2219 @@
+{
+  "id": "C2-U12-L01",
+  "level": "C2",
+  "unit_id": "C2-U12",
+  "order": 86,
+  "version": "2026.10.23.2",
+  "title_zh": "综合任务：为一座城市的声音作出有据的选择",
+  "title_cs": "Hlasy města: závěrečný projekt",
+  "prerequisites": [
+    "C2-U11-L01"
+  ],
+  "can_do": [
+    "综合理解复杂多源材料",
+    "灵活转述、协商并适配受众",
+    "按真实表现自检而不夸大CEFR达标"
+  ],
+  "scene": "多场景综合",
+  "skills": [
+    "listening",
+    "speaking",
+    "reading",
+    "writing",
+    "interaction",
+    "mediation"
+  ],
+  "knowledge_points": [
+    "c2-integrated-mediation",
+    "c2-self-audit-evidence"
+  ],
+  "intro_zh": "你是虚构展览的语言协调人。阅读策展提案、参与者来信、技术说明与争论，完成听辨、批判阅读、口头协商、公众说明及自我修订；本系统证据不等于官方C2认证。",
+  "lesson_text": [
+    {
+      "id": "s01",
+      "cs": "Kurátorský návrh: Výstava Hlasy města má zpřístupnit krátké zvukové vzpomínky lidí, kteří v různých částech města žijí nebo pracují. Nechceme vytvářet jeden jednotný příběh, nýbrž umožnit návštěvníkům porovnat odlišné zkušenosti téhož prostoru. Pro první verzi byly osloveny především místní spolky, které již s galerií spolupracují. Tato cesta usnadnila přípravu, zároveň však omezuje pestrost získaných hlasů. Název výstavy proto nesmí být vykládán jako tvrzení, že představuje všechny obyvatele nebo úplný obraz současného městského života.",
+      "zh": "策展提案：“城市之声”展览准备向公众提供短篇声音回忆，讲述者是在这座城市不同地区生活或工作的人。我们不想创造一个统一的故事，而是让参观者比较人们对同一空间的不同体验。为了制作第一版，我们主要联系了已经与画廊合作的当地社团。这条途径让筹备更容易，同时也限制了所收集声音的多样性。因此，不能把展览名称理解为一种声明，认为它代表所有居民，或完整展现了当代城市生活。",
+      "note_zh": "先定位论点、限制条件和话语主体，再处理细节。"
+    },
+    {
+      "id": "s02",
+      "cs": "Dopis účastnice: Když jsem vzpomínku nahrávala, rozuměla jsem tomu tak, že bude uložena v archivu a zájemce si ji poslechne na požádání. Teď jsem se dozvěděla, že úryvek může znít ve veřejném sále. Nejsem proti výstavě, ale v nahrávce jmenuji místo, podle něhož by mohl být poznán můj bývalý soused. Nechci, aby moje osobní vzpomínka působila jako veřejné obvinění někoho, kdo u rozhovoru nebyl. Prosím, abychom před použitím úryvku znovu projednali jeho rozsah a způsob uvedení.",
+      "zh": "一位参与者的来信：录制这段回忆时，我理解的是，录音会保存在档案里，有兴趣的人提出请求后可以收听。现在我得知，里面的一个片段可能会在公开展厅里播放。我并不反对这个展览，但录音中我提到了一个地点，人们可能根据它辨认出我以前的一位邻居。我不希望自己的个人回忆听起来像是在公开指控一个当时没有参与访谈的人。请在使用这个片段前，再和我讨论一下选取范围，以及怎样向观众介绍它。",
+      "note_zh": "先定位论点、限制条件和话语主体，再处理细节。"
+    },
+    {
+      "id": "s03",
+      "cs": "Technická poznámka: U některých záznamů byly odstraněny delší pauzy a části, které se netýkaly tématu. Přepis byl upraven do snadněji čitelné podoby, přičemž nebyl záměr měnit význam. Kontrola však odhalila případ, kdy po vystřižení mezivěty nebylo zřejmé, že mluvčí původní tvrzení následně omezil. Před zveřejněním je proto nutné porovnat každý použitý úryvek s celým okolním úsekem. Samotná shoda jednotlivých slov s přepisem nezaručuje zachování jejich vztahu ani skutečné míry jistoty, s níž byla vzpomínka vyslovena.",
+      "zh": "技术说明：有些录音删去了较长的停顿和与主题无关的部分。文字转写也调整得更便于阅读，目的并不是改变意思。然而，检查发现了一个例子：删去中间的一句话以后，人们已经听不清楚，说话者其实在后文对最初的说法作了限定。因此，公开之前，必须把每个拟使用的片段与完整的前后语段进行比较。单个词与转写一致，并不能保证这些词之间的关系得到保留，也不能保证当事人讲述这段回忆时实际表达的确定程度得到保留。",
+      "note_zh": "先定位论点、限制条件和话语主体，再处理细节。"
+    },
+    {
+      "id": "s04",
+      "cs": "Krátká vzpomínka z připravované výstavy: Naše ulice se prý od té doby úplně změnila. Když to říkám, vidím hlavně výlohy, které už nepoznávám. Jenže paní z rohu pořád staví ráno kbelík před dveře a stejný muž se mu každý den vyhne, jako by ho viděl poprvé. Možná se ulice mění méně než způsob, jakým si vybírám, čeho si všimnu. Nechci tím říci, že se nic neztratilo. Jen si nejsem jistý, zda všechno, co mi chybí, někdy existovalo přesně tak, jak o tom dnes vyprávím.",
+      "zh": "筹备中的展览里有这样一段短回忆：据说，我们这条街从那以后完全变了。我这么说的时候，主要看到的是那些已经认不出的橱窗。可是，街角那位女士仍然每天早上把水桶放在门前，同一个男人每天都会绕过它，好像第一次看到它一样。也许，与其说街道改变了，不如说我选择注意哪些东西的方式改变得更多。我并不是想说什么都没有失去。我只是不能确定，如今令我想念的一切，是否真的曾经完全像我今天讲述的那样存在过。",
+      "note_zh": "先定位论点、限制条件和话语主体，再处理细节。"
+    },
+    {
+      "id": "s05",
+      "cs": "Na přípravném setkání dramaturg navrhl použít z této vzpomínky jen první větu a obrazy nových výloh. V krátkém prostoru by podle něj jasněji vyznělo téma proměny. Jazyková redaktorka namítla, že by tak zmizela právě pochybnost, která dává řeči její osobitý charakter. Nešlo pouze o délku záznamu. Z váhavé osobní úvahy by vznikl rozhodný soud o městě. Dramaturg uznal rozdíl, ale upozornil na omezený čas návštěvníka. Skutečnou otázkou bylo, jak zachovat vnitřní pohyb myšlenky i v kratší podobě, nikoli která profese má automaticky poslední slovo.",
+      "zh": "筹备会上，戏剧构作人员建议，这段回忆只用第一句话和描写新橱窗的部分。他认为，在有限篇幅里，这样能更清楚地突出变化这个主题。语言编辑反对说，恰恰是赋予这段话独特个性的那份疑虑会因此消失。问题不只是录音的长短。一段犹疑的个人思考会变成对城市的断然判断。构作人员承认了这个差别，但提醒大家，参观者的时间有限。真正的问题是怎样在较短版本里也保留思考内部的发展和转折，而不是哪个专业角色天然拥有最终决定权。",
+      "note_zh": "先定位论点、限制条件和话语主体，再处理细节。"
+    },
+    {
+      "id": "s06",
+      "cs": "Koordinátorka navrhla dvě úrovně poslechu: krátký úryvek se zachovaným obratem a možnost navázat delší verzí. U každé nahrávky má být zřejmé, kdo mluví, v jakém kontextu vzpomínka vznikla a jak byla upravena. Účastnici, která upozornila na rozpoznatelného souseda, tým neodpověděl univerzální větou, že přece původně souhlasila. Nejprve porovnal původní dohodu s navrhovaným použitím a nabídl projednání konkrétního úryvku. Právní otázky by vyžadovaly odpovídající odborné posouzení; v této jazykové úloze je rozhodující nepředstírat shodu tam, kde účastníci popisují jiná očekávání.",
+      "zh": "协调员提出两层收听方式：一个保留转折的短片段，以及接着收听较长版本的选择。每段录音都应让人清楚知道是谁在说、这段回忆在什么情境中产生，以及经过了怎样的编辑。对于那位提醒邻居可能被认出的参与者，团队没有套用一句“你当初明明同意过”。他们先把最初的约定与拟议的新用途作比较，再提出讨论具体片段。法律问题需要相应的专业判断；在这道语言练习里，关键是当参与各方描述的期待不同时，不要假装他们已经达成一致。",
+      "note_zh": "先定位论点、限制条件和话语主体，再处理细节。"
+    },
+    {
+      "id": "s07",
+      "cs": "Představení projektu veřejnosti potřebovalo jiný jazyk než interní poznámky. Nemělo slibovat autentický hlas každého člověka, protože výběr i střih jsou zprostředkováním. Mohlo však vysvětlit, jak projekt s touto skutečností zachází: zveřejňuje princip výběru, zachovává podstatné rozpory uvnitř vyprávění a dává účastníkům možnost upřesnit způsob uvedení jejich příspěvku. Takové vysvětlení nepovažuje návštěvníka za někoho, koho složitost musí odradit. Nabízí mu dost orientace, aby mohl slyšet osobní příběh a současně rozpoznat, že výstava není nezpracovaným otiskem celé společnosti.",
+      "zh": "向公众介绍这个项目，需要采用与内部笔记不同的语言。介绍不应承诺呈现每个人真实而完整的声音，因为选材和剪辑本身就是一种中介处理。但它可以解释项目怎样对待这一事实：公开选材原则，保留叙述内部的重要矛盾，并让参与者能够进一步说明自己的投稿应该怎样被介绍。这种解释不把参观者看成一定会被复杂性吓退的人。它给参观者足够的方向感，让他们既能听到个人故事，也能识别出：展览并不是未经处理的整个社会的直接映像。",
+      "note_zh": "先定位论点、限制条件和话语主体，再处理细节。"
+    },
+    {
+      "id": "s08",
+      "cs": "Závěrečný úkol nespočívá v obhajobě jediného správného uspořádání výstavy. Účastník má z podkladů sestavit doporučení, označit jeho hodnotové předpoklady a vysvětlit, co by jej přimělo změnit stanovisko. Musí zachytit nepřímý význam vzpomínky, přesně převyprávět námitku, reagovat na časový tlak a vytvořit dvě jazykové verze pro odlišné publikum. Potom své řešení sám reviduje: kde přidal jistotu, kterou zdroj neměl, kde zaměnil svůj úsudek za cizí hlas a kde naopak zbytečnou opatrností zakryl jasně doložený problém. Výsledkem je soubor pozorovatelných výkonů, nikoli slavnostní nálepka hotové jazykové dokonalosti.",
+      "zh": "最后的任务并不是为唯一正确的展览安排作辩护。学习者需要根据材料提出建议，标明建议背后的价值前提，并说明什么情况会使自己改变立场。他必须把握回忆的间接含义，准确转述异议，回应时间压力，并为不同受众写出两种语言版本。然后，他要自己修改方案：哪里增添了原材料没有的确定性，哪里把自己的判断当成别人的声音，又在哪里因为多余的谨慎而掩盖了已经证据明确的问题。最终产出的是一组可以观察的表现，而不是一个庄严宣告“语言已经完美”的标签。",
+      "note_zh": "先定位论点、限制条件和话语主体，再处理细节。"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "c2-integrated-mediation",
+      "rule_zh": "缩短材料时，要保留它如何修正自己，而非只留最响亮的一句。",
+      "detail_zh": "完整意义包含主张、转折、限定、说话者来源。选段后逐项对比是否改变承诺、指责或确定性。",
+      "examples": [
+        {
+          "cs": "Mluvčí připouští ztrátu, ale zpochybňuje přesnost vlastní vzpomínky.",
+          "zh": "说话者承认损失，但质疑自己的回忆精度。"
+        }
+      ],
+      "pitfalls": [
+        "不能把个人犹豫剪成公共定论。"
+      ],
+      "exceptions": [
+        "篇幅受限可删枝节，不能删决定论点的转折。"
+      ],
+      "term": "integrita parafráze"
+    },
+    {
+      "id": "c2-self-audit-evidence",
+      "rule_zh": "完成综合任务后，逐条查“这是资料说的，还是我补的”。",
+      "detail_zh": "podle zdroje / navrhuji / z toho usuzuji 分声部；跨听说读写任务需分别证据，不以一个选择题推出整级掌握。",
+      "examples": [
+        {
+          "cs": "Navrhuji dvě úrovně poslechu; nejde o požadavek všech účastníků.",
+          "zh": "我建议双层听取，不是全体参与者已提出的要求。"
+        }
+      ],
+      "pitfalls": [
+        "不要把课程完成数等同C2认证。"
+      ],
+      "exceptions": [
+        "有外部评审时可以加入，但需具体记录谁何时评什么。"
+      ],
+      "term": "sebereflexe výkonu"
+    }
+  ],
+  "vocabulary": [
+    {
+      "lemma": "dramaturg",
+      "pos": "名词，阳性有生",
+      "forms": "dramaturga; dramaturgové",
+      "meaning_zh": "节目/内容构作人员",
+      "collocation": "návrh dramaturga",
+      "example_cs": "Dramaturg navrhl kratší verzi.",
+      "example_zh": "内容构作人员提短版。",
+      "confusion_zh": "不是此题里的戏剧演员"
+    },
+    {
+      "lemma": "úryvek",
+      "pos": "名词，阳性无生",
+      "forms": "úryvku; úryvky",
+      "meaning_zh": "节选",
+      "collocation": "zachovat kontext úryvku",
+      "example_cs": "Úryvek mění dojem podle okolí.",
+      "example_zh": "节选效果依上下文。",
+      "confusion_zh": "短不等于意义完整"
+    },
+    {
+      "lemma": "zprostředkování",
+      "pos": "名词，中性",
+      "forms": "zprostředkování",
+      "meaning_zh": "中介、转呈",
+      "collocation": "redakční zprostředkování",
+      "example_cs": "Výběr je formou zprostředkování.",
+      "example_zh": "选择本身是一种中介。",
+      "confusion_zh": "不必然造假"
+    },
+    {
+      "lemma": "osobitý",
+      "pos": "形容词",
+      "forms": "osobitá; osobité",
+      "meaning_zh": "有独特性的",
+      "collocation": "osobitý hlas",
+      "example_cs": "Pochybnost tvoří osobitý hlas.",
+      "example_zh": "疑虑构成独特声音。",
+      "confusion_zh": "非单纯离奇"
+    },
+    {
+      "lemma": "pestrost",
+      "pos": "名词，阴性",
+      "forms": "pestrosti",
+      "meaning_zh": "多样性",
+      "collocation": "pestrost zkušeností",
+      "example_cs": "Výběr omezuje pestrost zkušeností.",
+      "example_zh": "筛选限制经验多样性。",
+      "confusion_zh": "不等于代表性已充分"
+    }
+  ],
+  "listening": {
+    "script": [
+      {
+        "cs": "Dramaturg: Necháme první větu, ta je nejsilnější. Redaktorka: Jenže hned potom ji mluvčí omezí. Bez toho bude znít, jako by si byl naprosto jistý. Koordinátorka: Zkusme kratší úryvek, ale s obratem; dlouhou verzi nabídneme zvlášť.",
+        "zh": "构作想留最强首句，编辑指出后文有限定，删掉会装作完全确定；协调者提保转折短版加另供长版。"
+      }
+    ],
+    "focus_zh": "先不看文字听完整段，再按转折、说话者立场和结论做笔记；第二遍核对遗漏。此为原创听力脚本，是否具备真人/合成音频以媒体清单为准。",
+    "source": "original"
+  },
+  "pronunciation": {
+    "focus_zh": "同一段先当公共陈述再当自我怀疑读，对比语调怎样改变理解；应保留文字中 skutečně/jenže 的明确关系。",
+    "contrast": [
+      {
+        "a": "To jsem neřekl.",
+        "b": "To jsem neřekl já.",
+        "note_zh": "后句把对比焦点放在“我”；重音与上下文一起决定纠正什么。不要把中文每字等重的节奏套入捷语。"
+      }
+    ],
+    "task_zh": "选主文本中一段，标出意义组；先清楚跟读，再用自然节奏录制。回听检查元音长短、词重音、意群停顿和可懂度。不要为追求速度吞掉关键词。"
+  },
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "展览标题为何不能证明代表所有居民？",
+      "stimulus_cs": "",
+      "answer": "a",
+      "explanation_zh": "选择边界与代表性不同。",
+      "skill_ids": [
+        "reading"
+      ],
+      "knowledge_points": [
+        "c2-integrated-mediation",
+        "c2-self-audit-evidence"
+      ],
+      "error_category": "comprehension",
+      "options": [
+        {
+          "id": "a",
+          "text": "来源主要既有合作社团，选择有限"
+        },
+        {
+          "id": "b",
+          "text": "声音永远不能代表经验"
+        },
+        {
+          "id": "c",
+          "text": "所有社团都没价值"
+        }
+      ],
+      "scoring_basis": "封闭题以答案核对；解析说明本题边界。",
+      "id": "C2-U12-L01-E01"
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "剪掉回忆后半段改变了什么？",
+      "stimulus_cs": "",
+      "answer": "b",
+      "explanation_zh": "思想转折是主内容。",
+      "skill_ids": [
+        "reading"
+      ],
+      "knowledge_points": [
+        "c2-integrated-mediation",
+        "c2-self-audit-evidence"
+      ],
+      "error_category": "comprehension",
+      "options": [
+        {
+          "id": "a",
+          "text": "仅缩短时长"
+        },
+        {
+          "id": "b",
+          "text": "把自我限定改成确定判断"
+        },
+        {
+          "id": "c",
+          "text": "把肯定改成全面否定"
+        }
+      ],
+      "scoring_basis": "封闭题以答案核对；解析说明本题边界。",
+      "id": "C2-U12-L01-E02"
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "填“他们自己的回忆”的复数第二格。",
+      "stimulus_cs": "Přesnost vlastních ___. (vzpomínka)",
+      "answer": "vzpomínek",
+      "explanation_zh": "vzpomínka 第二格复数 vzpomínek。",
+      "skill_ids": [
+        "writing"
+      ],
+      "knowledge_points": [
+        "c2-integrated-mediation",
+        "c2-self-audit-evidence"
+      ],
+      "error_category": "inflection",
+      "accepted_answers": [
+        "vzpomínek"
+      ],
+      "scoring_basis": "封闭题以答案核对；解析说明本题边界。",
+      "id": "C2-U12-L01-E03"
+    },
+    {
+      "type": "correct",
+      "prompt_zh": "修正复数主谓一致。",
+      "stimulus_cs": "Výběr a střih je zprostředkováním.",
+      "answer": "Výběr a střih jsou zprostředkováním.",
+      "explanation_zh": "两个并列主语通常复数谓语。",
+      "skill_ids": [
+        "writing"
+      ],
+      "knowledge_points": [
+        "c2-integrated-mediation",
+        "c2-self-audit-evidence"
+      ],
+      "error_category": "inflection",
+      "accepted_answers": [
+        "Výběr a střih jsou zprostředkováním."
+      ],
+      "scoring_basis": "封闭题以答案核对；解析说明本题边界。",
+      "id": "C2-U12-L01-E04"
+    },
+    {
+      "type": "order",
+      "prompt_zh": "保留双层关系。",
+      "stimulus_cs": "ale pochybuje o přesnosti vzpomínky. / Mluvčí připouští ztrátu,",
+      "answer": "Mluvčí připouští ztrátu, ale pochybuje o přesnosti vzpomínky.",
+      "explanation_zh": "承认损失与怀疑回忆并存。",
+      "skill_ids": [
+        "writing"
+      ],
+      "knowledge_points": [
+        "c2-integrated-mediation",
+        "c2-self-audit-evidence"
+      ],
+      "error_category": "word_order",
+      "options": [
+        "ale pochybuje o přesnosti vzpomínky.",
+        "Mluvčí připouští ztrátu,"
+      ],
+      "accepted_answers": [
+        "Mluvčí připouští ztrátu, ale pochybuje o přesnosti vzpomínky."
+      ],
+      "scoring_basis": "封闭题以答案核对；解析说明本题边界。",
+      "id": "C2-U12-L01-E05"
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "听力中折中方案是什么？",
+      "stimulus_cs": "",
+      "answer": "c",
+      "explanation_zh": "有限长度与意义完整性兼顾。",
+      "skill_ids": [
+        "listening"
+      ],
+      "knowledge_points": [
+        "c2-integrated-mediation",
+        "c2-self-audit-evidence"
+      ],
+      "error_category": "comprehension",
+      "options": [
+        {
+          "id": "a",
+          "text": "只留最强句"
+        },
+        {
+          "id": "b",
+          "text": "只保留全部原录音不可访问"
+        },
+        {
+          "id": "c",
+          "text": "保留转折短版并另给长版"
+        }
+      ],
+      "scoring_basis": "封闭题以答案核对；解析说明本题边界。",
+      "audio_text_cs": "Zkusme kratší úryvek, ale zachovejme obrat. Dlouhou verzi nabídneme zvlášť.",
+      "id": "C2-U12-L01-E06"
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "写150词证据摘要，分四份材料的独立作用。",
+      "stimulus_cs": "",
+      "answer": "Návrh vymezuje cíl i omezení výběru. Dopis ukazuje nesoulad očekávaného použití. Technická poznámka odhaluje riziko střihu. Vzpomínka obsahuje vlastní korekci, kterou je nutné zachovat.",
+      "explanation_zh": "不把不同来源混成一人立场。",
+      "skill_ids": [
+        "writing"
+      ],
+      "knowledge_points": [
+        "c2-integrated-mediation",
+        "c2-self-audit-evidence"
+      ],
+      "error_category": "comprehension",
+      "rubric": [
+        "回应具体任务，信息不失真",
+        "逻辑有衔接，能说明证据与限制",
+        "语法与搭配基本准确，语域适合对象",
+        "能自主组织语言而非照读范文"
+      ],
+      "scoring_basis": "开放表达：示范不是唯一答案；依量规自评或人工评阅，未接受人工评阅时不自动判定能力达标。",
+      "id": "C2-U12-L01-E07"
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "用四分钟向策展团队提出方案，主动说明一项代价与更新条件。",
+      "stimulus_cs": "",
+      "answer": "Navrhuji dvě vrstvy poslechu a kontrolu každého úryvku v kontextu. Zvýší to redakční práci, ale sníží riziko významového zkreslení. Pokud krátká verze obrat neudrží, musí být zvolena jiná pasáž.",
+      "explanation_zh": "论证、限定、行动都需具体。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "knowledge_points": [
+        "c2-integrated-mediation",
+        "c2-self-audit-evidence"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "回应具体任务，信息不失真",
+        "逻辑有衔接，能说明证据与限制",
+        "语法与搭配基本准确，语域适合对象",
+        "能自主组织语言而非照读范文"
+      ],
+      "scoring_basis": "开放表达：示范不是唯一答案；依量规自评或人工评阅，未接受人工评阅时不自动判定能力达标。",
+      "id": "C2-U12-L01-E08"
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "参与者担心被剪成指控；先确认再协商，不代她同意。",
+      "stimulus_cs": "",
+      "answer": "Která část podle vás mění účinek vzpomínky nebo umožňuje někoho poznat? Projděme úryvek v kontextu a dohodněme konkrétní způsob uvedení před použitím.",
+      "explanation_zh": "不能说“你已同意所以没办法”。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "knowledge_points": [
+        "c2-integrated-mediation",
+        "c2-self-audit-evidence"
+      ],
+      "error_category": "comprehension",
+      "rubric": [
+        "回应具体任务，信息不失真",
+        "逻辑有衔接，能说明证据与限制",
+        "语法与搭配基本准确，语域适合对象",
+        "能自主组织语言而非照读范文"
+      ],
+      "scoring_basis": "开放表达：示范不是唯一答案；依量规自评或人工评阅，未接受人工评阅时不自动判定能力达标。",
+      "id": "C2-U12-L01-E09"
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "向普通观众用100词解释展览的编辑方式。",
+      "stimulus_cs": "",
+      "answer": "Nahrávky představují vybrané osobní zkušenosti. Kratší úryvky zachovávají podstatné obraty a u každého je dostupné vysvětlení kontextu; nejde o úplný hlas celého města.",
+      "explanation_zh": "清楚但不塞技术细节。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "knowledge_points": [
+        "c2-integrated-mediation",
+        "c2-self-audit-evidence"
+      ],
+      "error_category": "comprehension",
+      "rubric": [
+        "回应具体任务，信息不失真",
+        "逻辑有衔接，能说明证据与限制",
+        "语法与搭配基本准确，语域适合对象",
+        "能自主组织语言而非照读范文"
+      ],
+      "scoring_basis": "开放表达：示范不是唯一答案；依量规自评或人工评阅，未接受人工评阅时不自动判定能力达标。",
+      "id": "C2-U12-L01-E10"
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "写350–450词内部建议并另写80词公众介绍，标出两版相同事实。",
+      "stimulus_cs": "",
+      "answer": "Interně je třeba popsat výběr, ověření významu a otevřené námitky. Veřejná verze vysvětlí, co návštěvník uslyší a jak byly příspěvky upraveny, aniž by slibovala úplnou reprezentativnost.",
+      "explanation_zh": "两文体各自完整，事实边界一致。",
+      "skill_ids": [
+        "writing"
+      ],
+      "knowledge_points": [
+        "c2-integrated-mediation",
+        "c2-self-audit-evidence"
+      ],
+      "error_category": "comprehension",
+      "rubric": [
+        "回应具体任务，信息不失真",
+        "逻辑有衔接，能说明证据与限制",
+        "语法与搭配基本准确，语域适合对象",
+        "能自主组织语言而非照读范文"
+      ],
+      "scoring_basis": "开放表达：示范不是唯一答案；依量规自评或人工评阅，未接受人工评阅时不自动判定能力达标。",
+      "id": "C2-U12-L01-E11"
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "完成后录自评：分别给听、说、读、写、互动、转述一项具体证据和缺口。",
+      "stimulus_cs": "",
+      "answer": "V četbě jsem zachoval omezení mluvčího. Při spontánní reakci jsem však zaměnil možnost za potvrzení a musel jsem se opravit. Tuto dovednost potřebuji ověřit v dalším novém rozhovoru.",
+      "explanation_zh": "不要给自己无分母掌握率；列观察表现与后续任务。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "knowledge_points": [
+        "c2-integrated-mediation",
+        "c2-self-audit-evidence"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "回应具体任务，信息不失真",
+        "逻辑有衔接，能说明证据与限制",
+        "语法与搭配基本准确，语域适合对象",
+        "能自主组织语言而非照读范文"
+      ],
+      "scoring_basis": "开放表达：示范不是唯一答案；依量规自评或人工评阅，未接受人工评阅时不自动判定能力达标。",
+      "id": "C2-U12-L01-E12"
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "先听完整材料。第一版为什么不能对外宣称代表了全体居民？",
+      "options": [
+        {
+          "id": "a",
+          "text": "录音短，因此每个人的观点必然都被扭曲。"
+        },
+        {
+          "id": "b",
+          "text": "首批主要来自已有合作社团，样本来源限制了声音的多样性。"
+        },
+        {
+          "id": "c",
+          "text": "因为参与者要求匿名，所有人都不愿公开讲述。"
+        },
+        {
+          "id": "d",
+          "text": "因为主办方决定只保留一个统一版本的城市历史。"
+        }
+      ],
+      "answer": "b",
+      "explanation_zh": "关系词是 především 和 zároveň：主要通过现有社团获得材料，同时存在范围限制。材料没有说所有录音都失真，也没有宣布所有参与者反对公开。",
+      "skill_ids": [
+        "listening"
+      ],
+      "knowledge_points": [
+        "c2-integrated-mediation",
+        "c2-self-audit-evidence"
+      ],
+      "error_category": "comprehension",
+      "scoring_basis": "只判这道材料理解题；不据六题得分推断整个C2等级。打开原文、译文或答案后提交的记录标为参考辅助。",
+      "id": "C2-U12-L01-E13",
+      "stimulus_cs": ""
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "来信者最初理解的用途与后来得知的用途有什么差别？团队实际怎样回应？",
+      "options": [
+        {
+          "id": "a",
+          "text": "她最初拒绝录音，后来被告知已经出售；团队决定退款。"
+        },
+        {
+          "id": "b",
+          "text": "她最初同意公开指控邻居，后来要求隐藏名字；团队确认已匿名。"
+        },
+        {
+          "id": "c",
+          "text": "她最初同意任何公开播放，后来反悔；团队拒绝重谈。"
+        },
+        {
+          "id": "d",
+          "text": "她原以为存档后按需收听，后来得知可能公开展厅播放；团队比较原约定与新用途，并提出讨论具体片段。"
+        }
+      ],
+      "answer": "d",
+      "explanation_zh": "把第2段的请求与第6段的回应连起来听。může 是可能的用途，nabídl projednání 是提出讨论，都不是已经完成公开授权。",
+      "skill_ids": [
+        "listening"
+      ],
+      "knowledge_points": [
+        "c2-integrated-mediation",
+        "c2-self-audit-evidence"
+      ],
+      "error_category": "comprehension",
+      "scoring_basis": "只判这道材料理解题；不据六题得分推断整个C2等级。打开原文、译文或答案后提交的记录标为参考辅助。",
+      "id": "C2-U12-L01-E14",
+      "stimulus_cs": ""
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "技术检查为什么认为“每个保留的词都抄对了”仍不足以证明剪辑忠实？",
+      "options": [
+        {
+          "id": "a",
+          "text": "删掉了限制最初判断的中间话语，可能改变句子关系和确定程度。"
+        },
+        {
+          "id": "b",
+          "text": "因为转写从来不能用于核对口语。"
+        },
+        {
+          "id": "c",
+          "text": "因为只要删掉一段停顿，所有剩余内容就会变假。"
+        },
+        {
+          "id": "d",
+          "text": "因为录音设备把所有否定词都漏录了。"
+        }
+      ],
+      "answer": "a",
+      "explanation_zh": "关键是 následně omezil：说话者后来限制了自己的原判断。词还对，限制关系却可能丢掉。不能把这一具体问题泛化为所有剪辑和转写都无效。",
+      "skill_ids": [
+        "listening"
+      ],
+      "knowledge_points": [
+        "c2-integrated-mediation",
+        "c2-self-audit-evidence"
+      ],
+      "error_category": "comprehension",
+      "scoring_basis": "只判这道材料理解题；不据六题得分推断整个C2等级。打开原文、译文或答案后提交的记录标为参考辅助。",
+      "id": "C2-U12-L01-E15",
+      "stimulus_cs": ""
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "街道回忆中，橱窗、水桶和行人的细节合在一起，支持哪一种理解？",
+      "options": [
+        {
+          "id": "a",
+          "text": "街道完全没有变化，所有损失都是虚构的。"
+        },
+        {
+          "id": "b",
+          "text": "旧橱窗恢复了，所以说话者撤回了全部回忆。"
+        },
+        {
+          "id": "c",
+          "text": "说话者保留真实损失的可能，同时怀疑自己选择观察和重构记忆的方式。"
+        },
+        {
+          "id": "d",
+          "text": "说话者已经证明，全体居民与他具有相同记忆。"
+        }
+      ],
+      "answer": "c",
+      "explanation_zh": "要同时留下 Možná、Nechci tím říci 和 nejsem jistý 三层。听到怀疑记忆就认定“没有实际变化”，仍然抹掉了说话者特意保留的边界。",
+      "skill_ids": [
+        "listening"
+      ],
+      "knowledge_points": [
+        "c2-integrated-mediation",
+        "c2-self-audit-evidence"
+      ],
+      "error_category": "comprehension",
+      "scoring_basis": "只判这道材料理解题；不据六题得分推断整个C2等级。打开原文、译文或答案后提交的记录标为参考辅助。",
+      "id": "C2-U12-L01-E16",
+      "stimulus_cs": ""
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "构作人员与编辑争论之后，协调员的提议保留了双方的哪两项关切？",
+      "options": [
+        {
+          "id": "a",
+          "text": "让最响亮的人定稿，同时把其余材料销毁。"
+        },
+        {
+          "id": "b",
+          "text": "保留参观者可在短时间内收听的版本，也保留原话的转折，并提供较长版本。"
+        },
+        {
+          "id": "c",
+          "text": "要求每位参观者必须把所有原录音听完，取消短版。"
+        },
+        {
+          "id": "d",
+          "text": "只保留最强烈首句，让展览意见保持一致。"
+        }
+      ],
+      "answer": "b",
+      "explanation_zh": "把第5段的问题与第6段的方案连接：短不等于只留强句，完整也不等于只能全长播放。关键 obrat 是认识或论证的转折。",
+      "skill_ids": [
+        "listening"
+      ],
+      "knowledge_points": [
+        "c2-integrated-mediation",
+        "c2-self-audit-evidence"
+      ],
+      "error_category": "comprehension",
+      "scoring_basis": "只判这道材料理解题；不据六题得分推断整个C2等级。打开原文、译文或答案后提交的记录标为参考辅助。",
+      "id": "C2-U12-L01-E17",
+      "stimulus_cs": ""
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "最后两段希望项目介绍和学习者建议分别做到什么？",
+      "options": [
+        {
+          "id": "a",
+          "text": "只要写得简短，就可以不说明选材和剪辑。"
+        },
+        {
+          "id": "b",
+          "text": "宣布所有人已经同意，并用统一口径抹平内部分歧。"
+        },
+        {
+          "id": "c",
+          "text": "用专家身份保证自己的安排唯一正确，避免以后改口。"
+        },
+        {
+          "id": "d",
+          "text": "向公众说明选材与编辑、保留重要矛盾；提出建议时说明价值前提、依据和会使自己改变立场的条件。"
+        }
+      ],
+      "answer": "d",
+      "explanation_zh": "第7段处理怎样对公众诚实说明，第8段处理怎样检查自己的建议。不是找唯一模板，而是把来源、推断和选择分别讲清楚。",
+      "skill_ids": [
+        "listening"
+      ],
+      "knowledge_points": [
+        "c2-integrated-mediation",
+        "c2-self-audit-evidence"
+      ],
+      "error_category": "comprehension",
+      "scoring_basis": "只判这道材料理解题；不据六题得分推断整个C2等级。打开原文、译文或答案后提交的记录标为参考辅助。",
+      "id": "C2-U12-L01-E18",
+      "stimulus_cs": ""
+    },
+    {
+      "id": "C2-U12-L01-E19",
+      "type": "mediation",
+      "prompt_zh": "不再看原文，用捷语写或录一段公众说明：说明展览呈现什么、为什么不能代表全部居民、短版怎样处理转折、参与者来信带来什么待核对事项。最后用中文指出你最容易夸大的一个地方。 建议捷语120–170词，第一次独立表达后再查看示范。",
+      "stimulus_cs": "",
+      "answer": "Výstava Hlasy města představuje osobní vzpomínky lidí, kteří ve městě žijí nebo pracují. První nahrávky vznikly hlavně díky spolupráci s místními spolky, proto nejde o hlas všech obyvatel. Výběr a střih mají návštěvníkům usnadnit poslech, nesmějí však změnit pochybnost mluvčího v jednoznačný soud. Tým proto navrhuje krátké úryvky se zachovaným myšlenkovým obratem a možnost poslechnout si delší verzi. U jedné účastnice se ukázalo, že původně očekávala uložení v archivu, nikoli přehrávání ve veřejném sále. Obává se také, že podle uvedeného místa může být poznán její bývalý soused. Tým porovnal původní dohodu s navrhovaným použitím a nabídl další projednání; nové schválení z podkladů nevyplývá. U nahrávek má být vysvětlen jejich původ i způsob úprav. Návštěvník tak může sledovat jednotlivý příběh, aniž by jej považoval za nezprostředkovaný obraz celé společnosti.",
+      "explanation_zh": "“城市之声”展览呈现在这座城市生活或工作的人的个人回忆。第一批录音主要通过当地社团合作获得，因此不代表全体居民的声音。选材和剪辑应让参观者更方便收听，但不能把说话者的疑虑改成明确断言。团队因此提出保留思想转折的短片段，并提供较长版本供继续收听。有一位参与者原先期待的是存档，而不是公开展厅播放；她也担心，录音提到的地点可能让以前的邻居被认出。团队比较了原约定和新用途，并提出进一步讨论；材料并未给出重新批准的结果。录音的来源及处理方式也应得到说明。这样，参观者能够了解一个个人故事，同时不把它看成整个社会未经中介处理的全景。",
+      "skill_ids": [
+        "listening",
+        "mediation"
+      ],
+      "knowledge_points": [
+        "c2-integrated-mediation",
+        "c2-self-audit-evidence"
+      ],
+      "error_category": "comprehension",
+      "rubric": [
+        "四项信息完整：做到—目标、范围、剪辑办法、来信待核对事项四项都有，并准确相连。 部分做到—主线对，但遗漏其中一项。 需要再练—漏两项以上，或把城市全景/授权状态说错。",
+        "确定程度与声音：做到—清楚区分讲述者的回忆、团队提议和已经采取的动作。 部分做到—多数分清，仍有一句把建议说成已实施。 需要再练—反复把推测或提议变成确定事实。",
+        "适合公众的捷语：做到—无需内部段号即可听懂；用自己的连贯句子，说明转折与原因。 部分做到—基本可理解，但多为原句拼接或指代不清。 需要再练—仅念词表、整段照读，或关键关系无法理解。"
+      ],
+      "scoring_basis": "开放转述；示范不是唯一答案，不以字符串命中评分。按三项量规对照信息完整性、确定程度和面向公众的表达。看过原文/译文/答案后保留为辅助练习，不自动宣称C2达标。"
+    }
+  ],
+  "transfer_task": {
+    "prompt_zh": "以全新材料再完成一次多模态项目。保留原稿、修改理由、录音和量规自评，邀请合格教师评阅后才加入外部判定。",
+    "model_answer_cs": "Své výkony doložím odděleně podle dovedností; dokončení projektu nepřevádím na oficiální certifikaci.",
+    "rubric": [
+      "保留事实与不确定性",
+      "根据新对象改换表达",
+      "解释选择并提出可执行下一步"
+    ]
+  },
+  "review_links": [
+    "C2-U11-L01"
+  ],
+  "sources": [
+    {
+      "source_id": "LANG01",
+      "url": "https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions",
+      "scope": "高阶理解、表达、互动与转述能力框架；不是官方捷语语法课序",
+      "verification": "2026-10-22访问能力框架；本课语篇、练习与课序为原创编排"
+    },
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/",
+      "scope": "规范语法、搭配与发音检查依据，具体查阅范围见advanced-verification.md",
+      "verification": "核对关键规则；原创全文尚未经母语教师逐句审校"
+    }
+  ],
+  "content_status": "authored_crosschecked_not_native_reviewed",
+  "quality_notes": [
+    "原创情境中的机构、调查与数字仅为语言练习设定，不是真实新闻、行业统计或政策。",
+    "母语教师审校、长篇真实口音听力及标准化难度试测尚未进行。"
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "full",
+      "index": 0,
+      "text": "Kurátorský návrh: Výstava Hlasy města má zpřístupnit krátké zvukové vzpomínky lidí, kteří v různých částech města žijí nebo pracují. Nechceme vytvářet jeden jednotný příběh, nýbrž umožnit návštěvníkům porovnat odlišné zkušenosti téhož prostoru. Pro první verzi byly osloveny především místní spolky, které již s galerií spolupracují. Tato cesta usnadnila přípravu, zároveň však omezuje pestrost získaných hlasů. Název výstavy proto nesmí být vykládán jako tvrzení, že představuje všechny obyvatele nebo úplný obraz současného městského života. Dopis účastnice: Když jsem vzpomínku nahrávala, rozuměla jsem tomu tak, že bude uložena v archivu a zájemce si ji poslechne na požádání. Teď jsem se dozvěděla, že úryvek může znít ve veřejném sále. Nejsem proti výstavě, ale v nahrávce jmenuji místo, podle něhož by mohl být poznán můj bývalý soused. Nechci, aby moje osobní vzpomínka působila jako veřejné obvinění někoho, kdo u rozhovoru nebyl. Prosím, abychom před použitím úryvku znovu projednali jeho rozsah a způsob uvedení. Technická poznámka: U některých záznamů byly odstraněny delší pauzy a části, které se netýkaly tématu. Přepis byl upraven do snadněji čitelné podoby, přičemž nebyl záměr měnit význam. Kontrola však odhalila případ, kdy po vystřižení mezivěty nebylo zřejmé, že mluvčí původní tvrzení následně omezil. Před zveřejněním je proto nutné porovnat každý použitý úryvek s celým okolním úsekem. Samotná shoda jednotlivých slov s přepisem nezaručuje zachování jejich vztahu ani skutečné míry jistoty, s níž byla vzpomínka vyslovena. Krátká vzpomínka z připravované výstavy: Naše ulice se prý od té doby úplně změnila. Když to říkám, vidím hlavně výlohy, které už nepoznávám. Jenže paní z rohu pořád staví ráno kbelík před dveře a stejný muž se mu každý den vyhne, jako by ho viděl poprvé. Možná se ulice mění méně než způsob, jakým si vybírám, čeho si všimnu. Nechci tím říci, že se nic neztratilo. Jen si nejsem jistý, zda všechno, co mi chybí, někdy existovalo přesně tak, jak o tom dnes vyprávím. Na přípravném setkání dramaturg navrhl použít z této vzpomínky jen první větu a obrazy nových výloh. V krátkém prostoru by podle něj jasněji vyznělo téma proměny. Jazyková redaktorka namítla, že by tak zmizela právě pochybnost, která dává řeči její osobitý charakter. Nešlo pouze o délku záznamu. Z váhavé osobní úvahy by vznikl rozhodný soud o městě. Dramaturg uznal rozdíl, ale upozornil na omezený čas návštěvníka. Skutečnou otázkou bylo, jak zachovat vnitřní pohyb myšlenky i v kratší podobě, nikoli která profese má automaticky poslední slovo. Koordinátorka navrhla dvě úrovně poslechu: krátký úryvek se zachovaným obratem a možnost navázat delší verzí. U každé nahrávky má být zřejmé, kdo mluví, v jakém kontextu vzpomínka vznikla a jak byla upravena. Účastnici, která upozornila na rozpoznatelného souseda, tým neodpověděl univerzální větou, že přece původně souhlasila. Nejprve porovnal původní dohodu s navrhovaným použitím a nabídl projednání konkrétního úryvku. Právní otázky by vyžadovaly odpovídající odborné posouzení; v této jazykové úloze je rozhodující nepředstírat shodu tam, kde účastníci popisují jiná očekávání. Představení projektu veřejnosti potřebovalo jiný jazyk než interní poznámky. Nemělo slibovat autentický hlas každého člověka, protože výběr i střih jsou zprostředkováním. Mohlo však vysvětlit, jak projekt s touto skutečností zachází: zveřejňuje princip výběru, zachovává podstatné rozpory uvnitř vyprávění a dává účastníkům možnost upřesnit způsob uvedení jejich příspěvku. Takové vysvětlení nepovažuje návštěvníka za někoho, koho složitost musí odradit. Nabízí mu dost orientace, aby mohl slyšet osobní příběh a současně rozpoznat, že výstava není nezpracovaným otiskem celé společnosti. Závěrečný úkol nespočívá v obhajobě jediného správného uspořádání výstavy. Účastník má z podkladů sestavit doporučení, označit jeho hodnotové předpoklady a vysvětlit, co by jej přimělo změnit stanovisko. Musí zachytit nepřímý význam vzpomínky, přesně převyprávět námitku, reagovat na časový tlak a vytvořit dvě jazykové verze pro odlišné publikum. Potom své řešení sám reviduje: kde přidal jistotu, kterou zdroj neměl, kde zaměnil svůj úsudek za cizí hlas a kde naopak zbytečnou opatrností zakryl jasně doložený problém. Výsledkem je soubor pozorovatelných výkonů, nikoli slavnostní nálepka hotové jazykové dokonalosti.",
+      "duration_seconds": 399.26326530612243,
+      "slow_duration_seconds": 451.62426303854875,
+      "sha256": "0544c008a71a715bc18e859527277f375d5cf2f11530298593c04a0a3d3ad0cc",
+      "slow_sha256": "8d776c19e6c84472a1a9c57d7a56fc3ec1f4898840082ca47997badc3fb0a1fa"
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--p0",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Kurátorský návrh: Výstava Hlasy města má zpřístupnit krátké zvukové vzpomínky lidí, kteří v různých částech města žijí nebo pracují. Nechceme vytvářet jeden jednotný příběh, nýbrž umožnit návštěvníkům porovnat odlišné zkušenosti téhož prostoru. Pro první verzi byly osloveny především místní spolky, které již s galerií spolupracují. Tato cesta usnadnila přípravu, zároveň však omezuje pestrost získaných hlasů. Název výstavy proto nesmí být vykládán jako tvrzení, že představuje všechny obyvatele nebo úplný obraz současného městského života.",
+      "start": 0,
+      "end": 50.608072562358274,
+      "slow_start": 0,
+      "slow_end": 57.52761904761905
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--s0",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Kurátorský návrh: Výstava Hlasy města má zpřístupnit krátké zvukové vzpomínky lidí, kteří v různých částech města žijí nebo pracují.",
+      "start": 0,
+      "end": 12.236916099773243,
+      "slow_start": 0,
+      "slow_end": 13.978412698412699
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--s1",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Nechceme vytvářet jeden jednotný příběh, nýbrž umožnit návštěvníkům porovnat odlišné zkušenosti téhož prostoru.",
+      "start": 12.416916099773243,
+      "end": 22.134467120181405,
+      "slow_start": 14.158412698412699,
+      "slow_end": 25.51297052154195
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--s2",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Pro první verzi byly osloveny především místní spolky, které již s galerií spolupracují.",
+      "start": 22.314467120181405,
+      "end": 29.640362811791384,
+      "slow_start": 25.69297052154195,
+      "slow_end": 33.93605442176871
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--s3",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text_sentence",
+      "index": 3,
+      "paragraph_index": 0,
+      "sentence_index": 3,
+      "text": "Tato cesta usnadnila přípravu, zároveň však omezuje pestrost získaných hlasů.",
+      "start": 29.820362811791384,
+      "end": 36.890839002267576,
+      "slow_start": 34.11605442176871,
+      "slow_end": 42.022448979591836
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--s4",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text_sentence",
+      "index": 4,
+      "paragraph_index": 0,
+      "sentence_index": 4,
+      "text": "Název výstavy proto nesmí být vykládán jako tvrzení, že představuje všechny obyvatele nebo úplný obraz současného městského života.",
+      "start": 37.070839002267576,
+      "end": 50.608072562358274,
+      "slow_start": 42.202448979591836,
+      "slow_end": 57.52761904761905
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--p1",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Dopis účastnice: Když jsem vzpomínku nahrávala, rozuměla jsem tomu tak, že bude uložena v archivu a zájemce si ji poslechne na požádání. Teď jsem se dozvěděla, že úryvek může znít ve veřejném sále. Nejsem proti výstavě, ale v nahrávce jmenuji místo, podle něhož by mohl být poznán můj bývalý soused. Nechci, aby moje osobní vzpomínka působila jako veřejné obvinění někoho, kdo u rozhovoru nebyl. Prosím, abychom před použitím úryvku znovu projednali jeho rozsah a způsob uvedení.",
+      "start": 50.78807256235827,
+      "end": 94.82489795918367,
+      "slow_start": 57.70761904761905,
+      "slow_end": 107.60748299319728
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--s5",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text_sentence",
+      "index": 5,
+      "paragraph_index": 1,
+      "sentence_index": 0,
+      "text": "Dopis účastnice: Když jsem vzpomínku nahrávala, rozuměla jsem tomu tak, že bude uložena v archivu a zájemce si ji poslechne na požádání.",
+      "start": 50.78807256235827,
+      "end": 63.384897959183675,
+      "slow_start": 57.70761904761905,
+      "slow_end": 72.56839002267574
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--s6",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text_sentence",
+      "index": 6,
+      "paragraph_index": 1,
+      "sentence_index": 1,
+      "text": "Teď jsem se dozvěděla, že úryvek může znít ve veřejném sále.",
+      "start": 63.564897959183675,
+      "end": 68.9287074829932,
+      "slow_start": 72.74839002267574,
+      "slow_end": 78.8552380952381
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--s7",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text_sentence",
+      "index": 7,
+      "paragraph_index": 1,
+      "sentence_index": 2,
+      "text": "Nejsem proti výstavě, ale v nahrávce jmenuji místo, podle něhož by mohl být poznán můj bývalý soused.",
+      "start": 69.1087074829932,
+      "end": 78.721768707483,
+      "slow_start": 79.0352380952381,
+      "slow_end": 89.76285714285714
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--s8",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text_sentence",
+      "index": 8,
+      "paragraph_index": 1,
+      "sentence_index": 3,
+      "text": "Nechci, aby moje osobní vzpomínka působila jako veřejné obvinění někoho, kdo u rozhovoru nebyl.",
+      "start": 78.90176870748299,
+      "end": 87.3190022675737,
+      "slow_start": 89.94285714285714,
+      "slow_end": 99.18439909297052
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--s9",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text_sentence",
+      "index": 9,
+      "paragraph_index": 1,
+      "sentence_index": 4,
+      "text": "Prosím, abychom před použitím úryvku znovu projednali jeho rozsah a způsob uvedení.",
+      "start": 87.4990022675737,
+      "end": 94.82489795918367,
+      "slow_start": 99.36439909297052,
+      "slow_end": 107.60748299319728
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--p2",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Technická poznámka: U některých záznamů byly odstraněny delší pauzy a části, které se netýkaly tématu. Přepis byl upraven do snadněji čitelné podoby, přičemž nebyl záměr měnit význam. Kontrola však odhalila případ, kdy po vystřižení mezivěty nebylo zřejmé, že mluvčí původní tvrzení následně omezil. Před zveřejněním je proto nutné porovnat každý použitý úryvek s celým okolním úsekem. Samotná shoda jednotlivých slov s přepisem nezaručuje zachování jejich vztahu ani skutečné míry jistoty, s níž byla vzpomínka vyslovena.",
+      "start": 95.00489795918368,
+      "end": 141.5726984126984,
+      "slow_start": 107.78748299319727,
+      "slow_end": 160.60145124716553
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--s10",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text_sentence",
+      "index": 10,
+      "paragraph_index": 2,
+      "sentence_index": 0,
+      "text": "Technická poznámka: U některých záznamů byly odstraněny delší pauzy a části, které se netýkaly tématu.",
+      "start": 95.00489795918368,
+      "end": 104.66439909297053,
+      "slow_start": 107.78748299319727,
+      "slow_end": 118.7124716553288
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--s11",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text_sentence",
+      "index": 11,
+      "paragraph_index": 2,
+      "sentence_index": 1,
+      "text": "Přepis byl upraven do snadněji čitelné podoby, přičemž nebyl záměr měnit význam.",
+      "start": 104.84439909297052,
+      "end": 111.9845351473923,
+      "slow_start": 118.8924716553288,
+      "slow_end": 127.01945578231293
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--s12",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text_sentence",
+      "index": 12,
+      "paragraph_index": 2,
+      "sentence_index": 2,
+      "text": "Kontrola však odhalila případ, kdy po vystřižení mezivěty nebylo zřejmé, že mluvčí původní tvrzení následně omezil.",
+      "start": 112.16453514739229,
+      "end": 121.80081632653061,
+      "slow_start": 127.19945578231292,
+      "slow_end": 138.01995464852607
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--s13",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text_sentence",
+      "index": 13,
+      "paragraph_index": 2,
+      "sentence_index": 3,
+      "text": "Před zveřejněním je proto nutné porovnat každý použitý úryvek s celým okolním úsekem.",
+      "start": 121.98081632653061,
+      "end": 129.63179138321996,
+      "slow_start": 138.19995464852607,
+      "slow_end": 146.81455782312926
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--s14",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text_sentence",
+      "index": 14,
+      "paragraph_index": 2,
+      "sentence_index": 4,
+      "text": "Samotná shoda jednotlivých slov s přepisem nezaručuje zachování jejich vztahu ani skutečné míry jistoty, s níž byla vzpomínka vyslovena.",
+      "start": 129.81179138321994,
+      "end": 141.5726984126984,
+      "slow_start": 146.99455782312924,
+      "slow_end": 160.60145124716553
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--p3",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Krátká vzpomínka z připravované výstavy: Naše ulice se prý od té doby úplně změnila. Když to říkám, vidím hlavně výlohy, které už nepoznávám. Jenže paní z rohu pořád staví ráno kbelík před dveře a stejný muž se mu každý den vyhne, jako by ho viděl poprvé. Možná se ulice mění méně než způsob, jakým si vybírám, čeho si všimnu. Nechci tím říci, že se nic neztratilo. Jen si nejsem jistý, zda všechno, co mi chybí, někdy existovalo přesně tak, jak o tom dnes vyprávím.",
+      "start": 141.7526984126984,
+      "end": 183.61269841269842,
+      "slow_start": 160.78145124716553,
+      "slow_end": 207.62213151927438
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--s15",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text_sentence",
+      "index": 15,
+      "paragraph_index": 3,
+      "sentence_index": 0,
+      "text": "Krátká vzpomínka z připravované výstavy: Naše ulice se prý od té doby úplně změnila.",
+      "start": 141.7526984126984,
+      "end": 149.5546031746032,
+      "slow_start": 160.78145124716553,
+      "slow_end": 169.38444444444445
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--s16",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text_sentence",
+      "index": 16,
+      "paragraph_index": 3,
+      "sentence_index": 1,
+      "text": "Když to říkám, vidím hlavně výlohy, které už nepoznávám.",
+      "start": 149.73460317460317,
+      "end": 154.86621315192744,
+      "slow_start": 169.56444444444443,
+      "slow_end": 175.4274829931973
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--s17",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text_sentence",
+      "index": 17,
+      "paragraph_index": 3,
+      "sentence_index": 2,
+      "text": "Jenže paní z rohu pořád staví ráno kbelík před dveře a stejný muž se mu každý den vyhne, jako by ho viděl poprvé.",
+      "start": 155.04621315192745,
+      "end": 164.64766439909297,
+      "slow_start": 175.60748299319727,
+      "slow_end": 186.42798185941044
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--s18",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text_sentence",
+      "index": 18,
+      "paragraph_index": 3,
+      "sentence_index": 3,
+      "text": "Možná se ulice mění méně než způsob, jakým si vybírám, čeho si všimnu.",
+      "start": 164.82766439909298,
+      "end": 171.23637188208616,
+      "slow_start": 186.60798185941044,
+      "slow_end": 193.64362811791383
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--s19",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text_sentence",
+      "index": 19,
+      "paragraph_index": 3,
+      "sentence_index": 4,
+      "text": "Nechci tím říci, že se nic neztratilo.",
+      "start": 171.41637188208617,
+      "end": 174.8877551020408,
+      "slow_start": 193.82362811791384,
+      "slow_end": 197.68975056689342
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--s20",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text_sentence",
+      "index": 20,
+      "paragraph_index": 3,
+      "sentence_index": 5,
+      "text": "Jen si nejsem jistý, zda všechno, co mi chybí, někdy existovalo přesně tak, jak o tom dnes vyprávím.",
+      "start": 175.06775510204082,
+      "end": 183.61269841269842,
+      "slow_start": 197.86975056689343,
+      "slow_end": 207.62213151927438
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--p4",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text",
+      "index": 4,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Na přípravném setkání dramaturg navrhl použít z této vzpomínky jen první větu a obrazy nových výloh. V krátkém prostoru by podle něj jasněji vyznělo téma proměny. Jazyková redaktorka namítla, že by tak zmizela právě pochybnost, která dává řeči její osobitý charakter. Nešlo pouze o délku záznamu. Z váhavé osobní úvahy by vznikl rozhodný soud o městě. Dramaturg uznal rozdíl, ale upozornil na omezený čas návštěvníka. Skutečnou otázkou bylo, jak zachovat vnitřní pohyb myšlenky i v kratší podobě, nikoli která profese má automaticky poslední slovo.",
+      "start": 183.7926984126984,
+      "end": 233.44884353741497,
+      "slow_start": 207.80213151927438,
+      "slow_end": 263.5883446712018
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--s21",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text_sentence",
+      "index": 21,
+      "paragraph_index": 4,
+      "sentence_index": 0,
+      "text": "Na přípravném setkání dramaturg navrhl použít z této vzpomínky jen první větu a obrazy nových výloh.",
+      "start": 183.7926984126984,
+      "end": 192.66272108843538,
+      "slow_start": 207.80213151927438,
+      "slow_end": 217.94925170068026
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--s22",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text_sentence",
+      "index": 22,
+      "paragraph_index": 4,
+      "sentence_index": 1,
+      "text": "V krátkém prostoru by podle něj jasněji vyznělo téma proměny.",
+      "start": 192.84272108843538,
+      "end": 197.99755102040817,
+      "slow_start": 218.12925170068027,
+      "slow_end": 223.6439909297052
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--s23",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text_sentence",
+      "index": 23,
+      "paragraph_index": 4,
+      "sentence_index": 2,
+      "text": "Jazyková redaktorka namítla, že by tak zmizela právě pochybnost, která dává řeči její osobitý charakter.",
+      "start": 198.17755102040817,
+      "end": 207.22172335600908,
+      "slow_start": 223.82399092970522,
+      "slow_end": 234.24975056689343
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--s24",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text_sentence",
+      "index": 24,
+      "paragraph_index": 4,
+      "sentence_index": 3,
+      "text": "Nešlo pouze o délku záznamu.",
+      "start": 207.40172335600906,
+      "end": 210.0952380952381,
+      "slow_start": 234.42975056689343,
+      "slow_end": 237.3902947845805
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--s25",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text_sentence",
+      "index": 25,
+      "paragraph_index": 4,
+      "sentence_index": 4,
+      "text": "Z váhavé osobní úvahy by vznikl rozhodný soud o městě.",
+      "start": 210.2752380952381,
+      "end": 215.32557823129252,
+      "slow_start": 237.5702947845805,
+      "slow_end": 243.27079365079365
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--s26",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text_sentence",
+      "index": 26,
+      "paragraph_index": 4,
+      "sentence_index": 5,
+      "text": "Dramaturg uznal rozdíl, ale upozornil na omezený čas návštěvníka.",
+      "start": 215.5055782312925,
+      "end": 221.49632653061224,
+      "slow_start": 243.45079365079366,
+      "slow_end": 250.1613605442177
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--s27",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text_sentence",
+      "index": 27,
+      "paragraph_index": 4,
+      "sentence_index": 6,
+      "text": "Skutečnou otázkou bylo, jak zachovat vnitřní pohyb myšlenky i v kratší podobě, nikoli která profese má automaticky poslední slovo.",
+      "start": 221.67632653061224,
+      "end": 233.44884353741497,
+      "slow_start": 250.34136054421768,
+      "slow_end": 263.5883446712018
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--p5",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text",
+      "index": 5,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Koordinátorka navrhla dvě úrovně poslechu: krátký úryvek se zachovaným obratem a možnost navázat delší verzí. U každé nahrávky má být zřejmé, kdo mluví, v jakém kontextu vzpomínka vznikla a jak byla upravena. Účastnici, která upozornila na rozpoznatelného souseda, tým neodpověděl univerzální větou, že přece původně souhlasila. Nejprve porovnal původní dohodu s navrhovaným použitím a nabídl projednání konkrétního úryvku. Právní otázky by vyžadovaly odpovídající odborné posouzení; v této jazykové úloze je rozhodující nepředstírat shodu tam, kde účastníci popisují jiná očekávání.",
+      "start": 233.62884353741498,
+      "end": 287.56897959183675,
+      "slow_start": 263.7683446712018,
+      "slow_end": 324.9182766439909
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--s28",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text_sentence",
+      "index": 28,
+      "paragraph_index": 5,
+      "sentence_index": 0,
+      "text": "Koordinátorka navrhla dvě úrovně poslechu: krátký úryvek se zachovaným obratem a možnost navázat delší verzí.",
+      "start": 233.62884353741498,
+      "end": 244.0778231292517,
+      "slow_start": 263.7683446712018,
+      "slow_end": 275.91238095238094
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--s29",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text_sentence",
+      "index": 29,
+      "paragraph_index": 5,
+      "sentence_index": 1,
+      "text": "U každé nahrávky má být zřejmé, kdo mluví, v jakém kontextu vzpomínka vznikla a jak byla upravena.",
+      "start": 244.2578231292517,
+      "end": 252.68666666666667,
+      "slow_start": 276.09238095238095,
+      "slow_end": 285.56612244897957
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--s30",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text_sentence",
+      "index": 30,
+      "paragraph_index": 5,
+      "sentence_index": 2,
+      "text": "Účastnici, která upozornila na rozpoznatelného souseda, tým neodpověděl univerzální větou, že přece původně souhlasila.",
+      "start": 252.86666666666667,
+      "end": 264.0122448979592,
+      "slow_start": 285.7461224489796,
+      "slow_end": 298.5170975056689
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--s31",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text_sentence",
+      "index": 31,
+      "paragraph_index": 5,
+      "sentence_index": 3,
+      "text": "Nejprve porovnal původní dohodu s navrhovaným použitím a nabídl projednání konkrétního úryvku.",
+      "start": 264.1922448979592,
+      "end": 272.6791383219955,
+      "slow_start": 298.6970975056689,
+      "slow_end": 307.98507936507934
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--s32",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text_sentence",
+      "index": 32,
+      "paragraph_index": 5,
+      "sentence_index": 4,
+      "text": "Právní otázky by vyžadovaly odpovídající odborné posouzení; v této jazykové úloze je rozhodující nepředstírat shodu tam, kde účastníci popisují jiná očekávání.",
+      "start": 272.8591383219955,
+      "end": 287.56897959183675,
+      "slow_start": 308.16507936507935,
+      "slow_end": 324.9182766439909
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--p6",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text",
+      "index": 6,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Představení projektu veřejnosti potřebovalo jiný jazyk než interní poznámky. Nemělo slibovat autentický hlas každého člověka, protože výběr i střih jsou zprostředkováním. Mohlo však vysvětlit, jak projekt s touto skutečností zachází: zveřejňuje princip výběru, zachovává podstatné rozpory uvnitř vyprávění a dává účastníkům možnost upřesnit způsob uvedení jejich příspěvku. Takové vysvětlení nepovažuje návštěvníka za někoho, koho složitost musí odradit. Nabízí mu dost orientace, aby mohl slyšet osobní příběh a současně rozpoznat, že výstava není nezpracovaným otiskem celé společnosti.",
+      "start": 287.74897959183676,
+      "end": 342.4321541950113,
+      "slow_start": 325.0982766439909,
+      "slow_end": 386.8287074829932
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--s33",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text_sentence",
+      "index": 33,
+      "paragraph_index": 6,
+      "sentence_index": 0,
+      "text": "Představení projektu veřejnosti potřebovalo jiný jazyk než interní poznámky.",
+      "start": 287.74897959183676,
+      "end": 294.34344671201814,
+      "slow_start": 325.0982766439909,
+      "slow_end": 332.6099319727891
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--s34",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text_sentence",
+      "index": 34,
+      "paragraph_index": 6,
+      "sentence_index": 1,
+      "text": "Nemělo slibovat autentický hlas každého člověka, protože výběr i střih jsou zprostředkováním.",
+      "start": 294.52344671201814,
+      "end": 302.8361904761905,
+      "slow_start": 332.78993197278913,
+      "slow_end": 341.9734240362812
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--s35",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text_sentence",
+      "index": 35,
+      "paragraph_index": 6,
+      "sentence_index": 2,
+      "text": "Mohlo však vysvětlit, jak projekt s touto skutečností zachází: zveřejňuje princip výběru, zachovává podstatné rozpory uvnitř vyprávění a dává účastníkům možnost upřesnit způsob uvedení jejich příspěvku.",
+      "start": 303.0161904761905,
+      "end": 322.5093424036281,
+      "slow_start": 342.1534240362812,
+      "slow_end": 364.39814058956915
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--s36",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text_sentence",
+      "index": 36,
+      "paragraph_index": 6,
+      "sentence_index": 3,
+      "text": "Takové vysvětlení nepovažuje návštěvníka za někoho, koho složitost musí odradit.",
+      "start": 322.68934240362813,
+      "end": 329.701768707483,
+      "slow_start": 364.57814058956916,
+      "slow_end": 372.5425850340136
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--s37",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text_sentence",
+      "index": 37,
+      "paragraph_index": 6,
+      "sentence_index": 4,
+      "text": "Nabízí mu dost orientace, aby mohl slyšet osobní příběh a současně rozpoznat, že výstava není nezpracovaným otiskem celé společnosti.",
+      "start": 329.881768707483,
+      "end": 342.4321541950113,
+      "slow_start": 372.7225850340136,
+      "slow_end": 386.8287074829932
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--p7",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text",
+      "index": 7,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Závěrečný úkol nespočívá v obhajobě jediného správného uspořádání výstavy. Účastník má z podkladů sestavit doporučení, označit jeho hodnotové předpoklady a vysvětlit, co by jej přimělo změnit stanovisko. Musí zachytit nepřímý význam vzpomínky, přesně převyprávět námitku, reagovat na časový tlak a vytvořit dvě jazykové verze pro odlišné publikum. Potom své řešení sám reviduje: kde přidal jistotu, kterou zdroj neměl, kde zaměnil svůj úsudek za cizí hlas a kde naopak zbytečnou opatrností zakryl jasně doložený problém. Výsledkem je soubor pozorovatelných výkonů, nikoli slavnostní nálepka hotové jazykové dokonalosti.",
+      "start": 342.6121541950113,
+      "end": 399.0832653061224,
+      "slow_start": 387.0087074829932,
+      "slow_end": 451.44426303854874
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--s38",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text_sentence",
+      "index": 38,
+      "paragraph_index": 7,
+      "sentence_index": 0,
+      "text": "Závěrečný úkol nespočívá v obhajobě jediného správného uspořádání výstavy.",
+      "start": 342.6121541950113,
+      "end": 349.76390022675736,
+      "slow_start": 387.0087074829932,
+      "slow_end": 394.9963718820862
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--s39",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text_sentence",
+      "index": 39,
+      "paragraph_index": 7,
+      "sentence_index": 1,
+      "text": "Účastník má z podkladů sestavit doporučení, označit jeho hodnotové předpoklady a vysvětlit, co by jej přimělo změnit stanovisko.",
+      "start": 349.94390022675736,
+      "end": 360.91532879818595,
+      "slow_start": 395.1763718820862,
+      "slow_end": 407.8312471655329
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--s40",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text_sentence",
+      "index": 40,
+      "paragraph_index": 7,
+      "sentence_index": 2,
+      "text": "Musí zachytit nepřímý význam vzpomínky, přesně převyprávět námitku, reagovat na časový tlak a vytvořit dvě jazykové verze pro odlišné publikum.",
+      "start": 361.09532879818596,
+      "end": 374.57451247165534,
+      "slow_start": 408.0112471655329,
+      "slow_end": 423.53378684807257
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--s41",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text_sentence",
+      "index": 41,
+      "paragraph_index": 7,
+      "sentence_index": 3,
+      "text": "Potom své řešení sám reviduje: kde přidal jistotu, kterou zdroj neměl, kde zaměnil svůj úsudek za cizí hlas a kde naopak zbytečnou opatrností zakryl jasně doložený problém.",
+      "start": 374.75451247165535,
+      "end": 389.9984126984127,
+      "slow_start": 423.7137868480726,
+      "slow_end": 441.00104308390024
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--text--s42",
+      "asset_id": "C2-U12-L01--2026.10.23.2--text",
+      "role": "text_sentence",
+      "index": 42,
+      "paragraph_index": 7,
+      "sentence_index": 4,
+      "text": "Výsledkem je soubor pozorovatelných výkonů, nikoli slavnostní nálepka hotové jazykové dokonalosti.",
+      "start": 390.17841269841267,
+      "end": 399.0832653061224,
+      "slow_start": 441.18104308390025,
+      "slow_end": 451.44426303854874
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--listening--ae472a2ff2--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--listening--ae472a2ff2--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--listening",
+      "role": "listening-full",
+      "index": 0,
+      "text": "Dramaturg: Necháme první větu, ta je nejsilnější. Redaktorka: Jenže hned potom ji mluvčí omezí. Bez toho bude znít, jako by si byl naprosto jistý. Koordinátorka: Zkusme kratší úryvek, ale s obratem; dlouhou verzi nabídneme zvlášť.",
+      "duration_seconds": 21.5134693877551,
+      "slow_duration_seconds": 23.963174603174604,
+      "sha256": "9bf4f92cca58f06a467b8c11937300fe086dd20bc9d7beb258d6c2c5915f1b1d",
+      "slow_sha256": "da579061e4444539c898b7fe43c633cd713ba81103ef8832c0436bab2b4740ea"
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--listening--ae472a2ff2--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--listening--ae472a2ff2--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--listening--p0",
+      "asset_id": "C2-U12-L01--2026.10.23.2--listening",
+      "role": "listening",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Dramaturg: Necháme první větu, ta je nejsilnější. Redaktorka: Jenže hned potom ji mluvčí omezí. Bez toho bude znít, jako by si byl naprosto jistý. Koordinátorka: Zkusme kratší úryvek, ale s obratem; dlouhou verzi nabídneme zvlášť.",
+      "start": 0,
+      "end": 21.333469387755102,
+      "slow_start": 0,
+      "slow_end": 23.783174603174604
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--vocabulary--9571227ef0--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--vocabulary--9571227ef0--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--vocabulary",
+      "role": "vocabulary-full",
+      "index": 0,
+      "text": "Dramaturg navrhl kratší verzi. Úryvek mění dojem podle okolí. Výběr je formou zprostředkování. Pochybnost tvoří osobitý hlas. Výběr omezuje pestrost zkušeností.",
+      "duration_seconds": 15.911700680272109,
+      "slow_duration_seconds": 18.04793650793651,
+      "sha256": "7b94ff9f09bbe85fdedef92311f8648685d927e3f96e685126e76dbfdcb58ae5",
+      "slow_sha256": "73e32946a631807351576f4e704ceaa5d0d6e5e8a1db0e5c71d39eb9ffeb76ce"
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--vocabulary--9571227ef0--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--vocabulary--9571227ef0--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--vocabulary--p0",
+      "asset_id": "C2-U12-L01--2026.10.23.2--vocabulary",
+      "role": "vocabulary",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Dramaturg navrhl kratší verzi.",
+      "start": 0,
+      "end": 2.8444444444444446,
+      "slow_start": 0,
+      "slow_end": 3.3668934240362813
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--vocabulary--9571227ef0--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--vocabulary--9571227ef0--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--vocabulary--p1",
+      "asset_id": "C2-U12-L01--2026.10.23.2--vocabulary",
+      "role": "vocabulary",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Úryvek mění dojem podle okolí.",
+      "start": 3.0244444444444443,
+      "end": 6.089478458049887,
+      "slow_start": 3.546893424036281,
+      "slow_end": 6.890566893424037
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--vocabulary--9571227ef0--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--vocabulary--9571227ef0--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--vocabulary--p2",
+      "asset_id": "C2-U12-L01--2026.10.23.2--vocabulary",
+      "role": "vocabulary",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Výběr je formou zprostředkování.",
+      "start": 6.269478458049886,
+      "end": 9.357732426303855,
+      "slow_start": 7.070566893424036,
+      "slow_end": 10.553560090702948
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--vocabulary--9571227ef0--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--vocabulary--9571227ef0--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--vocabulary--p3",
+      "asset_id": "C2-U12-L01--2026.10.23.2--vocabulary",
+      "role": "vocabulary",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Pochybnost tvoří osobitý hlas.",
+      "start": 9.537732426303855,
+      "end": 12.544716553287982,
+      "slow_start": 10.733560090702948,
+      "slow_end": 14.21655328798186
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--vocabulary--9571227ef0--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--vocabulary--9571227ef0--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--vocabulary--p4",
+      "asset_id": "C2-U12-L01--2026.10.23.2--vocabulary",
+      "role": "vocabulary",
+      "index": 4,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Výběr omezuje pestrost zkušeností.",
+      "start": 12.724716553287982,
+      "end": 15.731700680272109,
+      "slow_start": 14.39655328798186,
+      "slow_end": 17.86793650793651
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--exercises--096ea41015--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--exercises--096ea41015--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--exercises",
+      "role": "exercises-full",
+      "index": 0,
+      "text": "Zkusme kratší úryvek, ale zachovejme obrat. Dlouhou verzi nabídneme zvlášť.",
+      "duration_seconds": 7.302766439909297,
+      "slow_duration_seconds": 8.34766439909297,
+      "sha256": "8c21752e3ad913e4f8ffbdb0f9aec1fc68cfc81fbd5604bdf78ee371c298df3e",
+      "slow_sha256": "ea9a615a11a19b5676c2a94ffaf4f71bf93d61a6dc408466e5f01d83256e5003"
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--exercises--096ea41015--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--exercises--096ea41015--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--exercises--p0",
+      "asset_id": "C2-U12-L01--2026.10.23.2--exercises",
+      "role": "exercise",
+      "index": 0,
+      "exercise_id": "C2-U12-L01-E06",
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Zkusme kratší úryvek, ale zachovejme obrat. Dlouhou verzi nabídneme zvlášť.",
+      "start": 0,
+      "end": 7.122766439909297,
+      "slow_start": 0,
+      "slow_end": 8.16766439909297
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--contrasts--03ae7c1898--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--contrasts--03ae7c1898--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--contrasts",
+      "role": "contrasts-full",
+      "index": 0,
+      "text": "To jsem neřekl.. To jsem neřekl já..",
+      "duration_seconds": 3.959092970521542,
+      "slow_duration_seconds": 4.887891156462585,
+      "sha256": "0187f468568e5e1334dce2bcfe004d9f60f41d5197e4af4741298b82a74e77b3",
+      "slow_sha256": "b634ff11311b55cc0e13362d7b505da333dcbfe5c6c41deee5e5eccbda843af8"
+    },
+    {
+      "lesson_id": "C2-U12-L01",
+      "content_version": "2026.10.23.2",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U12-L01--2026.10.22.1--contrasts--03ae7c1898--normal.mp3",
+      "slow_file": "audio/files/C2-U12-L01--2026.10.22.1--contrasts--03ae7c1898--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U12-L01--2026.10.23.2--contrasts--p0",
+      "asset_id": "C2-U12-L01--2026.10.23.2--contrasts",
+      "role": "contrast",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "To jsem neřekl.. To jsem neřekl já..",
+      "start": 0,
+      "end": 3.779092970521542,
+      "slow_start": 0,
+      "slow_end": 4.707891156462585
+    }
+  ],
+  "listening_session": {
+    "title_zh": "城市之声：听完六分钟，再作出有据的选择",
+    "source_role": "full",
+    "exercise_ids": [
+      "C2-U12-L01-E13",
+      "C2-U12-L01-E14",
+      "C2-U12-L01-E15",
+      "C2-U12-L01-E16",
+      "C2-U12-L01-E17",
+      "C2-U12-L01-E18",
+      "C2-U12-L01-E19"
+    ],
+    "evidence": [
+      {
+        "exercise_id": "C2-U12-L01-E13",
+        "paragraph_indices": [
+          0
+        ],
+        "note_zh": "第一版主要邀请已经与画廊合作的当地社团。；这样便于筹备，但收集范围限制了声音多样性；不能据此宣传成全体居民或完整城市图景。",
+        "quote_cs": "Pro první verzi byly osloveny především místní spolky, které již s galerií spolupracují.\nTato cesta usnadnila přípravu, zároveň však omezuje pestrost získaných hlasů."
+      },
+      {
+        "exercise_id": "C2-U12-L01-E14",
+        "paragraph_indices": [
+          1,
+          5
+        ],
+        "note_zh": "原期待是保存在档案里，让感兴趣的人按需收听。；新用途是片段可能在公开展厅播放；她担心地点让邻居被认出。；团队核对旧约定和拟议用途，提出重新讨论；材料没有说明重新授权已完成。",
+        "quote_cs": "bude uložena v archivu a zájemce si ji poslechne na požádání.\nTeď jsem se dozvěděla, že úryvek může znít ve veřejném sále.\nNejprve porovnal původní dohodu s navrhovaným použitím a nabídl projednání konkrétního úryvku."
+      },
+      {
+        "exercise_id": "C2-U12-L01-E15",
+        "paragraph_indices": [
+          2
+        ],
+        "note_zh": "已发现删去中间语句后，后续限定不再清楚的情况。；必须对照完整上下文，检查意义关系和确定程度，而不只检查单词。",
+        "quote_cs": "po vystřižení mezivěty nebylo zřejmé, že mluvčí původní tvrzení následně omezil.\nSamotná shoda jednotlivých slov s přepisem nezaručuje zachování jejich vztahu ani skutečné míry jistoty"
+      },
+      {
+        "exercise_id": "C2-U12-L01-E16",
+        "paragraph_indices": [
+          3
+        ],
+        "note_zh": "不认识的橱窗与重复的生活动作并置，使“完全变了”受到限制。；他提出观察方式也可能变化，又明确说不是否认任何损失。；结尾保留对记忆准确性的疑问，没有作全体居民或完全不变的结论。",
+        "quote_cs": "Možná se ulice mění méně než způsob, jakým si vybírám, čeho si všimnu.\nNechci tím říci, že se nic neztratilo.\nJen si nejsem jistý, zda všechno, co mi chybí, někdy existovalo přesně tak, jak o tom dnes vyprávím."
+      },
+      {
+        "exercise_id": "C2-U12-L01-E17",
+        "paragraph_indices": [
+          4,
+          5
+        ],
+        "note_zh": "构作人员关注参观者有限的时间，编辑关注不能把犹疑思考变成断然结论。；短片段仍保留转折，另给延伸长版；这不是只把双方观点各摘一句。",
+        "quote_cs": "Dramaturg uznal rozdíl, ale upozornil na omezený čas návštěvníka.\nZ váhavé osobní úvahy by vznikl rozhodný soud o městě.\nkrátký úryvek se zachovaným obratem a možnost navázat delší verzí."
+      },
+      {
+        "exercise_id": "C2-U12-L01-E18",
+        "paragraph_indices": [
+          6,
+          7
+        ],
+        "note_zh": "公众介绍可以解释选材和处理方法，不能把经过选择的展览称为整个社会的原样复制。；学习者建议需要写清自身价值前提以及更新立场的条件。；自查要找出自己加上的确定性、误归的声音和过度谨慎造成的遮蔽。",
+        "quote_cs": "zveřejňuje princip výběru, zachovává podstatné rozpory uvnitř vyprávění\noznačit jeho hodnotové předpoklady a vysvětlit, co by jej přimělo změnit stanovisko.\nkde přidal jistotu, kterou zdroj neměl, kde zaměnil svůj úsudek za cizí hlas"
+      },
+      {
+        "exercise_id": "C2-U12-L01-E19",
+        "paragraph_indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "note_zh": "核对展览目标、首批来源范围、编辑原则和参与者来信。重点保留：重新讨论不等于重新授权，可能认出不等于已经认出。"
+      }
+    ],
+    "instructions_zh": "你在为一场布拉格城市故事展协助整理说明。先不读原文，用“谁的声音／什么改变了／还有什么没定”三列记要点。无需抓住每个词，先跟住观点怎样被修正。",
+    "rounds": [
+      {
+        "round": 1,
+        "title_zh": "完整听一遍，记观点关系",
+        "instructions_zh": "原文、译文、证据引句与答案保持收起。先完整听，不逐句暂停；记下展览目标、参与者异议、编辑问题和协调方案。",
+        "deliverable_zh": "四条主线笔记；听不清的位置可以空着。"
+      },
+      {
+        "round": 2,
+        "title_zh": "回答六题，再补听缺口",
+        "instructions_zh": "完成六道问题；可再次听全篇或你选择的段落，但先别打开文字。每题写一句自己凭什么选这个答案。",
+        "deliverable_zh": "六个选择，加至少三条自己的依据笔记。"
+      },
+      {
+        "round": 3,
+        "title_zh": "看证据，修正自己漏掉的关系",
+        "instructions_zh": "提交后展开每题的原文依据并定位回听，再读完整中文。区别“词没听到”和“词听到了但关系弄反了”；改正时保存第一版答案。",
+        "deliverable_zh": "一条原判断→证据→改正后的记录，以及下方的公众说明。"
+      }
+    ],
+    "material_kind": "original_synthetic_long_form",
+    "id": "long-text"
+  }
+}

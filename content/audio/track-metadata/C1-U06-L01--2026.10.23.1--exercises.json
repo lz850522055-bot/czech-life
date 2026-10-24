@@ -1,0 +1,60 @@
+{
+  "id": "C1-U06-L01--2026.10.23.1--exercises",
+  "lesson_id": "C1-U06-L01",
+  "content_version": "2026.10.23.1",
+  "level": "C1",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Koordinátor po skončení pokusu porovná účast a pracovní zátěž.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "C1-U06-L01-E06",
+      "parts": [
+        "Koordinátor po skončení pokusu porovná účast a pracovní zátěž."
+      ]
+    }
+  ],
+  "text_sha256": "edf402c14e6e187d03ef6ec16227188c60e83c50fe00cb9fed3352c2e199989a",
+  "source_file": "content/lessons/C1/C1-U06-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U06-L01--2026.10.22.1--exercises--edf402c14e--normal.mp3",
+  "slow_file": "content/audio/files/C1-U06-L01--2026.10.22.1--exercises--edf402c14e--slow.mp3",
+  "duration_seconds": 6.344897959183673,
+  "slow_duration_seconds": 6.971836734693878,
+  "cues": [
+    {
+      "text": "Koordinátor po skončení pokusu porovná účast a pracovní zátěž.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "C1-U06-L01-E06",
+      "parts": [
+        "Koordinátor po skončení pokusu porovná účast a pracovní zátěž."
+      ],
+      "start": 0.0,
+      "end": 6.164897959183674,
+      "sentences": [
+        {
+          "text": "Koordinátor po skončení pokusu porovná účast a pracovní zátěž.",
+          "start": 0.0,
+          "end": 6.164897959183674,
+          "slow_start": 0.0,
+          "slow_end": 6.791836734693877
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 6.791836734693877
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "137b2bd48510a866204a75b588a593c10285b530475d33aa2cb6de610cdf9867",
+    "slow": "a60a83e8cde29eae6714d11b0c6cad25a585a555716b5086d08fa93afef77bbb"
+  },
+  "reused_from_track_id": "C1-U06-L01--2026.10.22.1--exercises"
+}

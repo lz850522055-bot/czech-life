@@ -1,0 +1,189 @@
+{
+  "id": "C1-FINAL--2026.10.22.1--exercises",
+  "lesson_id": "C1-FINAL",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Koordinátorka: Zapsali jsme osm pozdních vrácení. Neznamená to ale, že osm lidí beze slova nedodrželo dohodu. V pěti případech nám dali vědět předem a termín jsme upravili; bez zprávy zůstaly tři. Člen výboru: Takže stačí připomínky? Koordinátorka: To zatím nevíme. U dvou z těch tří lidé tvrdí, že upozornění neposlali, protože nevěděli komu. Potřebujeme nejprve jasný kontakt a potom sledovat, co se změní. Nemůžeme však říkat, že každé zpoždění způsobil špatný systém.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "C1-FINAL-E03",
+      "parts": [
+        "Koordinátorka: Zapsali jsme osm pozdních vrácení.",
+        "Neznamená to ale, že osm lidí beze slova nedodrželo dohodu.",
+        "V pěti případech nám dali vědět předem a termín jsme upravili; bez zprávy zůstaly tři.",
+        "Člen výboru: Takže stačí připomínky?",
+        "Koordinátorka: To zatím nevíme.",
+        "U dvou z těch tří lidé tvrdí, že upozornění neposlali, protože nevěděli komu.",
+        "Potřebujeme nejprve jasný kontakt a potom sledovat, co se změní.",
+        "Nemůžeme však říkat, že každé zpoždění způsobil špatný systém."
+      ]
+    },
+    {
+      "text": "Správce: Příští týden někoho máme. Počkejte, raději se podívám do rozpisu. Ano, v pondělí přijde Jana, středu ale ještě nikdo nepotvrdil. Mohl bych ji zajistit, pokud se podaří vyměnit mou směnu. Zatím se mnou prosím nepočítejte jako s potvrzenou službou.",
+      "index": 1,
+      "role": "exercise",
+      "exercise_id": "C1-FINAL-E04",
+      "parts": [
+        "Správce: Příští týden někoho máme.",
+        "Počkejte, raději se podívám do rozpisu.",
+        "Ano, v pondělí přijde Jana, středu ale ještě nikdo nepotvrdil.",
+        "Mohl bych ji zajistit, pokud se podaří vyměnit mou směnu.",
+        "Zatím se mnou prosím nepočítejte jako s potvrzenou službou."
+      ]
+    }
+  ],
+  "text_sha256": "819d2a16f59040ce626cb742a2fba7bac6f40893f66166a05d7f3b1da538aaa4",
+  "source_file": "content/assessments/C1-FINAL.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-FINAL--2026.10.22.1--exercises--819d2a16f5--normal.mp3",
+  "slow_file": "content/audio/files/C1-FINAL--2026.10.22.1--exercises--819d2a16f5--slow.mp3",
+  "duration_seconds": 66.42707482993197,
+  "slow_duration_seconds": 74.34507936507937,
+  "cues": [
+    {
+      "text": "Koordinátorka: Zapsali jsme osm pozdních vrácení. Neznamená to ale, že osm lidí beze slova nedodrželo dohodu. V pěti případech nám dali vědět předem a termín jsme upravili; bez zprávy zůstaly tři. Člen výboru: Takže stačí připomínky? Koordinátorka: To zatím nevíme. U dvou z těch tří lidé tvrdí, že upozornění neposlali, protože nevěděli komu. Potřebujeme nejprve jasný kontakt a potom sledovat, co se změní. Nemůžeme však říkat, že každé zpoždění způsobil špatný systém.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "C1-FINAL-E03",
+      "parts": [
+        "Koordinátorka: Zapsali jsme osm pozdních vrácení.",
+        "Neznamená to ale, že osm lidí beze slova nedodrželo dohodu.",
+        "V pěti případech nám dali vědět předem a termín jsme upravili; bez zprávy zůstaly tři.",
+        "Člen výboru: Takže stačí připomínky?",
+        "Koordinátorka: To zatím nevíme.",
+        "U dvou z těch tří lidé tvrdí, že upozornění neposlali, protože nevěděli komu.",
+        "Potřebujeme nejprve jasný kontakt a potom sledovat, co se změní.",
+        "Nemůžeme však říkat, že každé zpoždění způsobil špatný systém."
+      ],
+      "start": 0.0,
+      "end": 43.241678004535146,
+      "sentences": [
+        {
+          "text": "Koordinátorka: Zapsali jsme osm pozdních vrácení.",
+          "start": 0.0,
+          "end": 4.46984126984127,
+          "slow_start": 0.0,
+          "slow_end": 5.224489795918367
+        },
+        {
+          "text": "Neznamená to ale, že osm lidí beze slova nedodrželo dohodu.",
+          "start": 4.64984126984127,
+          "end": 9.8859410430839,
+          "slow_start": 5.4044897959183675,
+          "slow_end": 11.453287981859411
+        },
+        {
+          "text": "V pěti případech nám dali vědět předem a termín jsme upravili; bez zprávy zůstaly tři.",
+          "start": 10.0659410430839,
+          "end": 17.415056689342403,
+          "slow_start": 11.63328798185941,
+          "slow_end": 19.748662131519275
+        },
+        {
+          "text": "Člen výboru: Takže stačí připomínky?",
+          "start": 17.595056689342403,
+          "end": 21.345079365079364,
+          "slow_start": 19.928662131519275,
+          "slow_end": 24.30562358276644
+        },
+        {
+          "text": "Koordinátorka: To zatím nevíme.",
+          "start": 21.525079365079364,
+          "end": 24.555283446712018,
+          "slow_start": 24.48562358276644,
+          "slow_end": 27.910566893424036
+        },
+        {
+          "text": "U dvou z těch tří lidé tvrdí, že upozornění neposlali, protože nevěděli komu.",
+          "start": 24.735283446712018,
+          "end": 31.480680272108845,
+          "slow_start": 28.090566893424036,
+          "slow_end": 35.613832199546486
+        },
+        {
+          "text": "Potřebujeme nejprve jasný kontakt a potom sledovat, co se změní.",
+          "start": 31.660680272108845,
+          "end": 37.03609977324263,
+          "slow_start": 35.793832199546486,
+          "slow_end": 41.854240362811794
+        },
+        {
+          "text": "Nemůžeme však říkat, že každé zpoždění způsobil špatný systém.",
+          "start": 37.21609977324263,
+          "end": 43.241678004535146,
+          "slow_start": 42.03424036281179,
+          "slow_end": 48.651927437641724
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 48.651927437641724
+    },
+    {
+      "text": "Správce: Příští týden někoho máme. Počkejte, raději se podívám do rozpisu. Ano, v pondělí přijde Jana, středu ale ještě nikdo nepotvrdil. Mohl bych ji zajistit, pokud se podaří vyměnit mou směnu. Zatím se mnou prosím nepočítejte jako s potvrzenou službou.",
+      "index": 1,
+      "role": "exercise",
+      "exercise_id": "C1-FINAL-E04",
+      "parts": [
+        "Správce: Příští týden někoho máme.",
+        "Počkejte, raději se podívám do rozpisu.",
+        "Ano, v pondělí přijde Jana, středu ale ještě nikdo nepotvrdil.",
+        "Mohl bych ji zajistit, pokud se podaří vyměnit mou směnu.",
+        "Zatím se mnou prosím nepočítejte jako s potvrzenou službou."
+      ],
+      "start": 43.421678004535146,
+      "end": 66.24707482993198,
+      "sentences": [
+        {
+          "text": "Správce: Příští týden někoho máme.",
+          "start": 43.421678004535146,
+          "end": 46.93950113378685,
+          "slow_start": 48.831927437641724,
+          "slow_end": 52.663219954648525
+        },
+        {
+          "text": "Počkejte, raději se podívám do rozpisu.",
+          "start": 47.11950113378685,
+          "end": 50.498004535147395,
+          "slow_start": 52.843219954648525,
+          "slow_end": 56.54680272108843
+        },
+        {
+          "text": "Ano, v pondělí přijde Jana, středu ale ještě nikdo nepotvrdil.",
+          "start": 50.678004535147394,
+          "end": 56.13469387755102,
+          "slow_start": 56.72680272108843,
+          "slow_end": 62.74077097505669
+        },
+        {
+          "text": "Mohl bych ji zajistit, pokud se podaří vyměnit mou směnu.",
+          "start": 56.31469387755102,
+          "end": 61.12122448979592,
+          "slow_start": 62.92077097505669,
+          "slow_end": 68.3542403628118
+        },
+        {
+          "text": "Zatím se mnou prosím nepočítejte jako s potvrzenou službou.",
+          "start": 61.30122448979592,
+          "end": 66.24707482993198,
+          "slow_start": 68.53424036281179,
+          "slow_end": 74.16507936507936
+        }
+      ],
+      "slow_start": 48.831927437641724,
+      "slow_end": 74.16507936507936
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "7b325327863ad60d360a866b74925b5797dfb8f49d9e0a9f27af91dda0535ddf",
+    "slow": "95e6dc174e6b326b90720dfeb2f63bc67cdaf10387f6b56df8994fe66a6ecbd5"
+  }
+}

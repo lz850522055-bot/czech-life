@@ -1,0 +1,1339 @@
+{
+  "id": "A2-U04-L01",
+  "level": "A2",
+  "unit_id": "A2-U04",
+  "order": 22,
+  "version": "2026.10.22.1",
+  "title_zh": "谁的东西，给谁，再把“他”说清楚",
+  "title_cs": "Komu to patří",
+  "prerequisites": [
+    "A2-U03-L01"
+  ],
+  "can_do": [
+    "使用自己的与他人的所有权",
+    "掌握常见人称代词格形",
+    "追踪消息里的指代"
+  ],
+  "scene": "所有权与指代",
+  "skills": [
+    "listening",
+    "speaking",
+    "reading",
+    "writing",
+    "interaction",
+    "mediation"
+  ],
+  "knowledge_points": [
+    "reflexive-possessive",
+    "pronoun-cases"
+  ],
+  "intro_zh": "几个人一起整理物品时，最容易出现“他的、自己的、给他”的误会。用名字消歧比堆代词更重要。",
+  "lesson_text": [
+    {
+      "id": "s01",
+      "cs": "Po společném kurzu zůstalo v učebně několik věcí. Jana našla na stole černý telefon a vedle něj modrou tašku.",
+      "zh": "集体课程结束后，教室留下几件东西。雅娜在桌上发现一部黑手机，旁边是蓝包。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s02",
+      "cs": "Myslela si, že telefon patří Petrovi, protože ho viděla u stejného stolu. Taška ale nebyla jeho.",
+      "zh": "她以为手机属于彼得，因为之前见他在同一张桌子旁，但包不是他的。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s03",
+      "cs": "Zavolala mu ze svého telefonu a zeptala se: Petře, nechal jsi tady svůj telefon? Mám ho u sebe.",
+      "zh": "她用自己的手机给他打电话，问：“彼得，你把自己的手机落这里了吗？它在我这儿。”",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s04",
+      "cs": "Petr odpověděl, že svůj telefon má doma. Černý telefon je možná Pavlův. Pavel dnes spěchal a odešel první.",
+      "zh": "彼得回答自己的手机在家，那部黑手机可能是帕维尔的。他今天赶时间，第一个走了。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s05",
+      "cs": "Jana proto napsala Pavlovi. Požádala ho, aby popsal svůj telefon. Nechtěla předat cizí věc nesprávnému člověku.",
+      "zh": "于是雅娜给帕维尔发消息，请他描述自己的手机；她不想把别人的东西交错人。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s06",
+      "cs": "Pavel napsal, že jeho telefon má na zadní straně malou bílou nálepku. Jana ji našla a domluvila s ním předání.",
+      "zh": "帕维尔说自己的手机背面有一张小白贴纸。雅娜找到贴纸后，和他约了交还。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s07",
+      "cs": "Modrou tašku si později vyzvedla Eva. Byla její, ale kniha uvnitř patřila její sestře.",
+      "zh": "后来伊娃取走蓝包。包是她的，但里面的书属于她姐妹。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s08",
+      "cs": "Nakonec Jana všem připomněla, aby si před odchodem zkontrolovali své věci. Když není jasné, koho znamená on nebo ona, je lepší zopakovat jméno.",
+      "zh": "最后雅娜提醒大家离开前检查自己的物品。如果“他/她”指谁不清楚，最好重复名字。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "reflexive-possessive",
+      "rule_zh": "动作是谁做的，“自己的”通常就指谁。",
+      "detail_zh": "Petr hledá svůj telefon是彼得找自己的手机；Petr hledá jeho telefon通常是找另一个男性的手机。svůj随被拥有物变化：svůj telefon、svou/svoji tašku、své/svoje dítě。强调对比和复杂嵌套句有例外，先用简单句建立关系。",
+      "examples": [
+        {
+          "cs": "Eva má svou knihu.",
+          "zh": "伊娃有自己的书。",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        },
+        {
+          "cs": "Eva má její knihu.",
+          "zh": "伊娃有另一位女性的书。",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        }
+      ],
+      "pitfalls": [
+        "把svůj固定理解成“我的”。"
+      ],
+      "exceptions": [
+        "特别强调归属时můj等可与svůj竞争；不是任何můj都错误。"
+      ],
+      "term": "反身物主词"
+    },
+    {
+      "id": "pronoun-cases",
+      "rule_zh": "短代词适合已知对象，介词后常要用完整形式。",
+      "detail_zh": "我：2/4 mě/mne，3 mi/mně，6 mně，7 mnou；你：2/4 tě/tebe，3 ti/tobě，6 tobě，7 tebou。我们：2/4/6 nás，3 nám，7 námi；你们/您：2/4/6 vás，3 vám，7 vámi。第三人称常用ho/jeho、mu/jemu、ji、jí、je、jim；介词后n-形式：pro něj、k němu、s ním、pro ni、k ní、s ní、s nimi。",
+      "examples": [
+        {
+          "cs": "Dám ti knihu.",
+          "zh": "我给你书。",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        },
+        {
+          "cs": "Jdu s tebou.",
+          "zh": "我与你去。",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        }
+      ],
+      "pitfalls": [
+        "介词后用短mi，如s mi。"
+      ],
+      "exceptions": [
+        "第三人称有性别和格的交叉，先用完整搭配；强调时长短形式选择不同。"
+      ],
+      "term": "人称代词变格"
+    }
+  ],
+  "vocabulary": [
+    {
+      "lemma": "patřit",
+      "pos": "动词，未完成体",
+      "forms": "patřím; patřil",
+      "meaning_zh": "属于",
+      "collocation": "patřit Petrovi",
+      "example_cs": "Telefon patří Petrovi.",
+      "example_zh": "手机属于彼得。",
+      "confusion_zh": "归属对象用第三格。"
+    },
+    {
+      "lemma": "svůj",
+      "pos": "物主代词",
+      "forms": "svá/svoje; své/svoje; svou/svoji",
+      "meaning_zh": "自己的",
+      "collocation": "svůj telefon",
+      "example_cs": "Hledám svůj telefon.",
+      "example_zh": "我找自己的手机。",
+      "confusion_zh": "指主语而非固定“我”。"
+    },
+    {
+      "lemma": "cizí",
+      "pos": "形容词，软变化",
+      "forms": "cizího; cizí",
+      "meaning_zh": "别人的；陌生的；外国的",
+      "collocation": "cizí věc",
+      "example_cs": "To je cizí taška.",
+      "example_zh": "那是别人的包。",
+      "confusion_zh": "不总指外国。"
+    },
+    {
+      "lemma": "nálepka",
+      "pos": "名词，阴性",
+      "forms": "nálepky; nálepku",
+      "meaning_zh": "贴纸",
+      "collocation": "bílá nálepka",
+      "example_cs": "Na telefonu je nálepka.",
+      "example_zh": "手机上有贴纸。",
+      "confusion_zh": "不是纸条消息。"
+    },
+    {
+      "lemma": "předání",
+      "pos": "名词，中性",
+      "forms": "předání",
+      "meaning_zh": "交接",
+      "collocation": "domluvit předání",
+      "example_cs": "Domluvíme předání.",
+      "example_zh": "我们安排交还。",
+      "confusion_zh": "不是订单。"
+    },
+    {
+      "lemma": "zkontrolovat",
+      "pos": "动词，完成体",
+      "forms": "zkontroluju; zkontroloval",
+      "meaning_zh": "检查一下",
+      "collocation": "zkontrolovat věci",
+      "example_cs": "Zkontrolujte své věci.",
+      "example_zh": "检查自己的物品。",
+      "confusion_zh": "kontrolovat侧重过程/反复。"
+    }
+  ],
+  "listening": {
+    "script": [
+      {
+        "cs": "Eva dala Janě svou knihu. Jana ji večer vrátila Evě. Pak jí poděkovala.",
+        "zh": "伊娃把自己的书给雅娜。雅娜晚上还给伊娃，然后向她道谢。",
+        "note_zh": "先理解整句意图，再回看本课规律。"
+      }
+    ],
+    "focus_zh": "先不看文本听出任务关键信息；第二遍核对词形、数字与否定；最后对照中文。",
+    "source": "original"
+  },
+  "pronunciation": {
+    "focus_zh": "ji是短元音，jí是长元音，语法作用可能不同；对比读但不故意夸张。",
+    "contrast": [
+      {
+        "a": "ji",
+        "b": "jí",
+        "note_zh": "看句法判断，不能只凭一个孤立音。"
+      }
+    ],
+    "task_zh": "录“Vidím ji. Dám jí knihu.”并回听时长。"
+  },
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "听力中的书原先是谁的？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "Eva"
+        },
+        {
+          "id": "b",
+          "text": "Jana"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "Eva dala svou knihu，svou指Eva。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "listening"
+      ],
+      "error_category": "comprehension",
+      "audio_text_cs": "Eva dala Janě svou knihu.",
+      "id": "A2-U04-L01-E01",
+      "knowledge_points": [
+        "reflexive-possessive",
+        "pronoun-cases"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "填“和我”。",
+      "stimulus_cs": "se ___",
+      "answer": "mnou",
+      "accepted_answers": [
+        "mnou"
+      ],
+      "explanation_zh": "介词后完整第七格。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "A2-U04-L01-E02",
+      "knowledge_points": [
+        "reflexive-possessive",
+        "pronoun-cases"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "填“我给你书”。",
+      "stimulus_cs": "Dám ___ knihu.",
+      "answer": "ti",
+      "accepted_answers": [
+        "ti",
+        "tobě"
+      ],
+      "explanation_zh": "短第三格ti；强调时tobě亦可。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "A2-U04-L01-E03",
+      "knowledge_points": [
+        "reflexive-possessive",
+        "pronoun-cases"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "Petr hledá jeho telefon通常是谁的手机？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "彼得自己的"
+        },
+        {
+          "id": "b",
+          "text": "另一个男性的"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "普通语境jeho区分于svůj。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "A2-U04-L01-E04",
+      "knowledge_points": [
+        "reflexive-possessive",
+        "pronoun-cases"
+      ]
+    },
+    {
+      "type": "correct",
+      "prompt_zh": "改正“和你”。",
+      "stimulus_cs": "Jdu s ti.",
+      "answer": "Jdu s tebou.",
+      "accepted_answers": [
+        "Jdu s tebou."
+      ],
+      "explanation_zh": "s+第七格。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "A2-U04-L01-E05",
+      "knowledge_points": [
+        "reflexive-possessive",
+        "pronoun-cases"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt_zh": "排列“这本书属于她”。",
+      "stimulus_cs": "jí. / Ta kniha / patří",
+      "answer": "Ta kniha patří jí.",
+      "accepted_answers": [
+        "Ta kniha patří jí."
+      ],
+      "explanation_zh": "jí强调归属，也可Ta kniha jí patří。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "word_order",
+      "options": [
+        "jí.",
+        "Ta kniha",
+        "patří"
+      ],
+      "id": "A2-U04-L01-E06",
+      "knowledge_points": [
+        "reflexive-possessive",
+        "pronoun-cases"
+      ]
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "分别说“彼得找自己的包”“彼得找伊娃的包”。",
+      "stimulus_cs": "",
+      "answer": "Petr hledá svou tašku. Petr hledá Evinu tašku.",
+      "accepted_answers": [],
+      "explanation_zh": "可以直接Petr hledá tašku Evy以名字消歧。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A2-U04-L01-E07",
+      "knowledge_points": [
+        "reflexive-possessive",
+        "pronoun-cases"
+      ]
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "对方说“他的手机”，你不知道指谁，追问。",
+      "stimulus_cs": "",
+      "answer": "Čí telefon myslíte? Petrův, nebo Pavlův?",
+      "accepted_answers": [],
+      "explanation_zh": "主动澄清对象。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A2-U04-L01-E08",
+      "knowledge_points": [
+        "reflexive-possessive",
+        "pronoun-cases"
+      ]
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "写三句物品交接消息，避免连续用不清楚的“他”。",
+      "stimulus_cs": "",
+      "answer": "Telefon patří Pavlovi. Mám ho u sebe. Pavel si ho vyzvedne večer.",
+      "accepted_answers": [],
+      "explanation_zh": "最后重用名字消歧。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A2-U04-L01-E09",
+      "knowledge_points": [
+        "reflexive-possessive",
+        "pronoun-cases"
+      ]
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "用中文解释听力的物品流转和道谢对象。",
+      "stimulus_cs": "",
+      "answer": "伊娃的书先给雅娜，雅娜还给伊娃并向伊娃道谢。",
+      "accepted_answers": [],
+      "explanation_zh": "书和人不要混。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A2-U04-L01-E10",
+      "knowledge_points": [
+        "reflexive-possessive",
+        "pronoun-cases"
+      ]
+    }
+  ],
+  "transfer_task": {
+    "prompt_zh": "把主语从我换成她，再判断“自己的”要不要换成她的。",
+    "model_answer_cs": "Hledám svou tašku. Eva hledá svou tašku.",
+    "rubric": [
+      "任务信息完整",
+      "用目标规律表达",
+      "独立完成并回听/回看"
+    ]
+  },
+  "review_links": [
+    "A2-U03-L01"
+  ],
+  "sources": [
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?id=630",
+      "scope": "本课涉及的声音/词形/语法规则；编排与例句为原创",
+      "verification": "官方来源用于相关规则交叉核查；具体查核范围见content/sources/foundation-verification.md；本课例句为原创，未逐句母语审校。"
+    }
+  ],
+  "content_status": "authored_crosschecked_not_native_reviewed",
+  "quality_notes": [
+    "课程及题目原创；自动检查结构、唯一ID与答案。",
+    "已对照所列官方发音、数词、条件式、物主词等章节核查相应规则；其余内容做内部语言一致性复核，未逐句外部审校。",
+    "CEFR级别为教学编排，不构成官方达标或考试认证。"
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "A2-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--normal.mp3",
+      "slow_file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U04-L01--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Po společném kurzu zůstalo v učebně několik věcí. Jana našla na stole černý telefon a vedle něj modrou tašku. Myslela si, že telefon patří Petrovi, protože ho viděla u stejného stolu. Taška ale nebyla jeho. Zavolala mu ze svého telefonu a zeptala se: Petře, nechal jsi tady svůj telefon? Mám ho u sebe. Petr odpověděl, že svůj telefon má doma. Černý telefon je možná Pavlův. Pavel dnes spěchal a odešel první. Jana proto napsala Pavlovi. Požádala ho, aby popsal svůj telefon. Nechtěla předat cizí věc nesprávnému člověku. Pavel napsal, že jeho telefon má na zadní straně malou bílou nálepku. Jana ji našla a domluvila s ním předání. Modrou tašku si později vyzvedla Eva. Byla její, ale kniha uvnitř patřila její sestře. Nakonec Jana všem připomněla, aby si před odchodem zkontrolovali své věci. Když není jasné, koho znamená on nebo ona, je lepší zopakovat jméno.",
+      "duration_seconds": 79.86585034013605,
+      "slow_duration_seconds": 89.9665306122449,
+      "sha256": "88113784c93590c1e2a72051cc72646f79330219d8e0d32786347c8409a570e4",
+      "slow_sha256": "87d2d7d01f4e1aff1cd5826dbe15b1a70d97ee02a364adb8326fe4cea4574728"
+    },
+    {
+      "lesson_id": "A2-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--normal.mp3",
+      "slow_file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U04-L01--2026.10.22.1--text--p0",
+      "asset_id": "A2-U04-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Po společném kurzu zůstalo v učebně několik věcí. Jana našla na stole černý telefon a vedle něj modrou tašku.",
+      "start": 0,
+      "end": 9.700181405895691,
+      "slow_start": 0,
+      "slow_end": 11.023718820861678
+    },
+    {
+      "lesson_id": "A2-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--normal.mp3",
+      "slow_file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U04-L01--2026.10.22.1--text--s0",
+      "asset_id": "A2-U04-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Po společném kurzu zůstalo v učebně několik věcí.",
+      "start": 0,
+      "end": 4.260861678004535,
+      "slow_start": 0,
+      "slow_end": 4.829750566893424
+    },
+    {
+      "lesson_id": "A2-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--normal.mp3",
+      "slow_file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U04-L01--2026.10.22.1--text--s1",
+      "asset_id": "A2-U04-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Jana našla na stole černý telefon a vedle něj modrou tašku.",
+      "start": 4.440861678004535,
+      "end": 9.700181405895691,
+      "slow_start": 5.009750566893424,
+      "slow_end": 11.023718820861678
+    },
+    {
+      "lesson_id": "A2-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--normal.mp3",
+      "slow_file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U04-L01--2026.10.22.1--text--p1",
+      "asset_id": "A2-U04-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Myslela si, že telefon patří Petrovi, protože ho viděla u stejného stolu. Taška ale nebyla jeho.",
+      "start": 9.880181405895692,
+      "end": 18.593514739229025,
+      "slow_start": 11.203718820861678,
+      "slow_end": 20.973560090702946
+    },
+    {
+      "lesson_id": "A2-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--normal.mp3",
+      "slow_file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U04-L01--2026.10.22.1--text--s2",
+      "asset_id": "A2-U04-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 1,
+      "sentence_index": 0,
+      "text": "Myslela si, že telefon patří Petrovi, protože ho viděla u stejného stolu.",
+      "start": 9.880181405895692,
+      "end": 16.41659863945578,
+      "slow_start": 11.203718820861678,
+      "slow_end": 18.50639455782313
+    },
+    {
+      "lesson_id": "A2-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--normal.mp3",
+      "slow_file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U04-L01--2026.10.22.1--text--s3",
+      "asset_id": "A2-U04-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 3,
+      "paragraph_index": 1,
+      "sentence_index": 1,
+      "text": "Taška ale nebyla jeho.",
+      "start": 16.59659863945578,
+      "end": 18.593514739229025,
+      "slow_start": 18.686394557823128,
+      "slow_end": 20.973560090702946
+    },
+    {
+      "lesson_id": "A2-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--normal.mp3",
+      "slow_file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U04-L01--2026.10.22.1--text--p2",
+      "asset_id": "A2-U04-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Zavolala mu ze svého telefonu a zeptala se: Petře, nechal jsi tady svůj telefon? Mám ho u sebe.",
+      "start": 18.773514739229025,
+      "end": 27.591337868480725,
+      "slow_start": 21.153560090702946,
+      "slow_end": 31.09755102040816
+    },
+    {
+      "lesson_id": "A2-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--normal.mp3",
+      "slow_file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U04-L01--2026.10.22.1--text--s4",
+      "asset_id": "A2-U04-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 4,
+      "paragraph_index": 2,
+      "sentence_index": 0,
+      "text": "Zavolala mu ze svého telefonu a zeptala se: Petře, nechal jsi tady svůj telefon?",
+      "start": 18.773514739229025,
+      "end": 25.890430839002267,
+      "slow_start": 21.153560090702946,
+      "slow_end": 29.152834467120183
+    },
+    {
+      "lesson_id": "A2-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--normal.mp3",
+      "slow_file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U04-L01--2026.10.22.1--text--s5",
+      "asset_id": "A2-U04-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 5,
+      "paragraph_index": 2,
+      "sentence_index": 1,
+      "text": "Mám ho u sebe.",
+      "start": 26.070430839002267,
+      "end": 27.591337868480725,
+      "slow_start": 29.332834467120183,
+      "slow_end": 31.09755102040816
+    },
+    {
+      "lesson_id": "A2-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--normal.mp3",
+      "slow_file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U04-L01--2026.10.22.1--text--p3",
+      "asset_id": "A2-U04-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Petr odpověděl, že svůj telefon má doma. Černý telefon je možná Pavlův. Pavel dnes spěchal a odešel první.",
+      "start": 27.771337868480725,
+      "end": 37.66312925170068,
+      "slow_start": 31.277551020408165,
+      "slow_end": 42.52770975056689
+    },
+    {
+      "lesson_id": "A2-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--normal.mp3",
+      "slow_file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U04-L01--2026.10.22.1--text--s6",
+      "asset_id": "A2-U04-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 6,
+      "paragraph_index": 3,
+      "sentence_index": 0,
+      "text": "Petr odpověděl, že svůj telefon má doma.",
+      "start": 27.771337868480725,
+      "end": 31.393650793650792,
+      "slow_start": 31.277551020408165,
+      "slow_end": 35.236553287981856
+    },
+    {
+      "lesson_id": "A2-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--normal.mp3",
+      "slow_file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U04-L01--2026.10.22.1--text--s7",
+      "asset_id": "A2-U04-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 7,
+      "paragraph_index": 3,
+      "sentence_index": 1,
+      "text": "Černý telefon je možná Pavlův.",
+      "start": 31.573650793650792,
+      "end": 34.31360544217687,
+      "slow_start": 35.41655328798186,
+      "slow_end": 38.690566893424034
+    },
+    {
+      "lesson_id": "A2-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--normal.mp3",
+      "slow_file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U04-L01--2026.10.22.1--text--s8",
+      "asset_id": "A2-U04-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 8,
+      "paragraph_index": 3,
+      "sentence_index": 2,
+      "text": "Pavel dnes spěchal a odešel první.",
+      "start": 34.49360544217687,
+      "end": 37.66312925170068,
+      "slow_start": 38.870566893424034,
+      "slow_end": 42.52770975056689
+    },
+    {
+      "lesson_id": "A2-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--normal.mp3",
+      "slow_file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U04-L01--2026.10.22.1--text--p4",
+      "asset_id": "A2-U04-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 4,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Jana proto napsala Pavlovi. Požádala ho, aby popsal svůj telefon. Nechtěla předat cizí věc nesprávnému člověku.",
+      "start": 37.84312925170068,
+      "end": 48.3734693877551,
+      "slow_start": 42.70770975056689,
+      "slow_end": 54.44548752834467
+    },
+    {
+      "lesson_id": "A2-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--normal.mp3",
+      "slow_file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U04-L01--2026.10.22.1--text--s9",
+      "asset_id": "A2-U04-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 9,
+      "paragraph_index": 4,
+      "sentence_index": 0,
+      "text": "Jana proto napsala Pavlovi.",
+      "start": 37.84312925170068,
+      "end": 40.199954648526074,
+      "slow_start": 42.70770975056689,
+      "slow_end": 45.401224489795915
+    },
+    {
+      "lesson_id": "A2-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--normal.mp3",
+      "slow_file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U04-L01--2026.10.22.1--text--s10",
+      "asset_id": "A2-U04-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 10,
+      "paragraph_index": 4,
+      "sentence_index": 1,
+      "text": "Požádala ho, aby popsal svůj telefon.",
+      "start": 40.37995464852608,
+      "end": 44.12997732426304,
+      "slow_start": 45.58122448979592,
+      "slow_end": 49.65632653061225
+    },
+    {
+      "lesson_id": "A2-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--normal.mp3",
+      "slow_file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U04-L01--2026.10.22.1--text--s11",
+      "asset_id": "A2-U04-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 11,
+      "paragraph_index": 4,
+      "sentence_index": 2,
+      "text": "Nechtěla předat cizí věc nesprávnému člověku.",
+      "start": 44.30997732426304,
+      "end": 48.3734693877551,
+      "slow_start": 49.83632653061225,
+      "slow_end": 54.44548752834467
+    },
+    {
+      "lesson_id": "A2-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--normal.mp3",
+      "slow_file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U04-L01--2026.10.22.1--text--p5",
+      "asset_id": "A2-U04-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 5,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Pavel napsal, že jeho telefon má na zadní straně malou bílou nálepku. Jana ji našla a domluvila s ním předání.",
+      "start": 48.5534693877551,
+      "end": 58.47424036281179,
+      "slow_start": 54.62548752834467,
+      "slow_end": 65.76530612244898
+    },
+    {
+      "lesson_id": "A2-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--normal.mp3",
+      "slow_file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U04-L01--2026.10.22.1--text--s12",
+      "asset_id": "A2-U04-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 12,
+      "paragraph_index": 5,
+      "sentence_index": 0,
+      "text": "Pavel napsal, že jeho telefon má na zadní straně malou bílou nálepku.",
+      "start": 48.5534693877551,
+      "end": 54.68353741496599,
+      "slow_start": 54.62548752834467,
+      "slow_end": 61.69596371882086
+    },
+    {
+      "lesson_id": "A2-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--normal.mp3",
+      "slow_file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U04-L01--2026.10.22.1--text--s13",
+      "asset_id": "A2-U04-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 13,
+      "paragraph_index": 5,
+      "sentence_index": 1,
+      "text": "Jana ji našla a domluvila s ním předání.",
+      "start": 54.86353741496599,
+      "end": 58.47424036281179,
+      "slow_start": 61.87596371882086,
+      "slow_end": 65.76530612244898
+    },
+    {
+      "lesson_id": "A2-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--normal.mp3",
+      "slow_file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U04-L01--2026.10.22.1--text--p6",
+      "asset_id": "A2-U04-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 6,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Modrou tašku si později vyzvedla Eva. Byla její, ale kniha uvnitř patřila její sestře.",
+      "start": 58.65424036281179,
+      "end": 66.93800453514739,
+      "slow_start": 65.94530612244898,
+      "slow_end": 75.34362811791384
+    },
+    {
+      "lesson_id": "A2-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--normal.mp3",
+      "slow_file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U04-L01--2026.10.22.1--text--s14",
+      "asset_id": "A2-U04-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 14,
+      "paragraph_index": 6,
+      "sentence_index": 0,
+      "text": "Modrou tašku si později vyzvedla Eva.",
+      "start": 58.65424036281179,
+      "end": 61.88181405895691,
+      "slow_start": 65.94530612244898,
+      "slow_end": 69.6140589569161
+    },
+    {
+      "lesson_id": "A2-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--normal.mp3",
+      "slow_file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U04-L01--2026.10.22.1--text--s15",
+      "asset_id": "A2-U04-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 15,
+      "paragraph_index": 6,
+      "sentence_index": 1,
+      "text": "Byla její, ale kniha uvnitř patřila její sestře.",
+      "start": 62.06181405895692,
+      "end": 66.93800453514739,
+      "slow_start": 69.7940589569161,
+      "slow_end": 75.34362811791384
+    },
+    {
+      "lesson_id": "A2-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--normal.mp3",
+      "slow_file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U04-L01--2026.10.22.1--text--p7",
+      "asset_id": "A2-U04-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 7,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Nakonec Jana všem připomněla, aby si před odchodem zkontrolovali své věci. Když není jasné, koho znamená on nebo ona, je lepší zopakovat jméno.",
+      "start": 67.11800453514739,
+      "end": 79.68585034013606,
+      "slow_start": 75.52362811791383,
+      "slow_end": 89.7865306122449
+    },
+    {
+      "lesson_id": "A2-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--normal.mp3",
+      "slow_file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U04-L01--2026.10.22.1--text--s16",
+      "asset_id": "A2-U04-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 16,
+      "paragraph_index": 7,
+      "sentence_index": 0,
+      "text": "Nakonec Jana všem připomněla, aby si před odchodem zkontrolovali své věci.",
+      "start": 67.11800453514739,
+      "end": 73.32934240362812,
+      "slow_start": 75.52362811791383,
+      "slow_end": 82.53605442176871
+    },
+    {
+      "lesson_id": "A2-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--normal.mp3",
+      "slow_file": "audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U04-L01--2026.10.22.1--text--s17",
+      "asset_id": "A2-U04-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 17,
+      "paragraph_index": 7,
+      "sentence_index": 1,
+      "text": "Když není jasné, koho znamená on nebo ona, je lepší zopakovat jméno.",
+      "start": 73.50934240362812,
+      "end": 79.68585034013606,
+      "slow_start": 82.7160544217687,
+      "slow_end": 89.7865306122449
+    },
+    {
+      "lesson_id": "A2-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U04-L01--2026.10.22.1--listening--bf40cf8a4f--normal.mp3",
+      "slow_file": "audio/files/A2-U04-L01--2026.10.22.1--listening--bf40cf8a4f--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U04-L01--2026.10.22.1--listening",
+      "role": "listening-full",
+      "index": 0,
+      "text": "Eva dala Janě svou knihu. Jana ji večer vrátila Evě. Pak jí poděkovala.",
+      "duration_seconds": 6.948707482993197,
+      "slow_duration_seconds": 7.9471655328798185,
+      "sha256": "79ce96812cae29101e315a3b93868a2e480af4e5daa3ad0b30642fd8e7c31d76",
+      "slow_sha256": "56f98a792e708e62dcd25b9b4161240cfdc2f6bd288c3e5221c16989812b7b97"
+    },
+    {
+      "lesson_id": "A2-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U04-L01--2026.10.22.1--listening--bf40cf8a4f--normal.mp3",
+      "slow_file": "audio/files/A2-U04-L01--2026.10.22.1--listening--bf40cf8a4f--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U04-L01--2026.10.22.1--listening--p0",
+      "asset_id": "A2-U04-L01--2026.10.22.1--listening",
+      "role": "listening",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Eva dala Janě svou knihu. Jana ji večer vrátila Evě. Pak jí poděkovala.",
+      "start": 0,
+      "end": 6.7687074829931975,
+      "slow_start": 0,
+      "slow_end": 7.767165532879819
+    },
+    {
+      "lesson_id": "A2-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U04-L01--2026.10.22.1--vocabulary--d27c3fe502--normal.mp3",
+      "slow_file": "audio/files/A2-U04-L01--2026.10.22.1--vocabulary--d27c3fe502--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U04-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary-full",
+      "index": 0,
+      "text": "Telefon patří Petrovi. Hledám svůj telefon. To je cizí taška. Na telefonu je nálepka. Domluvíme předání. Zkontrolujte své věci.",
+      "duration_seconds": 12.957006802721088,
+      "slow_duration_seconds": 14.443083900226757,
+      "sha256": "95175176ee6ae4d2acd1a1f8733515dae2614e1240290b5a11d6af7cd0b32d01",
+      "slow_sha256": "c314c0cb265e0e2389622e58ffb4686951c28dc78ab2c361bc226bf47318f27c"
+    },
+    {
+      "lesson_id": "A2-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U04-L01--2026.10.22.1--vocabulary--d27c3fe502--normal.mp3",
+      "slow_file": "audio/files/A2-U04-L01--2026.10.22.1--vocabulary--d27c3fe502--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U04-L01--2026.10.22.1--vocabulary--p0",
+      "asset_id": "A2-U04-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Telefon patří Petrovi.",
+      "start": 0,
+      "end": 2.1130158730158732,
+      "slow_start": 0,
+      "slow_end": 2.391655328798186
+    },
+    {
+      "lesson_id": "A2-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U04-L01--2026.10.22.1--vocabulary--d27c3fe502--normal.mp3",
+      "slow_file": "audio/files/A2-U04-L01--2026.10.22.1--vocabulary--d27c3fe502--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U04-L01--2026.10.22.1--vocabulary--p1",
+      "asset_id": "A2-U04-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Hledám svůj telefon.",
+      "start": 2.293015873015873,
+      "end": 4.185442176870748,
+      "slow_start": 2.571655328798186,
+      "slow_end": 4.80077097505669
+    },
+    {
+      "lesson_id": "A2-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U04-L01--2026.10.22.1--vocabulary--d27c3fe502--normal.mp3",
+      "slow_file": "audio/files/A2-U04-L01--2026.10.22.1--vocabulary--d27c3fe502--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U04-L01--2026.10.22.1--vocabulary--p2",
+      "asset_id": "A2-U04-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "To je cizí taška.",
+      "start": 4.365442176870748,
+      "end": 6.0140589569161,
+      "slow_start": 4.980770975056689,
+      "slow_end": 6.803537414965986
+    },
+    {
+      "lesson_id": "A2-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U04-L01--2026.10.22.1--vocabulary--d27c3fe502--normal.mp3",
+      "slow_file": "audio/files/A2-U04-L01--2026.10.22.1--vocabulary--d27c3fe502--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U04-L01--2026.10.22.1--vocabulary--p3",
+      "asset_id": "A2-U04-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Na telefonu je nálepka.",
+      "start": 6.1940589569161,
+      "end": 8.434784580498865,
+      "slow_start": 6.983537414965986,
+      "slow_end": 9.421632653061225
+    },
+    {
+      "lesson_id": "A2-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U04-L01--2026.10.22.1--vocabulary--d27c3fe502--normal.mp3",
+      "slow_file": "audio/files/A2-U04-L01--2026.10.22.1--vocabulary--d27c3fe502--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U04-L01--2026.10.22.1--vocabulary--p4",
+      "asset_id": "A2-U04-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 4,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Domluvíme předání.",
+      "start": 8.614784580498867,
+      "end": 10.507210884353741,
+      "slow_start": 9.601632653061225,
+      "slow_end": 11.656598639455781
+    },
+    {
+      "lesson_id": "A2-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U04-L01--2026.10.22.1--vocabulary--d27c3fe502--normal.mp3",
+      "slow_file": "audio/files/A2-U04-L01--2026.10.22.1--vocabulary--d27c3fe502--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U04-L01--2026.10.22.1--vocabulary--p5",
+      "asset_id": "A2-U04-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 5,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Zkontrolujte své věci.",
+      "start": 10.68721088435374,
+      "end": 12.777006802721088,
+      "slow_start": 11.836598639455783,
+      "slow_end": 14.263083900226757
+    },
+    {
+      "lesson_id": "A2-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U04-L01--2026.10.22.1--exercises--5e92382d71--normal.mp3",
+      "slow_file": "audio/files/A2-U04-L01--2026.10.22.1--exercises--5e92382d71--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U04-L01--2026.10.22.1--exercises",
+      "role": "exercises-full",
+      "index": 0,
+      "text": "Eva dala Janě svou knihu.",
+      "duration_seconds": 2.374285714285714,
+      "slow_duration_seconds": 2.7109750566893425,
+      "sha256": "0f8495a0e655ea623fbf4a1e927126751ad0990b267f796b348635466078dfaf",
+      "slow_sha256": "9dfb79647073d8c29b2289b8f5e089bb9c5f81b017b7e1f40800ff1329992163"
+    },
+    {
+      "lesson_id": "A2-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U04-L01--2026.10.22.1--exercises--5e92382d71--normal.mp3",
+      "slow_file": "audio/files/A2-U04-L01--2026.10.22.1--exercises--5e92382d71--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U04-L01--2026.10.22.1--exercises--p0",
+      "asset_id": "A2-U04-L01--2026.10.22.1--exercises",
+      "role": "exercise",
+      "index": 0,
+      "exercise_id": "A2-U04-L01-E01",
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Eva dala Janě svou knihu.",
+      "start": 0,
+      "end": 2.1942857142857144,
+      "slow_start": 0,
+      "slow_end": 2.5309750566893423
+    },
+    {
+      "lesson_id": "A2-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U04-L01--2026.10.22.1--contrasts--925469f7a3--normal.mp3",
+      "slow_file": "audio/files/A2-U04-L01--2026.10.22.1--contrasts--925469f7a3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U04-L01--2026.10.22.1--contrasts",
+      "role": "contrasts-full",
+      "index": 0,
+      "text": "ji. jí.",
+      "duration_seconds": 0.9230385487528344,
+      "slow_duration_seconds": 1.0159183673469387,
+      "sha256": "c59b23980465c55da15915b11278c3795df32289723b9c56d5be75019e2a8412",
+      "slow_sha256": "ec9e084d81dc193c8ee168c4582eb85e0184c0de434b2693050e17080e0bd70c"
+    },
+    {
+      "lesson_id": "A2-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U04-L01--2026.10.22.1--contrasts--925469f7a3--normal.mp3",
+      "slow_file": "audio/files/A2-U04-L01--2026.10.22.1--contrasts--925469f7a3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U04-L01--2026.10.22.1--contrasts--p0",
+      "asset_id": "A2-U04-L01--2026.10.22.1--contrasts",
+      "role": "contrast",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "ji. jí.",
+      "start": 0,
+      "end": 0.7430385487528345,
+      "slow_start": 0,
+      "slow_end": 0.8359183673469388
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "id": "C1-U03-CHECK",
+  "kind": "unit",
+  "level": "C1",
+  "unit_id": "C1-U03",
+  "title_zh": "听懂“暂时没意见”背后的边界：新情境检验",
+  "version": "2026.10.22.1",
+  "unseen_text": [
+    {
+      "cs": "Zákazník napsal: Vaše nabídka nás zaujala. V této chvíli nicméně dáváme přednost zachování současného dodavatele. Pokud se okolnosti změní, rádi se ozveme.",
+      "zh": "客户说报价引起兴趣，但目前优先维持现有供应商，情况变化会联系。"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "这封信当前最支持哪种结论？",
+      "stimulus_cs": "",
+      "answer": "b",
+      "explanation_zh": "礼貌兴趣不等于订单。",
+      "skill_ids": [
+        "reading"
+      ],
+      "knowledge_points": [
+        "c1-pragmatic-inference",
+        "c1-reported-stance"
+      ],
+      "error_category": "comprehension",
+      "options": [
+        {
+          "id": "a",
+          "text": "订单已确认"
+        },
+        {
+          "id": "b",
+          "text": "当前没有切换供应商的承诺"
+        },
+        {
+          "id": "c",
+          "text": "要求立即发货"
+        }
+      ],
+      "scoring_basis": "封闭题以答案核对；解析说明本题边界。",
+      "id": "C1-U03-CHECK-E01"
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "回复时不施压也不假设成交，问一个有用问题。",
+      "stimulus_cs": "",
+      "answer": "Děkuji za jasnou odpověď. Mohu se zeptat, který parametr by pro vás při případné budoucí změně byl rozhodující?",
+      "explanation_zh": "认可现状并询问未来评价标准。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "knowledge_points": [
+        "c1-pragmatic-inference",
+        "c1-reported-stance"
+      ],
+      "error_category": "comprehension",
+      "rubric": [
+        "回应具体任务，信息不失真",
+        "逻辑有衔接，能说明证据与限制",
+        "语法与搭配基本准确，语域适合对象",
+        "能自主组织语言而非照读范文"
+      ],
+      "scoring_basis": "开放表达：示范不是唯一答案；依量规自评或人工评阅，未接受人工评阅时不自动判定能力达标。",
+      "id": "C1-U03-CHECK-E02"
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "给同事一句准确的销售记录。",
+      "stimulus_cs": "",
+      "answer": "Zákazník zatím dodavatele měnit nechce; zájem o nabídku není potvrzenou objednávkou.",
+      "explanation_zh": "保留 zatím，不夸大也不永久封死。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "knowledge_points": [
+        "c1-pragmatic-inference",
+        "c1-reported-stance"
+      ],
+      "error_category": "comprehension",
+      "rubric": [
+        "回应具体任务，信息不失真",
+        "逻辑有衔接，能说明证据与限制",
+        "语法与搭配基本准确，语域适合对象",
+        "能自主组织语言而非照读范文"
+      ],
+      "scoring_basis": "开放表达：示范不是唯一答案；依量规自评或人工评阅，未接受人工评阅时不自动判定能力达标。",
+      "id": "C1-U03-CHECK-E03"
+    }
+  ],
+  "rubric": [
+    "理解未见材料中的主张及限定",
+    "主动表达时准确转述不同立场",
+    "区分事实、推断与建议",
+    "能针对误解调整解释方式"
+  ],
+  "remediation": [
+    {
+      "condition_zh": "误把可能性说成事实，或遗漏反方条件",
+      "lesson_ids": [
+        "C1-U03-L01"
+      ],
+      "action_zh": "重做信息定位与转述，标出每个判断的来源和语气词。"
+    },
+    {
+      "condition_zh": "表达卡住或只有单句结论",
+      "lesson_ids": [
+        "C1-U03-L01"
+      ],
+      "action_zh": "先列论点—依据—限制—行动四点，再换对象重录一次。"
+    }
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "C1-U03-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U03-CHECK--2026.10.22.1--text--35682e7a82--normal.mp3",
+      "slow_file": "audio/files/C1-U03-CHECK--2026.10.22.1--text--35682e7a82--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U03-CHECK--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Zákazník napsal: Vaše nabídka nás zaujala. V této chvíli nicméně dáváme přednost zachování současného dodavatele. Pokud se okolnosti změní, rádi se ozveme.",
+      "duration_seconds": 14.622902494331067,
+      "slow_duration_seconds": 16.4340589569161,
+      "sha256": "7a9767bf35c38cff1deb7ba1d6ca52ded40ff29824957a9bf99d10406763e224",
+      "slow_sha256": "fd092d9dcd5e43872f2483d578060241cfa265909e6df4af0c8b30549c188fe2"
+    },
+    {
+      "lesson_id": "C1-U03-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U03-CHECK--2026.10.22.1--text--35682e7a82--normal.mp3",
+      "slow_file": "audio/files/C1-U03-CHECK--2026.10.22.1--text--35682e7a82--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U03-CHECK--2026.10.22.1--text--p0",
+      "asset_id": "C1-U03-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Zákazník napsal: Vaše nabídka nás zaujala. V této chvíli nicméně dáváme přednost zachování současného dodavatele. Pokud se okolnosti změní, rádi se ozveme.",
+      "start": 0,
+      "end": 14.442902494331065,
+      "slow_start": 0,
+      "slow_end": 16.2540589569161
+    },
+    {
+      "lesson_id": "C1-U03-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U03-CHECK--2026.10.22.1--text--35682e7a82--normal.mp3",
+      "slow_file": "audio/files/C1-U03-CHECK--2026.10.22.1--text--35682e7a82--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U03-CHECK--2026.10.22.1--text--s0",
+      "asset_id": "C1-U03-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Zákazník napsal: Vaše nabídka nás zaujala.",
+      "start": 0,
+      "end": 3.982222222222222,
+      "slow_start": 0,
+      "slow_end": 4.562721088435374
+    },
+    {
+      "lesson_id": "C1-U03-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U03-CHECK--2026.10.22.1--text--35682e7a82--normal.mp3",
+      "slow_file": "audio/files/C1-U03-CHECK--2026.10.22.1--text--35682e7a82--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U03-CHECK--2026.10.22.1--text--s1",
+      "asset_id": "C1-U03-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "V této chvíli nicméně dáváme přednost zachování současného dodavatele.",
+      "start": 4.162222222222222,
+      "end": 10.501269841269842,
+      "slow_start": 4.742721088435374,
+      "slow_end": 11.766757369614513
+    },
+    {
+      "lesson_id": "C1-U03-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U03-CHECK--2026.10.22.1--text--35682e7a82--normal.mp3",
+      "slow_file": "audio/files/C1-U03-CHECK--2026.10.22.1--text--35682e7a82--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U03-CHECK--2026.10.22.1--text--s2",
+      "asset_id": "C1-U03-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Pokud se okolnosti změní, rádi se ozveme.",
+      "start": 10.681269841269842,
+      "end": 14.442902494331065,
+      "slow_start": 11.946757369614513,
+      "slow_end": 16.2540589569161
+    }
+  ]
+}

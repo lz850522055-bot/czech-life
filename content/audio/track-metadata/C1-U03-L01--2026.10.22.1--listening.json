@@ -1,0 +1,75 @@
+{
+  "id": "C1-U03-L01--2026.10.22.1--listening",
+  "lesson_id": "C1-U03-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Myšlenku bych nezavrhoval. Jen bych byl rád, kdybychom před zveřejněním termínu věděli, kdo akci zajistí. Když to vyřešíte, můžeme o konkrétním datu jednat.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Myšlenku bych nezavrhoval.",
+        "Jen bych byl rád, kdybychom před zveřejněním termínu věděli, kdo akci zajistí.",
+        "Když to vyřešíte, můžeme o konkrétním datu jednat."
+      ]
+    }
+  ],
+  "text_sha256": "e0ec8acaef933c0adf694af34c9cbfe9bf5981733a241bb3ce17409d3cef8fc0",
+  "source_file": "content/lessons/C1/C1-U03-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U03-L01--2026.10.22.1--listening--e0ec8acaef--normal.mp3",
+  "slow_file": "content/audio/files/C1-U03-L01--2026.10.22.1--listening--e0ec8acaef--slow.mp3",
+  "duration_seconds": 13.775374149659864,
+  "slow_duration_seconds": 15.63297052154195,
+  "cues": [
+    {
+      "text": "Myšlenku bych nezavrhoval. Jen bych byl rád, kdybychom před zveřejněním termínu věděli, kdo akci zajistí. Když to vyřešíte, můžeme o konkrétním datu jednat.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Myšlenku bych nezavrhoval.",
+        "Jen bych byl rád, kdybychom před zveřejněním termínu věděli, kdo akci zajistí.",
+        "Když to vyřešíte, můžeme o konkrétním datu jednat."
+      ],
+      "start": 0.0,
+      "end": 13.595374149659865,
+      "sentences": [
+        {
+          "text": "Myšlenku bych nezavrhoval.",
+          "start": 0.0,
+          "end": 2.2639455782312927,
+          "slow_start": 0.0,
+          "slow_end": 2.647074829931973
+        },
+        {
+          "text": "Jen bych byl rád, kdybychom před zveřejněním termínu věděli, kdo akci zajistí.",
+          "start": 2.4439455782312924,
+          "end": 8.875873015873015,
+          "slow_start": 2.827074829931973,
+          "slow_end": 10.199410430839002
+        },
+        {
+          "text": "Když to vyřešíte, můžeme o konkrétním datu jednat.",
+          "start": 9.055873015873017,
+          "end": 13.595374149659865,
+          "slow_start": 10.379410430839002,
+          "slow_end": 15.45297052154195
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 15.45297052154195
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "b6a832820605bc10f4f1bc7f36c3855ccb71a3d605fd2b2084856497a664a64e",
+    "slow": "c5048afa7139fe6af330f869647d7fae820199075b3e56489dc9c1c47e0708de"
+  }
+}

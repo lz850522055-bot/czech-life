@@ -1,0 +1,203 @@
+{
+  "id": "A2-U10-L01--2026.10.23.1--vocabulary",
+  "lesson_id": "A2-U10-L01",
+  "content_version": "2026.10.23.1",
+  "level": "A2",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Přines prosím kabel.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Přines prosím kabel."
+      ]
+    },
+    {
+      "text": "Můžete pomoct?",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Můžete pomoct?"
+      ]
+    },
+    {
+      "text": "Rozdělíme práci.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Rozdělíme práci."
+      ]
+    },
+    {
+      "text": "Pokud bude čas, přijdu.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Pokud bude čas, přijdu."
+      ]
+    },
+    {
+      "text": "Kdybych měl čas, pomohl bych.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Kdybych měl čas, pomohl bych."
+      ]
+    },
+    {
+      "text": "Napiš jméno na seznam.",
+      "index": 5,
+      "role": "vocabulary",
+      "parts": [
+        "Napiš jméno na seznam."
+      ]
+    }
+  ],
+  "text_sha256": "01e58dcff88b01905c719585c24d60cc03a210496967a6657d03aea40434ec56",
+  "source_file": "content/lessons/A2/A2-U10-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U10-L01--2026.10.22.1--vocabulary--01e58dcff8--normal.mp3",
+  "slow_file": "content/audio/files/A2-U10-L01--2026.10.22.1--vocabulary--01e58dcff8--slow.mp3",
+  "duration_seconds": 13.235646258503401,
+  "slow_duration_seconds": 15.011972789115646,
+  "cues": [
+    {
+      "text": "Přines prosím kabel.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Přines prosím kabel."
+      ],
+      "start": 0.0,
+      "end": 2.020136054421769,
+      "sentences": [
+        {
+          "text": "Přines prosím kabel.",
+          "start": 0.0,
+          "end": 2.020136054421769,
+          "slow_start": 0.0,
+          "slow_end": 2.2291156462585033
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.2291156462585033
+    },
+    {
+      "text": "Můžete pomoct?",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Můžete pomoct?"
+      ],
+      "start": 2.2001360544217685,
+      "end": 3.755873015873016,
+      "sentences": [
+        {
+          "text": "Můžete pomoct?",
+          "start": 2.2001360544217685,
+          "end": 3.755873015873016,
+          "slow_start": 2.4091156462585035,
+          "slow_end": 4.150612244897959
+        }
+      ],
+      "slow_start": 2.4091156462585035,
+      "slow_end": 4.150612244897959
+    },
+    {
+      "text": "Rozdělíme práci.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Rozdělíme práci."
+      ],
+      "start": 3.9358730158730157,
+      "end": 5.654149659863946,
+      "sentences": [
+        {
+          "text": "Rozdělíme práci.",
+          "start": 3.9358730158730157,
+          "end": 5.654149659863946,
+          "slow_start": 4.330612244897959,
+          "slow_end": 6.362358276643991
+        }
+      ],
+      "slow_start": 4.330612244897959,
+      "slow_end": 6.362358276643991
+    },
+    {
+      "text": "Pokud bude čas, přijdu.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Pokud bude čas, přijdu."
+      ],
+      "start": 5.834149659863946,
+      "end": 7.877505668934241,
+      "sentences": [
+        {
+          "text": "Pokud bude čas, přijdu.",
+          "start": 5.834149659863946,
+          "end": 7.877505668934241,
+          "slow_start": 6.5423582766439905,
+          "slow_end": 8.91079365079365
+        }
+      ],
+      "slow_start": 6.5423582766439905,
+      "slow_end": 8.91079365079365
+    },
+    {
+      "text": "Kdybych měl čas, pomohl bych.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Kdybych měl čas, pomohl bych."
+      ],
+      "start": 8.05750566893424,
+      "end": 10.84390022675737,
+      "sentences": [
+        {
+          "text": "Kdybych měl čas, pomohl bych.",
+          "start": 8.05750566893424,
+          "end": 10.84390022675737,
+          "slow_start": 9.090793650793652,
+          "slow_end": 12.364807256235828
+        }
+      ],
+      "slow_start": 9.090793650793652,
+      "slow_end": 12.364807256235828
+    },
+    {
+      "text": "Napiš jméno na seznam.",
+      "index": 5,
+      "role": "vocabulary",
+      "parts": [
+        "Napiš jméno na seznam."
+      ],
+      "start": 11.02390022675737,
+      "end": 13.055646258503401,
+      "sentences": [
+        {
+          "text": "Napiš jméno na seznam.",
+          "start": 11.02390022675737,
+          "end": 13.055646258503401,
+          "slow_start": 12.544807256235828,
+          "slow_end": 14.831972789115646
+        }
+      ],
+      "slow_start": 12.544807256235828,
+      "slow_end": 14.831972789115646
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "3910b319ebb2367159874d54a9a920bdaa509849c3c3d490a34d79f858048ac2",
+    "slow": "3264041eb4b362892cd9454f335587b120ae7d95be313d3df464dbb05b0bc85a"
+  },
+  "reused_from_track_id": "A2-U10-L01--2026.10.22.1--vocabulary"
+}

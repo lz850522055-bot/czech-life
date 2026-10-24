@@ -1,0 +1,75 @@
+{
+  "id": "C1-U14-L01--2026.10.22.1--listening",
+  "lesson_id": "C1-U14-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Se zkouškami souhlasím, pokud zůstanou mimo dohodnuté tiché bloky. Neznamená to, že už nikdy nebudu potřebovat večer navíc. Chci jen vědět, jak takovou výjimku předem domluvíme.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Se zkouškami souhlasím, pokud zůstanou mimo dohodnuté tiché bloky.",
+        "Neznamená to, že už nikdy nebudu potřebovat večer navíc.",
+        "Chci jen vědět, jak takovou výjimku předem domluvíme."
+      ]
+    }
+  ],
+  "text_sha256": "e778956c2fd570abce130769f57103709b85595f1d061ec468f330ceadc1f6a9",
+  "source_file": "content/lessons/C1/C1-U14-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U14-L01--2026.10.22.1--listening--e778956c2f--normal.mp3",
+  "slow_file": "content/audio/files/C1-U14-L01--2026.10.22.1--listening--e778956c2f--slow.mp3",
+  "duration_seconds": 16.05092970521542,
+  "slow_duration_seconds": 17.920136054421768,
+  "cues": [
+    {
+      "text": "Se zkouškami souhlasím, pokud zůstanou mimo dohodnuté tiché bloky. Neznamená to, že už nikdy nebudu potřebovat večer navíc. Chci jen vědět, jak takovou výjimku předem domluvíme.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Se zkouškami souhlasím, pokud zůstanou mimo dohodnuté tiché bloky.",
+        "Neznamená to, že už nikdy nebudu potřebovat večer navíc.",
+        "Chci jen vědět, jak takovou výjimku předem domluvíme."
+      ],
+      "start": 0.0,
+      "end": 15.870929705215419,
+      "sentences": [
+        {
+          "text": "Se zkouškami souhlasím, pokud zůstanou mimo dohodnuté tiché bloky.",
+          "start": 0.0,
+          "end": 5.630839002267574,
+          "slow_start": 0.0,
+          "slow_end": 6.257777777777778
+        },
+        {
+          "text": "Neznamená to, že už nikdy nebudu potřebovat večer navíc.",
+          "start": 5.810839002267573,
+          "end": 11.313968253968254,
+          "slow_start": 6.437777777777778,
+          "slow_end": 12.660725623582767
+        },
+        {
+          "text": "Chci jen vědět, jak takovou výjimku předem domluvíme.",
+          "start": 11.493968253968253,
+          "end": 15.870929705215419,
+          "slow_start": 12.840725623582767,
+          "slow_end": 17.740136054421768
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 17.740136054421768
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "4da418d8395d15cf34d06fcb56484b264e4ea05d0272a70135d0dabc57f08909",
+    "slow": "317b1a8258f227cc78c567e3061a34d82ca6376c96dc590bbfa6426d9d49af88"
+  }
+}

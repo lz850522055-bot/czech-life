@@ -1,0 +1,321 @@
+{
+  "id": "A2-U09-L01--2026.10.22.1--text",
+  "lesson_id": "A2-U09-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Hledáme místo pro malé setkání. Máme dvě možnosti: kavárnu u nádraží a sál v komunitním centru. Každé místo má jiné výhody.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Hledáme místo pro malé setkání.",
+        "Máme dvě možnosti: kavárnu u nádraží a sál v komunitním centru.",
+        "Každé místo má jiné výhody."
+      ]
+    },
+    {
+      "text": "Kavárna je menší, ale je blíž k zastávce. Lidé ji snadno najdou a nemusíme nic připravovat. Obsluha nám přinese nápoje.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Kavárna je menší, ale je blíž k zastávce.",
+        "Lidé ji snadno najdou a nemusíme nic připravovat.",
+        "Obsluha nám přinese nápoje."
+      ]
+    },
+    {
+      "text": "Sál je větší a tišší. Můžeme tam přesouvat stoly a pracovat ve skupinách. Je ale dál od centra a musíme po sobě uklidit.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Sál je větší a tišší.",
+        "Můžeme tam přesouvat stoly a pracovat ve skupinách.",
+        "Je ale dál od centra a musíme po sobě uklidit."
+      ]
+    },
+    {
+      "text": "Petr říká, že levnější varianta nemusí být vždy lepší. Pokud zaplatíme méně za prostor, ale více za dopravu, celkové náklady budou podobné.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Petr říká, že levnější varianta nemusí být vždy lepší.",
+        "Pokud zaplatíme méně za prostor, ale více za dopravu, celkové náklady budou podobné."
+      ]
+    },
+    {
+      "text": "Jana má jiný názor. Pro ni je nejdůležitější klid, protože během setkání budeme hodně mluvit a poslouchat nahrávky.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Jana má jiný názor.",
+        "Pro ni je nejdůležitější klid, protože během setkání budeme hodně mluvit a poslouchat nahrávky."
+      ]
+    },
+    {
+      "text": "Já chci vědět, jestli jsou obě místa stejně dostupná pro člověka, který nemůže chodit po schodech. Potřebujeme jasnou odpověď od provozovatele.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Já chci vědět, jestli jsou obě místa stejně dostupná pro člověka, který nemůže chodit po schodech.",
+        "Potřebujeme jasnou odpověď od provozovatele."
+      ]
+    },
+    {
+      "text": "Nakonec se rozhodneme až po krátké návštěvě. Fotografie vypadají dobře, ale neukazují hluk, pohodlí židlí ani skutečnou šířku dveří.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Nakonec se rozhodneme až po krátké návštěvě.",
+        "Fotografie vypadají dobře, ale neukazují hluk, pohodlí židlí ani skutečnou šířku dveří."
+      ]
+    }
+  ],
+  "text_sha256": "e891043b8322ee62114f47526b603a680cd7071327078c3c6e6f1b843bbc55ea",
+  "source_file": "content/lessons/A2/A2-U09-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--normal.mp3",
+  "slow_file": "content/audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--slow.mp3",
+  "duration_seconds": 81.52022675736961,
+  "slow_duration_seconds": 91.45836734693877,
+  "cues": [
+    {
+      "text": "Hledáme místo pro malé setkání. Máme dvě možnosti: kavárnu u nádraží a sál v komunitním centru. Každé místo má jiné výhody.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Hledáme místo pro malé setkání.",
+        "Máme dvě možnosti: kavárnu u nádraží a sál v komunitním centru.",
+        "Každé místo má jiné výhody."
+      ],
+      "start": 0.0,
+      "end": 11.389478458049886,
+      "sentences": [
+        {
+          "text": "Hledáme místo pro malé setkání.",
+          "start": 0.0,
+          "end": 2.7747845804988662,
+          "slow_start": 0.0,
+          "slow_end": 3.320453514739229
+        },
+        {
+          "text": "Máme dvě možnosti: kavárnu u nádraží a sál v komunitním centru.",
+          "start": 2.9547845804988664,
+          "end": 8.794603174603175,
+          "slow_start": 3.500453514739229,
+          "slow_end": 10.094920634920635
+        },
+        {
+          "text": "Každé místo má jiné výhody.",
+          "start": 8.974603174603175,
+          "end": 11.389478458049886,
+          "slow_start": 10.274920634920635,
+          "slow_end": 12.96843537414966
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 12.96843537414966
+    },
+    {
+      "text": "Kavárna je menší, ale je blíž k zastávce. Lidé ji snadno najdou a nemusíme nic připravovat. Obsluha nám přinese nápoje.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Kavárna je menší, ale je blíž k zastávce.",
+        "Lidé ji snadno najdou a nemusíme nic připravovat.",
+        "Obsluha nám přinese nápoje."
+      ],
+      "start": 11.569478458049886,
+      "end": 22.83124716553288,
+      "sentences": [
+        {
+          "text": "Kavárna je menší, ale je blíž k zastávce.",
+          "start": 11.569478458049886,
+          "end": 15.656190476190476,
+          "slow_start": 13.14843537414966,
+          "slow_end": 17.676326530612243
+        },
+        {
+          "text": "Lidé ji snadno najdou a nemusíme nic připravovat.",
+          "start": 15.836190476190476,
+          "end": 20.108662131519274,
+          "slow_start": 17.856326530612243,
+          "slow_end": 22.558367346938777
+        },
+        {
+          "text": "Obsluha nám přinese nápoje.",
+          "start": 20.288662131519274,
+          "end": 22.83124716553288,
+          "slow_start": 22.738367346938777,
+          "slow_end": 25.53637188208617
+        }
+      ],
+      "slow_start": 13.14843537414966,
+      "slow_end": 25.53637188208617
+    },
+    {
+      "text": "Sál je větší a tišší. Můžeme tam přesouvat stoly a pracovat ve skupinách. Je ale dál od centra a musíme po sobě uklidit.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Sál je větší a tišší.",
+        "Můžeme tam přesouvat stoly a pracovat ve skupinách.",
+        "Je ale dál od centra a musíme po sobě uklidit."
+      ],
+      "start": 23.01124716553288,
+      "end": 34.14530612244898,
+      "sentences": [
+        {
+          "text": "Sál je větší a tišší.",
+          "start": 23.01124716553288,
+          "end": 25.15909297052154,
+          "slow_start": 25.716371882086168,
+          "slow_end": 28.119637188208618
+        },
+        {
+          "text": "Můžeme tam přesouvat stoly a pracovat ve skupinách.",
+          "start": 25.33909297052154,
+          "end": 29.72766439909297,
+          "slow_start": 28.299637188208617,
+          "slow_end": 33.291927437641725
+        },
+        {
+          "text": "Je ale dál od centra a musíme po sobě uklidit.",
+          "start": 29.90766439909297,
+          "end": 34.14530612244898,
+          "slow_start": 33.471927437641725,
+          "slow_end": 38.20879818594104
+        }
+      ],
+      "slow_start": 25.716371882086168,
+      "slow_end": 38.20879818594104
+    },
+    {
+      "text": "Petr říká, že levnější varianta nemusí být vždy lepší. Pokud zaplatíme méně za prostor, ale více za dopravu, celkové náklady budou podobné.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Petr říká, že levnější varianta nemusí být vždy lepší.",
+        "Pokud zaplatíme méně za prostor, ale více za dopravu, celkové náklady budou podobné."
+      ],
+      "start": 34.32530612244898,
+      "end": 47.020861678004536,
+      "sentences": [
+        {
+          "text": "Petr říká, že levnější varianta nemusí být vždy lepší.",
+          "start": 34.32530612244898,
+          "end": 39.63106575963719,
+          "slow_start": 38.38879818594104,
+          "slow_end": 44.309886621315194
+        },
+        {
+          "text": "Pokud zaplatíme méně za prostor, ale více za dopravu, celkové náklady budou podobné.",
+          "start": 39.81106575963719,
+          "end": 47.020861678004536,
+          "slow_start": 44.48988662131519,
+          "slow_end": 52.40789115646258
+        }
+      ],
+      "slow_start": 38.38879818594104,
+      "slow_end": 52.40789115646258
+    },
+    {
+      "text": "Jana má jiný názor. Pro ni je nejdůležitější klid, protože během setkání budeme hodně mluvit a poslouchat nahrávky.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Jana má jiný názor.",
+        "Pro ni je nejdůležitější klid, protože během setkání budeme hodně mluvit a poslouchat nahrávky."
+      ],
+      "start": 47.200861678004536,
+      "end": 57.42349206349206,
+      "sentences": [
+        {
+          "text": "Jana má jiný názor.",
+          "start": 47.200861678004536,
+          "end": 49.383537414965986,
+          "slow_start": 52.58789115646258,
+          "slow_end": 55.10725623582766
+        },
+        {
+          "text": "Pro ni je nejdůležitější klid, protože během setkání budeme hodně mluvit a poslouchat nahrávky.",
+          "start": 49.563537414965985,
+          "end": 57.42349206349206,
+          "slow_start": 55.28725623582766,
+          "slow_end": 64.06439909297052
+        }
+      ],
+      "slow_start": 52.58789115646258,
+      "slow_end": 64.06439909297052
+    },
+    {
+      "text": "Já chci vědět, jestli jsou obě místa stejně dostupná pro člověka, který nemůže chodit po schodech. Potřebujeme jasnou odpověď od provozovatele.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Já chci vědět, jestli jsou obě místa stejně dostupná pro člověka, který nemůže chodit po schodech.",
+        "Potřebujeme jasnou odpověď od provozovatele."
+      ],
+      "start": 57.60349206349206,
+      "end": 69.55600907029478,
+      "sentences": [
+        {
+          "text": "Já chci vědět, jestli jsou obě místa stejně dostupná pro člověka, který nemůže chodit po schodech.",
+          "start": 57.60349206349206,
+          "end": 65.57954648526078,
+          "slow_start": 64.24439909297053,
+          "slow_end": 73.38145124716553
+        },
+        {
+          "text": "Potřebujeme jasnou odpověď od provozovatele.",
+          "start": 65.75954648526077,
+          "end": 69.55600907029478,
+          "slow_start": 73.56145124716554,
+          "slow_end": 77.86875283446712
+        }
+      ],
+      "slow_start": 64.24439909297053,
+      "slow_end": 77.86875283446712
+    },
+    {
+      "text": "Nakonec se rozhodneme až po krátké návštěvě. Fotografie vypadají dobře, ale neukazují hluk, pohodlí židlí ani skutečnou šířku dveří.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Nakonec se rozhodneme až po krátké návštěvě.",
+        "Fotografie vypadají dobře, ale neukazují hluk, pohodlí židlí ani skutečnou šířku dveří."
+      ],
+      "start": 69.73600907029478,
+      "end": 81.34022675736962,
+      "sentences": [
+        {
+          "text": "Nakonec se rozhodneme až po krátké návštěvě.",
+          "start": 69.73600907029478,
+          "end": 73.41637188208617,
+          "slow_start": 78.04875283446712,
+          "slow_end": 82.2631746031746
+        },
+        {
+          "text": "Fotografie vypadají dobře, ale neukazují hluk, pohodlí židlí ani skutečnou šířku dveří.",
+          "start": 73.59637188208617,
+          "end": 81.34022675736962,
+          "slow_start": 82.4431746031746,
+          "slow_end": 91.27836734693878
+        }
+      ],
+      "slow_start": 78.04875283446712,
+      "slow_end": 91.27836734693878
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "62219d0c0d7ffba3f7f1a47ec218ad86eeb37eae8ebd9bae03581c1c656a2974",
+    "slow": "41e6637f820a5a178f2dbb956bc72cfb7f657ab1facfea398d1a66d651c1ddcd"
+  }
+}

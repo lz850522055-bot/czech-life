@@ -1,0 +1,426 @@
+{
+  "id": "A1-U10-L01--2026.10.22.1--text",
+  "lesson_id": "A1-U10-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Dnes nemám moc energie. Mám hlad a trochu žízeň.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Dnes nemám moc energie.",
+        "Mám hlad a trochu žízeň."
+      ]
+    },
+    {
+      "text": "Chceš něco k jídlu? Máme chléb, sýr a teplou polévku.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Chceš něco k jídlu?",
+        "Máme chléb, sýr a teplou polévku."
+      ]
+    },
+    {
+      "text": "Polévku, prosím. A potřebuju vodu. Je mi také trochu zima.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Polévku, prosím.",
+        "A potřebuju vodu.",
+        "Je mi také trochu zima."
+      ]
+    },
+    {
+      "text": "Můžu zavřít okno. Chceš si na chvíli sednout?",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Můžu zavřít okno.",
+        "Chceš si na chvíli sednout?"
+      ]
+    },
+    {
+      "text": "Ano, děkuju. Jsem unavený, protože dnes hodně pracuju.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Ano, děkuju.",
+        "Jsem unavený, protože dnes hodně pracuju."
+      ]
+    },
+    {
+      "text": "Bolí tě hlava, nebo jen potřebuješ odpočívat?",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Bolí tě hlava, nebo jen potřebuješ odpočívat?"
+      ]
+    },
+    {
+      "text": "Trochu mě bolí hlava. Nechci teď žádnou kávu.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Trochu mě bolí hlava.",
+        "Nechci teď žádnou kávu."
+      ]
+    },
+    {
+      "text": "Dobře. Tady je voda. Když potřebuješ pomoc, řekni mi to.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Dobře.",
+        "Tady je voda.",
+        "Když potřebuješ pomoc, řekni mi to."
+      ]
+    },
+    {
+      "text": "Děkuju. Už je mi lépe. Teď chci chvíli odpočívat.",
+      "index": 8,
+      "role": "text",
+      "parts": [
+        "Děkuju.",
+        "Už je mi lépe.",
+        "Teď chci chvíli odpočívat."
+      ]
+    },
+    {
+      "text": "Večer už nikam nejdu. Zůstanu doma a zavolám kamarádovi.",
+      "index": 9,
+      "role": "text",
+      "parts": [
+        "Večer už nikam nejdu.",
+        "Zůstanu doma a zavolám kamarádovi."
+      ]
+    }
+  ],
+  "text_sha256": "7385d5569fe74aa104df76c7a1e049d52f72fcf47acaeb9324639fe5e56e9908",
+  "source_file": "content/lessons/A1/A1-U10-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U10-L01--2026.10.22.1--text--7385d5569f--normal.mp3",
+  "slow_file": "content/audio/files/A1-U10-L01--2026.10.22.1--text--7385d5569f--slow.mp3",
+  "duration_seconds": 50.74820861678005,
+  "slow_duration_seconds": 57.133696145124716,
+  "cues": [
+    {
+      "text": "Dnes nemám moc energie. Mám hlad a trochu žízeň.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Dnes nemám moc energie.",
+        "Mám hlad a trochu žízeň."
+      ],
+      "start": 0.0,
+      "end": 4.986530612244898,
+      "sentences": [
+        {
+          "text": "Dnes nemám moc energie.",
+          "start": 0.0,
+          "end": 2.449705215419501,
+          "slow_start": 0.0,
+          "slow_end": 2.728344671201814
+        },
+        {
+          "text": "Mám hlad a trochu žízeň.",
+          "start": 2.6297052154195013,
+          "end": 4.986530612244898,
+          "slow_start": 2.908344671201814,
+          "slow_end": 5.729569160997732
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 5.729569160997732
+    },
+    {
+      "text": "Chceš něco k jídlu? Máme chléb, sýr a teplou polévku.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Chceš něco k jídlu?",
+        "Máme chléb, sýr a teplou polévku."
+      ],
+      "start": 5.166530612244898,
+      "end": 10.269160997732426,
+      "sentences": [
+        {
+          "text": "Chceš něco k jídlu?",
+          "start": 5.166530612244898,
+          "end": 6.757097505668934,
+          "slow_start": 5.909569160997733,
+          "slow_end": 7.674285714285714
+        },
+        {
+          "text": "Máme chléb, sýr a teplou polévku.",
+          "start": 6.937097505668934,
+          "end": 10.269160997732426,
+          "slow_start": 7.854285714285714,
+          "slow_end": 11.673968253968255
+        }
+      ],
+      "slow_start": 5.909569160997733,
+      "slow_end": 11.673968253968255
+    },
+    {
+      "text": "Polévku, prosím. A potřebuju vodu. Je mi také trochu zima.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Polévku, prosím.",
+        "A potřebuju vodu.",
+        "Je mi také trochu zima."
+      ],
+      "start": 10.449160997732426,
+      "end": 15.894331065759637,
+      "sentences": [
+        {
+          "text": "Polévku, prosím.",
+          "start": 10.449160997732426,
+          "end": 12.132607709750566,
+          "slow_start": 11.853968253968254,
+          "slow_end": 13.734784580498866
+        },
+        {
+          "text": "A potřebuju vodu.",
+          "start": 12.312607709750568,
+          "end": 13.868344671201815,
+          "slow_start": 13.914784580498866,
+          "slow_end": 15.598231292517006
+        },
+        {
+          "text": "Je mi také trochu zima.",
+          "start": 14.048344671201814,
+          "end": 15.894331065759637,
+          "slow_start": 15.778231292517006,
+          "slow_end": 17.914467120181406
+        }
+      ],
+      "slow_start": 11.853968253968254,
+      "slow_end": 17.914467120181406
+    },
+    {
+      "text": "Můžu zavřít okno. Chceš si na chvíli sednout?",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Můžu zavřít okno.",
+        "Chceš si na chvíli sednout?"
+      ],
+      "start": 16.074331065759637,
+      "end": 20.213333333333335,
+      "sentences": [
+        {
+          "text": "Můžu zavřít okno.",
+          "start": 16.074331065759637,
+          "end": 17.85065759637188,
+          "slow_start": 18.094467120181406,
+          "slow_end": 20.230702947845806
+        },
+        {
+          "text": "Chceš si na chvíli sednout?",
+          "start": 18.03065759637188,
+          "end": 20.213333333333335,
+          "slow_start": 20.410702947845806,
+          "slow_end": 22.790748299319727
+        }
+      ],
+      "slow_start": 18.094467120181406,
+      "slow_end": 22.790748299319727
+    },
+    {
+      "text": "Ano, děkuju. Jsem unavený, protože dnes hodně pracuju.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Ano, děkuju.",
+        "Jsem unavený, protože dnes hodně pracuju."
+      ],
+      "start": 20.393333333333334,
+      "end": 25.61206349206349,
+      "sentences": [
+        {
+          "text": "Ano, děkuju.",
+          "start": 20.393333333333334,
+          "end": 21.64721088435374,
+          "slow_start": 22.970748299319727,
+          "slow_end": 24.480045351473922
+        },
+        {
+          "text": "Jsem unavený, protože dnes hodně pracuju.",
+          "start": 21.827210884353743,
+          "end": 25.61206349206349,
+          "slow_start": 24.660045351473922,
+          "slow_end": 28.80480725623583
+        }
+      ],
+      "slow_start": 22.970748299319727,
+      "slow_end": 28.80480725623583
+    },
+    {
+      "text": "Bolí tě hlava, nebo jen potřebuješ odpočívat?",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Bolí tě hlava, nebo jen potřebuješ odpočívat?"
+      ],
+      "start": 25.79206349206349,
+      "end": 29.94843537414966,
+      "sentences": [
+        {
+          "text": "Bolí tě hlava, nebo jen potřebuješ odpočívat?",
+          "start": 25.79206349206349,
+          "end": 29.94843537414966,
+          "slow_start": 28.98480725623583,
+          "slow_end": 33.59396825396826
+        }
+      ],
+      "slow_start": 28.98480725623583,
+      "slow_end": 33.59396825396826
+    },
+    {
+      "text": "Trochu mě bolí hlava. Nechci teď žádnou kávu.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Trochu mě bolí hlava.",
+        "Nechci teď žádnou kávu."
+      ],
+      "start": 30.12843537414966,
+      "end": 34.441587301587305,
+      "sentences": [
+        {
+          "text": "Trochu mě bolí hlava.",
+          "start": 30.12843537414966,
+          "end": 32.125351473922905,
+          "slow_start": 33.773968253968256,
+          "slow_end": 36.0843537414966
+        },
+        {
+          "text": "Nechci teď žádnou kávu.",
+          "start": 32.305351473922904,
+          "end": 34.441587301587305,
+          "slow_start": 36.2643537414966,
+          "slow_end": 38.621179138322
+        }
+      ],
+      "slow_start": 33.773968253968256,
+      "slow_end": 38.621179138322
+    },
+    {
+      "text": "Dobře. Tady je voda. Když potřebuješ pomoc, řekni mi to.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Dobře.",
+        "Tady je voda.",
+        "Když potřebuješ pomoc, řekni mi to."
+      ],
+      "start": 34.621587301587304,
+      "end": 39.95065759637188,
+      "sentences": [
+        {
+          "text": "Dobře.",
+          "start": 34.621587301587304,
+          "end": 35.42267573696145,
+          "slow_start": 38.801179138322,
+          "slow_end": 39.69514739229025
+        },
+        {
+          "text": "Tady je voda.",
+          "start": 35.60267573696145,
+          "end": 36.717233560090705,
+          "slow_start": 39.87514739229025,
+          "slow_end": 41.14063492063492
+        },
+        {
+          "text": "Když potřebuješ pomoc, řekni mi to.",
+          "start": 36.897233560090704,
+          "end": 39.95065759637188,
+          "slow_start": 41.32063492063492,
+          "slow_end": 44.72235827664399
+        }
+      ],
+      "slow_start": 38.801179138322,
+      "slow_end": 44.72235827664399
+    },
+    {
+      "text": "Děkuju. Už je mi lépe. Teď chci chvíli odpočívat.",
+      "index": 8,
+      "role": "text",
+      "parts": [
+        "Děkuju.",
+        "Už je mi lépe.",
+        "Teď chci chvíli odpočívat."
+      ],
+      "start": 40.13065759637188,
+      "end": 45.16947845804989,
+      "sentences": [
+        {
+          "text": "Děkuju.",
+          "start": 40.13065759637188,
+          "end": 40.94335600907029,
+          "slow_start": 44.902358276643994,
+          "slow_end": 45.88920634920635
+        },
+        {
+          "text": "Už je mi lépe.",
+          "start": 41.12335600907029,
+          "end": 42.49333333333333,
+          "slow_start": 46.06920634920635,
+          "slow_end": 47.706213151927436
+        },
+        {
+          "text": "Teď chci chvíli odpočívat.",
+          "start": 42.67333333333333,
+          "end": 45.16947845804989,
+          "slow_start": 47.886213151927436,
+          "slow_end": 50.70743764172336
+        }
+      ],
+      "slow_start": 44.902358276643994,
+      "slow_end": 50.70743764172336
+    },
+    {
+      "text": "Večer už nikam nejdu. Zůstanu doma a zavolám kamarádovi.",
+      "index": 9,
+      "role": "text",
+      "parts": [
+        "Večer už nikam nejdu.",
+        "Zůstanu doma a zavolám kamarádovi."
+      ],
+      "start": 45.34947845804989,
+      "end": 50.56820861678005,
+      "sentences": [
+        {
+          "text": "Večer už nikam nejdu.",
+          "start": 45.34947845804989,
+          "end": 47.31156462585034,
+          "slow_start": 50.88743764172336,
+          "slow_end": 53.1978231292517
+        },
+        {
+          "text": "Zůstanu doma a zavolám kamarádovi.",
+          "start": 47.49156462585034,
+          "end": 50.56820861678005,
+          "slow_start": 53.3778231292517,
+          "slow_end": 56.95369614512472
+        }
+      ],
+      "slow_start": 50.88743764172336,
+      "slow_end": 56.95369614512472
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "dfeff6f117889678d328200e7d88d4c162d0bd8923e8a40aef01a31924b93e7c",
+    "slow": "69ec39c8bae1ebc39ae9eb37c0e35b9cbabcb876658a3b262517dd8017c055c3"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": "C1-U10-CHECK--2026.10.22.1--text",
+  "lesson_id": "C1-U10-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Zpráva A uvádí, že poradna přijala během měsíce osmdesát dotazů. Zpráva B uvádí, že služby využilo padesát lidí. Jedna osoba mohla položit více dotazů. Ani jedna zpráva neuvádí počet vyřešených případů.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Zpráva A uvádí, že poradna přijala během měsíce osmdesát dotazů.",
+        "Zpráva B uvádí, že služby využilo padesát lidí.",
+        "Jedna osoba mohla položit více dotazů.",
+        "Ani jedna zpráva neuvádí počet vyřešených případů."
+      ]
+    }
+  ],
+  "text_sha256": "b87f6d29866324d53b02269cab479c839e1538c8028402e3a848b40b6b0751fd",
+  "source_file": "content/assessments/C1-U10.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U10-CHECK--2026.10.22.1--text--b87f6d2986--normal.mp3",
+  "slow_file": "content/audio/files/C1-U10-CHECK--2026.10.22.1--text--b87f6d2986--slow.mp3",
+  "duration_seconds": 19.806802721088435,
+  "slow_duration_seconds": 21.943038548752835,
+  "cues": [
+    {
+      "text": "Zpráva A uvádí, že poradna přijala během měsíce osmdesát dotazů. Zpráva B uvádí, že služby využilo padesát lidí. Jedna osoba mohla položit více dotazů. Ani jedna zpráva neuvádí počet vyřešených případů.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Zpráva A uvádí, že poradna přijala během měsíce osmdesát dotazů.",
+        "Zpráva B uvádí, že služby využilo padesát lidí.",
+        "Jedna osoba mohla položit více dotazů.",
+        "Ani jedna zpráva neuvádí počet vyřešených případů."
+      ],
+      "start": 0.0,
+      "end": 19.626802721088435,
+      "sentences": [
+        {
+          "text": "Zpráva A uvádí, že poradna přijala během měsíce osmdesát dotazů.",
+          "start": 0.0,
+          "end": 6.106848072562358,
+          "slow_start": 0.0,
+          "slow_end": 6.896326530612245
+        },
+        {
+          "text": "Zpráva B uvádí, že služby využilo padesát lidí.",
+          "start": 6.286848072562358,
+          "end": 11.174648526077098,
+          "slow_start": 7.076326530612245,
+          "slow_end": 12.474965986394558
+        },
+        {
+          "text": "Jedna osoba mohla položit více dotazů.",
+          "start": 11.354648526077098,
+          "end": 14.907301587301587,
+          "slow_start": 12.654965986394558,
+          "slow_end": 16.60235827664399
+        },
+        {
+          "text": "Ani jedna zpráva neuvádí počet vyřešených případů.",
+          "start": 15.087301587301587,
+          "end": 19.626802721088435,
+          "slow_start": 16.78235827664399,
+          "slow_end": 21.763038548752835
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 21.763038548752835
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "44204ecc9dd89151d0ad99d60062ee1af8b0d842b292628b2905267849c9cf4b",
+    "slow": "213ed916330d1972ae339e7b891f722fb6208f478088ea2b90c2256e4667610f"
+  }
+}

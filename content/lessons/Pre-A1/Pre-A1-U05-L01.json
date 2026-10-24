@@ -1,0 +1,1190 @@
+{
+  "id": "Pre-A1-U05-L01",
+  "level": "Pre-A1",
+  "unit_id": "Pre-A1-U05",
+  "order": 5,
+  "version": "2026.10.23.1",
+  "title_zh": "听到的和写下的，为什么不完全一样",
+  "title_cs": "Souvislá řeč",
+  "prerequisites": [
+    "Pre-A1-U04-L01"
+  ],
+  "can_do": [
+    "识别常见词尾清化",
+    "听懂词组中的声音同化",
+    "按意义组而非逐字停顿"
+  ],
+  "scene": "听力入门",
+  "skills": [
+    "listening",
+    "speaking",
+    "reading",
+    "writing",
+    "interaction",
+    "mediation"
+  ],
+  "knowledge_points": [
+    "voicing-final",
+    "phrase-listening"
+  ],
+  "intro_zh": "实际说话不会每个字母孤立发声。先认识清浊和词组，不要听到一个变化就认为对方说错了。",
+  "lesson_text": [
+    {
+      "id": "s01",
+      "cs": "Led. Let.",
+      "zh": "冰。飞行/航班。",
+      "note_zh": "单独念时末尾可听起来一样。"
+    },
+    {
+      "id": "s02",
+      "cs": "Ledu je málo.",
+      "zh": "冰很少。",
+      "note_zh": "加元音后能听到d。"
+    },
+    {
+      "id": "s03",
+      "cs": "V obchodě.",
+      "zh": "在商店里。",
+      "note_zh": "v与后词连起来。"
+    },
+    {
+      "id": "s04",
+      "cs": "S Petrem. Z Prahy.",
+      "zh": "和彼得。从布拉格来。",
+      "note_zh": "注意前后辅音影响。"
+    },
+    {
+      "id": "s05",
+      "cs": "Prosím vás, kde je obchod?",
+      "zh": "请问商店在哪里？",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s06",
+      "cs": "Tady, hned vedle.",
+      "zh": "这里，就在旁边。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s07",
+      "cs": "Už rozumím. Děkuju.",
+      "zh": "我懂了，谢谢。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s08",
+      "cs": "Ještě jednou, prosím, trochu pomaleji.",
+      "zh": "请再说一遍，稍微慢一些。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "voicing-final",
+      "rule_zh": "有些词尾浊辅音会清读，但拼写不跟着改。",
+      "detail_zh": "单独念led时末尾d清化，可能与let同音；ledu中的d在元音前恢复。相邻的成对辅音常在清浊上互相适应，通常受到后一个影响。先识别意思与语境，不用听写的单个声音武断猜字母。",
+      "examples": [
+        {
+          "cs": "led",
+          "zh": "冰",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        },
+        {
+          "cs": "ledu",
+          "zh": "冰的（词形）",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        }
+      ],
+      "pitfalls": [
+        "把听起来像t的led直接拼为let。"
+      ],
+      "exceptions": [
+        "r、l、m、n等不按同一套成对清化处理；v和ř等存在更复杂条件，后面再深化。"
+      ],
+      "term": "词尾清化与同化"
+    },
+    {
+      "id": "phrase-listening",
+      "rule_zh": "把一段话切成能表达意思的小块，别把每个词都切断。",
+      "detail_zh": "Prosím vás / kde je obchod 可作为两块听。先抓问题词kde与目标obchod，再补礼貌部分。放慢时仍保留完整词组；熟悉后用自然速度复听。",
+      "examples": [
+        {
+          "cs": "Prosím vás, kde je obchod?",
+          "zh": "请问商店在哪里？",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        }
+      ],
+      "pitfalls": [
+        "只盯着第一个没听懂的词而漏掉整个问题。"
+      ],
+      "exceptions": [
+        "切块不代表说话者必须停顿；这是学习策略，不是强制标点规则。"
+      ],
+      "term": "语块与听力策略"
+    }
+  ],
+  "vocabulary": [
+    {
+      "lemma": "led",
+      "pos": "名词，阳性无生",
+      "forms": "ledu; ledy",
+      "meaning_zh": "冰",
+      "collocation": "kostka ledu",
+      "example_cs": "Tady je led.",
+      "example_zh": "这里有冰。",
+      "confusion_zh": "单独读可能与let同音。"
+    },
+    {
+      "lemma": "obchod",
+      "pos": "名词，阳性无生",
+      "forms": "obchodu; obchody",
+      "meaning_zh": "商店；交易",
+      "collocation": "v obchodě",
+      "example_cs": "Jsem v obchodě.",
+      "example_zh": "我在商店。",
+      "confusion_zh": "末尾d常清读。"
+    },
+    {
+      "lemma": "hned",
+      "pos": "副词",
+      "forms": "不变",
+      "meaning_zh": "马上；就在",
+      "collocation": "hned vedle",
+      "example_cs": "Je to hned vedle.",
+      "example_zh": "就在旁边。",
+      "confusion_zh": "不要把拼写改成hnet。"
+    },
+    {
+      "lemma": "pomaleji",
+      "pos": "副词，比较级",
+      "forms": "pomalu → pomaleji",
+      "meaning_zh": "更慢地",
+      "collocation": "trochu pomaleji",
+      "example_cs": "Mluvte pomaleji.",
+      "example_zh": "请说慢一些。",
+      "confusion_zh": "比pomalu多了比较意味。"
+    }
+  ],
+  "listening": {
+    "script": [
+      {
+        "cs": "Prosím vás, kde je lékárna?",
+        "zh": "请问药房在哪里？",
+        "note_zh": "先理解整句意图，再回看本课规律。"
+      },
+      {
+        "cs": "Hned vedle obchodu.",
+        "zh": "就在商店旁边。",
+        "note_zh": "先理解整句意图，再回看本课规律。"
+      },
+      {
+        "cs": "Děkuju, už rozumím.",
+        "zh": "谢谢，我懂了。",
+        "note_zh": "先理解整句意图，再回看本课规律。"
+      }
+    ],
+    "focus_zh": "先不看文本听出任务关键信息；第二遍核对词形、数字与否定；最后对照中文。",
+    "source": "original"
+  },
+  "pronunciation": {
+    "focus_zh": "手轻放喉部，交替s/z感受振动；再听led/ledu。词尾不加额外元音来“保住d”。",
+    "contrast": [
+      {
+        "a": "led",
+        "b": "let",
+        "note_zh": "单独说时可能同音，需语境或相关词形判断拼写。"
+      }
+    ],
+    "task_zh": "录“led, ledu, obchod, v obchodě”；比较词尾和元音前的辅音。"
+  },
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "单独听到led/let相同声音，能必然确定拼写吗？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "能"
+        },
+        {
+          "id": "b",
+          "text": "不能，需要语境"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "词尾清化会造成同音。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "Pre-A1-U05-L01-E01",
+      "knowledge_points": [
+        "voicing-final",
+        "phrase-listening"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "音频中药房在哪里？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "在商店旁边"
+        },
+        {
+          "id": "b",
+          "text": "在车站里面"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "hned vedle obchodu表示就在商店旁边。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "listening"
+      ],
+      "error_category": "comprehension",
+      "audio_text_cs": "Lékárna je hned vedle obchodu.",
+      "id": "Pre-A1-U05-L01-E02",
+      "knowledge_points": [
+        "voicing-final",
+        "phrase-listening"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "“冰”的主格写法是什么？",
+      "stimulus_cs": "",
+      "answer": "led",
+      "accepted_answers": [
+        "led"
+      ],
+      "explanation_zh": "词尾清读不改变拼写。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "spelling",
+      "id": "Pre-A1-U05-L01-E03",
+      "knowledge_points": [
+        "voicing-final",
+        "phrase-listening"
+      ]
+    },
+    {
+      "type": "correct",
+      "prompt_zh": "修正拼写：这里表达“就在旁边”。",
+      "stimulus_cs": "Hnet vedle.",
+      "answer": "Hned vedle.",
+      "accepted_answers": [
+        "Hned vedle."
+      ],
+      "explanation_zh": "hned结尾写d。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "spelling",
+      "id": "Pre-A1-U05-L01-E04",
+      "knowledge_points": [
+        "voicing-final",
+        "phrase-listening"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt_zh": "排成问路句。",
+      "stimulus_cs": "kde / Prosím vás, / je obchod?",
+      "answer": "Prosím vás, kde je obchod?",
+      "accepted_answers": [
+        "Prosím vás, kde je obchod?"
+      ],
+      "explanation_zh": "礼貌部分后接问题。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "word_order",
+      "options": [
+        "kde",
+        "Prosím vás,",
+        "je obchod?"
+      ],
+      "id": "Pre-A1-U05-L01-E05",
+      "knowledge_points": [
+        "voicing-final",
+        "phrase-listening"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "初听长句时先抓什么最有用？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "任务关键词和否定数字"
+        },
+        {
+          "id": "b",
+          "text": "每个字母名称"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "先确定对方要表达什么。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "Pre-A1-U05-L01-E06",
+      "knowledge_points": [
+        "voicing-final",
+        "phrase-listening"
+      ]
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "按两个意义组读问路句，再自然速度读一次。",
+      "stimulus_cs": "",
+      "answer": "Prosím vás, kde je obchod?",
+      "accepted_answers": [],
+      "explanation_zh": "两次都保留完整词。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "Pre-A1-U05-L01-E07",
+      "knowledge_points": [
+        "voicing-final",
+        "phrase-listening"
+      ]
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "听得太快，请对方稍微慢一些。",
+      "stimulus_cs": "",
+      "answer": "Trochu pomaleji, prosím.",
+      "accepted_answers": [],
+      "explanation_zh": "比完全不回应更能修复沟通。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "Pre-A1-U05-L01-E08",
+      "knowledge_points": [
+        "voicing-final",
+        "phrase-listening"
+      ]
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "写出led和ledu，并用中文说明哪个位置更容易听出d。",
+      "stimulus_cs": "",
+      "answer": "ledu：d后有元音u，更容易听清。",
+      "accepted_answers": [],
+      "explanation_zh": "听音与词形一起判断。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "Pre-A1-U05-L01-E09",
+      "knowledge_points": [
+        "voicing-final",
+        "phrase-listening"
+      ]
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "用中文向朋友解释为什么听到的obchod结尾像t，书写仍是d。",
+      "stimulus_cs": "",
+      "answer": "obchod单独读时，词尾浊辅音d会清化，听起来接近t，但拼写仍保留d。听写时结合词义和相关词形核对，不能把听到的清音直接改写进词尾。",
+      "accepted_answers": [],
+      "explanation_zh": "用“词尾清化”或普通中文说明均可。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "Pre-A1-U05-L01-E10",
+      "knowledge_points": [
+        "voicing-final",
+        "phrase-listening"
+      ]
+    }
+  ],
+  "transfer_task": {
+    "prompt_zh": "听一句问路话，先记地点和方向，再复述整句；没听清就请求重复。",
+    "model_answer_cs": "Kde je lékárna? Hned vedle obchodu.",
+    "rubric": [
+      "任务信息完整",
+      "用目标规律表达",
+      "独立完成并回听/回看"
+    ]
+  },
+  "review_links": [
+    "Pre-A1-U04-L01"
+  ],
+  "sources": [
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?id=908",
+      "scope": "本课涉及的声音/词形/语法规则；编排与例句为原创",
+      "verification": "官方来源用于相关规则交叉核查；具体查核范围见content/sources/foundation-verification.md；本课例句为原创，未逐句母语审校。"
+    },
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?id=915",
+      "scope": "本课涉及的声音/词形/语法规则；编排与例句为原创",
+      "verification": "官方来源用于相关规则交叉核查；具体查核范围见content/sources/foundation-verification.md；本课例句为原创，未逐句母语审校。"
+    }
+  ],
+  "content_status": "authored_crosschecked_not_native_reviewed",
+  "quality_notes": [
+    "课程及题目原创；自动检查结构、唯一ID与答案。",
+    "已对照所列官方发音、数词、条件式、物主词等章节核查相应规则；其余内容做内部语言一致性复核，未逐句外部审校。",
+    "CEFR级别为教学编排，不构成官方达标或考试认证。"
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "Pre-A1-U05-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--text--3dac8123fe--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--text--3dac8123fe--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U05-L01--2026.10.23.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Led. Let. Ledu je málo. V obchodě. S Petrem. Z Prahy. Prosím vás, kde je obchod? Tady, hned vedle. Už rozumím. Děkuju. Ještě jednou, prosím, trochu pomaleji.",
+      "duration_seconds": 16.65501133786848,
+      "slow_duration_seconds": 18.75641723356009,
+      "sha256": "c3ec8b57c06fd0719b5e0248b05a234a5c4a03e8a9d756be5119a7826e3789a2",
+      "slow_sha256": "18e4d89104aa301d1ac3a9cc9eab459e412e4feef6e67876b2016d04b44d4fcb"
+    },
+    {
+      "lesson_id": "Pre-A1-U05-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--text--3dac8123fe--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--text--3dac8123fe--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U05-L01--2026.10.23.1--text--p0",
+      "asset_id": "Pre-A1-U05-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Led. Let.",
+      "start": 0,
+      "end": 1.7357369614512472,
+      "slow_start": 0,
+      "slow_end": 2.0027664399092973
+    },
+    {
+      "lesson_id": "Pre-A1-U05-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--text--3dac8123fe--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--text--3dac8123fe--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U05-L01--2026.10.23.1--text--s0",
+      "asset_id": "Pre-A1-U05-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Led.",
+      "start": 0,
+      "end": 0.7778684807256235,
+      "slow_start": 0,
+      "slow_end": 0.9171882086167801
+    },
+    {
+      "lesson_id": "Pre-A1-U05-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--text--3dac8123fe--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--text--3dac8123fe--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U05-L01--2026.10.23.1--text--s1",
+      "asset_id": "Pre-A1-U05-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Let.",
+      "start": 0.9578684807256236,
+      "end": 1.7357369614512472,
+      "slow_start": 1.0971882086167801,
+      "slow_end": 2.0027664399092973
+    },
+    {
+      "lesson_id": "Pre-A1-U05-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--text--3dac8123fe--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--text--3dac8123fe--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U05-L01--2026.10.23.1--text--p1",
+      "asset_id": "Pre-A1-U05-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Ledu je málo.",
+      "start": 1.9157369614512472,
+      "end": 3.2044444444444444,
+      "slow_start": 2.182766439909297,
+      "slow_end": 3.680453514739229
+    },
+    {
+      "lesson_id": "Pre-A1-U05-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--text--3dac8123fe--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--text--3dac8123fe--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U05-L01--2026.10.23.1--text--s2",
+      "asset_id": "Pre-A1-U05-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 1,
+      "sentence_index": 0,
+      "text": "Ledu je málo.",
+      "start": 1.9157369614512472,
+      "end": 3.2044444444444444,
+      "slow_start": 2.182766439909297,
+      "slow_end": 3.680453514739229
+    },
+    {
+      "lesson_id": "Pre-A1-U05-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--text--3dac8123fe--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--text--3dac8123fe--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U05-L01--2026.10.23.1--text--p2",
+      "asset_id": "Pre-A1-U05-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "V obchodě.",
+      "start": 3.3844444444444446,
+      "end": 4.313242630385488,
+      "slow_start": 3.860453514739229,
+      "slow_end": 4.975011337868481
+    },
+    {
+      "lesson_id": "Pre-A1-U05-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--text--3dac8123fe--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--text--3dac8123fe--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U05-L01--2026.10.23.1--text--s3",
+      "asset_id": "Pre-A1-U05-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 3,
+      "paragraph_index": 2,
+      "sentence_index": 0,
+      "text": "V obchodě.",
+      "start": 3.3844444444444446,
+      "end": 4.313242630385488,
+      "slow_start": 3.860453514739229,
+      "slow_end": 4.975011337868481
+    },
+    {
+      "lesson_id": "Pre-A1-U05-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--text--3dac8123fe--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--text--3dac8123fe--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U05-L01--2026.10.23.1--text--p3",
+      "asset_id": "Pre-A1-U05-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "S Petrem. Z Prahy.",
+      "start": 4.493242630385487,
+      "end": 6.484399092970522,
+      "slow_start": 5.155011337868481,
+      "slow_end": 7.413197278911564
+    },
+    {
+      "lesson_id": "Pre-A1-U05-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--text--3dac8123fe--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--text--3dac8123fe--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U05-L01--2026.10.23.1--text--s4",
+      "asset_id": "Pre-A1-U05-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 4,
+      "paragraph_index": 3,
+      "sentence_index": 0,
+      "text": "S Petrem.",
+      "start": 4.493242630385487,
+      "end": 5.387210884353742,
+      "slow_start": 5.155011337868481,
+      "slow_end": 6.22312925170068
+    },
+    {
+      "lesson_id": "Pre-A1-U05-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--text--3dac8123fe--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--text--3dac8123fe--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U05-L01--2026.10.23.1--text--s5",
+      "asset_id": "Pre-A1-U05-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 5,
+      "paragraph_index": 3,
+      "sentence_index": 1,
+      "text": "Z Prahy.",
+      "start": 5.567210884353742,
+      "end": 6.484399092970522,
+      "slow_start": 6.403129251700681,
+      "slow_end": 7.413197278911564
+    },
+    {
+      "lesson_id": "Pre-A1-U05-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--text--3dac8123fe--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--text--3dac8123fe--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U05-L01--2026.10.23.1--text--p4",
+      "asset_id": "Pre-A1-U05-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 4,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Prosím vás, kde je obchod?",
+      "start": 6.6643990929705215,
+      "end": 9.056054421768707,
+      "slow_start": 7.593197278911565,
+      "slow_end": 10.2518820861678
+    },
+    {
+      "lesson_id": "Pre-A1-U05-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--text--3dac8123fe--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--text--3dac8123fe--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U05-L01--2026.10.23.1--text--s6",
+      "asset_id": "Pre-A1-U05-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 6,
+      "paragraph_index": 4,
+      "sentence_index": 0,
+      "text": "Prosím vás, kde je obchod?",
+      "start": 6.6643990929705215,
+      "end": 9.056054421768707,
+      "slow_start": 7.593197278911565,
+      "slow_end": 10.2518820861678
+    },
+    {
+      "lesson_id": "Pre-A1-U05-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--text--3dac8123fe--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--text--3dac8123fe--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U05-L01--2026.10.23.1--text--p5",
+      "asset_id": "Pre-A1-U05-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 5,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Tady, hned vedle.",
+      "start": 9.236054421768708,
+      "end": 10.722131519274376,
+      "slow_start": 10.4318820861678,
+      "slow_end": 12.103718820861678
+    },
+    {
+      "lesson_id": "Pre-A1-U05-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--text--3dac8123fe--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--text--3dac8123fe--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U05-L01--2026.10.23.1--text--s7",
+      "asset_id": "Pre-A1-U05-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 7,
+      "paragraph_index": 5,
+      "sentence_index": 0,
+      "text": "Tady, hned vedle.",
+      "start": 9.236054421768708,
+      "end": 10.722131519274376,
+      "slow_start": 10.4318820861678,
+      "slow_end": 12.103718820861678
+    },
+    {
+      "lesson_id": "Pre-A1-U05-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--text--3dac8123fe--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--text--3dac8123fe--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U05-L01--2026.10.23.1--text--p6",
+      "asset_id": "Pre-A1-U05-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 6,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Už rozumím. Děkuju.",
+      "start": 10.902131519274377,
+      "end": 13.067437641723355,
+      "slow_start": 12.283718820861678,
+      "slow_end": 14.750884353741496
+    },
+    {
+      "lesson_id": "Pre-A1-U05-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--text--3dac8123fe--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--text--3dac8123fe--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U05-L01--2026.10.23.1--text--s8",
+      "asset_id": "Pre-A1-U05-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 8,
+      "paragraph_index": 6,
+      "sentence_index": 0,
+      "text": "Už rozumím.",
+      "start": 10.902131519274377,
+      "end": 12.074739229024944,
+      "slow_start": 12.283718820861678,
+      "slow_end": 13.653696145124716
+    },
+    {
+      "lesson_id": "Pre-A1-U05-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--text--3dac8123fe--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--text--3dac8123fe--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U05-L01--2026.10.23.1--text--s9",
+      "asset_id": "Pre-A1-U05-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 9,
+      "paragraph_index": 6,
+      "sentence_index": 1,
+      "text": "Děkuju.",
+      "start": 12.254739229024944,
+      "end": 13.067437641723355,
+      "slow_start": 13.833696145124717,
+      "slow_end": 14.750884353741496
+    },
+    {
+      "lesson_id": "Pre-A1-U05-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--text--3dac8123fe--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--text--3dac8123fe--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U05-L01--2026.10.23.1--text--p7",
+      "asset_id": "Pre-A1-U05-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 7,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Ještě jednou, prosím, trochu pomaleji.",
+      "start": 13.247437641723357,
+      "end": 16.47501133786848,
+      "slow_start": 14.930884353741497,
+      "slow_end": 18.57641723356009
+    },
+    {
+      "lesson_id": "Pre-A1-U05-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--text--3dac8123fe--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--text--3dac8123fe--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U05-L01--2026.10.23.1--text--s10",
+      "asset_id": "Pre-A1-U05-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 10,
+      "paragraph_index": 7,
+      "sentence_index": 0,
+      "text": "Ještě jednou, prosím, trochu pomaleji.",
+      "start": 13.247437641723357,
+      "end": 16.47501133786848,
+      "slow_start": 14.930884353741497,
+      "slow_end": 18.57641723356009
+    },
+    {
+      "lesson_id": "Pre-A1-U05-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--listening--f92a09c5f5--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--listening--f92a09c5f5--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U05-L01--2026.10.23.1--listening",
+      "role": "listening-full",
+      "index": 0,
+      "text": "Prosím vás, kde je lékárna? Hned vedle obchodu. Děkuju, už rozumím.",
+      "duration_seconds": 6.820997732426304,
+      "slow_duration_seconds": 7.633696145124716,
+      "sha256": "84895cbff76cadf65834b552b2ead016f63ebe471c3048f945193bfb6302fcf8",
+      "slow_sha256": "3efba5604b4b7a9fe68b362cd3bdea8600fe84c1f1d468a8874fde0e1f6b2449"
+    },
+    {
+      "lesson_id": "Pre-A1-U05-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--listening--f92a09c5f5--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--listening--f92a09c5f5--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U05-L01--2026.10.23.1--listening--p0",
+      "asset_id": "Pre-A1-U05-L01--2026.10.23.1--listening",
+      "role": "listening",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Prosím vás, kde je lékárna?",
+      "start": 0,
+      "end": 2.647074829931973,
+      "slow_start": 0,
+      "slow_end": 3.030204081632653
+    },
+    {
+      "lesson_id": "Pre-A1-U05-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--listening--f92a09c5f5--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--listening--f92a09c5f5--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U05-L01--2026.10.23.1--listening--p1",
+      "asset_id": "Pre-A1-U05-L01--2026.10.23.1--listening",
+      "role": "listening",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Hned vedle obchodu.",
+      "start": 2.827074829931973,
+      "end": 4.626621315192744,
+      "slow_start": 3.210204081632653,
+      "slow_end": 5.207120181405895
+    },
+    {
+      "lesson_id": "Pre-A1-U05-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--listening--f92a09c5f5--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--listening--f92a09c5f5--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U05-L01--2026.10.23.1--listening--p2",
+      "asset_id": "Pre-A1-U05-L01--2026.10.23.1--listening",
+      "role": "listening",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Děkuju, už rozumím.",
+      "start": 4.806621315192744,
+      "end": 6.640997732426304,
+      "slow_start": 5.387120181405896,
+      "slow_end": 7.453696145124717
+    },
+    {
+      "lesson_id": "Pre-A1-U05-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--vocabulary--721347b7af--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--vocabulary--721347b7af--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U05-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary-full",
+      "index": 0,
+      "text": "Tady je led. Jsem v obchodě. Je to hned vedle. Mluvte pomaleji.",
+      "duration_seconds": 6.141859410430839,
+      "slow_duration_seconds": 6.8152380952380955,
+      "sha256": "fb4130e47d4aba7324c1859ec6c92d062976cc5d3d15040ed41dd91594c3650f",
+      "slow_sha256": "b2202a2ebb6a37a08fa3a9b8727f1355923f49bfcea1e9bf338c5ca5839ef4a5"
+    },
+    {
+      "lesson_id": "Pre-A1-U05-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--vocabulary--721347b7af--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--vocabulary--721347b7af--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U05-L01--2026.10.23.1--vocabulary--p0",
+      "asset_id": "Pre-A1-U05-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Tady je led.",
+      "start": 0,
+      "end": 1.0565079365079366,
+      "slow_start": 0,
+      "slow_end": 1.253877551020408
+    },
+    {
+      "lesson_id": "Pre-A1-U05-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--vocabulary--721347b7af--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--vocabulary--721347b7af--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U05-L01--2026.10.23.1--vocabulary--p1",
+      "asset_id": "Pre-A1-U05-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Jsem v obchodě.",
+      "start": 1.2365079365079366,
+      "end": 2.7341950113378686,
+      "slow_start": 1.4338775510204083,
+      "slow_end": 3.105714285714286
+    },
+    {
+      "lesson_id": "Pre-A1-U05-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--vocabulary--721347b7af--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--vocabulary--721347b7af--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U05-L01--2026.10.23.1--vocabulary--p2",
+      "asset_id": "Pre-A1-U05-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Je to hned vedle.",
+      "start": 2.9141950113378683,
+      "end": 4.330612244897959,
+      "slow_start": 3.2857142857142856,
+      "slow_end": 4.899501133786848
+    },
+    {
+      "lesson_id": "Pre-A1-U05-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--vocabulary--721347b7af--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--vocabulary--721347b7af--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U05-L01--2026.10.23.1--vocabulary--p3",
+      "asset_id": "Pre-A1-U05-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Mluvte pomaleji.",
+      "start": 4.510612244897959,
+      "end": 5.961859410430839,
+      "slow_start": 5.079501133786848,
+      "slow_end": 6.635238095238095
+    },
+    {
+      "lesson_id": "Pre-A1-U05-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--exercises--ebad647ffa--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--exercises--ebad647ffa--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U05-L01--2026.10.23.1--exercises",
+      "role": "exercises-full",
+      "index": 0,
+      "text": "Lékárna je hned vedle obchodu.",
+      "duration_seconds": 2.7341950113378686,
+      "slow_duration_seconds": 3.105714285714286,
+      "sha256": "0fffe38da963346158bb00ea980ec0bdd851799e47a35cf9d1fbaebd53f7d75c",
+      "slow_sha256": "a323741200f5a474e8c8fd3051f5869e8e0c20b941742cf5196cbe1c34dfed39"
+    },
+    {
+      "lesson_id": "Pre-A1-U05-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--exercises--ebad647ffa--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--exercises--ebad647ffa--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U05-L01--2026.10.23.1--exercises--p0",
+      "asset_id": "Pre-A1-U05-L01--2026.10.23.1--exercises",
+      "role": "exercise",
+      "index": 0,
+      "exercise_id": "Pre-A1-U05-L01-E02",
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Lékárna je hned vedle obchodu.",
+      "start": 0,
+      "end": 2.5541950113378684,
+      "slow_start": 0,
+      "slow_end": 2.9257142857142857
+    },
+    {
+      "lesson_id": "Pre-A1-U05-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--contrasts--a33fc092d6--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--contrasts--a33fc092d6--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U05-L01--2026.10.23.1--contrasts",
+      "role": "contrasts-full",
+      "index": 0,
+      "text": "led. let.",
+      "duration_seconds": 1.2365079365079366,
+      "slow_duration_seconds": 1.387437641723356,
+      "sha256": "7413500080cc4ddbb0bb1389c3a4e8b20cb5261cb99c64690bf35bf0de507457",
+      "slow_sha256": "4727024c02d03cd376fc6488d38b23ccb57ace2d50bb682229149fd4b327576f"
+    },
+    {
+      "lesson_id": "Pre-A1-U05-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--contrasts--a33fc092d6--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U05-L01--2026.10.22.1--contrasts--a33fc092d6--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U05-L01--2026.10.23.1--contrasts--p0",
+      "asset_id": "Pre-A1-U05-L01--2026.10.23.1--contrasts",
+      "role": "contrast",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "led. let.",
+      "start": 0,
+      "end": 1.0565079365079366,
+      "slow_start": 0,
+      "slow_end": 1.207437641723356
+    }
+  ]
+}

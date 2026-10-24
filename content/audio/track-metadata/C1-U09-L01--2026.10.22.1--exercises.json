@@ -1,0 +1,68 @@
+{
+  "id": "C1-U09-L01--2026.10.22.1--exercises",
+  "lesson_id": "C1-U09-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Před podpisem potřebujeme objasnit podmínky vrácení. Pak můžeme rozhodnout bez dalšího odkládání.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "C1-U09-L01-E06",
+      "parts": [
+        "Před podpisem potřebujeme objasnit podmínky vrácení.",
+        "Pak můžeme rozhodnout bez dalšího odkládání."
+      ]
+    }
+  ],
+  "text_sha256": "4213ac96d8a73ed807c383376da9eb24c490197e93c91151b0b9735f26515511",
+  "source_file": "content/lessons/C1/C1-U09-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U09-L01--2026.10.22.1--exercises--4213ac96d8--normal.mp3",
+  "slow_file": "content/audio/files/C1-U09-L01--2026.10.22.1--exercises--4213ac96d8--slow.mp3",
+  "duration_seconds": 8.475374149659864,
+  "slow_duration_seconds": 9.64798185941043,
+  "cues": [
+    {
+      "text": "Před podpisem potřebujeme objasnit podmínky vrácení. Pak můžeme rozhodnout bez dalšího odkládání.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "C1-U09-L01-E06",
+      "parts": [
+        "Před podpisem potřebujeme objasnit podmínky vrácení.",
+        "Pak můžeme rozhodnout bez dalšího odkládání."
+      ],
+      "start": 0.0,
+      "end": 8.295374149659864,
+      "sentences": [
+        {
+          "text": "Před podpisem potřebujeme objasnit podmínky vrácení.",
+          "start": 0.0,
+          "end": 4.365351473922902,
+          "slow_start": 0.0,
+          "slow_end": 5.0967800453514736
+        },
+        {
+          "text": "Pak můžeme rozhodnout bez dalšího odkládání.",
+          "start": 4.545351473922903,
+          "end": 8.295374149659864,
+          "slow_start": 5.276780045351474,
+          "slow_end": 9.46798185941043
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 9.46798185941043
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "a0ad41dfb37f63a5f5bfa17306cbf10bc2cb8b80a8f4274c8a9b3b4f7b3789a8",
+    "slow": "01e9c981d53ef06c5fa46ab9314a74f39675b08576e8ebbe1de89e3b19327aa0"
+  }
+}

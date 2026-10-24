@@ -1,0 +1,84 @@
+{
+  "id": "B2-U14-L01--2026.10.22.1--listening",
+  "lesson_id": "B2-U14-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B2",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Pronajímatel: Předání můžeme nechat v původní čas, nebo ho výjimečně posunout na čtvrtou. Potřebuji ale vědět nejpozději v jedenáct, kterou možnost využijete. Nájemce: Rozumím. Do jedenácti Vám potvrdíme čas; samotné zpoždění stěhovací firmy tedy automaticky neznamená přesunutí předání.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Pronajímatel: Předání můžeme nechat v původní čas, nebo ho výjimečně posunout na čtvrtou.",
+        "Potřebuji ale vědět nejpozději v jedenáct, kterou možnost využijete.",
+        "Nájemce: Rozumím.",
+        "Do jedenácti Vám potvrdíme čas; samotné zpoždění stěhovací firmy tedy automaticky neznamená přesunutí předání."
+      ]
+    }
+  ],
+  "text_sha256": "2460bcbd636d3d5e4e7246c90295411b0a8c02131951486213fe60f3135a0fc5",
+  "source_file": "content/lessons/B2/B2-U14-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U14-L01--2026.10.22.1--listening--2460bcbd63--normal.mp3",
+  "slow_file": "content/audio/files/B2-U14-L01--2026.10.22.1--listening--2460bcbd63--slow.mp3",
+  "duration_seconds": 27.05142857142857,
+  "slow_duration_seconds": 30.569251700680272,
+  "cues": [
+    {
+      "text": "Pronajímatel: Předání můžeme nechat v původní čas, nebo ho výjimečně posunout na čtvrtou. Potřebuji ale vědět nejpozději v jedenáct, kterou možnost využijete. Nájemce: Rozumím. Do jedenácti Vám potvrdíme čas; samotné zpoždění stěhovací firmy tedy automaticky neznamená přesunutí předání.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Pronajímatel: Předání můžeme nechat v původní čas, nebo ho výjimečně posunout na čtvrtou.",
+        "Potřebuji ale vědět nejpozději v jedenáct, kterou možnost využijete.",
+        "Nájemce: Rozumím.",
+        "Do jedenácti Vám potvrdíme čas; samotné zpoždění stěhovací firmy tedy automaticky neznamená přesunutí předání."
+      ],
+      "start": 0.0,
+      "end": 26.87142857142857,
+      "sentences": [
+        {
+          "text": "Pronajímatel: Předání můžeme nechat v původní čas, nebo ho výjimečně posunout na čtvrtou.",
+          "start": 0.0,
+          "end": 8.13859410430839,
+          "slow_start": 0.0,
+          "slow_end": 9.276371882086167
+        },
+        {
+          "text": "Potřebuji ale vědět nejpozději v jedenáct, kterou možnost využijete.",
+          "start": 8.31859410430839,
+          "end": 14.367392290249434,
+          "slow_start": 9.456371882086168,
+          "slow_end": 16.25981859410431
+        },
+        {
+          "text": "Nájemce: Rozumím.",
+          "start": 14.547392290249434,
+          "end": 16.41659863945578,
+          "slow_start": 16.43981859410431,
+          "slow_end": 18.610884353741497
+        },
+        {
+          "text": "Do jedenácti Vám potvrdíme čas; samotné zpoždění stěhovací firmy tedy automaticky neznamená přesunutí předání.",
+          "start": 16.59659863945578,
+          "end": 26.87142857142857,
+          "slow_start": 18.790884353741497,
+          "slow_end": 30.389251700680273
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 30.389251700680273
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "b11e897fae11c19e6109ce024fbe818c245c9aad1a7ff8c1ebf20ed9dfa53b2c",
+    "slow": "531383f2f83d3a6bad6a000a6c990e1bd0d1bd322a29b2f310b39656b61eb5dc"
+  }
+}

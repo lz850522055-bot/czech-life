@@ -1,0 +1,58 @@
+{
+  "id": "B2-U12-L01--2026.10.23.1--contrasts",
+  "lesson_id": "B2-U12-L01",
+  "content_version": "2026.10.23.1",
+  "level": "B2",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "všichni. někteří.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "všichni. někteří."
+      ]
+    }
+  ],
+  "text_sha256": "51e89bad4f429218a9b3b857600ac8739e8b8d8e8dcaf3607188c50c3365419f",
+  "source_file": "content/lessons/B2/B2-U12-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U12-L01--2026.10.22.1--contrasts--51e89bad4f--normal.mp3",
+  "slow_file": "content/audio/files/B2-U12-L01--2026.10.22.1--contrasts--51e89bad4f--slow.mp3",
+  "duration_seconds": 1.7705668934240364,
+  "slow_duration_seconds": 1.991156462585034,
+  "cues": [
+    {
+      "text": "všichni. někteří.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "všichni. někteří."
+      ],
+      "start": 0.0,
+      "end": 1.5905668934240362,
+      "sentences": [
+        {
+          "text": "všichni. někteří.",
+          "start": 0.0,
+          "end": 1.5905668934240362,
+          "slow_start": 0.0,
+          "slow_end": 1.811156462585034
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.811156462585034
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "d789047e3809098ea163423631ef25b4ea57f3fefbb239fae5bf984330c32746",
+    "slow": "552cd151c64b391f909648eae2579e6ef7d16fc6758ea0e5a95fa67f5db1c9d4"
+  },
+  "reused_from_track_id": "B2-U12-L01--2026.10.22.1--contrasts"
+}

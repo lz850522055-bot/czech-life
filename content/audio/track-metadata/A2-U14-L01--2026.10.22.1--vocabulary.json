@@ -1,0 +1,202 @@
+{
+  "id": "A2-U14-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "A2-U14-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Pošlu pozvánku.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Pošlu pozvánku."
+      ]
+    },
+    {
+      "text": "Přiložil jsem fotografii.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Přiložil jsem fotografii."
+      ]
+    },
+    {
+      "text": "Vodu necháme na příště.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Vodu necháme na příště."
+      ]
+    },
+    {
+      "text": "Vrátili jsme klíče.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Vrátili jsme klíče."
+      ]
+    },
+    {
+      "text": "Plán fungoval.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Plán fungoval."
+      ]
+    },
+    {
+      "text": "Potvrďte to včas.",
+      "index": 5,
+      "role": "vocabulary",
+      "parts": [
+        "Potvrďte to včas."
+      ]
+    }
+  ],
+  "text_sha256": "815090832052f075f0cd926e17ba92d1b94d7a0e8d5dd3bb3e2a73c867a4d822",
+  "source_file": "content/lessons/A2/A2-U14-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U14-L01--2026.10.22.1--vocabulary--8150908320--normal.mp3",
+  "slow_file": "content/audio/files/A2-U14-L01--2026.10.22.1--vocabulary--8150908320--slow.mp3",
+  "duration_seconds": 12.446167800453514,
+  "slow_duration_seconds": 13.816145124716554,
+  "cues": [
+    {
+      "text": "Pošlu pozvánku.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Pošlu pozvánku."
+      ],
+      "start": 0.0,
+      "end": 1.6370068027210884,
+      "sentences": [
+        {
+          "text": "Pošlu pozvánku.",
+          "start": 0.0,
+          "end": 1.6370068027210884,
+          "slow_start": 0.0,
+          "slow_end": 1.9156462585034013
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.9156462585034013
+    },
+    {
+      "text": "Přiložil jsem fotografii.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Přiložil jsem fotografii."
+      ],
+      "start": 1.8170068027210884,
+      "end": 4.173832199546485,
+      "sentences": [
+        {
+          "text": "Přiložil jsem fotografii.",
+          "start": 1.8170068027210884,
+          "end": 4.173832199546485,
+          "slow_start": 2.0956462585034012,
+          "slow_end": 4.858820861678004
+        }
+      ],
+      "slow_start": 2.0956462585034012,
+      "slow_end": 4.858820861678004
+    },
+    {
+      "text": "Vodu necháme na příště.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Vodu necháme na příště."
+      ],
+      "start": 4.353832199546486,
+      "end": 6.490068027210884,
+      "sentences": [
+        {
+          "text": "Vodu necháme na příště.",
+          "start": 4.353832199546486,
+          "end": 6.490068027210884,
+          "slow_start": 5.038820861678005,
+          "slow_end": 7.3375963718820865
+        }
+      ],
+      "slow_start": 5.038820861678005,
+      "slow_end": 7.3375963718820865
+    },
+    {
+      "text": "Vrátili jsme klíče.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Vrátili jsme klíče."
+      ],
+      "start": 6.670068027210885,
+      "end": 8.632154195011339,
+      "sentences": [
+        {
+          "text": "Vrátili jsme klíče.",
+          "start": 6.670068027210885,
+          "end": 8.632154195011339,
+          "slow_start": 7.517596371882086,
+          "slow_end": 9.677052154195012
+        }
+      ],
+      "slow_start": 7.517596371882086,
+      "slow_end": 9.677052154195012
+    },
+    {
+      "text": "Plán fungoval.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Plán fungoval."
+      ],
+      "start": 8.812154195011338,
+      "end": 10.344671201814059,
+      "sentences": [
+        {
+          "text": "Plán fungoval.",
+          "start": 8.812154195011338,
+          "end": 10.344671201814059,
+          "slow_start": 9.857052154195012,
+          "slow_end": 11.528888888888888
+        }
+      ],
+      "slow_start": 9.857052154195012,
+      "slow_end": 11.528888888888888
+    },
+    {
+      "text": "Potvrďte to včas.",
+      "index": 5,
+      "role": "vocabulary",
+      "parts": [
+        "Potvrďte to včas."
+      ],
+      "start": 10.524671201814058,
+      "end": 12.266167800453514,
+      "sentences": [
+        {
+          "text": "Potvrďte to včas.",
+          "start": 10.524671201814058,
+          "end": 12.266167800453514,
+          "slow_start": 11.70888888888889,
+          "slow_end": 13.636145124716553
+        }
+      ],
+      "slow_start": 11.70888888888889,
+      "slow_end": 13.636145124716553
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "0619fc189ed35a029cd85c28f0cb44531cceb19156e6ca1a528cf3bdc0bc947d",
+    "slow": "0d25b52ba531f21e98dd6d27dab31f147073a4712b0867b0973aec4b13a802ef"
+  }
+}

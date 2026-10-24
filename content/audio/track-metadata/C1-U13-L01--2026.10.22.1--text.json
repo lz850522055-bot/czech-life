@@ -1,0 +1,501 @@
+{
+  "id": "C1-U13-L01--2026.10.22.1--text",
+  "lesson_id": "C1-U13-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Autorka odevzdala zprávu o zkušebním provozu opravárenské poradny s pocitem, že zbývá jen jazyková korektura. Všechny odstavce měly nadpisy a věty působily plynule. První čtenář však položil otázku, na kterou text neodpovídal: podařilo se poradně vyřešit více problémů, nebo pouze přijmout více návštěvníků? Autorka si uvědomila, že uhlazená forma zakryla nejasný hlavní závěr. Oprava několika čárek by tento problém nevyřešila, protože chyba nebyla jen v podobě vět.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Autorka odevzdala zprávu o zkušebním provozu opravárenské poradny s pocitem, že zbývá jen jazyková korektura.",
+        "Všechny odstavce měly nadpisy a věty působily plynule.",
+        "První čtenář však položil otázku, na kterou text neodpovídal: podařilo se poradně vyřešit více problémů, nebo pouze přijmout více návštěvníků?",
+        "Autorka si uvědomila, že uhlazená forma zakryla nejasný hlavní závěr.",
+        "Oprava několika čárek by tento problém nevyřešila, protože chyba nebyla jen v podobě vět."
+      ]
+    },
+    {
+      "text": "Při prvním průchodu si proto ke každému odstavci napsala jednu větu popisující jeho funkci. Jeden měl představit cíl, druhý doložit výsledek, třetí vysvětlit omezení a poslední navrhnout další krok. Ukázalo se, že dva odstavce opakují stejnou pochvalu, zatímco důvod změny provozní doby chybí. Namísto dalšího rozšiřování textu autorka jeden odstavec odstranila a doplnila souvislost mezi zjištěným problémem a doporučením. Délka se téměř nezměnila, informační hodnota však ano.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Při prvním průchodu si proto ke každému odstavci napsala jednu větu popisující jeho funkci.",
+        "Jeden měl představit cíl, druhý doložit výsledek, třetí vysvětlit omezení a poslední navrhnout další krok.",
+        "Ukázalo se, že dva odstavce opakují stejnou pochvalu, zatímco důvod změny provozní doby chybí.",
+        "Namísto dalšího rozšiřování textu autorka jeden odstavec odstranila a doplnila souvislost mezi zjištěným problémem a doporučením.",
+        "Délka se téměř nezměnila, informační hodnota však ano."
+      ]
+    },
+    {
+      "text": "Druhý průchod sledoval důkazy. Věta všichni návštěvníci ocenili službu vycházela z několika rozhovorů po skončení akce. Autorka ji změnila na oslovení návštěvníci hodnotili službu příznivě a doplnila, že názory ostatních nebyly zaznamenány. Nešlo o zbytečné oslabování vlastního výsledku. Bylo třeba zabránit tomu, aby čtenář očekával úplný průzkum, který se neuskutečnil. Přesnost rozsahu umožnila zachovat pozitivní informaci a současně přiznat její skutečné meze.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Druhý průchod sledoval důkazy.",
+        "Věta všichni návštěvníci ocenili službu vycházela z několika rozhovorů po skončení akce.",
+        "Autorka ji změnila na oslovení návštěvníci hodnotili službu příznivě a doplnila, že názory ostatních nebyly zaznamenány.",
+        "Nešlo o zbytečné oslabování vlastního výsledku.",
+        "Bylo třeba zabránit tomu, aby čtenář očekával úplný průzkum, který se neuskutečnil.",
+        "Přesnost rozsahu umožnila zachovat pozitivní informaci a současně přiznat její skutečné meze."
+      ]
+    },
+    {
+      "text": "Třetí čtení se soustředilo na návaznost. Ve větě poradna změnila rozpis a systém rezervací, což vyřešilo potíže nebylo jasné, která změna vedla ke kterému účinku. Navíc sloveso vyřešilo tvrdilo víc, než podklady dovolovaly. Nová verze uvedla, že po úpravě rozpisu ubylo zaznamenaných překryvů termínů, zatímco vliv rezervačního systému zatím nebyl posouzen samostatně. Příčinný vztah se nepředstíral tam, kde byla k dispozici pouze časová následnost.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Třetí čtení se soustředilo na návaznost.",
+        "Ve větě poradna změnila rozpis a systém rezervací, což vyřešilo potíže nebylo jasné, která změna vedla ke kterému účinku.",
+        "Navíc sloveso vyřešilo tvrdilo víc, než podklady dovolovaly.",
+        "Nová verze uvedla, že po úpravě rozpisu ubylo zaznamenaných překryvů termínů, zatímco vliv rezervačního systému zatím nebyl posouzen samostatně.",
+        "Příčinný vztah se nepředstíral tam, kde byla k dispozici pouze časová následnost."
+      ]
+    },
+    {
+      "text": "Teprve potom přišla na řadu jazyková rovina. Autorka zkontrolovala shodu, vazby a nejasné opakování slov. Některé opakování však ponechala, protože chránilo přesnost. Střídání slov návštěvník, klient, zájemce a účastník by mohlo vyvolat dojem, že jde o různé skupiny, ačkoli text sledoval tutéž osobu. Stylistická pestrost nemá být důvodem k rozostření pojmů. Tam, kde byl výraz skutečně příliš obecný, jej naopak nahradila konkrétním popisem činnosti.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Teprve potom přišla na řadu jazyková rovina.",
+        "Autorka zkontrolovala shodu, vazby a nejasné opakování slov.",
+        "Některé opakování však ponechala, protože chránilo přesnost.",
+        "Střídání slov návštěvník, klient, zájemce a účastník by mohlo vyvolat dojem, že jde o různé skupiny, ačkoli text sledoval tutéž osobu.",
+        "Stylistická pestrost nemá být důvodem k rozostření pojmů.",
+        "Tam, kde byl výraz skutečně příliš obecný, jej naopak nahradila konkrétním popisem činnosti."
+      ]
+    },
+    {
+      "text": "Autorka si uchovala původní i opravenou verzi a k důležitým změnám připojila stručný důvod. Při příštím psaní tak mohla zjistit, zda se stejný problém vrací. Seznam chyb nebyl hodnocením její osobnosti. Byl záznamem postupů, které je potřeba zlepšit: oddělovat zkušenost od měření, nevyvozovat příčinu pouze z následnosti a jasně označit původce úkolu. Takové poznámky jsou užitečnější než obecný slib psát příště lépe, protože nabízejí konkrétní místo pro kontrolu.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Autorka si uchovala původní i opravenou verzi a k důležitým změnám připojila stručný důvod.",
+        "Při příštím psaní tak mohla zjistit, zda se stejný problém vrací.",
+        "Seznam chyb nebyl hodnocením její osobnosti.",
+        "Byl záznamem postupů, které je potřeba zlepšit: oddělovat zkušenost od měření, nevyvozovat příčinu pouze z následnosti a jasně označit původce úkolu.",
+        "Takové poznámky jsou užitečnější než obecný slib psát příště lépe, protože nabízejí konkrétní místo pro kontrolu."
+      ]
+    },
+    {
+      "text": "Nakonec požádala kolegu, aby zprávu přečetl bez znalosti předchozí diskuse a řekl, jaké rozhodnutí se od něj očekává. Jeho odpověď ukázala poslední nejasnost: nebylo patrné, zda se navrhuje další pokus, nebo trvalé rozšíření poradny. Autorka doplnila jednu přesnou větu. Tím revizi ukončila; další výměna synonym by už nepřinesla odpovídající hodnotu. Smyslem sebeopravy není dosáhnout nedosažitelné dokonalosti, ale odstranit chyby, které brání porozumění, zkreslují závěr nebo mění očekávané jednání čtenáře.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Nakonec požádala kolegu, aby zprávu přečetl bez znalosti předchozí diskuse a řekl, jaké rozhodnutí se od něj očekává.",
+        "Jeho odpověď ukázala poslední nejasnost: nebylo patrné, zda se navrhuje další pokus, nebo trvalé rozšíření poradny.",
+        "Autorka doplnila jednu přesnou větu.",
+        "Tím revizi ukončila; další výměna synonym by už nepřinesla odpovídající hodnotu.",
+        "Smyslem sebeopravy není dosáhnout nedosažitelné dokonalosti, ale odstranit chyby, které brání porozumění, zkreslují závěr nebo mění očekávané jednání čtenáře."
+      ]
+    }
+  ],
+  "text_sha256": "b405c3b6cf4741e2e2b13e4207cc5fb1ebdf1e36f997d8aaaf8110ff2f8b340b",
+  "source_file": "content/lessons/C1/C1-U13-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U13-L01--2026.10.22.1--text--b405c3b6cf--normal.mp3",
+  "slow_file": "content/audio/files/C1-U13-L01--2026.10.22.1--text--b405c3b6cf--slow.mp3",
+  "duration_seconds": 299.602947845805,
+  "slow_duration_seconds": 337.2308843537415,
+  "cues": [
+    {
+      "text": "Autorka odevzdala zprávu o zkušebním provozu opravárenské poradny s pocitem, že zbývá jen jazyková korektura. Všechny odstavce měly nadpisy a věty působily plynule. První čtenář však položil otázku, na kterou text neodpovídal: podařilo se poradně vyřešit více problémů, nebo pouze přijmout více návštěvníků? Autorka si uvědomila, že uhlazená forma zakryla nejasný hlavní závěr. Oprava několika čárek by tento problém nevyřešila, protože chyba nebyla jen v podobě vět.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Autorka odevzdala zprávu o zkušebním provozu opravárenské poradny s pocitem, že zbývá jen jazyková korektura.",
+        "Všechny odstavce měly nadpisy a věty působily plynule.",
+        "První čtenář však položil otázku, na kterou text neodpovídal: podařilo se poradně vyřešit více problémů, nebo pouze přijmout více návštěvníků?",
+        "Autorka si uvědomila, že uhlazená forma zakryla nejasný hlavní závěr.",
+        "Oprava několika čárek by tento problém nevyřešila, protože chyba nebyla jen v podobě vět."
+      ],
+      "start": 0.0,
+      "end": 42.144399092970524,
+      "sentences": [
+        {
+          "text": "Autorka odevzdala zprávu o zkušebním provozu opravárenské poradny s pocitem, že zbývá jen jazyková korektura.",
+          "start": 0.0,
+          "end": 9.206712018140589,
+          "slow_start": 0.0,
+          "slow_end": 10.913378684807256
+        },
+        {
+          "text": "Všechny odstavce měly nadpisy a věty působily plynule.",
+          "start": 9.386712018140589,
+          "end": 14.239682539682539,
+          "slow_start": 11.093378684807256,
+          "slow_end": 16.480408163265306
+        },
+        {
+          "text": "První čtenář však položil otázku, na kterou text neodpovídal: podařilo se poradně vyřešit více problémů, nebo pouze přijmout více návštěvníků?",
+          "start": 14.41968253968254,
+          "end": 27.237097505668935,
+          "slow_start": 16.660408163265306,
+          "slow_end": 31.11482993197279
+        },
+        {
+          "text": "Autorka si uvědomila, že uhlazená forma zakryla nejasný hlavní závěr.",
+          "start": 27.417097505668934,
+          "end": 34.10444444444445,
+          "slow_start": 31.29482993197279,
+          "slow_end": 38.70199546485261
+        },
+        {
+          "text": "Oprava několika čárek by tento problém nevyřešila, protože chyba nebyla jen v podobě vět.",
+          "start": 34.284444444444446,
+          "end": 42.144399092970524,
+          "slow_start": 38.88199546485261,
+          "slow_end": 47.69396825396825
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 47.69396825396825
+    },
+    {
+      "text": "Při prvním průchodu si proto ke každému odstavci napsala jednu větu popisující jeho funkci. Jeden měl představit cíl, druhý doložit výsledek, třetí vysvětlit omezení a poslední navrhnout další krok. Ukázalo se, že dva odstavce opakují stejnou pochvalu, zatímco důvod změny provozní doby chybí. Namísto dalšího rozšiřování textu autorka jeden odstavec odstranila a doplnila souvislost mezi zjištěným problémem a doporučením. Délka se téměř nezměnila, informační hodnota však ano.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Při prvním průchodu si proto ke každému odstavci napsala jednu větu popisující jeho funkci.",
+        "Jeden měl představit cíl, druhý doložit výsledek, třetí vysvětlit omezení a poslední navrhnout další krok.",
+        "Ukázalo se, že dva odstavce opakují stejnou pochvalu, zatímco důvod změny provozní doby chybí.",
+        "Namísto dalšího rozšiřování textu autorka jeden odstavec odstranila a doplnila souvislost mezi zjištěným problémem a doporučením.",
+        "Délka se téměř nezměnila, informační hodnota však ano."
+      ],
+      "start": 42.32439909297052,
+      "end": 85.03768707482993,
+      "sentences": [
+        {
+          "text": "Při prvním průchodu si proto ke každému odstavci napsala jednu větu popisující jeho funkci.",
+          "start": 42.32439909297052,
+          "end": 50.17274376417234,
+          "slow_start": 47.87396825396825,
+          "slow_end": 56.67433106575964
+        },
+        {
+          "text": "Jeden měl představit cíl, druhý doložit výsledek, třetí vysvětlit omezení a poslední navrhnout další krok.",
+          "start": 50.35274376417234,
+          "end": 59.47818594104309,
+          "slow_start": 56.85433106575964,
+          "slow_end": 67.17560090702948
+        },
+        {
+          "text": "Ukázalo se, že dva odstavce opakují stejnou pochvalu, zatímco důvod změny provozní doby chybí.",
+          "start": 59.65818594104309,
+          "end": 68.11024943310657,
+          "slow_start": 67.35560090702948,
+          "slow_end": 76.9918820861678
+        },
+        {
+          "text": "Namísto dalšího rozšiřování textu autorka jeden odstavec odstranila a doplnila souvislost mezi zjištěným problémem a doporučením.",
+          "start": 68.29024943310658,
+          "end": 79.83056689342403,
+          "slow_start": 77.1718820861678,
+          "slow_end": 90.18666666666667
+        },
+        {
+          "text": "Délka se téměř nezměnila, informační hodnota však ano.",
+          "start": 80.01056689342404,
+          "end": 85.03768707482993,
+          "slow_start": 90.36666666666666,
+          "slow_end": 95.9162358276644
+        }
+      ],
+      "slow_start": 47.87396825396825,
+      "slow_end": 95.9162358276644
+    },
+    {
+      "text": "Druhý průchod sledoval důkazy. Věta všichni návštěvníci ocenili službu vycházela z několika rozhovorů po skončení akce. Autorka ji změnila na oslovení návštěvníci hodnotili službu příznivě a doplnila, že názory ostatních nebyly zaznamenány. Nešlo o zbytečné oslabování vlastního výsledku. Bylo třeba zabránit tomu, aby čtenář očekával úplný průzkum, který se neuskutečnil. Přesnost rozsahu umožnila zachovat pozitivní informaci a současně přiznat její skutečné meze.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Druhý průchod sledoval důkazy.",
+        "Věta všichni návštěvníci ocenili službu vycházela z několika rozhovorů po skončení akce.",
+        "Autorka ji změnila na oslovení návštěvníci hodnotili službu příznivě a doplnila, že názory ostatních nebyly zaznamenány.",
+        "Nešlo o zbytečné oslabování vlastního výsledku.",
+        "Bylo třeba zabránit tomu, aby čtenář očekával úplný průzkum, který se neuskutečnil.",
+        "Přesnost rozsahu umožnila zachovat pozitivní informaci a současně přiznat její skutečné meze."
+      ],
+      "start": 85.21768707482993,
+      "end": 128.61020408163265,
+      "sentences": [
+        {
+          "text": "Druhý průchod sledoval důkazy.",
+          "start": 85.21768707482993,
+          "end": 87.96925170068027,
+          "slow_start": 96.0962358276644,
+          "slow_end": 99.16126984126984
+        },
+        {
+          "text": "Věta všichni návštěvníci ocenili službu vycházela z několika rozhovorů po skončení akce.",
+          "start": 88.14925170068027,
+          "end": 96.25301587301587,
+          "slow_start": 99.34126984126983,
+          "slow_end": 108.40866213151928
+        },
+        {
+          "text": "Autorka ji změnila na oslovení návštěvníci hodnotili službu příznivě a doplnila, že názory ostatních nebyly zaznamenány.",
+          "start": 96.43301587301588,
+          "end": 107.33478458049886,
+          "slow_start": 108.58866213151927,
+          "slow_end": 120.70947845804989
+        },
+        {
+          "text": "Nešlo o zbytečné oslabování vlastního výsledku.",
+          "start": 107.51478458049887,
+          "end": 111.85691609977324,
+          "slow_start": 120.8894784580499,
+          "slow_end": 125.7540589569161
+        },
+        {
+          "text": "Bylo třeba zabránit tomu, aby čtenář očekával úplný průzkum, který se neuskutečnil.",
+          "start": 112.03691609977324,
+          "end": 120.11746031746031,
+          "slow_start": 125.9340589569161,
+          "slow_end": 135.09433106575963
+        },
+        {
+          "text": "Přesnost rozsahu umožnila zachovat pozitivní informaci a současně přiznat její skutečné meze.",
+          "start": 120.29746031746032,
+          "end": 128.61020408163265,
+          "slow_start": 135.27433106575964,
+          "slow_end": 144.8990022675737
+        }
+      ],
+      "slow_start": 96.0962358276644,
+      "slow_end": 144.8990022675737
+    },
+    {
+      "text": "Třetí čtení se soustředilo na návaznost. Ve větě poradna změnila rozpis a systém rezervací, což vyřešilo potíže nebylo jasné, která změna vedla ke kterému účinku. Navíc sloveso vyřešilo tvrdilo víc, než podklady dovolovaly. Nová verze uvedla, že po úpravě rozpisu ubylo zaznamenaných překryvů termínů, zatímco vliv rezervačního systému zatím nebyl posouzen samostatně. Příčinný vztah se nepředstíral tam, kde byla k dispozici pouze časová následnost.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Třetí čtení se soustředilo na návaznost.",
+        "Ve větě poradna změnila rozpis a systém rezervací, což vyřešilo potíže nebylo jasné, která změna vedla ke kterému účinku.",
+        "Navíc sloveso vyřešilo tvrdilo víc, než podklady dovolovaly.",
+        "Nová verze uvedla, že po úpravě rozpisu ubylo zaznamenaných překryvů termínů, zatímco vliv rezervačního systému zatím nebyl posouzen samostatně.",
+        "Příčinný vztah se nepředstíral tam, kde byla k dispozici pouze časová následnost."
+      ],
+      "start": 128.79020408163265,
+      "end": 169.12344671201814,
+      "sentences": [
+        {
+          "text": "Třetí čtení se soustředilo na návaznost.",
+          "start": 128.79020408163265,
+          "end": 132.2615873015873,
+          "slow_start": 145.07900226757369,
+          "slow_end": 148.8754648526077
+        },
+        {
+          "text": "Ve větě poradna změnila rozpis a systém rezervací, což vyřešilo potíže nebylo jasné, která změna vedla ke kterému účinku.",
+          "start": 132.4415873015873,
+          "end": 143.5987755102041,
+          "slow_start": 149.0554648526077,
+          "slow_end": 161.75678004535146
+        },
+        {
+          "text": "Navíc sloveso vyřešilo tvrdilo víc, než podklady dovolovaly.",
+          "start": 143.77877551020407,
+          "end": 148.99165532879817,
+          "slow_start": 161.93678004535147,
+          "slow_end": 167.8346485260771
+        },
+        {
+          "text": "Nová verze uvedla, že po úpravě rozpisu ubylo zaznamenaných překryvů termínů, zatímco vliv rezervačního systému zatím nebyl posouzen samostatně.",
+          "start": 149.17165532879818,
+          "end": 162.4882993197279,
+          "slow_start": 168.0146485260771,
+          "slow_end": 182.94507936507935
+        },
+        {
+          "text": "Příčinný vztah se nepředstíral tam, kde byla k dispozici pouze časová následnost.",
+          "start": 162.66829931972788,
+          "end": 169.12344671201814,
+          "slow_start": 183.12507936507936,
+          "slow_end": 190.53224489795917
+        }
+      ],
+      "slow_start": 145.07900226757369,
+      "slow_end": 190.53224489795917
+    },
+    {
+      "text": "Teprve potom přišla na řadu jazyková rovina. Autorka zkontrolovala shodu, vazby a nejasné opakování slov. Některé opakování však ponechala, protože chránilo přesnost. Střídání slov návštěvník, klient, zájemce a účastník by mohlo vyvolat dojem, že jde o různé skupiny, ačkoli text sledoval tutéž osobu. Stylistická pestrost nemá být důvodem k rozostření pojmů. Tam, kde byl výraz skutečně příliš obecný, jej naopak nahradila konkrétním popisem činnosti.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Teprve potom přišla na řadu jazyková rovina.",
+        "Autorka zkontrolovala shodu, vazby a nejasné opakování slov.",
+        "Některé opakování však ponechala, protože chránilo přesnost.",
+        "Střídání slov návštěvník, klient, zájemce a účastník by mohlo vyvolat dojem, že jde o různé skupiny, ačkoli text sledoval tutéž osobu.",
+        "Stylistická pestrost nemá být důvodem k rozostření pojmů.",
+        "Tam, kde byl výraz skutečně příliš obecný, jej naopak nahradila konkrétním popisem činnosti."
+      ],
+      "start": 169.30344671201814,
+      "end": 209.74702947845805,
+      "sentences": [
+        {
+          "text": "Teprve potom přišla na řadu jazyková rovina.",
+          "start": 169.30344671201814,
+          "end": 173.0882993197279,
+          "slow_start": 190.71224489795918,
+          "slow_end": 195.03115646258505
+        },
+        {
+          "text": "Autorka zkontrolovala shodu, vazby a nejasné opakování slov.",
+          "start": 173.2682993197279,
+          "end": 178.86430839002267,
+          "slow_start": 195.21115646258502,
+          "slow_end": 201.55020408163264
+        },
+        {
+          "text": "Některé opakování však ponechala, protože chránilo přesnost.",
+          "start": 179.04430839002268,
+          "end": 184.4081179138322,
+          "slow_start": 201.73020408163265,
+          "slow_end": 207.76739229024943
+        },
+        {
+          "text": "Střídání slov návštěvník, klient, zájemce a účastník by mohlo vyvolat dojem, že jde o různé skupiny, ačkoli text sledoval tutéž osobu.",
+          "start": 184.5881179138322,
+          "end": 196.14004535147393,
+          "slow_start": 207.94739229024944,
+          "slow_end": 221.15954648526076
+        },
+        {
+          "text": "Stylistická pestrost nemá být důvodem k rozostření pojmů.",
+          "start": 196.32004535147394,
+          "end": 201.53292517006804,
+          "slow_start": 221.33954648526077,
+          "slow_end": 227.22580498866213
+        },
+        {
+          "text": "Tam, kde byl výraz skutečně příliš obecný, jej naopak nahradila konkrétním popisem činnosti.",
+          "start": 201.71292517006802,
+          "end": 209.74702947845805,
+          "slow_start": 227.40580498866214,
+          "slow_end": 236.54285714285714
+        }
+      ],
+      "slow_start": 190.71224489795918,
+      "slow_end": 236.54285714285714
+    },
+    {
+      "text": "Autorka si uchovala původní i opravenou verzi a k důležitým změnám připojila stručný důvod. Při příštím psaní tak mohla zjistit, zda se stejný problém vrací. Seznam chyb nebyl hodnocením její osobnosti. Byl záznamem postupů, které je potřeba zlepšit: oddělovat zkušenost od měření, nevyvozovat příčinu pouze z následnosti a jasně označit původce úkolu. Takové poznámky jsou užitečnější než obecný slib psát příště lépe, protože nabízejí konkrétní místo pro kontrolu.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Autorka si uchovala původní i opravenou verzi a k důležitým změnám připojila stručný důvod.",
+        "Při příštím psaní tak mohla zjistit, zda se stejný problém vrací.",
+        "Seznam chyb nebyl hodnocením její osobnosti.",
+        "Byl záznamem postupů, které je potřeba zlepšit: oddělovat zkušenost od měření, nevyvozovat příčinu pouze z následnosti a jasně označit původce úkolu.",
+        "Takové poznámky jsou užitečnější než obecný slib psát příště lépe, protože nabízejí konkrétní místo pro kontrolu."
+      ],
+      "start": 209.92702947845805,
+      "end": 252.663537414966,
+      "sentences": [
+        {
+          "text": "Autorka si uchovala původní i opravenou verzi a k důležitým změnám připojila stručný důvod.",
+          "start": 209.92702947845805,
+          "end": 217.7985941043084,
+          "slow_start": 236.72285714285715,
+          "slow_end": 245.74380952380952
+        },
+        {
+          "text": "Při příštím psaní tak mohla zjistit, zda se stejný problém vrací.",
+          "start": 217.9785941043084,
+          "end": 223.60943310657598,
+          "slow_start": 245.92380952380952,
+          "slow_end": 252.3092970521542
+        },
+        {
+          "text": "Seznam chyb nebyl hodnocením její osobnosti.",
+          "start": 223.78943310657596,
+          "end": 228.1199546485261,
+          "slow_start": 252.4892970521542,
+          "slow_end": 257.30743764172337
+        },
+        {
+          "text": "Byl záznamem postupů, které je potřeba zlepšit: oddělovat zkušenost od měření, nevyvozovat příčinu pouze z následnosti a jasně označit původce úkolu.",
+          "start": 228.29995464852607,
+          "end": 242.34802721088437,
+          "slow_start": 257.4874376417234,
+          "slow_end": 273.25378684807254
+        },
+        {
+          "text": "Takové poznámky jsou užitečnější než obecný slib psát příště lépe, protože nabízejí konkrétní místo pro kontrolu.",
+          "start": 242.52802721088435,
+          "end": 252.663537414966,
+          "slow_start": 273.43378684807254,
+          "slow_end": 284.71868480725624
+        }
+      ],
+      "slow_start": 236.72285714285715,
+      "slow_end": 284.71868480725624
+    },
+    {
+      "text": "Nakonec požádala kolegu, aby zprávu přečetl bez znalosti předchozí diskuse a řekl, jaké rozhodnutí se od něj očekává. Jeho odpověď ukázala poslední nejasnost: nebylo patrné, zda se navrhuje další pokus, nebo trvalé rozšíření poradny. Autorka doplnila jednu přesnou větu. Tím revizi ukončila; další výměna synonym by už nepřinesla odpovídající hodnotu. Smyslem sebeopravy není dosáhnout nedosažitelné dokonalosti, ale odstranit chyby, které brání porozumění, zkreslují závěr nebo mění očekávané jednání čtenáře.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Nakonec požádala kolegu, aby zprávu přečetl bez znalosti předchozí diskuse a řekl, jaké rozhodnutí se od něj očekává.",
+        "Jeho odpověď ukázala poslední nejasnost: nebylo patrné, zda se navrhuje další pokus, nebo trvalé rozšíření poradny.",
+        "Autorka doplnila jednu přesnou větu.",
+        "Tím revizi ukončila; další výměna synonym by už nepřinesla odpovídající hodnotu.",
+        "Smyslem sebeopravy není dosáhnout nedosažitelné dokonalosti, ale odstranit chyby, které brání porozumění, zkreslují závěr nebo mění očekávané jednání čtenáře."
+      ],
+      "start": 252.843537414966,
+      "end": 299.42294784580497,
+      "sentences": [
+        {
+          "text": "Nakonec požádala kolegu, aby zprávu přečetl bez znalosti předchozí diskuse a řekl, jaké rozhodnutí se od něj očekává.",
+          "start": 252.843537414966,
+          "end": 263.1067573696145,
+          "slow_start": 284.89868480725625,
+          "slow_end": 296.69442176870746
+        },
+        {
+          "text": "Jeho odpověď ukázala poslední nejasnost: nebylo patrné, zda se navrhuje další pokus, nebo trvalé rozšíření poradny.",
+          "start": 263.2867573696145,
+          "end": 273.6312471655329,
+          "slow_start": 296.87442176870746,
+          "slow_end": 308.6004988662132
+        },
+        {
+          "text": "Autorka doplnila jednu přesnou větu.",
+          "start": 273.8112471655329,
+          "end": 276.88789115646256,
+          "slow_start": 308.7804988662132,
+          "slow_end": 312.24027210884356
+        },
+        {
+          "text": "Tím revizi ukončila; další výměna synonym by už nepřinesla odpovídající hodnotu.",
+          "start": 277.06789115646257,
+          "end": 284.5795464852608,
+          "slow_start": 312.42027210884356,
+          "slow_end": 320.36149659863946
+        },
+        {
+          "text": "Smyslem sebeopravy není dosáhnout nedosažitelné dokonalosti, ale odstranit chyby, které brání porozumění, zkreslují závěr nebo mění očekávané jednání čtenáře.",
+          "start": 284.7595464852608,
+          "end": 299.42294784580497,
+          "slow_start": 320.54149659863947,
+          "slow_end": 337.0508843537415
+        }
+      ],
+      "slow_start": 284.89868480725625,
+      "slow_end": 337.0508843537415
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "dda0ada2f05ff2a9ff02bcd67294478a73be8301523fcd088b29503c6fe273ea",
+    "slow": "8195cf9083b84298e505322bedab8695dd3786b8d117043e9b8bdd018d919658"
+  }
+}

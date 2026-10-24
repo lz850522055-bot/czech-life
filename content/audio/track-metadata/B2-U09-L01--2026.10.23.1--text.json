@@ -1,0 +1,401 @@
+{
+  "id": "B2-U09-L01--2026.10.23.1--text",
+  "lesson_id": "B2-U09-L01",
+  "content_version": "2026.10.23.1",
+  "level": "B2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Spolek hledá prostor pro týdenní jazykové setkávání. Nabídka knihovny uvádí cenu za jednu hodinu a zahrnuje stoly, židle i základní projekci. Nabídka soukromého studia pracuje s cenou za celý večer, ale úklid se platí zvlášť. Na první pohled se knihovna zdá dražší, protože jeden člen týmu porovnal její hodinovou částku s průměrnou částkou ze studia, aniž by zohlednil minimální délku rezervace.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Spolek hledá prostor pro týdenní jazykové setkávání.",
+        "Nabídka knihovny uvádí cenu za jednu hodinu a zahrnuje stoly, židle i základní projekci.",
+        "Nabídka soukromého studia pracuje s cenou za celý večer, ale úklid se platí zvlášť.",
+        "Na první pohled se knihovna zdá dražší, protože jeden člen týmu porovnal její hodinovou částku s průměrnou částkou ze studia, aniž by zohlednil minimální délku rezervace."
+      ]
+    },
+    {
+      "text": "V první tabulce jsme proto sjednotili plánovanou délku: dvě hodiny týdně. Knihovna umožňuje rezervovat právě dvě hodiny. Studio vyžaduje celý čtyřhodinový blok, i když odejdeme dříve. Pro nás tedy rozhoduje cena za využitelnou akci, nikoli teoretická hodinová sazba vypočtená ze všech čtyř hodin. Stejný problém by vznikl při srovnávání dopravy, kdyby jedna nabídka zahrnovala cestu tam i zpět a druhá pouze jeden směr.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "V první tabulce jsme proto sjednotili plánovanou délku: dvě hodiny týdně.",
+        "Knihovna umožňuje rezervovat právě dvě hodiny.",
+        "Studio vyžaduje celý čtyřhodinový blok, i když odejdeme dříve.",
+        "Pro nás tedy rozhoduje cena za využitelnou akci, nikoli teoretická hodinová sazba vypočtená ze všech čtyř hodin.",
+        "Stejný problém by vznikl při srovnávání dopravy, kdyby jedna nabídka zahrnovala cestu tam i zpět a druhá pouze jeden směr."
+      ]
+    },
+    {
+      "text": "Druhá skupina údajů se týkala dostupnosti. Knihovna má volné úterky, studio čtvrtky. Z dotazování našich dosavadních účastníků vyšlo, že většina může v úterý, ale několik lidí pracuje na směny. Nechtěli jsme je označit za nezájemce jen proto, že nemají stálý rozvrh. Zapsali jsme proto počet odpovědí i typ omezení. Údaj o zájmu není totožný s možností docházet v jednom konkrétním termínu.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Druhá skupina údajů se týkala dostupnosti.",
+        "Knihovna má volné úterky, studio čtvrtky.",
+        "Z dotazování našich dosavadních účastníků vyšlo, že většina může v úterý, ale několik lidí pracuje na směny.",
+        "Nechtěli jsme je označit za nezájemce jen proto, že nemají stálý rozvrh.",
+        "Zapsali jsme proto počet odpovědí i typ omezení.",
+        "Údaj o zájmu není totožný s možností docházet v jednom konkrétním termínu."
+      ]
+    },
+    {
+      "text": "Třetí zdroj představovala zkušenost jiného spolku, který studio používá. Jeho koordinátorka chválila klidné prostředí a možnost nechat si věci ve skříni. Zároveň uvedla, že jejich skupina má dlouhodobou smlouvu se zvláštními podmínkami. Její zkušenost byla užitečná, ale neznamenala, že stejné podmínky automaticky dostaneme i my. Informaci o úložném prostoru jsme proto označili jako bod k ověření, nikoli jako jistou součást naší nabídky.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Třetí zdroj představovala zkušenost jiného spolku, který studio používá.",
+        "Jeho koordinátorka chválila klidné prostředí a možnost nechat si věci ve skříni.",
+        "Zároveň uvedla, že jejich skupina má dlouhodobou smlouvu se zvláštními podmínkami.",
+        "Její zkušenost byla užitečná, ale neznamenala, že stejné podmínky automaticky dostaneme i my.",
+        "Informaci o úložném prostoru jsme proto označili jako bod k ověření, nikoli jako jistou součást naší nabídky."
+      ]
+    },
+    {
+      "text": "Výsledné shrnutí mělo tři části: srovnatelné náklady na jednu skutečnou akci, praktická dostupnost pro naši skupinu a nevyjasněné podmínky. U každého údaje jsme uvedli, zda pochází z písemné nabídky, z rozhovoru, nebo z vlastní kalkulace. Pokud se cena změnila po telefonátu, nepřepsali jsme starý údaj bez poznámky. Zaznamenali jsme novou verzi a požádali o písemné potvrzení, aby se rozhodnutí dalo zpětně vysvětlit.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Výsledné shrnutí mělo tři části: srovnatelné náklady na jednu skutečnou akci, praktická dostupnost pro naši skupinu a nevyjasněné podmínky.",
+        "U každého údaje jsme uvedli, zda pochází z písemné nabídky, z rozhovoru, nebo z vlastní kalkulace.",
+        "Pokud se cena změnila po telefonátu, nepřepsali jsme starý údaj bez poznámky.",
+        "Zaznamenali jsme novou verzi a požádali o písemné potvrzení, aby se rozhodnutí dalo zpětně vysvětlit."
+      ]
+    },
+    {
+      "text": "Doporučení nakonec znělo: začít v knihovně, pokud potvrdí pravidelný úterní termín, a studio ponechat jako alternativu pro delší akce. Nešlo o všeobecný soud, že knihovna je vždy levnější nebo studio horší. Závěr se vztahoval k našemu současnému počtu lidí, dvouhodinové délce a dostupným termínům. Kdyby se tyto podmínky změnily, bylo by potřeba srovnání zopakovat, nikoli jen obhajovat původní volbu.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Doporučení nakonec znělo: začít v knihovně, pokud potvrdí pravidelný úterní termín, a studio ponechat jako alternativu pro delší akce.",
+        "Nešlo o všeobecný soud, že knihovna je vždy levnější nebo studio horší.",
+        "Závěr se vztahoval k našemu současnému počtu lidí, dvouhodinové délce a dostupným termínům.",
+        "Kdyby se tyto podmínky změnily, bylo by potřeba srovnání zopakovat, nikoli jen obhajovat původní volbu."
+      ]
+    }
+  ],
+  "text_sha256": "bce6d96a469487281ee1b28a620e277da25150e93a3a070e95bcf5b524884bb4",
+  "source_file": "content/lessons/B2/B2-U09-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--normal.mp3",
+  "slow_file": "content/audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--slow.mp3",
+  "duration_seconds": 223.00571428571428,
+  "slow_duration_seconds": 249.8247619047619,
+  "cues": [
+    {
+      "text": "Spolek hledá prostor pro týdenní jazykové setkávání. Nabídka knihovny uvádí cenu za jednu hodinu a zahrnuje stoly, židle i základní projekci. Nabídka soukromého studia pracuje s cenou za celý večer, ale úklid se platí zvlášť. Na první pohled se knihovna zdá dražší, protože jeden člen týmu porovnal její hodinovou částku s průměrnou částkou ze studia, aniž by zohlednil minimální délku rezervace.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Spolek hledá prostor pro týdenní jazykové setkávání.",
+        "Nabídka knihovny uvádí cenu za jednu hodinu a zahrnuje stoly, židle i základní projekci.",
+        "Nabídka soukromého studia pracuje s cenou za celý večer, ale úklid se platí zvlášť.",
+        "Na první pohled se knihovna zdá dražší, protože jeden člen týmu porovnal její hodinovou částku s průměrnou částkou ze studia, aniž by zohlednil minimální délku rezervace."
+      ],
+      "start": 0.0,
+      "end": 36.937278911564626,
+      "sentences": [
+        {
+          "text": "Spolek hledá prostor pro týdenní jazykové setkávání.",
+          "start": 0.0,
+          "end": 4.632380952380952,
+          "slow_start": 0.0,
+          "slow_end": 5.12
+        },
+        {
+          "text": "Nabídka knihovny uvádí cenu za jednu hodinu a zahrnuje stoly, židle i základní projekci.",
+          "start": 4.812380952380952,
+          "end": 13.009024943310658,
+          "slow_start": 5.3,
+          "slow_end": 14.390612244897959
+        },
+        {
+          "text": "Nabídka soukromého studia pracuje s cenou za celý večer, ale úklid se platí zvlášť.",
+          "start": 13.189024943310658,
+          "end": 21.478548752834467,
+          "slow_start": 14.570612244897958,
+          "slow_end": 23.835374149659863
+        },
+        {
+          "text": "Na první pohled se knihovna zdá dražší, protože jeden člen týmu porovnal její hodinovou částku s průměrnou částkou ze studia, aniž by zohlednil minimální délku rezervace.",
+          "start": 21.658548752834466,
+          "end": 36.937278911564626,
+          "slow_start": 24.015374149659863,
+          "slow_end": 41.5
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 41.5
+    },
+    {
+      "text": "V první tabulce jsme proto sjednotili plánovanou délku: dvě hodiny týdně. Knihovna umožňuje rezervovat právě dvě hodiny. Studio vyžaduje celý čtyřhodinový blok, i když odejdeme dříve. Pro nás tedy rozhoduje cena za využitelnou akci, nikoli teoretická hodinová sazba vypočtená ze všech čtyř hodin. Stejný problém by vznikl při srovnávání dopravy, kdyby jedna nabídka zahrnovala cestu tam i zpět a druhá pouze jeden směr.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "V první tabulce jsme proto sjednotili plánovanou délku: dvě hodiny týdně.",
+        "Knihovna umožňuje rezervovat právě dvě hodiny.",
+        "Studio vyžaduje celý čtyřhodinový blok, i když odejdeme dříve.",
+        "Pro nás tedy rozhoduje cena za využitelnou akci, nikoli teoretická hodinová sazba vypočtená ze všech čtyř hodin.",
+        "Stejný problém by vznikl při srovnávání dopravy, kdyby jedna nabídka zahrnovala cestu tam i zpět a druhá pouze jeden směr."
+      ],
+      "start": 37.117278911564625,
+      "end": 72.73687074829932,
+      "sentences": [
+        {
+          "text": "V první tabulce jsme proto sjednotili plánovanou délku: dvě hodiny týdně.",
+          "start": 37.117278911564625,
+          "end": 43.131247165532876,
+          "slow_start": 41.68,
+          "slow_end": 48.44861678004535
+        },
+        {
+          "text": "Knihovna umožňuje rezervovat právě dvě hodiny.",
+          "start": 43.31124716553288,
+          "end": 47.32829931972789,
+          "slow_start": 48.62861678004535,
+          "slow_end": 53.17972789115646
+        },
+        {
+          "text": "Studio vyžaduje celý čtyřhodinový blok, i když odejdeme dříve.",
+          "start": 47.50829931972789,
+          "end": 52.5934693877551,
+          "slow_start": 53.35972789115646,
+          "slow_end": 59.04861678004535
+        },
+        {
+          "text": "Pro nás tedy rozhoduje cena za využitelnou akci, nikoli teoretická hodinová sazba vypočtená ze všech čtyř hodin.",
+          "start": 52.7734693877551,
+          "end": 62.11950113378685,
+          "slow_start": 59.22861678004535,
+          "slow_end": 69.67759637188209
+        },
+        {
+          "text": "Stejný problém by vznikl při srovnávání dopravy, kdyby jedna nabídka zahrnovala cestu tam i zpět a druhá pouze jeden směr.",
+          "start": 62.29950113378685,
+          "end": 72.73687074829932,
+          "slow_start": 69.85759637188208,
+          "slow_end": 81.46757369614512
+        }
+      ],
+      "slow_start": 41.68,
+      "slow_end": 81.46757369614512
+    },
+    {
+      "text": "Druhá skupina údajů se týkala dostupnosti. Knihovna má volné úterky, studio čtvrtky. Z dotazování našich dosavadních účastníků vyšlo, že většina může v úterý, ale několik lidí pracuje na směny. Nechtěli jsme je označit za nezájemce jen proto, že nemají stálý rozvrh. Zapsali jsme proto počet odpovědí i typ omezení. Údaj o zájmu není totožný s možností docházet v jednom konkrétním termínu.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Druhá skupina údajů se týkala dostupnosti.",
+        "Knihovna má volné úterky, studio čtvrtky.",
+        "Z dotazování našich dosavadních účastníků vyšlo, že většina může v úterý, ale několik lidí pracuje na směny.",
+        "Nechtěli jsme je označit za nezájemce jen proto, že nemají stálý rozvrh.",
+        "Zapsali jsme proto počet odpovědí i typ omezení.",
+        "Údaj o zájmu není totožný s možností docházet v jednom konkrétním termínu."
+      ],
+      "start": 72.91687074829932,
+      "end": 109.13442176870748,
+      "sentences": [
+        {
+          "text": "Druhá skupina údajů se týkala dostupnosti.",
+          "start": 72.91687074829932,
+          "end": 76.70172335600907,
+          "slow_start": 81.64757369614513,
+          "slow_end": 85.95487528344671
+        },
+        {
+          "text": "Knihovna má volné úterky, studio čtvrtky.",
+          "start": 76.88172335600908,
+          "end": 80.70140589569161,
+          "slow_start": 86.13487528344672,
+          "slow_end": 90.3492970521542
+        },
+        {
+          "text": "Z dotazování našich dosavadních účastníků vyšlo, že většina může v úterý, ale několik lidí pracuje na směny.",
+          "start": 80.88140589569161,
+          "end": 90.90081632653062,
+          "slow_start": 90.52929705215419,
+          "slow_end": 101.55877551020409
+        },
+        {
+          "text": "Nechtěli jsme je označit za nezájemce jen proto, že nemají stálý rozvrh.",
+          "start": 91.08081632653061,
+          "end": 97.72172335600906,
+          "slow_start": 101.73877551020408,
+          "slow_end": 109.34331065759638
+        },
+        {
+          "text": "Zapsali jsme proto počet odpovědí i typ omezení.",
+          "start": 97.90172335600907,
+          "end": 102.18580498866213,
+          "slow_start": 109.52331065759637,
+          "slow_end": 114.30662131519274
+        },
+        {
+          "text": "Údaj o zájmu není totožný s možností docházet v jednom konkrétním termínu.",
+          "start": 102.36580498866213,
+          "end": 109.13442176870748,
+          "slow_start": 114.48662131519275,
+          "slow_end": 122.09115646258503
+        }
+      ],
+      "slow_start": 81.64757369614513,
+      "slow_end": 122.09115646258503
+    },
+    {
+      "text": "Třetí zdroj představovala zkušenost jiného spolku, který studio používá. Jeho koordinátorka chválila klidné prostředí a možnost nechat si věci ve skříni. Zároveň uvedla, že jejich skupina má dlouhodobou smlouvu se zvláštními podmínkami. Její zkušenost byla užitečná, ale neznamenala, že stejné podmínky automaticky dostaneme i my. Informaci o úložném prostoru jsme proto označili jako bod k ověření, nikoli jako jistou součást naší nabídky.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Třetí zdroj představovala zkušenost jiného spolku, který studio používá.",
+        "Jeho koordinátorka chválila klidné prostředí a možnost nechat si věci ve skříni.",
+        "Zároveň uvedla, že jejich skupina má dlouhodobou smlouvu se zvláštními podmínkami.",
+        "Její zkušenost byla užitečná, ale neznamenala, že stejné podmínky automaticky dostaneme i my.",
+        "Informaci o úložném prostoru jsme proto označili jako bod k ověření, nikoli jako jistou součást naší nabídky."
+      ],
+      "start": 109.31442176870749,
+      "end": 148.81174603174603,
+      "sentences": [
+        {
+          "text": "Třetí zdroj představovala zkušenost jiného spolku, který studio používá.",
+          "start": 109.31442176870749,
+          "end": 115.71151927437641,
+          "slow_start": 122.27115646258504,
+          "slow_end": 129.48095238095237
+        },
+        {
+          "text": "Jeho koordinátorka chválila klidné prostředí a možnost nechat si věci ve skříni.",
+          "start": 115.89151927437642,
+          "end": 123.17097505668934,
+          "slow_start": 129.66095238095238,
+          "slow_end": 137.71827664399092
+        },
+        {
+          "text": "Zároveň uvedla, že jejich skupina má dlouhodobou smlouvu se zvláštními podmínkami.",
+          "start": 123.35097505668934,
+          "end": 130.07315192743764,
+          "slow_start": 137.89827664399093,
+          "slow_end": 145.52603174603175
+        },
+        {
+          "text": "Její zkušenost byla užitečná, ale neznamenala, že stejné podmínky automaticky dostaneme i my.",
+          "start": 130.25315192743764,
+          "end": 138.6819954648526,
+          "slow_start": 145.70603174603175,
+          "slow_end": 154.9243537414966
+        },
+        {
+          "text": "Informaci o úložném prostoru jsme proto označili jako bod k ověření, nikoli jako jistou součást naší nabídky.",
+          "start": 138.8619954648526,
+          "end": 148.81174603174603,
+          "slow_start": 155.1043537414966,
+          "slow_end": 165.97129251700682
+        }
+      ],
+      "slow_start": 122.27115646258504,
+      "slow_end": 165.97129251700682
+    },
+    {
+      "text": "Výsledné shrnutí mělo tři části: srovnatelné náklady na jednu skutečnou akci, praktická dostupnost pro naši skupinu a nevyjasněné podmínky. U každého údaje jsme uvedli, zda pochází z písemné nabídky, z rozhovoru, nebo z vlastní kalkulace. Pokud se cena změnila po telefonátu, nepřepsali jsme starý údaj bez poznámky. Zaznamenali jsme novou verzi a požádali o písemné potvrzení, aby se rozhodnutí dalo zpětně vysvětlit.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Výsledné shrnutí mělo tři části: srovnatelné náklady na jednu skutečnou akci, praktická dostupnost pro naši skupinu a nevyjasněné podmínky.",
+        "U každého údaje jsme uvedli, zda pochází z písemné nabídky, z rozhovoru, nebo z vlastní kalkulace.",
+        "Pokud se cena změnila po telefonátu, nepřepsali jsme starý údaj bez poznámky.",
+        "Zaznamenali jsme novou verzi a požádali o písemné potvrzení, aby se rozhodnutí dalo zpětně vysvětlit."
+      ],
+      "start": 148.99174603174603,
+      "end": 186.68367346938774,
+      "sentences": [
+        {
+          "text": "Výsledné shrnutí mělo tři části: srovnatelné náklady na jednu skutečnou akci, praktická dostupnost pro naši skupinu a nevyjasněné podmínky.",
+          "start": 148.99174603174603,
+          "end": 160.9035827664399,
+          "slow_start": 166.1512925170068,
+          "slow_end": 179.6885260770975
+        },
+        {
+          "text": "U každého údaje jsme uvedli, zda pochází z písemné nabídky, z rozhovoru, nebo z vlastní kalkulace.",
+          "start": 161.08358276643992,
+          "end": 169.96521541950113,
+          "slow_start": 179.8685260770975,
+          "slow_end": 190.02725623582765
+        },
+        {
+          "text": "Pokud se cena změnila po telefonátu, nepřepsali jsme starý údaj bez poznámky.",
+          "start": 170.14521541950114,
+          "end": 177.34340136054422,
+          "slow_start": 190.20725623582766,
+          "slow_end": 198.3922902494331
+        },
+        {
+          "text": "Zaznamenali jsme novou verzi a požádali o písemné potvrzení, aby se rozhodnutí dalo zpětně vysvětlit.",
+          "start": 177.52340136054423,
+          "end": 186.68367346938774,
+          "slow_start": 198.5722902494331,
+          "slow_end": 208.7774603174603
+        }
+      ],
+      "slow_start": 166.1512925170068,
+      "slow_end": 208.7774603174603
+    },
+    {
+      "text": "Doporučení nakonec znělo: začít v knihovně, pokud potvrdí pravidelný úterní termín, a studio ponechat jako alternativu pro delší akce. Nešlo o všeobecný soud, že knihovna je vždy levnější nebo studio horší. Závěr se vztahoval k našemu současnému počtu lidí, dvouhodinové délce a dostupným termínům. Kdyby se tyto podmínky změnily, bylo by potřeba srovnání zopakovat, nikoli jen obhajovat původní volbu.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Doporučení nakonec znělo: začít v knihovně, pokud potvrdí pravidelný úterní termín, a studio ponechat jako alternativu pro delší akce.",
+        "Nešlo o všeobecný soud, že knihovna je vždy levnější nebo studio horší.",
+        "Závěr se vztahoval k našemu současnému počtu lidí, dvouhodinové délce a dostupným termínům.",
+        "Kdyby se tyto podmínky změnily, bylo by potřeba srovnání zopakovat, nikoli jen obhajovat původní volbu."
+      ],
+      "start": 186.86367346938775,
+      "end": 222.8257142857143,
+      "sentences": [
+        {
+          "text": "Doporučení nakonec znělo: začít v knihovně, pokud potvrdí pravidelný úterní termín, a studio ponechat jako alternativu pro delší akce.",
+          "start": 186.86367346938775,
+          "end": 199.05414965986395,
+          "slow_start": 208.95746031746032,
+          "slow_end": 222.98231292517008
+        },
+        {
+          "text": "Nešlo o všeobecný soud, že knihovna je vždy levnější nebo studio horší.",
+          "start": 199.23414965986396,
+          "end": 205.2713378684807,
+          "slow_start": 223.16231292517006,
+          "slow_end": 230.02380952380952
+        },
+        {
+          "text": "Závěr se vztahoval k našemu současnému počtu lidí, dvouhodinové délce a dostupným termínům.",
+          "start": 205.45133786848072,
+          "end": 213.63637188208617,
+          "slow_start": 230.20380952380953,
+          "slow_end": 239.3524716553288
+        },
+        {
+          "text": "Kdyby se tyto podmínky změnily, bylo by potřeba srovnání zopakovat, nikoli jen obhajovat původní volbu.",
+          "start": 213.81637188208617,
+          "end": 222.8257142857143,
+          "slow_start": 239.5324716553288,
+          "slow_end": 249.6447619047619
+        }
+      ],
+      "slow_start": 208.95746031746032,
+      "slow_end": 249.6447619047619
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "73f77e368f10a1ae5644f171b8242962bb69c14fac929b6c8cc3a51aa4d0f4db",
+    "slow": "04d319891291c2374e9a8afbe2e8c7cabb0f933ba14750ae32b4ef8b94900fd8"
+  },
+  "reused_from_track_id": "B2-U09-L01--2026.10.22.1--text"
+}

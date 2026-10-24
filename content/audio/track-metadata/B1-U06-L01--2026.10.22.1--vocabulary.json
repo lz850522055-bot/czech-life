@@ -1,0 +1,144 @@
+{
+  "id": "B1-U06-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "B1-U06-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Nebojím se otázky.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Nebojím se otázky."
+      ]
+    },
+    {
+      "text": "Těším se na setkání.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Těším se na setkání."
+      ]
+    },
+    {
+      "text": "Všiml jsem si chyby.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Všiml jsem si chyby."
+      ]
+    },
+    {
+      "text": "Děkuji vám za trpělivost.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Děkuji vám za trpělivost."
+      ]
+    }
+  ],
+  "text_sha256": "7520930f6118b1e07a4a83c05324de26739a268ec01bf3850aac2bfe6ad74e11",
+  "source_file": "content/lessons/B1/B1-U06-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U06-L01--2026.10.22.1--vocabulary--7520930f61--normal.mp3",
+  "slow_file": "content/audio/files/B1-U06-L01--2026.10.22.1--vocabulary--7520930f61--slow.mp3",
+  "duration_seconds": 8.417414965986394,
+  "slow_duration_seconds": 9.59002267573696,
+  "cues": [
+    {
+      "text": "Nebojím se otázky.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Nebojím se otázky."
+      ],
+      "start": 0.0,
+      "end": 1.7763265306122449,
+      "sentences": [
+        {
+          "text": "Nebojím se otázky.",
+          "start": 0.0,
+          "end": 1.7763265306122449,
+          "slow_start": 0.0,
+          "slow_end": 1.9969160997732427
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.9969160997732427
+    },
+    {
+      "text": "Těším se na setkání.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Těším se na setkání."
+      ],
+      "start": 1.9563265306122448,
+      "end": 3.8603628117913833,
+      "sentences": [
+        {
+          "text": "Těším se na setkání.",
+          "start": 1.9563265306122448,
+          "end": 3.8603628117913833,
+          "slow_start": 2.176916099773243,
+          "slow_end": 4.347981859410431
+        }
+      ],
+      "slow_start": 2.176916099773243,
+      "slow_end": 4.347981859410431
+    },
+    {
+      "text": "Všiml jsem si chyby.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Všiml jsem si chyby."
+      ],
+      "start": 4.0403628117913835,
+      "end": 5.805079365079365,
+      "sentences": [
+        {
+          "text": "Všiml jsem si chyby.",
+          "start": 4.0403628117913835,
+          "end": 5.805079365079365,
+          "slow_start": 4.52798185941043,
+          "slow_end": 6.594557823129252
+        }
+      ],
+      "slow_start": 4.52798185941043,
+      "slow_end": 6.594557823129252
+    },
+    {
+      "text": "Děkuji vám za trpělivost.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Děkuji vám za trpělivost."
+      ],
+      "start": 5.985079365079365,
+      "end": 8.237414965986394,
+      "sentences": [
+        {
+          "text": "Děkuji vám za trpělivost.",
+          "start": 5.985079365079365,
+          "end": 8.237414965986394,
+          "slow_start": 6.774557823129252,
+          "slow_end": 9.410022675736961
+        }
+      ],
+      "slow_start": 6.774557823129252,
+      "slow_end": 9.410022675736961
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "f4a49ba4e42dd0a1d781abdd3324399af53568f68ee0fe094b3dabe3fd7681e8",
+    "slow": "a942196a9a904cb9ddbe4b7a13c78c871b12a228391b6f4641a014af6aab6ca9"
+  }
+}

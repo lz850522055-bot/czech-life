@@ -1,0 +1,173 @@
+{
+  "id": "C1-U13-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "C1-U13-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Korektura odhalila překlepy.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Korektura odhalila překlepy."
+      ]
+    },
+    {
+      "text": "Rozsah tvrzení je příliš široký.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Rozsah tvrzení je příliš široký."
+      ]
+    },
+    {
+      "text": "Zaznamenali jsme překryv termínů.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Zaznamenali jsme překryv termínů."
+      ]
+    },
+    {
+      "text": "Následnost nedokazuje příčinu.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Následnost nedokazuje příčinu."
+      ]
+    },
+    {
+      "text": "Synonyma mohou pojem rozostřit.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Synonyma mohou pojem rozostřit."
+      ]
+    }
+  ],
+  "text_sha256": "11dfe71465a40c7b726cc68a7a33046d3e305460e910029334f264f2a3b45a31",
+  "source_file": "content/lessons/C1/C1-U13-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U13-L01--2026.10.22.1--vocabulary--11dfe71465--normal.mp3",
+  "slow_file": "content/audio/files/C1-U13-L01--2026.10.22.1--vocabulary--11dfe71465--slow.mp3",
+  "duration_seconds": 14.414013605442177,
+  "slow_duration_seconds": 16.248390022675736,
+  "cues": [
+    {
+      "text": "Korektura odhalila překlepy.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Korektura odhalila překlepy."
+      ],
+      "start": 0.0,
+      "end": 2.4961451247165534,
+      "sentences": [
+        {
+          "text": "Korektura odhalila překlepy.",
+          "start": 0.0,
+          "end": 2.4961451247165534,
+          "slow_start": 0.0,
+          "slow_end": 2.786394557823129
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.786394557823129
+    },
+    {
+      "text": "Rozsah tvrzení je příliš široký.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Rozsah tvrzení je příliš široký."
+      ],
+      "start": 2.676145124716553,
+      "end": 5.543809523809524,
+      "sentences": [
+        {
+          "text": "Rozsah tvrzení je příliš široký.",
+          "start": 2.676145124716553,
+          "end": 5.543809523809524,
+          "slow_start": 2.966394557823129,
+          "slow_end": 6.240408163265307
+        }
+      ],
+      "slow_start": 2.966394557823129,
+      "slow_end": 6.240408163265307
+    },
+    {
+      "text": "Zaznamenali jsme překryv termínů.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Zaznamenali jsme překryv termínů."
+      ],
+      "start": 5.723809523809524,
+      "end": 8.475374149659864,
+      "sentences": [
+        {
+          "text": "Zaznamenali jsme překryv termínů.",
+          "start": 5.723809523809524,
+          "end": 8.475374149659864,
+          "slow_start": 6.420408163265306,
+          "slow_end": 9.45061224489796
+        }
+      ],
+      "slow_start": 6.420408163265306,
+      "slow_end": 9.45061224489796
+    },
+    {
+      "text": "Následnost nedokazuje příčinu.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Následnost nedokazuje příčinu."
+      ],
+      "start": 8.655374149659863,
+      "end": 11.302448979591837,
+      "sentences": [
+        {
+          "text": "Následnost nedokazuje příčinu.",
+          "start": 8.655374149659863,
+          "end": 11.302448979591837,
+          "slow_start": 9.630612244897959,
+          "slow_end": 12.660816326530613
+        }
+      ],
+      "slow_start": 9.630612244897959,
+      "slow_end": 12.660816326530613
+    },
+    {
+      "text": "Synonyma mohou pojem rozostřit.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Synonyma mohou pojem rozostřit."
+      ],
+      "start": 11.482448979591837,
+      "end": 14.234013605442177,
+      "sentences": [
+        {
+          "text": "Synonyma mohou pojem rozostřit.",
+          "start": 11.482448979591837,
+          "end": 14.234013605442177,
+          "slow_start": 12.840816326530613,
+          "slow_end": 16.068390022675736
+        }
+      ],
+      "slow_start": 12.840816326530613,
+      "slow_end": 16.068390022675736
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "c9ab7e11d0d785329625d7a6c59a0987bf82aebce8d4881e4962ce9cd4be35b5",
+    "slow": "a888fcf5ffb756904d9557977cbec6459b40e751a4c1d4ca8189a5a0feed06e9"
+  }
+}

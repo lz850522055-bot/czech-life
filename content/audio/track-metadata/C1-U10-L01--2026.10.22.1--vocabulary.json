@@ -1,0 +1,173 @@
+{
+  "id": "C1-U10-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "C1-U10-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Zvolili jsme jiný ukazatel.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Zvolili jsme jiný ukazatel."
+      ]
+    },
+    {
+      "text": "Počítáme průchody vstupem.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Počítáme průchody vstupem."
+      ]
+    },
+    {
+      "text": "Někteří prodejci hlásí pokles tržeb.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Někteří prodejci hlásí pokles tržeb."
+      ]
+    },
+    {
+      "text": "Období nejsou srovnatelná.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Období nejsou srovnatelná."
+      ]
+    },
+    {
+      "text": "Z dat vyvozujeme omezený závěr.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Z dat vyvozujeme omezený závěr."
+      ]
+    }
+  ],
+  "text_sha256": "540b54655e3b52b61884a8b71d45adae122e41193939c46691b7c7a54fc1da29",
+  "source_file": "content/lessons/C1/C1-U10-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U10-L01--2026.10.22.1--vocabulary--540b54655e--normal.mp3",
+  "slow_file": "content/audio/files/C1-U10-L01--2026.10.22.1--vocabulary--540b54655e--slow.mp3",
+  "duration_seconds": 15.040952380952382,
+  "slow_duration_seconds": 16.701179138321997,
+  "cues": [
+    {
+      "text": "Zvolili jsme jiný ukazatel.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Zvolili jsme jiný ukazatel."
+      ],
+      "start": 0.0,
+      "end": 2.5658049886621317,
+      "sentences": [
+        {
+          "text": "Zvolili jsme jiný ukazatel.",
+          "start": 0.0,
+          "end": 2.5658049886621317,
+          "slow_start": 0.0,
+          "slow_end": 2.8444444444444446
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.8444444444444446
+    },
+    {
+      "text": "Počítáme průchody vstupem.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Počítáme průchody vstupem."
+      ],
+      "start": 2.7458049886621314,
+      "end": 5.218730158730159,
+      "sentences": [
+        {
+          "text": "Počítáme průchody vstupem.",
+          "start": 2.7458049886621314,
+          "end": 5.218730158730159,
+          "slow_start": 3.0244444444444443,
+          "slow_end": 5.7411791383219954
+        }
+      ],
+      "slow_start": 3.0244444444444443,
+      "slow_end": 5.7411791383219954
+    },
+    {
+      "text": "Někteří prodejci hlásí pokles tržeb.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Někteří prodejci hlásí pokles tržeb."
+      ],
+      "start": 5.398730158730158,
+      "end": 8.73079365079365,
+      "sentences": [
+        {
+          "text": "Někteří prodejci hlásí pokles tržeb.",
+          "start": 5.398730158730158,
+          "end": 8.73079365079365,
+          "slow_start": 5.921179138321995,
+          "slow_end": 9.659591836734695
+        }
+      ],
+      "slow_start": 5.921179138321995,
+      "slow_end": 9.659591836734695
+    },
+    {
+      "text": "Období nejsou srovnatelná.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Období nejsou srovnatelná."
+      ],
+      "start": 8.91079365079365,
+      "end": 11.650748299319728,
+      "sentences": [
+        {
+          "text": "Období nejsou srovnatelná.",
+          "start": 8.91079365079365,
+          "end": 11.650748299319728,
+          "slow_start": 9.839591836734694,
+          "slow_end": 12.9162358276644
+        }
+      ],
+      "slow_start": 9.839591836734694,
+      "slow_end": 12.9162358276644
+    },
+    {
+      "text": "Z dat vyvozujeme omezený závěr.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Z dat vyvozujeme omezený závěr."
+      ],
+      "start": 11.830748299319728,
+      "end": 14.860952380952382,
+      "sentences": [
+        {
+          "text": "Z dat vyvozujeme omezený závěr.",
+          "start": 11.830748299319728,
+          "end": 14.860952380952382,
+          "slow_start": 13.0962358276644,
+          "slow_end": 16.521179138321994
+        }
+      ],
+      "slow_start": 13.0962358276644,
+      "slow_end": 16.521179138321994
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "4e3a70a0d8174f3b6a848b9e367d603e4d1ca9ae878df9fda4e20e74c937e34c",
+    "slow": "2412e5c9109a1f22b751acabc77b26ca0871b50d8de46e565c2b02005f321e4e"
+  }
+}

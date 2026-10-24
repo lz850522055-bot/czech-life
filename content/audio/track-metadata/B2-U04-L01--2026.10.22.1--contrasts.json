@@ -1,0 +1,57 @@
+{
+  "id": "B2-U04-L01--2026.10.22.1--contrasts",
+  "lesson_id": "B2-U04-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B2",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "můžeš. můžete.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "můžeš. můžete."
+      ]
+    }
+  ],
+  "text_sha256": "4c806bf92bfce99b049eab7c8304b39d6b725bfc9022406bc570c979a6acea09",
+  "source_file": "content/lessons/B2/B2-U04-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U04-L01--2026.10.22.1--contrasts--4c806bf92b--normal.mp3",
+  "slow_file": "content/audio/files/B2-U04-L01--2026.10.22.1--contrasts--4c806bf92b--slow.mp3",
+  "duration_seconds": 1.7705668934240364,
+  "slow_duration_seconds": 1.9679365079365079,
+  "cues": [
+    {
+      "text": "můžeš. můžete.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "můžeš. můžete."
+      ],
+      "start": 0.0,
+      "end": 1.5905668934240362,
+      "sentences": [
+        {
+          "text": "můžeš. můžete.",
+          "start": 0.0,
+          "end": 1.5905668934240362,
+          "slow_start": 0.0,
+          "slow_end": 1.787936507936508
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.787936507936508
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "46a1532fd0ad08f62dc88aa73739bffbdf6ef347f442237b9fd0170ea6aa3d18",
+    "slow": "3242be901897a07a52458e86479cbb73b4a8ae84bd009f472e7733f21b0ff955"
+  }
+}

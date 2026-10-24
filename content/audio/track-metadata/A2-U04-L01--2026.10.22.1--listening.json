@@ -1,0 +1,75 @@
+{
+  "id": "A2-U04-L01--2026.10.22.1--listening",
+  "lesson_id": "A2-U04-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Eva dala Janě svou knihu. Jana ji večer vrátila Evě. Pak jí poděkovala.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Eva dala Janě svou knihu.",
+        "Jana ji večer vrátila Evě.",
+        "Pak jí poděkovala."
+      ]
+    }
+  ],
+  "text_sha256": "bf40cf8a4f10ee624f82ca92673df44b33ae235a8c91880ba0a5a7ff332ec1dc",
+  "source_file": "content/lessons/A2/A2-U04-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U04-L01--2026.10.22.1--listening--bf40cf8a4f--normal.mp3",
+  "slow_file": "content/audio/files/A2-U04-L01--2026.10.22.1--listening--bf40cf8a4f--slow.mp3",
+  "duration_seconds": 6.948707482993197,
+  "slow_duration_seconds": 7.9471655328798185,
+  "cues": [
+    {
+      "text": "Eva dala Janě svou knihu. Jana ji večer vrátila Evě. Pak jí poděkovala.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Eva dala Janě svou knihu.",
+        "Jana ji večer vrátila Evě.",
+        "Pak jí poděkovala."
+      ],
+      "start": 0.0,
+      "end": 6.7687074829931975,
+      "sentences": [
+        {
+          "text": "Eva dala Janě svou knihu.",
+          "start": 0.0,
+          "end": 2.136235827664399,
+          "slow_start": 0.0,
+          "slow_end": 2.4961451247165534
+        },
+        {
+          "text": "Jana ji večer vrátila Evě.",
+          "start": 2.316235827664399,
+          "end": 4.974920634920635,
+          "slow_start": 2.676145124716553,
+          "slow_end": 5.752789115646259
+        },
+        {
+          "text": "Pak jí poděkovala.",
+          "start": 5.154920634920635,
+          "end": 6.7687074829931975,
+          "slow_start": 5.932789115646258,
+          "slow_end": 7.767165532879819
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 7.767165532879819
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "79ce96812cae29101e315a3b93868a2e480af4e5daa3ad0b30642fd8e7c31d76",
+    "slow": "56f98a792e708e62dcd25b9b4161240cfdc2f6bd288c3e5221c16989812b7b97"
+  }
+}

@@ -1,0 +1,455 @@
+{
+  "id": "B2-U06-L01--2026.10.23.1--text",
+  "lesson_id": "B2-U06-L01",
+  "content_version": "2026.10.23.1",
+  "level": "B2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Tři organizátoři se scházejí před komunitním promítáním. Eva otevírá diskusi: „Takže pátek máme potvrzený, že?“ Martin odpovídá: „Místnost ano. Ale ne techniku, tu ještě kontrolují.“ Lenka už začíná psát pozvánku a říká, že tedy může uvést promítání v pátek. Martin ji zastaví: termín místnosti je jistý, ovšem samotná projekce závisí na funkčním připojení. První souhlas se týkal jen jedné části přípravy.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Tři organizátoři se scházejí před komunitním promítáním.",
+        "Eva otevírá diskusi: „Takže pátek máme potvrzený, že?“",
+        "Martin odpovídá: „Místnost ano.",
+        "Ale ne techniku, tu ještě kontrolují.“",
+        "Lenka už začíná psát pozvánku a říká, že tedy může uvést promítání v pátek.",
+        "Martin ji zastaví: termín místnosti je jistý, ovšem samotná projekce závisí na funkčním připojení.",
+        "První souhlas se týkal jen jedné části přípravy."
+      ]
+    },
+    {
+      "text": "Eva navrhuje, aby si půjčili vlastní projektor. Martin přikyvuje, ale hned dodává: „To by šlo, jenomže nemáme plátno. Tedy máme stěnu, ale nevím, jak bude obraz vypadat.“ Lenka se ptá, zda může obraz někdo vyzkoušet ještě dnes. Její otázka posouvá debatu od obecného problému ke konkrétnímu ověření. Nikdo zatím netvrdí, že náhradní řešení funguje; pouze hledají způsob, jak to zjistit.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Eva navrhuje, aby si půjčili vlastní projektor.",
+        "Martin přikyvuje, ale hned dodává: „To by šlo, jenomže nemáme plátno.",
+        "Tedy máme stěnu, ale nevím, jak bude obraz vypadat.“",
+        "Lenka se ptá, zda může obraz někdo vyzkoušet ještě dnes.",
+        "Její otázka posouvá debatu od obecného problému ke konkrétnímu ověření.",
+        "Nikdo zatím netvrdí, že náhradní řešení funguje; pouze hledají způsob, jak to zjistit."
+      ]
+    },
+    {
+      "text": "Martin si vzpomene, že technik přijde kolem čtvrté. „Nebo spíš v půl páté, musím se podívat do zprávy,“ opraví se. Eva nejprve zopakuje původní čas, potom ale zaznamená změnu. V přirozeném rozhovoru je důležité zachytit takové opravy, protože poslední upřesnění může nahradit dřívější údaj. Současně poslední věta nemusí být vždy definitivní: zde Martin výslovně říká, že čas ještě ověří.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Martin si vzpomene, že technik přijde kolem čtvrté.",
+        "„Nebo spíš v půl páté, musím se podívat do zprávy,“ opraví se.",
+        "Eva nejprve zopakuje původní čas, potom ale zaznamená změnu.",
+        "V přirozeném rozhovoru je důležité zachytit takové opravy, protože poslední upřesnění může nahradit dřívější údaj.",
+        "Současně poslední věta nemusí být vždy definitivní: zde Martin výslovně říká, že čas ještě ověří."
+      ]
+    },
+    {
+      "text": "Lenka mezitím upozorňuje na návštěvníky: „Dobře, ale co jim teď napíšeme? Už se ptají.“ Eva navrhuje zprávu, že čas setkání platí a program bude potvrzen večer. Martin souhlasí pouze tehdy, pokud bude z textu jasné, že bez funkční projekce proběhne diskuse bez filmu. Nechtějí hostům slibovat něco, co zatím neovládají, ale zároveň nechtějí mlčet až do poslední chvíle.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Lenka mezitím upozorňuje na návštěvníky: „Dobře, ale co jim teď napíšeme?",
+        "Už se ptají.“",
+        "Eva navrhuje zprávu, že čas setkání platí a program bude potvrzen večer.",
+        "Martin souhlasí pouze tehdy, pokud bude z textu jasné, že bez funkční projekce proběhne diskuse bez filmu.",
+        "Nechtějí hostům slibovat něco, co zatím neovládají, ale zároveň nechtějí mlčet až do poslední chvíle."
+      ]
+    },
+    {
+      "text": "Po několika krátkých vstupech se shodnou na postupu. Martin ověří příchod technika a provede zkoušku. Eva připraví dvě verze programu. Lenka rozešle zprávu až po výsledku testu, nejpozději večer. Každý na závěr zopakuje vlastní úkol. Tato závěrečná rekapitulace je spolehlivějším podkladem pro zápis než izolované věty uprostřed hledání řešení, kdy se možnosti teprve zvažovaly.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Po několika krátkých vstupech se shodnou na postupu.",
+        "Martin ověří příchod technika a provede zkoušku.",
+        "Eva připraví dvě verze programu.",
+        "Lenka rozešle zprávu až po výsledku testu, nejpozději večer.",
+        "Každý na závěr zopakuje vlastní úkol.",
+        "Tato závěrečná rekapitulace je spolehlivějším podkladem pro zápis než izolované věty uprostřed hledání řešení, kdy se možnosti teprve zvažovaly."
+      ]
+    },
+    {
+      "text": "Při poslechu se zaměřujeme na výrazy ano, ale; jenomže; tedy; nebo spíš; pokud a nakonec. Nejsou to bezvýznamné výplně: často označují omezení souhlasu, opravu či změnu směru. Některé krátké zvukové výplně naopak žádný nový fakt nepřidávají. Rozpoznat jejich funkci pomáhá soustředit se na význam. Uměle zrychlená syntetická řeč ovšem nemůže nahradit různé skutečné hlasy, překrývání replik a přirozené tempo.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Při poslechu se zaměřujeme na výrazy ano, ale; jenomže; tedy; nebo spíš; pokud a nakonec.",
+        "Nejsou to bezvýznamné výplně: často označují omezení souhlasu, opravu či změnu směru.",
+        "Některé krátké zvukové výplně naopak žádný nový fakt nepřidávají.",
+        "Rozpoznat jejich funkci pomáhá soustředit se na význam.",
+        "Uměle zrychlená syntetická řeč ovšem nemůže nahradit různé skutečné hlasy, překrývání replik a přirozené tempo."
+      ]
+    }
+  ],
+  "text_sha256": "f173e74ee7f17c279bfdf76e54002c969620a16ec9db1eae8568051a7cd542f3",
+  "source_file": "content/lessons/B2/B2-U06-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U06-L01--2026.10.22.1--text--f173e74ee7--normal.mp3",
+  "slow_file": "content/audio/files/B2-U06-L01--2026.10.22.1--text--f173e74ee7--slow.mp3",
+  "duration_seconds": 214.8093424036281,
+  "slow_duration_seconds": 241.39619047619047,
+  "cues": [
+    {
+      "text": "Tři organizátoři se scházejí před komunitním promítáním. Eva otevírá diskusi: „Takže pátek máme potvrzený, že?“ Martin odpovídá: „Místnost ano. Ale ne techniku, tu ještě kontrolují.“ Lenka už začíná psát pozvánku a říká, že tedy může uvést promítání v pátek. Martin ji zastaví: termín místnosti je jistý, ovšem samotná projekce závisí na funkčním připojení. První souhlas se týkal jen jedné části přípravy.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Tři organizátoři se scházejí před komunitním promítáním.",
+        "Eva otevírá diskusi: „Takže pátek máme potvrzený, že?“",
+        "Martin odpovídá: „Místnost ano.",
+        "Ale ne techniku, tu ještě kontrolují.“",
+        "Lenka už začíná psát pozvánku a říká, že tedy může uvést promítání v pátek.",
+        "Martin ji zastaví: termín místnosti je jistý, ovšem samotná projekce závisí na funkčním připojení.",
+        "První souhlas se týkal jen jedné části přípravy."
+      ],
+      "start": 0.0,
+      "end": 39.17233560090703,
+      "sentences": [
+        {
+          "text": "Tři organizátoři se scházejí před komunitním promítáním.",
+          "start": 0.0,
+          "end": 4.911020408163266,
+          "slow_start": 0.0,
+          "slow_end": 5.445079365079365
+        },
+        {
+          "text": "Eva otevírá diskusi: „Takže pátek máme potvrzený, že?“",
+          "start": 5.091020408163265,
+          "end": 10.350340136054422,
+          "slow_start": 5.625079365079365,
+          "slow_end": 11.546167800453516
+        },
+        {
+          "text": "Martin odpovídá: „Místnost ano.",
+          "start": 10.530340136054422,
+          "end": 13.676643990929705,
+          "slow_start": 11.726167800453515,
+          "slow_end": 15.255600907029478
+        },
+        {
+          "text": "Ale ne techniku, tu ještě kontrolují.“",
+          "start": 13.856643990929705,
+          "end": 17.00294784580499,
+          "slow_start": 15.435600907029478,
+          "slow_end": 18.976643990929706
+        },
+        {
+          "text": "Lenka už začíná psát pozvánku a říká, že tedy může uvést promítání v pátek.",
+          "start": 17.18294784580499,
+          "end": 24.891972789115645,
+          "slow_start": 19.156643990929705,
+          "slow_end": 27.85251700680272
+        },
+        {
+          "text": "Martin ji zastaví: termín místnosti je jistý, ovšem samotná projekce závisí na funkčním připojení.",
+          "start": 25.071972789115645,
+          "end": 34.47605442176871,
+          "slow_start": 28.03251700680272,
+          "slow_end": 38.53954648526077
+        },
+        {
+          "text": "První souhlas se týkal jen jedné části přípravy.",
+          "start": 34.65605442176871,
+          "end": 39.17233560090703,
+          "slow_start": 38.71954648526077,
+          "slow_end": 43.665396825396826
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 43.665396825396826
+    },
+    {
+      "text": "Eva navrhuje, aby si půjčili vlastní projektor. Martin přikyvuje, ale hned dodává: „To by šlo, jenomže nemáme plátno. Tedy máme stěnu, ale nevím, jak bude obraz vypadat.“ Lenka se ptá, zda může obraz někdo vyzkoušet ještě dnes. Její otázka posouvá debatu od obecného problému ke konkrétnímu ověření. Nikdo zatím netvrdí, že náhradní řešení funguje; pouze hledají způsob, jak to zjistit.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Eva navrhuje, aby si půjčili vlastní projektor.",
+        "Martin přikyvuje, ale hned dodává: „To by šlo, jenomže nemáme plátno.",
+        "Tedy máme stěnu, ale nevím, jak bude obraz vypadat.“",
+        "Lenka se ptá, zda může obraz někdo vyzkoušet ještě dnes.",
+        "Její otázka posouvá debatu od obecného problému ke konkrétnímu ověření.",
+        "Nikdo zatím netvrdí, že náhradní řešení funguje; pouze hledají způsob, jak to zjistit."
+      ],
+      "start": 39.35233560090703,
+      "end": 74.72235827664399,
+      "sentences": [
+        {
+          "text": "Eva navrhuje, aby si půjčili vlastní projektor.",
+          "start": 39.35233560090703,
+          "end": 43.775736961451244,
+          "slow_start": 43.845396825396826,
+          "slow_end": 48.814467120181405
+        },
+        {
+          "text": "Martin přikyvuje, ale hned dodává: „To by šlo, jenomže nemáme plátno.",
+          "start": 43.955736961451244,
+          "end": 50.06258503401361,
+          "slow_start": 48.994467120181405,
+          "slow_end": 55.879183673469385
+        },
+        {
+          "text": "Tedy máme stěnu, ale nevím, jak bude obraz vypadat.“",
+          "start": 50.24258503401361,
+          "end": 54.99106575963719,
+          "slow_start": 56.059183673469384,
+          "slow_end": 61.35333333333333
+        },
+        {
+          "text": "Lenka se ptá, zda může obraz někdo vyzkoušet ještě dnes.",
+          "start": 55.17106575963719,
+          "end": 60.198185941043086,
+          "slow_start": 61.53333333333333,
+          "slow_end": 67.19900226757369
+        },
+        {
+          "text": "Její otázka posouvá debatu od obecného problému ke konkrétnímu ověření.",
+          "start": 60.378185941043085,
+          "end": 66.89138321995465,
+          "slow_start": 67.3790022675737,
+          "slow_end": 74.67006802721089
+        },
+        {
+          "text": "Nikdo zatím netvrdí, že náhradní řešení funguje; pouze hledají způsob, jak to zjistit.",
+          "start": 67.07138321995465,
+          "end": 74.72235827664399,
+          "slow_start": 74.85006802721088,
+          "slow_end": 83.33696145124716
+        }
+      ],
+      "slow_start": 43.845396825396826,
+      "slow_end": 83.33696145124716
+    },
+    {
+      "text": "Martin si vzpomene, že technik přijde kolem čtvrté. „Nebo spíš v půl páté, musím se podívat do zprávy,“ opraví se. Eva nejprve zopakuje původní čas, potom ale zaznamená změnu. V přirozeném rozhovoru je důležité zachytit takové opravy, protože poslední upřesnění může nahradit dřívější údaj. Současně poslední věta nemusí být vždy definitivní: zde Martin výslovně říká, že čas ještě ověří.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Martin si vzpomene, že technik přijde kolem čtvrté.",
+        "„Nebo spíš v půl páté, musím se podívat do zprávy,“ opraví se.",
+        "Eva nejprve zopakuje původní čas, potom ale zaznamená změnu.",
+        "V přirozeném rozhovoru je důležité zachytit takové opravy, protože poslední upřesnění může nahradit dřívější údaj.",
+        "Současně poslední věta nemusí být vždy definitivní: zde Martin výslovně říká, že čas ještě ověří."
+      ],
+      "start": 74.902358276644,
+      "end": 110.34780045351474,
+      "sentences": [
+        {
+          "text": "Martin si vzpomene, že technik přijde kolem čtvrté.",
+          "start": 74.902358276644,
+          "end": 79.46507936507936,
+          "slow_start": 83.51696145124717,
+          "slow_end": 88.718231292517
+        },
+        {
+          "text": "„Nebo spíš v půl páté, musím se podívat do zprávy,“ opraví se.",
+          "start": 79.64507936507937,
+          "end": 85.3804081632653,
+          "slow_start": 88.89823129251701,
+          "slow_end": 95.41142857142857
+        },
+        {
+          "text": "Eva nejprve zopakuje původní čas, potom ale zaznamená změnu.",
+          "start": 85.56040816326531,
+          "end": 91.08675736961452,
+          "slow_start": 95.59142857142857,
+          "slow_end": 101.90725623582766
+        },
+        {
+          "text": "V přirozeném rozhovoru je důležité zachytit takové opravy, protože poslední upřesnění může nahradit dřívější údaj.",
+          "start": 91.26675736961451,
+          "end": 101.33260770975056,
+          "slow_start": 102.08725623582767,
+          "slow_end": 113.25605442176871
+        },
+        {
+          "text": "Současně poslední věta nemusí být vždy definitivní: zde Martin výslovně říká, že čas ještě ověří.",
+          "start": 101.51260770975057,
+          "end": 110.34780045351474,
+          "slow_start": 113.4360544217687,
+          "slow_end": 123.30453514739229
+        }
+      ],
+      "slow_start": 83.51696145124717,
+      "slow_end": 123.30453514739229
+    },
+    {
+      "text": "Lenka mezitím upozorňuje na návštěvníky: „Dobře, ale co jim teď napíšeme? Už se ptají.“ Eva navrhuje zprávu, že čas setkání platí a program bude potvrzen večer. Martin souhlasí pouze tehdy, pokud bude z textu jasné, že bez funkční projekce proběhne diskuse bez filmu. Nechtějí hostům slibovat něco, co zatím neovládají, ale zároveň nechtějí mlčet až do poslední chvíle.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Lenka mezitím upozorňuje na návštěvníky: „Dobře, ale co jim teď napíšeme?",
+        "Už se ptají.“",
+        "Eva navrhuje zprávu, že čas setkání platí a program bude potvrzen večer.",
+        "Martin souhlasí pouze tehdy, pokud bude z textu jasné, že bez funkční projekce proběhne diskuse bez filmu.",
+        "Nechtějí hostům slibovat něco, co zatím neovládají, ale zároveň nechtějí mlčet až do poslední chvíle."
+      ],
+      "start": 110.52780045351474,
+      "end": 143.523537414966,
+      "sentences": [
+        {
+          "text": "Lenka mezitím upozorňuje na návštěvníky: „Dobře, ale co jim teď napíšeme?",
+          "start": 110.52780045351474,
+          "end": 116.64625850340136,
+          "slow_start": 123.4845351473923,
+          "slow_end": 130.69433106575963
+        },
+        {
+          "text": "Už se ptají.“",
+          "start": 116.82625850340136,
+          "end": 118.05691609977325,
+          "slow_start": 130.87433106575963,
+          "slow_end": 132.2675283446712
+        },
+        {
+          "text": "Eva navrhuje zprávu, že čas setkání platí a program bude potvrzen večer.",
+          "start": 118.23691609977324,
+          "end": 124.93587301587301,
+          "slow_start": 132.4475283446712,
+          "slow_end": 139.99401360544218
+        },
+        {
+          "text": "Martin souhlasí pouze tehdy, pokud bude z textu jasné, že bez funkční projekce proběhne diskuse bez filmu.",
+          "start": 125.11587301587302,
+          "end": 133.93945578231293,
+          "slow_start": 140.17401360544218,
+          "slow_end": 150.2514739229025
+        },
+        {
+          "text": "Nechtějí hostům slibovat něco, co zatím neovládají, ale zároveň nechtějí mlčet až do poslední chvíle.",
+          "start": 134.1194557823129,
+          "end": 143.523537414966,
+          "slow_start": 150.43147392290248,
+          "slow_end": 160.83401360544218
+        }
+      ],
+      "slow_start": 123.4845351473923,
+      "slow_end": 160.83401360544218
+    },
+    {
+      "text": "Po několika krátkých vstupech se shodnou na postupu. Martin ověří příchod technika a provede zkoušku. Eva připraví dvě verze programu. Lenka rozešle zprávu až po výsledku testu, nejpozději večer. Každý na závěr zopakuje vlastní úkol. Tato závěrečná rekapitulace je spolehlivějším podkladem pro zápis než izolované věty uprostřed hledání řešení, kdy se možnosti teprve zvažovaly.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Po několika krátkých vstupech se shodnou na postupu.",
+        "Martin ověří příchod technika a provede zkoušku.",
+        "Eva připraví dvě verze programu.",
+        "Lenka rozešle zprávu až po výsledku testu, nejpozději večer.",
+        "Každý na závěr zopakuje vlastní úkol.",
+        "Tato závěrečná rekapitulace je spolehlivějším podkladem pro zápis než izolované věty uprostřed hledání řešení, kdy se možnosti teprve zvažovaly."
+      ],
+      "start": 143.70353741496598,
+      "end": 177.13469387755103,
+      "sentences": [
+        {
+          "text": "Po několika krátkých vstupech se shodnou na postupu.",
+          "start": 143.70353741496598,
+          "end": 147.720589569161,
+          "slow_start": 161.0140136054422,
+          "slow_end": 165.51868480725625
+        },
+        {
+          "text": "Martin ověří příchod technika a provede zkoušku.",
+          "start": 147.90058956916099,
+          "end": 152.1730612244898,
+          "slow_start": 165.69868480725623,
+          "slow_end": 170.6445351473923
+        },
+        {
+          "text": "Eva připraví dvě verze programu.",
+          "start": 152.3530612244898,
+          "end": 154.9885260770975,
+          "slow_start": 170.82453514739228,
+          "slow_end": 173.76185941043084
+        },
+        {
+          "text": "Lenka rozešle zprávu až po výsledku testu, nejpozději večer.",
+          "start": 155.1685260770975,
+          "end": 160.43945578231293,
+          "slow_start": 173.94185941043085,
+          "slow_end": 180.03709750566892
+        },
+        {
+          "text": "Každý na závěr zopakuje vlastní úkol.",
+          "start": 160.6194557823129,
+          "end": 164.12566893424037,
+          "slow_start": 180.21709750566893,
+          "slow_end": 184.18770975056688
+        },
+        {
+          "text": "Tato závěrečná rekapitulace je spolehlivějším podkladem pro zápis než izolované věty uprostřed hledání řešení, kdy se možnosti teprve zvažovaly.",
+          "start": 164.30566893424037,
+          "end": 177.13469387755103,
+          "slow_start": 184.3677097505669,
+          "slow_end": 198.86857142857144
+        }
+      ],
+      "slow_start": 161.0140136054422,
+      "slow_end": 198.86857142857144
+    },
+    {
+      "text": "Při poslechu se zaměřujeme na výrazy ano, ale; jenomže; tedy; nebo spíš; pokud a nakonec. Nejsou to bezvýznamné výplně: často označují omezení souhlasu, opravu či změnu směru. Některé krátké zvukové výplně naopak žádný nový fakt nepřidávají. Rozpoznat jejich funkci pomáhá soustředit se na význam. Uměle zrychlená syntetická řeč ovšem nemůže nahradit různé skutečné hlasy, překrývání replik a přirozené tempo.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Při poslechu se zaměřujeme na výrazy ano, ale; jenomže; tedy; nebo spíš; pokud a nakonec.",
+        "Nejsou to bezvýznamné výplně: často označují omezení souhlasu, opravu či změnu směru.",
+        "Některé krátké zvukové výplně naopak žádný nový fakt nepřidávají.",
+        "Rozpoznat jejich funkci pomáhá soustředit se na význam.",
+        "Uměle zrychlená syntetická řeč ovšem nemůže nahradit různé skutečné hlasy, překrývání replik a přirozené tempo."
+      ],
+      "start": 177.314693877551,
+      "end": 214.62934240362813,
+      "sentences": [
+        {
+          "text": "Při poslechu se zaměřujeme na výrazy ano, ale; jenomže; tedy; nebo spíš; pokud a nakonec.",
+          "start": 177.314693877551,
+          "end": 185.0469387755102,
+          "slow_start": 199.04857142857142,
+          "slow_end": 207.97664399092972
+        },
+        {
+          "text": "Nejsou to bezvýznamné výplně: často označují omezení souhlasu, opravu či změnu směru.",
+          "start": 185.2269387755102,
+          "end": 192.9824036281179,
+          "slow_start": 208.1566439909297,
+          "slow_end": 216.74802721088435
+        },
+        {
+          "text": "Některé krátké zvukové výplně naopak žádný nový fakt nepřidávají.",
+          "start": 193.16240362811791,
+          "end": 199.2924716553288,
+          "slow_start": 216.92802721088435,
+          "slow_end": 223.81274376417232
+        },
+        {
+          "text": "Rozpoznat jejich funkci pomáhá soustředit se na význam.",
+          "start": 199.4724716553288,
+          "end": 204.40671201814058,
+          "slow_start": 223.99274376417233,
+          "slow_end": 229.64680272108845
+        },
+        {
+          "text": "Uměle zrychlená syntetická řeč ovšem nemůže nahradit různé skutečné hlasy, překrývání replik a přirozené tempo.",
+          "start": 204.5867120181406,
+          "end": 214.62934240362813,
+          "slow_start": 229.82680272108843,
+          "slow_end": 241.21619047619046
+        }
+      ],
+      "slow_start": 199.04857142857142,
+      "slow_end": 241.21619047619046
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "0c80ca8b2df634e6e590e048c47e7ecbc7b95a48691023a59626d37c671e1f0e",
+    "slow": "3c8fabae90b569aaaf2d324f7f52ad4588ef67b2c866e805b487c77fec44684a"
+  },
+  "reused_from_track_id": "B2-U06-L01--2026.10.22.1--text"
+}

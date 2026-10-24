@@ -1,0 +1,501 @@
+{
+  "id": "C1-U06-L01--2026.10.22.1--text",
+  "lesson_id": "C1-U06-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Zpráva pro radu komunitního centra měla původně začínat větou, že současná otevírací doba neodpovídá moderním potřebám obyvatel. Autorka ji při revizi vyškrtla. Zněla přesvědčivě, ale nebylo jasné, čí potřeby má na mysli ani z čeho její hodnocení vychází. Nahradila ji konkrétnějším sdělením: několik zájemců o večerní kurzy uvedlo, že se kvůli pracovní době nemohou účastnit programu začínajícího v šest hodin. Užší tvrzení umožňovalo přesněji posoudit navrhovanou změnu.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Zpráva pro radu komunitního centra měla původně začínat větou, že současná otevírací doba neodpovídá moderním potřebám obyvatel.",
+        "Autorka ji při revizi vyškrtla.",
+        "Zněla přesvědčivě, ale nebylo jasné, čí potřeby má na mysli ani z čeho její hodnocení vychází.",
+        "Nahradila ji konkrétnějším sdělením: několik zájemců o večerní kurzy uvedlo, že se kvůli pracovní době nemohou účastnit programu začínajícího v šest hodin.",
+        "Užší tvrzení umožňovalo přesněji posoudit navrhovanou změnu."
+      ]
+    },
+    {
+      "text": "V části věnované podkladům odlišila tři druhy informací. Přehled docházky ukazoval skutečnou účast na dosavadních kurzech. Rozhovory zachycovaly přání lidí, kteří o nabídce uvažovali. Odhad provozních nákladů pak popisoval budoucí výdaje za určitých předpokladů. Tyto zdroje nebylo možné jednoduše sečíst. Přání není účast a odhad není účetní záznam. Každý z podkladů odpovídal na jinou otázku, proto měla zpráva ukázat také jejich omezení.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "V části věnované podkladům odlišila tři druhy informací.",
+        "Přehled docházky ukazoval skutečnou účast na dosavadních kurzech.",
+        "Rozhovory zachycovaly přání lidí, kteří o nabídce uvažovali.",
+        "Odhad provozních nákladů pak popisoval budoucí výdaje za určitých předpokladů.",
+        "Tyto zdroje nebylo možné jednoduše sečíst.",
+        "Přání není účast a odhad není účetní záznam.",
+        "Každý z podkladů odpovídal na jinou otázku, proto měla zpráva ukázat také jejich omezení."
+      ]
+    },
+    {
+      "text": "Autorka předložila dvě varianty. První posouvala začátek všech večerních kurzů, druhá zaváděla pozdější čas pouze u jednoho programu. Plošná změna by byla organizačně jednodušší, mohla by však znevýhodnit účastníky závislé na dřívějším spoji domů. Omezený pokus by poskytl méně údajů, zato by umožnil ověřit poptávku bez zásahu do celé nabídky. Zpráva neměla vítěznou variantu předem skrýt do výběru slov; měla obě možnosti porovnat podle stejných kritérií.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Autorka předložila dvě varianty.",
+        "První posouvala začátek všech večerních kurzů, druhá zaváděla pozdější čas pouze u jednoho programu.",
+        "Plošná změna by byla organizačně jednodušší, mohla by však znevýhodnit účastníky závislé na dřívějším spoji domů.",
+        "Omezený pokus by poskytl méně údajů, zato by umožnil ověřit poptávku bez zásahu do celé nabídky.",
+        "Zpráva neměla vítěznou variantu předem skrýt do výběru slov; měla obě možnosti porovnat podle stejných kritérií."
+      ]
+    },
+    {
+      "text": "Doporučení znělo zahájit omezený pokus a předem určit, kdy se bude hodnotit. Rada měla schválit právě tento krok, nikoli trvalou změnu režimu. Bylo třeba uvést odpovědnou osobu, rozsah nákladů, způsob informování účastníků a podmínku návratu k původnímu času. Výraz doporučujeme tak dostal praktický obsah. Kdyby zpráva končila pouze obecným požadavkem zlepšit dostupnost, mohli by všichni souhlasit a přesto každý očekávat něco jiného.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Doporučení znělo zahájit omezený pokus a předem určit, kdy se bude hodnotit.",
+        "Rada měla schválit právě tento krok, nikoli trvalou změnu režimu.",
+        "Bylo třeba uvést odpovědnou osobu, rozsah nákladů, způsob informování účastníků a podmínku návratu k původnímu času.",
+        "Výraz doporučujeme tak dostal praktický obsah.",
+        "Kdyby zpráva končila pouze obecným požadavkem zlepšit dostupnost, mohli by všichni souhlasit a přesto každý očekávat něco jiného."
+      ]
+    },
+    {
+      "text": "Zvláštní odstavec se věnoval rizikům. Nešlo o dlouhý seznam všeho, co by se teoreticky mohlo pokazit. Autorka vybrala dvě nejistoty, které mohly změnit rozhodnutí: zda se vyslovený zájem promění ve skutečnou účast a zda pozdější provoz nezvýší pracovní zátěž nad možnosti týmu. Ke každé přiřadila způsob ověření. Riziko tím nepřestalo existovat, ale bylo jasné, jak se projeví a kdo bude mít dost informací, aby včas reagoval.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Zvláštní odstavec se věnoval rizikům.",
+        "Nešlo o dlouhý seznam všeho, co by se teoreticky mohlo pokazit.",
+        "Autorka vybrala dvě nejistoty, které mohly změnit rozhodnutí: zda se vyslovený zájem promění ve skutečnou účast a zda pozdější provoz nezvýší pracovní zátěž nad možnosti týmu.",
+        "Ke každé přiřadila způsob ověření.",
+        "Riziko tím nepřestalo existovat, ale bylo jasné, jak se projeví a kdo bude mít dost informací, aby včas reagoval."
+      ]
+    },
+    {
+      "text": "Při posledním čtení autorka hledala věty, v nichž chyběl původce děje. Formulaci bude zajištěno informování změnila na koordinátor zašle účastníkům zprávu. Pasivní vyjádření nebylo gramaticky chybné, ale zde zakrývalo odpovědnost. Naopak v přehledu již provedených kontrol ponechala formulaci údaje byly ověřeny, protože hlavní pozornost patřila stavu podkladů. Dobrá revize nespočívá v zákazu určité konstrukce; rozhoduje její funkce v daném místě textu.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Při posledním čtení autorka hledala věty, v nichž chyběl původce děje.",
+        "Formulaci bude zajištěno informování změnila na koordinátor zašle účastníkům zprávu.",
+        "Pasivní vyjádření nebylo gramaticky chybné, ale zde zakrývalo odpovědnost.",
+        "Naopak v přehledu již provedených kontrol ponechala formulaci údaje byly ověřeny, protože hlavní pozornost patřila stavu podkladů.",
+        "Dobrá revize nespočívá v zákazu určité konstrukce; rozhoduje její funkce v daném místě textu."
+      ]
+    },
+    {
+      "text": "Když rada dokument projednala, nejvíce času nezabrala otázka, zda je centrum dost moderní. Diskutovalo se o konkrétním programu, rozsahu pokusu a podmínkách jeho vyhodnocení. Někteří členové nadále nesouhlasili, ale jejich námitky se daly vztáhnout k určité části návrhu. To byl podstatný posun: kvalitní zpráva nemusí zajistit jednomyslnost. Má umožnit, aby souhlas i nesouhlas vycházely ze stejného popisu situace a aby následné rozhodnutí bylo možné zpětně vysvětlit.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Když rada dokument projednala, nejvíce času nezabrala otázka, zda je centrum dost moderní.",
+        "Diskutovalo se o konkrétním programu, rozsahu pokusu a podmínkách jeho vyhodnocení.",
+        "Někteří členové nadále nesouhlasili, ale jejich námitky se daly vztáhnout k určité části návrhu.",
+        "To byl podstatný posun: kvalitní zpráva nemusí zajistit jednomyslnost.",
+        "Má umožnit, aby souhlas i nesouhlas vycházely ze stejného popisu situace a aby následné rozhodnutí bylo možné zpětně vysvětlit."
+      ]
+    }
+  ],
+  "text_sha256": "7bd3ce3f1a52f37ea1c5602620fd4579ad393a192acf2a5872daa72eb618b303",
+  "source_file": "content/lessons/C1/C1-U06-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U06-L01--2026.10.22.1--text--7bd3ce3f1a--normal.mp3",
+  "slow_file": "content/audio/files/C1-U06-L01--2026.10.22.1--text--7bd3ce3f1a--slow.mp3",
+  "duration_seconds": 289.7460770975057,
+  "slow_duration_seconds": 327.8384126984127,
+  "cues": [
+    {
+      "text": "Zpráva pro radu komunitního centra měla původně začínat větou, že současná otevírací doba neodpovídá moderním potřebám obyvatel. Autorka ji při revizi vyškrtla. Zněla přesvědčivě, ale nebylo jasné, čí potřeby má na mysli ani z čeho její hodnocení vychází. Nahradila ji konkrétnějším sdělením: několik zájemců o večerní kurzy uvedlo, že se kvůli pracovní době nemohou účastnit programu začínajícího v šest hodin. Užší tvrzení umožňovalo přesněji posoudit navrhovanou změnu.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Zpráva pro radu komunitního centra měla původně začínat větou, že současná otevírací doba neodpovídá moderním potřebám obyvatel.",
+        "Autorka ji při revizi vyškrtla.",
+        "Zněla přesvědčivě, ale nebylo jasné, čí potřeby má na mysli ani z čeho její hodnocení vychází.",
+        "Nahradila ji konkrétnějším sdělením: několik zájemců o večerní kurzy uvedlo, že se kvůli pracovní době nemohou účastnit programu začínajícího v šest hodin.",
+        "Užší tvrzení umožňovalo přesněji posoudit navrhovanou změnu."
+      ],
+      "start": 0.0,
+      "end": 42.77133786848073,
+      "sentences": [
+        {
+          "text": "Zpráva pro radu komunitního centra měla původně začínat větou, že současná otevírací doba neodpovídá moderním potřebám obyvatel.",
+          "start": 0.0,
+          "end": 11.760907029478458,
+          "slow_start": 0.0,
+          "slow_end": 13.293424036281179
+        },
+        {
+          "text": "Autorka ji při revizi vyškrtla.",
+          "start": 11.940907029478458,
+          "end": 14.32095238095238,
+          "slow_start": 13.473424036281179,
+          "slow_end": 16.19015873015873
+        },
+        {
+          "text": "Zněla přesvědčivě, ale nebylo jasné, čí potřeby má na mysli ani z čeho její hodnocení vychází.",
+          "start": 14.50095238095238,
+          "end": 22.848526077097507,
+          "slow_start": 16.37015873015873,
+          "slow_end": 25.832290249433107
+        },
+        {
+          "text": "Nahradila ji konkrétnějším sdělením: několik zájemců o večerní kurzy uvedlo, že se kvůli pracovní době nemohou účastnit programu začínajícího v šest hodin.",
+          "start": 23.028526077097506,
+          "end": 37.099818594104306,
+          "slow_start": 26.012290249433107,
+          "slow_end": 42.184988662131516
+        },
+        {
+          "text": "Užší tvrzení umožňovalo přesněji posoudit navrhovanou změnu.",
+          "start": 37.279818594104306,
+          "end": 42.77133786848073,
+          "slow_start": 42.364988662131516,
+          "slow_end": 48.541496598639455
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 48.541496598639455
+    },
+    {
+      "text": "V části věnované podkladům odlišila tři druhy informací. Přehled docházky ukazoval skutečnou účast na dosavadních kurzech. Rozhovory zachycovaly přání lidí, kteří o nabídce uvažovali. Odhad provozních nákladů pak popisoval budoucí výdaje za určitých předpokladů. Tyto zdroje nebylo možné jednoduše sečíst. Přání není účast a odhad není účetní záznam. Každý z podkladů odpovídal na jinou otázku, proto měla zpráva ukázat také jejich omezení.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "V části věnované podkladům odlišila tři druhy informací.",
+        "Přehled docházky ukazoval skutečnou účast na dosavadních kurzech.",
+        "Rozhovory zachycovaly přání lidí, kteří o nabídce uvažovali.",
+        "Odhad provozních nákladů pak popisoval budoucí výdaje za určitých předpokladů.",
+        "Tyto zdroje nebylo možné jednoduše sečíst.",
+        "Přání není účast a odhad není účetní záznam.",
+        "Každý z podkladů odpovídal na jinou otázku, proto měla zpráva ukázat také jejich omezení."
+      ],
+      "start": 42.95133786848073,
+      "end": 84.03931972789115,
+      "sentences": [
+        {
+          "text": "V části věnované podkladům odlišila tři druhy informací.",
+          "start": 42.95133786848073,
+          "end": 47.87396825396825,
+          "slow_start": 48.721496598639455,
+          "slow_end": 54.42199546485261
+        },
+        {
+          "text": "Přehled docházky ukazoval skutečnou účast na dosavadních kurzech.",
+          "start": 48.05396825396826,
+          "end": 53.68480725623583,
+          "slow_start": 54.60199546485261,
+          "slow_end": 61.21968253968254
+        },
+        {
+          "text": "Rozhovory zachycovaly přání lidí, kteří o nabídce uvažovali.",
+          "start": 53.86480725623583,
+          "end": 59.321496598639456,
+          "slow_start": 61.39968253968254,
+          "slow_end": 67.46009070294785
+        },
+        {
+          "text": "Odhad provozních nákladů pak popisoval budoucí výdaje za určitých předpokladů.",
+          "start": 59.501496598639456,
+          "end": 66.63002267573697,
+          "slow_start": 67.64009070294784,
+          "slow_end": 75.61614512471655
+        },
+        {
+          "text": "Tyto zdroje nebylo možné jednoduše sečíst.",
+          "start": 66.81002267573696,
+          "end": 70.32784580498866,
+          "slow_start": 75.79614512471656,
+          "slow_end": 79.91768707482993
+        },
+        {
+          "text": "Přání není účast a odhad není účetní záznam.",
+          "start": 70.50784580498866,
+          "end": 75.65106575963719,
+          "slow_start": 80.09768707482993,
+          "slow_end": 86.00716553287982
+        },
+        {
+          "text": "Každý z podkladů odpovídal na jinou otázku, proto měla zpráva ukázat také jejich omezení.",
+          "start": 75.83106575963718,
+          "end": 84.03931972789115,
+          "slow_start": 86.18716553287982,
+          "slow_end": 95.75378684807256
+        }
+      ],
+      "slow_start": 48.721496598639455,
+      "slow_end": 95.75378684807256
+    },
+    {
+      "text": "Autorka předložila dvě varianty. První posouvala začátek všech večerních kurzů, druhá zaváděla pozdější čas pouze u jednoho programu. Plošná změna by byla organizačně jednodušší, mohla by však znevýhodnit účastníky závislé na dřívějším spoji domů. Omezený pokus by poskytl méně údajů, zato by umožnil ověřit poptávku bez zásahu do celé nabídky. Zpráva neměla vítěznou variantu předem skrýt do výběru slov; měla obě možnosti porovnat podle stejných kritérií.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Autorka předložila dvě varianty.",
+        "První posouvala začátek všech večerních kurzů, druhá zaváděla pozdější čas pouze u jednoho programu.",
+        "Plošná změna by byla organizačně jednodušší, mohla by však znevýhodnit účastníky závislé na dřívějším spoji domů.",
+        "Omezený pokus by poskytl méně údajů, zato by umožnil ověřit poptávku bez zásahu do celé nabídky.",
+        "Zpráva neměla vítěznou variantu předem skrýt do výběru slov; měla obě možnosti porovnat podle stejných kritérií."
+      ],
+      "start": 84.21931972789116,
+      "end": 126.31727891156463,
+      "sentences": [
+        {
+          "text": "Autorka předložila dvě varianty.",
+          "start": 84.21931972789116,
+          "end": 87.09859410430839,
+          "slow_start": 95.93378684807256,
+          "slow_end": 99.08009070294784
+        },
+        {
+          "text": "První posouvala začátek všech večerních kurzů, druhá zaváděla pozdější čas pouze u jednoho programu.",
+          "start": 87.2785941043084,
+          "end": 96.18344671201814,
+          "slow_start": 99.26009070294785,
+          "slow_end": 109.56975056689342
+        },
+        {
+          "text": "Plošná změna by byla organizačně jednodušší, mohla by však znevýhodnit účastníky závislé na dřívějším spoji domů.",
+          "start": 96.36344671201815,
+          "end": 106.13904761904762,
+          "slow_start": 109.74975056689343,
+          "slow_end": 120.9069387755102
+        },
+        {
+          "text": "Omezený pokus by poskytl méně údajů, zato by umožnil ověřit poptávku bez zásahu do celé nabídky.",
+          "start": 106.31904761904762,
+          "end": 116.01337868480725,
+          "slow_start": 121.0869387755102,
+          "slow_end": 131.8958276643991
+        },
+        {
+          "text": "Zpráva neměla vítěznou variantu předem skrýt do výběru slov; měla obě možnosti porovnat podle stejných kritérií.",
+          "start": 116.19337868480726,
+          "end": 126.31727891156463,
+          "slow_start": 132.0758276643991,
+          "slow_end": 143.3839455782313
+        }
+      ],
+      "slow_start": 95.93378684807256,
+      "slow_end": 143.3839455782313
+    },
+    {
+      "text": "Doporučení znělo zahájit omezený pokus a předem určit, kdy se bude hodnotit. Rada měla schválit právě tento krok, nikoli trvalou změnu režimu. Bylo třeba uvést odpovědnou osobu, rozsah nákladů, způsob informování účastníků a podmínku návratu k původnímu času. Výraz doporučujeme tak dostal praktický obsah. Kdyby zpráva končila pouze obecným požadavkem zlepšit dostupnost, mohli by všichni souhlasit a přesto každý očekávat něco jiného.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Doporučení znělo zahájit omezený pokus a předem určit, kdy se bude hodnotit.",
+        "Rada měla schválit právě tento krok, nikoli trvalou změnu režimu.",
+        "Bylo třeba uvést odpovědnou osobu, rozsah nákladů, způsob informování účastníků a podmínku návratu k původnímu času.",
+        "Výraz doporučujeme tak dostal praktický obsah.",
+        "Kdyby zpráva končila pouze obecným požadavkem zlepšit dostupnost, mohli by všichni souhlasit a přesto každý očekávat něco jiného."
+      ],
+      "start": 126.49727891156462,
+      "end": 166.84213151927437,
+      "sentences": [
+        {
+          "text": "Doporučení znělo zahájit omezený pokus a předem určit, kdy se bude hodnotit.",
+          "start": 126.49727891156462,
+          "end": 133.20784580498866,
+          "slow_start": 143.56394557823128,
+          "slow_end": 151.14526077097506
+        },
+        {
+          "text": "Rada měla schválit právě tento krok, nikoli trvalou změnu režimu.",
+          "start": 133.38784580498867,
+          "end": 139.2508843537415,
+          "slow_start": 151.32526077097506,
+          "slow_end": 157.86167800453515
+        },
+        {
+          "text": "Bylo třeba uvést odpovědnou osobu, rozsah nákladů, způsob informování účastníků a podmínku návratu k původnímu času.",
+          "start": 139.4308843537415,
+          "end": 151.13374149659865,
+          "slow_start": 158.04167800453516,
+          "slow_end": 171.2422222222222
+        },
+        {
+          "text": "Výraz doporučujeme tak dostal praktický obsah.",
+          "start": 151.31374149659865,
+          "end": 155.43528344671202,
+          "slow_start": 171.42222222222222,
+          "slow_end": 176.18231292517007
+        },
+        {
+          "text": "Kdyby zpráva končila pouze obecným požadavkem zlepšit dostupnost, mohli by všichni souhlasit a přesto každý očekávat něco jiného.",
+          "start": 155.61528344671203,
+          "end": 166.84213151927437,
+          "slow_start": 176.36231292517007,
+          "slow_end": 189.4583673469388
+        }
+      ],
+      "slow_start": 143.56394557823128,
+      "slow_end": 189.4583673469388
+    },
+    {
+      "text": "Zvláštní odstavec se věnoval rizikům. Nešlo o dlouhý seznam všeho, co by se teoreticky mohlo pokazit. Autorka vybrala dvě nejistoty, které mohly změnit rozhodnutí: zda se vyslovený zájem promění ve skutečnou účast a zda pozdější provoz nezvýší pracovní zátěž nad možnosti týmu. Ke každé přiřadila způsob ověření. Riziko tím nepřestalo existovat, ale bylo jasné, jak se projeví a kdo bude mít dost informací, aby včas reagoval.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Zvláštní odstavec se věnoval rizikům.",
+        "Nešlo o dlouhý seznam všeho, co by se teoreticky mohlo pokazit.",
+        "Autorka vybrala dvě nejistoty, které mohly změnit rozhodnutí: zda se vyslovený zájem promění ve skutečnou účast a zda pozdější provoz nezvýší pracovní zátěž nad možnosti týmu.",
+        "Ke každé přiřadila způsob ověření.",
+        "Riziko tím nepřestalo existovat, ale bylo jasné, jak se projeví a kdo bude mít dost informací, aby včas reagoval."
+      ],
+      "start": 167.02213151927438,
+      "end": 205.95056689342402,
+      "sentences": [
+        {
+          "text": "Zvláštní odstavec se věnoval rizikům.",
+          "start": 167.02213151927438,
+          "end": 170.5051247165533,
+          "slow_start": 189.63836734693876,
+          "slow_end": 193.53931972789115
+        },
+        {
+          "text": "Nešlo o dlouhý seznam všeho, co by se teoreticky mohlo pokazit.",
+          "start": 170.68512471655328,
+          "end": 175.78190476190477,
+          "slow_start": 193.71931972789116,
+          "slow_end": 199.53591836734694
+        },
+        {
+          "text": "Autorka vybrala dvě nejistoty, které mohly změnit rozhodnutí: zda se vyslovený zájem promění ve skutečnou účast a zda pozdější provoz nezvýší pracovní zátěž nad možnosti týmu.",
+          "start": 175.96190476190475,
+          "end": 192.22748299319727,
+          "slow_start": 199.71591836734694,
+          "slow_end": 217.6649433106576
+        },
+        {
+          "text": "Ke každé přiřadila způsob ověření.",
+          "start": 192.40748299319728,
+          "end": 195.61183673469387,
+          "slow_start": 217.84494331065758,
+          "slow_end": 221.50208616780046
+        },
+        {
+          "text": "Riziko tím nepřestalo existovat, ale bylo jasné, jak se projeví a kdo bude mít dost informací, aby včas reagoval.",
+          "start": 195.79183673469387,
+          "end": 205.95056689342402,
+          "slow_start": 221.68208616780046,
+          "slow_end": 233.26884353741497
+        }
+      ],
+      "slow_start": 189.63836734693876,
+      "slow_end": 233.26884353741497
+    },
+    {
+      "text": "Při posledním čtení autorka hledala věty, v nichž chyběl původce děje. Formulaci bude zajištěno informování změnila na koordinátor zašle účastníkům zprávu. Pasivní vyjádření nebylo gramaticky chybné, ale zde zakrývalo odpovědnost. Naopak v přehledu již provedených kontrol ponechala formulaci údaje byly ověřeny, protože hlavní pozornost patřila stavu podkladů. Dobrá revize nespočívá v zákazu určité konstrukce; rozhoduje její funkce v daném místě textu.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Při posledním čtení autorka hledala věty, v nichž chyběl původce děje.",
+        "Formulaci bude zajištěno informování změnila na koordinátor zašle účastníkům zprávu.",
+        "Pasivní vyjádření nebylo gramaticky chybné, ale zde zakrývalo odpovědnost.",
+        "Naopak v přehledu již provedených kontrol ponechala formulaci údaje byly ověřeny, protože hlavní pozornost patřila stavu podkladů.",
+        "Dobrá revize nespočívá v zákazu určité konstrukce; rozhoduje její funkce v daném místě textu."
+      ],
+      "start": 206.13056689342403,
+      "end": 247.4390476190476,
+      "sentences": [
+        {
+          "text": "Při posledním čtení autorka hledala věty, v nichž chyběl původce děje.",
+          "start": 206.13056689342403,
+          "end": 211.91233560090703,
+          "slow_start": 233.44884353741497,
+          "slow_end": 239.8459410430839
+        },
+        {
+          "text": "Formulaci bude zajištěno informování změnila na koordinátor zašle účastníkům zprávu.",
+          "start": 212.09233560090703,
+          "end": 220.4515192743764,
+          "slow_start": 240.0259410430839,
+          "slow_end": 249.16299319727892
+        },
+        {
+          "text": "Pasivní vyjádření nebylo gramaticky chybné, ale zde zakrývalo odpovědnost.",
+          "start": 220.63151927437642,
+          "end": 226.9473469387755,
+          "slow_start": 249.3429931972789,
+          "slow_end": 256.5063492063492
+        },
+        {
+          "text": "Naopak v přehledu již provedených kontrol ponechala formulaci údaje byly ověřeny, protože hlavní pozornost patřila stavu podkladů.",
+          "start": 227.1273469387755,
+          "end": 239.06240362811792,
+          "slow_start": 256.68634920634923,
+          "slow_end": 270.21197278911563
+        },
+        {
+          "text": "Dobrá revize nespočívá v zákazu určité konstrukce; rozhoduje její funkce v daném místě textu.",
+          "start": 239.24240362811793,
+          "end": 247.4390476190476,
+          "slow_start": 270.39197278911564,
+          "slow_end": 279.81927437641724
+        }
+      ],
+      "slow_start": 233.44884353741497,
+      "slow_end": 279.81927437641724
+    },
+    {
+      "text": "Když rada dokument projednala, nejvíce času nezabrala otázka, zda je centrum dost moderní. Diskutovalo se o konkrétním programu, rozsahu pokusu a podmínkách jeho vyhodnocení. Někteří členové nadále nesouhlasili, ale jejich námitky se daly vztáhnout k určité části návrhu. To byl podstatný posun: kvalitní zpráva nemusí zajistit jednomyslnost. Má umožnit, aby souhlas i nesouhlas vycházely ze stejného popisu situace a aby následné rozhodnutí bylo možné zpětně vysvětlit.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Když rada dokument projednala, nejvíce času nezabrala otázka, zda je centrum dost moderní.",
+        "Diskutovalo se o konkrétním programu, rozsahu pokusu a podmínkách jeho vyhodnocení.",
+        "Někteří členové nadále nesouhlasili, ale jejich námitky se daly vztáhnout k určité části návrhu.",
+        "To byl podstatný posun: kvalitní zpráva nemusí zajistit jednomyslnost.",
+        "Má umožnit, aby souhlas i nesouhlas vycházely ze stejného popisu situace a aby následné rozhodnutí bylo možné zpětně vysvětlit."
+      ],
+      "start": 247.61904761904762,
+      "end": 289.5660770975057,
+      "sentences": [
+        {
+          "text": "Když rada dokument projednala, nejvíce času nezabrala otázka, zda je centrum dost moderní.",
+          "start": 247.61904761904762,
+          "end": 255.78086167800453,
+          "slow_start": 279.99927437641725,
+          "slow_end": 289.1363265306122
+        },
+        {
+          "text": "Diskutovalo se o konkrétním programu, rozsahu pokusu a podmínkách jeho vyhodnocení.",
+          "start": 255.96086167800453,
+          "end": 262.9500680272109,
+          "slow_start": 289.31632653061223,
+          "slow_end": 297.3039909297052
+        },
+        {
+          "text": "Někteří členové nadále nesouhlasili, ale jejich námitky se daly vztáhnout k určité části návrhu.",
+          "start": 263.1300680272109,
+          "end": 271.53569160997733,
+          "slow_start": 297.4839909297052,
+          "slow_end": 306.9112925170068
+        },
+        {
+          "text": "To byl podstatný posun: kvalitní zpráva nemusí zajistit jednomyslnost.",
+          "start": 271.71569160997734,
+          "end": 277.74126984126985,
+          "slow_start": 307.0912925170068,
+          "slow_end": 314.0456689342404
+        },
+        {
+          "text": "Má umožnit, aby souhlas i nesouhlas vycházely ze stejného popisu situace a aby následné rozhodnutí bylo možné zpětně vysvětlit.",
+          "start": 277.92126984126986,
+          "end": 289.5660770975057,
+          "slow_start": 314.2256689342404,
+          "slow_end": 327.6584126984127
+        }
+      ],
+      "slow_start": 279.99927437641725,
+      "slow_end": 327.6584126984127
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "fb0fb8b25ce5956f9b1f6c5a1a4c7bc523f0b5f69bb3bb376334157f2ba3fdc3",
+    "slow": "4624569779627bfd3b03fffeeb7df66812a6cea8f26a7a5527e079d5e5b4ef24"
+  }
+}

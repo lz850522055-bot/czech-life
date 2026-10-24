@@ -1,0 +1,84 @@
+{
+  "id": "B1-U01-CHECK--2026.10.22.1--text",
+  "lesson_id": "B1-U01-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Jana chtěla vrátit knihu v sobotu. Knihovna však byla kvůli opravě zavřená. V pondělí zavolala knihovnici a zjistila, že může knihu vložit do boxu u vchodu. Ještě téhož večera ji vrátila.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Jana chtěla vrátit knihu v sobotu.",
+        "Knihovna však byla kvůli opravě zavřená.",
+        "V pondělí zavolala knihovnici a zjistila, že může knihu vložit do boxu u vchodu.",
+        "Ještě téhož večera ji vrátila."
+      ]
+    }
+  ],
+  "text_sha256": "0df7384f0a1a81563e282a6c28495c442521beabd530c15d39453de93ba707dc",
+  "source_file": "content/assessments/B1-U01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U01-CHECK--2026.10.22.1--text--0df7384f0a--normal.mp3",
+  "slow_file": "content/audio/files/B1-U01-CHECK--2026.10.22.1--text--0df7384f0a--slow.mp3",
+  "duration_seconds": 16.69532879818594,
+  "slow_duration_seconds": 19.13342403628118,
+  "cues": [
+    {
+      "text": "Jana chtěla vrátit knihu v sobotu. Knihovna však byla kvůli opravě zavřená. V pondělí zavolala knihovnici a zjistila, že může knihu vložit do boxu u vchodu. Ještě téhož večera ji vrátila.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Jana chtěla vrátit knihu v sobotu.",
+        "Knihovna však byla kvůli opravě zavřená.",
+        "V pondělí zavolala knihovnici a zjistila, že může knihu vložit do boxu u vchodu.",
+        "Ještě téhož večera ji vrátila."
+      ],
+      "start": 0.0,
+      "end": 16.51532879818594,
+      "sentences": [
+        {
+          "text": "Jana chtěla vrátit knihu v sobotu.",
+          "start": 0.0,
+          "end": 3.006984126984127,
+          "slow_start": 0.0,
+          "slow_end": 3.517823129251701
+        },
+        {
+          "text": "Knihovna však byla kvůli opravě zavřená.",
+          "start": 3.186984126984127,
+          "end": 6.681587301587301,
+          "slow_start": 3.6978231292517005,
+          "slow_end": 7.5987755102040815
+        },
+        {
+          "text": "V pondělí zavolala knihovnici a zjistila, že může knihu vložit do boxu u vchodu.",
+          "start": 6.861587301587302,
+          "end": 13.711473922902494,
+          "slow_start": 7.778775510204081,
+          "slow_end": 15.673560090702948
+        },
+        {
+          "text": "Ještě téhož večera ji vrátila.",
+          "start": 13.891473922902493,
+          "end": 16.51532879818594,
+          "slow_start": 15.853560090702947,
+          "slow_end": 18.95342403628118
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 18.95342403628118
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "2e7771f5f06ee8d2710050dda116d13d3573b576a7547dee1648f1182b798f1a",
+    "slow": "9175603700c4d8cc9269100d4b08e6c379976c499df1ee92d12d13a04937a8c1"
+  }
+}

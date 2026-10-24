@@ -1,0 +1,257 @@
+{
+  "id": "B1-U01-L01--2026.10.22.1--scenario-SC-B1-01",
+  "lesson_id": "B1-U01-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "scenario-SC-B1-01",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "V seznamu jste vedený jako nepřítomný. Proč jste nepřišel na první lekci?",
+      "index": 0,
+      "role": "scenario",
+      "scenario_id": "SC-B1-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "start",
+      "parts": [
+        "V seznamu jste vedený jako nepřítomný.",
+        "Proč jste nepřišel na první lekci?"
+      ]
+    },
+    {
+      "text": "Děkuji za vysvětlení. Pošlete mi prosím tu zprávu. Mohu vám nabídnout náhradní úvod v úterý v šest.",
+      "index": 1,
+      "role": "scenario",
+      "scenario_id": "SC-B1-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "solution",
+      "parts": [
+        "Děkuji za vysvětlení.",
+        "Pošlete mi prosím tu zprávu.",
+        "Mohu vám nabídnout náhradní úvod v úterý v šest."
+      ]
+    },
+    {
+      "text": "Rád to prověřím. Potřebuji ale vědět, kam jste přišel a podle jaké zprávy.",
+      "index": 2,
+      "role": "scenario",
+      "scenario_id": "SC-B1-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "repair",
+      "parts": [
+        "Rád to prověřím.",
+        "Potřebuji ale vědět, kam jste přišel a podle jaké zprávy."
+      ]
+    },
+    {
+      "text": "Zapíšu vás na úterý v šest. Místnost je dvanáct a pošlu vám potvrzení.",
+      "index": 3,
+      "role": "scenario",
+      "scenario_id": "SC-B1-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "done",
+      "parts": [
+        "Zapíšu vás na úterý v šest.",
+        "Místnost je dvanáct a pošlu vám potvrzení."
+      ]
+    },
+    {
+      "text": "Pošlu vám podklady. Náhradní lekci zatím nerezervuji; další termín domluvíme zvlášť.",
+      "index": 4,
+      "role": "scenario",
+      "scenario_id": "SC-B1-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "materials",
+      "parts": [
+        "Pošlu vám podklady.",
+        "Náhradní lekci zatím nerezervuji; další termín domluvíme zvlášť."
+      ]
+    }
+  ],
+  "text_sha256": "b5e5c89819ed6d4cae874b48304bde2f85f63eb7c8903514862ee59607ec29ee",
+  "source_file": "content/scenarios.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U01-L01--2026.10.22.1--scenario-SC-B1-01--b5e5c89819--normal.mp3",
+  "slow_file": "content/audio/files/B1-U01-L01--2026.10.22.1--scenario-SC-B1-01--b5e5c89819--slow.mp3",
+  "duration_seconds": 38.5746485260771,
+  "slow_duration_seconds": 43.218639455782316,
+  "cues": [
+    {
+      "text": "V seznamu jste vedený jako nepřítomný. Proč jste nepřišel na první lekci?",
+      "index": 0,
+      "role": "scenario",
+      "scenario_id": "SC-B1-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "start",
+      "parts": [
+        "V seznamu jste vedený jako nepřítomný.",
+        "Proč jste nepřišel na první lekci?"
+      ],
+      "start": 0.0,
+      "end": 6.739637188208617,
+      "sentences": [
+        {
+          "text": "V seznamu jste vedený jako nepřítomný.",
+          "start": 0.0,
+          "end": 3.2856235827664397,
+          "slow_start": 0.0,
+          "slow_end": 3.517823129251701
+        },
+        {
+          "text": "Proč jste nepřišel na první lekci?",
+          "start": 3.46562358276644,
+          "end": 6.739637188208617,
+          "slow_start": 3.6978231292517005,
+          "slow_end": 7.436235827664399
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 7.436235827664399
+    },
+    {
+      "text": "Děkuji za vysvětlení. Pošlete mi prosím tu zprávu. Mohu vám nabídnout náhradní úvod v úterý v šest.",
+      "index": 1,
+      "role": "scenario",
+      "scenario_id": "SC-B1-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "solution",
+      "parts": [
+        "Děkuji za vysvětlení.",
+        "Pošlete mi prosím tu zprávu.",
+        "Mohu vám nabídnout náhradní úvod v úterý v šest."
+      ],
+      "start": 6.9196371882086165,
+      "end": 16.6140589569161,
+      "sentences": [
+        {
+          "text": "Děkuji za vysvětlení.",
+          "start": 6.9196371882086165,
+          "end": 8.858503401360544,
+          "slow_start": 7.616235827664399,
+          "slow_end": 9.79891156462585
+        },
+        {
+          "text": "Pošlete mi prosím tu zprávu.",
+          "start": 9.038503401360543,
+          "end": 11.534648526077097,
+          "slow_start": 9.97891156462585,
+          "slow_end": 12.869795918367346
+        },
+        {
+          "text": "Mohu vám nabídnout náhradní úvod v úterý v šest.",
+          "start": 11.714648526077097,
+          "end": 16.6140589569161,
+          "slow_start": 13.049795918367346,
+          "slow_end": 18.669024943310657
+        }
+      ],
+      "slow_start": 7.616235827664399,
+      "slow_end": 18.669024943310657
+    },
+    {
+      "text": "Rád to prověřím. Potřebuji ale vědět, kam jste přišel a podle jaké zprávy.",
+      "index": 2,
+      "role": "scenario",
+      "scenario_id": "SC-B1-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "repair",
+      "parts": [
+        "Rád to prověřím.",
+        "Potřebuji ale vědět, kam jste přišel a podle jaké zprávy."
+      ],
+      "start": 16.7940589569161,
+      "end": 23.59174603174603,
+      "sentences": [
+        {
+          "text": "Rád to prověřím.",
+          "start": 16.7940589569161,
+          "end": 18.3962358276644,
+          "slow_start": 18.849024943310656,
+          "slow_end": 20.683401360544217
+        },
+        {
+          "text": "Potřebuji ale vědět, kam jste přišel a podle jaké zprávy.",
+          "start": 18.576235827664398,
+          "end": 23.59174603174603,
+          "slow_start": 20.863401360544216,
+          "slow_end": 26.51746031746032
+        }
+      ],
+      "slow_start": 18.849024943310656,
+      "slow_end": 26.51746031746032
+    },
+    {
+      "text": "Zapíšu vás na úterý v šest. Místnost je dvanáct a pošlu vám potvrzení.",
+      "index": 3,
+      "role": "scenario",
+      "scenario_id": "SC-B1-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "done",
+      "parts": [
+        "Zapíšu vás na úterý v šest.",
+        "Místnost je dvanáct a pošlu vám potvrzení."
+      ],
+      "start": 23.77174603174603,
+      "end": 30.43011337868481,
+      "sentences": [
+        {
+          "text": "Zapíšu vás na úterý v šest.",
+          "start": 23.77174603174603,
+          "end": 26.31433106575964,
+          "slow_start": 26.69746031746032,
+          "slow_end": 29.692834467120182
+        },
+        {
+          "text": "Místnost je dvanáct a pošlu vám potvrzení.",
+          "start": 26.49433106575964,
+          "end": 30.43011337868481,
+          "slow_start": 29.87283446712018,
+          "slow_end": 34.34267573696145
+        }
+      ],
+      "slow_start": 26.69746031746032,
+      "slow_end": 34.34267573696145
+    },
+    {
+      "text": "Pošlu vám podklady. Náhradní lekci zatím nerezervuji; další termín domluvíme zvlášť.",
+      "index": 4,
+      "role": "scenario",
+      "scenario_id": "SC-B1-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "materials",
+      "parts": [
+        "Pošlu vám podklady.",
+        "Náhradní lekci zatím nerezervuji; další termín domluvíme zvlášť."
+      ],
+      "start": 30.610113378684808,
+      "end": 38.3946485260771,
+      "sentences": [
+        {
+          "text": "Pošlu vám podklady.",
+          "start": 30.610113378684808,
+          "end": 32.38643990929705,
+          "slow_start": 34.52267573696145,
+          "slow_end": 36.54281179138322
+        },
+        {
+          "text": "Náhradní lekci zatím nerezervuji; další termín domluvíme zvlášť.",
+          "start": 32.56643990929705,
+          "end": 38.3946485260771,
+          "slow_start": 36.72281179138322,
+          "slow_end": 43.03863945578231
+        }
+      ],
+      "slow_start": 34.52267573696145,
+      "slow_end": 43.03863945578231
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "974d142359fe889cd561ba8bf8cc7f2b2137c4a66d833da215ec252336447ca6",
+    "slow": "82c6aed71eeab1ae36ec4a74c1fe320064601ee6c51fc30902207027d2fee4ca"
+  }
+}

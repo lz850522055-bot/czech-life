@@ -1,0 +1,1542 @@
+{
+  "id": "A2-U03-L01",
+  "level": "A2",
+  "unit_id": "A2-U03",
+  "order": 21,
+  "version": "2026.10.23.1",
+  "title_zh": "把七格整理成能查能用的地图",
+  "title_cs": "Sedm pádů",
+  "prerequisites": [
+    "A2-U02-L01"
+  ],
+  "can_do": [
+    "按功能选择格",
+    "查用主要名词范式",
+    "解释相同词形可能承担不同格"
+  ],
+  "scene": "语法规律",
+  "skills": [
+    "listening",
+    "speaking",
+    "reading",
+    "writing",
+    "interaction",
+    "mediation"
+  ],
+  "knowledge_points": [
+    "seven-case-system",
+    "declension-hard-models",
+    "declension-soft-models",
+    "declension-other-models",
+    "declension-masculine-more"
+  ],
+  "intro_zh": "你已经会几个固定短语，现在把它们放到同一张关系图：先确定动词或介词要求，再选词的范式与数量。",
+  "lesson_text": [
+    {
+      "id": "s01",
+      "cs": "Jana připravuje sousedské setkání a potřebuje pomoc. Na stole má seznam lidí, věcí a úkolů. Každý řádek ukazuje jiný vztah.",
+      "zh": "雅娜准备邻里聚会，需要帮助。桌上有一份人物、物品和任务清单，每一行表示不同关系。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s02",
+      "cs": "Petr přinese stoly. Bez Petra by to bylo těžší, protože má velké auto. Jana mu proto ráno zavolá a poděkuje mu.",
+      "zh": "彼得会带来桌子。没有他会更困难，因为他有大车。雅娜因此早上给他打电话，向他道谢。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s03",
+      "cs": "Vidí Petra před domem a říká: Petře, můžeš prosím přinést také dvě židle? Petr souhlasí a jde do sklepa.",
+      "zh": "她看见彼得在房子前，说：“彼得，你能再带两把椅子吗？”彼得同意后去地下室。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s04",
+      "cs": "Později Jana mluví o Petrovi s novou sousedkou. Vysvětluje, že společně připravují místo pro malé děti i dospělé.",
+      "zh": "后来雅娜和新邻居谈起彼得，解释大家正一起为小孩和成人布置场地。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s05",
+      "cs": "Na stole bude voda, čaj a několik misek s ovocem. Dětem dá malé sklenice. Pro dospělé připraví větší hrnky.",
+      "zh": "桌上会有水、茶和几碗水果。她给孩子小玻璃杯，为成人准备较大的有柄杯。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s06",
+      "cs": "Hosté přijdou do zahrady a budou sedět v zahradě pod stromem. Po setkání půjdou ze zahrady domů.",
+      "zh": "客人走进花园，在花园树下坐着。聚会后从花园回家。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s07",
+      "cs": "Jana si všímá, že slova mění tvar podle úlohy ve větě. Nejde o sedm různých lidí ani o sedm různých zahrad.",
+      "zh": "雅娜注意到词随句中作用而变形，并不是七个不同的人或七个不同花园。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s08",
+      "cs": "Když nezná správný tvar, nejdřív najde předložku nebo sloveso. Potom zkontroluje rod, číslo a vzor ve slovníku.",
+      "zh": "不知道正确词形时，她先找介词或动词，再在词典核对性别、数量和范式。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "seven-case-system",
+      "rule_zh": "先问关系，再查词形：不要先猜尾巴。",
+      "detail_zh": "1 nominativ：主体/Petr；2 genitiv：bez Petra、do města、pět knih；3 dativ：dám Petrovi、k městu；4 akuzativ：vidím Petra、koupím knihu；5 vokativ：Petře!；6 lokál：o Petrovi、ve městě，仅与介词连用；7 instrumentál：s Petrem、autobusem。相同Petra可为2或4格，由句法决定。",
+      "examples": [
+        {
+          "cs": "Dám knihu Petrovi.",
+          "zh": "我把书给彼得。",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        },
+        {
+          "cs": "Mluvím o knize.",
+          "zh": "我谈那本书。",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        }
+      ],
+      "pitfalls": [
+        "把某一个词尾当成某个格的唯一标志。"
+      ],
+      "exceptions": [
+        "动词支配需单独记，如rozumět+3、čekat na+4、bát se+2。"
+      ],
+      "term": "七格功能"
+    },
+    {
+      "id": "declension-hard-models",
+      "rule_zh": "每个范式是一组可查的常见变化，先用代表词练。",
+      "detail_zh": "按1/2/3/4/5/6/7格顺序：žena单数žena, ženy, ženě, ženu, ženo, ženě, ženou；复数ženy, žen, ženám, ženy, ženy, ženách, ženami。město单数město, města, městu, město, město, městě/městu, městem；复数města, měst, městům, města, města, městech, městy。hrad单数hrad, hradu, hradu, hrad, hrade, hradu/hradě, hradem；复数hrady, hradů, hradům, hrady, hrady, hradech, hrady。",
+      "examples": [
+        {
+          "cs": "bez ženy, se ženou",
+          "zh": "没有女人；和女人",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        },
+        {
+          "cs": "do města, ve městě",
+          "zh": "去城里；在城里",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        }
+      ],
+      "pitfalls": [
+        "按中文介词直接猜捷语格。"
+      ],
+      "exceptions": [
+        "同类名词第2/6格尾部存在词汇差异；hrad范式不代表每个阳性无生词都允许所有变体。"
+      ],
+      "term": "硬类名词范式"
+    },
+    {
+      "id": "declension-soft-models",
+      "rule_zh": "软类词有不同尾巴，但选格的逻辑相同。",
+      "detail_zh": "růže单数růže, růže, růži, růži, růže, růži, růží；复数růže, růží, růžím, růže, růže, růžích, růžemi。muž单数muž, muže, muži/mužovi, muže, muži, muži/mužovi, mužem；复数muži/mužové, mužů, mužům, muže, muži/mužové, mužích, muži。moře单数moře, moře, moři, moře, moře, moři, mořem；复数moře, moří, mořím, moře, moře, mořích, moři。",
+      "examples": [
+        {
+          "cs": "Vidím muže.",
+          "zh": "我看见男人。",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        },
+        {
+          "cs": "Mluvím s muži.",
+          "zh": "我与男人们谈。",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        }
+      ],
+      "pitfalls": [
+        "把单复数相同词形误认成没有数量差别。"
+      ],
+      "exceptions": [
+        "muži可对应多个格与数量，必须看上下文；名词存在更多范式，后面的参考卡补全。"
+      ],
+      "term": "软类名词范式"
+    },
+    {
+      "id": "declension-other-models",
+      "rule_zh": "不适合前三组的常见词，要保留自己的范式。",
+      "detail_zh": "píseň：píseň, písně, písni, píseň, písni, písni, písní；复数písně, písní, písním, písně, písně, písních, písněmi。kost：kost, kosti, kosti, kost, kosti, kosti, kostí；复数kosti, kostí, kostem, kosti, kosti, kostech, kostmi。kuře：kuře, kuřete, kuřeti, kuře, kuře, kuřeti, kuřetem；复数kuřata, kuřat, kuřatům, kuřata, kuřata, kuřatech, kuřaty。stavení：stavení, stavení, stavení, stavení, stavení, stavení, stavením；复数stavení, stavení, stavením, stavení, stavení, staveních, staveními。",
+      "examples": [
+        {
+          "cs": "bez písně",
+          "zh": "没有歌曲",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        },
+        {
+          "cs": "kuře s kuřaty",
+          "zh": "一只小鸡和一群小鸡",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        }
+      ],
+      "pitfalls": [
+        "把所有-e结尾词套růže。"
+      ],
+      "exceptions": [
+        "阳性pán、muž、předseda、soudce及stroj等还需结合词典；本课提供可操作总图，不声称只有这些词形。"
+      ],
+      "term": "其他名词范式"
+    },
+    {
+      "id": "declension-masculine-more",
+      "rule_zh": "阳性人物和软类物品再补几组常用范式。",
+      "detail_zh": "仍按1/2/3/4/5/6/7格：pán单数pán, pána, pánovi/pánu, pána, pane, pánovi/pánu, pánem；复数páni/pánové, pánů, pánům, pány, páni/pánové, pánech, pány。stroj单数stroj, stroje, stroji, stroj, stroji, stroji, strojem；复数stroje, strojů, strojům, stroje, stroje, strojích, stroji。předseda单数předseda, předsedy, předsedovi, předsedu, předsedo, předsedovi, předsedou；复数předsedové, předsedů, předsedům, předsedy, předsedové, předsedech, předsedy。soudce单数soudce, soudce, soudci/soudcovi, soudce, soudce, soudci/soudcovi, soudcem；复数soudci/soudcové, soudců, soudcům, soudce, soudci/soudcové, soudcích, soudci。",
+      "examples": [
+        {
+          "cs": "Mluvím s pánem.",
+          "zh": "我与那位先生说话。",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        },
+        {
+          "cs": "Pracuju se strojem.",
+          "zh": "我用机器工作。",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        }
+      ],
+      "pitfalls": [
+        "看到-a就认为是阴性，或把有生宾格保留主格。"
+      ],
+      "exceptions": [
+        "职业称谓、姓氏、外来词和词干交替还有个别差异；使用实际名词时仍要查词典，不能把范式当无例外公式。"
+      ],
+      "term": "阳性名词范式"
+    }
+  ],
+  "vocabulary": [
+    {
+      "lemma": "pád",
+      "pos": "名词，阳性无生",
+      "forms": "pádu; pády",
+      "meaning_zh": "格；跌落",
+      "collocation": "sedm pádů",
+      "example_cs": "Čeština má sedm pádů.",
+      "example_zh": "捷语有七格。",
+      "confusion_zh": "语法义依上下文。"
+    },
+    {
+      "lemma": "vzor",
+      "pos": "名词，阳性无生",
+      "forms": "vzoru; vzory",
+      "meaning_zh": "范式；样板",
+      "collocation": "gramatický vzor",
+      "example_cs": "Hledám správný vzor.",
+      "example_zh": "我找正确范式。",
+      "confusion_zh": "不是每个词完全无例外。"
+    },
+    {
+      "lemma": "vztah",
+      "pos": "名词，阳性无生",
+      "forms": "vztahu; vztahy",
+      "meaning_zh": "关系",
+      "collocation": "vztah ve větě",
+      "example_cs": "Pád ukazuje vztah.",
+      "example_zh": "格显示关系。",
+      "confusion_zh": "不只指恋爱关系。"
+    },
+    {
+      "lemma": "věta",
+      "pos": "名词，阴性",
+      "forms": "věty; věty",
+      "meaning_zh": "句子",
+      "collocation": "krátká věta",
+      "example_cs": "Napíšu jednu větu.",
+      "example_zh": "我写一句。",
+      "confusion_zh": "区别slovo。"
+    },
+    {
+      "lemma": "zahrada",
+      "pos": "名词，阴性",
+      "forms": "zahrady; zahradě; zahradou",
+      "meaning_zh": "花园",
+      "collocation": "v zahradě",
+      "example_cs": "Sedíme v zahradě.",
+      "example_zh": "我们坐在花园里。",
+      "confusion_zh": "do zahrady表示去。"
+    },
+    {
+      "lemma": "děkovat",
+      "pos": "动词，未完成体",
+      "forms": "děkuju; děkoval",
+      "meaning_zh": "道谢",
+      "collocation": "děkovat Petrovi",
+      "example_cs": "Děkuju Petrovi.",
+      "example_zh": "我向彼得道谢。",
+      "confusion_zh": "第三格对象。"
+    }
+  ],
+  "listening": {
+    "script": [
+      {
+        "cs": "Eva dá knihu Janě. Potom mluví s Janou o knize. Bez té knihy nemůže dokončit úkol.",
+        "zh": "伊娃把书给雅娜，然后与雅娜谈那本书；没有那本书，她无法完成任务。",
+        "note_zh": "先理解整句意图，再回看本课规律。"
+      }
+    ],
+    "focus_zh": "先不看文本听出任务关键信息；第二遍核对词形、数字与否定；最后对照中文。",
+    "source": "original"
+  },
+  "pronunciation": {
+    "focus_zh": "格尾虽短仍承载关系，Janě/Janou要听全。不要每个尾巴都重读。",
+    "contrast": [
+      {
+        "a": "Janě",
+        "b": "Janou",
+        "note_zh": "给雅娜与和雅娜。"
+      }
+    ],
+    "task_zh": "录“给谁什么、与谁谈什么”两句，回听关系是否清楚。"
+  },
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "听力中谁收到书？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "Eva"
+        },
+        {
+          "id": "b",
+          "text": "Jana"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "dá knihu Janě：Janě为接收者。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "listening"
+      ],
+      "error_category": "comprehension",
+      "audio_text_cs": "Eva dá knihu Janě.",
+      "id": "A2-U03-L01-E01",
+      "knowledge_points": [
+        "seven-case-system",
+        "declension-hard-models",
+        "declension-soft-models",
+        "declension-other-models"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "填与女人一起。",
+      "stimulus_cs": "se ___（žena）",
+      "answer": "ženou",
+      "accepted_answers": [
+        "ženou"
+      ],
+      "explanation_zh": "s/se+第七格单数。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "A2-U03-L01-E02",
+      "knowledge_points": [
+        "seven-case-system",
+        "declension-hard-models",
+        "declension-soft-models",
+        "declension-other-models"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "填“去城市”。",
+      "stimulus_cs": "do ___（město）",
+      "answer": "města",
+      "accepted_answers": [
+        "města"
+      ],
+      "explanation_zh": "do+第二格。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "A2-U03-L01-E03",
+      "knowledge_points": [
+        "seven-case-system",
+        "declension-hard-models",
+        "declension-soft-models",
+        "declension-other-models"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "vidím Petra与bez Petra中的Petra是否必然同格？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "是"
+        },
+        {
+          "id": "b",
+          "text": "否"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "前者4格，后者2格。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "A2-U03-L01-E04",
+      "knowledge_points": [
+        "seven-case-system",
+        "declension-hard-models",
+        "declension-soft-models",
+        "declension-other-models"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "填“给女人们”。",
+      "stimulus_cs": "dám to ___（žena，复数）",
+      "answer": "ženám",
+      "accepted_answers": [
+        "ženám"
+      ],
+      "explanation_zh": "第三格复数。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "A2-U03-L01-E05",
+      "knowledge_points": [
+        "seven-case-system",
+        "declension-hard-models",
+        "declension-soft-models",
+        "declension-other-models"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "填“关于城市们”。",
+      "stimulus_cs": "o ___（město，复数）",
+      "answer": "městech",
+      "accepted_answers": [
+        "městech"
+      ],
+      "explanation_zh": "第六格复数。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "A2-U03-L01-E06",
+      "knowledge_points": [
+        "seven-case-system",
+        "declension-hard-models",
+        "declension-soft-models",
+        "declension-other-models"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "填直接称呼Petr。",
+      "stimulus_cs": "___, pojď sem!",
+      "answer": "Petře",
+      "accepted_answers": [
+        "Petře",
+        "petře"
+      ],
+      "explanation_zh": "第五格。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "A2-U03-L01-E07",
+      "knowledge_points": [
+        "seven-case-system",
+        "declension-hard-models",
+        "declension-soft-models",
+        "declension-other-models"
+      ]
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "用一本书讲清谁给谁，随后谁与谁谈书。",
+      "stimulus_cs": "",
+      "answer": "Eva dá knihu Janě. Potom mluví s Janou o knize.",
+      "accepted_answers": [],
+      "explanation_zh": "先画关系，再说句子。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A2-U03-L01-E08",
+      "knowledge_points": [
+        "seven-case-system",
+        "declension-hard-models",
+        "declension-soft-models",
+        "declension-other-models"
+      ]
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "你不确定一个词应选哪格，问老师应先看什么。",
+      "stimulus_cs": "",
+      "answer": "Jaký pád potřebuju po této předložce?",
+      "accepted_answers": [],
+      "explanation_zh": "先查介词支配，不盲猜尾巴。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A2-U03-L01-E09",
+      "knowledge_points": [
+        "seven-case-system",
+        "declension-hard-models",
+        "declension-soft-models",
+        "declension-other-models"
+      ]
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "用žena或město写三个不同格的短语，并中文解释关系。",
+      "stimulus_cs": "",
+      "answer": "do města：去；ve městě：在；s městem：与城市。",
+      "accepted_answers": [],
+      "explanation_zh": "可换真实搭配，避免没有意义的凑形式。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A2-U03-L01-E10",
+      "knowledge_points": [
+        "seven-case-system",
+        "declension-hard-models",
+        "declension-soft-models",
+        "declension-other-models"
+      ]
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "用中文解释为什么背七种词尾还不够。",
+      "stimulus_cs": "",
+      "answer": "需要先知道动词或介词要求什么关系，再按性别、数量和范式查词形。",
+      "accepted_answers": [],
+      "explanation_zh": "功能先于尾巴。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A2-U03-L01-E11",
+      "knowledge_points": [
+        "seven-case-system",
+        "declension-hard-models",
+        "declension-soft-models",
+        "declension-other-models"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "填“没有那位先生”。",
+      "stimulus_cs": "bez ___（pán）",
+      "answer": "pána",
+      "accepted_answers": [
+        "pána"
+      ],
+      "explanation_zh": "bez第二格，pán→pána。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "A2-U03-L01-E12",
+      "knowledge_points": [
+        "declension-masculine-more"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "填“和机器一起/用机器”。",
+      "stimulus_cs": "se ___（stroj）",
+      "answer": "strojem",
+      "accepted_answers": [
+        "strojem"
+      ],
+      "explanation_zh": "s/se第七格。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "A2-U03-L01-E13",
+      "knowledge_points": [
+        "declension-masculine-more"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "直接称呼主席，填呼格。",
+      "stimulus_cs": "___, prosím!（předseda）",
+      "answer": "Předsedo",
+      "accepted_answers": [
+        "Předsedo",
+        "předsedo"
+      ],
+      "explanation_zh": "předseda为阳性，呼格předsedo。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "A2-U03-L01-E14",
+      "knowledge_points": [
+        "declension-masculine-more"
+      ]
+    }
+  ],
+  "transfer_task": {
+    "prompt_zh": "从现实短消息圈出三个介词，查其支配，写出对应完整短语。",
+    "model_answer_cs": "do školy, ve škole, se školou",
+    "rubric": [
+      "任务信息完整",
+      "用目标规律表达",
+      "独立完成并回听/回看"
+    ]
+  },
+  "review_links": [
+    "A2-U02-L01"
+  ],
+  "sources": [
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/",
+      "scope": "本课涉及的声音/词形/语法规则；编排与例句为原创",
+      "verification": "官方来源用于相关规则交叉核查；具体查核范围见content/sources/foundation-verification.md；本课例句为原创，未逐句母语审校。"
+    },
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?slovo=m%C4%9Bsto",
+      "scope": "město单复数七格表已打开核对",
+      "verification": "2026-10-22已核对词形表；例句原创"
+    },
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?slovo=hrad",
+      "scope": "hrad单复数七格表已打开核对",
+      "verification": "2026-10-22已核对词形表；例句原创"
+    }
+  ],
+  "content_status": "authored_crosschecked_not_native_reviewed",
+  "quality_notes": [
+    "课程及题目原创；自动检查结构、唯一ID与答案。",
+    "已对照所列官方发音、数词、条件式、物主词等章节核查相应规则；其余内容做内部语言一致性复核，未逐句外部审校。",
+    "CEFR级别为教学编排，不构成官方达标或考试认证。"
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "A2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--normal.mp3",
+      "slow_file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U03-L01--2026.10.23.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Jana připravuje sousedské setkání a potřebuje pomoc. Na stole má seznam lidí, věcí a úkolů. Každý řádek ukazuje jiný vztah. Petr přinese stoly. Bez Petra by to bylo těžší, protože má velké auto. Jana mu proto ráno zavolá a poděkuje mu. Vidí Petra před domem a říká: Petře, můžeš prosím přinést také dvě židle? Petr souhlasí a jde do sklepa. Později Jana mluví o Petrovi s novou sousedkou. Vysvětluje, že společně připravují místo pro malé děti i dospělé. Na stole bude voda, čaj a několik misek s ovocem. Dětem dá malé sklenice. Pro dospělé připraví větší hrnky. Hosté přijdou do zahrady a budou sedět v zahradě pod stromem. Po setkání půjdou ze zahrady domů. Jana si všímá, že slova mění tvar podle úlohy ve větě. Nejde o sedm různých lidí ani o sedm různých zahrad. Když nezná správný tvar, nejdřív najde předložku nebo sloveso. Potom zkontroluje rod, číslo a vzor ve slovníku.",
+      "duration_seconds": 81.12557823129252,
+      "slow_duration_seconds": 90.71541950113378,
+      "sha256": "4a166a1a74150e4a7347c4877aae13b1895181ef6fb4d5202d6b6c440f834d46",
+      "slow_sha256": "73fc1d5fd4292df7adeb2c7e99694aac31982a7e951612bde54adc9e8ca89b29"
+    },
+    {
+      "lesson_id": "A2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--normal.mp3",
+      "slow_file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U03-L01--2026.10.23.1--text--p0",
+      "asset_id": "A2-U03-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Jana připravuje sousedské setkání a potřebuje pomoc. Na stole má seznam lidí, věcí a úkolů. Každý řádek ukazuje jiný vztah.",
+      "start": 0,
+      "end": 12.387936507936509,
+      "slow_start": 0,
+      "slow_end": 13.897233560090703
+    },
+    {
+      "lesson_id": "A2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--normal.mp3",
+      "slow_file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U03-L01--2026.10.23.1--text--s0",
+      "asset_id": "A2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Jana připravuje sousedské setkání a potřebuje pomoc.",
+      "start": 0,
+      "end": 4.783310657596372,
+      "slow_start": 0,
+      "slow_end": 5.328979591836735
+    },
+    {
+      "lesson_id": "A2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--normal.mp3",
+      "slow_file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U03-L01--2026.10.23.1--text--s1",
+      "asset_id": "A2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Na stole má seznam lidí, věcí a úkolů.",
+      "start": 4.963310657596372,
+      "end": 8.910702947845804,
+      "slow_start": 5.508979591836734,
+      "slow_end": 9.978820861678004
+    },
+    {
+      "lesson_id": "A2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--normal.mp3",
+      "slow_file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U03-L01--2026.10.23.1--text--s2",
+      "asset_id": "A2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Každý řádek ukazuje jiný vztah.",
+      "start": 9.090702947845806,
+      "end": 12.387936507936509,
+      "slow_start": 10.158820861678004,
+      "slow_end": 13.897233560090703
+    },
+    {
+      "lesson_id": "A2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--normal.mp3",
+      "slow_file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U03-L01--2026.10.23.1--text--p1",
+      "asset_id": "A2-U03-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Petr přinese stoly. Bez Petra by to bylo těžší, protože má velké auto. Jana mu proto ráno zavolá a poděkuje mu.",
+      "start": 12.567936507936508,
+      "end": 22.74997732426304,
+      "slow_start": 14.077233560090702,
+      "slow_end": 25.46671201814059
+    },
+    {
+      "lesson_id": "A2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--normal.mp3",
+      "slow_file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U03-L01--2026.10.23.1--text--s3",
+      "asset_id": "A2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 3,
+      "paragraph_index": 1,
+      "sentence_index": 0,
+      "text": "Petr přinese stoly.",
+      "start": 12.567936507936508,
+      "end": 14.413922902494331,
+      "slow_start": 14.077233560090702,
+      "slow_end": 16.108979591836736
+    },
+    {
+      "lesson_id": "A2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--normal.mp3",
+      "slow_file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U03-L01--2026.10.23.1--text--s4",
+      "asset_id": "A2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 4,
+      "paragraph_index": 1,
+      "sentence_index": 1,
+      "text": "Bez Petra by to bylo těžší, protože má velké auto.",
+      "start": 14.59392290249433,
+      "end": 19.028934240362812,
+      "slow_start": 16.288979591836735,
+      "slow_end": 21.23482993197279
+    },
+    {
+      "lesson_id": "A2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--normal.mp3",
+      "slow_file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U03-L01--2026.10.23.1--text--s5",
+      "asset_id": "A2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 5,
+      "paragraph_index": 1,
+      "sentence_index": 2,
+      "text": "Jana mu proto ráno zavolá a poděkuje mu.",
+      "start": 19.20893424036281,
+      "end": 22.74997732426304,
+      "slow_start": 21.41482993197279,
+      "slow_end": 25.46671201814059
+    },
+    {
+      "lesson_id": "A2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--normal.mp3",
+      "slow_file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U03-L01--2026.10.23.1--text--p2",
+      "asset_id": "A2-U03-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Vidí Petra před domem a říká: Petře, můžeš prosím přinést také dvě židle? Petr souhlasí a jde do sklepa.",
+      "start": 22.92997732426304,
+      "end": 32.38634920634921,
+      "slow_start": 25.64671201814059,
+      "slow_end": 36.29891156462585
+    },
+    {
+      "lesson_id": "A2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--normal.mp3",
+      "slow_file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U03-L01--2026.10.23.1--text--s6",
+      "asset_id": "A2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 6,
+      "paragraph_index": 2,
+      "sentence_index": 0,
+      "text": "Vidí Petra před domem a říká: Petře, můžeš prosím přinést také dvě židle?",
+      "start": 22.92997732426304,
+      "end": 29.489614512471654,
+      "slow_start": 25.64671201814059,
+      "slow_end": 32.96099773242631
+    },
+    {
+      "lesson_id": "A2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--normal.mp3",
+      "slow_file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U03-L01--2026.10.23.1--text--s7",
+      "asset_id": "A2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 7,
+      "paragraph_index": 2,
+      "sentence_index": 1,
+      "text": "Petr souhlasí a jde do sklepa.",
+      "start": 29.669614512471654,
+      "end": 32.38634920634921,
+      "slow_start": 33.14099773242631,
+      "slow_end": 36.29891156462585
+    },
+    {
+      "lesson_id": "A2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--normal.mp3",
+      "slow_file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U03-L01--2026.10.23.1--text--p3",
+      "asset_id": "A2-U03-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Později Jana mluví o Petrovi s novou sousedkou. Vysvětluje, že společně připravují místo pro malé děti i dospělé.",
+      "start": 32.56634920634921,
+      "end": 42.788979591836735,
+      "slow_start": 36.478911564625854,
+      "slow_end": 47.804489795918364
+    },
+    {
+      "lesson_id": "A2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--normal.mp3",
+      "slow_file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U03-L01--2026.10.23.1--text--s8",
+      "asset_id": "A2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 8,
+      "paragraph_index": 3,
+      "sentence_index": 0,
+      "text": "Později Jana mluví o Petrovi s novou sousedkou.",
+      "start": 32.56634920634921,
+      "end": 36.88526077097506,
+      "slow_start": 36.478911564625854,
+      "slow_end": 41.37832199546485
+    },
+    {
+      "lesson_id": "A2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--normal.mp3",
+      "slow_file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U03-L01--2026.10.23.1--text--s9",
+      "asset_id": "A2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 9,
+      "paragraph_index": 3,
+      "sentence_index": 1,
+      "text": "Vysvětluje, že společně připravují místo pro malé děti i dospělé.",
+      "start": 37.06526077097506,
+      "end": 42.788979591836735,
+      "slow_start": 41.55832199546485,
+      "slow_end": 47.804489795918364
+    },
+    {
+      "lesson_id": "A2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--normal.mp3",
+      "slow_file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U03-L01--2026.10.23.1--text--p4",
+      "asset_id": "A2-U03-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 4,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Na stole bude voda, čaj a několik misek s ovocem. Dětem dá malé sklenice. Pro dospělé připraví větší hrnky.",
+      "start": 42.968979591836735,
+      "end": 52.53569160997733,
+      "slow_start": 47.984489795918364,
+      "slow_end": 58.642539682539685
+    },
+    {
+      "lesson_id": "A2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--normal.mp3",
+      "slow_file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U03-L01--2026.10.23.1--text--s10",
+      "asset_id": "A2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 10,
+      "paragraph_index": 4,
+      "sentence_index": 0,
+      "text": "Na stole bude voda, čaj a několik misek s ovocem.",
+      "start": 42.968979591836735,
+      "end": 47.171791383219954,
+      "slow_start": 47.984489795918364,
+      "slow_end": 52.73297052154195
+    },
+    {
+      "lesson_id": "A2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--normal.mp3",
+      "slow_file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U03-L01--2026.10.23.1--text--s11",
+      "asset_id": "A2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 11,
+      "paragraph_index": 4,
+      "sentence_index": 1,
+      "text": "Dětem dá malé sklenice.",
+      "start": 47.351791383219954,
+      "end": 49.546077097505666,
+      "slow_start": 52.91297052154195,
+      "slow_end": 55.3162358276644
+    },
+    {
+      "lesson_id": "A2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--normal.mp3",
+      "slow_file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U03-L01--2026.10.23.1--text--s12",
+      "asset_id": "A2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 12,
+      "paragraph_index": 4,
+      "sentence_index": 2,
+      "text": "Pro dospělé připraví větší hrnky.",
+      "start": 49.726077097505666,
+      "end": 52.53569160997733,
+      "slow_start": 55.4962358276644,
+      "slow_end": 58.642539682539685
+    },
+    {
+      "lesson_id": "A2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--normal.mp3",
+      "slow_file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U03-L01--2026.10.23.1--text--p5",
+      "asset_id": "A2-U03-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 5,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Hosté přijdou do zahrady a budou sedět v zahradě pod stromem. Po setkání půjdou ze zahrady domů.",
+      "start": 52.71569160997733,
+      "end": 60.77886621315193,
+      "slow_start": 58.822539682539684,
+      "slow_end": 67.79129251700681
+    },
+    {
+      "lesson_id": "A2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--normal.mp3",
+      "slow_file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U03-L01--2026.10.23.1--text--s13",
+      "asset_id": "A2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 13,
+      "paragraph_index": 5,
+      "sentence_index": 0,
+      "text": "Hosté přijdou do zahrady a budou sedět v zahradě pod stromem.",
+      "start": 52.71569160997733,
+      "end": 57.76603174603174,
+      "slow_start": 58.822539682539684,
+      "slow_end": 64.33727891156462
+    },
+    {
+      "lesson_id": "A2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--normal.mp3",
+      "slow_file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U03-L01--2026.10.23.1--text--s14",
+      "asset_id": "A2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 14,
+      "paragraph_index": 5,
+      "sentence_index": 1,
+      "text": "Po setkání půjdou ze zahrady domů.",
+      "start": 57.94603174603174,
+      "end": 60.77886621315193,
+      "slow_start": 64.51727891156463,
+      "slow_end": 67.79129251700681
+    },
+    {
+      "lesson_id": "A2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--normal.mp3",
+      "slow_file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U03-L01--2026.10.23.1--text--p6",
+      "asset_id": "A2-U03-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 6,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Jana si všímá, že slova mění tvar podle úlohy ve větě. Nejde o sedm různých lidí ani o sedm různých zahrad.",
+      "start": 60.95886621315193,
+      "end": 70.76353741496598,
+      "slow_start": 67.9712925170068,
+      "slow_end": 79.07628117913832
+    },
+    {
+      "lesson_id": "A2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--normal.mp3",
+      "slow_file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U03-L01--2026.10.23.1--text--s15",
+      "asset_id": "A2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 15,
+      "paragraph_index": 6,
+      "sentence_index": 0,
+      "text": "Jana si všímá, že slova mění tvar podle úlohy ve větě.",
+      "start": 60.95886621315193,
+      "end": 65.82344671201814,
+      "slow_start": 67.9712925170068,
+      "slow_end": 73.50925170068027
+    },
+    {
+      "lesson_id": "A2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--normal.mp3",
+      "slow_file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U03-L01--2026.10.23.1--text--s16",
+      "asset_id": "A2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 16,
+      "paragraph_index": 6,
+      "sentence_index": 1,
+      "text": "Nejde o sedm různých lidí ani o sedm různých zahrad.",
+      "start": 66.00344671201815,
+      "end": 70.76353741496598,
+      "slow_start": 73.68925170068027,
+      "slow_end": 79.07628117913832
+    },
+    {
+      "lesson_id": "A2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--normal.mp3",
+      "slow_file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U03-L01--2026.10.23.1--text--p7",
+      "asset_id": "A2-U03-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 7,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Když nezná správný tvar, nejdřív najde předložku nebo sloveso. Potom zkontroluje rod, číslo a vzor ve slovníku.",
+      "start": 70.94353741496599,
+      "end": 80.94557823129252,
+      "slow_start": 79.25628117913833,
+      "slow_end": 90.53541950113379
+    },
+    {
+      "lesson_id": "A2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--normal.mp3",
+      "slow_file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U03-L01--2026.10.23.1--text--s17",
+      "asset_id": "A2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 17,
+      "paragraph_index": 7,
+      "sentence_index": 0,
+      "text": "Když nezná správný tvar, nejdřív najde předložku nebo sloveso.",
+      "start": 70.94353741496599,
+      "end": 76.4698866213152,
+      "slow_start": 79.25628117913833,
+      "slow_end": 85.36312925170068
+    },
+    {
+      "lesson_id": "A2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--normal.mp3",
+      "slow_file": "audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U03-L01--2026.10.23.1--text--s18",
+      "asset_id": "A2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 18,
+      "paragraph_index": 7,
+      "sentence_index": 1,
+      "text": "Potom zkontroluje rod, číslo a vzor ve slovníku.",
+      "start": 76.64988662131519,
+      "end": 80.94557823129252,
+      "slow_start": 85.54312925170068,
+      "slow_end": 90.53541950113379
+    },
+    {
+      "lesson_id": "A2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U03-L01--2026.10.22.1--listening--fc11611d87--normal.mp3",
+      "slow_file": "audio/files/A2-U03-L01--2026.10.22.1--listening--fc11611d87--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U03-L01--2026.10.23.1--listening",
+      "role": "listening-full",
+      "index": 0,
+      "text": "Eva dá knihu Janě. Potom mluví s Janou o knize. Bez té knihy nemůže dokončit úkol.",
+      "duration_seconds": 8.167755102040816,
+      "slow_duration_seconds": 9.154603174603174,
+      "sha256": "c77f3deea9277c7f39b5df03881709d5d8c71f1a8bd1707cc2ba0f96f59ae0ad",
+      "slow_sha256": "12fa77932416e97efcea14c1d7bf798ae2297e6de65dae924e2a1ae5fdad0e81"
+    },
+    {
+      "lesson_id": "A2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U03-L01--2026.10.22.1--listening--fc11611d87--normal.mp3",
+      "slow_file": "audio/files/A2-U03-L01--2026.10.22.1--listening--fc11611d87--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U03-L01--2026.10.23.1--listening--p0",
+      "asset_id": "A2-U03-L01--2026.10.23.1--listening",
+      "role": "listening",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Eva dá knihu Janě. Potom mluví s Janou o knize. Bez té knihy nemůže dokončit úkol.",
+      "start": 0,
+      "end": 7.987755102040817,
+      "slow_start": 0,
+      "slow_end": 8.974603174603175
+    },
+    {
+      "lesson_id": "A2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U03-L01--2026.10.23.1--vocabulary--3e243b0dfe--normal.mp3",
+      "slow_file": "audio/files/A2-U03-L01--2026.10.23.1--vocabulary--3e243b0dfe--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U03-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary-full",
+      "index": 0,
+      "text": "Čeština má sedm pádů. Hledám správný vzor. Pád ukazuje vztah. Napíšu jednu větu. Sedíme v zahradě. Děkuju Petrovi.",
+      "duration_seconds": 11.93532879818594,
+      "slow_duration_seconds": 13.363356009070294,
+      "sha256": "ac2e20ecea904db564f66dbe873ff0ad42563a9f7ee90f81c53ad8d76f7ae6ab",
+      "slow_sha256": "19785ab86f994cf95eee46ab1302c61d46c4701ca30a5e94a9f2cfbcdc2eae89"
+    },
+    {
+      "lesson_id": "A2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U03-L01--2026.10.23.1--vocabulary--3e243b0dfe--normal.mp3",
+      "slow_file": "audio/files/A2-U03-L01--2026.10.23.1--vocabulary--3e243b0dfe--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U03-L01--2026.10.23.1--vocabulary--p0",
+      "asset_id": "A2-U03-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Čeština má sedm pádů.",
+      "start": 0,
+      "end": 2.2291156462585033,
+      "slow_start": 0,
+      "slow_end": 2.5309750566893423
+    },
+    {
+      "lesson_id": "A2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U03-L01--2026.10.23.1--vocabulary--3e243b0dfe--normal.mp3",
+      "slow_file": "audio/files/A2-U03-L01--2026.10.23.1--vocabulary--3e243b0dfe--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U03-L01--2026.10.23.1--vocabulary--p1",
+      "asset_id": "A2-U03-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Hledám správný vzor.",
+      "start": 2.4091156462585035,
+      "end": 4.406031746031746,
+      "slow_start": 2.7109750566893425,
+      "slow_end": 4.940090702947846
+    },
+    {
+      "lesson_id": "A2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U03-L01--2026.10.23.1--vocabulary--3e243b0dfe--normal.mp3",
+      "slow_file": "audio/files/A2-U03-L01--2026.10.23.1--vocabulary--3e243b0dfe--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U03-L01--2026.10.23.1--vocabulary--p2",
+      "asset_id": "A2-U03-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Pád ukazuje vztah.",
+      "start": 4.586031746031746,
+      "end": 6.385578231292517,
+      "slow_start": 5.120090702947846,
+      "slow_end": 7.2214965986394555
+    },
+    {
+      "lesson_id": "A2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U03-L01--2026.10.23.1--vocabulary--3e243b0dfe--normal.mp3",
+      "slow_file": "audio/files/A2-U03-L01--2026.10.23.1--vocabulary--3e243b0dfe--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U03-L01--2026.10.23.1--vocabulary--p3",
+      "asset_id": "A2-U03-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Napíšu jednu větu.",
+      "start": 6.565578231292517,
+      "end": 8.307074829931972,
+      "slow_start": 7.401496598639456,
+      "slow_end": 9.398412698412699
+    },
+    {
+      "lesson_id": "A2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U03-L01--2026.10.23.1--vocabulary--3e243b0dfe--normal.mp3",
+      "slow_file": "audio/files/A2-U03-L01--2026.10.23.1--vocabulary--3e243b0dfe--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U03-L01--2026.10.23.1--vocabulary--p4",
+      "asset_id": "A2-U03-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 4,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Sedíme v zahradě.",
+      "start": 8.487074829931974,
+      "end": 10.112471655328799,
+      "slow_start": 9.578412698412698,
+      "slow_end": 11.401179138321995
+    },
+    {
+      "lesson_id": "A2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U03-L01--2026.10.23.1--vocabulary--3e243b0dfe--normal.mp3",
+      "slow_file": "audio/files/A2-U03-L01--2026.10.23.1--vocabulary--3e243b0dfe--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U03-L01--2026.10.23.1--vocabulary--p5",
+      "asset_id": "A2-U03-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 5,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Děkuju Petrovi.",
+      "start": 10.292471655328798,
+      "end": 11.755328798185941,
+      "slow_start": 11.581179138321996,
+      "slow_end": 13.183356009070295
+    },
+    {
+      "lesson_id": "A2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U03-L01--2026.10.22.1--exercises--a85f2428b9--normal.mp3",
+      "slow_file": "audio/files/A2-U03-L01--2026.10.22.1--exercises--a85f2428b9--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U03-L01--2026.10.23.1--exercises",
+      "role": "exercises-full",
+      "index": 0,
+      "text": "Eva dá knihu Janě.",
+      "duration_seconds": 1.8634467120181406,
+      "slow_duration_seconds": 2.258185941043084,
+      "sha256": "e3a93f83425149cd411603b900a09f080ff57ce3bb5a6aad8a0d76e68b44e3a2",
+      "slow_sha256": "16a21120dfff8ff89df24aa51ada13db56a07186f2163ec8e72aa9488842b863"
+    },
+    {
+      "lesson_id": "A2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U03-L01--2026.10.22.1--exercises--a85f2428b9--normal.mp3",
+      "slow_file": "audio/files/A2-U03-L01--2026.10.22.1--exercises--a85f2428b9--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U03-L01--2026.10.23.1--exercises--p0",
+      "asset_id": "A2-U03-L01--2026.10.23.1--exercises",
+      "role": "exercise",
+      "index": 0,
+      "exercise_id": "A2-U03-L01-E01",
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Eva dá knihu Janě.",
+      "start": 0,
+      "end": 1.6834467120181407,
+      "slow_start": 0,
+      "slow_end": 2.078185941043084
+    },
+    {
+      "lesson_id": "A2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U03-L01--2026.10.22.1--contrasts--a0e667d26e--normal.mp3",
+      "slow_file": "audio/files/A2-U03-L01--2026.10.22.1--contrasts--a0e667d26e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U03-L01--2026.10.23.1--contrasts",
+      "role": "contrasts-full",
+      "index": 0,
+      "text": "Janě. Janou.",
+      "duration_seconds": 1.822857142857143,
+      "slow_duration_seconds": 2.0202267573696147,
+      "sha256": "80a26790c29860ae108373785b869f6c84a0486a1ae5840221252e4c2500549a",
+      "slow_sha256": "d3ba34caf6d199be0ac0086cb42fc0e3080d2dd90313fc13f5e87a6748c6738c"
+    },
+    {
+      "lesson_id": "A2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U03-L01--2026.10.22.1--contrasts--a0e667d26e--normal.mp3",
+      "slow_file": "audio/files/A2-U03-L01--2026.10.22.1--contrasts--a0e667d26e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U03-L01--2026.10.23.1--contrasts--p0",
+      "asset_id": "A2-U03-L01--2026.10.23.1--contrasts",
+      "role": "contrast",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Janě. Janou.",
+      "start": 0,
+      "end": 1.6428571428571428,
+      "slow_start": 0,
+      "slow_end": 1.8402267573696145
+    }
+  ]
+}

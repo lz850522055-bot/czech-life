@@ -1,0 +1,306 @@
+{
+  "id": "B1-U01-L01--2026.10.22.1--text",
+  "lesson_id": "B1-U01-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "V pondělí jsem měl vyzvednout opravený počítač a potom odnést několik dokumentů do kanceláře. Oprava měla být hotová už v pátek, ale technik mi napsal, že ještě čeká na náhradní součástku. Nejdřív jsem si proto ověřil, zda má smysl do servisu jezdit. Po telefonu mi potvrdil, že počítač už funguje a že si ho mohu vyzvednout dopoledne.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "V pondělí jsem měl vyzvednout opravený počítač a potom odnést několik dokumentů do kanceláře.",
+        "Oprava měla být hotová už v pátek, ale technik mi napsal, že ještě čeká na náhradní součástku.",
+        "Nejdřív jsem si proto ověřil, zda má smysl do servisu jezdit.",
+        "Po telefonu mi potvrdil, že počítač už funguje a že si ho mohu vyzvednout dopoledne."
+      ]
+    },
+    {
+      "text": "Když jsem dorazil na zastávku, všiml jsem si oznámení o výluce. Autobus odjížděl z jiné ulice. Zatímco jsem hledal náhradní zastávku, začalo pršet. Naštěstí mi jedna paní ukázala správný směr. Cestou jsem zavolal kolegyni, aby na mě zbytečně nečekala. Řekl jsem jí, že přijdu později, ale dokumenty určitě přinesu ještě před obědem.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Když jsem dorazil na zastávku, všiml jsem si oznámení o výluce.",
+        "Autobus odjížděl z jiné ulice.",
+        "Zatímco jsem hledal náhradní zastávku, začalo pršet.",
+        "Naštěstí mi jedna paní ukázala správný směr.",
+        "Cestou jsem zavolal kolegyni, aby na mě zbytečně nečekala.",
+        "Řekl jsem jí, že přijdu později, ale dokumenty určitě přinesu ještě před obědem."
+      ]
+    },
+    {
+      "text": "V servisu jsem nejprve počítač zapnul a zkontroloval několik souborů. Technik mi vysvětlil, co vyměnil, a doporučil pravidelné zálohování. Teprve potom jsem zaplatil a převzal doklad. Měl jsem radost, že se žádná data neztratila. Před odchodem jsem se ještě zeptal, komu mám zavolat, pokud se stejná chyba objeví znovu.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "V servisu jsem nejprve počítač zapnul a zkontroloval několik souborů.",
+        "Technik mi vysvětlil, co vyměnil, a doporučil pravidelné zálohování.",
+        "Teprve potom jsem zaplatil a převzal doklad.",
+        "Měl jsem radost, že se žádná data neztratila.",
+        "Před odchodem jsem se ještě zeptal, komu mám zavolat, pokud se stejná chyba objeví znovu."
+      ]
+    },
+    {
+      "text": "Do kanceláře jsem nakonec dorazil v půl dvanácté. Kolegyně už měla připravenou smlouvu, takže jsme všechno stihli. Večer jsem celý den popsal kamarádovi. Neříkal jsem pouze, že to bylo hrozné. Vysvětlil jsem, co se změnilo a jak jsem problém vyřešil. Příště si před cestou ověřím nejen otevírací dobu servisu, ale také případné změny dopravy. Kolegyně ocenila, že jsem jí změnu oznámil předem, protože si díky tomu mohla jinak uspořádat dopoledne.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Do kanceláře jsem nakonec dorazil v půl dvanácté.",
+        "Kolegyně už měla připravenou smlouvu, takže jsme všechno stihli.",
+        "Večer jsem celý den popsal kamarádovi.",
+        "Neříkal jsem pouze, že to bylo hrozné.",
+        "Vysvětlil jsem, co se změnilo a jak jsem problém vyřešil.",
+        "Příště si před cestou ověřím nejen otevírací dobu servisu, ale také případné změny dopravy.",
+        "Kolegyně ocenila, že jsem jí změnu oznámil předem, protože si díky tomu mohla jinak uspořádat dopoledne."
+      ]
+    }
+  ],
+  "text_sha256": "22009c0d1894e5f9a8918b0eac7c76696f095ab5bf61745c954261ec1952f37d",
+  "source_file": "content/lessons/B1/B1-U01-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--normal.mp3",
+  "slow_file": "content/audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--slow.mp3",
+  "duration_seconds": 130.7641723356009,
+  "slow_duration_seconds": 147.50575963718822,
+  "cues": [
+    {
+      "text": "V pondělí jsem měl vyzvednout opravený počítač a potom odnést několik dokumentů do kanceláře. Oprava měla být hotová už v pátek, ale technik mi napsal, že ještě čeká na náhradní součástku. Nejdřív jsem si proto ověřil, zda má smysl do servisu jezdit. Po telefonu mi potvrdil, že počítač už funguje a že si ho mohu vyzvednout dopoledne.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "V pondělí jsem měl vyzvednout opravený počítač a potom odnést několik dokumentů do kanceláře.",
+        "Oprava měla být hotová už v pátek, ale technik mi napsal, že ještě čeká na náhradní součástku.",
+        "Nejdřív jsem si proto ověřil, zda má smysl do servisu jezdit.",
+        "Po telefonu mi potvrdil, že počítač už funguje a že si ho mohu vyzvednout dopoledne."
+      ],
+      "start": 0.0,
+      "end": 29.58816326530612,
+      "sentences": [
+        {
+          "text": "V pondělí jsem měl vyzvednout opravený počítač a potom odnést několik dokumentů do kanceláře.",
+          "start": 0.0,
+          "end": 8.277913832199546,
+          "slow_start": 0.0,
+          "slow_end": 9.299591836734693
+        },
+        {
+          "text": "Oprava měla být hotová už v pátek, ale technik mi napsal, že ještě čeká na náhradní součástku.",
+          "start": 8.457913832199546,
+          "end": 16.550068027210884,
+          "slow_start": 9.479591836734693,
+          "slow_end": 18.62825396825397
+        },
+        {
+          "text": "Nejdřív jsem si proto ověřil, zda má smysl do servisu jezdit.",
+          "start": 16.730068027210883,
+          "end": 22.360907029478458,
+          "slow_start": 18.80825396825397,
+          "slow_end": 25.216961451247165
+        },
+        {
+          "text": "Po telefonu mi potvrdil, že počítač už funguje a že si ho mohu vyzvednout dopoledne.",
+          "start": 22.540907029478458,
+          "end": 29.58816326530612,
+          "slow_start": 25.396961451247165,
+          "slow_end": 33.3962358276644
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 33.3962358276644
+    },
+    {
+      "text": "Když jsem dorazil na zastávku, všiml jsem si oznámení o výluce. Autobus odjížděl z jiné ulice. Zatímco jsem hledal náhradní zastávku, začalo pršet. Naštěstí mi jedna paní ukázala správný směr. Cestou jsem zavolal kolegyni, aby na mě zbytečně nečekala. Řekl jsem jí, že přijdu později, ale dokumenty určitě přinesu ještě před obědem.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Když jsem dorazil na zastávku, všiml jsem si oznámení o výluce.",
+        "Autobus odjížděl z jiné ulice.",
+        "Zatímco jsem hledal náhradní zastávku, začalo pršet.",
+        "Naštěstí mi jedna paní ukázala správný směr.",
+        "Cestou jsem zavolal kolegyni, aby na mě zbytečně nečekala.",
+        "Řekl jsem jí, že přijdu později, ale dokumenty určitě přinesu ještě před obědem."
+      ],
+      "start": 29.76816326530612,
+      "end": 61.35333333333333,
+      "sentences": [
+        {
+          "text": "Když jsem dorazil na zastávku, všiml jsem si oznámení o výluce.",
+          "start": 29.76816326530612,
+          "end": 36.26975056689342,
+          "slow_start": 33.5762358276644,
+          "slow_end": 40.82086167800453
+        },
+        {
+          "text": "Autobus odjížděl z jiné ulice.",
+          "start": 36.44975056689342,
+          "end": 39.44512471655329,
+          "slow_start": 41.00086167800453,
+          "slow_end": 44.36775510204082
+        },
+        {
+          "text": "Zatímco jsem hledal náhradní zastávku, začalo pršet.",
+          "start": 39.62512471655329,
+          "end": 44.88444444444445,
+          "slow_start": 44.54775510204082,
+          "slow_end": 50.39918367346939
+        },
+        {
+          "text": "Naštěstí mi jedna paní ukázala správný směr.",
+          "start": 45.06444444444445,
+          "end": 49.17437641723356,
+          "slow_start": 50.57918367346939,
+          "slow_end": 55.36249433106576
+        },
+        {
+          "text": "Cestou jsem zavolal kolegyni, aby na mě zbytečně nečekala.",
+          "start": 49.35437641723356,
+          "end": 54.2421768707483,
+          "slow_start": 55.54249433106576,
+          "slow_end": 61.15011337868481
+        },
+        {
+          "text": "Řekl jsem jí, že přijdu později, ale dokumenty určitě přinesu ještě před obědem.",
+          "start": 54.4221768707483,
+          "end": 61.35333333333333,
+          "slow_start": 61.33011337868481,
+          "slow_end": 69.21328798185941
+        }
+      ],
+      "slow_start": 33.5762358276644,
+      "slow_end": 69.21328798185941
+    },
+    {
+      "text": "V servisu jsem nejprve počítač zapnul a zkontroloval několik souborů. Technik mi vysvětlil, co vyměnil, a doporučil pravidelné zálohování. Teprve potom jsem zaplatil a převzal doklad. Měl jsem radost, že se žádná data neztratila. Před odchodem jsem se ještě zeptal, komu mám zavolat, pokud se stejná chyba objeví znovu.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "V servisu jsem nejprve počítač zapnul a zkontroloval několik souborů.",
+        "Technik mi vysvětlil, co vyměnil, a doporučil pravidelné zálohování.",
+        "Teprve potom jsem zaplatil a převzal doklad.",
+        "Měl jsem radost, že se žádná data neztratila.",
+        "Před odchodem jsem se ještě zeptal, komu mám zavolat, pokud se stejná chyba objeví znovu."
+      ],
+      "start": 61.53333333333333,
+      "end": 88.94467120181406,
+      "sentences": [
+        {
+          "text": "V servisu jsem nejprve počítač zapnul a zkontroloval několik souborů.",
+          "start": 61.53333333333333,
+          "end": 67.40798185941043,
+          "slow_start": 69.39328798185942,
+          "slow_end": 75.99936507936508
+        },
+        {
+          "text": "Technik mi vysvětlil, co vyměnil, a doporučil pravidelné zálohování.",
+          "start": 67.58798185941043,
+          "end": 73.21882086167801,
+          "slow_start": 76.17936507936508,
+          "slow_end": 82.80866213151927
+        },
+        {
+          "text": "Teprve potom jsem zaplatil a převzal doklad.",
+          "start": 73.398820861678,
+          "end": 77.3578231292517,
+          "slow_start": 82.98866213151928,
+          "slow_end": 87.40045351473923
+        },
+        {
+          "text": "Měl jsem radost, že se žádná data neztratila.",
+          "start": 77.5378231292517,
+          "end": 81.79868480725624,
+          "slow_start": 87.58045351473923,
+          "slow_end": 92.34054421768707
+        },
+        {
+          "text": "Před odchodem jsem se ještě zeptal, komu mám zavolat, pokud se stejná chyba objeví znovu.",
+          "start": 81.97868480725623,
+          "end": 88.94467120181406,
+          "slow_start": 92.52054421768707,
+          "slow_end": 100.35727891156462
+        }
+      ],
+      "slow_start": 69.39328798185942,
+      "slow_end": 100.35727891156462
+    },
+    {
+      "text": "Do kanceláře jsem nakonec dorazil v půl dvanácté. Kolegyně už měla připravenou smlouvu, takže jsme všechno stihli. Večer jsem celý den popsal kamarádovi. Neříkal jsem pouze, že to bylo hrozné. Vysvětlil jsem, co se změnilo a jak jsem problém vyřešil. Příště si před cestou ověřím nejen otevírací dobu servisu, ale také případné změny dopravy. Kolegyně ocenila, že jsem jí změnu oznámil předem, protože si díky tomu mohla jinak uspořádat dopoledne.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Do kanceláře jsem nakonec dorazil v půl dvanácté.",
+        "Kolegyně už měla připravenou smlouvu, takže jsme všechno stihli.",
+        "Večer jsem celý den popsal kamarádovi.",
+        "Neříkal jsem pouze, že to bylo hrozné.",
+        "Vysvětlil jsem, co se změnilo a jak jsem problém vyřešil.",
+        "Příště si před cestou ověřím nejen otevírací dobu servisu, ale také případné změny dopravy.",
+        "Kolegyně ocenila, že jsem jí změnu oznámil předem, protože si díky tomu mohla jinak uspořádat dopoledne."
+      ],
+      "start": 89.12467120181405,
+      "end": 130.5841723356009,
+      "sentences": [
+        {
+          "text": "Do kanceláře jsem nakonec dorazil v půl dvanácté.",
+          "start": 89.12467120181405,
+          "end": 93.61773242630386,
+          "slow_start": 100.53727891156463,
+          "slow_end": 105.6340589569161
+        },
+        {
+          "text": "Kolegyně už měla připravenou smlouvu, takže jsme všechno stihli.",
+          "start": 93.79773242630385,
+          "end": 99.39374149659864,
+          "slow_start": 105.8140589569161,
+          "slow_end": 112.06022675736962
+        },
+        {
+          "text": "Večer jsem celý den popsal kamarádovi.",
+          "start": 99.57374149659864,
+          "end": 103.17283446712018,
+          "slow_start": 112.24022675736961,
+          "slow_end": 116.44303854875284
+        },
+        {
+          "text": "Neříkal jsem pouze, že to bylo hrozné.",
+          "start": 103.35283446712018,
+          "end": 106.91709750566893,
+          "slow_start": 116.62303854875283,
+          "slow_end": 120.558820861678
+        },
+        {
+          "text": "Vysvětlil jsem, co se změnilo a jak jsem problém vyřešil.",
+          "start": 107.09709750566894,
+          "end": 112.40285714285714,
+          "slow_start": 120.73882086167801,
+          "slow_end": 126.84566893424036
+        },
+        {
+          "text": "Příště si před cestou ověřím nejen otevírací dobu servisu, ale také případné změny dopravy.",
+          "start": 112.58285714285714,
+          "end": 121.06975056689342,
+          "slow_start": 127.02566893424036,
+          "slow_end": 136.45297052154194
+        },
+        {
+          "text": "Kolegyně ocenila, že jsem jí změnu oznámil předem, protože si díky tomu mohla jinak uspořádat dopoledne.",
+          "start": 121.24975056689343,
+          "end": 130.5841723356009,
+          "slow_start": 136.63297052154195,
+          "slow_end": 147.3257596371882
+        }
+      ],
+      "slow_start": 100.53727891156463,
+      "slow_end": 147.3257596371882
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "cca8055303fc1fb69bff810b33ccc81a715df8fbfb2c8aaecf7079d669e15a84",
+    "slow": "4b3ef0ca0402a4b928c5dc43e1dfa063bcc738db678b326d8555042b962bbc7c"
+  }
+}

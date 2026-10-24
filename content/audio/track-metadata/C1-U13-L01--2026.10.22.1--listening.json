@@ -1,0 +1,75 @@
+{
+  "id": "C1-U13-L01--2026.10.22.1--listening",
+  "lesson_id": "C1-U13-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Nejdříve jsem napsala, že změna vyřešila problém. Pak jsem zjistila, že máme jen méně zaznamenaných stížností. Nová verze proto popisuje tento pokles a příčinu ponechává otevřenou.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Nejdříve jsem napsala, že změna vyřešila problém.",
+        "Pak jsem zjistila, že máme jen méně zaznamenaných stížností.",
+        "Nová verze proto popisuje tento pokles a příčinu ponechává otevřenou."
+      ]
+    }
+  ],
+  "text_sha256": "823b33f8be42998849191e2c10eefa113d12a1c4b1a311ec0e7354854ba315b7",
+  "source_file": "content/lessons/C1/C1-U13-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U13-L01--2026.10.22.1--listening--823b33f8be--normal.mp3",
+  "slow_file": "content/audio/files/C1-U13-L01--2026.10.22.1--listening--823b33f8be--slow.mp3",
+  "duration_seconds": 16.4340589569161,
+  "slow_duration_seconds": 18.941814058956915,
+  "cues": [
+    {
+      "text": "Nejdříve jsem napsala, že změna vyřešila problém. Pak jsem zjistila, že máme jen méně zaznamenaných stížností. Nová verze proto popisuje tento pokles a příčinu ponechává otevřenou.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Nejdříve jsem napsala, že změna vyřešila problém.",
+        "Pak jsem zjistila, že máme jen méně zaznamenaných stížností.",
+        "Nová verze proto popisuje tento pokles a příčinu ponechává otevřenou."
+      ],
+      "start": 0.0,
+      "end": 16.2540589569161,
+      "sentences": [
+        {
+          "text": "Nejdříve jsem napsala, že změna vyřešila problém.",
+          "start": 0.0,
+          "end": 4.5859410430839,
+          "slow_start": 0.0,
+          "slow_end": 5.201269841269841
+        },
+        {
+          "text": "Pak jsem zjistila, že máme jen méně zaznamenaných stížností.",
+          "start": 4.765941043083901,
+          "end": 10.071700680272109,
+          "slow_start": 5.381269841269841,
+          "slow_end": 11.673877551020409
+        },
+        {
+          "text": "Nová verze proto popisuje tento pokles a příčinu ponechává otevřenou.",
+          "start": 10.251700680272108,
+          "end": 16.2540589569161,
+          "slow_start": 11.853877551020409,
+          "slow_end": 18.761814058956915
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 18.761814058956915
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "a446d354f244f2b856e6fc3a2102aa6d9a7e8f942644696a00c927aab6e14b53",
+    "slow": "c36f3404180c49c0a555ba38435c53c8f52ace54e834baa69af496f4f393d049"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "Pre-A1-U04-CHECK--2026.10.22.1--exercises",
+  "lesson_id": "Pre-A1-U04-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "Pre-A1",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Dítě má pět let.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "Pre-A1-U04-CHECK-E01",
+      "parts": [
+        "Dítě má pět let."
+      ]
+    }
+  ],
+  "text_sha256": "e4c3d3693cb1da8907f96d850f8f3ac7d82d2a5eca54ee06f026a57e29da18da",
+  "source_file": "content/assessments/Pre-A1-U04.json",
+  "status": "generated",
+  "file": "content/audio/files/Pre-A1-U04-CHECK--2026.10.22.1--exercises--e4c3d3693c--normal.mp3",
+  "slow_file": "content/audio/files/Pre-A1-U04-CHECK--2026.10.22.1--exercises--e4c3d3693c--slow.mp3",
+  "duration_seconds": 1.8634467120181406,
+  "slow_duration_seconds": 2.1653061224489796,
+  "cues": [
+    {
+      "text": "Dítě má pět let.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "Pre-A1-U04-CHECK-E01",
+      "parts": [
+        "Dítě má pět let."
+      ],
+      "start": 0.0,
+      "end": 1.6834467120181407,
+      "sentences": [
+        {
+          "text": "Dítě má pět let.",
+          "start": 0.0,
+          "end": 1.6834467120181407,
+          "slow_start": 0.0,
+          "slow_end": 1.9853061224489796
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.9853061224489796
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "2fdc563a7b0cd137f071400846ffa74eb5b15bead59028462fa6c90d965f3bbf",
+    "slow": "aee6b3ed23fc765199e8dd4ef4f1e17545e389015d8ef95b29d1f76351867a12"
+  }
+}

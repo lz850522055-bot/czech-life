@@ -1,0 +1,29 @@
+{
+  "version":"2026.10.24.1",
+  "source_layer":"IPR Praha URK_CUR_URK_VYZNSTAVBYMISTA_B",
+  "translation_note":"中文名称为本项目释名；地理名称、地址与坐标读取官方要素，不使用示意图坐标。声音街、经营和建设剧情为虚构教学实例。",
+  "places":[
+    {"objectid":4211,"zh":"小城区广场","kind":"square","scene":"声音街","quests":["F01","F02","F03","F04","F05","F06","F07","F08","F09","F10","F11","F12"]},
+    {"objectid":4117,"zh":"查理大桥","kind":"bridge","scene":"桥上问路"},
+    {"objectid":4155,"zh":"老城广场","kind":"square","scene":"广场的留言"},
+    {"objectid":4154,"zh":"老城市政厅","kind":"civic","scene":"公告与约定"},
+    {"objectid":4180,"zh":"瓦茨拉夫广场","kind":"square","scene":"约在哪一个入口"},
+    {"objectid":3828,"zh":"中央火车站新候车大厅","kind":"station","scene":"车站"},
+    {"objectid":4031,"zh":"布拉格中央火车站","kind":"station","scene":"找对站名"},
+    {"objectid":3917,"zh":"斯米霍夫市场","kind":"shop","scene":"商店"},
+    {"objectid":3683,"zh":"布拉格斯米霍夫火车站","kind":"station","scene":"换乘委托"},
+    {"objectid":4220,"zh":"布拉格城堡王宫","kind":"landmark","scene":"城堡区的线索"},
+    {"objectid":4022,"zh":"布拉格城堡皇家花园","kind":"park","scene":"花园见面"},
+    {"objectid":4018,"zh":"佩特任瞭望塔","kind":"landmark","scene":"山上的方向"},
+    {"objectid":4145,"zh":"国家剧院","kind":"culture","scene":"一张戏票"},
+    {"objectid":4029,"zh":"国家博物馆","kind":"culture","scene":"故事的不同版本"},
+    {"objectid":4027,"zh":"维诺赫拉迪剧院","kind":"culture","scene":"社区"},
+    {"objectid":3979,"zh":"卡林市政厅","kind":"civic","scene":"社区提案"},
+    {"objectid":4115,"zh":"霍莱绍维采展览场","kind":"culture","scene":"合作与展示"},
+    {"objectid":4221,"zh":"莱特纳平原","kind":"park","scene":"公共空间"},
+    {"objectid":4292,"zh":"高堡公墓","kind":"culture","scene":"理解一段历史"},
+    {"objectid":4232,"zh":"中央邮局建筑","kind":"civic","scene":"寄件委托"},
+    {"objectid":4064,"zh":"查理广场","kind":"square","scene":"生活街"},
+    {"objectid":3966,"zh":"布拉格动物园","kind":"park","scene":"一天的安排"}
+  ]
+}

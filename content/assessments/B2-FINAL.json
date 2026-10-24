@@ -1,0 +1,1272 @@
+{
+  "id": "B2-FINAL",
+  "kind": "level",
+  "level": "B2",
+  "title_zh": "B2 综合独立评测：共享空间的试行与分歧",
+  "version": "2026.10.22.1",
+  "unseen_text": [
+    {
+      "cs": "Město chce na šest měsíců zpřístupnit nevyužitou budovu pro komunitní aktivity. Základní nabídka počítá se dvěma místnostmi a společnou kuchyňkou. Za běžný úklid odpovídá uživatel; odborný servis techniky zajišťuje správce. Program má být přístupný různým skupinám, nikoli pouze členům jednoho spolku. Večerní akce mohou probíhat do devíti, ale venkovní prostor se po osmé používat nemá. Text zatím neuvádí, kdo ověří dodržování těchto podmínek.",
+      "zh": "市镇拟将空楼试用六个月，有两室和公共小厨房。使用者负责普通清洁，管理员管专业设备服务。活动应面向不同群体，晚间至九点，但户外八点后不用；谁查落实未写。",
+      "note_zh": "材料一｜市镇项目说明（虚构）"
+    },
+    {
+      "cs": "Spolek Most podporuje projekt, protože v okolí chybí místo pro nekomerční setkávání. Navrhuje pravidelné jazykové večery a poradenství k běžným každodenním situacím. Současně požaduje možnost uložit pomůcky a předvídatelný rozvrh. Upozorňuje, že dobrovolníci nemohou bez přípravy převzít odpovědnost za celou budovu. Je ochoten zajistit koordinátora vlastních akcí, ne však nepřetržitou správu prostoru. Nabídka koordinátora platí jen tehdy, pokud budou úkoly a rozsah dostupnosti předem vyjasněny.",
+      "zh": "Most协会支持，拟语言晚会和日常咨询，需要储物与可预测排期。志愿者不能未经准备管整楼；可配自办活动协调人，不做全天管理员，且需先定任务和可用范围。",
+      "note_zh": "材料二｜协会意见"
+    },
+    {
+      "cs": "Obyvatelé sousedního domu vítají opravu dlouho prázdné budovy, ale obávají se večerního hluku a přetížení parkování. V dopise nepíší, že odmítají všechny komunitní aktivity. Žádají konkrétní kontaktní osobu, postup řešení podnětů a možnost vyhodnotit zkušební provoz. Dva signatáři navrhují zákaz všech večerních akcí; ostatní tento požadavek výslovně nepodpořili. Z počtu podpisů pod společným dopisem proto nelze bez dalšího odvodit podporu každého jednotlivého návrhu.",
+      "zh": "邻楼住户欢迎修空楼，担心夜噪音与停车。不是拒所有活动，要求联系人、反馈流程和试行评估。两签名者建议禁所有晚场，其他人未明确支持，不能把联名数等同支持每一建议。",
+      "note_zh": "材料三｜住户来信"
+    },
+    {
+      "cs": "Externí firma nabízí večerní dohled za pevnou částku na jeden večer; nabídka nezahrnuje mimořádný úklid. V internetové anketě se vyjádřilo čtyřicet lidí, z nichž dvacet šest projekt podpořilo. Odpovědi byly sbírány pouze ve skupině, která sdružuje zájemce o místní kulturní akce. Není známo, kolik obyvatel bez přístupu do této skupiny by se vyjádřilo jinak. Výsledky tedy popisují účastníky ankety, nikoli automaticky celou čtvrť.",
+      "zh": "外包晚间看护按晚固定费，不含特殊清洁。网问卷40人中26支持，仅文化活动兴趣群收集；不知未入群住户观点，结果只描述参与者不自动代表全区。",
+      "note_zh": "材料四｜报价与小调查"
+    },
+    {
+      "cs": "Máte připravit doporučení pro společnou schůzku. Musíte oddělit společné cíle, skutečné rozpory a dosud nejasné odpovědnosti. Zkušební provoz se může upravit, ale nemáte oprávnění za město ani spolek uzavírat smlouvy. V doporučení proto navrhujte podmínky a potřebná potvrzení. Představte nejméně jednu alternativu a uveďte, jaké nové zjištění by vedlo ke změně Vašeho stanoviska. Veškeré částky, termíny a pravomoci, které materiály neobsahují, ponechte jako otázky k ověření.",
+      "zh": "你给会议提建议，区分共识、实际分歧、责任未知。可提调整但无权代任何方签约；至少给一备选、何种新证据改变判断。材料未有的金额日期权限列待核，不编。",
+      "note_zh": "任务背景"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "哪项属于可确认共同点？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "都支持禁晚场"
+        },
+        {
+          "id": "b",
+          "text": "市镇、协会与住户都可接受利用/改善闲置空间，细节尚有分歧"
+        },
+        {
+          "id": "c",
+          "text": "所有人同意外包报价"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "住户欢迎修复，不是全面拒绝；共同目标不等于方案一致。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-FINAL-E01",
+      "knowledge_points": [
+        "argument-qualification",
+        "passive-process-state",
+        "conditional-tradeoff",
+        "mediation-scope",
+        "paragraph-architecture"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "26/40的正确解释？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "全区65%支持"
+        },
+        {
+          "id": "b",
+          "text": "本次40位问卷参与者中65%支持，样本有范围限制"
+        },
+        {
+          "id": "c",
+          "text": "支持增加65%"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "26/40=65%，不是全区总体也非增长。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-FINAL-E02",
+      "knowledge_points": [
+        "argument-qualification",
+        "passive-process-state",
+        "conditional-tradeoff",
+        "mediation-scope",
+        "paragraph-architecture"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "听会后更新：新增什么确认？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "室外最晚七点半结束，但室内九点仍可按条件进行"
+        },
+        {
+          "id": "b",
+          "text": "全部活动取消"
+        },
+        {
+          "id": "c",
+          "text": "外包费已全包"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "听力改室外截止，不改全部室内时限。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "listening"
+      ],
+      "error_category": "comprehension",
+      "audio_text_cs": "Po dohodě se venkovní část ukončí už v půl osmé. Vnitřní program může pokračovat do devíti, pokud bude přítomen určený koordinátor. Kdo tuto roli převezme, zatím potvrzeno není.",
+      "id": "B2-FINAL-E03",
+      "knowledge_points": [
+        "argument-qualification",
+        "passive-process-state",
+        "conditional-tradeoff",
+        "mediation-scope",
+        "paragraph-architecture"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "填协调人尚未确认的被动形式。",
+      "stimulus_cs": "Koordinátor zatím nebyl ___. (určit)",
+      "answer": "určen",
+      "accepted_answers": [
+        "určen"
+      ],
+      "explanation_zh": "男性单数被动分词 určen；未确定责任。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "B2-FINAL-E04",
+      "knowledge_points": [
+        "argument-qualification",
+        "passive-process-state",
+        "conditional-tradeoff",
+        "mediation-scope",
+        "paragraph-architecture"
+      ]
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "作三分钟建议陈述：共识、两分歧、可试行方案、责任未知、退出或调整标准。",
+      "stimulus_cs": "",
+      "answer": "Projekt může využít prázdnou budovu, což je společný zájem. Sporné jsou večerní dopady a rozsah správy. Navrhuji omezený zkušební program s konkrétním koordinátorem, kontaktem pro sousedy a předem stanoveným vyhodnocením. Spolek nabízí koordinaci vlastních akcí, nikoli celé budovy. Pokud nebude možné zajistit odpovědnou osobu nebo se opakovaně objeví neřešené problémy, program musí být upraven.",
+      "accepted_answers": [],
+      "explanation_zh": "不能用网群问卷当全区公投，不可代签合同。",
+      "rubric": [
+        "五项结构",
+        "来源范围",
+        "最强异议",
+        "有调整条件",
+        "独立表达"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "error_category": "fluency",
+      "id": "B2-FINAL-E05",
+      "knowledge_points": [
+        "argument-qualification",
+        "passive-process-state",
+        "conditional-tradeoff",
+        "mediation-scope",
+        "paragraph-architecture"
+      ]
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "你代表协调者，不代表签约人；回应住户“你们就是想天天吵”的指控，澄清范围并提出可验证问题。",
+      "stimulus_cs": "",
+      "answer": "Rozumím obavě z večerního hluku. Návrh ale neznamená každodenní akci bez omezení. Potřebujeme dohodnout konkrétní rozvrh, kontakt a postup řešení podnětů. Které dny a typy hluku jsou pro vás nejproblematičtější? O smluvních podmínkách musí rozhodnout oprávněné osoby.",
+      "accepted_answers": [],
+      "explanation_zh": "纠正范围不否定感受，问出具体约束。",
+      "rubric": [
+        "不归因恶意",
+        "提具体问题",
+        "权限边界",
+        "推动下一步"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "error_category": "fluency",
+      "id": "B2-FINAL-E06",
+      "knowledge_points": [
+        "argument-qualification",
+        "passive-process-state",
+        "conditional-tradeoff",
+        "mediation-scope",
+        "paragraph-architecture"
+      ]
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "写220–280词建议函，至少五段：依据、权衡、备选、评估和需确认项；不得虚构价格或承诺。",
+      "stimulus_cs": "",
+      "answer": "Vážené účastnice, vážení účastníci, dostupné podklady ukazují společný zájem na využití prázdné budovy. Neshoda se týká především večerního provozu a odpovědnosti za jeho správu. Doporučuji proto zkušební program s omezeným rozvrhem a jasným kontaktem pro sousedy, nikoli okamžité zavedení všech navržených aktivit.\n\nSpolek Most nabízí koordinátora vlastních akcí, ale nepřebírá správu celé budovy. Tento rozdíl musí být zachován v každé dohodě. Je třeba určit, kdo zajistí přístup, kontrolu podmínek a řešení problémů mimo jednotlivé akce. Bez tohoto potvrzení nelze nabídku spolku považovat za vyřešení celé správy.\n\nPodle posledního jednání má venkovní část skončit v půl osmé. Vnitřní program může pokračovat do devíti pouze za přítomnosti určeného koordinátora, jehož osoba zatím není potvrzena. Alternativou je kratší vnitřní program nebo menší počet večerů, dokud nebude zajištěna odpovídající kapacita.\n\nExterní dohled může část potřeby pokrýt, jeho nabídka však nezahrnuje mimořádný úklid. Před porovnáním nákladů potřebujeme znát skutečný rozsah služby a způsob schvalování doplatků. Internetovou anketu nelze použít jako rozhodnutí celé čtvrti: podporu vyjádřilo dvacet šest ze čtyřiceti účastníků vybrané skupiny.\n\nPro vyhodnocení navrhuji sledovat konkrétní podněty, dobu jejich vyřešení a zkušenosti různých uživatelů i sousedů. Předem stanovme, kdy se program upraví. Pokud nebude odpovědná osoba dostupná nebo budou problémy opakovaně zůstávat bez reakce, je nutné rozsah provozu změnit. Tato zpráva je doporučením k dohodě, nikoli podpisem závazku za kteroukoli stranu.",
+      "accepted_answers": [],
+      "explanation_zh": "完整示范供写后对照；长度不单独决定能力。",
+      "rubric": [
+        "五段清晰",
+        "最新条件",
+        "责任权限定界",
+        "样本与成本口径",
+        "备选和评估"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-FINAL-E07",
+      "knowledge_points": [
+        "argument-qualification",
+        "passive-process-state",
+        "conditional-tradeoff",
+        "mediation-scope",
+        "paragraph-architecture"
+      ]
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "给中文住户写120字左右简报，准确说明更新后的室内外时间、联系人未定和谁负责什么。",
+      "stimulus_cs": "",
+      "answer": "方案拟试行利用空楼，户外部分最新商定七点半结束；室内可至九点，但必须有指定协调人，目前人选未确认。协会只愿管自己的活动，不等于整楼管理。还需确定投诉联系人、处理流程和额外清洁费用责任。",
+      "accepted_answers": [],
+      "explanation_zh": "不把讨论结果说成服务已经开通。",
+      "rubric": [
+        "最新时间",
+        "前提与人选",
+        "协会范围",
+        "未知事项"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-FINAL-E08",
+      "knowledge_points": [
+        "argument-qualification",
+        "passive-process-state",
+        "conditional-tradeoff",
+        "mediation-scope",
+        "paragraph-architecture"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "听：外包公司确认哪项不含？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "例行在场看护"
+        },
+        {
+          "id": "b",
+          "text": "特殊清洁与无授权追加时段"
+        },
+        {
+          "id": "c",
+          "text": "任何服务都不做"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "按新增听力确认服务边界。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "listening"
+      ],
+      "error_category": "comprehension",
+      "audio_text_cs": "Cena pokrývá dohled v předem dohodnutém večerním čase. Mimořádný úklid ani prodloužení služby bez předchozí dohody v ní zahrnuty nejsou.",
+      "id": "B2-FINAL-E09",
+      "knowledge_points": [
+        "argument-qualification",
+        "passive-process-state",
+        "conditional-tradeoff",
+        "mediation-scope",
+        "paragraph-architecture"
+      ]
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "外包公司说可以“先做后算额外”，你无签约权，如何回应并取得审议资料？",
+      "stimulus_cs": "",
+      "answer": "Děkuji, ale nemám oprávnění schválit nevyčíslené doplatky. Prosím o písemné vymezení základní služby, cenového postupu pro mimořádný úklid a osoby, která může prodloužení objednat. Předáme to odpovědným zástupcům k rozhodnutí.",
+      "accepted_answers": [],
+      "explanation_zh": "任务是要可审议条件，不越权定价或批准。",
+      "rubric": [
+        "权限清晰",
+        "三项资料",
+        "不口头承诺"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "error_category": "fluency",
+      "id": "B2-FINAL-E10",
+      "knowledge_points": [
+        "argument-qualification",
+        "passive-process-state",
+        "conditional-tradeoff",
+        "mediation-scope",
+        "paragraph-architecture"
+      ]
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "向协会用捷语解释住户并非全部要求禁晚场，保留两签名者范围。",
+      "stimulus_cs": "",
+      "answer": "Společný dopis požaduje kontakt a postup řešení problémů. Zákaz všech večerních akcí navrhli pouze dva signatáři; z ostatních podpisů nelze odvodit podporu tohoto konkrétního požadavku. Sousedé zároveň vítají opravu budovy.",
+      "accepted_answers": [],
+      "explanation_zh": "转述避免把分项意见扩成全体共识。",
+      "rubric": [
+        "主体范围",
+        "共同要求",
+        "不制造对立"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-FINAL-E11",
+      "knowledge_points": [
+        "argument-qualification",
+        "passive-process-state",
+        "conditional-tradeoff",
+        "mediation-scope",
+        "paragraph-architecture"
+      ]
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "写一次自我修订说明：原文把65%说全区、协调人说已定；指出证据并纠正。",
+      "stimulus_cs": "",
+      "answer": "Opravuji dvě části předchozího návrhu. Podíl 65 % se vztahuje ke čtyřiceti respondentům internetové ankety, nikoli k celé čtvrti. Osoba večerního koordinátora zatím potvrzena není; jeho přítomnost je podmínkou programu do devíti. Původní formulace byly širší než dostupné podklady.",
+      "accepted_answers": [],
+      "explanation_zh": "实际修改证据与认错机制是测评一部分。",
+      "rubric": [
+        "原错明确",
+        "正确口径",
+        "条件保留",
+        "说明证据变化"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-FINAL-E12",
+      "knowledge_points": [
+        "argument-qualification",
+        "passive-process-state",
+        "conditional-tradeoff",
+        "mediation-scope",
+        "paragraph-architecture"
+      ]
+    }
+  ],
+  "rubric": [
+    "信息准确：人数、方向、时点、范围、否定和条件不歪曲；遗漏关键条件需补练。",
+    "任务完成：能把对方带到可执行下一步，而不是只表达态度。",
+    "语言控制：格、时体、语序和衔接足以维持意义，错误是否迫使听众猜测须记录。",
+    "互动修复：能主动追问、澄清、复述确认，不会时不假装听懂。",
+    "独立性：标注是否查看范文、重听次数、是否借助外部提示；这些证据与题目对错分开保存。"
+  ],
+  "performance_descriptors": {
+    "listening": {
+      "independent": "不看文字提取关键变化、否定、条件和说话人立场。",
+      "developing": "重听后理解主旨，但数字、指代或条件仍需提示。",
+      "needs_review": "只凭熟悉关键词猜测，无法复述关键行动。"
+    },
+    "speaking": {
+      "independent": "形成连贯说明并给理由，出现停顿也能换说法继续。",
+      "developing": "能表达主线，但需题词或漏关键限制。",
+      "needs_review": "依赖照读范文，尚无独立输出证据。"
+    },
+    "reading": {
+      "independent": "正确区分已确认、估计、例外和材料未说的内容。",
+      "developing": "大意正确，但把计划或他人说法当确认事实。",
+      "needs_review": "主要依赖逐字翻译，逻辑关系未建立。"
+    },
+    "writing": {
+      "independent": "读者可从文本识别对象、请求、理由、期限和待确认项。",
+      "developing": "主要信息可理解，个别指代、词形或结构需要修改。",
+      "needs_review": "必须依靠范文，或错误改变时间、数量、责任。"
+    },
+    "interaction": {
+      "independent": "能跟进新信息并修复误解，明确自己的承诺范围。",
+      "developing": "可回答预设问题，但新条件下容易重复原话。",
+      "needs_review": "只读单句脚本，不能澄清对方真正含义。"
+    },
+    "mediation": {
+      "independent": "按受众挑信息，保留立场、条件、未知且不添加动机。",
+      "developing": "大意保留，但容易漏限制或混淆自己的推论。",
+      "needs_review": "逐词搬运而使受众仍不知如何行动。"
+    }
+  },
+  "remediation": [
+    {
+      "condition_zh": "用案例或小问卷断言所有人，或把相关说因果",
+      "lesson_ids": [
+        "B2-U01-L01",
+        "B2-U07-L01"
+      ],
+      "action_zh": "逐条标来源、分母、前提；重写一个能被反例检验的结论。"
+    },
+    {
+      "condition_zh": "把计划/处理中写成已完成，或遗漏责任人",
+      "lesson_ids": [
+        "B2-U03-L01",
+        "B2-U05-L01"
+      ],
+      "action_zh": "分别写主动责任句和被动状态句，再核同一事实。"
+    },
+    {
+      "condition_zh": "协商时无意越过费用、期限或权限边界",
+      "lesson_ids": [
+        "B2-U02-L01",
+        "B2-U08-L01",
+        "B2-U10-L01"
+      ],
+      "action_zh": "录音练三次附条件让步，并写对应确认函。"
+    },
+    {
+      "condition_zh": "混淆说话人、版本或受众，转述删掉关键限制",
+      "lesson_ids": [
+        "B2-U06-L01",
+        "B2-U09-L01",
+        "B2-U13-L01"
+      ],
+      "action_zh": "用两份不同材料作同口径表，并分别向非专业受众与负责人转述。"
+    },
+    {
+      "condition_zh": "长文只有口号，异议未回应或敬称语域混乱",
+      "lesson_ids": [
+        "B2-U04-L01",
+        "B2-U11-L01",
+        "B2-U12-L01",
+        "B2-U14-L01"
+      ],
+      "action_zh": "保存初稿及三层修改说明；隔一段时间用新情境独立再写。"
+    }
+  ],
+  "typical_performance_note": "以上是本系统任务量规，不是官方考试成绩或CEFR认证。开放题由学习者逐项自评、教师评阅或明确标识的可选AI反馈；不得用关键词命中生成精确口语/发音分数。",
+  "sources": [
+    {
+      "source_id": "LANG01",
+      "url": "https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions",
+      "scope": "六级能力框架；本评测原创设计，非官方试题",
+      "verification": "2026-10-22核查框架入口；测评未通过标准化效度研究"
+    }
+  ],
+  "content_status": "authored_crosschecked_not_native_reviewed",
+  "audio_refs": [
+    {
+      "lesson_id": "B2-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--normal.mp3",
+      "slow_file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-FINAL--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Město chce na šest měsíců zpřístupnit nevyužitou budovu pro komunitní aktivity. Základní nabídka počítá se dvěma místnostmi a společnou kuchyňkou. Za běžný úklid odpovídá uživatel; odborný servis techniky zajišťuje správce. Program má být přístupný různým skupinám, nikoli pouze členům jednoho spolku. Večerní akce mohou probíhat do devíti, ale venkovní prostor se po osmé používat nemá. Text zatím neuvádí, kdo ověří dodržování těchto podmínek. Spolek Most podporuje projekt, protože v okolí chybí místo pro nekomerční setkávání. Navrhuje pravidelné jazykové večery a poradenství k běžným každodenním situacím. Současně požaduje možnost uložit pomůcky a předvídatelný rozvrh. Upozorňuje, že dobrovolníci nemohou bez přípravy převzít odpovědnost za celou budovu. Je ochoten zajistit koordinátora vlastních akcí, ne však nepřetržitou správu prostoru. Nabídka koordinátora platí jen tehdy, pokud budou úkoly a rozsah dostupnosti předem vyjasněny. Obyvatelé sousedního domu vítají opravu dlouho prázdné budovy, ale obávají se večerního hluku a přetížení parkování. V dopise nepíší, že odmítají všechny komunitní aktivity. Žádají konkrétní kontaktní osobu, postup řešení podnětů a možnost vyhodnotit zkušební provoz. Dva signatáři navrhují zákaz všech večerních akcí; ostatní tento požadavek výslovně nepodpořili. Z počtu podpisů pod společným dopisem proto nelze bez dalšího odvodit podporu každého jednotlivého návrhu. Externí firma nabízí večerní dohled za pevnou částku na jeden večer; nabídka nezahrnuje mimořádný úklid. V internetové anketě se vyjádřilo čtyřicet lidí, z nichž dvacet šest projekt podpořilo. Odpovědi byly sbírány pouze ve skupině, která sdružuje zájemce o místní kulturní akce. Není známo, kolik obyvatel bez přístupu do této skupiny by se vyjádřilo jinak. Výsledky tedy popisují účastníky ankety, nikoli automaticky celou čtvrť. Máte připravit doporučení pro společnou schůzku. Musíte oddělit společné cíle, skutečné rozpory a dosud nejasné odpovědnosti. Zkušební provoz se může upravit, ale nemáte oprávnění za město ani spolek uzavírat smlouvy. V doporučení proto navrhujte podmínky a potřebná potvrzení. Představte nejméně jednu alternativu a uveďte, jaké nové zjištění by vedlo ke změně Vašeho stanoviska. Veškeré částky, termíny a pravomoci, které materiály neobsahují, ponechte jako otázky k ověření.",
+      "duration_seconds": 210.4088888888889,
+      "slow_duration_seconds": 237.59945578231293,
+      "sha256": "6b05b070784d7b6f00e54b7b262e3e1df97e44ad287ef8b6fcac6aa848acc798",
+      "slow_sha256": "b77d55de0552df8a954c2802b17c81a43730ec6f3379f735815a5d91eed1fefd"
+    },
+    {
+      "lesson_id": "B2-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--normal.mp3",
+      "slow_file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-FINAL--2026.10.22.1--text--p0",
+      "asset_id": "B2-FINAL--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Město chce na šest měsíců zpřístupnit nevyužitou budovu pro komunitní aktivity. Základní nabídka počítá se dvěma místnostmi a společnou kuchyňkou. Za běžný úklid odpovídá uživatel; odborný servis techniky zajišťuje správce. Program má být přístupný různým skupinám, nikoli pouze členům jednoho spolku. Večerní akce mohou probíhat do devíti, ale venkovní prostor se po osmé používat nemá. Text zatím neuvádí, kdo ověří dodržování těchto podmínek.",
+      "start": 0,
+      "end": 40.82671201814059,
+      "slow_start": 0,
+      "slow_end": 46.26018140589569
+    },
+    {
+      "lesson_id": "B2-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--normal.mp3",
+      "slow_file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-FINAL--2026.10.22.1--text--s0",
+      "asset_id": "B2-FINAL--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Město chce na šest měsíců zpřístupnit nevyužitou budovu pro komunitní aktivity.",
+      "start": 0,
+      "end": 6.919546485260771,
+      "slow_start": 0,
+      "slow_end": 7.929614512471655
+    },
+    {
+      "lesson_id": "B2-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--normal.mp3",
+      "slow_file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-FINAL--2026.10.22.1--text--s1",
+      "asset_id": "B2-FINAL--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Základní nabídka počítá se dvěma místnostmi a společnou kuchyňkou.",
+      "start": 7.099546485260771,
+      "end": 12.741995464852607,
+      "slow_start": 8.109614512471655,
+      "slow_end": 14.564761904761905
+    },
+    {
+      "lesson_id": "B2-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--normal.mp3",
+      "slow_file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-FINAL--2026.10.22.1--text--s2",
+      "asset_id": "B2-FINAL--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Za běžný úklid odpovídá uživatel; odborný servis techniky zajišťuje správce.",
+      "start": 12.921995464852607,
+      "end": 20.35238095238095,
+      "slow_start": 14.744761904761905,
+      "slow_end": 23.103945578231293
+    },
+    {
+      "lesson_id": "B2-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--normal.mp3",
+      "slow_file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-FINAL--2026.10.22.1--text--s3",
+      "asset_id": "B2-FINAL--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 3,
+      "paragraph_index": 0,
+      "sentence_index": 3,
+      "text": "Program má být přístupný různým skupinám, nikoli pouze členům jednoho spolku.",
+      "start": 20.53238095238095,
+      "end": 27.28938775510204,
+      "slow_start": 23.283945578231293,
+      "slow_end": 31.167120181405895
+    },
+    {
+      "lesson_id": "B2-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--normal.mp3",
+      "slow_file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-FINAL--2026.10.22.1--text--s4",
+      "asset_id": "B2-FINAL--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 4,
+      "paragraph_index": 0,
+      "sentence_index": 4,
+      "text": "Večerní akce mohou probíhat do devíti, ale venkovní prostor se po osmé používat nemá.",
+      "start": 27.46938775510204,
+      "end": 35.28290249433107,
+      "slow_start": 31.347120181405895,
+      "slow_end": 39.99655328798186
+    },
+    {
+      "lesson_id": "B2-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--normal.mp3",
+      "slow_file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-FINAL--2026.10.22.1--text--s5",
+      "asset_id": "B2-FINAL--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 5,
+      "paragraph_index": 0,
+      "sentence_index": 5,
+      "text": "Text zatím neuvádí, kdo ověří dodržování těchto podmínek.",
+      "start": 35.46290249433107,
+      "end": 40.82671201814059,
+      "slow_start": 40.17655328798186,
+      "slow_end": 46.26018140589569
+    },
+    {
+      "lesson_id": "B2-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--normal.mp3",
+      "slow_file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-FINAL--2026.10.22.1--text--p1",
+      "asset_id": "B2-FINAL--2026.10.22.1--text",
+      "role": "text",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Spolek Most podporuje projekt, protože v okolí chybí místo pro nekomerční setkávání. Navrhuje pravidelné jazykové večery a poradenství k běžným každodenním situacím. Současně požaduje možnost uložit pomůcky a předvídatelný rozvrh. Upozorňuje, že dobrovolníci nemohou bez přípravy převzít odpovědnost za celou budovu. Je ochoten zajistit koordinátora vlastních akcí, ne však nepřetržitou správu prostoru. Nabídka koordinátora platí jen tehdy, pokud budou úkoly a rozsah dostupnosti předem vyjasněny.",
+      "start": 41.00671201814059,
+      "end": 84.91006802721088,
+      "slow_start": 46.44018140589569,
+      "slow_end": 96.45038548752835
+    },
+    {
+      "lesson_id": "B2-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--normal.mp3",
+      "slow_file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-FINAL--2026.10.22.1--text--s6",
+      "asset_id": "B2-FINAL--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 6,
+      "paragraph_index": 1,
+      "sentence_index": 0,
+      "text": "Spolek Most podporuje projekt, protože v okolí chybí místo pro nekomerční setkávání.",
+      "start": 41.00671201814059,
+      "end": 48.15845804988662,
+      "slow_start": 46.44018140589569,
+      "slow_end": 54.636825396825394
+    },
+    {
+      "lesson_id": "B2-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--normal.mp3",
+      "slow_file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-FINAL--2026.10.22.1--text--s7",
+      "asset_id": "B2-FINAL--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 7,
+      "paragraph_index": 1,
+      "sentence_index": 1,
+      "text": "Navrhuje pravidelné jazykové večery a poradenství k běžným každodenním situacím.",
+      "start": 48.33845804988662,
+      "end": 55.33927437641724,
+      "slow_start": 54.816825396825394,
+      "slow_end": 62.68839002267574
+    },
+    {
+      "lesson_id": "B2-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--normal.mp3",
+      "slow_file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-FINAL--2026.10.22.1--text--s8",
+      "asset_id": "B2-FINAL--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 8,
+      "paragraph_index": 1,
+      "sentence_index": 2,
+      "text": "Současně požaduje možnost uložit pomůcky a předvídatelný rozvrh.",
+      "start": 55.519274376417236,
+      "end": 61.32426303854875,
+      "slow_start": 62.86839002267574,
+      "slow_end": 69.59056689342404
+    },
+    {
+      "lesson_id": "B2-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--normal.mp3",
+      "slow_file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-FINAL--2026.10.22.1--text--s9",
+      "asset_id": "B2-FINAL--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 9,
+      "paragraph_index": 1,
+      "sentence_index": 3,
+      "text": "Upozorňuje, že dobrovolníci nemohou bez přípravy převzít odpovědnost za celou budovu.",
+      "start": 61.50426303854875,
+      "end": 69.23650793650793,
+      "slow_start": 69.77056689342403,
+      "slow_end": 78.43160997732426
+    },
+    {
+      "lesson_id": "B2-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--normal.mp3",
+      "slow_file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-FINAL--2026.10.22.1--text--s10",
+      "asset_id": "B2-FINAL--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 10,
+      "paragraph_index": 1,
+      "sentence_index": 4,
+      "text": "Je ochoten zajistit koordinátora vlastních akcí, ne však nepřetržitou správu prostoru.",
+      "start": 69.41650793650794,
+      "end": 76.76562358276644,
+      "slow_start": 78.61160997732426,
+      "slow_end": 87.06367346938775
+    },
+    {
+      "lesson_id": "B2-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--normal.mp3",
+      "slow_file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-FINAL--2026.10.22.1--text--s11",
+      "asset_id": "B2-FINAL--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 11,
+      "paragraph_index": 1,
+      "sentence_index": 5,
+      "text": "Nabídka koordinátora platí jen tehdy, pokud budou úkoly a rozsah dostupnosti předem vyjasněny.",
+      "start": 76.94562358276644,
+      "end": 84.91006802721088,
+      "slow_start": 87.24367346938776,
+      "slow_end": 96.45038548752835
+    },
+    {
+      "lesson_id": "B2-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--normal.mp3",
+      "slow_file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-FINAL--2026.10.22.1--text--p2",
+      "asset_id": "B2-FINAL--2026.10.22.1--text",
+      "role": "text",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Obyvatelé sousedního domu vítají opravu dlouho prázdné budovy, ale obávají se večerního hluku a přetížení parkování. V dopise nepíší, že odmítají všechny komunitní aktivity. Žádají konkrétní kontaktní osobu, postup řešení podnětů a možnost vyhodnotit zkušební provoz. Dva signatáři navrhují zákaz všech večerních akcí; ostatní tento požadavek výslovně nepodpořili. Z počtu podpisů pod společným dopisem proto nelze bez dalšího odvodit podporu každého jednotlivého návrhu.",
+      "start": 85.09006802721089,
+      "end": 127.22285714285714,
+      "slow_start": 96.63038548752834,
+      "slow_end": 143.7322448979592
+    },
+    {
+      "lesson_id": "B2-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--normal.mp3",
+      "slow_file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-FINAL--2026.10.22.1--text--s12",
+      "asset_id": "B2-FINAL--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 12,
+      "paragraph_index": 2,
+      "sentence_index": 0,
+      "text": "Obyvatelé sousedního domu vítají opravu dlouho prázdné budovy, ale obávají se večerního hluku a přetížení parkování.",
+      "start": 85.09006802721089,
+      "end": 95.29523809523809,
+      "slow_start": 96.63038548752834,
+      "slow_end": 107.97333333333333
+    },
+    {
+      "lesson_id": "B2-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--normal.mp3",
+      "slow_file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-FINAL--2026.10.22.1--text--s13",
+      "asset_id": "B2-FINAL--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 13,
+      "paragraph_index": 2,
+      "sentence_index": 1,
+      "text": "V dopise nepíší, že odmítají všechny komunitní aktivity.",
+      "start": 95.4752380952381,
+      "end": 100.45591836734694,
+      "slow_start": 108.15333333333334,
+      "slow_end": 113.70290249433107
+    },
+    {
+      "lesson_id": "B2-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--normal.mp3",
+      "slow_file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-FINAL--2026.10.22.1--text--s14",
+      "asset_id": "B2-FINAL--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 14,
+      "paragraph_index": 2,
+      "sentence_index": 2,
+      "text": "Žádají konkrétní kontaktní osobu, postup řešení podnětů a možnost vyhodnotit zkušební provoz.",
+      "start": 100.63591836734693,
+      "end": 109.26213151927438,
+      "slow_start": 113.88290249433106,
+      "slow_end": 123.73977324263039
+    },
+    {
+      "lesson_id": "B2-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--normal.mp3",
+      "slow_file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-FINAL--2026.10.22.1--text--s15",
+      "asset_id": "B2-FINAL--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 15,
+      "paragraph_index": 2,
+      "sentence_index": 3,
+      "text": "Dva signatáři navrhují zákaz všech večerních akcí; ostatní tento požadavek výslovně nepodpořili.",
+      "start": 109.44213151927438,
+      "end": 118.27732426303855,
+      "slow_start": 123.91977324263038,
+      "slow_end": 133.74181405895692
+    },
+    {
+      "lesson_id": "B2-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--normal.mp3",
+      "slow_file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-FINAL--2026.10.22.1--text--s16",
+      "asset_id": "B2-FINAL--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 16,
+      "paragraph_index": 2,
+      "sentence_index": 4,
+      "text": "Z počtu podpisů pod společným dopisem proto nelze bez dalšího odvodit podporu každého jednotlivého návrhu.",
+      "start": 118.45732426303854,
+      "end": 127.22285714285714,
+      "slow_start": 133.92181405895693,
+      "slow_end": 143.7322448979592
+    },
+    {
+      "lesson_id": "B2-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--normal.mp3",
+      "slow_file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-FINAL--2026.10.22.1--text--p3",
+      "asset_id": "B2-FINAL--2026.10.22.1--text",
+      "role": "text",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Externí firma nabízí večerní dohled za pevnou částku na jeden večer; nabídka nezahrnuje mimořádný úklid. V internetové anketě se vyjádřilo čtyřicet lidí, z nichž dvacet šest projekt podpořilo. Odpovědi byly sbírány pouze ve skupině, která sdružuje zájemce o místní kulturní akce. Není známo, kolik obyvatel bez přístupu do této skupiny by se vyjádřilo jinak. Výsledky tedy popisují účastníky ankety, nikoli automaticky celou čtvrť.",
+      "start": 127.40285714285714,
+      "end": 167.43424036281178,
+      "slow_start": 143.91224489795917,
+      "slow_end": 189.37709750566893
+    },
+    {
+      "lesson_id": "B2-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--normal.mp3",
+      "slow_file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-FINAL--2026.10.22.1--text--s17",
+      "asset_id": "B2-FINAL--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 17,
+      "paragraph_index": 3,
+      "sentence_index": 0,
+      "text": "Externí firma nabízí večerní dohled za pevnou částku na jeden večer; nabídka nezahrnuje mimořádný úklid.",
+      "start": 127.40285714285714,
+      "end": 137.30616780045352,
+      "slow_start": 143.91224489795917,
+      "slow_end": 154.94172335600908
+    },
+    {
+      "lesson_id": "B2-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--normal.mp3",
+      "slow_file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-FINAL--2026.10.22.1--text--s18",
+      "asset_id": "B2-FINAL--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 18,
+      "paragraph_index": 3,
+      "sentence_index": 1,
+      "text": "V internetové anketě se vyjádřilo čtyřicet lidí, z nichž dvacet šest projekt podpořilo.",
+      "start": 137.4861678004535,
+      "end": 144.97460317460317,
+      "slow_start": 155.12172335600906,
+      "slow_end": 163.66666666666666
+    },
+    {
+      "lesson_id": "B2-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--normal.mp3",
+      "slow_file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-FINAL--2026.10.22.1--text--s19",
+      "asset_id": "B2-FINAL--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 19,
+      "paragraph_index": 3,
+      "sentence_index": 2,
+      "text": "Odpovědi byly sbírány pouze ve skupině, která sdružuje zájemce o místní kulturní akce.",
+      "start": 145.15460317460318,
+      "end": 153.1887074829932,
+      "slow_start": 163.84666666666666,
+      "slow_end": 173.2855782312925
+    },
+    {
+      "lesson_id": "B2-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--normal.mp3",
+      "slow_file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-FINAL--2026.10.22.1--text--s20",
+      "asset_id": "B2-FINAL--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 20,
+      "paragraph_index": 3,
+      "sentence_index": 3,
+      "text": "Není známo, kolik obyvatel bez přístupu do této skupiny by se vyjádřilo jinak.",
+      "start": 153.3687074829932,
+      "end": 160.2534240362812,
+      "slow_start": 173.4655782312925,
+      "slow_end": 181.24426303854875
+    },
+    {
+      "lesson_id": "B2-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--normal.mp3",
+      "slow_file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-FINAL--2026.10.22.1--text--s21",
+      "asset_id": "B2-FINAL--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 21,
+      "paragraph_index": 3,
+      "sentence_index": 4,
+      "text": "Výsledky tedy popisují účastníky ankety, nikoli automaticky celou čtvrť.",
+      "start": 160.43342403628117,
+      "end": 167.43424036281178,
+      "slow_start": 181.42426303854876,
+      "slow_end": 189.37709750566893
+    },
+    {
+      "lesson_id": "B2-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--normal.mp3",
+      "slow_file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-FINAL--2026.10.22.1--text--p4",
+      "asset_id": "B2-FINAL--2026.10.22.1--text",
+      "role": "text",
+      "index": 4,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Máte připravit doporučení pro společnou schůzku. Musíte oddělit společné cíle, skutečné rozpory a dosud nejasné odpovědnosti. Zkušební provoz se může upravit, ale nemáte oprávnění za město ani spolek uzavírat smlouvy. V doporučení proto navrhujte podmínky a potřebná potvrzení. Představte nejméně jednu alternativu a uveďte, jaké nové zjištění by vedlo ke změně Vašeho stanoviska. Veškeré částky, termíny a pravomoci, které materiály neobsahují, ponechte jako otázky k ověření.",
+      "start": 167.61424036281178,
+      "end": 210.2288888888889,
+      "slow_start": 189.55709750566893,
+      "slow_end": 237.41945578231292
+    },
+    {
+      "lesson_id": "B2-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--normal.mp3",
+      "slow_file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-FINAL--2026.10.22.1--text--s22",
+      "asset_id": "B2-FINAL--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 22,
+      "paragraph_index": 4,
+      "sentence_index": 0,
+      "text": "Máte připravit doporučení pro společnou schůzku.",
+      "start": 167.61424036281178,
+      "end": 171.82866213151928,
+      "slow_start": 189.55709750566893,
+      "slow_end": 194.31718820861678
+    },
+    {
+      "lesson_id": "B2-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--normal.mp3",
+      "slow_file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-FINAL--2026.10.22.1--text--s23",
+      "asset_id": "B2-FINAL--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 23,
+      "paragraph_index": 4,
+      "sentence_index": 1,
+      "text": "Musíte oddělit společné cíle, skutečné rozpory a dosud nejasné odpovědnosti.",
+      "start": 172.0086621315193,
+      "end": 179.1952380952381,
+      "slow_start": 194.4971882086168,
+      "slow_end": 202.79832199546485
+    },
+    {
+      "lesson_id": "B2-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--normal.mp3",
+      "slow_file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-FINAL--2026.10.22.1--text--s24",
+      "asset_id": "B2-FINAL--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 24,
+      "paragraph_index": 4,
+      "sentence_index": 2,
+      "text": "Zkušební provoz se může upravit, ale nemáte oprávnění za město ani spolek uzavírat smlouvy.",
+      "start": 179.3752380952381,
+      "end": 187.5138321995465,
+      "slow_start": 202.97832199546485,
+      "slow_end": 212.11537414965986
+    },
+    {
+      "lesson_id": "B2-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--normal.mp3",
+      "slow_file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-FINAL--2026.10.22.1--text--s25",
+      "asset_id": "B2-FINAL--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 25,
+      "paragraph_index": 4,
+      "sentence_index": 3,
+      "text": "V doporučení proto navrhujte podmínky a potřebná potvrzení.",
+      "start": 187.69383219954648,
+      "end": 192.72095238095238,
+      "slow_start": 212.29537414965986,
+      "slow_end": 217.94943310657595
+    },
+    {
+      "lesson_id": "B2-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--normal.mp3",
+      "slow_file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-FINAL--2026.10.22.1--text--s26",
+      "asset_id": "B2-FINAL--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 26,
+      "paragraph_index": 4,
+      "sentence_index": 4,
+      "text": "Představte nejméně jednu alternativu a uveďte, jaké nové zjištění by vedlo ke změně Vašeho stanoviska.",
+      "start": 192.9009523809524,
+      "end": 201.3994557823129,
+      "slow_start": 218.12943310657596,
+      "slow_end": 227.57995464852607
+    },
+    {
+      "lesson_id": "B2-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--normal.mp3",
+      "slow_file": "audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-FINAL--2026.10.22.1--text--s27",
+      "asset_id": "B2-FINAL--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 27,
+      "paragraph_index": 4,
+      "sentence_index": 5,
+      "text": "Veškeré částky, termíny a pravomoci, které materiály neobsahují, ponechte jako otázky k ověření.",
+      "start": 201.57945578231292,
+      "end": 210.2288888888889,
+      "slow_start": 227.75995464852608,
+      "slow_end": 237.41945578231292
+    },
+    {
+      "lesson_id": "B2-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-FINAL--2026.10.22.1--exercises--b4010bb7a9--normal.mp3",
+      "slow_file": "audio/files/B2-FINAL--2026.10.22.1--exercises--b4010bb7a9--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-FINAL--2026.10.22.1--exercises",
+      "role": "exercises-full",
+      "index": 0,
+      "text": "Po dohodě se venkovní část ukončí už v půl osmé. Vnitřní program může pokračovat do devíti, pokud bude přítomen určený koordinátor. Kdo tuto roli převezme, zatím potvrzeno není. Cena pokrývá dohled v předem dohodnutém večerním čase. Mimořádný úklid ani prodloužení služby bez předchozí dohody v ní zahrnuty nejsou.",
+      "duration_seconds": 29.147074829931974,
+      "slow_duration_seconds": 32.56040816326531,
+      "sha256": "4aa0fa257868ac277458bb66db4218f80ced233e0632da05d865b2c47b92876d",
+      "slow_sha256": "857ae1da0f800623ef024a08b2ff4a80477da475620eee226a62802c4ffe3d16"
+    },
+    {
+      "lesson_id": "B2-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-FINAL--2026.10.22.1--exercises--b4010bb7a9--normal.mp3",
+      "slow_file": "audio/files/B2-FINAL--2026.10.22.1--exercises--b4010bb7a9--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-FINAL--2026.10.22.1--exercises--p0",
+      "asset_id": "B2-FINAL--2026.10.22.1--exercises",
+      "role": "exercise",
+      "index": 0,
+      "exercise_id": "B2-FINAL-E03",
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Po dohodě se venkovní část ukončí už v půl osmé. Vnitřní program může pokračovat do devíti, pokud bude přítomen určený koordinátor. Kdo tuto roli převezme, zatím potvrzeno není.",
+      "start": 0,
+      "end": 16.41659863945578,
+      "slow_start": 0,
+      "slow_end": 18.285804988662132
+    },
+    {
+      "lesson_id": "B2-FINAL",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-FINAL--2026.10.22.1--exercises--b4010bb7a9--normal.mp3",
+      "slow_file": "audio/files/B2-FINAL--2026.10.22.1--exercises--b4010bb7a9--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-FINAL--2026.10.22.1--exercises--p1",
+      "asset_id": "B2-FINAL--2026.10.22.1--exercises",
+      "role": "exercise",
+      "index": 1,
+      "exercise_id": "B2-FINAL-E09",
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Cena pokrývá dohled v předem dohodnutém večerním čase. Mimořádný úklid ani prodloužení služby bez předchozí dohody v ní zahrnuty nejsou.",
+      "start": 16.59659863945578,
+      "end": 28.967074829931974,
+      "slow_start": 18.465804988662132,
+      "slow_end": 32.38040816326531
+    }
+  ]
+}

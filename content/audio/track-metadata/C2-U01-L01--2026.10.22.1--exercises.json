@@ -1,0 +1,68 @@
+{
+  "id": "C2-U01-L01--2026.10.22.1--exercises",
+  "lesson_id": "C2-U01-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C2",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Vyřadíme je z programu, nevyhodíme je. Jsou půjčené.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "C2-U01-L01-E06",
+      "parts": [
+        "Vyřadíme je z programu, nevyhodíme je.",
+        "Jsou půjčené."
+      ]
+    }
+  ],
+  "text_sha256": "149ec3bddaf871fe4a6e7b967a0668ce2aa44a398373ca53ebc57d5484e566d8",
+  "source_file": "content/lessons/C2/C2-U01-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U01-L01--2026.10.22.1--exercises--149ec3bdda--normal.mp3",
+  "slow_file": "content/audio/files/C2-U01-L01--2026.10.22.1--exercises--149ec3bdda--slow.mp3",
+  "duration_seconds": 5.247800453514739,
+  "slow_duration_seconds": 5.700589569160997,
+  "cues": [
+    {
+      "text": "Vyřadíme je z programu, nevyhodíme je. Jsou půjčené.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "C2-U01-L01-E06",
+      "parts": [
+        "Vyřadíme je z programu, nevyhodíme je.",
+        "Jsou půjčené."
+      ],
+      "start": 0.0,
+      "end": 5.06780045351474,
+      "sentences": [
+        {
+          "text": "Vyřadíme je z programu, nevyhodíme je.",
+          "start": 0.0,
+          "end": 3.4249433106575964,
+          "slow_start": 0.0,
+          "slow_end": 3.7268027210884354
+        },
+        {
+          "text": "Jsou půjčené.",
+          "start": 3.6049433106575965,
+          "end": 5.06780045351474,
+          "slow_start": 3.9068027210884355,
+          "slow_end": 5.520589569160998
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 5.520589569160998
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "05708fcead17304c18a66223bb6eaf8120d772ac09d73ce87a978852b9dfdd37",
+    "slow": "b0f30e63171f811f8ceba36f896e0d6bf3750e8174e8c1db98848c917eb10bee"
+  }
+}

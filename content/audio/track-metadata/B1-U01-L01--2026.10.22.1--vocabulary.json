@@ -1,0 +1,173 @@
+{
+  "id": "B1-U01-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "B1-U01-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Kvůli výluce jedeme jinudy.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Kvůli výluce jedeme jinudy."
+      ]
+    },
+    {
+      "text": "Počítač vyzvednu zítra.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Počítač vyzvednu zítra."
+      ]
+    },
+    {
+      "text": "Schůzku jsme stihli.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Schůzku jsme stihli."
+      ]
+    },
+    {
+      "text": "Zálohování chrání důležitá data.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Zálohování chrání důležitá data."
+      ]
+    },
+    {
+      "text": "Čekáme na náhradní díl.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Čekáme na náhradní díl."
+      ]
+    }
+  ],
+  "text_sha256": "d404d8a29b79ab7f49f3c573e6eb05a6755609fc6b2b986f7177f137a06c7536",
+  "source_file": "content/lessons/B1/B1-U01-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U01-L01--2026.10.22.1--vocabulary--d404d8a29b--normal.mp3",
+  "slow_file": "content/audio/files/B1-U01-L01--2026.10.22.1--vocabulary--d404d8a29b--slow.mp3",
+  "duration_seconds": 12.544807256235828,
+  "slow_duration_seconds": 14.19342403628118,
+  "cues": [
+    {
+      "text": "Kvůli výluce jedeme jinudy.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Kvůli výluce jedeme jinudy."
+      ],
+      "start": 0.0,
+      "end": 2.414875283446712,
+      "sentences": [
+        {
+          "text": "Kvůli výluce jedeme jinudy.",
+          "start": 0.0,
+          "end": 2.414875283446712,
+          "slow_start": 0.0,
+          "slow_end": 2.7399546485260773
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.7399546485260773
+    },
+    {
+      "text": "Počítač vyzvednu zítra.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Počítač vyzvednu zítra."
+      ],
+      "start": 2.594875283446712,
+      "end": 4.823990929705215,
+      "sentences": [
+        {
+          "text": "Počítač vyzvednu zítra.",
+          "start": 2.594875283446712,
+          "end": 4.823990929705215,
+          "slow_start": 2.919954648526077,
+          "slow_end": 5.497369614512472
+        }
+      ],
+      "slow_start": 2.919954648526077,
+      "slow_end": 5.497369614512472
+    },
+    {
+      "text": "Schůzku jsme stihli.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Schůzku jsme stihli."
+      ],
+      "start": 5.003990929705216,
+      "end": 6.675827664399093,
+      "sentences": [
+        {
+          "text": "Schůzku jsme stihli.",
+          "start": 5.003990929705216,
+          "end": 6.675827664399093,
+          "slow_start": 5.677369614512472,
+          "slow_end": 7.593015873015873
+        }
+      ],
+      "slow_start": 5.677369614512472,
+      "slow_end": 7.593015873015873
+    },
+    {
+      "text": "Zálohování chrání důležitá data.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Zálohování chrání důležitá data."
+      ],
+      "start": 6.855827664399093,
+      "end": 10.002131519274377,
+      "sentences": [
+        {
+          "text": "Zálohování chrání důležitá data.",
+          "start": 6.855827664399093,
+          "end": 10.002131519274377,
+          "slow_start": 7.773015873015873,
+          "slow_end": 11.267619047619048
+        }
+      ],
+      "slow_start": 7.773015873015873,
+      "slow_end": 11.267619047619048
+    },
+    {
+      "text": "Čekáme na náhradní díl.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Čekáme na náhradní díl."
+      ],
+      "start": 10.182131519274376,
+      "end": 12.364807256235828,
+      "sentences": [
+        {
+          "text": "Čekáme na náhradní díl.",
+          "start": 10.182131519274376,
+          "end": 12.364807256235828,
+          "slow_start": 11.447619047619048,
+          "slow_end": 14.01342403628118
+        }
+      ],
+      "slow_start": 11.447619047619048,
+      "slow_end": 14.01342403628118
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "42b76fe4ba5c454c33f92855b553584788696299edb8bb6e67af90eef2651abc",
+    "slow": "c0c6fe59c6c5e6a0ba8fbabd242f432f22669b2da4db1e9ea46599da5caa3a4e"
+  }
+}

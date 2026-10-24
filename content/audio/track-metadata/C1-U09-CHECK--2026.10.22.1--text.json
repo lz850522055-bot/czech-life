@@ -1,0 +1,75 @@
+{
+  "id": "C1-U09-CHECK--2026.10.22.1--text",
+  "lesson_id": "C1-U09-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Nová kolegyně slyší po dlouhé poradě větu: Tak jsme zase objevili Ameriku. Neví, zda ostatní mluví o cestování. Mluvčí vzápětí dodává, že závěr byl známý už před týdnem.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Nová kolegyně slyší po dlouhé poradě větu: Tak jsme zase objevili Ameriku.",
+        "Neví, zda ostatní mluví o cestování.",
+        "Mluvčí vzápětí dodává, že závěr byl známý už před týdnem."
+      ]
+    }
+  ],
+  "text_sha256": "8e2df422e975636b4200919b44019d147a3a9fdf55fa5c469c28c1fe9be20d76",
+  "source_file": "content/assessments/C1-U09.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U09-CHECK--2026.10.22.1--text--8e2df422e9--normal.mp3",
+  "slow_file": "content/audio/files/C1-U09-CHECK--2026.10.22.1--text--8e2df422e9--slow.mp3",
+  "duration_seconds": 15.853560090702947,
+  "slow_duration_seconds": 18.129115646258505,
+  "cues": [
+    {
+      "text": "Nová kolegyně slyší po dlouhé poradě větu: Tak jsme zase objevili Ameriku. Neví, zda ostatní mluví o cestování. Mluvčí vzápětí dodává, že závěr byl známý už před týdnem.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Nová kolegyně slyší po dlouhé poradě větu: Tak jsme zase objevili Ameriku.",
+        "Neví, zda ostatní mluví o cestování.",
+        "Mluvčí vzápětí dodává, že závěr byl známý už před týdnem."
+      ],
+      "start": 0.0,
+      "end": 15.673560090702948,
+      "sentences": [
+        {
+          "text": "Nová kolegyně slyší po dlouhé poradě větu: Tak jsme zase objevili Ameriku.",
+          "start": 0.0,
+          "end": 6.466757369614513,
+          "slow_start": 0.0,
+          "slow_end": 7.430385487528345
+        },
+        {
+          "text": "Neví, zda ostatní mluví o cestování.",
+          "start": 6.646757369614512,
+          "end": 10.025260770975057,
+          "slow_start": 7.610385487528345,
+          "slow_end": 11.476507936507936
+        },
+        {
+          "text": "Mluvčí vzápětí dodává, že závěr byl známý už před týdnem.",
+          "start": 10.205260770975057,
+          "end": 15.673560090702948,
+          "slow_start": 11.656507936507937,
+          "slow_end": 17.9491156462585
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 17.9491156462585
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "fb1bf6b60cfa06d2b9a79abee4754b4ae07a4ea108fff037179b54e43b5d5e1b",
+    "slow": "7df34a1cbe630ee41b6b362eed2ec3ff5bcd9d1926c125cafb10e5b431de3dec"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "C1-U04-L01--2026.10.22.1--listening",
+  "lesson_id": "C1-U04-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Když říkáme úplný záznam, nemyslíme tím, že známe každé datum. Myslíme tím, že u každého údaje uvedeme, odkud pochází, případně že je zatím neznámý. Úplnost postupu se tedy liší od úplnosti našich znalostí.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Když říkáme úplný záznam, nemyslíme tím, že známe každé datum.",
+        "Myslíme tím, že u každého údaje uvedeme, odkud pochází, případně že je zatím neznámý.",
+        "Úplnost postupu se tedy liší od úplnosti našich znalostí."
+      ]
+    }
+  ],
+  "text_sha256": "72ca2b0ac2d3a852d0d4bac8e2aca07e36973d2f255cfa89cfb469c01a2c0945",
+  "source_file": "content/lessons/C1/C1-U04-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U04-L01--2026.10.22.1--listening--72ca2b0ac2--normal.mp3",
+  "slow_file": "content/audio/files/C1-U04-L01--2026.10.22.1--listening--72ca2b0ac2--slow.mp3",
+  "duration_seconds": 19.371383219954648,
+  "slow_duration_seconds": 21.832698412698413,
+  "cues": [
+    {
+      "text": "Když říkáme úplný záznam, nemyslíme tím, že známe každé datum. Myslíme tím, že u každého údaje uvedeme, odkud pochází, případně že je zatím neznámý. Úplnost postupu se tedy liší od úplnosti našich znalostí.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Když říkáme úplný záznam, nemyslíme tím, že známe každé datum.",
+        "Myslíme tím, že u každého údaje uvedeme, odkud pochází, případně že je zatím neznámý.",
+        "Úplnost postupu se tedy liší od úplnosti našich znalostí."
+      ],
+      "start": 0.0,
+      "end": 19.19138321995465,
+      "sentences": [
+        {
+          "text": "Když říkáme úplný záznam, nemyslíme tím, že známe každé datum.",
+          "start": 0.0,
+          "end": 6.257777777777778,
+          "slow_start": 0.0,
+          "slow_end": 7.082086167800454
+        },
+        {
+          "text": "Myslíme tím, že u každého údaje uvedeme, odkud pochází, případně že je zatím neznámý.",
+          "start": 6.437777777777778,
+          "end": 14.053922902494332,
+          "slow_start": 7.262086167800454,
+          "slow_end": 15.88829931972789
+        },
+        {
+          "text": "Úplnost postupu se tedy liší od úplnosti našich znalostí.",
+          "start": 14.233922902494331,
+          "end": 19.19138321995465,
+          "slow_start": 16.068299319727892,
+          "slow_end": 21.652698412698413
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 21.652698412698413
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "c6d532b94704f27c81564150e28cdf2ffceb08b98f4c9410dcfe33c47659e7be",
+    "slow": "3c1c8f30404bbd2ac338919e280b1ea5f64a46f73dcb23c15a0e9e3aebf228f9"
+  }
+}

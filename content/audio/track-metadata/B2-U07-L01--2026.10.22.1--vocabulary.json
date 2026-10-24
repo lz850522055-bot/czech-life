@@ -1,0 +1,144 @@
+{
+  "id": "B2-U07-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "B2-U07-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B2",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Obec obdržela čtyřicet podnětů.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Obec obdržela čtyřicet podnětů."
+      ]
+    },
+    {
+      "text": "Výběr respondentů není popsán.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Výběr respondentů není popsán."
+      ]
+    },
+    {
+      "text": "Potřebujeme srovnatelná data.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Potřebujeme srovnatelná data."
+      ]
+    },
+    {
+      "text": "Studie tuto příčinu neprokázala.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Studie tuto příčinu neprokázala."
+      ]
+    }
+  ],
+  "text_sha256": "61e108682a861228fa197e373bcd4677a75c7f34d269772662db1b991a7dfec0",
+  "source_file": "content/lessons/B2/B2-U07-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U07-L01--2026.10.22.1--vocabulary--61e108682a--normal.mp3",
+  "slow_file": "content/audio/files/B2-U07-L01--2026.10.22.1--vocabulary--61e108682a--slow.mp3",
+  "duration_seconds": 12.422857142857143,
+  "slow_duration_seconds": 14.21079365079365,
+  "cues": [
+    {
+      "text": "Obec obdržela čtyřicet podnětů.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Obec obdržela čtyřicet podnětů."
+      ],
+      "start": 0.0,
+      "end": 3.006984126984127,
+      "sentences": [
+        {
+          "text": "Obec obdržela čtyřicet podnětů.",
+          "start": 0.0,
+          "end": 3.006984126984127,
+          "slow_start": 0.0,
+          "slow_end": 3.4946031746031747
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 3.4946031746031747
+    },
+    {
+      "text": "Výběr respondentů není popsán.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Výběr respondentů není popsán."
+      ],
+      "start": 3.186984126984127,
+      "end": 6.48421768707483,
+      "sentences": [
+        {
+          "text": "Výběr respondentů není popsán.",
+          "start": 3.186984126984127,
+          "end": 6.48421768707483,
+          "slow_start": 3.6746031746031744,
+          "slow_end": 7.447845804988662
+        }
+      ],
+      "slow_start": 3.6746031746031744,
+      "slow_end": 7.447845804988662
+    },
+    {
+      "text": "Potřebujeme srovnatelná data.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Potřebujeme srovnatelná data."
+      ],
+      "start": 6.66421768707483,
+      "end": 9.206802721088435,
+      "sentences": [
+        {
+          "text": "Potřebujeme srovnatelná data.",
+          "start": 6.66421768707483,
+          "end": 9.206802721088435,
+          "slow_start": 7.627845804988662,
+          "slow_end": 10.576780045351473
+        }
+      ],
+      "slow_start": 7.627845804988662,
+      "slow_end": 10.576780045351473
+    },
+    {
+      "text": "Studie tuto příčinu neprokázala.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Studie tuto příčinu neprokázala."
+      ],
+      "start": 9.386802721088435,
+      "end": 12.242857142857142,
+      "sentences": [
+        {
+          "text": "Studie tuto příčinu neprokázala.",
+          "start": 9.386802721088435,
+          "end": 12.242857142857142,
+          "slow_start": 10.756780045351475,
+          "slow_end": 14.030793650793651
+        }
+      ],
+      "slow_start": 10.756780045351475,
+      "slow_end": 14.030793650793651
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "2c5eb3d5533e8c8f5417e16116ea2476529b267f05e9a2426a745666e7c8c380",
+    "slow": "0c33215d0efb2901194a0224b195dc34279d8b6883f8e42e43575c4d05e2a3c5"
+  }
+}

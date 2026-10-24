@@ -1,0 +1,76 @@
+{
+  "id": "A1-U08-L01--2026.10.23.1--listening",
+  "lesson_id": "A1-U08-L01",
+  "content_version": "2026.10.23.1",
+  "level": "A1",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Salát je bez masa. Omáčka ale obsahuje jogurt. Pokud chcete salát bez omáčky, řekněte nám to.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Salát je bez masa.",
+        "Omáčka ale obsahuje jogurt.",
+        "Pokud chcete salát bez omáčky, řekněte nám to."
+      ]
+    }
+  ],
+  "text_sha256": "4ffda36611b04066b5b0b4e612b6d7a84c6181fb5abf782917084d9136583973",
+  "source_file": "content/lessons/A1/A1-U08-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U08-L01--2026.10.22.1--listening--4ffda36611--normal.mp3",
+  "slow_file": "content/audio/files/A1-U08-L01--2026.10.22.1--listening--4ffda36611--slow.mp3",
+  "duration_seconds": 8.992063492063492,
+  "slow_duration_seconds": 10.095011337868481,
+  "cues": [
+    {
+      "text": "Salát je bez masa. Omáčka ale obsahuje jogurt. Pokud chcete salát bez omáčky, řekněte nám to.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Salát je bez masa.",
+        "Omáčka ale obsahuje jogurt.",
+        "Pokud chcete salát bez omáčky, řekněte nám to."
+      ],
+      "start": 0.0,
+      "end": 8.812063492063492,
+      "sentences": [
+        {
+          "text": "Salát je bez masa.",
+          "start": 0.0,
+          "end": 1.6950566893424037,
+          "slow_start": 0.0,
+          "slow_end": 1.9853061224489796
+        },
+        {
+          "text": "Omáčka ale obsahuje jogurt.",
+          "start": 1.8750566893424037,
+          "end": 4.336371882086167,
+          "slow_start": 2.1653061224489796,
+          "slow_end": 4.928480725623583
+        },
+        {
+          "text": "Pokud chcete salát bez omáčky, řekněte nám to.",
+          "start": 4.516371882086168,
+          "end": 8.812063492063492,
+          "slow_start": 5.108480725623583,
+          "slow_end": 9.915011337868481
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 9.915011337868481
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "d3950063240d8d3b86e65de14081b5b011911180f63c566c3c646e019a3b3134",
+    "slow": "80890fce26e182566e9f3f2c23741d253dca90b81981c50b41fcd51a84245e6a"
+  },
+  "reused_from_track_id": "A1-U08-L01--2026.10.22.1--listening"
+}

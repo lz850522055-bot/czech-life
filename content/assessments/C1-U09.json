@@ -1,0 +1,221 @@
+{
+  "id": "C1-U09-CHECK",
+  "kind": "unit",
+  "level": "C1",
+  "unit_id": "C1-U09",
+  "title_zh": "理解典故而不把人装进刻板印象：新情境检验",
+  "version": "2026.10.22.1",
+  "unseen_text": [
+    {
+      "cs": "Nová kolegyně slyší po dlouhé poradě větu: Tak jsme zase objevili Ameriku. Neví, zda ostatní mluví o cestování. Mluvčí vzápětí dodává, že závěr byl známý už před týdnem.",
+      "zh": "新同事听到“又发现美洲了”，补充语境说明结论一周前就知道，并非谈旅行。"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "后文最支持哪种理解？",
+      "stimulus_cs": "",
+      "answer": "b",
+      "explanation_zh": "解释依赖补充语境。",
+      "skill_ids": [
+        "reading"
+      ],
+      "knowledge_points": [
+        "c1-idiom-function",
+        "c1-cultural-attribution"
+      ],
+      "error_category": "comprehension",
+      "options": [
+        {
+          "id": "a",
+          "text": "宣布旅行"
+        },
+        {
+          "id": "b",
+          "text": "讽刺花时间得出已知结论"
+        },
+        {
+          "id": "c",
+          "text": "赞扬地理发现"
+        }
+      ],
+      "scoring_basis": "封闭题以答案核对；解析说明本题边界。",
+      "id": "C1-U09-CHECK-E01"
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "既回应不满又带回行动。",
+      "stimulus_cs": "",
+      "answer": "Rozumím, že se závěr opakuje. Co teď potřebujeme rozhodnout, abychom se příště nevraceli ke stejné otázce?",
+      "explanation_zh": "不跟着嘲笑个人，追问下一步。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "knowledge_points": [
+        "c1-idiom-function",
+        "c1-cultural-attribution"
+      ],
+      "error_category": "comprehension",
+      "rubric": [
+        "回应具体任务，信息不失真",
+        "逻辑有衔接，能说明证据与限制",
+        "语法与搭配基本准确，语域适合对象",
+        "能自主组织语言而非照读范文"
+      ],
+      "scoring_basis": "开放表达：示范不是唯一答案；依量规自评或人工评阅，未接受人工评阅时不自动判定能力达标。",
+      "id": "C1-U09-CHECK-E02"
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "向新人解释，不冒称知道短语历史起源。",
+      "stimulus_cs": "",
+      "answer": "Tady jde o ironickou poznámku: tým se podle mluvčího dlouho zabýval něčím, co už věděl. O doslovné objevení nejde.",
+      "explanation_zh": "仅说明当前功能。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "knowledge_points": [
+        "c1-idiom-function",
+        "c1-cultural-attribution"
+      ],
+      "error_category": "comprehension",
+      "rubric": [
+        "回应具体任务，信息不失真",
+        "逻辑有衔接，能说明证据与限制",
+        "语法与搭配基本准确，语域适合对象",
+        "能自主组织语言而非照读范文"
+      ],
+      "scoring_basis": "开放表达：示范不是唯一答案；依量规自评或人工评阅，未接受人工评阅时不自动判定能力达标。",
+      "id": "C1-U09-CHECK-E03"
+    }
+  ],
+  "rubric": [
+    "理解未见材料中的主张及限定",
+    "主动表达时准确转述不同立场",
+    "区分事实、推断与建议",
+    "能针对误解调整解释方式"
+  ],
+  "remediation": [
+    {
+      "condition_zh": "误把可能性说成事实，或遗漏反方条件",
+      "lesson_ids": [
+        "C1-U09-L01"
+      ],
+      "action_zh": "重做信息定位与转述，标出每个判断的来源和语气词。"
+    },
+    {
+      "condition_zh": "表达卡住或只有单句结论",
+      "lesson_ids": [
+        "C1-U09-L01"
+      ],
+      "action_zh": "先列论点—依据—限制—行动四点，再换对象重录一次。"
+    }
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "C1-U09-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U09-CHECK--2026.10.22.1--text--8e2df422e9--normal.mp3",
+      "slow_file": "audio/files/C1-U09-CHECK--2026.10.22.1--text--8e2df422e9--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U09-CHECK--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Nová kolegyně slyší po dlouhé poradě větu: Tak jsme zase objevili Ameriku. Neví, zda ostatní mluví o cestování. Mluvčí vzápětí dodává, že závěr byl známý už před týdnem.",
+      "duration_seconds": 15.853560090702947,
+      "slow_duration_seconds": 18.129115646258505,
+      "sha256": "fb1bf6b60cfa06d2b9a79abee4754b4ae07a4ea108fff037179b54e43b5d5e1b",
+      "slow_sha256": "7df34a1cbe630ee41b6b362eed2ec3ff5bcd9d1926c125cafb10e5b431de3dec"
+    },
+    {
+      "lesson_id": "C1-U09-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U09-CHECK--2026.10.22.1--text--8e2df422e9--normal.mp3",
+      "slow_file": "audio/files/C1-U09-CHECK--2026.10.22.1--text--8e2df422e9--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U09-CHECK--2026.10.22.1--text--p0",
+      "asset_id": "C1-U09-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Nová kolegyně slyší po dlouhé poradě větu: Tak jsme zase objevili Ameriku. Neví, zda ostatní mluví o cestování. Mluvčí vzápětí dodává, že závěr byl známý už před týdnem.",
+      "start": 0,
+      "end": 15.673560090702948,
+      "slow_start": 0,
+      "slow_end": 17.9491156462585
+    },
+    {
+      "lesson_id": "C1-U09-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U09-CHECK--2026.10.22.1--text--8e2df422e9--normal.mp3",
+      "slow_file": "audio/files/C1-U09-CHECK--2026.10.22.1--text--8e2df422e9--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U09-CHECK--2026.10.22.1--text--s0",
+      "asset_id": "C1-U09-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Nová kolegyně slyší po dlouhé poradě větu: Tak jsme zase objevili Ameriku.",
+      "start": 0,
+      "end": 6.466757369614513,
+      "slow_start": 0,
+      "slow_end": 7.430385487528345
+    },
+    {
+      "lesson_id": "C1-U09-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U09-CHECK--2026.10.22.1--text--8e2df422e9--normal.mp3",
+      "slow_file": "audio/files/C1-U09-CHECK--2026.10.22.1--text--8e2df422e9--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U09-CHECK--2026.10.22.1--text--s1",
+      "asset_id": "C1-U09-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Neví, zda ostatní mluví o cestování.",
+      "start": 6.646757369614512,
+      "end": 10.025260770975057,
+      "slow_start": 7.610385487528345,
+      "slow_end": 11.476507936507936
+    },
+    {
+      "lesson_id": "C1-U09-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U09-CHECK--2026.10.22.1--text--8e2df422e9--normal.mp3",
+      "slow_file": "audio/files/C1-U09-CHECK--2026.10.22.1--text--8e2df422e9--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U09-CHECK--2026.10.22.1--text--s2",
+      "asset_id": "C1-U09-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Mluvčí vzápětí dodává, že závěr byl známý už před týdnem.",
+      "start": 10.205260770975057,
+      "end": 15.673560090702948,
+      "slow_start": 11.656507936507937,
+      "slow_end": 17.9491156462585
+    }
+  ]
+}

@@ -1,0 +1,319 @@
+{
+  "id": "A2-FINAL--2026.10.22.1--text",
+  "lesson_id": "A2-FINAL",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Minulý týden jsme se dohodli, že v neděli uspořádáme výměnu knih. Původně jsme chtěli být venku, ale podle nové zprávy bude celý den pršet. Komunitní centrum nám nabídlo malý sál od čtrnácti do osmnácti hodin.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Minulý týden jsme se dohodli, že v neděli uspořádáme výměnu knih.",
+        "Původně jsme chtěli být venku, ale podle nové zprávy bude celý den pršet.",
+        "Komunitní centrum nám nabídlo malý sál od čtrnácti do osmnácti hodin."
+      ]
+    },
+    {
+      "text": "Sál má dvanáct židlí. Přihlásilo se šestnáct lidí, z toho čtyři děti. Jana může přinést dvě židle a Petr další dvě. Ještě ale nepotvrdili, kdy je přivezou.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Sál má dvanáct židlí.",
+        "Přihlásilo se šestnáct lidí, z toho čtyři děti.",
+        "Jana může přinést dvě židle a Petr další dvě.",
+        "Ještě ale nepotvrdili, kdy je přivezou."
+      ]
+    },
+    {
+      "text": "Vstup je zdarma. Nápoje jsme objednali zvlášť: tři balení vody, v každém jsou čtyři lahve o objemu půl litru. Dodavatel potvrdil sobotní doručení.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Vstup je zdarma.",
+        "Nápoje jsme objednali zvlášť: tři balení vody, v každém jsou čtyři lahve o objemu půl litru.",
+        "Dodavatel potvrdil sobotní doručení."
+      ]
+    },
+    {
+      "text": "Dnes přišla faktura za čtyři balení. Napsali jsme dodavateli, že objednávka byla na tři, a požádali jsme o opravu. Zatím nemáme odpověď.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Dnes přišla faktura za čtyři balení.",
+        "Napsali jsme dodavateli, že objednávka byla na tři, a požádali jsme o opravu.",
+        "Zatím nemáme odpověď."
+      ]
+    },
+    {
+      "text": "Vchod do sálu je z boční ulice. Hlavní dveře budou zavřené kvůli opravě. Prosíme všechny, aby přišli nejpozději deset minut před začátkem a vzali si vlastní tašku na knihy.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Vchod do sálu je z boční ulice.",
+        "Hlavní dveře budou zavřené kvůli opravě.",
+        "Prosíme všechny, aby přišli nejpozději deset minut před začátkem a vzali si vlastní tašku na knihy."
+      ]
+    },
+    {
+      "text": "Po akci musíme uklidit a vrátit klíče správci. Pokud zůstane voda, necháme ji na další setkání. Počet skutečných návštěvníků a případné problémy zapíšeme až po skončení, ne předem.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Po akci musíme uklidit a vrátit klíče správci.",
+        "Pokud zůstane voda, necháme ji na další setkání.",
+        "Počet skutečných návštěvníků a případné problémy zapíšeme až po skončení, ne předem."
+      ]
+    }
+  ],
+  "text_sha256": "7b6e32c821aeb03e57efe36783805e73d38a9f4b8f2005498076b335bbc5baa8",
+  "source_file": "content/assessments/A2-FINAL.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-FINAL--2026.10.22.1--text--7b6e32c821--normal.mp3",
+  "slow_file": "content/audio/files/A2-FINAL--2026.10.22.1--text--7b6e32c821--slow.mp3",
+  "duration_seconds": 91.6558276643991,
+  "slow_duration_seconds": 102.34861678004535,
+  "cues": [
+    {
+      "text": "Minulý týden jsme se dohodli, že v neděli uspořádáme výměnu knih. Původně jsme chtěli být venku, ale podle nové zprávy bude celý den pršet. Komunitní centrum nám nabídlo malý sál od čtrnácti do osmnácti hodin.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Minulý týden jsme se dohodli, že v neděli uspořádáme výměnu knih.",
+        "Původně jsme chtěli být venku, ale podle nové zprávy bude celý den pršet.",
+        "Komunitní centrum nám nabídlo malý sál od čtrnácti do osmnácti hodin."
+      ],
+      "start": 0.0,
+      "end": 19.60934240362812,
+      "sentences": [
+        {
+          "text": "Minulý týden jsme se dohodli, že v neděli uspořádáme výměnu knih.",
+          "start": 0.0,
+          "end": 6.095238095238095,
+          "slow_start": 0.0,
+          "slow_end": 6.710566893424036
+        },
+        {
+          "text": "Původně jsme chtěli být venku, ale podle nové zprávy bude celý den pršet.",
+          "start": 6.2752380952380955,
+          "end": 12.765215419501134,
+          "slow_start": 6.890566893424037,
+          "slow_end": 14.042312925170068
+        },
+        {
+          "text": "Komunitní centrum nám nabídlo malý sál od čtrnácti do osmnácti hodin.",
+          "start": 12.945215419501134,
+          "end": 19.60934240362812,
+          "slow_start": 14.222312925170067,
+          "slow_end": 21.675918367346938
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 21.675918367346938
+    },
+    {
+      "text": "Sál má dvanáct židlí. Přihlásilo se šestnáct lidí, z toho čtyři děti. Jana může přinést dvě židle a Petr další dvě. Ještě ale nepotvrdili, kdy je přivezou.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Sál má dvanáct židlí.",
+        "Přihlásilo se šestnáct lidí, z toho čtyři děti.",
+        "Jana může přinést dvě židle a Petr další dvě.",
+        "Ještě ale nepotvrdili, kdy je přivezou."
+      ],
+      "start": 19.78934240362812,
+      "end": 34.087165532879816,
+      "sentences": [
+        {
+          "text": "Sál má dvanáct židlí.",
+          "start": 19.78934240362812,
+          "end": 22.099727891156462,
+          "slow_start": 21.855918367346938,
+          "slow_end": 24.352063492063493
+        },
+        {
+          "text": "Přihlásilo se šestnáct lidí, z toho čtyři děti.",
+          "start": 22.279727891156462,
+          "end": 26.540589569160996,
+          "slow_start": 24.532063492063493,
+          "slow_end": 29.176054421768708
+        },
+        {
+          "text": "Jana může přinést dvě židle a Petr další dvě.",
+          "start": 26.720589569160996,
+          "end": 30.73764172335601,
+          "slow_start": 29.356054421768707,
+          "slow_end": 33.9768253968254
+        },
+        {
+          "text": "Ještě ale nepotvrdili, kdy je přivezou.",
+          "start": 30.91764172335601,
+          "end": 34.087165532879816,
+          "slow_start": 34.1568253968254,
+          "slow_end": 37.755918367346936
+        }
+      ],
+      "slow_start": 21.855918367346938,
+      "slow_end": 37.755918367346936
+    },
+    {
+      "text": "Vstup je zdarma. Nápoje jsme objednali zvlášť: tři balení vody, v každém jsou čtyři lahve o objemu půl litru. Dodavatel potvrdil sobotní doručení.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Vstup je zdarma.",
+        "Nápoje jsme objednali zvlášť: tři balení vody, v každém jsou čtyři lahve o objemu půl litru.",
+        "Dodavatel potvrdil sobotní doručení."
+      ],
+      "start": 34.267165532879815,
+      "end": 47.258820861678004,
+      "sentences": [
+        {
+          "text": "Vstup je zdarma.",
+          "start": 34.267165532879815,
+          "end": 35.64875283446712,
+          "slow_start": 37.935918367346936,
+          "slow_end": 39.526485260770976
+        },
+        {
+          "text": "Nápoje jsme objednali zvlášť: tři balení vody, v každém jsou čtyři lahve o objemu půl litru.",
+          "start": 35.82875283446712,
+          "end": 43.83963718820862,
+          "slow_start": 39.706485260770975,
+          "slow_end": 48.71582766439909
+        },
+        {
+          "text": "Dodavatel potvrdil sobotní doručení.",
+          "start": 44.01963718820862,
+          "end": 47.258820861678004,
+          "slow_start": 48.89582766439909,
+          "slow_end": 52.65746031746032
+        }
+      ],
+      "slow_start": 37.935918367346936,
+      "slow_end": 52.65746031746032
+    },
+    {
+      "text": "Dnes přišla faktura za čtyři balení. Napsali jsme dodavateli, že objednávka byla na tři, a požádali jsme o opravu. Zatím nemáme odpověď.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Dnes přišla faktura za čtyři balení.",
+        "Napsali jsme dodavateli, že objednávka byla na tři, a požádali jsme o opravu.",
+        "Zatím nemáme odpověď."
+      ],
+      "start": 47.438820861678,
+      "end": 59.37396825396825,
+      "sentences": [
+        {
+          "text": "Dnes přišla faktura za čtyři balení.",
+          "start": 47.438820861678,
+          "end": 50.59673469387755,
+          "slow_start": 52.83746031746032,
+          "slow_end": 56.366893424036284
+        },
+        {
+          "text": "Napsali jsme dodavateli, že objednávka byla na tři, a požádali jsme o opravu.",
+          "start": 50.77673469387755,
+          "end": 56.930022675736964,
+          "slow_start": 56.546893424036284,
+          "slow_end": 63.60575963718821
+        },
+        {
+          "text": "Zatím nemáme odpověď.",
+          "start": 57.110022675736964,
+          "end": 59.37396825396825,
+          "slow_start": 63.78575963718821,
+          "slow_end": 66.43283446712019
+        }
+      ],
+      "slow_start": 52.83746031746032,
+      "slow_end": 66.43283446712019
+    },
+    {
+      "text": "Vchod do sálu je z boční ulice. Hlavní dveře budou zavřené kvůli opravě. Prosíme všechny, aby přišli nejpozději deset minut před začátkem a vzali si vlastní tašku na knihy.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Vchod do sálu je z boční ulice.",
+        "Hlavní dveře budou zavřené kvůli opravě.",
+        "Prosíme všechny, aby přišli nejpozději deset minut před začátkem a vzali si vlastní tašku na knihy."
+      ],
+      "start": 59.55396825396826,
+      "end": 74.62380952380953,
+      "sentences": [
+        {
+          "text": "Vchod do sálu je z boční ulice.",
+          "start": 59.55396825396826,
+          "end": 62.30553287981859,
+          "slow_start": 66.61283446712018,
+          "slow_end": 69.7475283446712
+        },
+        {
+          "text": "Hlavní dveře budou zavřené kvůli opravě.",
+          "start": 62.48553287981859,
+          "end": 66.10784580498866,
+          "slow_start": 69.9275283446712,
+          "slow_end": 73.90975056689342
+        },
+        {
+          "text": "Prosíme všechny, aby přišli nejpozději deset minut před začátkem a vzali si vlastní tašku na knihy.",
+          "start": 66.28784580498866,
+          "end": 74.62380952380953,
+          "slow_start": 74.08975056689343,
+          "slow_end": 83.4590022675737
+        }
+      ],
+      "slow_start": 66.61283446712018,
+      "slow_end": 83.4590022675737
+    },
+    {
+      "text": "Po akci musíme uklidit a vrátit klíče správci. Pokud zůstane voda, necháme ji na další setkání. Počet skutečných návštěvníků a případné problémy zapíšeme až po skončení, ne předem.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Po akci musíme uklidit a vrátit klíče správci.",
+        "Pokud zůstane voda, necháme ji na další setkání.",
+        "Počet skutečných návštěvníků a případné problémy zapíšeme až po skončení, ne předem."
+      ],
+      "start": 74.80380952380952,
+      "end": 91.47582766439909,
+      "sentences": [
+        {
+          "text": "Po akci musíme uklidit a vrátit klíče správci.",
+          "start": 74.80380952380952,
+          "end": 79.30848072562358,
+          "slow_start": 83.6390022675737,
+          "slow_end": 88.72417233560091
+        },
+        {
+          "text": "Pokud zůstane voda, necháme ji na další setkání.",
+          "start": 79.48848072562359,
+          "end": 83.73773242630385,
+          "slow_start": 88.9041723356009,
+          "slow_end": 93.68748299319728
+        },
+        {
+          "text": "Počet skutečných návštěvníků a případné problémy zapíšeme až po skončení, ne předem.",
+          "start": 83.91773242630386,
+          "end": 91.47582766439909,
+          "slow_start": 93.86748299319729,
+          "slow_end": 102.16861678004535
+        }
+      ],
+      "slow_start": 83.6390022675737,
+      "slow_end": 102.16861678004535
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "dbda6d00282c087bbd8b91935a62fa5dd668094ef7f1dc19861abaf2d238de06",
+    "slow": "838ffdec9d1c78599577899583382196d216810ba4dbdc2f7188b969b2b2ffeb"
+  }
+}

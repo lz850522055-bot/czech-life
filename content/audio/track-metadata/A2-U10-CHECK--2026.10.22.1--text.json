@@ -1,0 +1,66 @@
+{
+  "id": "A2-U10-CHECK--2026.10.22.1--text",
+  "lesson_id": "A2-U10-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Zavolejte nám před příjezdem. Pokud budete potřebovat pomoc, někdo vás vyzvedne.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Zavolejte nám před příjezdem.",
+        "Pokud budete potřebovat pomoc, někdo vás vyzvedne."
+      ]
+    }
+  ],
+  "text_sha256": "99b274dd54768a17c2408a0720a4ae4d2b498b061c844318a6b2a5c33259a958",
+  "source_file": "content/assessments/A2-U10.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U10-CHECK--2026.10.22.1--text--99b274dd54--normal.mp3",
+  "slow_file": "content/audio/files/A2-U10-CHECK--2026.10.22.1--text--99b274dd54--slow.mp3",
+  "duration_seconds": 6.942857142857143,
+  "slow_duration_seconds": 7.720725623582767,
+  "cues": [
+    {
+      "text": "Zavolejte nám před příjezdem. Pokud budete potřebovat pomoc, někdo vás vyzvedne.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Zavolejte nám před příjezdem.",
+        "Pokud budete potřebovat pomoc, někdo vás vyzvedne."
+      ],
+      "start": 0.0,
+      "end": 6.7628571428571425,
+      "sentences": [
+        {
+          "text": "Zavolejte nám před příjezdem.",
+          "start": 0.0,
+          "end": 2.4729251700680273,
+          "slow_start": 0.0,
+          "slow_end": 2.786394557823129
+        },
+        {
+          "text": "Pokud budete potřebovat pomoc, někdo vás vyzvedne.",
+          "start": 2.6529251700680274,
+          "end": 6.7628571428571425,
+          "slow_start": 2.966394557823129,
+          "slow_end": 7.540725623582767
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 7.540725623582767
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "f623f85da19164a3cb1f7582a09f29b431e5f24f14992f750b79a1130a453443",
+    "slow": "98a16376cd9bef19ca530cffde6c37bfeb11923fb6c022ff3dd668353e860ec1"
+  }
+}

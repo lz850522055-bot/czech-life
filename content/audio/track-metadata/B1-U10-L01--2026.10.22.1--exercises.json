@@ -1,0 +1,68 @@
+{
+  "id": "B1-U10-L01--2026.10.22.1--exercises",
+  "lesson_id": "B1-U10-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Oprava má trvat tři měsíce. Knihy si můžete vyzvednout dvakrát týdně.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "B1-U10-L01-E03",
+      "parts": [
+        "Oprava má trvat tři měsíce.",
+        "Knihy si můžete vyzvednout dvakrát týdně."
+      ]
+    }
+  ],
+  "text_sha256": "d76b34e2aac19696645fbff5bd0e79d3635d76d0a3d00b79843f13a81fe82258",
+  "source_file": "content/lessons/B1/B1-U10-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U10-L01--2026.10.22.1--exercises--d76b34e2aa--normal.mp3",
+  "slow_file": "content/audio/files/B1-U10-L01--2026.10.22.1--exercises--d76b34e2aa--slow.mp3",
+  "duration_seconds": 6.304308390022676,
+  "slow_duration_seconds": 7.163446712018141,
+  "cues": [
+    {
+      "text": "Oprava má trvat tři měsíce. Knihy si můžete vyzvednout dvakrát týdně.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "B1-U10-L01-E03",
+      "parts": [
+        "Oprava má trvat tři měsíce.",
+        "Knihy si můžete vyzvednout dvakrát týdně."
+      ],
+      "start": 0.0,
+      "end": 6.124308390022676,
+      "sentences": [
+        {
+          "text": "Oprava má trvat tři měsíce.",
+          "start": 0.0,
+          "end": 2.5193650793650795,
+          "slow_start": 0.0,
+          "slow_end": 2.8676643990929707
+        },
+        {
+          "text": "Knihy si můžete vyzvednout dvakrát týdně.",
+          "start": 2.699365079365079,
+          "end": 6.124308390022676,
+          "slow_start": 3.0476643990929704,
+          "slow_end": 6.98344671201814
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 6.98344671201814
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "22485e0b7d37eb75ba6c9034de34c60df50d87781fc1c4d6c68ef2b8eb47c331",
+    "slow": "117d14101ada18e23a41c4b3878ac667f11a6d06f1dc7d13dcb36c20901268c5"
+  }
+}

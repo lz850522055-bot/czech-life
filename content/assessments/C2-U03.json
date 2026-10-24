@@ -1,0 +1,221 @@
+{
+  "id": "C2-U03-CHECK",
+  "kind": "unit",
+  "level": "C2",
+  "unit_id": "C2-U03",
+  "title_zh": "笑话的表面在赞美，实际在责备什么：新情境检验",
+  "version": "2026.10.22.1",
+  "unseen_text": [
+    {
+      "cs": "Vedoucí oznámil, že porady konečně zkrátí. Každému bodu proto přidělil krátké úvodní jednání o tom, jak jej projednat stručně. Sekretářka poznamenala: Výborně, teď už budeme celý den mluvit jen o tom, jak mluvit méně.",
+      "zh": "负责人要缩短会议，却给每个议题加“怎样简短讨论”的前会；秘书说整天都谈如何少谈。"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "笑点的核心矛盾？",
+      "stimulus_cs": "",
+      "answer": "c",
+      "explanation_zh": "从措施与目的不一致解释。",
+      "skill_ids": [
+        "reading"
+      ],
+      "knowledge_points": [
+        "c2-irony-context",
+        "c2-voice-separation"
+      ],
+      "error_category": "comprehension",
+      "options": [
+        {
+          "id": "a",
+          "text": "秘书不愿工作"
+        },
+        {
+          "id": "b",
+          "text": "议题太少"
+        },
+        {
+          "id": "c",
+          "text": "压缩会议的方法增会"
+        }
+      ],
+      "scoring_basis": "封闭题以答案核对；解析说明本题边界。",
+      "id": "C2-U03-CHECK-E01"
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "改成没有反讽的建设性意见。",
+      "stimulus_cs": "",
+      "answer": "Úvodní jednání mohou celkovou dobu prodloužit. Navrhuji vyzkoušet kratší podklady a po jedné poradě porovnat skutečný čas.",
+      "explanation_zh": "保留批评并加可核查改法。",
+      "skill_ids": [
+        "writing"
+      ],
+      "knowledge_points": [
+        "c2-irony-context",
+        "c2-voice-separation"
+      ],
+      "error_category": "comprehension",
+      "rubric": [
+        "回应具体任务，信息不失真",
+        "逻辑有衔接，能说明证据与限制",
+        "语法与搭配基本准确，语域适合对象",
+        "能自主组织语言而非照读范文"
+      ],
+      "scoring_basis": "开放表达：示范不是唯一答案；依量规自评或人工评阅，未接受人工评阅时不自动判定能力达标。",
+      "id": "C2-U03-CHECK-E02"
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "如果负责人认真当成赞扬，你如何澄清？",
+      "stimulus_cs": "",
+      "answer": "Myslela jsem to ironicky; obávám se, že přidáme další jednání. Pojďme ověřit, zda opatření skutečně ušetří čas.",
+      "explanation_zh": "直接说明真实担忧，避免继续讽刺。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "knowledge_points": [
+        "c2-irony-context",
+        "c2-voice-separation"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "回应具体任务，信息不失真",
+        "逻辑有衔接，能说明证据与限制",
+        "语法与搭配基本准确，语域适合对象",
+        "能自主组织语言而非照读范文"
+      ],
+      "scoring_basis": "开放表达：示范不是唯一答案；依量规自评或人工评阅，未接受人工评阅时不自动判定能力达标。",
+      "id": "C2-U03-CHECK-E03"
+    }
+  ],
+  "rubric": [
+    "理解未见材料中的主张及限定",
+    "主动表达时准确转述不同立场",
+    "区分事实、推断与建议",
+    "能针对误解调整解释方式"
+  ],
+  "remediation": [
+    {
+      "condition_zh": "误把可能性说成事实，或遗漏反方条件",
+      "lesson_ids": [
+        "C2-U03-L01"
+      ],
+      "action_zh": "重做信息定位与转述，标出每个判断的来源和语气词。"
+    },
+    {
+      "condition_zh": "表达卡住或只有单句结论",
+      "lesson_ids": [
+        "C2-U03-L01"
+      ],
+      "action_zh": "先列论点—依据—限制—行动四点，再换对象重录一次。"
+    }
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "C2-U03-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U03-CHECK--2026.10.22.1--text--d5de4adab1--normal.mp3",
+      "slow_file": "audio/files/C2-U03-CHECK--2026.10.22.1--text--d5de4adab1--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U03-CHECK--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Vedoucí oznámil, že porady konečně zkrátí. Každému bodu proto přidělil krátké úvodní jednání o tom, jak jej projednat stručně. Sekretářka poznamenala: Výborně, teď už budeme celý den mluvit jen o tom, jak mluvit méně.",
+      "duration_seconds": 19.83578231292517,
+      "slow_duration_seconds": 22.482857142857142,
+      "sha256": "d20498842376f0c3ecb0fbc8c903545cdfb06e4e4b3bf984ba3ee65bb1e0153b",
+      "slow_sha256": "309cd132d8ffc1061f14b74efd3f0e6a34556dc13f0bebb725107e33f8b73e17"
+    },
+    {
+      "lesson_id": "C2-U03-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U03-CHECK--2026.10.22.1--text--d5de4adab1--normal.mp3",
+      "slow_file": "audio/files/C2-U03-CHECK--2026.10.22.1--text--d5de4adab1--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U03-CHECK--2026.10.22.1--text--p0",
+      "asset_id": "C2-U03-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Vedoucí oznámil, že porady konečně zkrátí. Každému bodu proto přidělil krátké úvodní jednání o tom, jak jej projednat stručně. Sekretářka poznamenala: Výborně, teď už budeme celý den mluvit jen o tom, jak mluvit méně.",
+      "start": 0,
+      "end": 19.65578231292517,
+      "slow_start": 0,
+      "slow_end": 22.302857142857142
+    },
+    {
+      "lesson_id": "C2-U03-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U03-CHECK--2026.10.22.1--text--d5de4adab1--normal.mp3",
+      "slow_file": "audio/files/C2-U03-CHECK--2026.10.22.1--text--d5de4adab1--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U03-CHECK--2026.10.22.1--text--s0",
+      "asset_id": "C2-U03-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Vedoucí oznámil, že porady konečně zkrátí.",
+      "start": 0,
+      "end": 3.982222222222222,
+      "slow_start": 0,
+      "slow_end": 4.516281179138322
+    },
+    {
+      "lesson_id": "C2-U03-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U03-CHECK--2026.10.22.1--text--d5de4adab1--normal.mp3",
+      "slow_file": "audio/files/C2-U03-CHECK--2026.10.22.1--text--d5de4adab1--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U03-CHECK--2026.10.22.1--text--s1",
+      "asset_id": "C2-U03-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Každému bodu proto přidělil krátké úvodní jednání o tom, jak jej projednat stručně.",
+      "start": 4.162222222222222,
+      "end": 11.209478458049887,
+      "slow_start": 4.696281179138322,
+      "slow_end": 12.63750566893424
+    },
+    {
+      "lesson_id": "C2-U03-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U03-CHECK--2026.10.22.1--text--d5de4adab1--normal.mp3",
+      "slow_file": "audio/files/C2-U03-CHECK--2026.10.22.1--text--d5de4adab1--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U03-CHECK--2026.10.22.1--text--s2",
+      "asset_id": "C2-U03-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Sekretářka poznamenala: Výborně, teď už budeme celý den mluvit jen o tom, jak mluvit méně.",
+      "start": 11.389478458049886,
+      "end": 19.65578231292517,
+      "slow_start": 12.81750566893424,
+      "slow_end": 22.302857142857142
+    }
+  ]
+}

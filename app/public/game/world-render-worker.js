@@ -1,0 +1,6 @@
+import {paintTile,paintOverview} from './world-paint.js?art=3';
+let textures;const sources=new Map();
+// New illustration assets are held for composition review. They must not be
+// stamped into real footprints as cropped collages and called finished art.
+const load=()=>textures ||= Promise.all(['roof-texture-v1.png','pavement-texture-v1.png'].map(async file=>{const r=await fetch('/game/assets/'+file);if(!r.ok)throw new Error('Texture unavailable');return createImageBitmap(await r.blob());})).then(([roof,ground])=>({roof,ground})).catch(()=>({}));
+self.onmessage=async e=>{const {id,type,data,tx,ty,scale,key,clip}=e.data;try{const evicted=[];if(key&&data){sources.delete(key);sources.set(key,data);while(sources.size>42){const k=sources.keys().next().value;sources.delete(k);evicted.push(k);}}const source=data||sources.get(key);if(!source)throw new Error('DRAW_SOURCE_MISSING');const canvas=new OffscreenCanvas(1,1);let meta={};if(type==='overview'){const out=paintOverview(canvas,source);meta={left:out.left,top:out.top,scale:out.scale};}else paintTile(canvas,source,tx,ty,scale,await load(),clip);const bitmap=canvas.transferToImageBitmap();self.postMessage({id,bitmap,evicted,...meta},[bitmap]);}catch(error){self.postMessage({id,error:error.message});}};

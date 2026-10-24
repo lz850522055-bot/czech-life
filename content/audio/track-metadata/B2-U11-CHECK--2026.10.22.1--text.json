@@ -1,0 +1,75 @@
+{
+  "id": "B2-U11-CHECK--2026.10.22.1--text",
+  "lesson_id": "B2-U11-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "B2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Lucie řekne: „Nápad je dobrý, jen nevím, kdo na to bude mít čas.“ Pavel odpoví: „Takže se ti náš nápad nelíbí.“ Lucie upřesní, že řeší kapacitu, ne hodnotu nápadu.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Lucie řekne: „Nápad je dobrý, jen nevím, kdo na to bude mít čas.“",
+        "Pavel odpoví: „Takže se ti náš nápad nelíbí.“",
+        "Lucie upřesní, že řeší kapacitu, ne hodnotu nápadu."
+      ]
+    }
+  ],
+  "text_sha256": "48c2611b368e3545a87190479f61f2c13b6126dcda43c70d71eed82b0ac33d22",
+  "source_file": "content/assessments/B2-U11.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U11-CHECK--2026.10.22.1--text--48c2611b36--normal.mp3",
+  "slow_file": "content/audio/files/B2-U11-CHECK--2026.10.22.1--text--48c2611b36--slow.mp3",
+  "duration_seconds": 16.294739229024945,
+  "slow_duration_seconds": 18.61673469387755,
+  "cues": [
+    {
+      "text": "Lucie řekne: „Nápad je dobrý, jen nevím, kdo na to bude mít čas.“ Pavel odpoví: „Takže se ti náš nápad nelíbí.“ Lucie upřesní, že řeší kapacitu, ne hodnotu nápadu.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Lucie řekne: „Nápad je dobrý, jen nevím, kdo na to bude mít čas.“",
+        "Pavel odpoví: „Takže se ti náš nápad nelíbí.“",
+        "Lucie upřesní, že řeší kapacitu, ne hodnotu nápadu."
+      ],
+      "start": 0.0,
+      "end": 16.114739229024945,
+      "sentences": [
+        {
+          "text": "Lucie řekne: „Nápad je dobrý, jen nevím, kdo na to bude mít čas.“",
+          "start": 0.0,
+          "end": 6.339047619047619,
+          "slow_start": 0.0,
+          "slow_end": 7.267845804988662
+        },
+        {
+          "text": "Pavel odpoví: „Takže se ti náš nápad nelíbí.“",
+          "start": 6.519047619047619,
+          "end": 10.965668934240362,
+          "slow_start": 7.447845804988662,
+          "slow_end": 12.416916099773243
+        },
+        {
+          "text": "Lucie upřesní, že řeší kapacitu, ne hodnotu nápadu.",
+          "start": 11.145668934240362,
+          "end": 16.114739229024945,
+          "slow_start": 12.596916099773242,
+          "slow_end": 18.43673469387755
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 18.43673469387755
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "6af39ac4d379170a448622a191bf4d2054c6fa53889a2f01db0c3fbdaed8d283",
+    "slow": "7397a6286e67be800a3934e2faa947ad3941c8be255c1e5a5c2727491576cbff"
+  }
+}

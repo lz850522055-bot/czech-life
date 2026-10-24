@@ -1,0 +1,57 @@
+{
+  "id": "A2-U08-L01--2026.10.22.1--contrasts",
+  "lesson_id": "A2-U08-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "patnáct. padesát.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "patnáct. padesát."
+      ]
+    }
+  ],
+  "text_sha256": "00c2b12ae1cc42e60f1ba80cc8383940521d3c17e876c8dad9983cce5d56b14d",
+  "source_file": "content/lessons/A2/A2-U08-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U08-L01--2026.10.22.1--contrasts--00c2b12ae1--normal.mp3",
+  "slow_file": "content/audio/files/A2-U08-L01--2026.10.22.1--contrasts--00c2b12ae1--slow.mp3",
+  "duration_seconds": 1.933106575963719,
+  "slow_duration_seconds": 2.2001360544217685,
+  "cues": [
+    {
+      "text": "patnáct. padesát.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "patnáct. padesát."
+      ],
+      "start": 0.0,
+      "end": 1.7531065759637188,
+      "sentences": [
+        {
+          "text": "patnáct. padesát.",
+          "start": 0.0,
+          "end": 1.7531065759637188,
+          "slow_start": 0.0,
+          "slow_end": 2.020136054421769
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.020136054421769
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "7476b1b78411df1c1b9167a413565c640d915d82fcd3be9e5cf8be44cde7e988",
+    "slow": "e367bbc93f152f36276307edadb53a4d30fa2e3aacaeacbd66cbcace576686d2"
+  }
+}

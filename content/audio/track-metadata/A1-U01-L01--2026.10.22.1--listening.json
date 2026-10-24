@@ -1,0 +1,95 @@
+{
+  "id": "A1-U01-L01--2026.10.22.1--listening",
+  "lesson_id": "A1-U01-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A1",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Dobrý den, jsem Pavel. Jsem z Brna, ale teď bydlím v Plzni.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Dobrý den, jsem Pavel.",
+        "Jsem z Brna, ale teď bydlím v Plzni."
+      ]
+    },
+    {
+      "text": "Mluvím česky a trochu německy.",
+      "index": 1,
+      "role": "listening",
+      "parts": [
+        "Mluvím česky a trochu německy."
+      ]
+    }
+  ],
+  "text_sha256": "bafbb5d249b68a7478dcee3e6141e775ccf032d0ea025726fad4a7ee6c2c3b75",
+  "source_file": "content/lessons/A1/A1-U01-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U01-L01--2026.10.22.1--listening--bafbb5d249--normal.mp3",
+  "slow_file": "content/audio/files/A1-U01-L01--2026.10.22.1--listening--bafbb5d249--slow.mp3",
+  "duration_seconds": 9.201043083900228,
+  "slow_duration_seconds": 10.327210884353741,
+  "cues": [
+    {
+      "text": "Dobrý den, jsem Pavel. Jsem z Brna, ale teď bydlím v Plzni.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Dobrý den, jsem Pavel.",
+        "Jsem z Brna, ale teď bydlím v Plzni."
+      ],
+      "start": 0.0,
+      "end": 5.892108843537415,
+      "sentences": [
+        {
+          "text": "Dobrý den, jsem Pavel.",
+          "start": 0.0,
+          "end": 2.2175056689342405,
+          "slow_start": 0.0,
+          "slow_end": 2.4961451247165534
+        },
+        {
+          "text": "Jsem z Brna, ale teď bydlím v Plzni.",
+          "start": 2.39750566893424,
+          "end": 5.892108843537415,
+          "slow_start": 2.676145124716553,
+          "slow_end": 6.519047619047619
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 6.519047619047619
+    },
+    {
+      "text": "Mluvím česky a trochu německy.",
+      "index": 1,
+      "role": "listening",
+      "parts": [
+        "Mluvím česky a trochu německy."
+      ],
+      "start": 6.072108843537415,
+      "end": 9.021043083900226,
+      "sentences": [
+        {
+          "text": "Mluvím česky a trochu německy.",
+          "start": 6.072108843537415,
+          "end": 9.021043083900226,
+          "slow_start": 6.699047619047619,
+          "slow_end": 10.147210884353742
+        }
+      ],
+      "slow_start": 6.699047619047619,
+      "slow_end": 10.147210884353742
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "2126477c6d74e3abdaeb15bb2eceba5006b2db3e65b0d6200f8e0ca7e4bc04b9",
+    "slow": "04123861d5777b9fcf44a5cd42c5c7452ceaf11ddfdee281768e561eb14e65d9"
+  }
+}

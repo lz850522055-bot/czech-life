@@ -1,0 +1,219 @@
+{
+  "unseen_text": [
+    {
+      "cs": "Kurz začne i tehdy, když přijdou jen čtyři lidé. Kdyby se přihlásilo více než dvanáct účastníků, skupina by se rozdělila. Přihlášeno je zatím devět lidí.",
+      "zh": "四人来也开课；超过十二则分组，当前九报名。",
+      "note_zh": ""
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "按当前人数是否应分组？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "应，已超十二"
+        },
+        {
+          "id": "b",
+          "text": "不应，分组条件尚不成立"
+        },
+        {
+          "id": "c",
+          "text": "课程取消"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "九未超过十二。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U10-CHECK-E01",
+      "knowledge_points": [
+        "conditional-time",
+        "condition-concession-exception"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "填“即使”的普通让步连接。",
+      "stimulus_cs": "Kurz začne, ___ přijdou jen čtyři lidé.",
+      "answer": "i když",
+      "accepted_answers": [
+        "i když"
+      ],
+      "explanation_zh": "当前可发生让步。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "meaning",
+      "id": "B2-U10-CHECK-E02",
+      "knowledge_points": [
+        "conditional-time",
+        "condition-concession-exception"
+      ]
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "向中文报名者说明开课保证范围和分组条件。",
+      "stimulus_cs": "",
+      "answer": "即使只有四人也开课；超过十二人才分组，目前九人，所以分组只是条件备选，尚未触发。",
+      "accepted_answers": [],
+      "explanation_zh": "不把备选当公告结果。",
+      "rubric": [
+        "人数准确",
+        "条件未触发",
+        "范围完整"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U10-CHECK-E03",
+      "knowledge_points": [
+        "conditional-time",
+        "condition-concession-exception"
+      ]
+    }
+  ],
+  "id": "B2-U10-CHECK",
+  "kind": "unit",
+  "level": "B2",
+  "unit_id": "B2-U10",
+  "title_zh": "复杂条件及假设推理：换场景检验",
+  "version": "2026.10.22.1",
+  "rubric": [
+    "关键信息准确且没有添加原文没有的信息",
+    "能使用本单元规律完成新情境",
+    "输出能让对方采取下一步行动"
+  ],
+  "remediation": [
+    {
+      "condition_zh": "理解遗漏或把推测说成事实",
+      "lesson_ids": [
+        "B2-U10-L01"
+      ],
+      "action_zh": "对照逐段译文，重新提取人物、限制和下一步。"
+    },
+    {
+      "condition_zh": "表达需要提示或形式反复出错",
+      "lesson_ids": [
+        "B2-U10-L01"
+      ],
+      "action_zh": "复看规律卡后更换人物、时间与限制条件，延后独立重做。"
+    }
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "B2-U10-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U10-CHECK--2026.10.22.1--text--f77df12a1a--normal.mp3",
+      "slow_file": "audio/files/B2-U10-CHECK--2026.10.22.1--text--f77df12a1a--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U10-CHECK--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Kurz začne i tehdy, když přijdou jen čtyři lidé. Kdyby se přihlásilo více než dvanáct účastníků, skupina by se rozdělila. Přihlášeno je zatím devět lidí.",
+      "duration_seconds": 13.519954648526078,
+      "slow_duration_seconds": 15.377551020408163,
+      "sha256": "1c163b6dcbc3ef2f37d96446deb5ff58320b4be52eff7885d2d4e3e54e0e91cc",
+      "slow_sha256": "e148977a03757081fa2cebee788fdf019d1997cd021e2480897fc05d465ebdc6"
+    },
+    {
+      "lesson_id": "B2-U10-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U10-CHECK--2026.10.22.1--text--f77df12a1a--normal.mp3",
+      "slow_file": "audio/files/B2-U10-CHECK--2026.10.22.1--text--f77df12a1a--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U10-CHECK--2026.10.22.1--text--p0",
+      "asset_id": "B2-U10-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Kurz začne i tehdy, když přijdou jen čtyři lidé. Kdyby se přihlásilo více než dvanáct účastníků, skupina by se rozdělila. Přihlášeno je zatím devět lidí.",
+      "start": 0,
+      "end": 13.339954648526078,
+      "slow_start": 0,
+      "slow_end": 15.197551020408163
+    },
+    {
+      "lesson_id": "B2-U10-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U10-CHECK--2026.10.22.1--text--f77df12a1a--normal.mp3",
+      "slow_file": "audio/files/B2-U10-CHECK--2026.10.22.1--text--f77df12a1a--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U10-CHECK--2026.10.22.1--text--s0",
+      "asset_id": "B2-U10-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Kurz začne i tehdy, když přijdou jen čtyři lidé.",
+      "start": 0,
+      "end": 3.912562358276644,
+      "slow_start": 0,
+      "slow_end": 4.504671201814059
+    },
+    {
+      "lesson_id": "B2-U10-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U10-CHECK--2026.10.22.1--text--f77df12a1a--normal.mp3",
+      "slow_file": "audio/files/B2-U10-CHECK--2026.10.22.1--text--f77df12a1a--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U10-CHECK--2026.10.22.1--text--s1",
+      "asset_id": "B2-U10-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Kdyby se přihlásilo více než dvanáct účastníků, skupina by se rozdělila.",
+      "start": 4.092562358276644,
+      "end": 10.454829931972789,
+      "slow_start": 4.684671201814059,
+      "slow_end": 11.964126984126985
+    },
+    {
+      "lesson_id": "B2-U10-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U10-CHECK--2026.10.22.1--text--f77df12a1a--normal.mp3",
+      "slow_file": "audio/files/B2-U10-CHECK--2026.10.22.1--text--f77df12a1a--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U10-CHECK--2026.10.22.1--text--s2",
+      "asset_id": "B2-U10-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Přihlášeno je zatím devět lidí.",
+      "start": 10.634829931972789,
+      "end": 13.339954648526078,
+      "slow_start": 12.144126984126984,
+      "slow_end": 15.197551020408163
+    }
+  ]
+}

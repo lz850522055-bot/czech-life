@@ -1,0 +1,1556 @@
+{
+  "id": "B2-U03-L01",
+  "level": "B2",
+  "unit_id": "B2-U03",
+  "order": 49,
+  "version": "2026.10.23.1",
+  "title_zh": "精细语法综合查漏",
+  "title_cs": "Přesnost, která mění význam",
+  "prerequisites": [
+    "B2-U02-L01"
+  ],
+  "can_do": [
+    "在长句中追踪真正主语与一致",
+    "联合检查格支配、代词指代和数词",
+    "按意义修改而不是机械套词尾"
+  ],
+  "scene": "语法整合与校订",
+  "skills": [
+    "listening",
+    "speaking",
+    "reading",
+    "writing",
+    "interaction",
+    "mediation"
+  ],
+  "knowledge_points": [
+    "agreement-integrated",
+    "case-and-ownership"
+  ],
+  "intro_zh": "你已见过各种规则，现在要在一篇真实说明里同时使用它们。校订先看谁做什么，再看词尾；不要一看到最近的名词就把它当主语。",
+  "lesson_text": [
+    {
+      "id": "s01",
+      "cs": "Náš spolek připravoval zprávu o opravě společné zahrady. Návrh textu obsahoval správná čísla, ale několik vět bylo nejasných. Autor například napsal, že se členové setkali s nový sousedé a že nové lavičky byly instalováni. Čtenář mohl význam odhadnout, přesto tyto chyby ztěžovaly plynulé čtení. Rozhodli jsme se opravit text tak, aby byl přesný a současně zůstal srozumitelný lidem bez jazykového vzdělání.",
+      "zh": "协会写公共花园维修报告。数字正确，但有 s nový sousedé、lavičky byly instalováni 等词形错误。读者可猜懂却读不顺。我们要改准，同时使非语言专业读者能懂。",
+      "note_zh": ""
+    },
+    {
+      "id": "s02",
+      "cs": "Nejprve jsme určili vztahy ve větě. Setkat se vyžaduje předložku s a sedmý pád, takže správně je s novými sousedy. U laviček rozhoduje rod ženský a množné číslo: nové lavičky byly instalovány. Kdyby podmětem byli pracovníci, napsali bychom pracovníci byli připraveni. U středního rodu v množném čísle by věta zněla například nová hřiště byla otevřena. Koncovku tedy nevolíme podle slova, které je náhodou nejblíže.",
+      "zh": "先找关系：setkat se 配 s+工具格，故 s novými sousedy；lavičky 阴性复数，故 byly instalovány。若主语工人则 pracovníci byli připraveni；中性复数如 hřiště，则 byla otevřena。词尾不由碰巧最近的词决定。",
+      "note_zh": ""
+    },
+    {
+      "id": "s03",
+      "cs": "Další věta uváděla, že pět dobrovolníků přišli včas. V běžné neutrální konstrukci s číslovkou pět jako součástí podmětu jsme zvolili pět dobrovolníků přišlo včas. Zároveň jsme si připomněli, že složitější shoda může záviset na stavbě věty a významu. Nechtěli jsme z jednoduchého cvičení vytvořit tvrzení, že každá věta s číslovkou musí vypadat úplně stejně bez ohledu na kontext.",
+      "zh": "另句写五名志愿者 přišli。中性常见数词主语结构改 pět dobrovolníků přišlo。同时提醒复杂一致还依句法语义，不把本练习变成“任何含数字句都一样”。",
+      "note_zh": ""
+    },
+    {
+      "id": "s04",
+      "cs": "U zájmen jsme sledovali, komu patří nářadí. Věta Petr přinesl jeho nářadí naznačuje v daném kontextu nářadí jiného muže. Pokud Petr přinesl vlastní vybavení, přesnější je Petr přinesl své nářadí. Ani tady však nestačí nahradit každé jeho slovem své. Musíme vědět, kdo je podmětem a kdo vlastníkem. Při změně podmětu se může změnit i správná volba zájmena.",
+      "zh": "代词要追工具归谁。Petr přinesl jeho nářadí 在此指另一男子工具；彼得带自己的更准是 své nářadí。不能把所有 jeho 机械替成 své，要先辨主语与所有者。",
+      "note_zh": ""
+    },
+    {
+      "id": "s05",
+      "cs": "Nakonec jsme zkontrolovali vazby v poděkování. Děkujeme dobrovolníkům za pomoc používá třetí pád u lidí a čtvrtý pád po za. S pomocí dobrovolníků bychom zahradu opravili rychleji má jinou stavbu: pomoc stojí po s v sedmém pádě a dobrovolníků vyjadřuje, čí pomoc to je. Stejné osoby tedy mohou mít v sousedních větách různé koncovky, aniž by se změnila jejich totožnost.",
+      "zh": "最后检查感谢：děkujeme dobrovolníkům za pomoc 中人用与格、事用 za+宾格；s pomocí dobrovolníků 结构不同，pomocí 工具格、dobrovolníků 表所属。相同人可因关系不同而变词尾。",
+      "note_zh": ""
+    },
+    {
+      "id": "s06",
+      "cs": "Při druhém čtení jsme už neřešili pouze správnost tvarů. Zkrátili jsme dvě příliš dlouhé věty a vysvětlili, které práce byly dokončeny a které teprve čekají. Přesná gramatika není samoúčelná sbírka koncovek. Pomáhá rozlišit osoby, odpovědnost, počet, vlastnictví i časový stav úkolu. Když oprava změní tato fakta, nejde o stylistické vylepšení, ale o chybu, kterou je nutné vrátit zpět.",
+      "zh": "二读不只看词形，还拆两长句，区分已完成与待做。准确语法帮助区分人、责任、数量、归属及时间状态；若校订改了事实，就不是润色而是需撤销的错误。",
+      "note_zh": ""
+    }
+  ],
+  "grammar": [
+    {
+      "id": "agreement-integrated",
+      "rule_zh": "先找真正主语，再按性、数、有生性处理过去式和被动词尾。",
+      "detail_zh": "复数常见：muži/pracovníci byli připraveni（阳性有生）；domy byly opraveny（阳性无生）；lavičky byly instalovány（阴性）；hřiště byla otevřena（中性）。数词五以上作为量化主语的常见中性结构：pět lidí přišlo。复合主语和特殊名词另有规则，不能只用最近名词决定。",
+      "examples": [
+        {
+          "cs": "Nové domy byly dokončeny.",
+          "zh": "新房屋完工了。",
+          "note_zh": ""
+        },
+        {
+          "cs": "Nová hřiště byla otevřena.",
+          "zh": "新场地开放了。",
+          "note_zh": ""
+        }
+      ],
+      "pitfalls": [
+        "děti 为特殊阴性复数一致：děti přišly，不按孩子性别用 přišli。"
+      ],
+      "exceptions": [
+        "并列主语等情况不能只套单一主语口诀，需查相应条目。"
+      ],
+      "term": "综合性数一致"
+    },
+    {
+      "id": "case-and-ownership",
+      "rule_zh": "词尾显示关系，所有格代词还显示归属的角度。",
+      "detail_zh": "s novými sousedy 第七格；děkuji novým sousedům 第三格；bez nových sousedů 第二格；o nových sousedech 第六格。svůj 在常见结构指主语自己的；jeho/její 可能指他人，需要明确先行词。数词 dva/oba 等特殊词形应回到词表核查。",
+      "examples": [
+        {
+          "cs": "Petr si vzal svůj kufr.",
+          "zh": "彼得拿了自己的箱子。",
+          "note_zh": ""
+        },
+        {
+          "cs": "Petr vzal jeho kufr.",
+          "zh": "彼得拿了他的箱子（另一男子）。",
+          "note_zh": ""
+        }
+      ],
+      "pitfalls": [
+        "格由搭配和句内角色定，不由中文原词定。"
+      ],
+      "exceptions": [
+        "复杂从句中的反身所有格视角可能较复杂，本课先控制主语明确的句子。"
+      ],
+      "term": "格与反身所有代词"
+    }
+  ],
+  "vocabulary": [
+    {
+      "lemma": "shoda",
+      "pos": "名词，阴性",
+      "forms": "shody; shodou",
+      "meaning_zh": "一致",
+      "collocation": "gramatická shoda",
+      "example_cs": "Zkontrolujeme shodu přísudku.",
+      "example_zh": "检查谓语一致。",
+      "confusion_zh": "也可表示意见一致，需看语境。"
+    },
+    {
+      "lemma": "vlastník",
+      "pos": "名词，阳性有生",
+      "forms": "vlastníka; vlastníci",
+      "meaning_zh": "所有者",
+      "collocation": "určit vlastníka",
+      "example_cs": "Věta neurčuje vlastníka jasně.",
+      "example_zh": "句子没有清楚说明所有者。",
+      "confusion_zh": "不必是当前拿物的人。"
+    },
+    {
+      "lemma": "dobrovolník",
+      "pos": "名词，阳性有生",
+      "forms": "dobrovolníci; dobrovolníkům",
+      "meaning_zh": "志愿者",
+      "collocation": "poděkovat dobrovolníkům",
+      "example_cs": "Poděkovali jsme dobrovolníkům.",
+      "example_zh": "我们感谢志愿者。",
+      "confusion_zh": "五人结构后的名词第二格复数。"
+    },
+    {
+      "lemma": "koncovka",
+      "pos": "名词，阴性",
+      "forms": "koncovky",
+      "meaning_zh": "词尾",
+      "collocation": "změnit koncovku",
+      "example_cs": "Koncovka závisí na vztahu ve větě.",
+      "example_zh": "词尾依句内关系。",
+      "confusion_zh": "不是随意装饰。"
+    }
+  ],
+  "listening": {
+    "script": [
+      {
+        "cs": "Pět dobrovolníků dorazilo ráno. Dvě skupiny pracovaly na zahradě, zatímco tři technici kontrolovali osvětlení. Nové lavičky byly připraveny, ale dětská hřiště ještě nebyla otevřena. Petr si přinesl vlastní nářadí; ostatní použili vybavení spolku.",
+        "zh": "五名志愿者早到；两组做花园，三技术员查照明。新长椅备好，游乐场未开。彼得带自有工具，其余用协会的。",
+        "note_zh": ""
+      }
+    ],
+    "focus_zh": "跟随主语名词而非最近数字，判断完成和未完成。",
+    "source": "original"
+  },
+  "pronunciation": {
+    "focus_zh": "朗读 byly/byla/byli 时 i/y 发音通常相同，不能靠读音判拼写；必须看语法主语。",
+    "contrast": [
+      {
+        "a": "byli",
+        "b": "byly",
+        "note_zh": "通常读音相同，拼写区别要通过主语分析。"
+      }
+    ],
+    "task_zh": "先听一句，再按意义块跟读；录下自然语速版本，对照长短元音、句中停顿和关键词。不要追求机械加速。"
+  },
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "lavičky 对应哪项？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "byly instalovány"
+        },
+        {
+          "id": "b",
+          "text": "byli instalováni"
+        },
+        {
+          "id": "c",
+          "text": "byla instalována"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "阴性复数。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U03-L01-E01",
+      "knowledge_points": [
+        "agreement-integrated",
+        "case-and-ownership"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "Petr přinesl své nářadí 表何意？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "Petr 带自己的工具"
+        },
+        {
+          "id": "b",
+          "text": "Petr 带另一男人工具"
+        },
+        {
+          "id": "c",
+          "text": "工具必属于协会"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "明确主语 Petr 的自身归属。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U03-L01-E02",
+      "knowledge_points": [
+        "agreement-integrated",
+        "case-and-ownership"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "听：什么尚未开放？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "长椅"
+        },
+        {
+          "id": "b",
+          "text": "儿童场地"
+        },
+        {
+          "id": "c",
+          "text": "工具仓库"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "hřiště ještě nebyla otevřena。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "listening"
+      ],
+      "error_category": "comprehension",
+      "audio_text_cs": "Nové lavičky byly připraveny, ale dětská hřiště ještě nebyla otevřena.",
+      "id": "B2-U03-L01-E03",
+      "knowledge_points": [
+        "agreement-integrated",
+        "case-and-ownership"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "把 přijít 变为适合此数量主语的过去式。",
+      "stimulus_cs": "Pět lidí ___ včas.",
+      "answer": "přišlo",
+      "accepted_answers": [
+        "přišlo"
+      ],
+      "explanation_zh": "题目限定中性量化主语结构。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "B2-U03-L01-E04",
+      "knowledge_points": [
+        "agreement-integrated",
+        "case-and-ownership"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "填 soused 的复数工具格。",
+      "stimulus_cs": "Setkali jsme se s novými ___.",
+      "answer": "sousedy",
+      "accepted_answers": [
+        "sousedy"
+      ],
+      "explanation_zh": "s+第七格，修饰词和名词同格。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "B2-U03-L01-E05",
+      "knowledge_points": [
+        "agreement-integrated",
+        "case-and-ownership"
+      ]
+    },
+    {
+      "type": "correct",
+      "prompt_zh": "只修改 děti 对应的过去式词尾，使主谓一致。",
+      "stimulus_cs": "Děti přišli ráno.",
+      "answer": "Děti přišly ráno.",
+      "accepted_answers": [
+        "Děti přišly ráno."
+      ],
+      "explanation_zh": "děti 在此一致用阴性复数。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "B2-U03-L01-E06",
+      "knowledge_points": [
+        "agreement-integrated",
+        "case-and-ownership"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt_zh": "以 Dobrovolníkům 开头感谢，强调事情。",
+      "stimulus_cs": "za pomoc. / Dobrovolníkům / děkujeme",
+      "options": [
+        "za pomoc.",
+        "Dobrovolníkům",
+        "děkujeme"
+      ],
+      "answer": "Dobrovolníkům děkujeme za pomoc.",
+      "accepted_answers": [
+        "Dobrovolníkům děkujeme za pomoc."
+      ],
+      "explanation_zh": "感谢的人第三格、事项 za+第四格。",
+      "scoring_basis": "本题限定句首及语境；不据一个参考语序否定捷语所有语序变体。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "word_order",
+      "id": "B2-U03-L01-E07",
+      "knowledge_points": [
+        "agreement-integrated",
+        "case-and-ownership"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "如何判断 byli/byly？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "只听发音"
+        },
+        {
+          "id": "b",
+          "text": "找主语并判断性数有生性"
+        },
+        {
+          "id": "c",
+          "text": "看紧邻的词"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "两种字母在该环境通常同音。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U03-L01-E08",
+      "knowledge_points": [
+        "agreement-integrated",
+        "case-and-ownership"
+      ]
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "用六句汇报：人员到场、两类设施状态、工具归属、感谢。",
+      "stimulus_cs": "",
+      "answer": "Dobrovolníci přišli ráno. Dvě skupiny pracovaly na zahradě. Lavičky byly připraveny. Hřiště ještě nebyla otevřena. Petr si přinesl své nářadí. Všem děkujeme za pomoc.",
+      "accepted_answers": [],
+      "explanation_zh": "口语不一定能展示所有拼写区别，另补书写证据。",
+      "rubric": [
+        "主语明确",
+        "完成状态",
+        "所有者准确"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "error_category": "fluency",
+      "id": "B2-U03-L01-E09",
+      "knowledge_points": [
+        "agreement-integrated",
+        "case-and-ownership"
+      ]
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "写100–150词活动报告，至少出现阳性有生、阴性、中性复数主语并自行检查。",
+      "stimulus_cs": "",
+      "answer": "Dobrovolníci dorazili v osm. Pracovnice připravily občerstvení a nové stoly byly přivezeny před zahájením. Dětská hřiště zůstala zavřená, protože technici ještě nedokončili kontrolu. Petr si přinesl vlastní nářadí. Ostatním účastníkům jsme poskytli vybavení spolku. Všem dobrovolníkům děkujeme za pomoc a za dodržení domluveného postupu.",
+      "accepted_answers": [],
+      "explanation_zh": "示范只示检查点；你的输出需按题长展开真实信息，不编结果。",
+      "rubric": [
+        "三类一致",
+        "格支配",
+        "归属与状态不改变"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U03-L01-E10",
+      "knowledge_points": [
+        "agreement-integrated",
+        "case-and-ownership"
+      ]
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "同伴把“他的工具”改成“自己的”，先询问原作者想指谁。",
+      "stimulus_cs": "",
+      "answer": "Než zájmeno změníme, ověřme, komu nářadí patří. Přinesl Petr vlastní vybavení, nebo vybavení jiného člověka? Podle toho zvolíme své nebo jeho.",
+      "accepted_answers": [],
+      "explanation_zh": "语法改动必须受事实约束。",
+      "rubric": [
+        "先问归属",
+        "两形式解释",
+        "不擅改事实"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "error_category": "fluency",
+      "id": "B2-U03-L01-E11",
+      "knowledge_points": [
+        "agreement-integrated",
+        "case-and-ownership"
+      ]
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "用中文解释为何同一志愿者会写 dobrovolníci/dobrovolníkům/dobrovolníků。",
+      "stimulus_cs": "",
+      "answer": "他们作主语时可写 dobrovolníci；感谢他们时动词要求 dobrovolníkům；表示“五名志愿者”或所属时常用 dobrovolníků。人没变，句内关系变了。",
+      "accepted_answers": [],
+      "explanation_zh": "使用具体句法场景，避免只列术语。",
+      "rubric": [
+        "三形式",
+        "用途对应",
+        "不混单复数"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U03-L01-E12",
+      "knowledge_points": [
+        "agreement-integrated",
+        "case-and-ownership"
+      ]
+    }
+  ],
+  "transfer_task": {
+    "prompt_zh": "校订自己的一段活动记录，每次先标主语、关系、归属，再改词尾，保留事实版本。",
+    "model_answer_cs": "Účastníci přišli včas. Nové místnosti byly připraveny. Děti si přinesly své pomůcky. Organizátorům děkujeme za podporu.",
+    "rubric": [
+      "逐处说明理由",
+      "事实不变",
+      "输出可追溯"
+    ]
+  },
+  "review_links": [
+    "B2-U02-L01"
+  ],
+  "sources": [
+    {
+      "source_id": "LANG01",
+      "url": "https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions",
+      "scope": "按实际能做的任务编排能力，不把CEFR说成官方捷语语法课表",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    },
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?id=600",
+      "scope": "主语与谓语的性数及有生性一致",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    },
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?id=620",
+      "scope": "动词与名词的格搭配、díky/kvůli的语用边界",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    },
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?id=420",
+      "scope": "被动分词与形容词、动作和结果状态的表达倾向",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    }
+  ],
+  "content_status": "authored_crosschecked_not_native_reviewed",
+  "quality_notes": [
+    "原创课文和练习；规则按所列来源交叉核查，未获得捷语母语教师逐句审校。",
+    "本课级别属于教材编排判断，不代表官方能力认证。",
+    "听力为原创可合成脚本；真人多说话人、地区口音与录音自然度尚待现场核验。"
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Náš spolek připravoval zprávu o opravě společné zahrady. Návrh textu obsahoval správná čísla, ale několik vět bylo nejasných. Autor například napsal, že se členové setkali s nový sousedé a že nové lavičky byly instalováni. Čtenář mohl význam odhadnout, přesto tyto chyby ztěžovaly plynulé čtení. Rozhodli jsme se opravit text tak, aby byl přesný a současně zůstal srozumitelný lidem bez jazykového vzdělání. Nejprve jsme určili vztahy ve větě. Setkat se vyžaduje předložku s a sedmý pád, takže správně je s novými sousedy. U laviček rozhoduje rod ženský a množné číslo: nové lavičky byly instalovány. Kdyby podmětem byli pracovníci, napsali bychom pracovníci byli připraveni. U středního rodu v množném čísle by věta zněla například nová hřiště byla otevřena. Koncovku tedy nevolíme podle slova, které je náhodou nejblíže. Další věta uváděla, že pět dobrovolníků přišli včas. V běžné neutrální konstrukci s číslovkou pět jako součástí podmětu jsme zvolili pět dobrovolníků přišlo včas. Zároveň jsme si připomněli, že složitější shoda může záviset na stavbě věty a významu. Nechtěli jsme z jednoduchého cvičení vytvořit tvrzení, že každá věta s číslovkou musí vypadat úplně stejně bez ohledu na kontext. U zájmen jsme sledovali, komu patří nářadí. Věta Petr přinesl jeho nářadí naznačuje v daném kontextu nářadí jiného muže. Pokud Petr přinesl vlastní vybavení, přesnější je Petr přinesl své nářadí. Ani tady však nestačí nahradit každé jeho slovem své. Musíme vědět, kdo je podmětem a kdo vlastníkem. Při změně podmětu se může změnit i správná volba zájmena. Nakonec jsme zkontrolovali vazby v poděkování. Děkujeme dobrovolníkům za pomoc používá třetí pád u lidí a čtvrtý pád po za. S pomocí dobrovolníků bychom zahradu opravili rychleji má jinou stavbu: pomoc stojí po s v sedmém pádě a dobrovolníků vyjadřuje, čí pomoc to je. Stejné osoby tedy mohou mít v sousedních větách různé koncovky, aniž by se změnila jejich totožnost. Při druhém čtení jsme už neřešili pouze správnost tvarů. Zkrátili jsme dvě příliš dlouhé věty a vysvětlili, které práce byly dokončeny a které teprve čekají. Přesná gramatika není samoúčelná sbírka koncovek. Pomáhá rozlišit osoby, odpovědnost, počet, vlastnictví i časový stav úkolu. Když oprava změní tato fakta, nejde o stylistické vylepšení, ale o chybu, kterou je nutné vrátit zpět.",
+      "duration_seconds": 212.85868480725622,
+      "slow_duration_seconds": 238.2148752834467,
+      "sha256": "a9627cf57a71d237c45268deaee1f473d36fc0fccd14c03f1927dae95a434aa6",
+      "slow_sha256": "769cf0039d9bab0c15146fdca54769bfcb4007a60a6aafe8b44095762be90b3b"
+    },
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--text--p0",
+      "asset_id": "B2-U03-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Náš spolek připravoval zprávu o opravě společné zahrady. Návrh textu obsahoval správná čísla, ale několik vět bylo nejasných. Autor například napsal, že se členové setkali s nový sousedé a že nové lavičky byly instalováni. Čtenář mohl význam odhadnout, přesto tyto chyby ztěžovaly plynulé čtení. Rozhodli jsme se opravit text tak, aby byl přesný a současně zůstal srozumitelný lidem bez jazykového vzdělání.",
+      "start": 0,
+      "end": 36.96634920634921,
+      "slow_start": 0,
+      "slow_end": 40.96018140589569
+    },
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--text--s0",
+      "asset_id": "B2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Náš spolek připravoval zprávu o opravě společné zahrady.",
+      "start": 0,
+      "end": 4.922630385487528,
+      "slow_start": 0,
+      "slow_end": 5.596009070294785
+    },
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--text--s1",
+      "asset_id": "B2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Návrh textu obsahoval správná čísla, ale několik vět bylo nejasných.",
+      "start": 5.102630385487529,
+      "end": 11.464897959183673,
+      "slow_start": 5.776009070294784,
+      "slow_end": 12.67233560090703
+    },
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--text--s2",
+      "asset_id": "B2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Autor například napsal, že se členové setkali s nový sousedé a že nové lavičky byly instalováni.",
+      "start": 11.644897959183673,
+      "end": 20.619410430839004,
+      "slow_start": 12.852335600907029,
+      "slow_end": 23.115555555555556
+    },
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--text--s3",
+      "asset_id": "B2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 3,
+      "paragraph_index": 0,
+      "sentence_index": 3,
+      "text": "Čtenář mohl význam odhadnout, přesto tyto chyby ztěžovaly plynulé čtení.",
+      "start": 20.799410430839004,
+      "end": 27.28938775510204,
+      "slow_start": 23.295555555555556,
+      "slow_end": 30.400861678004535
+    },
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--text--s4",
+      "asset_id": "B2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 4,
+      "paragraph_index": 0,
+      "sentence_index": 4,
+      "text": "Rozhodli jsme se opravit text tak, aby byl přesný a současně zůstal srozumitelný lidem bez jazykového vzdělání.",
+      "start": 27.46938775510204,
+      "end": 36.96634920634921,
+      "slow_start": 30.580861678004535,
+      "slow_end": 40.96018140589569
+    },
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--text--p1",
+      "asset_id": "B2-U03-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Nejprve jsme určili vztahy ve větě. Setkat se vyžaduje předložku s a sedmý pád, takže správně je s novými sousedy. U laviček rozhoduje rod ženský a množné číslo: nové lavičky byly instalovány. Kdyby podmětem byli pracovníci, napsali bychom pracovníci byli připraveni. U středního rodu v množném čísle by věta zněla například nová hřiště byla otevřena. Koncovku tedy nevolíme podle slova, které je náhodou nejblíže.",
+      "start": 37.14634920634921,
+      "end": 74.72226757369614,
+      "slow_start": 41.14018140589569,
+      "slow_end": 83.05823129251701
+    },
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--text--s5",
+      "asset_id": "B2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 5,
+      "paragraph_index": 1,
+      "sentence_index": 0,
+      "text": "Nejprve jsme určili vztahy ve větě.",
+      "start": 37.14634920634921,
+      "end": 40.29265306122449,
+      "slow_start": 41.14018140589569,
+      "slow_end": 44.65800453514739
+    },
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--text--s6",
+      "asset_id": "B2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 6,
+      "paragraph_index": 1,
+      "sentence_index": 1,
+      "text": "Setkat se vyžaduje předložku s a sedmý pád, takže správně je s novými sousedy.",
+      "start": 40.47265306122449,
+      "end": 47.19482993197279,
+      "slow_start": 44.83800453514739,
+      "slow_end": 52.28
+    },
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--text--s7",
+      "asset_id": "B2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 7,
+      "paragraph_index": 1,
+      "sentence_index": 2,
+      "text": "U laviček rozhoduje rod ženský a množné číslo: nové lavičky byly instalovány.",
+      "start": 47.37482993197279,
+      "end": 54.58462585034014,
+      "slow_start": 52.46,
+      "slow_end": 60.737913832199546
+    },
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--text--s8",
+      "asset_id": "B2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 8,
+      "paragraph_index": 1,
+      "sentence_index": 3,
+      "text": "Kdyby podmětem byli pracovníci, napsali bychom pracovníci byli připraveni.",
+      "start": 54.76462585034014,
+      "end": 61.33587301587301,
+      "slow_start": 60.917913832199545,
+      "slow_end": 68.15092970521542
+    },
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--text--s9",
+      "asset_id": "B2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 9,
+      "paragraph_index": 1,
+      "sentence_index": 4,
+      "text": "U středního rodu v množném čísle by věta zněla například nová hřiště byla otevřena.",
+      "start": 61.51587301587302,
+      "end": 69.22489795918368,
+      "slow_start": 68.33092970521542,
+      "slow_end": 76.89909297052154
+    },
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--text--s10",
+      "asset_id": "B2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 10,
+      "paragraph_index": 1,
+      "sentence_index": 5,
+      "text": "Koncovku tedy nevolíme podle slova, které je náhodou nejblíže.",
+      "start": 69.40489795918367,
+      "end": 74.72226757369614,
+      "slow_start": 77.07909297052154,
+      "slow_end": 83.05823129251701
+    },
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--text--p2",
+      "asset_id": "B2-U03-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Další věta uváděla, že pět dobrovolníků přišli včas. V běžné neutrální konstrukci s číslovkou pět jako součástí podmětu jsme zvolili pět dobrovolníků přišlo včas. Zároveň jsme si připomněli, že složitější shoda může záviset na stavbě věty a významu. Nechtěli jsme z jednoduchého cvičení vytvořit tvrzení, že každá věta s číslovkou musí vypadat úplně stejně bez ohledu na kontext.",
+      "start": 74.90226757369615,
+      "end": 110.19092970521542,
+      "slow_start": 83.238231292517,
+      "slow_end": 123.01995464852608
+    },
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--text--s11",
+      "asset_id": "B2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 11,
+      "paragraph_index": 2,
+      "sentence_index": 0,
+      "text": "Další věta uváděla, že pět dobrovolníků přišli včas.",
+      "start": 74.90226757369615,
+      "end": 80.39378684807257,
+      "slow_start": 83.238231292517,
+      "slow_end": 89.40312925170068
+    },
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--text--s12",
+      "asset_id": "B2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 12,
+      "paragraph_index": 2,
+      "sentence_index": 1,
+      "text": "V běžné neutrální konstrukci s číslovkou pět jako součástí podmětu jsme zvolili pět dobrovolníků přišlo včas.",
+      "start": 80.57378684807256,
+      "end": 91.12725623582766,
+      "slow_start": 89.58312925170068,
+      "slow_end": 101.59945578231293
+    },
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--text--s13",
+      "asset_id": "B2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 13,
+      "paragraph_index": 2,
+      "sentence_index": 2,
+      "text": "Zároveň jsme si připomněli, že složitější shoda může záviset na stavbě věty a významu.",
+      "start": 91.30725623582767,
+      "end": 98.7724716553288,
+      "slow_start": 101.77945578231292,
+      "slow_end": 110.24312925170068
+    },
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--text--s14",
+      "asset_id": "B2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 14,
+      "paragraph_index": 2,
+      "sentence_index": 3,
+      "text": "Nechtěli jsme z jednoduchého cvičení vytvořit tvrzení, že každá věta s číslovkou musí vypadat úplně stejně bez ohledu na kontext.",
+      "start": 98.9524716553288,
+      "end": 110.19092970521542,
+      "slow_start": 110.42312925170069,
+      "slow_end": 123.01995464852608
+    },
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--text--p3",
+      "asset_id": "B2-U03-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "U zájmen jsme sledovali, komu patří nářadí. Věta Petr přinesl jeho nářadí naznačuje v daném kontextu nářadí jiného muže. Pokud Petr přinesl vlastní vybavení, přesnější je Petr přinesl své nářadí. Ani tady však nestačí nahradit každé jeho slovem své. Musíme vědět, kdo je podmětem a kdo vlastníkem. Při změně podmětu se může změnit i správná volba zájmena.",
+      "start": 110.37092970521542,
+      "end": 142.8384580498866,
+      "slow_start": 123.19995464852607,
+      "slow_end": 159.69614512471657
+    },
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--text--s15",
+      "asset_id": "B2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 15,
+      "paragraph_index": 3,
+      "sentence_index": 0,
+      "text": "U zájmen jsme sledovali, komu patří nářadí.",
+      "start": 110.37092970521542,
+      "end": 114.4924716553288,
+      "slow_start": 123.19995464852607,
+      "slow_end": 127.77428571428571
+    },
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--text--s16",
+      "asset_id": "B2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 16,
+      "paragraph_index": 3,
+      "sentence_index": 1,
+      "text": "Věta Petr přinesl jeho nářadí naznačuje v daném kontextu nářadí jiného muže.",
+      "start": 114.67247165532879,
+      "end": 121.52235827664398,
+      "slow_start": 127.95428571428572,
+      "slow_end": 135.5936507936508
+    },
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--text--s17",
+      "asset_id": "B2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 17,
+      "paragraph_index": 3,
+      "sentence_index": 2,
+      "text": "Pokud Petr přinesl vlastní vybavení, přesnější je Petr přinesl své nářadí.",
+      "start": 121.70235827664399,
+      "end": 128.2271655328798,
+      "slow_start": 135.7736507936508,
+      "slow_end": 143.26208616780045
+    },
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--text--s18",
+      "asset_id": "B2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 18,
+      "paragraph_index": 3,
+      "sentence_index": 3,
+      "text": "Ani tady však nestačí nahradit každé jeho slovem své.",
+      "start": 128.40716553287982,
+      "end": 133.32979591836735,
+      "slow_start": 143.44208616780045,
+      "slow_end": 148.94521541950112
+    },
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--text--s19",
+      "asset_id": "B2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 19,
+      "paragraph_index": 3,
+      "sentence_index": 4,
+      "text": "Musíme vědět, kdo je podmětem a kdo vlastníkem.",
+      "start": 133.50979591836736,
+      "end": 137.5152380952381,
+      "slow_start": 149.12521541950113,
+      "slow_end": 153.69954648526078
+    },
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--text--s20",
+      "asset_id": "B2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 20,
+      "paragraph_index": 3,
+      "sentence_index": 5,
+      "text": "Při změně podmětu se může změnit i správná volba zájmena.",
+      "start": 137.6952380952381,
+      "end": 142.8384580498866,
+      "slow_start": 153.87954648526076,
+      "slow_end": 159.69614512471657
+    },
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--text--p4",
+      "asset_id": "B2-U03-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 4,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Nakonec jsme zkontrolovali vazby v poděkování. Děkujeme dobrovolníkům za pomoc používá třetí pád u lidí a čtvrtý pád po za. S pomocí dobrovolníků bychom zahradu opravili rychleji má jinou stavbu: pomoc stojí po s v sedmém pádě a dobrovolníků vyjadřuje, čí pomoc to je. Stejné osoby tedy mohou mít v sousedních větách různé koncovky, aniž by se změnila jejich totožnost.",
+      "start": 143.01845804988662,
+      "end": 177.26222222222222,
+      "slow_start": 159.87614512471654,
+      "slow_end": 198.63619047619048
+    },
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--text--s21",
+      "asset_id": "B2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 21,
+      "paragraph_index": 4,
+      "sentence_index": 0,
+      "text": "Nakonec jsme zkontrolovali vazby v poděkování.",
+      "start": 143.01845804988662,
+      "end": 146.97746031746033,
+      "slow_start": 159.87614512471654,
+      "slow_end": 164.33437641723356
+    },
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--text--s22",
+      "asset_id": "B2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 22,
+      "paragraph_index": 4,
+      "sentence_index": 1,
+      "text": "Děkujeme dobrovolníkům za pomoc používá třetí pád u lidí a čtvrtý pád po za.",
+      "start": 147.1574603174603,
+      "end": 154.50657596371883,
+      "slow_start": 164.51437641723356,
+      "slow_end": 173.16380952380953
+    },
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--text--s23",
+      "asset_id": "B2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 23,
+      "paragraph_index": 4,
+      "sentence_index": 2,
+      "text": "S pomocí dobrovolníků bychom zahradu opravili rychleji má jinou stavbu: pomoc stojí po s v sedmém pádě a dobrovolníků vyjadřuje, čí pomoc to je.",
+      "start": 154.6865759637188,
+      "end": 167.8522902494331,
+      "slow_start": 173.3438095238095,
+      "slow_end": 188.39034013605442
+    },
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--text--s24",
+      "asset_id": "B2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 24,
+      "paragraph_index": 4,
+      "sentence_index": 3,
+      "text": "Stejné osoby tedy mohou mít v sousedních větách různé koncovky, aniž by se změnila jejich totožnost.",
+      "start": 168.03229024943312,
+      "end": 177.26222222222222,
+      "slow_start": 188.57034013605443,
+      "slow_end": 198.63619047619048
+    },
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--text--p5",
+      "asset_id": "B2-U03-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 5,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Při druhém čtení jsme už neřešili pouze správnost tvarů. Zkrátili jsme dvě příliš dlouhé věty a vysvětlili, které práce byly dokončeny a které teprve čekají. Přesná gramatika není samoúčelná sbírka koncovek. Pomáhá rozlišit osoby, odpovědnost, počet, vlastnictví i časový stav úkolu. Když oprava změní tato fakta, nejde o stylistické vylepšení, ale o chybu, kterou je nutné vrátit zpět.",
+      "start": 177.44222222222223,
+      "end": 212.67868480725625,
+      "slow_start": 198.81619047619049,
+      "slow_end": 238.03487528344672
+    },
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--text--s25",
+      "asset_id": "B2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 25,
+      "paragraph_index": 5,
+      "sentence_index": 0,
+      "text": "Při druhém čtení jsme už neřešili pouze správnost tvarů.",
+      "start": 177.44222222222223,
+      "end": 182.10943310657598,
+      "slow_start": 198.81619047619049,
+      "slow_end": 204.00585034013605
+    },
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--text--s26",
+      "asset_id": "B2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 26,
+      "paragraph_index": 5,
+      "sentence_index": 1,
+      "text": "Zkrátili jsme dvě příliš dlouhé věty a vysvětlili, které práce byly dokončeny a které teprve čekají.",
+      "start": 182.28943310657596,
+      "end": 191.1710657596372,
+      "slow_start": 204.18585034013606,
+      "slow_end": 214.13560090702947
+    },
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--text--s27",
+      "asset_id": "B2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 27,
+      "paragraph_index": 5,
+      "sentence_index": 2,
+      "text": "Přesná gramatika není samoúčelná sbírka koncovek.",
+      "start": 191.35106575963718,
+      "end": 196.04149659863947,
+      "slow_start": 214.31560090702948,
+      "slow_end": 219.55170068027212
+    },
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--text--s28",
+      "asset_id": "B2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 28,
+      "paragraph_index": 5,
+      "sentence_index": 3,
+      "text": "Pomáhá rozlišit osoby, odpovědnost, počet, vlastnictví i časový stav úkolu.",
+      "start": 196.22149659863945,
+      "end": 203.50095238095238,
+      "slow_start": 219.7317006802721,
+      "slow_end": 227.80063492063493
+    },
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--text--s29",
+      "asset_id": "B2-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 29,
+      "paragraph_index": 5,
+      "sentence_index": 4,
+      "text": "Když oprava změní tato fakta, nejde o stylistické vylepšení, ale o chybu, kterou je nutné vrátit zpět.",
+      "start": 203.6809523809524,
+      "end": 212.67868480725625,
+      "slow_start": 227.9806349206349,
+      "slow_end": 238.03487528344672
+    },
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--listening--f49bdc76c7--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--listening--f49bdc76c7--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--listening",
+      "role": "listening-full",
+      "index": 0,
+      "text": "Pět dobrovolníků dorazilo ráno. Dvě skupiny pracovaly na zahradě, zatímco tři technici kontrolovali osvětlení. Nové lavičky byly připraveny, ale dětská hřiště ještě nebyla otevřena. Petr si přinesl vlastní nářadí; ostatní použili vybavení spolku.",
+      "duration_seconds": 21.641179138321995,
+      "slow_duration_seconds": 24.555283446712018,
+      "sha256": "6966c6de4a3db38317bf3160c8431ef24616f093cb89605e74ecf56ec54fa5da",
+      "slow_sha256": "3764631ed0cff43c894dae68e81b846267b62435815e72bc65279d337be36072"
+    },
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--listening--f49bdc76c7--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--listening--f49bdc76c7--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--listening--p0",
+      "asset_id": "B2-U03-L01--2026.10.23.1--listening",
+      "role": "listening",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Pět dobrovolníků dorazilo ráno. Dvě skupiny pracovaly na zahradě, zatímco tři technici kontrolovali osvětlení. Nové lavičky byly připraveny, ale dětská hřiště ještě nebyla otevřena. Petr si přinesl vlastní nářadí; ostatní použili vybavení spolku.",
+      "start": 0,
+      "end": 21.461179138321995,
+      "slow_start": 0,
+      "slow_end": 24.375283446712018
+    },
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--vocabulary--4d3636c95e--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--vocabulary--4d3636c95e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary-full",
+      "index": 0,
+      "text": "Zkontrolujeme shodu přísudku. Věta neurčuje vlastníka jasně. Poděkovali jsme dobrovolníkům. Koncovka závisí na vztahu ve větě.",
+      "duration_seconds": 11.691428571428572,
+      "slow_duration_seconds": 13.29360544217687,
+      "sha256": "94b4b0a9f37c4dcd537e409fecf2ad3dd7889f1c144918a93295609ccbd4e203",
+      "slow_sha256": "a89c8c7ee8b193854e92359001d9c9bf1c686fdde7e6bd4b9a1882c884b929e4"
+    },
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--vocabulary--4d3636c95e--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--vocabulary--4d3636c95e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--vocabulary--p0",
+      "asset_id": "B2-U03-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Zkontrolujeme shodu přísudku.",
+      "start": 0,
+      "end": 2.5658049886621317,
+      "slow_start": 0,
+      "slow_end": 2.972154195011338
+    },
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--vocabulary--4d3636c95e--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--vocabulary--4d3636c95e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--vocabulary--p1",
+      "asset_id": "B2-U03-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Věta neurčuje vlastníka jasně.",
+      "start": 2.7458049886621314,
+      "end": 5.497369614512472,
+      "slow_start": 3.152154195011338,
+      "slow_end": 6.33328798185941
+    },
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--vocabulary--4d3636c95e--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--vocabulary--4d3636c95e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--vocabulary--p2",
+      "asset_id": "B2-U03-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Poděkovali jsme dobrovolníkům.",
+      "start": 5.677369614512472,
+      "end": 8.19673469387755,
+      "slow_start": 6.513287981859411,
+      "slow_end": 9.346122448979592
+    },
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--vocabulary--4d3636c95e--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--vocabulary--4d3636c95e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--vocabulary--p3",
+      "asset_id": "B2-U03-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Koncovka závisí na vztahu ve větě.",
+      "start": 8.376734693877552,
+      "end": 11.51142857142857,
+      "slow_start": 9.526122448979592,
+      "slow_end": 13.11360544217687
+    },
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--exercises--f390b9ac44--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--exercises--f390b9ac44--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--exercises",
+      "role": "exercises-full",
+      "index": 0,
+      "text": "Nové lavičky byly připraveny, ale dětská hřiště ještě nebyla otevřena.",
+      "duration_seconds": 5.636689342403628,
+      "slow_duration_seconds": 6.4261678004535145,
+      "sha256": "3e4c6d64290ebf1058bd47e0272c4cb7ee07040997e24b9e1bade5a2b4c865a3",
+      "slow_sha256": "80db80938de8775132f49171710d9955d62be1ac3359ba68a8bb8606f6831d31"
+    },
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--exercises--f390b9ac44--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--exercises--f390b9ac44--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--exercises--p0",
+      "asset_id": "B2-U03-L01--2026.10.23.1--exercises",
+      "role": "exercise",
+      "index": 0,
+      "exercise_id": "B2-U03-L01-E03",
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Nové lavičky byly připraveny, ale dětská hřiště ještě nebyla otevřena.",
+      "start": 0,
+      "end": 5.456689342403628,
+      "slow_start": 0,
+      "slow_end": 6.246167800453515
+    },
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--contrasts--270b3f9de5--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--contrasts--270b3f9de5--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--contrasts",
+      "role": "contrasts-full",
+      "index": 0,
+      "text": "byli. byly.",
+      "duration_seconds": 1.1087981859410432,
+      "slow_duration_seconds": 1.2597278911564627,
+      "sha256": "5ad7ac7484e9457e196478c8344bb6fe6c26a2f1ea25ed00cc5cfad4c5986f03",
+      "slow_sha256": "1207809de28bba6d2b9ea5e5e27076925a9ad3db1435c85bed23efa4e6d595cc"
+    },
+    {
+      "lesson_id": "B2-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U03-L01--2026.10.22.1--contrasts--270b3f9de5--normal.mp3",
+      "slow_file": "audio/files/B2-U03-L01--2026.10.22.1--contrasts--270b3f9de5--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U03-L01--2026.10.23.1--contrasts--p0",
+      "asset_id": "B2-U03-L01--2026.10.23.1--contrasts",
+      "role": "contrast",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "byli. byly.",
+      "start": 0,
+      "end": 0.9287981859410431,
+      "slow_start": 0,
+      "slow_end": 1.0797278911564625
+    }
+  ]
+}

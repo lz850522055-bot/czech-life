@@ -1,0 +1,173 @@
+{
+  "id": "C2-U07-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "C2-U07-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C2",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Přepis zachytil slova správně.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Přepis zachytil slova správně."
+      ]
+    },
+    {
+      "text": "Shrnutí změnilo rozsah dohody.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Shrnutí změnilo rozsah dohody."
+      ]
+    },
+    {
+      "text": "Návrh ještě není závazné rozhodnutí.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Návrh ještě není závazné rozhodnutí."
+      ]
+    },
+    {
+      "text": "Odpověď nesmí být jen vyhýbavá.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Odpověď nesmí být jen vyhýbavá."
+      ]
+    },
+    {
+      "text": "Položíme rozlišující otázku.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Položíme rozlišující otázku."
+      ]
+    }
+  ],
+  "text_sha256": "95aa6d849469f5cee05b0e85c27403155be8186ae84917ac1e6eb16b2c5d72b2",
+  "source_file": "content/lessons/C2/C2-U07-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U07-L01--2026.10.22.1--vocabulary--95aa6d8494--normal.mp3",
+  "slow_file": "content/audio/files/C2-U07-L01--2026.10.22.1--vocabulary--95aa6d8494--slow.mp3",
+  "duration_seconds": 16.178730158730158,
+  "slow_duration_seconds": 18.04793650793651,
+  "cues": [
+    {
+      "text": "Přepis zachytil slova správně.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Přepis zachytil slova správně."
+      ],
+      "start": 0.0,
+      "end": 2.7747845804988662,
+      "sentences": [
+        {
+          "text": "Přepis zachytil slova správně.",
+          "start": 0.0,
+          "end": 2.7747845804988662,
+          "slow_start": 0.0,
+          "slow_end": 3.0882539682539685
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 3.0882539682539685
+    },
+    {
+      "text": "Shrnutí změnilo rozsah dohody.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Shrnutí změnilo rozsah dohody."
+      ],
+      "start": 2.9547845804988664,
+      "end": 5.485759637188209,
+      "sentences": [
+        {
+          "text": "Shrnutí změnilo rozsah dohody.",
+          "start": 2.9547845804988664,
+          "end": 5.485759637188209,
+          "slow_start": 3.268253968253968,
+          "slow_end": 6.298458049886621
+        }
+      ],
+      "slow_start": 3.268253968253968,
+      "slow_end": 6.298458049886621
+    },
+    {
+      "text": "Návrh ještě není závazné rozhodnutí.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Návrh ještě není závazné rozhodnutí."
+      ],
+      "start": 5.665759637188208,
+      "end": 9.195192743764173,
+      "sentences": [
+        {
+          "text": "Návrh ještě není závazné rozhodnutí.",
+          "start": 5.665759637188208,
+          "end": 9.195192743764173,
+          "slow_start": 6.478458049886621,
+          "slow_end": 10.263310657596373
+        }
+      ],
+      "slow_start": 6.478458049886621,
+      "slow_end": 10.263310657596373
+    },
+    {
+      "text": "Odpověď nesmí být jen vyhýbavá.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Odpověď nesmí být jen vyhýbavá."
+      ],
+      "start": 9.375192743764172,
+      "end": 12.939455782312924,
+      "sentences": [
+        {
+          "text": "Odpověď nesmí být jen vyhýbavá.",
+          "start": 9.375192743764172,
+          "end": 12.939455782312924,
+          "slow_start": 10.443310657596372,
+          "slow_end": 14.44875283446712
+        }
+      ],
+      "slow_start": 10.443310657596372,
+      "slow_end": 14.44875283446712
+    },
+    {
+      "text": "Položíme rozlišující otázku.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Položíme rozlišující otázku."
+      ],
+      "start": 13.119455782312926,
+      "end": 15.998730158730158,
+      "sentences": [
+        {
+          "text": "Položíme rozlišující otázku.",
+          "start": 13.119455782312926,
+          "end": 15.998730158730158,
+          "slow_start": 14.62875283446712,
+          "slow_end": 17.86793650793651
+        }
+      ],
+      "slow_start": 14.62875283446712,
+      "slow_end": 17.86793650793651
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "c2b33b441644b459fda817b3a1ec9c9ae70c1038f6160061df2f6f0c9a7fe8e8",
+    "slow": "7803788ee77ade3a40610f869c2ba842fbf627ff0509b16e71e18cece23ea23f"
+  }
+}

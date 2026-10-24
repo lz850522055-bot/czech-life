@@ -1,0 +1,297 @@
+{
+  "id": "B1-U06-L01--2026.10.22.1--text",
+  "lesson_id": "B1-U06-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "V jazykové kavárně jsme si vytvořili malou skupinu. Každý se chtěl zlepšit v něčem jiném. Jana se učila česky kvůli práci, Amir se zajímal hlavně o běžné rozhovory a já jsem potřeboval lépe rozumět telefonátům. Domluvili jsme se na jednoduchém pravidle: nikdo se nesměje cizím chybám a každý se může zeptat na to, čemu nerozumí.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "V jazykové kavárně jsme si vytvořili malou skupinu.",
+        "Každý se chtěl zlepšit v něčem jiném.",
+        "Jana se učila česky kvůli práci, Amir se zajímal hlavně o běžné rozhovory a já jsem potřeboval lépe rozumět telefonátům.",
+        "Domluvili jsme se na jednoduchém pravidle: nikdo se nesměje cizím chybám a každý se může zeptat na to, čemu nerozumí."
+      ]
+    },
+    {
+      "text": "Na první schůzce jsem řekl, že učím češtinu. Jana byla překvapená, protože si myslela, že jsem lektor. Hned jsem se opravil: učím se česky, zatím nikoho neučím. Potom jsme si zapsali několik podobných dvojic. Když si kupuji knihu, kupuji ji pro sebe. Když myji dítě, pečuji o někoho jiného; když se myji, provádím činnost na sobě.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Na první schůzce jsem řekl, že učím češtinu.",
+        "Jana byla překvapená, protože si myslela, že jsem lektor.",
+        "Hned jsem se opravil: učím se česky, zatím nikoho neučím.",
+        "Potom jsme si zapsali několik podobných dvojic.",
+        "Když si kupuji knihu, kupuji ji pro sebe.",
+        "Když myji dítě, pečuji o někoho jiného; když se myji, provádím činnost na sobě."
+      ]
+    },
+    {
+      "text": "Brzy jsme zjistili, že ne každé se lze přeložit jako sebe. U sloves bát se nebo těšit se je součástí běžné vazby. Amir se bál telefonování, ale těšil se na možnost trénovat s námi. Požádal Janu o pomoc a poděkoval jí za trpělivost. Jana mu doporučila, aby si nejprve připravil otázky a při hovoru se nesnažil rozumět každému slovu.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Brzy jsme zjistili, že ne každé se lze přeložit jako sebe.",
+        "U sloves bát se nebo těšit se je součástí běžné vazby.",
+        "Amir se bál telefonování, ale těšil se na možnost trénovat s námi.",
+        "Požádal Janu o pomoc a poděkoval jí za trpělivost.",
+        "Jana mu doporučila, aby si nejprve připravil otázky a při hovoru se nesnažil rozumět každému slovu."
+      ]
+    },
+    {
+      "text": "Na další schůzce jsme se bavili o tom, co se podařilo. Amir už zavolal do knihovny a zeptal se na otevírací dobu. Já jsem si všiml, že mi pomáhá zapisovat celé vazby místo samostatných slov. Nestačí tedy znát pouze sloveso čekat. Potřebuji vědět, že čekám na odpověď, zatímco děkuji za odpověď a rozumím odpovědi. Taková přesnost usnadňuje skutečný rozhovor.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Na další schůzce jsme se bavili o tom, co se podařilo.",
+        "Amir už zavolal do knihovny a zeptal se na otevírací dobu.",
+        "Já jsem si všiml, že mi pomáhá zapisovat celé vazby místo samostatných slov.",
+        "Nestačí tedy znát pouze sloveso čekat.",
+        "Potřebuji vědět, že čekám na odpověď, zatímco děkuji za odpověď a rozumím odpovědi.",
+        "Taková přesnost usnadňuje skutečný rozhovor."
+      ]
+    }
+  ],
+  "text_sha256": "01cd94802808ad4f73eebdc2d288be16a960259020d67e0f6bca5b562aad3723",
+  "source_file": "content/lessons/B1/B1-U06-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--normal.mp3",
+  "slow_file": "content/audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--slow.mp3",
+  "duration_seconds": 121.93473922902494,
+  "slow_duration_seconds": 137.51532879818595,
+  "cues": [
+    {
+      "text": "V jazykové kavárně jsme si vytvořili malou skupinu. Každý se chtěl zlepšit v něčem jiném. Jana se učila česky kvůli práci, Amir se zajímal hlavně o běžné rozhovory a já jsem potřeboval lépe rozumět telefonátům. Domluvili jsme se na jednoduchém pravidle: nikdo se nesměje cizím chybám a každý se může zeptat na to, čemu nerozumí.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "V jazykové kavárně jsme si vytvořili malou skupinu.",
+        "Každý se chtěl zlepšit v něčem jiném.",
+        "Jana se učila česky kvůli práci, Amir se zajímal hlavně o běžné rozhovory a já jsem potřeboval lépe rozumět telefonátům.",
+        "Domluvili jsme se na jednoduchém pravidle: nikdo se nesměje cizím chybám a každý se může zeptat na to, čemu nerozumí."
+      ],
+      "start": 0.0,
+      "end": 29.762312925170068,
+      "sentences": [
+        {
+          "text": "V jazykové kavárně jsme si vytvořili malou skupinu.",
+          "start": 0.0,
+          "end": 4.3769614512471655,
+          "slow_start": 0.0,
+          "slow_end": 5.050340136054421
+        },
+        {
+          "text": "Každý se chtěl zlepšit v něčem jiném.",
+          "start": 4.556961451247165,
+          "end": 7.78453514739229,
+          "slow_start": 5.230340136054422,
+          "slow_end": 8.910702947845804
+        },
+        {
+          "text": "Jana se učila česky kvůli práci, Amir se zajímal hlavně o běžné rozhovory a já jsem potřeboval lépe rozumět telefonátům.",
+          "start": 7.96453514739229,
+          "end": 19.365532879818595,
+          "slow_start": 9.090702947845806,
+          "slow_end": 21.884897959183675
+        },
+        {
+          "text": "Domluvili jsme se na jednoduchém pravidle: nikdo se nesměje cizím chybám a každý se může zeptat na to, čemu nerozumí.",
+          "start": 19.545532879818595,
+          "end": 29.762312925170068,
+          "slow_start": 22.064897959183675,
+          "slow_end": 33.988344671201816
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 33.988344671201816
+    },
+    {
+      "text": "Na první schůzce jsem řekl, že učím češtinu. Jana byla překvapená, protože si myslela, že jsem lektor. Hned jsem se opravil: učím se česky, zatím nikoho neučím. Potom jsme si zapsali několik podobných dvojic. Když si kupuji knihu, kupuji ji pro sebe. Když myji dítě, pečuji o někoho jiného; když se myji, provádím činnost na sobě.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Na první schůzce jsem řekl, že učím češtinu.",
+        "Jana byla překvapená, protože si myslela, že jsem lektor.",
+        "Hned jsem se opravil: učím se česky, zatím nikoho neučím.",
+        "Potom jsme si zapsali několik podobných dvojic.",
+        "Když si kupuji knihu, kupuji ji pro sebe.",
+        "Když myji dítě, pečuji o někoho jiného; když se myji, provádím činnost na sobě."
+      ],
+      "start": 29.942312925170068,
+      "end": 59.87886621315193,
+      "sentences": [
+        {
+          "text": "Na první schůzce jsem řekl, že učím češtinu.",
+          "start": 29.942312925170068,
+          "end": 34.052244897959184,
+          "slow_start": 34.168344671201815,
+          "slow_end": 38.85877551020408
+        },
+        {
+          "text": "Jana byla překvapená, protože si myslela, že jsem lektor.",
+          "start": 34.232244897959184,
+          "end": 39.30580498866213,
+          "slow_start": 39.03877551020408,
+          "slow_end": 44.77410430839002
+        },
+        {
+          "text": "Hned jsem se opravil: učím se česky, zatím nikoho neučím.",
+          "start": 39.48580498866213,
+          "end": 44.82639455782313,
+          "slow_start": 44.95410430839002,
+          "slow_end": 51.06095238095238
+        },
+        {
+          "text": "Potom jsme si zapsali několik podobných dvojic.",
+          "start": 45.00639455782313,
+          "end": 49.12793650793651,
+          "slow_start": 51.24095238095238,
+          "slow_end": 55.83850340136055
+        },
+        {
+          "text": "Když si kupuji knihu, kupuji ji pro sebe.",
+          "start": 49.30793650793651,
+          "end": 52.69804988662131,
+          "slow_start": 56.01850340136055,
+          "slow_end": 59.90784580498866
+        },
+        {
+          "text": "Když myji dítě, pečuji o někoho jiného; když se myji, provádím činnost na sobě.",
+          "start": 52.87804988662131,
+          "end": 59.87886621315193,
+          "slow_start": 60.08784580498866,
+          "slow_end": 67.90136054421768
+        }
+      ],
+      "slow_start": 34.168344671201815,
+      "slow_end": 67.90136054421768
+    },
+    {
+      "text": "Brzy jsme zjistili, že ne každé se lze přeložit jako sebe. U sloves bát se nebo těšit se je součástí běžné vazby. Amir se bál telefonování, ale těšil se na možnost trénovat s námi. Požádal Janu o pomoc a poděkoval jí za trpělivost. Jana mu doporučila, aby si nejprve připravil otázky a při hovoru se nesnažil rozumět každému slovu.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Brzy jsme zjistili, že ne každé se lze přeložit jako sebe.",
+        "U sloves bát se nebo těšit se je součástí běžné vazby.",
+        "Amir se bál telefonování, ale těšil se na možnost trénovat s námi.",
+        "Požádal Janu o pomoc a poděkoval jí za trpělivost.",
+        "Jana mu doporučila, aby si nejprve připravil otázky a při hovoru se nesnažil rozumět každému slovu."
+      ],
+      "start": 60.05886621315193,
+      "end": 90.0592290249433,
+      "sentences": [
+        {
+          "text": "Brzy jsme zjistili, že ne každé se lze přeložit jako sebe.",
+          "start": 60.05886621315193,
+          "end": 65.05115646258503,
+          "slow_start": 68.08136054421769,
+          "slow_end": 73.72380952380952
+        },
+        {
+          "text": "U sloves bát se nebo těšit se je součástí běžné vazby.",
+          "start": 65.23115646258503,
+          "end": 70.15378684807256,
+          "slow_start": 73.90380952380953,
+          "slow_end": 79.4069387755102
+        },
+        {
+          "text": "Amir se bál telefonování, ale těšil se na možnost trénovat s námi.",
+          "start": 70.33378684807256,
+          "end": 76.45224489795919,
+          "slow_start": 79.5869387755102,
+          "slow_end": 86.57614512471655
+        },
+        {
+          "text": "Požádal Janu o pomoc a poděkoval jí za trpělivost.",
+          "start": 76.63224489795918,
+          "end": 81.39233560090703,
+          "slow_start": 86.75614512471655,
+          "slow_end": 91.98063492063493
+        },
+        {
+          "text": "Jana mu doporučila, aby si nejprve připravil otázky a při hovoru se nesnažil rozumět každému slovu.",
+          "start": 81.57233560090702,
+          "end": 90.0592290249433,
+          "slow_start": 92.16063492063492,
+          "slow_end": 101.69242630385487
+        }
+      ],
+      "slow_start": 68.08136054421769,
+      "slow_end": 101.69242630385487
+    },
+    {
+      "text": "Na další schůzce jsme se bavili o tom, co se podařilo. Amir už zavolal do knihovny a zeptal se na otevírací dobu. Já jsem si všiml, že mi pomáhá zapisovat celé vazby místo samostatných slov. Nestačí tedy znát pouze sloveso čekat. Potřebuji vědět, že čekám na odpověď, zatímco děkuji za odpověď a rozumím odpovědi. Taková přesnost usnadňuje skutečný rozhovor.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Na další schůzce jsme se bavili o tom, co se podařilo.",
+        "Amir už zavolal do knihovny a zeptal se na otevírací dobu.",
+        "Já jsem si všiml, že mi pomáhá zapisovat celé vazby místo samostatných slov.",
+        "Nestačí tedy znát pouze sloveso čekat.",
+        "Potřebuji vědět, že čekám na odpověď, zatímco děkuji za odpověď a rozumím odpovědi.",
+        "Taková přesnost usnadňuje skutečný rozhovor."
+      ],
+      "start": 90.23922902494331,
+      "end": 121.75473922902495,
+      "sentences": [
+        {
+          "text": "Na další schůzce jsme se bavili o tom, co se podařilo.",
+          "start": 90.23922902494331,
+          "end": 94.5465306122449,
+          "slow_start": 101.87242630385488,
+          "slow_end": 106.77183673469388
+        },
+        {
+          "text": "Amir už zavolal do knihovny a zeptal se na otevírací dobu.",
+          "start": 94.7265306122449,
+          "end": 99.5330612244898,
+          "slow_start": 106.95183673469388,
+          "slow_end": 112.4085260770975
+        },
+        {
+          "text": "Já jsem si všiml, že mi pomáhá zapisovat celé vazby místo samostatných slov.",
+          "start": 99.71306122448979,
+          "end": 106.70226757369615,
+          "slow_start": 112.58852607709751,
+          "slow_end": 120.42526077097506
+        },
+        {
+          "text": "Nestačí tedy znát pouze sloveso čekat.",
+          "start": 106.88226757369614,
+          "end": 110.40009070294785,
+          "slow_start": 120.60526077097505,
+          "slow_end": 124.5178231292517
+        },
+        {
+          "text": "Potřebuji vědět, že čekám na odpověď, zatímco děkuji za odpověď a rozumím odpovědi.",
+          "start": 110.58009070294784,
+          "end": 117.8827664399093,
+          "slow_start": 124.6978231292517,
+          "slow_end": 132.84802721088437
+        },
+        {
+          "text": "Taková přesnost usnadňuje skutečný rozhovor.",
+          "start": 118.0627664399093,
+          "end": 121.75473922902495,
+          "slow_start": 133.02802721088435,
+          "slow_end": 137.33532879818594
+        }
+      ],
+      "slow_start": 101.87242630385488,
+      "slow_end": 137.33532879818594
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "8b87b287c7476fb8e17c0c2f09ed2447d1e483256b2d89b1d7127070218000ef",
+    "slow": "ad8da0f77105ddfb35088d67db37a8d781de506fe6d8ab25ba98b665fe13f23a"
+  }
+}

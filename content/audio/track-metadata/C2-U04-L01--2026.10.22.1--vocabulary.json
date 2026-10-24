@@ -1,0 +1,173 @@
+{
+  "id": "C2-U04-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "C2-U04-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C2",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Čítárna má jiné funkce než výdej knih.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Čítárna má jiné funkce než výdej knih."
+      ]
+    },
+    {
+      "text": "Cena nevyčerpává všechny důsledky.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Cena nevyčerpává všechny důsledky."
+      ]
+    },
+    {
+      "text": "Konstrukce působí neosobně.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Konstrukce působí neosobně."
+      ]
+    },
+    {
+      "text": "Obraz odsouvá náklady do pozadí.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Obraz odsouvá náklady do pozadí."
+      ]
+    },
+    {
+      "text": "Parafráze musí zachovat meze tvrzení.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Parafráze musí zachovat meze tvrzení."
+      ]
+    }
+  ],
+  "text_sha256": "931dbb63746eace848df66cc3e7ea4a072ce15d70eab4ef8d2c78264cc365f3a",
+  "source_file": "content/lessons/C2/C2-U04-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U04-L01--2026.10.22.1--vocabulary--931dbb6374--normal.mp3",
+  "slow_file": "content/audio/files/C2-U04-L01--2026.10.22.1--vocabulary--931dbb6374--slow.mp3",
+  "duration_seconds": 17.003038548752833,
+  "slow_duration_seconds": 19.046394557823128,
+  "cues": [
+    {
+      "text": "Čítárna má jiné funkce než výdej knih.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Čítárna má jiné funkce než výdej knih."
+      ],
+      "start": 0.0,
+      "end": 3.8545124716553287,
+      "sentences": [
+        {
+          "text": "Čítárna má jiné funkce než výdej knih.",
+          "start": 0.0,
+          "end": 3.8545124716553287,
+          "slow_start": 0.0,
+          "slow_end": 4.307301587301588
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 4.307301587301588
+    },
+    {
+      "text": "Cena nevyčerpává všechny důsledky.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Cena nevyčerpává všechny důsledky."
+      ],
+      "start": 4.0345124716553284,
+      "end": 6.971836734693878,
+      "sentences": [
+        {
+          "text": "Cena nevyčerpává všechny důsledky.",
+          "start": 4.0345124716553284,
+          "end": 6.971836734693878,
+          "slow_start": 4.487301587301587,
+          "slow_end": 7.923854875283447
+        }
+      ],
+      "slow_start": 4.487301587301587,
+      "slow_end": 7.923854875283447
+    },
+    {
+      "text": "Konstrukce působí neosobně.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Konstrukce působí neosobně."
+      ],
+      "start": 7.151836734693878,
+      "end": 10.054331065759637,
+      "sentences": [
+        {
+          "text": "Konstrukce působí neosobně.",
+          "start": 7.151836734693878,
+          "end": 10.054331065759637,
+          "slow_start": 8.103854875283446,
+          "slow_end": 11.296598639455782
+        }
+      ],
+      "slow_start": 8.103854875283446,
+      "slow_end": 11.296598639455782
+    },
+    {
+      "text": "Obraz odsouvá náklady do pozadí.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Obraz odsouvá náklady do pozadí."
+      ],
+      "start": 10.234331065759637,
+      "end": 13.14843537414966,
+      "sentences": [
+        {
+          "text": "Obraz odsouvá náklady do pozadí.",
+          "start": 10.234331065759637,
+          "end": 13.14843537414966,
+          "slow_start": 11.476598639455782,
+          "slow_end": 14.785442176870749
+        }
+      ],
+      "slow_start": 11.476598639455782,
+      "slow_end": 14.785442176870749
+    },
+    {
+      "text": "Parafráze musí zachovat meze tvrzení.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Parafráze musí zachovat meze tvrzení."
+      ],
+      "start": 13.32843537414966,
+      "end": 16.823038548752834,
+      "sentences": [
+        {
+          "text": "Parafráze musí zachovat meze tvrzení.",
+          "start": 13.32843537414966,
+          "end": 16.823038548752834,
+          "slow_start": 14.965442176870749,
+          "slow_end": 18.866394557823128
+        }
+      ],
+      "slow_start": 14.965442176870749,
+      "slow_end": 18.866394557823128
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "3dbb911f4c10bf3155de597477fb7f25a39e1f521f1108b2854778dfc6e4730f",
+    "slow": "d1c7218763097b282adab34b53a3a76e20b23e59d8e766c739529e821c3f6fe5"
+  }
+}

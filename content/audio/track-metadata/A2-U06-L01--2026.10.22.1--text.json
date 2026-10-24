@@ -1,0 +1,370 @@
+{
+  "id": "A2-U06-L01--2026.10.22.1--text",
+  "lesson_id": "A2-U06-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "V sobotu se stěhujeme do nového bytu. Kamarádi nám pomáhají, ale nejdřív musíme vysvětlit, kam které věci patří.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "V sobotu se stěhujeme do nového bytu.",
+        "Kamarádi nám pomáhají, ale nejdřív musíme vysvětlit, kam které věci patří."
+      ]
+    },
+    {
+      "text": "Velký stůl dejte do kuchyně. Malý stolek postavte do pokoje pod okno. Židle mohou zůstat u dveří, dokud nebude hotovo.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Velký stůl dejte do kuchyně.",
+        "Malý stolek postavte do pokoje pod okno.",
+        "Židle mohou zůstat u dveří, dokud nebude hotovo."
+      ]
+    },
+    {
+      "text": "Krabice s knihami položte na zem vedle skříně. Prosím nedávejte je na postel, protože jsou těžké a špinavé.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Krabice s knihami položte na zem vedle skříně.",
+        "Prosím nedávejte je na postel, protože jsou těžké a špinavé."
+      ]
+    },
+    {
+      "text": "Obrazy zatím stojí za skříní. Později je pověsíme na zeď nad pohovku. Jedna police už visí nad stolem.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Obrazy zatím stojí za skříní.",
+        "Později je pověsíme na zeď nad pohovku.",
+        "Jedna police už visí nad stolem."
+      ]
+    },
+    {
+      "text": "Petr teď jede autem z obchodu. Vezl staré krabice pryč a přiveze nám čistou vodu.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Petr teď jede autem z obchodu.",
+        "Vezl staré krabice pryč a přiveze nám čistou vodu."
+      ]
+    },
+    {
+      "text": "Já obvykle chodím do obchodu pěšky, protože je blízko. Dnes tam ale pojedu autem pro další věci.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Já obvykle chodím do obchodu pěšky, protože je blízko.",
+        "Dnes tam ale pojedu autem pro další věci."
+      ]
+    },
+    {
+      "text": "Nový byt je mezi parkem a školou. Z práce k němu jezdím autobusem, ale do parku chodím pěšky.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Nový byt je mezi parkem a školou.",
+        "Z práce k němu jezdím autobusem, ale do parku chodím pěšky."
+      ]
+    },
+    {
+      "text": "Když všechno stojí na správném místě, můžeme si sednout ke stolu a společně si odpočinout.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Když všechno stojí na správném místě, můžeme si sednout ke stolu a společně si odpočinout."
+      ]
+    },
+    {
+      "text": "Než odjedeme, ještě zkontrolujeme, že v autě nezůstaly žádné malé věci.",
+      "index": 8,
+      "role": "text",
+      "parts": [
+        "Než odjedeme, ještě zkontrolujeme, že v autě nezůstaly žádné malé věci."
+      ]
+    }
+  ],
+  "text_sha256": "8744159489f6b97ec630826170e04fed21fe50a7dad4cfdb86e397e2db1b0b5f",
+  "source_file": "content/lessons/A2/A2-U06-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U06-L01--2026.10.22.1--text--8744159489--normal.mp3",
+  "slow_file": "content/audio/files/A2-U06-L01--2026.10.22.1--text--8744159489--slow.mp3",
+  "duration_seconds": 78.61197278911564,
+  "slow_duration_seconds": 89.10739229024944,
+  "cues": [
+    {
+      "text": "V sobotu se stěhujeme do nového bytu. Kamarádi nám pomáhají, ale nejdřív musíme vysvětlit, kam které věci patří.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "V sobotu se stěhujeme do nového bytu.",
+        "Kamarádi nám pomáhají, ale nejdřív musíme vysvětlit, kam které věci patří."
+      ],
+      "start": 0.0,
+      "end": 9.851111111111111,
+      "sentences": [
+        {
+          "text": "V sobotu se stěhujeme do nového bytu.",
+          "start": 0.0,
+          "end": 2.670294784580499,
+          "slow_start": 0.0,
+          "slow_end": 3.1811337868480725
+        },
+        {
+          "text": "Kamarádi nám pomáhají, ale nejdřív musíme vysvětlit, kam které věci patří.",
+          "start": 2.8502947845804987,
+          "end": 9.851111111111111,
+          "slow_start": 3.3611337868480726,
+          "slow_end": 11.151428571428571
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 11.151428571428571
+    },
+    {
+      "text": "Velký stůl dejte do kuchyně. Malý stolek postavte do pokoje pod okno. Židle mohou zůstat u dveří, dokud nebude hotovo.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Velký stůl dejte do kuchyně.",
+        "Malý stolek postavte do pokoje pod okno.",
+        "Židle mohou zůstat u dveří, dokud nebude hotovo."
+      ],
+      "start": 10.03111111111111,
+      "end": 20.294421768707483,
+      "sentences": [
+        {
+          "text": "Velký stůl dejte do kuchyně.",
+          "start": 10.03111111111111,
+          "end": 12.376326530612245,
+          "slow_start": 11.331428571428571,
+          "slow_end": 14.059773242630385
+        },
+        {
+          "text": "Malý stolek postavte do pokoje pod okno.",
+          "start": 12.556326530612244,
+          "end": 15.807120181405896,
+          "slow_start": 14.239773242630385,
+          "slow_end": 17.95496598639456
+        },
+        {
+          "text": "Židle mohou zůstat u dveří, dokud nebude hotovo.",
+          "start": 15.987120181405896,
+          "end": 20.294421768707483,
+          "slow_start": 18.13496598639456,
+          "slow_end": 22.999546485260772
+        }
+      ],
+      "slow_start": 11.331428571428571,
+      "slow_end": 22.999546485260772
+    },
+    {
+      "text": "Krabice s knihami položte na zem vedle skříně. Prosím nedávejte je na postel, protože jsou těžké a špinavé.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Krabice s knihami položte na zem vedle skříně.",
+        "Prosím nedávejte je na postel, protože jsou těžké a špinavé."
+      ],
+      "start": 20.474421768707483,
+      "end": 29.559274376417232,
+      "sentences": [
+        {
+          "text": "Krabice s knihami položte na zem vedle skříně.",
+          "start": 20.474421768707483,
+          "end": 24.28249433106576,
+          "slow_start": 23.179546485260772,
+          "slow_end": 27.393968253968254
+        },
+        {
+          "text": "Prosím nedávejte je na postel, protože jsou těžké a špinavé.",
+          "start": 24.46249433106576,
+          "end": 29.559274376417232,
+          "slow_start": 27.573968253968253,
+          "slow_end": 33.25124716553288
+        }
+      ],
+      "slow_start": 23.179546485260772,
+      "slow_end": 33.25124716553288
+    },
+    {
+      "text": "Obrazy zatím stojí za skříní. Později je pověsíme na zeď nad pohovku. Jedna police už visí nad stolem.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Obrazy zatím stojí za skříní.",
+        "Později je pověsíme na zeď nad pohovku.",
+        "Jedna police už visí nad stolem."
+      ],
+      "start": 29.739274376417235,
+      "end": 39.166666666666664,
+      "sentences": [
+        {
+          "text": "Obrazy zatím stojí za skříní.",
+          "start": 29.739274376417235,
+          "end": 32.56049886621315,
+          "slow_start": 33.43124716553288,
+          "slow_end": 36.75170068027211
+        },
+        {
+          "text": "Později je pověsíme na zeď nad pohovku.",
+          "start": 32.74049886621315,
+          "end": 36.07256235827664,
+          "slow_start": 36.93170068027211,
+          "slow_end": 40.7049433106576
+        },
+        {
+          "text": "Jedna police už visí nad stolem.",
+          "start": 36.25256235827664,
+          "end": 39.166666666666664,
+          "slow_start": 40.8849433106576,
+          "slow_end": 44.17056689342404
+        }
+      ],
+      "slow_start": 33.43124716553288,
+      "slow_end": 44.17056689342404
+    },
+    {
+      "text": "Petr teď jede autem z obchodu. Vezl staré krabice pryč a přiveze nám čistou vodu.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Petr teď jede autem z obchodu.",
+        "Vezl staré krabice pryč a přiveze nám čistou vodu."
+      ],
+      "start": 39.346666666666664,
+      "end": 46.55070294784581,
+      "sentences": [
+        {
+          "text": "Petr teď jede autem z obchodu.",
+          "start": 39.346666666666664,
+          "end": 41.87764172335601,
+          "slow_start": 44.35056689342404,
+          "slow_end": 47.3459410430839
+        },
+        {
+          "text": "Vezl staré krabice pryč a přiveze nám čistou vodu.",
+          "start": 42.05764172335601,
+          "end": 46.55070294784581,
+          "slow_start": 47.5259410430839,
+          "slow_end": 52.62272108843538
+        }
+      ],
+      "slow_start": 44.35056689342404,
+      "slow_end": 52.62272108843538
+    },
+    {
+      "text": "Já obvykle chodím do obchodu pěšky, protože je blízko. Dnes tam ale pojedu autem pro další věci.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Já obvykle chodím do obchodu pěšky, protože je blízko.",
+        "Dnes tam ale pojedu autem pro další věci."
+      ],
+      "start": 46.730702947845806,
+      "end": 55.049297052154195,
+      "sentences": [
+        {
+          "text": "Já obvykle chodím do obchodu pěšky, protože je blízko.",
+          "start": 46.730702947845806,
+          "end": 51.1308843537415,
+          "slow_start": 52.802721088435376,
+          "slow_end": 57.82984126984127
+        },
+        {
+          "text": "Dnes tam ale pojedu autem pro další věci.",
+          "start": 51.3108843537415,
+          "end": 55.049297052154195,
+          "slow_start": 58.00984126984127,
+          "slow_end": 62.44485260770975
+        }
+      ],
+      "slow_start": 52.802721088435376,
+      "slow_end": 62.44485260770975
+    },
+    {
+      "text": "Nový byt je mezi parkem a školou. Z práce k němu jezdím autobusem, ale do parku chodím pěšky.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Nový byt je mezi parkem a školou.",
+        "Z práce k němu jezdím autobusem, ale do parku chodím pěšky."
+      ],
+      "start": 55.229297052154195,
+      "end": 63.79170068027211,
+      "sentences": [
+        {
+          "text": "Nový byt je mezi parkem a školou.",
+          "start": 55.229297052154195,
+          "end": 58.16662131519274,
+          "slow_start": 62.62485260770975,
+          "slow_end": 66.01496598639456
+        },
+        {
+          "text": "Z práce k němu jezdím autobusem, ale do parku chodím pěšky.",
+          "start": 58.34662131519274,
+          "end": 63.79170068027211,
+          "slow_start": 66.19496598639456,
+          "slow_end": 72.42952380952381
+        }
+      ],
+      "slow_start": 62.62485260770975,
+      "slow_end": 72.42952380952381
+    },
+    {
+      "text": "Když všechno stojí na správném místě, můžeme si sednout ke stolu a společně si odpočinout.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Když všechno stojí na správném místě, můžeme si sednout ke stolu a společně si odpočinout."
+      ],
+      "start": 63.97170068027211,
+      "end": 71.95936507936509,
+      "sentences": [
+        {
+          "text": "Když všechno stojí na správném místě, můžeme si sednout ke stolu a společně si odpočinout.",
+          "start": 63.97170068027211,
+          "end": 71.95936507936509,
+          "slow_start": 72.60952380952381,
+          "slow_end": 81.75818594104308
+        }
+      ],
+      "slow_start": 72.60952380952381,
+      "slow_end": 81.75818594104308
+    },
+    {
+      "text": "Než odjedeme, ještě zkontrolujeme, že v autě nezůstaly žádné malé věci.",
+      "index": 8,
+      "role": "text",
+      "parts": [
+        "Než odjedeme, ještě zkontrolujeme, že v autě nezůstaly žádné malé věci."
+      ],
+      "start": 72.13936507936508,
+      "end": 78.43197278911565,
+      "sentences": [
+        {
+          "text": "Než odjedeme, ještě zkontrolujeme, že v autě nezůstaly žádné malé věci.",
+          "start": 72.13936507936508,
+          "end": 78.43197278911565,
+          "slow_start": 81.93818594104309,
+          "slow_end": 88.92739229024943
+        }
+      ],
+      "slow_start": 81.93818594104309,
+      "slow_end": 88.92739229024943
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "8488329d56709eace79370f9d99598a2cb917868095f071b76f90d9444d15949",
+    "slow": "597a1895d7b81d909a3d6b6e891140242307179fa597cf6862d6ac6952583f31"
+  }
+}

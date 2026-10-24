@@ -1,0 +1,1338 @@
+{
+  "id": "A2-U13-L01",
+  "level": "A2",
+  "unit_id": "A2-U13",
+  "order": 31,
+  "version": "2026.10.22.1",
+  "title_zh": "读通知：变化、时间、影响对象",
+  "title_cs": "Oznámení a krátké zprávy",
+  "prerequisites": [
+    "A2-U12-L01"
+  ],
+  "can_do": [
+    "提取通知时间与限制",
+    "理解因果和例外条件",
+    "区分事实通知与未确定安排"
+  ],
+  "scene": "公共信息",
+  "skills": [
+    "listening",
+    "speaking",
+    "reading",
+    "writing",
+    "interaction",
+    "mediation"
+  ],
+  "knowledge_points": [
+    "notice-cause-exception",
+    "relative-basic"
+  ],
+  "intro_zh": "读一条陌生通知，先找谁受影响、何时开始结束、需要做什么。这里是原创示例，不能当作实际城市公告。",
+  "lesson_text": [
+    {
+      "id": "s01",
+      "cs": "Oznámení pro návštěvníky knihovny: Od pondělí do středy bude hlavní vchod uzavřen kvůli opravě schodů. Knihovna ale zůstává otevřená.",
+      "zh": "图书馆读者通知：因维修台阶，周一至周三正门关闭，但图书馆继续开放。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s02",
+      "cs": "Použijte prosím boční vchod ze zahrady. Cesta je označena modrými šipkami. Pro osoby, které potřebují pomoc, je u branky telefonní číslo.",
+      "zh": "请使用花园侧门，路线有蓝色箭头标记。需要帮助的人可使用小门旁公布的电话。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s03",
+      "cs": "Výpůjční doba se nemění. Dětské oddělení bude v úterý dopoledne dočasně přesunuto do prvního patra. Odpolední program začíná jako obvykle ve tři hodiny.",
+      "zh": "借阅时间不变，儿童区周二上午临时移至楼上一层，下午活动仍三点开始。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s04",
+      "cs": "Návštěvník se ptá: Znamená to, že v úterý nemůžu vrátit knihy? Pracovnice odpovídá, že vracení funguje normálně, jen je potřeba přijít jiným vchodem.",
+      "zh": "访客问：这是否表示周二不能还书？工作人员说还书照常，只要改走入口。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s05",
+      "cs": "Další krátká zpráva se týká sousedského trhu. Trh plánovaný na sobotu se kvůli silnému větru přesouvá do sálu vedle radnice.",
+      "zh": "另一条短消息涉及邻里集市：原定周六的集市因大风移到市政厅旁大厅。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s06",
+      "cs": "Čas zůstává stejný, ale počet míst je menší. Organizátoři proto prosí prodejce, aby předem potvrdili účast.",
+      "zh": "时间不变，但摊位较少，所以组织方请摊主提前确认参加。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s07",
+      "cs": "Zpráva zatím neuvádí, zda bude další trh také uvnitř. To se má rozhodnout později podle počasí.",
+      "zh": "消息尚未说明下次集市是否也在室内，将稍后根据天气决定。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s08",
+      "cs": "Při čtení oddělujeme potvrzenou změnu od toho, co ještě nevíme. Nadpis sám o sobě nestačí, důležité jsou podmínky v textu.",
+      "zh": "阅读时区分已确认变化与未知事项，不能只看标题，正文条件很重要。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "notice-cause-exception",
+      "rule_zh": "先圈变化词，再圈“不变”和例外，避免标题带偏理解。",
+      "detail_zh": "uzavřen关闭，otevřen开放，přesunut移位，zůstává不变，dočasně临时；kvůli+3说明原因；proto因此。ale表示转折，相当于“但是”。通知说入口关闭，不表示整家机构关闭。",
+      "examples": [
+        {
+          "cs": "Vchod je uzavřen, ale knihovna je otevřená.",
+          "zh": "入口关了，但图书馆开着。",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        },
+        {
+          "cs": "Čas se nemění.",
+          "zh": "时间不变。",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        }
+      ],
+      "pitfalls": [
+        "把局部关闭扩成全面关闭。"
+      ],
+      "exceptions": [
+        "通知是某时间范围内事实；过期后需重查，而非永久规则。"
+      ],
+      "term": "通知阅读"
+    },
+    {
+      "id": "relative-basic",
+      "rule_zh": "který把某个人或东西再说明清楚。",
+      "detail_zh": "osoby, které potřebují pomoc指“需要帮助的人”；byt, který nabízíte“您发布的公寓”。关系词按先行词性数并按从句角色选格：který muž，která žena，které město；宾格还会变化。本课先认主格常见形式。",
+      "examples": [
+        {
+          "cs": "Lidé, kteří čekají, stojí venku.",
+          "zh": "等候的人站外面。",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        },
+        {
+          "cs": "Kniha, která je na stole, je moje.",
+          "zh": "桌上的书是我的。",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        }
+      ],
+      "pitfalls": [
+        "只看最近一个名词就机械对应关系词。"
+      ],
+      "exceptions": [
+        "完整关系从句格变化在B1/B2深入，不把který视作永远不变连接词。"
+      ],
+      "term": "关系从句入门"
+    }
+  ],
+  "vocabulary": [
+    {
+      "lemma": "uzavřený",
+      "pos": "形容词",
+      "forms": "uzavřená; uzavřené",
+      "meaning_zh": "关闭的",
+      "collocation": "uzavřený vchod",
+      "example_cs": "Vchod je uzavřený.",
+      "example_zh": "入口关闭。",
+      "confusion_zh": "范围可能只限一个入口。"
+    },
+    {
+      "lemma": "dočasně",
+      "pos": "副词",
+      "forms": "不变",
+      "meaning_zh": "临时",
+      "collocation": "dočasně přesunout",
+      "example_cs": "Program je dočasně přesunut.",
+      "example_zh": "活动临时移位。",
+      "confusion_zh": "不是永久。"
+    },
+    {
+      "lemma": "boční",
+      "pos": "形容词，软变化",
+      "forms": "bočního; boční",
+      "meaning_zh": "侧面的",
+      "collocation": "boční vchod",
+      "example_cs": "Použijte boční vchod.",
+      "example_zh": "请走侧门。",
+      "confusion_zh": "不同于hlavní主入口。"
+    },
+    {
+      "lemma": "účast",
+      "pos": "名词，阴性",
+      "forms": "účasti",
+      "meaning_zh": "参加；出席",
+      "collocation": "potvrdit účast",
+      "example_cs": "Potvrďte účast.",
+      "example_zh": "请确认参加。",
+      "confusion_zh": "不是报名自动成功。"
+    },
+    {
+      "lemma": "předem",
+      "pos": "副词",
+      "forms": "不变",
+      "meaning_zh": "事先",
+      "collocation": "potvrdit předem",
+      "example_cs": "Napište předem.",
+      "example_zh": "请提前写信。",
+      "confusion_zh": "不是立刻。"
+    },
+    {
+      "lemma": "rozhodnout",
+      "pos": "动词，完成体",
+      "forms": "rozhodnu; rozhodl",
+      "meaning_zh": "决定",
+      "collocation": "rozhodnout později",
+      "example_cs": "Rozhodneme později.",
+      "example_zh": "稍后决定。",
+      "confusion_zh": "未决定事项不能当定案。"
+    }
+  ],
+  "listening": {
+    "script": [
+      {
+        "cs": "Kvůli opravě bude obchod v pátek zavřený. Výdej objednávek bude možný u zadního vchodu od devíti do jedenácti.",
+        "zh": "因维修周五商店关门，但九点至十一点可在后门取订单。",
+        "note_zh": "先理解整句意图，再回看本课规律。"
+      }
+    ],
+    "focus_zh": "先不看文本听出任务关键信息；第二遍核对词形、数字与否定；最后对照中文。",
+    "source": "original"
+  },
+  "pronunciation": {
+    "focus_zh": "zavřený/otevřený意义相反，先清楚辨认前缀与词根；长通知按条件分块。",
+    "contrast": [
+      {
+        "a": "zůstává",
+        "b": "mění se",
+        "note_zh": "不变与变化。"
+      }
+    ],
+    "task_zh": "录一条准确摘要，含变化和保留服务。"
+  },
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "听力中周五还能做什么？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "正常进店购物"
+        },
+        {
+          "id": "b",
+          "text": "九至十一点后门取件"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "商店关门不等于取件取消。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "listening"
+      ],
+      "error_category": "comprehension",
+      "audio_text_cs": "Obchod je zavřený, ale výdej je možný u zadního vchodu od devíti do jedenácti.",
+      "id": "A2-U13-L01-E01",
+      "knowledge_points": [
+        "notice-cause-exception",
+        "relative-basic"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "课文儿童区周二上午移到第几层（捷语词组）？",
+      "stimulus_cs": "",
+      "answer": "do prvního patra",
+      "accepted_answers": [
+        "do prvního patra"
+      ],
+      "explanation_zh": "保留方向短语。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "comprehension",
+      "id": "A2-U13-L01-E02",
+      "knowledge_points": [
+        "notice-cause-exception",
+        "relative-basic"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "下次集市一定在室内吗？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "是"
+        },
+        {
+          "id": "b",
+          "text": "尚未确定"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "要稍后按天气决定。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "A2-U13-L01-E03",
+      "knowledge_points": [
+        "notice-cause-exception",
+        "relative-basic"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "填“因为维修”。",
+      "stimulus_cs": "kvůli ___（oprava）",
+      "answer": "opravě",
+      "accepted_answers": [
+        "opravě"
+      ],
+      "explanation_zh": "kvůli+第三格。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "A2-U13-L01-E04",
+      "knowledge_points": [
+        "notice-cause-exception",
+        "relative-basic"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "填女性主格关系词。",
+      "stimulus_cs": "Kniha, ___ je na stole, je moje.",
+      "answer": "která",
+      "accepted_answers": [
+        "která"
+      ],
+      "explanation_zh": "先行词kniha阴性，从句主语。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "A2-U13-L01-E05",
+      "knowledge_points": [
+        "notice-cause-exception",
+        "relative-basic"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt_zh": "排列“时间不变”。",
+      "stimulus_cs": "nemění. / Čas / se",
+      "answer": "Čas se nemění.",
+      "accepted_answers": [
+        "Čas se nemění."
+      ],
+      "explanation_zh": "se与nemění不可丢。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "word_order",
+      "options": [
+        "nemění.",
+        "Čas",
+        "se"
+      ],
+      "id": "A2-U13-L01-E06",
+      "knowledge_points": [
+        "notice-cause-exception",
+        "relative-basic"
+      ]
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "用两句说明图书馆还开着但入口改变。",
+      "stimulus_cs": "",
+      "answer": "Knihovna je otevřená. Musíme použít boční vchod ze zahrady.",
+      "accepted_answers": [],
+      "explanation_zh": "局部范围准确。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A2-U13-L01-E07",
+      "knowledge_points": [
+        "notice-cause-exception",
+        "relative-basic"
+      ]
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "你不确定轮椅是否能走侧门，向工作人员问具体帮助。",
+      "stimulus_cs": "",
+      "answer": "Je boční vchod bez schodů? Můžete mi pomoct?",
+      "accepted_answers": [],
+      "explanation_zh": "不凭“侧门”猜可达性。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A2-U13-L01-E08",
+      "knowledge_points": [
+        "notice-cause-exception",
+        "relative-basic"
+      ]
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "将商店通知压缩成一条不误导的消息。",
+      "stimulus_cs": "",
+      "answer": "V pátek je obchod zavřený. Objednávky lze vyzvednout vzadu od 9 do 11.",
+      "accepted_answers": [],
+      "explanation_zh": "服务例外保留。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A2-U13-L01-E09",
+      "knowledge_points": [
+        "notice-cause-exception",
+        "relative-basic"
+      ]
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "用中文区分集市通知中的已确认和未知。",
+      "stimulus_cs": "",
+      "answer": "本周六移到市政厅旁大厅，时间不变；下次安排未定。",
+      "accepted_answers": [],
+      "explanation_zh": "不补编日期和地点。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A2-U13-L01-E10",
+      "knowledge_points": [
+        "notice-cause-exception",
+        "relative-basic"
+      ]
+    }
+  ],
+  "transfer_task": {
+    "prompt_zh": "从一条真实短通知提取时间、范围、替代方案、未知项；若用真实资料，标明来源与日期。",
+    "model_answer_cs": "Kdy? Koho se to týká? Co se mění? Co ještě nevíme?",
+    "rubric": [
+      "任务信息完整",
+      "用目标规律表达",
+      "独立完成并回听/回看"
+    ]
+  },
+  "review_links": [
+    "A2-U12-L01"
+  ],
+  "sources": [
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/",
+      "scope": "本课涉及的声音/词形/语法规则；编排与例句为原创",
+      "verification": "官方来源用于相关规则交叉核查；具体查核范围见content/sources/foundation-verification.md；本课例句为原创，未逐句母语审校。"
+    }
+  ],
+  "content_status": "authored_crosschecked_not_native_reviewed",
+  "quality_notes": [
+    "课程及题目原创；自动检查结构、唯一ID与答案。",
+    "已对照所列官方发音、数词、条件式、物主词等章节核查相应规则；其余内容做内部语言一致性复核，未逐句外部审校。",
+    "CEFR级别为教学编排，不构成官方达标或考试认证。"
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "A2-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--normal.mp3",
+      "slow_file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U13-L01--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Oznámení pro návštěvníky knihovny: Od pondělí do středy bude hlavní vchod uzavřen kvůli opravě schodů. Knihovna ale zůstává otevřená. Použijte prosím boční vchod ze zahrady. Cesta je označena modrými šipkami. Pro osoby, které potřebují pomoc, je u branky telefonní číslo. Výpůjční doba se nemění. Dětské oddělení bude v úterý dopoledne dočasně přesunuto do prvního patra. Odpolední program začíná jako obvykle ve tři hodiny. Návštěvník se ptá: Znamená to, že v úterý nemůžu vrátit knihy? Pracovnice odpovídá, že vracení funguje normálně, jen je potřeba přijít jiným vchodem. Další krátká zpráva se týká sousedského trhu. Trh plánovaný na sobotu se kvůli silnému větru přesouvá do sálu vedle radnice. Čas zůstává stejný, ale počet míst je menší. Organizátoři proto prosí prodejce, aby předem potvrdili účast. Zpráva zatím neuvádí, zda bude další trh také uvnitř. To se má rozhodnout později podle počasí. Při čtení oddělujeme potvrzenou změnu od toho, co ještě nevíme. Nadpis sám o sobě nestačí, důležité jsou podmínky v textu.",
+      "duration_seconds": 94.00680272108843,
+      "slow_duration_seconds": 105.41941043083901,
+      "sha256": "ac3a47a60378cdf57872cb14c56cd1c76740233413cd31a36f80dd2879d8aaee",
+      "slow_sha256": "154ac0c53ce49539f679ad504329c29b134d5465d9be97d07d6ba6303006dc7e"
+    },
+    {
+      "lesson_id": "A2-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--normal.mp3",
+      "slow_file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U13-L01--2026.10.22.1--text--p0",
+      "asset_id": "A2-U13-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Oznámení pro návštěvníky knihovny: Od pondělí do středy bude hlavní vchod uzavřen kvůli opravě schodů. Knihovna ale zůstává otevřená.",
+      "start": 0,
+      "end": 11.662267573696145,
+      "slow_start": 0,
+      "slow_end": 13.20639455782313
+    },
+    {
+      "lesson_id": "A2-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--normal.mp3",
+      "slow_file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U13-L01--2026.10.22.1--text--s0",
+      "asset_id": "A2-U13-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Oznámení pro návštěvníky knihovny: Od pondělí do středy bude hlavní vchod uzavřen kvůli opravě schodů.",
+      "start": 0,
+      "end": 8.52172335600907,
+      "slow_start": 0,
+      "slow_end": 9.752380952380953
+    },
+    {
+      "lesson_id": "A2-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--normal.mp3",
+      "slow_file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U13-L01--2026.10.22.1--text--s1",
+      "asset_id": "A2-U13-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Knihovna ale zůstává otevřená.",
+      "start": 8.70172335600907,
+      "end": 11.662267573696145,
+      "slow_start": 9.932380952380953,
+      "slow_end": 13.20639455782313
+    },
+    {
+      "lesson_id": "A2-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--normal.mp3",
+      "slow_file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U13-L01--2026.10.22.1--text--p1",
+      "asset_id": "A2-U13-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Použijte prosím boční vchod ze zahrady. Cesta je označena modrými šipkami. Pro osoby, které potřebují pomoc, je u branky telefonní číslo.",
+      "start": 11.842267573696144,
+      "end": 23.661315192743764,
+      "slow_start": 13.38639455782313,
+      "slow_end": 26.796009070294783
+    },
+    {
+      "lesson_id": "A2-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--normal.mp3",
+      "slow_file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U13-L01--2026.10.22.1--text--s2",
+      "asset_id": "A2-U13-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 1,
+      "sentence_index": 0,
+      "text": "Použijte prosím boční vchod ze zahrady.",
+      "start": 11.842267573696144,
+      "end": 15.209160997732427,
+      "slow_start": 13.38639455782313,
+      "slow_end": 17.298956916099772
+    },
+    {
+      "lesson_id": "A2-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--normal.mp3",
+      "slow_file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U13-L01--2026.10.22.1--text--s3",
+      "asset_id": "A2-U13-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 3,
+      "paragraph_index": 1,
+      "sentence_index": 1,
+      "text": "Cesta je označena modrými šipkami.",
+      "start": 15.389160997732427,
+      "end": 18.26843537414966,
+      "slow_start": 17.478956916099772,
+      "slow_end": 20.75297052154195
+    },
+    {
+      "lesson_id": "A2-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--normal.mp3",
+      "slow_file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U13-L01--2026.10.22.1--text--s4",
+      "asset_id": "A2-U13-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 4,
+      "paragraph_index": 1,
+      "sentence_index": 2,
+      "text": "Pro osoby, které potřebují pomoc, je u branky telefonní číslo.",
+      "start": 18.44843537414966,
+      "end": 23.661315192743764,
+      "slow_start": 20.93297052154195,
+      "slow_end": 26.796009070294783
+    },
+    {
+      "lesson_id": "A2-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--normal.mp3",
+      "slow_file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U13-L01--2026.10.22.1--text--p2",
+      "asset_id": "A2-U13-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Výpůjční doba se nemění. Dětské oddělení bude v úterý dopoledne dočasně přesunuto do prvního patra. Odpolední program začíná jako obvykle ve tři hodiny.",
+      "start": 23.841315192743764,
+      "end": 37.07678004535148,
+      "slow_start": 26.976009070294786,
+      "slow_end": 41.52340136054422
+    },
+    {
+      "lesson_id": "A2-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--normal.mp3",
+      "slow_file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U13-L01--2026.10.22.1--text--s5",
+      "asset_id": "A2-U13-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 5,
+      "paragraph_index": 2,
+      "sentence_index": 0,
+      "text": "Výpůjční doba se nemění.",
+      "start": 23.841315192743764,
+      "end": 26.163310657596373,
+      "slow_start": 26.976009070294786,
+      "slow_end": 29.58825396825397
+    },
+    {
+      "lesson_id": "A2-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--normal.mp3",
+      "slow_file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U13-L01--2026.10.22.1--text--s6",
+      "asset_id": "A2-U13-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 6,
+      "paragraph_index": 2,
+      "sentence_index": 1,
+      "text": "Dětské oddělení bude v úterý dopoledne dočasně přesunuto do prvního patra.",
+      "start": 26.343310657596373,
+      "end": 32.38049886621315,
+      "slow_start": 29.76825396825397,
+      "slow_end": 36.35111111111111
+    },
+    {
+      "lesson_id": "A2-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--normal.mp3",
+      "slow_file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U13-L01--2026.10.22.1--text--s7",
+      "asset_id": "A2-U13-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 7,
+      "paragraph_index": 2,
+      "sentence_index": 2,
+      "text": "Odpolední program začíná jako obvykle ve tři hodiny.",
+      "start": 32.56049886621315,
+      "end": 37.07678004535148,
+      "slow_start": 36.53111111111111,
+      "slow_end": 41.52340136054422
+    },
+    {
+      "lesson_id": "A2-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--normal.mp3",
+      "slow_file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U13-L01--2026.10.22.1--text--p3",
+      "asset_id": "A2-U13-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Návštěvník se ptá: Znamená to, že v úterý nemůžu vrátit knihy? Pracovnice odpovídá, že vracení funguje normálně, jen je potřeba přijít jiným vchodem.",
+      "start": 37.256780045351476,
+      "end": 51.043673469387755,
+      "slow_start": 41.70340136054422,
+      "slow_end": 57.266621315192744
+    },
+    {
+      "lesson_id": "A2-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--normal.mp3",
+      "slow_file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U13-L01--2026.10.22.1--text--s8",
+      "asset_id": "A2-U13-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 8,
+      "paragraph_index": 3,
+      "sentence_index": 0,
+      "text": "Návštěvník se ptá: Znamená to, že v úterý nemůžu vrátit knihy?",
+      "start": 37.256780045351476,
+      "end": 43.23591836734694,
+      "slow_start": 41.70340136054422,
+      "slow_end": 48.390748299319725
+    },
+    {
+      "lesson_id": "A2-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--normal.mp3",
+      "slow_file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U13-L01--2026.10.22.1--text--s9",
+      "asset_id": "A2-U13-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 9,
+      "paragraph_index": 3,
+      "sentence_index": 1,
+      "text": "Pracovnice odpovídá, že vracení funguje normálně, jen je potřeba přijít jiným vchodem.",
+      "start": 43.41591836734694,
+      "end": 51.043673469387755,
+      "slow_start": 48.570748299319725,
+      "slow_end": 57.266621315192744
+    },
+    {
+      "lesson_id": "A2-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--normal.mp3",
+      "slow_file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U13-L01--2026.10.22.1--text--p4",
+      "asset_id": "A2-U13-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 4,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Další krátká zpráva se týká sousedského trhu. Trh plánovaný na sobotu se kvůli silnému větru přesouvá do sálu vedle radnice.",
+      "start": 51.223673469387755,
+      "end": 62.93238095238095,
+      "slow_start": 57.44662131519274,
+      "slow_end": 70.68784580498867
+    },
+    {
+      "lesson_id": "A2-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--normal.mp3",
+      "slow_file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U13-L01--2026.10.22.1--text--s10",
+      "asset_id": "A2-U13-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 10,
+      "paragraph_index": 4,
+      "sentence_index": 0,
+      "text": "Další krátká zpráva se týká sousedského trhu.",
+      "start": 51.223673469387755,
+      "end": 55.33360544217687,
+      "slow_start": 57.44662131519274,
+      "slow_end": 62.06739229024943
+    },
+    {
+      "lesson_id": "A2-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--normal.mp3",
+      "slow_file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U13-L01--2026.10.22.1--text--s11",
+      "asset_id": "A2-U13-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 11,
+      "paragraph_index": 4,
+      "sentence_index": 1,
+      "text": "Trh plánovaný na sobotu se kvůli silnému větru přesouvá do sálu vedle radnice.",
+      "start": 55.51360544217687,
+      "end": 62.93238095238095,
+      "slow_start": 62.24739229024944,
+      "slow_end": 70.68784580498867
+    },
+    {
+      "lesson_id": "A2-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--normal.mp3",
+      "slow_file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U13-L01--2026.10.22.1--text--p5",
+      "asset_id": "A2-U13-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 5,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Čas zůstává stejný, ale počet míst je menší. Organizátoři proto prosí prodejce, aby předem potvrdili účast.",
+      "start": 63.11238095238095,
+      "end": 73.85746031746032,
+      "slow_start": 70.86784580498866,
+      "slow_end": 82.82036281179138
+    },
+    {
+      "lesson_id": "A2-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--normal.mp3",
+      "slow_file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U13-L01--2026.10.22.1--text--s12",
+      "asset_id": "A2-U13-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 12,
+      "paragraph_index": 5,
+      "sentence_index": 0,
+      "text": "Čas zůstává stejný, ale počet míst je menší.",
+      "start": 63.11238095238095,
+      "end": 67.6518820861678,
+      "slow_start": 70.86784580498866,
+      "slow_end": 75.87174603174603
+    },
+    {
+      "lesson_id": "A2-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--normal.mp3",
+      "slow_file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U13-L01--2026.10.22.1--text--s13",
+      "asset_id": "A2-U13-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 13,
+      "paragraph_index": 5,
+      "sentence_index": 1,
+      "text": "Organizátoři proto prosí prodejce, aby předem potvrdili účast.",
+      "start": 67.8318820861678,
+      "end": 73.85746031746032,
+      "slow_start": 76.05174603174603,
+      "slow_end": 82.82036281179138
+    },
+    {
+      "lesson_id": "A2-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--normal.mp3",
+      "slow_file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U13-L01--2026.10.22.1--text--p6",
+      "asset_id": "A2-U13-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 6,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Zpráva zatím neuvádí, zda bude další trh také uvnitř. To se má rozhodnout později podle počasí.",
+      "start": 74.03746031746032,
+      "end": 82.7972335600907,
+      "slow_start": 83.00036281179138,
+      "slow_end": 92.74698412698413
+    },
+    {
+      "lesson_id": "A2-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--normal.mp3",
+      "slow_file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U13-L01--2026.10.22.1--text--s14",
+      "asset_id": "A2-U13-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 14,
+      "paragraph_index": 6,
+      "sentence_index": 0,
+      "text": "Zpráva zatím neuvádí, zda bude další trh také uvnitř.",
+      "start": 74.03746031746032,
+      "end": 79.0645804988662,
+      "slow_start": 83.00036281179138,
+      "slow_end": 88.6195918367347
+    },
+    {
+      "lesson_id": "A2-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--normal.mp3",
+      "slow_file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U13-L01--2026.10.22.1--text--s15",
+      "asset_id": "A2-U13-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 15,
+      "paragraph_index": 6,
+      "sentence_index": 1,
+      "text": "To se má rozhodnout později podle počasí.",
+      "start": 79.24458049886621,
+      "end": 82.7972335600907,
+      "slow_start": 88.79959183673469,
+      "slow_end": 92.74698412698413
+    },
+    {
+      "lesson_id": "A2-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--normal.mp3",
+      "slow_file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U13-L01--2026.10.22.1--text--p7",
+      "asset_id": "A2-U13-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 7,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Při čtení oddělujeme potvrzenou změnu od toho, co ještě nevíme. Nadpis sám o sobě nestačí, důležité jsou podmínky v textu.",
+      "start": 82.97723356009071,
+      "end": 93.82680272108844,
+      "slow_start": 92.92698412698412,
+      "slow_end": 105.239410430839
+    },
+    {
+      "lesson_id": "A2-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--normal.mp3",
+      "slow_file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U13-L01--2026.10.22.1--text--s16",
+      "asset_id": "A2-U13-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 16,
+      "paragraph_index": 7,
+      "sentence_index": 0,
+      "text": "Při čtení oddělujeme potvrzenou změnu od toho, co ještě nevíme.",
+      "start": 82.97723356009071,
+      "end": 88.16689342403627,
+      "slow_start": 92.92698412698412,
+      "slow_end": 98.76680272108844
+    },
+    {
+      "lesson_id": "A2-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--normal.mp3",
+      "slow_file": "audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U13-L01--2026.10.22.1--text--s17",
+      "asset_id": "A2-U13-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 17,
+      "paragraph_index": 7,
+      "sentence_index": 1,
+      "text": "Nadpis sám o sobě nestačí, důležité jsou podmínky v textu.",
+      "start": 88.34689342403628,
+      "end": 93.82680272108844,
+      "slow_start": 98.94680272108843,
+      "slow_end": 105.239410430839
+    },
+    {
+      "lesson_id": "A2-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U13-L01--2026.10.22.1--listening--a7f90f03a0--normal.mp3",
+      "slow_file": "audio/files/A2-U13-L01--2026.10.22.1--listening--a7f90f03a0--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U13-L01--2026.10.22.1--listening",
+      "role": "listening-full",
+      "index": 0,
+      "text": "Kvůli opravě bude obchod v pátek zavřený. Výdej objednávek bude možný u zadního vchodu od devíti do jedenácti.",
+      "duration_seconds": 9.613151927437642,
+      "slow_duration_seconds": 10.634829931972789,
+      "sha256": "f4b6f07f6d3ef3ca27948a4c2b57fe7e3a00eeeb1421f9ff7b574e5c1887fbbe",
+      "slow_sha256": "512ffe28d380c5e701028ecd6e869eec53f73d3b644061d30e0e15d5057614ca"
+    },
+    {
+      "lesson_id": "A2-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U13-L01--2026.10.22.1--listening--a7f90f03a0--normal.mp3",
+      "slow_file": "audio/files/A2-U13-L01--2026.10.22.1--listening--a7f90f03a0--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U13-L01--2026.10.22.1--listening--p0",
+      "asset_id": "A2-U13-L01--2026.10.22.1--listening",
+      "role": "listening",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Kvůli opravě bude obchod v pátek zavřený. Výdej objednávek bude možný u zadního vchodu od devíti do jedenácti.",
+      "start": 0,
+      "end": 9.433151927437642,
+      "slow_start": 0,
+      "slow_end": 10.454829931972789
+    },
+    {
+      "lesson_id": "A2-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U13-L01--2026.10.22.1--vocabulary--e69cbebffa--normal.mp3",
+      "slow_file": "audio/files/A2-U13-L01--2026.10.22.1--vocabulary--e69cbebffa--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U13-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary-full",
+      "index": 0,
+      "text": "Vchod je uzavřený. Program je dočasně přesunut. Použijte boční vchod. Potvrďte účast. Napište předem. Rozhodneme později.",
+      "duration_seconds": 11.842448979591836,
+      "slow_duration_seconds": 13.293696145124716,
+      "sha256": "39874dfd1bdfd2854f225d09751642cb850eb1b3f9f113477c732aaf9c7b2a98",
+      "slow_sha256": "caeca3af112b4f31e25f9ab60346cb7823b685410ff8706ddf5ed22192320246"
+    },
+    {
+      "lesson_id": "A2-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U13-L01--2026.10.22.1--vocabulary--e69cbebffa--normal.mp3",
+      "slow_file": "audio/files/A2-U13-L01--2026.10.22.1--vocabulary--e69cbebffa--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U13-L01--2026.10.22.1--vocabulary--p0",
+      "asset_id": "A2-U13-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Vchod je uzavřený.",
+      "start": 0,
+      "end": 1.5209070294784581,
+      "slow_start": 0,
+      "slow_end": 1.6718367346938776
+    },
+    {
+      "lesson_id": "A2-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U13-L01--2026.10.22.1--vocabulary--e69cbebffa--normal.mp3",
+      "slow_file": "audio/files/A2-U13-L01--2026.10.22.1--vocabulary--e69cbebffa--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U13-L01--2026.10.22.1--vocabulary--p1",
+      "asset_id": "A2-U13-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Program je dočasně přesunut.",
+      "start": 1.700907029478458,
+      "end": 4.289931972789116,
+      "slow_start": 1.8518367346938776,
+      "slow_end": 4.789160997732426
+    },
+    {
+      "lesson_id": "A2-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U13-L01--2026.10.22.1--vocabulary--e69cbebffa--normal.mp3",
+      "slow_file": "audio/files/A2-U13-L01--2026.10.22.1--vocabulary--e69cbebffa--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U13-L01--2026.10.22.1--vocabulary--p2",
+      "asset_id": "A2-U13-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Použijte boční vchod.",
+      "start": 4.469931972789116,
+      "end": 6.373968253968254,
+      "slow_start": 4.969160997732426,
+      "slow_end": 7.175056689342403
+    },
+    {
+      "lesson_id": "A2-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U13-L01--2026.10.22.1--vocabulary--e69cbebffa--normal.mp3",
+      "slow_file": "audio/files/A2-U13-L01--2026.10.22.1--vocabulary--e69cbebffa--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U13-L01--2026.10.22.1--vocabulary--p3",
+      "asset_id": "A2-U13-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Potvrďte účast.",
+      "start": 6.553968253968254,
+      "end": 8.26063492063492,
+      "slow_start": 7.355056689342404,
+      "slow_end": 9.293922902494332
+    },
+    {
+      "lesson_id": "A2-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U13-L01--2026.10.22.1--vocabulary--e69cbebffa--normal.mp3",
+      "slow_file": "audio/files/A2-U13-L01--2026.10.22.1--vocabulary--e69cbebffa--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U13-L01--2026.10.22.1--vocabulary--p4",
+      "asset_id": "A2-U13-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 4,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Napište předem.",
+      "start": 8.44063492063492,
+      "end": 9.799002267573696,
+      "slow_start": 9.473922902494332,
+      "slow_end": 10.99482993197279
+    },
+    {
+      "lesson_id": "A2-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U13-L01--2026.10.22.1--vocabulary--e69cbebffa--normal.mp3",
+      "slow_file": "audio/files/A2-U13-L01--2026.10.22.1--vocabulary--e69cbebffa--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U13-L01--2026.10.22.1--vocabulary--p5",
+      "asset_id": "A2-U13-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 5,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Rozhodneme později.",
+      "start": 9.979002267573696,
+      "end": 11.662448979591836,
+      "slow_start": 11.17482993197279,
+      "slow_end": 13.113696145124717
+    },
+    {
+      "lesson_id": "A2-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U13-L01--2026.10.22.1--exercises--262f787281--normal.mp3",
+      "slow_file": "audio/files/A2-U13-L01--2026.10.22.1--exercises--262f787281--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U13-L01--2026.10.22.1--exercises",
+      "role": "exercises-full",
+      "index": 0,
+      "text": "Obchod je zavřený, ale výdej je možný u zadního vchodu od devíti do jedenácti.",
+      "duration_seconds": 6.658367346938776,
+      "slow_duration_seconds": 7.703265306122449,
+      "sha256": "9d5fda0e51f9c001efd635ec332cb0a9e017a0487e7b516937daabd6d079f5fe",
+      "slow_sha256": "b187f1ea3286c8a8dc44a5b7802b40f6d3efc62e66282c33cfda4c009ef7179c"
+    },
+    {
+      "lesson_id": "A2-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U13-L01--2026.10.22.1--exercises--262f787281--normal.mp3",
+      "slow_file": "audio/files/A2-U13-L01--2026.10.22.1--exercises--262f787281--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U13-L01--2026.10.22.1--exercises--p0",
+      "asset_id": "A2-U13-L01--2026.10.22.1--exercises",
+      "role": "exercise",
+      "index": 0,
+      "exercise_id": "A2-U13-L01-E01",
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Obchod je zavřený, ale výdej je možný u zadního vchodu od devíti do jedenácti.",
+      "start": 0,
+      "end": 6.478367346938776,
+      "slow_start": 0,
+      "slow_end": 7.523265306122449
+    },
+    {
+      "lesson_id": "A2-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U13-L01--2026.10.22.1--contrasts--e0728a9b87--normal.mp3",
+      "slow_file": "audio/files/A2-U13-L01--2026.10.22.1--contrasts--e0728a9b87--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U13-L01--2026.10.22.1--contrasts",
+      "role": "contrasts-full",
+      "index": 0,
+      "text": "zůstává. mění se.",
+      "duration_seconds": 1.8982766439909298,
+      "slow_duration_seconds": 2.072426303854875,
+      "sha256": "293e4dd88f0facb2fa1b8bd70352663989f8c955e37cd01d219259898b5b6ace",
+      "slow_sha256": "9ee2c41fa14b9b359aade78177db36c4de558c1bbd5e0d0098781a59f9a838cf"
+    },
+    {
+      "lesson_id": "A2-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U13-L01--2026.10.22.1--contrasts--e0728a9b87--normal.mp3",
+      "slow_file": "audio/files/A2-U13-L01--2026.10.22.1--contrasts--e0728a9b87--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U13-L01--2026.10.22.1--contrasts--p0",
+      "asset_id": "A2-U13-L01--2026.10.22.1--contrasts",
+      "role": "contrast",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "zůstává. mění se.",
+      "start": 0,
+      "end": 1.7182766439909296,
+      "slow_start": 0,
+      "slow_end": 1.8924263038548752
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "id": "Pre-A1-U01-L01--2026.10.22.1--listening",
+  "lesson_id": "Pre-A1-U01-L01",
+  "content_version": "2026.10.22.1",
+  "level": "Pre-A1",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Dobrý den.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Dobrý den."
+      ]
+    },
+    {
+      "text": "Jmenuju se Eva.",
+      "index": 1,
+      "role": "listening",
+      "parts": [
+        "Jmenuju se Eva."
+      ]
+    },
+    {
+      "text": "Prosím, ještě jednou.",
+      "index": 2,
+      "role": "listening",
+      "parts": [
+        "Prosím, ještě jednou."
+      ]
+    },
+    {
+      "text": "Eva.",
+      "index": 3,
+      "role": "listening",
+      "parts": [
+        "Eva."
+      ]
+    }
+  ],
+  "text_sha256": "2843f4f796363d112c0a7ae9a605114808ba2437e1bef4f17d90df72d5819ad3",
+  "source_file": "content/lessons/Pre-A1/Pre-A1-U01-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/Pre-A1-U01-L01--2026.10.22.1--listening--2843f4f796--normal.mp3",
+  "slow_file": "content/audio/files/Pre-A1-U01-L01--2026.10.22.1--listening--2843f4f796--slow.mp3",
+  "duration_seconds": 6.025759637188209,
+  "slow_duration_seconds": 6.60625850340136,
+  "cues": [
+    {
+      "text": "Dobrý den.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Dobrý den."
+      ],
+      "start": 0.0,
+      "end": 1.1145578231292517,
+      "sentences": [
+        {
+          "text": "Dobrý den.",
+          "start": 0.0,
+          "end": 1.1145578231292517,
+          "slow_start": 0.0,
+          "slow_end": 1.195827664399093
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.195827664399093
+    },
+    {
+      "text": "Jmenuju se Eva.",
+      "index": 1,
+      "role": "listening",
+      "parts": [
+        "Jmenuju se Eva."
+      ],
+      "start": 1.2945578231292516,
+      "end": 2.8502947845804987,
+      "sentences": [
+        {
+          "text": "Jmenuju se Eva.",
+          "start": 1.2945578231292516,
+          "end": 2.8502947845804987,
+          "slow_start": 1.375827664399093,
+          "slow_end": 3.0824943310657598
+        }
+      ],
+      "slow_start": 1.375827664399093,
+      "slow_end": 3.0824943310657598
+    },
+    {
+      "text": "Prosím, ještě jednou.",
+      "index": 2,
+      "role": "listening",
+      "parts": [
+        "Prosím, ještě jednou."
+      ],
+      "start": 3.030294784580499,
+      "end": 5.038820861678005,
+      "sentences": [
+        {
+          "text": "Prosím, ještě jednou.",
+          "start": 3.030294784580499,
+          "end": 5.038820861678005,
+          "slow_start": 3.2624943310657595,
+          "slow_end": 5.514829931972789
+        }
+      ],
+      "slow_start": 3.2624943310657595,
+      "slow_end": 5.514829931972789
+    },
+    {
+      "text": "Eva.",
+      "index": 3,
+      "role": "listening",
+      "parts": [
+        "Eva."
+      ],
+      "start": 5.2188208616780045,
+      "end": 5.845759637188209,
+      "sentences": [
+        {
+          "text": "Eva.",
+          "start": 5.2188208616780045,
+          "end": 5.845759637188209,
+          "slow_start": 5.694829931972789,
+          "slow_end": 6.42625850340136
+        }
+      ],
+      "slow_start": 5.694829931972789,
+      "slow_end": 6.42625850340136
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "1a127e1c06b788f62470c0a4cf4916517c27c4d758ead70e5f607dca9bb80c28",
+    "slow": "69621bc90b1ebea464c4bcf4ca70bcae92f30eede337c35b137e15987cd7d80c"
+  }
+}

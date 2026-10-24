@@ -1,0 +1,76 @@
+{
+  "id": "C2-U11-CHECK--2026.10.23.1--text",
+  "lesson_id": "C2-U11-CHECK",
+  "content_version": "2026.10.23.1",
+  "level": "C2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Autorka napsala: V čekárně se čas neposouval. Editor změnil větu na: Hodiny v čekárně nefungovaly. V dalším odstavci přitom původní text popisuje, jak autorka každou minutu sledovala pohyb ručičky.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Autorka napsala: V čekárně se čas neposouval.",
+        "Editor změnil větu na: Hodiny v čekárně nefungovaly.",
+        "V dalším odstavci přitom původní text popisuje, jak autorka každou minutu sledovala pohyb ručičky."
+      ]
+    }
+  ],
+  "text_sha256": "146d3354d2c9a35c65aac8bf1b6df7ef1f16e16f00a3a6e828596baa2d456198",
+  "source_file": "content/assessments/C2-U11.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U11-CHECK--2026.10.22.1--text--146d3354d2--normal.mp3",
+  "slow_file": "content/audio/files/C2-U11-CHECK--2026.10.22.1--text--146d3354d2--slow.mp3",
+  "duration_seconds": 17.95496598639456,
+  "slow_duration_seconds": 20.21891156462585,
+  "cues": [
+    {
+      "text": "Autorka napsala: V čekárně se čas neposouval. Editor změnil větu na: Hodiny v čekárně nefungovaly. V dalším odstavci přitom původní text popisuje, jak autorka každou minutu sledovala pohyb ručičky.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Autorka napsala: V čekárně se čas neposouval.",
+        "Editor změnil větu na: Hodiny v čekárně nefungovaly.",
+        "V dalším odstavci přitom původní text popisuje, jak autorka každou minutu sledovala pohyb ručičky."
+      ],
+      "start": 0.0,
+      "end": 17.77496598639456,
+      "sentences": [
+        {
+          "text": "Autorka napsala: V čekárně se čas neposouval.",
+          "start": 0.0,
+          "end": 3.947392290249433,
+          "slow_start": 0.0,
+          "slow_end": 4.423401360544218
+        },
+        {
+          "text": "Editor změnil větu na: Hodiny v čekárně nefungovaly.",
+          "start": 4.127392290249433,
+          "end": 8.806213151927437,
+          "slow_start": 4.6034013605442174,
+          "slow_end": 9.897551020408164
+        },
+        {
+          "text": "V dalším odstavci přitom původní text popisuje, jak autorka každou minutu sledovala pohyb ručičky.",
+          "start": 8.986213151927437,
+          "end": 17.77496598639456,
+          "slow_start": 10.077551020408164,
+          "slow_end": 20.03891156462585
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 20.03891156462585
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "001bb3b51858edf3436b9b7ce301b766965a14f1ce49020dcbaa76c8d5892696",
+    "slow": "873473e1585cdf19e0992618929d3213eecb535e2c18a74f7b23d3e4f25c565d"
+  },
+  "reused_from_track_id": "C2-U11-CHECK--2026.10.22.1--text"
+}

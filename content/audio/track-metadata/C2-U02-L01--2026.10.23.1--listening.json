@@ -1,0 +1,76 @@
+{
+  "id": "C2-U02-L01--2026.10.23.1--listening",
+  "lesson_id": "C2-U02-L01",
+  "content_version": "2026.10.23.1",
+  "level": "C2",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Jen Jana potvrdila termín. Přesněji: Jana potvrdila jen termín, nikoli místo. Ostatních jsem se zatím neptal, takže jejich souhlas ani nesouhlas neznám.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Jen Jana potvrdila termín.",
+        "Přesněji: Jana potvrdila jen termín, nikoli místo.",
+        "Ostatních jsem se zatím neptal, takže jejich souhlas ani nesouhlas neznám."
+      ]
+    }
+  ],
+  "text_sha256": "b9c7cae8bacd157d75588e329512b3e49adf748c52ec16e3a16acfd07ae258f3",
+  "source_file": "content/lessons/C2/C2-U02-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U02-L01--2026.10.22.1--listening--b9c7cae8ba--normal.mp3",
+  "slow_file": "content/audio/files/C2-U02-L01--2026.10.22.1--listening--b9c7cae8ba--slow.mp3",
+  "duration_seconds": 13.68249433106576,
+  "slow_duration_seconds": 15.354331065759638,
+  "cues": [
+    {
+      "text": "Jen Jana potvrdila termín. Přesněji: Jana potvrdila jen termín, nikoli místo. Ostatních jsem se zatím neptal, takže jejich souhlas ani nesouhlas neznám.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Jen Jana potvrdila termín.",
+        "Přesněji: Jana potvrdila jen termín, nikoli místo.",
+        "Ostatních jsem se zatím neptal, takže jejich souhlas ani nesouhlas neznám."
+      ],
+      "start": 0.0,
+      "end": 13.50249433106576,
+      "sentences": [
+        {
+          "text": "Jen Jana potvrdila termín.",
+          "start": 0.0,
+          "end": 2.5541950113378684,
+          "slow_start": 0.0,
+          "slow_end": 2.9605442176870747
+        },
+        {
+          "text": "Přesněji: Jana potvrdila jen termín, nikoli místo.",
+          "start": 2.7341950113378686,
+          "end": 7.25047619047619,
+          "slow_start": 3.140544217687075,
+          "slow_end": 8.156054421768708
+        },
+        {
+          "text": "Ostatních jsem se zatím neptal, takže jejich souhlas ani nesouhlas neznám.",
+          "start": 7.430476190476191,
+          "end": 13.50249433106576,
+          "slow_start": 8.336054421768708,
+          "slow_end": 15.174331065759636
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 15.174331065759636
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "bdffcfc4f2d9f6e5f8e704d011e90972c8537734032cf8df8dd6d709a592c4a4",
+    "slow": "9e492171ca692cf94387f7eff78a1dadd8162d447efe0dbf1b358747d50c0fa5"
+  },
+  "reused_from_track_id": "C2-U02-L01--2026.10.22.1--listening"
+}

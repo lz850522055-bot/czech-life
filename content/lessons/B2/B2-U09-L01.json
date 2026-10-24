@@ -1,0 +1,1502 @@
+{
+  "id": "B2-U09-L01",
+  "level": "B2",
+  "unit_id": "B2-U09",
+  "order": 55,
+  "version": "2026.10.23.1",
+  "title_zh": "比较多源信息并摘要",
+  "title_cs": "Dvě nabídky, různé podmínky",
+  "prerequisites": [
+    "B2-U08-L01"
+  ],
+  "can_do": [
+    "把两份材料按同一口径比较",
+    "标明来源差异和不可比项",
+    "写既短又不丢限制的决策摘要"
+  ],
+  "scene": "多源比较与摘要",
+  "skills": [
+    "listening",
+    "speaking",
+    "reading",
+    "writing",
+    "interaction",
+    "mediation"
+  ],
+  "knowledge_points": [
+    "source-attribution",
+    "comparison-basis"
+  ],
+  "intro_zh": "多源摘要不是从每份材料各摘一句。先统一你要比较的对象、单位、时段和包含项，不能把表面便宜当成实际更合适。",
+  "lesson_text": [
+    {
+      "id": "s01",
+      "cs": "Spolek hledá prostor pro týdenní jazykové setkávání. Nabídka knihovny uvádí cenu za jednu hodinu a zahrnuje stoly, židle i základní projekci. Nabídka soukromého studia pracuje s cenou za celý večer, ale úklid se platí zvlášť. Na první pohled se knihovna zdá dražší, protože jeden člen týmu porovnal její hodinovou částku s průměrnou částkou ze studia, aniž by zohlednil minimální délku rezervace.",
+      "zh": "协会找每周语言活动场地。图书馆按小时，含桌椅投影；私营工作室按整晚，清洁另付。有人把图书馆小时价与工作室平均价比，却忽略最短租期，表面觉得前者贵。",
+      "note_zh": ""
+    },
+    {
+      "id": "s02",
+      "cs": "V první tabulce jsme proto sjednotili plánovanou délku: dvě hodiny týdně. Knihovna umožňuje rezervovat právě dvě hodiny. Studio vyžaduje celý čtyřhodinový blok, i když odejdeme dříve. Pro nás tedy rozhoduje cena za využitelnou akci, nikoli teoretická hodinová sazba vypočtená ze všech čtyř hodin. Stejný problém by vznikl při srovnávání dopravy, kdyby jedna nabídka zahrnovala cestu tam i zpět a druhá pouze jeden směr.",
+      "zh": "先统一实际用两小时。图书馆可两小时，工作室必须四小时块，早走照付。应比每次实际活动总价，非用四小时摊出的理论价。类似交通报价一份含往返、一份单程不能直接比。",
+      "note_zh": ""
+    },
+    {
+      "id": "s03",
+      "cs": "Druhá skupina údajů se týkala dostupnosti. Knihovna má volné úterky, studio čtvrtky. Z dotazování našich dosavadních účastníků vyšlo, že většina může v úterý, ale několik lidí pracuje na směny. Nechtěli jsme je označit za nezájemce jen proto, že nemají stálý rozvrh. Zapsali jsme proto počet odpovědí i typ omezení. Údaj o zájmu není totožný s možností docházet v jednom konkrétním termínu.",
+      "zh": "再看时段：图书馆周二、工作室周四。现参与者多数周二行，但几人轮班。不能把没有固定班表称不感兴趣，因此记录回答数和限制类型。兴趣与某时段可到并非一回事。",
+      "note_zh": ""
+    },
+    {
+      "id": "s04",
+      "cs": "Třetí zdroj představovala zkušenost jiného spolku, který studio používá. Jeho koordinátorka chválila klidné prostředí a možnost nechat si věci ve skříni. Zároveň uvedla, že jejich skupina má dlouhodobou smlouvu se zvláštními podmínkami. Její zkušenost byla užitečná, ale neznamenala, že stejné podmínky automaticky dostaneme i my. Informaci o úložném prostoru jsme proto označili jako bod k ověření, nikoli jako jistou součást naší nabídky.",
+      "zh": "第三来源是使用工作室的协会，赞安静和储物柜，但其有长期特殊合同。经验有用，不代表我们自动得同条件。因此储物标待核而非己方报价已含。",
+      "note_zh": ""
+    },
+    {
+      "id": "s05",
+      "cs": "Výsledné shrnutí mělo tři části: srovnatelné náklady na jednu skutečnou akci, praktická dostupnost pro naši skupinu a nevyjasněné podmínky. U každého údaje jsme uvedli, zda pochází z písemné nabídky, z rozhovoru, nebo z vlastní kalkulace. Pokud se cena změnila po telefonátu, nepřepsali jsme starý údaj bez poznámky. Zaznamenali jsme novou verzi a požádali o písemné potvrzení, aby se rozhodnutí dalo zpětně vysvětlit.",
+      "zh": "摘要分实际单次可比费用、群体可达性、未明条件。每项注明书面报价、访谈或自算；电话改价不无痕覆盖，而记新版本、要书面确认，以便追溯。",
+      "note_zh": ""
+    },
+    {
+      "id": "s06",
+      "cs": "Doporučení nakonec znělo: začít v knihovně, pokud potvrdí pravidelný úterní termín, a studio ponechat jako alternativu pro delší akce. Nešlo o všeobecný soud, že knihovna je vždy levnější nebo studio horší. Závěr se vztahoval k našemu současnému počtu lidí, dvouhodinové délce a dostupným termínům. Kdyby se tyto podmínky změnily, bylo by potřeba srovnání zopakovat, nikoli jen obhajovat původní volbu.",
+      "zh": "推荐如图书馆确认固定周二则先用它，工作室留作长活动备选。不是所有场合图书馆更便宜或工作室更差；结论依当前人数、两小时、时段。条件变应重比而非固守原选择。",
+      "note_zh": ""
+    }
+  ],
+  "grammar": [
+    {
+      "id": "source-attribution",
+      "rule_zh": "每一条比较信息都要能回答“从哪来、适用于谁”。",
+      "detail_zh": "Podle písemné nabídky…；Koordinátorka uvedla, že…；Z našeho výpočtu vyplývá… 区分事实来源与计算推论。rozhovor zmiňuje 不是 smlouva zaručuje；来源对另一机构有效的条件未必适用自己。",
+      "examples": [
+        {
+          "cs": "Podle nabídky se úklid platí zvlášť.",
+          "zh": "按报价，清洁另付。",
+          "note_zh": ""
+        }
+      ],
+      "pitfalls": [
+        "不把别人长期合同特权复制为自己的报价内容。"
+      ],
+      "exceptions": [
+        "同一来源也可能有新版本，保留日期和条件。"
+      ],
+      "term": "归因与版本"
+    },
+    {
+      "id": "comparison-basis",
+      "rule_zh": "比较前统一分母和包含项。",
+      "detail_zh": "za hodinu/za večer/za jednu akci 表不同计价单位；včetně + 第二格表包含；bez + 第二格表不含。zatímco 比较相同维度的差异。依据转为结论时用 pro naši situaci，保留适用范围。",
+      "examples": [
+        {
+          "cs": "Knihovna účtuje dvě hodiny, zatímco studio celý blok.",
+          "zh": "图书馆计两小时，工作室计整块。",
+          "note_zh": ""
+        }
+      ],
+      "pitfalls": [
+        "理论均价不是实际需要支付的总额。"
+      ],
+      "exceptions": [
+        "无法统一口径时可明确“暂不可比”，不要硬算综合分数。"
+      ],
+      "term": "比较结构与口径"
+    }
+  ],
+  "vocabulary": [
+    {
+      "lemma": "sazba",
+      "pos": "名词，阴性",
+      "forms": "sazby; sazbou",
+      "meaning_zh": "费率",
+      "collocation": "hodinová sazba",
+      "example_cs": "Hodinová sazba není celková cena.",
+      "example_zh": "小时费率不是总价。",
+      "confusion_zh": "不等于一定可单小时租。"
+    },
+    {
+      "lemma": "včetně",
+      "pos": "介词，支配第二格",
+      "forms": "včetně úklidu",
+      "meaning_zh": "包含",
+      "collocation": "cena včetně úklidu",
+      "example_cs": "Pošlete cenu včetně úklidu.",
+      "example_zh": "发含清洁价格。",
+      "confusion_zh": "bez 表不含。"
+    },
+    {
+      "lemma": "využitelný",
+      "pos": "形容词",
+      "forms": "využitelná; využitelné",
+      "meaning_zh": "可实际利用的",
+      "collocation": "využitelný čas",
+      "example_cs": "Porovnáme využitelný čas.",
+      "example_zh": "比较实际可用时间。",
+      "confusion_zh": "已付时间不一定都能用。"
+    },
+    {
+      "lemma": "alternativa",
+      "pos": "名词，阴性",
+      "forms": "alternativy; alternativou",
+      "meaning_zh": "替代选择",
+      "collocation": "ponechat jako alternativu",
+      "example_cs": "Studio zůstává alternativou.",
+      "example_zh": "工作室仍是备选。",
+      "confusion_zh": "不是彻底否定。"
+    }
+  ],
+  "listening": {
+    "script": [
+      {
+        "cs": "Knihovna nabízí dvě hodiny v úterý včetně vybavení. Studio nabízí čtyři hodiny ve čtvrtek; úklid je navíc. Skříň pro dlouhodobé zákazníky nelze zatím slíbit i vám. Pokud potřebujete jen dvě hodiny, porovnejte celkovou cenu rezervace, ne pouze přepočtenou sazbu.",
+        "zh": "图书馆周二两小时含设备，工作室周四四小时清洁另付。长期客户储物柜还不能保证你也有。只需两小时应比预订总价非摊销价。",
+        "note_zh": ""
+      }
+    ],
+    "focus_zh": "听包含、额外费用、他人优惠及己方未确认项。",
+    "source": "original"
+  },
+  "pronunciation": {
+    "focus_zh": "včetně 中 vč 辅音群分开练再连读；úklid 长 ú 不能省为无重轻音。",
+    "contrast": [
+      {
+        "a": "včetně úklidu",
+        "b": "bez úklidu",
+        "note_zh": "包含项翻转会改变实际成本。"
+      }
+    ],
+    "task_zh": "先听一句，再按意义块跟读；录下自然语速版本，对照长短元音、句中停顿和关键词。不要追求机械加速。"
+  },
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "应该比较哪个核心价格？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "实际两小时活动需付总额"
+        },
+        {
+          "id": "b",
+          "text": "四小时理论均价本身"
+        },
+        {
+          "id": "c",
+          "text": "只看最大折扣"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "按可用活动口径。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U09-L01-E01",
+      "knowledge_points": [
+        "source-attribution",
+        "comparison-basis"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "储物柜目前状态？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "已保证所有新客户"
+        },
+        {
+          "id": "b",
+          "text": "来自另一长期客户经验，己方待确认"
+        },
+        {
+          "id": "c",
+          "text": "根本不存在"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "来源范围不同。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U09-L01-E02",
+      "knowledge_points": [
+        "source-attribution",
+        "comparison-basis"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "听：工作室额外哪费？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "清洁"
+        },
+        {
+          "id": "b",
+          "text": "所有设备已说明额外"
+        },
+        {
+          "id": "c",
+          "text": "图书馆押金"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "úklid je navíc。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "listening"
+      ],
+      "error_category": "comprehension",
+      "audio_text_cs": "Studio nabízí čtyři hodiny ve čtvrtek; úklid je navíc.",
+      "id": "B2-U09-L01-E03",
+      "knowledge_points": [
+        "source-attribution",
+        "comparison-basis"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "含设备：填 vybavení 的第二格形式。",
+      "stimulus_cs": "včetně ___",
+      "answer": "vybavení",
+      "accepted_answers": [
+        "vybavení"
+      ],
+      "explanation_zh": "该中性名词形式不变，支配是第二格。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "B2-U09-L01-E04",
+      "knowledge_points": [
+        "source-attribution",
+        "comparison-basis"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "填写对比连接词。",
+      "stimulus_cs": "Knihovna nabízí úterý, ___ studio čtvrtek.",
+      "answer": "zatímco",
+      "accepted_answers": [
+        "zatímco",
+        "kdežto",
+        "ale"
+      ],
+      "explanation_zh": "zatímco、kdežto 或 ale 在本句都能连接两项不同的日期安排；此处练对比关系，不限定只用一种连接词。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "meaning",
+      "id": "B2-U09-L01-E05",
+      "knowledge_points": [
+        "source-attribution",
+        "comparison-basis"
+      ]
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "修正把别人优惠当己方确认的句子。",
+      "stimulus_cs": "Skříň máme podle nabídky určitě k dispozici.",
+      "answer": "Dostupnost skříně pro naši skupinu je třeba ověřit.",
+      "accepted_answers": [],
+      "explanation_zh": "报价未保证己方储物。",
+      "scoring_basis": "开放改写：保留独立作答，按量规逐项自评或交教师评阅。示范句不是唯一答案，不以字符串相同与否自动判定正确。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U09-L01-E06",
+      "knowledge_points": [
+        "source-attribution",
+        "comparison-basis"
+      ],
+      "rubric": [
+        "明确己方储物柜可用性尚需核实",
+        "不将其他客户的经验当己方报价承诺",
+        "表达清楚的核实需要"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt_zh": "先标适用场景，再给推荐。",
+      "stimulus_cs": "doporučujeme knihovnu. / Pro naši dvouhodinovou akci",
+      "options": [
+        "doporučujeme knihovnu.",
+        "Pro naši dvouhodinovou akci"
+      ],
+      "answer": "Pro naši dvouhodinovou akci doporučujeme knihovnu.",
+      "accepted_answers": [
+        "Pro naši dvouhodinovou akci doporučujeme knihovnu."
+      ],
+      "explanation_zh": "结论限定当前实际需求。",
+      "scoring_basis": "本题限定句首及语境；不据一个参考语序否定捷语所有语序变体。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "word_order",
+      "id": "B2-U09-L01-E07",
+      "knowledge_points": [
+        "source-attribution",
+        "comparison-basis"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "轮班者不能固定周二等于没兴趣吗？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "等于"
+        },
+        {
+          "id": "b",
+          "text": "不等于，兴趣和可到时间不同"
+        },
+        {
+          "id": "c",
+          "text": "等于永不参加"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "避免把约束误当偏好。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U09-L01-E08",
+      "knowledge_points": [
+        "source-attribution",
+        "comparison-basis"
+      ]
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "两分钟口头比较两方案，给条件推荐和待查三项。",
+      "stimulus_cs": "",
+      "answer": "Pro dvouhodinové setkání je třeba porovnat celkovou platbu, protože studio účtuje celý čtyřhodinový blok. Knihovna má vhodnější úterní termín. Ještě ověříme pravidelnou dostupnost, konečnou cenu studia s úklidem a možnost uložení věcí.",
+      "accepted_answers": [],
+      "explanation_zh": "推荐与证据未完可以并列。",
+      "rubric": [
+        "口径统一",
+        "来源范围",
+        "条件推荐"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "error_category": "fluency",
+      "id": "B2-U09-L01-E09",
+      "knowledge_points": [
+        "source-attribution",
+        "comparison-basis"
+      ]
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "写150词左右决策摘要，明确书面来源、口头经验和计算推论。",
+      "stimulus_cs": "",
+      "answer": "Písemná nabídka knihovny zahrnuje dvě hodiny a základní vybavení. Studio nabízí čtyřhodinový blok bez úklidu. Z našeho požadavku na dvě hodiny vyplývá, že rozhoduje celková platba za rezervaci. Zkušenost jiného spolku potvrzuje možnost dlouhodobého užívání skříně, nikoli však náš nárok na ni. Doporučujeme ověřit stálý úterní termín v knihovně; studio ponechme pro delší akce.",
+      "accepted_answers": [],
+      "explanation_zh": "示范骨架；扩展时不编实际价格。",
+      "rubric": [
+        "三个来源层次",
+        "包含项",
+        "适用范围"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U09-L01-E10",
+      "knowledge_points": [
+        "source-attribution",
+        "comparison-basis"
+      ]
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "对方坚持工作室小时均价低，请问最小块和实际总价。",
+      "stimulus_cs": "",
+      "answer": "Souhlasím, že přepočtená sazba může být nižší. Kolik ale zaplatíme, když využijeme jen dvě hodiny? Musíme rezervovat celý blok a připočítat úklid?",
+      "accepted_answers": [],
+      "explanation_zh": "承认算式可能对，但换回决策口径。",
+      "rubric": [
+        "不争空泛高低",
+        "最小量问题",
+        "总成本"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "error_category": "fluency",
+      "id": "B2-U09-L01-E11",
+      "knowledge_points": [
+        "source-attribution",
+        "comparison-basis"
+      ]
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "用中文向团队解释为何还不能把储物柜写进最终方案。",
+      "stimulus_cs": "",
+      "answer": "储物柜信息来自另一协会，其长期合同有特殊条件；我们的书面报价没有确认。应列为待问项，不能说已有使用权，也不能据此计算省下的运输费。",
+      "accepted_answers": [],
+      "explanation_zh": "保持来源效力边界。",
+      "rubric": [
+        "来源对象",
+        "合同差异",
+        "禁止推算虚假节约"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U09-L01-E12",
+      "knowledge_points": [
+        "source-attribution",
+        "comparison-basis"
+      ]
+    }
+  ],
+  "transfer_task": {
+    "prompt_zh": "比较两条交通方案，一项单程、一项往返，统一往返实际行程并列未含费用。",
+    "model_answer_cs": "První cena platí pouze pro cestu tam, druhá zahrnuje zpáteční cestu. Pro srovnání musíme dopočítat návrat a ověřit zavazadla i změny rezervace.",
+    "rubric": [
+      "同口径",
+      "包含项",
+      "未知不硬填"
+    ]
+  },
+  "review_links": [
+    "B2-U08-L01"
+  ],
+  "sources": [
+    {
+      "source_id": "LANG01",
+      "url": "https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions",
+      "scope": "按实际能做的任务编排能力，不把CEFR说成官方捷语语法课表",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    },
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?id=620",
+      "scope": "动词与名词的格搭配、díky/kvůli的语用边界",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    },
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?id=575",
+      "scope": "条件式的人称形式、礼貌用途及过去条件式限制",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    }
+  ],
+  "content_status": "authored_crosschecked_not_native_reviewed",
+  "quality_notes": [
+    "原创课文和练习；规则按所列来源交叉核查，未获得捷语母语教师逐句审校。",
+    "本课级别属于教材编排判断，不代表官方能力认证。",
+    "听力为原创可合成脚本；真人多说话人、地区口音与录音自然度尚待现场核验。"
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "B2-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--normal.mp3",
+      "slow_file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-L01--2026.10.23.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Spolek hledá prostor pro týdenní jazykové setkávání. Nabídka knihovny uvádí cenu za jednu hodinu a zahrnuje stoly, židle i základní projekci. Nabídka soukromého studia pracuje s cenou za celý večer, ale úklid se platí zvlášť. Na první pohled se knihovna zdá dražší, protože jeden člen týmu porovnal její hodinovou částku s průměrnou částkou ze studia, aniž by zohlednil minimální délku rezervace. V první tabulce jsme proto sjednotili plánovanou délku: dvě hodiny týdně. Knihovna umožňuje rezervovat právě dvě hodiny. Studio vyžaduje celý čtyřhodinový blok, i když odejdeme dříve. Pro nás tedy rozhoduje cena za využitelnou akci, nikoli teoretická hodinová sazba vypočtená ze všech čtyř hodin. Stejný problém by vznikl při srovnávání dopravy, kdyby jedna nabídka zahrnovala cestu tam i zpět a druhá pouze jeden směr. Druhá skupina údajů se týkala dostupnosti. Knihovna má volné úterky, studio čtvrtky. Z dotazování našich dosavadních účastníků vyšlo, že většina může v úterý, ale několik lidí pracuje na směny. Nechtěli jsme je označit za nezájemce jen proto, že nemají stálý rozvrh. Zapsali jsme proto počet odpovědí i typ omezení. Údaj o zájmu není totožný s možností docházet v jednom konkrétním termínu. Třetí zdroj představovala zkušenost jiného spolku, který studio používá. Jeho koordinátorka chválila klidné prostředí a možnost nechat si věci ve skříni. Zároveň uvedla, že jejich skupina má dlouhodobou smlouvu se zvláštními podmínkami. Její zkušenost byla užitečná, ale neznamenala, že stejné podmínky automaticky dostaneme i my. Informaci o úložném prostoru jsme proto označili jako bod k ověření, nikoli jako jistou součást naší nabídky. Výsledné shrnutí mělo tři části: srovnatelné náklady na jednu skutečnou akci, praktická dostupnost pro naši skupinu a nevyjasněné podmínky. U každého údaje jsme uvedli, zda pochází z písemné nabídky, z rozhovoru, nebo z vlastní kalkulace. Pokud se cena změnila po telefonátu, nepřepsali jsme starý údaj bez poznámky. Zaznamenali jsme novou verzi a požádali o písemné potvrzení, aby se rozhodnutí dalo zpětně vysvětlit. Doporučení nakonec znělo: začít v knihovně, pokud potvrdí pravidelný úterní termín, a studio ponechat jako alternativu pro delší akce. Nešlo o všeobecný soud, že knihovna je vždy levnější nebo studio horší. Závěr se vztahoval k našemu současnému počtu lidí, dvouhodinové délce a dostupným termínům. Kdyby se tyto podmínky změnily, bylo by potřeba srovnání zopakovat, nikoli jen obhajovat původní volbu.",
+      "duration_seconds": 223.00571428571428,
+      "slow_duration_seconds": 249.8247619047619,
+      "sha256": "73f77e368f10a1ae5644f171b8242962bb69c14fac929b6c8cc3a51aa4d0f4db",
+      "slow_sha256": "04d319891291c2374e9a8afbe2e8c7cabb0f933ba14750ae32b4ef8b94900fd8"
+    },
+    {
+      "lesson_id": "B2-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--normal.mp3",
+      "slow_file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-L01--2026.10.23.1--text--p0",
+      "asset_id": "B2-U09-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Spolek hledá prostor pro týdenní jazykové setkávání. Nabídka knihovny uvádí cenu za jednu hodinu a zahrnuje stoly, židle i základní projekci. Nabídka soukromého studia pracuje s cenou za celý večer, ale úklid se platí zvlášť. Na první pohled se knihovna zdá dražší, protože jeden člen týmu porovnal její hodinovou částku s průměrnou částkou ze studia, aniž by zohlednil minimální délku rezervace.",
+      "start": 0,
+      "end": 36.937278911564626,
+      "slow_start": 0,
+      "slow_end": 41.5
+    },
+    {
+      "lesson_id": "B2-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--normal.mp3",
+      "slow_file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-L01--2026.10.23.1--text--s0",
+      "asset_id": "B2-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Spolek hledá prostor pro týdenní jazykové setkávání.",
+      "start": 0,
+      "end": 4.632380952380952,
+      "slow_start": 0,
+      "slow_end": 5.12
+    },
+    {
+      "lesson_id": "B2-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--normal.mp3",
+      "slow_file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-L01--2026.10.23.1--text--s1",
+      "asset_id": "B2-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Nabídka knihovny uvádí cenu za jednu hodinu a zahrnuje stoly, židle i základní projekci.",
+      "start": 4.812380952380952,
+      "end": 13.009024943310658,
+      "slow_start": 5.3,
+      "slow_end": 14.390612244897959
+    },
+    {
+      "lesson_id": "B2-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--normal.mp3",
+      "slow_file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-L01--2026.10.23.1--text--s2",
+      "asset_id": "B2-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Nabídka soukromého studia pracuje s cenou za celý večer, ale úklid se platí zvlášť.",
+      "start": 13.189024943310658,
+      "end": 21.478548752834467,
+      "slow_start": 14.570612244897958,
+      "slow_end": 23.835374149659863
+    },
+    {
+      "lesson_id": "B2-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--normal.mp3",
+      "slow_file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-L01--2026.10.23.1--text--s3",
+      "asset_id": "B2-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 3,
+      "paragraph_index": 0,
+      "sentence_index": 3,
+      "text": "Na první pohled se knihovna zdá dražší, protože jeden člen týmu porovnal její hodinovou částku s průměrnou částkou ze studia, aniž by zohlednil minimální délku rezervace.",
+      "start": 21.658548752834466,
+      "end": 36.937278911564626,
+      "slow_start": 24.015374149659863,
+      "slow_end": 41.5
+    },
+    {
+      "lesson_id": "B2-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--normal.mp3",
+      "slow_file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-L01--2026.10.23.1--text--p1",
+      "asset_id": "B2-U09-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "V první tabulce jsme proto sjednotili plánovanou délku: dvě hodiny týdně. Knihovna umožňuje rezervovat právě dvě hodiny. Studio vyžaduje celý čtyřhodinový blok, i když odejdeme dříve. Pro nás tedy rozhoduje cena za využitelnou akci, nikoli teoretická hodinová sazba vypočtená ze všech čtyř hodin. Stejný problém by vznikl při srovnávání dopravy, kdyby jedna nabídka zahrnovala cestu tam i zpět a druhá pouze jeden směr.",
+      "start": 37.117278911564625,
+      "end": 72.73687074829932,
+      "slow_start": 41.68,
+      "slow_end": 81.46757369614512
+    },
+    {
+      "lesson_id": "B2-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--normal.mp3",
+      "slow_file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-L01--2026.10.23.1--text--s4",
+      "asset_id": "B2-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 4,
+      "paragraph_index": 1,
+      "sentence_index": 0,
+      "text": "V první tabulce jsme proto sjednotili plánovanou délku: dvě hodiny týdně.",
+      "start": 37.117278911564625,
+      "end": 43.131247165532876,
+      "slow_start": 41.68,
+      "slow_end": 48.44861678004535
+    },
+    {
+      "lesson_id": "B2-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--normal.mp3",
+      "slow_file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-L01--2026.10.23.1--text--s5",
+      "asset_id": "B2-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 5,
+      "paragraph_index": 1,
+      "sentence_index": 1,
+      "text": "Knihovna umožňuje rezervovat právě dvě hodiny.",
+      "start": 43.31124716553288,
+      "end": 47.32829931972789,
+      "slow_start": 48.62861678004535,
+      "slow_end": 53.17972789115646
+    },
+    {
+      "lesson_id": "B2-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--normal.mp3",
+      "slow_file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-L01--2026.10.23.1--text--s6",
+      "asset_id": "B2-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 6,
+      "paragraph_index": 1,
+      "sentence_index": 2,
+      "text": "Studio vyžaduje celý čtyřhodinový blok, i když odejdeme dříve.",
+      "start": 47.50829931972789,
+      "end": 52.5934693877551,
+      "slow_start": 53.35972789115646,
+      "slow_end": 59.04861678004535
+    },
+    {
+      "lesson_id": "B2-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--normal.mp3",
+      "slow_file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-L01--2026.10.23.1--text--s7",
+      "asset_id": "B2-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 7,
+      "paragraph_index": 1,
+      "sentence_index": 3,
+      "text": "Pro nás tedy rozhoduje cena za využitelnou akci, nikoli teoretická hodinová sazba vypočtená ze všech čtyř hodin.",
+      "start": 52.7734693877551,
+      "end": 62.11950113378685,
+      "slow_start": 59.22861678004535,
+      "slow_end": 69.67759637188209
+    },
+    {
+      "lesson_id": "B2-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--normal.mp3",
+      "slow_file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-L01--2026.10.23.1--text--s8",
+      "asset_id": "B2-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 8,
+      "paragraph_index": 1,
+      "sentence_index": 4,
+      "text": "Stejný problém by vznikl při srovnávání dopravy, kdyby jedna nabídka zahrnovala cestu tam i zpět a druhá pouze jeden směr.",
+      "start": 62.29950113378685,
+      "end": 72.73687074829932,
+      "slow_start": 69.85759637188208,
+      "slow_end": 81.46757369614512
+    },
+    {
+      "lesson_id": "B2-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--normal.mp3",
+      "slow_file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-L01--2026.10.23.1--text--p2",
+      "asset_id": "B2-U09-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Druhá skupina údajů se týkala dostupnosti. Knihovna má volné úterky, studio čtvrtky. Z dotazování našich dosavadních účastníků vyšlo, že většina může v úterý, ale několik lidí pracuje na směny. Nechtěli jsme je označit za nezájemce jen proto, že nemají stálý rozvrh. Zapsali jsme proto počet odpovědí i typ omezení. Údaj o zájmu není totožný s možností docházet v jednom konkrétním termínu.",
+      "start": 72.91687074829932,
+      "end": 109.13442176870748,
+      "slow_start": 81.64757369614513,
+      "slow_end": 122.09115646258503
+    },
+    {
+      "lesson_id": "B2-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--normal.mp3",
+      "slow_file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-L01--2026.10.23.1--text--s9",
+      "asset_id": "B2-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 9,
+      "paragraph_index": 2,
+      "sentence_index": 0,
+      "text": "Druhá skupina údajů se týkala dostupnosti.",
+      "start": 72.91687074829932,
+      "end": 76.70172335600907,
+      "slow_start": 81.64757369614513,
+      "slow_end": 85.95487528344671
+    },
+    {
+      "lesson_id": "B2-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--normal.mp3",
+      "slow_file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-L01--2026.10.23.1--text--s10",
+      "asset_id": "B2-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 10,
+      "paragraph_index": 2,
+      "sentence_index": 1,
+      "text": "Knihovna má volné úterky, studio čtvrtky.",
+      "start": 76.88172335600908,
+      "end": 80.70140589569161,
+      "slow_start": 86.13487528344672,
+      "slow_end": 90.3492970521542
+    },
+    {
+      "lesson_id": "B2-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--normal.mp3",
+      "slow_file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-L01--2026.10.23.1--text--s11",
+      "asset_id": "B2-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 11,
+      "paragraph_index": 2,
+      "sentence_index": 2,
+      "text": "Z dotazování našich dosavadních účastníků vyšlo, že většina může v úterý, ale několik lidí pracuje na směny.",
+      "start": 80.88140589569161,
+      "end": 90.90081632653062,
+      "slow_start": 90.52929705215419,
+      "slow_end": 101.55877551020409
+    },
+    {
+      "lesson_id": "B2-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--normal.mp3",
+      "slow_file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-L01--2026.10.23.1--text--s12",
+      "asset_id": "B2-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 12,
+      "paragraph_index": 2,
+      "sentence_index": 3,
+      "text": "Nechtěli jsme je označit za nezájemce jen proto, že nemají stálý rozvrh.",
+      "start": 91.08081632653061,
+      "end": 97.72172335600906,
+      "slow_start": 101.73877551020408,
+      "slow_end": 109.34331065759638
+    },
+    {
+      "lesson_id": "B2-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--normal.mp3",
+      "slow_file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-L01--2026.10.23.1--text--s13",
+      "asset_id": "B2-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 13,
+      "paragraph_index": 2,
+      "sentence_index": 4,
+      "text": "Zapsali jsme proto počet odpovědí i typ omezení.",
+      "start": 97.90172335600907,
+      "end": 102.18580498866213,
+      "slow_start": 109.52331065759637,
+      "slow_end": 114.30662131519274
+    },
+    {
+      "lesson_id": "B2-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--normal.mp3",
+      "slow_file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-L01--2026.10.23.1--text--s14",
+      "asset_id": "B2-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 14,
+      "paragraph_index": 2,
+      "sentence_index": 5,
+      "text": "Údaj o zájmu není totožný s možností docházet v jednom konkrétním termínu.",
+      "start": 102.36580498866213,
+      "end": 109.13442176870748,
+      "slow_start": 114.48662131519275,
+      "slow_end": 122.09115646258503
+    },
+    {
+      "lesson_id": "B2-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--normal.mp3",
+      "slow_file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-L01--2026.10.23.1--text--p3",
+      "asset_id": "B2-U09-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Třetí zdroj představovala zkušenost jiného spolku, který studio používá. Jeho koordinátorka chválila klidné prostředí a možnost nechat si věci ve skříni. Zároveň uvedla, že jejich skupina má dlouhodobou smlouvu se zvláštními podmínkami. Její zkušenost byla užitečná, ale neznamenala, že stejné podmínky automaticky dostaneme i my. Informaci o úložném prostoru jsme proto označili jako bod k ověření, nikoli jako jistou součást naší nabídky.",
+      "start": 109.31442176870749,
+      "end": 148.81174603174603,
+      "slow_start": 122.27115646258504,
+      "slow_end": 165.97129251700682
+    },
+    {
+      "lesson_id": "B2-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--normal.mp3",
+      "slow_file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-L01--2026.10.23.1--text--s15",
+      "asset_id": "B2-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 15,
+      "paragraph_index": 3,
+      "sentence_index": 0,
+      "text": "Třetí zdroj představovala zkušenost jiného spolku, který studio používá.",
+      "start": 109.31442176870749,
+      "end": 115.71151927437641,
+      "slow_start": 122.27115646258504,
+      "slow_end": 129.48095238095237
+    },
+    {
+      "lesson_id": "B2-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--normal.mp3",
+      "slow_file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-L01--2026.10.23.1--text--s16",
+      "asset_id": "B2-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 16,
+      "paragraph_index": 3,
+      "sentence_index": 1,
+      "text": "Jeho koordinátorka chválila klidné prostředí a možnost nechat si věci ve skříni.",
+      "start": 115.89151927437642,
+      "end": 123.17097505668934,
+      "slow_start": 129.66095238095238,
+      "slow_end": 137.71827664399092
+    },
+    {
+      "lesson_id": "B2-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--normal.mp3",
+      "slow_file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-L01--2026.10.23.1--text--s17",
+      "asset_id": "B2-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 17,
+      "paragraph_index": 3,
+      "sentence_index": 2,
+      "text": "Zároveň uvedla, že jejich skupina má dlouhodobou smlouvu se zvláštními podmínkami.",
+      "start": 123.35097505668934,
+      "end": 130.07315192743764,
+      "slow_start": 137.89827664399093,
+      "slow_end": 145.52603174603175
+    },
+    {
+      "lesson_id": "B2-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--normal.mp3",
+      "slow_file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-L01--2026.10.23.1--text--s18",
+      "asset_id": "B2-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 18,
+      "paragraph_index": 3,
+      "sentence_index": 3,
+      "text": "Její zkušenost byla užitečná, ale neznamenala, že stejné podmínky automaticky dostaneme i my.",
+      "start": 130.25315192743764,
+      "end": 138.6819954648526,
+      "slow_start": 145.70603174603175,
+      "slow_end": 154.9243537414966
+    },
+    {
+      "lesson_id": "B2-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--normal.mp3",
+      "slow_file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-L01--2026.10.23.1--text--s19",
+      "asset_id": "B2-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 19,
+      "paragraph_index": 3,
+      "sentence_index": 4,
+      "text": "Informaci o úložném prostoru jsme proto označili jako bod k ověření, nikoli jako jistou součást naší nabídky.",
+      "start": 138.8619954648526,
+      "end": 148.81174603174603,
+      "slow_start": 155.1043537414966,
+      "slow_end": 165.97129251700682
+    },
+    {
+      "lesson_id": "B2-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--normal.mp3",
+      "slow_file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-L01--2026.10.23.1--text--p4",
+      "asset_id": "B2-U09-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 4,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Výsledné shrnutí mělo tři části: srovnatelné náklady na jednu skutečnou akci, praktická dostupnost pro naši skupinu a nevyjasněné podmínky. U každého údaje jsme uvedli, zda pochází z písemné nabídky, z rozhovoru, nebo z vlastní kalkulace. Pokud se cena změnila po telefonátu, nepřepsali jsme starý údaj bez poznámky. Zaznamenali jsme novou verzi a požádali o písemné potvrzení, aby se rozhodnutí dalo zpětně vysvětlit.",
+      "start": 148.99174603174603,
+      "end": 186.68367346938774,
+      "slow_start": 166.1512925170068,
+      "slow_end": 208.7774603174603
+    },
+    {
+      "lesson_id": "B2-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--normal.mp3",
+      "slow_file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-L01--2026.10.23.1--text--s20",
+      "asset_id": "B2-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 20,
+      "paragraph_index": 4,
+      "sentence_index": 0,
+      "text": "Výsledné shrnutí mělo tři části: srovnatelné náklady na jednu skutečnou akci, praktická dostupnost pro naši skupinu a nevyjasněné podmínky.",
+      "start": 148.99174603174603,
+      "end": 160.9035827664399,
+      "slow_start": 166.1512925170068,
+      "slow_end": 179.6885260770975
+    },
+    {
+      "lesson_id": "B2-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--normal.mp3",
+      "slow_file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-L01--2026.10.23.1--text--s21",
+      "asset_id": "B2-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 21,
+      "paragraph_index": 4,
+      "sentence_index": 1,
+      "text": "U každého údaje jsme uvedli, zda pochází z písemné nabídky, z rozhovoru, nebo z vlastní kalkulace.",
+      "start": 161.08358276643992,
+      "end": 169.96521541950113,
+      "slow_start": 179.8685260770975,
+      "slow_end": 190.02725623582765
+    },
+    {
+      "lesson_id": "B2-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--normal.mp3",
+      "slow_file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-L01--2026.10.23.1--text--s22",
+      "asset_id": "B2-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 22,
+      "paragraph_index": 4,
+      "sentence_index": 2,
+      "text": "Pokud se cena změnila po telefonátu, nepřepsali jsme starý údaj bez poznámky.",
+      "start": 170.14521541950114,
+      "end": 177.34340136054422,
+      "slow_start": 190.20725623582766,
+      "slow_end": 198.3922902494331
+    },
+    {
+      "lesson_id": "B2-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--normal.mp3",
+      "slow_file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-L01--2026.10.23.1--text--s23",
+      "asset_id": "B2-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 23,
+      "paragraph_index": 4,
+      "sentence_index": 3,
+      "text": "Zaznamenali jsme novou verzi a požádali o písemné potvrzení, aby se rozhodnutí dalo zpětně vysvětlit.",
+      "start": 177.52340136054423,
+      "end": 186.68367346938774,
+      "slow_start": 198.5722902494331,
+      "slow_end": 208.7774603174603
+    },
+    {
+      "lesson_id": "B2-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--normal.mp3",
+      "slow_file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-L01--2026.10.23.1--text--p5",
+      "asset_id": "B2-U09-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 5,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Doporučení nakonec znělo: začít v knihovně, pokud potvrdí pravidelný úterní termín, a studio ponechat jako alternativu pro delší akce. Nešlo o všeobecný soud, že knihovna je vždy levnější nebo studio horší. Závěr se vztahoval k našemu současnému počtu lidí, dvouhodinové délce a dostupným termínům. Kdyby se tyto podmínky změnily, bylo by potřeba srovnání zopakovat, nikoli jen obhajovat původní volbu.",
+      "start": 186.86367346938775,
+      "end": 222.8257142857143,
+      "slow_start": 208.95746031746032,
+      "slow_end": 249.6447619047619
+    },
+    {
+      "lesson_id": "B2-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--normal.mp3",
+      "slow_file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-L01--2026.10.23.1--text--s24",
+      "asset_id": "B2-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 24,
+      "paragraph_index": 5,
+      "sentence_index": 0,
+      "text": "Doporučení nakonec znělo: začít v knihovně, pokud potvrdí pravidelný úterní termín, a studio ponechat jako alternativu pro delší akce.",
+      "start": 186.86367346938775,
+      "end": 199.05414965986395,
+      "slow_start": 208.95746031746032,
+      "slow_end": 222.98231292517008
+    },
+    {
+      "lesson_id": "B2-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--normal.mp3",
+      "slow_file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-L01--2026.10.23.1--text--s25",
+      "asset_id": "B2-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 25,
+      "paragraph_index": 5,
+      "sentence_index": 1,
+      "text": "Nešlo o všeobecný soud, že knihovna je vždy levnější nebo studio horší.",
+      "start": 199.23414965986396,
+      "end": 205.2713378684807,
+      "slow_start": 223.16231292517006,
+      "slow_end": 230.02380952380952
+    },
+    {
+      "lesson_id": "B2-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--normal.mp3",
+      "slow_file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-L01--2026.10.23.1--text--s26",
+      "asset_id": "B2-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 26,
+      "paragraph_index": 5,
+      "sentence_index": 2,
+      "text": "Závěr se vztahoval k našemu současnému počtu lidí, dvouhodinové délce a dostupným termínům.",
+      "start": 205.45133786848072,
+      "end": 213.63637188208617,
+      "slow_start": 230.20380952380953,
+      "slow_end": 239.3524716553288
+    },
+    {
+      "lesson_id": "B2-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--normal.mp3",
+      "slow_file": "audio/files/B2-U09-L01--2026.10.22.1--text--bce6d96a46--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-L01--2026.10.23.1--text--s27",
+      "asset_id": "B2-U09-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 27,
+      "paragraph_index": 5,
+      "sentence_index": 3,
+      "text": "Kdyby se tyto podmínky změnily, bylo by potřeba srovnání zopakovat, nikoli jen obhajovat původní volbu.",
+      "start": 213.81637188208617,
+      "end": 222.8257142857143,
+      "slow_start": 239.5324716553288,
+      "slow_end": 249.6447619047619
+    },
+    {
+      "lesson_id": "B2-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-L01--2026.10.22.1--listening--633bfd8855--normal.mp3",
+      "slow_file": "audio/files/B2-U09-L01--2026.10.22.1--listening--633bfd8855--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-L01--2026.10.23.1--listening",
+      "role": "listening-full",
+      "index": 0,
+      "text": "Knihovna nabízí dvě hodiny v úterý včetně vybavení. Studio nabízí čtyři hodiny ve čtvrtek; úklid je navíc. Skříň pro dlouhodobé zákazníky nelze zatím slíbit i vám. Pokud potřebujete jen dvě hodiny, porovnejte celkovou cenu rezervace, ne pouze přepočtenou sazbu.",
+      "duration_seconds": 23.6497052154195,
+      "slow_duration_seconds": 26.563809523809525,
+      "sha256": "ddb24e5da9090ac65eab1b55eb76014463e0a793911dbb0926746eac9d65bfd1",
+      "slow_sha256": "7bdd43c0ecdc21f01f0e5185d5b357091e4966620e3361d6eb5d05e6f41842ef"
+    },
+    {
+      "lesson_id": "B2-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-L01--2026.10.22.1--listening--633bfd8855--normal.mp3",
+      "slow_file": "audio/files/B2-U09-L01--2026.10.22.1--listening--633bfd8855--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-L01--2026.10.23.1--listening--p0",
+      "asset_id": "B2-U09-L01--2026.10.23.1--listening",
+      "role": "listening",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Knihovna nabízí dvě hodiny v úterý včetně vybavení. Studio nabízí čtyři hodiny ve čtvrtek; úklid je navíc. Skříň pro dlouhodobé zákazníky nelze zatím slíbit i vám. Pokud potřebujete jen dvě hodiny, porovnejte celkovou cenu rezervace, ne pouze přepočtenou sazbu.",
+      "start": 0,
+      "end": 23.469705215419502,
+      "slow_start": 0,
+      "slow_end": 26.383809523809525
+    },
+    {
+      "lesson_id": "B2-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-L01--2026.10.22.1--vocabulary--2ab53efc83--normal.mp3",
+      "slow_file": "audio/files/B2-U09-L01--2026.10.22.1--vocabulary--2ab53efc83--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary-full",
+      "index": 0,
+      "text": "Hodinová sazba není celková cena. Pošlete cenu včetně úklidu. Porovnáme využitelný čas. Studio zůstává alternativou.",
+      "duration_seconds": 11.668208616780046,
+      "slow_duration_seconds": 13.235555555555555,
+      "sha256": "edc44d8b2db9f2de2e80867a9bf07e0addb3792f30a9b0e86b817681f2ea84e8",
+      "slow_sha256": "104932707ea27045e1ac6c1fc3bee0a572e5ef8bedc69629505fb9ab80d64945"
+    },
+    {
+      "lesson_id": "B2-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-L01--2026.10.22.1--vocabulary--2ab53efc83--normal.mp3",
+      "slow_file": "audio/files/B2-U09-L01--2026.10.22.1--vocabulary--2ab53efc83--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-L01--2026.10.23.1--vocabulary--p0",
+      "asset_id": "B2-U09-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Hodinová sazba není celková cena.",
+      "start": 0,
+      "end": 3.297233560090703,
+      "slow_start": 0,
+      "slow_end": 3.7500226757369615
+    },
+    {
+      "lesson_id": "B2-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-L01--2026.10.22.1--vocabulary--2ab53efc83--normal.mp3",
+      "slow_file": "audio/files/B2-U09-L01--2026.10.22.1--vocabulary--2ab53efc83--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-L01--2026.10.23.1--vocabulary--p1",
+      "asset_id": "B2-U09-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Pošlete cenu včetně úklidu.",
+      "start": 3.477233560090703,
+      "end": 5.892108843537415,
+      "slow_start": 3.9300226757369616,
+      "slow_end": 6.7280272108843535
+    },
+    {
+      "lesson_id": "B2-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-L01--2026.10.22.1--vocabulary--2ab53efc83--normal.mp3",
+      "slow_file": "audio/files/B2-U09-L01--2026.10.22.1--vocabulary--2ab53efc83--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-L01--2026.10.23.1--vocabulary--p2",
+      "asset_id": "B2-U09-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Porovnáme využitelný čas.",
+      "start": 6.072108843537415,
+      "end": 8.672743764172335,
+      "slow_start": 6.908027210884354,
+      "slow_end": 9.868571428571428
+    },
+    {
+      "lesson_id": "B2-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-L01--2026.10.22.1--vocabulary--2ab53efc83--normal.mp3",
+      "slow_file": "audio/files/B2-U09-L01--2026.10.22.1--vocabulary--2ab53efc83--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-L01--2026.10.23.1--vocabulary--p3",
+      "asset_id": "B2-U09-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Studio zůstává alternativou.",
+      "start": 8.852743764172336,
+      "end": 11.488208616780046,
+      "slow_start": 10.048571428571428,
+      "slow_end": 13.055555555555555
+    },
+    {
+      "lesson_id": "B2-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-L01--2026.10.22.1--exercises--16b1bacfc9--normal.mp3",
+      "slow_file": "audio/files/B2-U09-L01--2026.10.22.1--exercises--16b1bacfc9--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-L01--2026.10.23.1--exercises",
+      "role": "exercises-full",
+      "index": 0,
+      "text": "Studio nabízí čtyři hodiny ve čtvrtek; úklid je navíc.",
+      "duration_seconds": 5.3,
+      "slow_duration_seconds": 5.868888888888889,
+      "sha256": "4c5c09c2ce0947c123a8f31de071d05c297fc5b905280879785a926e13a8f61b",
+      "slow_sha256": "12abff1d717aa247600c324f9e16d9d8a68ced5f73cf46cfc5fed07eec3072a4"
+    },
+    {
+      "lesson_id": "B2-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-L01--2026.10.22.1--exercises--16b1bacfc9--normal.mp3",
+      "slow_file": "audio/files/B2-U09-L01--2026.10.22.1--exercises--16b1bacfc9--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-L01--2026.10.23.1--exercises--p0",
+      "asset_id": "B2-U09-L01--2026.10.23.1--exercises",
+      "role": "exercise",
+      "index": 0,
+      "exercise_id": "B2-U09-L01-E03",
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Studio nabízí čtyři hodiny ve čtvrtek; úklid je navíc.",
+      "start": 0,
+      "end": 5.12,
+      "slow_start": 0,
+      "slow_end": 5.688888888888889
+    },
+    {
+      "lesson_id": "B2-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-L01--2026.10.22.1--contrasts--80bf56f8fa--normal.mp3",
+      "slow_file": "audio/files/B2-U09-L01--2026.10.22.1--contrasts--80bf56f8fa--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-L01--2026.10.23.1--contrasts",
+      "role": "contrasts-full",
+      "index": 0,
+      "text": "včetně úklidu. bez úklidu.",
+      "duration_seconds": 2.3046258503401362,
+      "slow_duration_seconds": 2.6297052154195013,
+      "sha256": "cd4fdf28218cf1ef3811790daea1640e2f3e2669a4295e99c14ef10abd870105",
+      "slow_sha256": "b560325473bf2d5e7cbc015fef5e9fbab4168e592d08c39673ee74e7ad311b11"
+    },
+    {
+      "lesson_id": "B2-U09-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-L01--2026.10.22.1--contrasts--80bf56f8fa--normal.mp3",
+      "slow_file": "audio/files/B2-U09-L01--2026.10.22.1--contrasts--80bf56f8fa--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-L01--2026.10.23.1--contrasts--p0",
+      "asset_id": "B2-U09-L01--2026.10.23.1--contrasts",
+      "role": "contrast",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "včetně úklidu. bez úklidu.",
+      "start": 0,
+      "end": 2.124625850340136,
+      "slow_start": 0,
+      "slow_end": 2.449705215419501
+    }
+  ]
+}

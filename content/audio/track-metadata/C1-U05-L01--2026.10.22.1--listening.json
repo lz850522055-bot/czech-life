@@ -1,0 +1,75 @@
+{
+  "id": "C1-U05-L01--2026.10.22.1--listening",
+  "lesson_id": "C1-U05-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Původně jsme vyšší počet večerních vstupů považovali za rozšíření okruhu čtenářů. Jenže část lidí pouze změnila čas návštěvy. Proto budeme zvlášť sledovat nové uživatele a zvlášť to, zda stávajícím služba lépe vyhovuje.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Původně jsme vyšší počet večerních vstupů považovali za rozšíření okruhu čtenářů.",
+        "Jenže část lidí pouze změnila čas návštěvy.",
+        "Proto budeme zvlášť sledovat nové uživatele a zvlášť to, zda stávajícím služba lépe vyhovuje."
+      ]
+    }
+  ],
+  "text_sha256": "442c4066118c74f87526be9bec2da38c59a1d3ed343fc7e64453fd48e6a8ed13",
+  "source_file": "content/lessons/C1/C1-U05-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U05-L01--2026.10.22.1--listening--442c406611--normal.mp3",
+  "slow_file": "content/audio/files/C1-U05-L01--2026.10.22.1--listening--442c406611--slow.mp3",
+  "duration_seconds": 20.509160997732426,
+  "slow_duration_seconds": 23.109795918367347,
+  "cues": [
+    {
+      "text": "Původně jsme vyšší počet večerních vstupů považovali za rozšíření okruhu čtenářů. Jenže část lidí pouze změnila čas návštěvy. Proto budeme zvlášť sledovat nové uživatele a zvlášť to, zda stávajícím služba lépe vyhovuje.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Původně jsme vyšší počet večerních vstupů považovali za rozšíření okruhu čtenářů.",
+        "Jenže část lidí pouze změnila čas návštěvy.",
+        "Proto budeme zvlášť sledovat nové uživatele a zvlášť to, zda stávajícím služba lépe vyhovuje."
+      ],
+      "start": 0.0,
+      "end": 20.329160997732426,
+      "sentences": [
+        {
+          "text": "Původně jsme vyšší počet večerních vstupů považovali za rozšíření okruhu čtenářů.",
+          "start": 0.0,
+          "end": 7.302675736961452,
+          "slow_start": 0.0,
+          "slow_end": 8.231473922902495
+        },
+        {
+          "text": "Jenže část lidí pouze změnila čas návštěvy.",
+          "start": 7.482675736961451,
+          "end": 11.75514739229025,
+          "slow_start": 8.411473922902495,
+          "slow_end": 13.334104308390023
+        },
+        {
+          "text": "Proto budeme zvlášť sledovat nové uživatele a zvlášť to, zda stávajícím služba lépe vyhovuje.",
+          "start": 11.935147392290249,
+          "end": 20.329160997732426,
+          "slow_start": 13.514104308390023,
+          "slow_end": 22.929795918367347
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 22.929795918367347
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "a60f33f1b150ff67bc94e8ea9feee1611acb5b9acb3696f4333b97aa81187358",
+    "slow": "5ada9f0baaeefa42c745639448a7f51b405a743f984c2e96d39d6f01c6dc3857"
+  }
+}

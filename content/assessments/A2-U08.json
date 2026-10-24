@@ -1,0 +1,208 @@
+{
+  "id": "A2-U08-CHECK",
+  "kind": "unit",
+  "level": "A2",
+  "unit_id": "A2-U08",
+  "title_zh": "电话没听清：拆开确认信息：换情境独立完成",
+  "version": "2026.10.22.1",
+  "unseen_text": [
+    {
+      "cs": "Schůzka se přesouvá na úterý. Čas zůstává jedenáct hodin. Pošlete prosím krátké potvrzení.",
+      "zh": "会面改周二，时间仍十一点，请发简短确认。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "改变的是？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "日期/星期"
+        },
+        {
+          "id": "b",
+          "text": "时间"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "čas zůstává。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "A2-U08-CHECK-E01",
+      "knowledge_points": [
+        "repair-targeted",
+        "message-transfer"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "十一点写数字时刻。",
+      "stimulus_cs": "",
+      "answer": "11:00",
+      "accepted_answers": [
+        "11:00"
+      ],
+      "explanation_zh": "jedenáct。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "comprehension",
+      "id": "A2-U08-CHECK-E02",
+      "knowledge_points": [
+        "repair-targeted",
+        "message-transfer"
+      ]
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "写准确确认，不增加地址信息。",
+      "stimulus_cs": "",
+      "answer": "Potvrzuji úterý v jedenáct hodin.",
+      "accepted_answers": [],
+      "explanation_zh": "材料没给地址，不能编造。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A2-U08-CHECK-E03",
+      "knowledge_points": [
+        "repair-targeted",
+        "message-transfer"
+      ]
+    }
+  ],
+  "rubric": [
+    "能提取新材料中的关键事实，不靠背诵原文",
+    "能根据变化的条件组织一句或一段表达",
+    "能指出不确定之处并请求澄清"
+  ],
+  "remediation": [
+    {
+      "condition_zh": "目标规律使用不稳定或未能提取关键信息",
+      "lesson_ids": [
+        "A2-U08-L01"
+      ],
+      "action_zh": "返回规律卡，对照两例；隔一次其他练习后重做未见情境。"
+    }
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "A2-U08-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U08-CHECK--2026.10.22.1--text--a582b4e9de--normal.mp3",
+      "slow_file": "audio/files/A2-U08-CHECK--2026.10.22.1--text--a582b4e9de--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U08-CHECK--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Schůzka se přesouvá na úterý. Čas zůstává jedenáct hodin. Pošlete prosím krátké potvrzení.",
+      "duration_seconds": 8.817913832199546,
+      "slow_duration_seconds": 9.560952380952381,
+      "sha256": "7dfadfdb3774365953f6ff7e1247da01f2914f349516d019b95266a5c5455c51",
+      "slow_sha256": "5e475740b7cc233305aa7c0c341ee5f6257461d1db26ee409709620f93749b4b"
+    },
+    {
+      "lesson_id": "A2-U08-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U08-CHECK--2026.10.22.1--text--a582b4e9de--normal.mp3",
+      "slow_file": "audio/files/A2-U08-CHECK--2026.10.22.1--text--a582b4e9de--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U08-CHECK--2026.10.22.1--text--p0",
+      "asset_id": "A2-U08-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Schůzka se přesouvá na úterý. Čas zůstává jedenáct hodin. Pošlete prosím krátké potvrzení.",
+      "start": 0,
+      "end": 8.637913832199546,
+      "slow_start": 0,
+      "slow_end": 9.380952380952381
+    },
+    {
+      "lesson_id": "A2-U08-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U08-CHECK--2026.10.22.1--text--a582b4e9de--normal.mp3",
+      "slow_file": "audio/files/A2-U08-CHECK--2026.10.22.1--text--a582b4e9de--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U08-CHECK--2026.10.22.1--text--s0",
+      "asset_id": "A2-U08-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Schůzka se přesouvá na úterý.",
+      "start": 0,
+      "end": 2.426485260770975,
+      "slow_start": 0,
+      "slow_end": 2.6006349206349206
+    },
+    {
+      "lesson_id": "A2-U08-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U08-CHECK--2026.10.22.1--text--a582b4e9de--normal.mp3",
+      "slow_file": "audio/files/A2-U08-CHECK--2026.10.22.1--text--a582b4e9de--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U08-CHECK--2026.10.22.1--text--s1",
+      "asset_id": "A2-U08-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Čas zůstává jedenáct hodin.",
+      "start": 2.606485260770975,
+      "end": 5.334829931972789,
+      "slow_start": 2.780634920634921,
+      "slow_end": 5.776009070294784
+    },
+    {
+      "lesson_id": "A2-U08-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U08-CHECK--2026.10.22.1--text--a582b4e9de--normal.mp3",
+      "slow_file": "audio/files/A2-U08-CHECK--2026.10.22.1--text--a582b4e9de--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U08-CHECK--2026.10.22.1--text--s2",
+      "asset_id": "A2-U08-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Pošlete prosím krátké potvrzení.",
+      "start": 5.514829931972789,
+      "end": 8.637913832199546,
+      "slow_start": 5.956009070294785,
+      "slow_end": 9.380952380952381
+    }
+  ]
+}

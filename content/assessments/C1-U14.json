@@ -1,0 +1,221 @@
+{
+  "id": "C1-U14-CHECK",
+  "kind": "unit",
+  "level": "C1",
+  "unit_id": "C1-U14",
+  "title_zh": "把三种立场变成一份不失真的协作记录：新情境检验",
+  "version": "2026.10.22.1",
+  "unseen_text": [
+    {
+      "cs": "Komunitní kuchyni sdílejí tři skupiny. Jedna potřebuje ráno čistý prostor pro kurz, druhá chce večer připravovat jídlo a třetí skladuje suroviny. Spor vznikl, protože večerní skupina chápala úklid jako odnesení nádobí, ranní jako připravené pracovní plochy.",
+      "zh": "共享厨房争议在于“清理”定义不同：晚间组理解收走碗碟，早间组需要可直接使用的操作台。"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "首先应澄清什么？",
+      "stimulus_cs": "",
+      "answer": "a",
+      "explanation_zh": "定义不同而非先判人品。",
+      "skill_ids": [
+        "reading"
+      ],
+      "knowledge_points": [
+        "c1-mediation-interests",
+        "c1-agreement-boundaries"
+      ],
+      "error_category": "comprehension",
+      "options": [
+        {
+          "id": "a",
+          "text": "交接时清洁状态的具体标准"
+        },
+        {
+          "id": "b",
+          "text": "哪个群体更勤劳"
+        },
+        {
+          "id": "c",
+          "text": "谁更早加入"
+        }
+      ],
+      "scoring_basis": "封闭题以答案核对；解析说明本题边界。",
+      "id": "C1-U14-CHECK-E01"
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "主持人提出核实问题并形成条款。",
+      "stimulus_cs": "",
+      "answer": "Co přesně musí být ráno připraveno? Navrhuji společně popsat stav pracovních ploch a určit, kdo jej při předání zkontroluje.",
+      "explanation_zh": "可观察条件与责任。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "knowledge_points": [
+        "c1-mediation-interests",
+        "c1-agreement-boundaries"
+      ],
+      "error_category": "comprehension",
+      "rubric": [
+        "回应具体任务，信息不失真",
+        "逻辑有衔接，能说明证据与限制",
+        "语法与搭配基本准确，语域适合对象",
+        "能自主组织语言而非照读范文"
+      ],
+      "scoring_basis": "开放表达：示范不是唯一答案；依量规自评或人工评阅，未接受人工评阅时不自动判定能力达标。",
+      "id": "C1-U14-CHECK-E02"
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "给缺席组转述争点，不说某方不负责。",
+      "stimulus_cs": "",
+      "answer": "Skupiny dosud používaly slovo úklid v jiném rozsahu. Potřebují společně stanovit, v jakém stavu se kuchyň předává.",
+      "explanation_zh": "归因基于证据而非动机。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "knowledge_points": [
+        "c1-mediation-interests",
+        "c1-agreement-boundaries"
+      ],
+      "error_category": "comprehension",
+      "rubric": [
+        "回应具体任务，信息不失真",
+        "逻辑有衔接，能说明证据与限制",
+        "语法与搭配基本准确，语域适合对象",
+        "能自主组织语言而非照读范文"
+      ],
+      "scoring_basis": "开放表达：示范不是唯一答案；依量规自评或人工评阅，未接受人工评阅时不自动判定能力达标。",
+      "id": "C1-U14-CHECK-E03"
+    }
+  ],
+  "rubric": [
+    "理解未见材料中的主张及限定",
+    "主动表达时准确转述不同立场",
+    "区分事实、推断与建议",
+    "能针对误解调整解释方式"
+  ],
+  "remediation": [
+    {
+      "condition_zh": "误把可能性说成事实，或遗漏反方条件",
+      "lesson_ids": [
+        "C1-U14-L01"
+      ],
+      "action_zh": "重做信息定位与转述，标出每个判断的来源和语气词。"
+    },
+    {
+      "condition_zh": "表达卡住或只有单句结论",
+      "lesson_ids": [
+        "C1-U14-L01"
+      ],
+      "action_zh": "先列论点—依据—限制—行动四点，再换对象重录一次。"
+    }
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "C1-U14-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U14-CHECK--2026.10.22.1--text--322bbb1f21--normal.mp3",
+      "slow_file": "audio/files/C1-U14-CHECK--2026.10.22.1--text--322bbb1f21--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U14-CHECK--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Komunitní kuchyni sdílejí tři skupiny. Jedna potřebuje ráno čistý prostor pro kurz, druhá chce večer připravovat jídlo a třetí skladuje suroviny. Spor vznikl, protože večerní skupina chápala úklid jako odnesení nádobí, ranní jako připravené pracovní plochy.",
+      "duration_seconds": 22.57573696145125,
+      "slow_duration_seconds": 25.129931972789116,
+      "sha256": "798b7d6fcb154937536dfc5d7b3302aea3dc0bd4ae002bd5b002cb051cffac6f",
+      "slow_sha256": "ea69db75c3887a47261f503ff07e35daace39dd76c17f51bfcda094eb21cdf93"
+    },
+    {
+      "lesson_id": "C1-U14-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U14-CHECK--2026.10.22.1--text--322bbb1f21--normal.mp3",
+      "slow_file": "audio/files/C1-U14-CHECK--2026.10.22.1--text--322bbb1f21--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U14-CHECK--2026.10.22.1--text--p0",
+      "asset_id": "C1-U14-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Komunitní kuchyni sdílejí tři skupiny. Jedna potřebuje ráno čistý prostor pro kurz, druhá chce večer připravovat jídlo a třetí skladuje suroviny. Spor vznikl, protože večerní skupina chápala úklid jako odnesení nádobí, ranní jako připravené pracovní plochy.",
+      "start": 0,
+      "end": 22.39573696145125,
+      "slow_start": 0,
+      "slow_end": 24.949931972789116
+    },
+    {
+      "lesson_id": "C1-U14-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U14-CHECK--2026.10.22.1--text--322bbb1f21--normal.mp3",
+      "slow_file": "audio/files/C1-U14-CHECK--2026.10.22.1--text--322bbb1f21--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U14-CHECK--2026.10.22.1--text--s0",
+      "asset_id": "C1-U14-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Komunitní kuchyni sdílejí tři skupiny.",
+      "start": 0,
+      "end": 3.1927437641723357,
+      "slow_start": 0,
+      "slow_end": 3.633922902494331
+    },
+    {
+      "lesson_id": "C1-U14-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U14-CHECK--2026.10.22.1--text--322bbb1f21--normal.mp3",
+      "slow_file": "audio/files/C1-U14-CHECK--2026.10.22.1--text--322bbb1f21--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U14-CHECK--2026.10.22.1--text--s1",
+      "asset_id": "C1-U14-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Jedna potřebuje ráno čistý prostor pro kurz, druhá chce večer připravovat jídlo a třetí skladuje suroviny.",
+      "start": 3.3727437641723355,
+      "end": 12.149886621315193,
+      "slow_start": 3.813922902494331,
+      "slow_end": 13.635963718820861
+    },
+    {
+      "lesson_id": "C1-U14-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U14-CHECK--2026.10.22.1--text--322bbb1f21--normal.mp3",
+      "slow_file": "audio/files/C1-U14-CHECK--2026.10.22.1--text--322bbb1f21--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U14-CHECK--2026.10.22.1--text--s2",
+      "asset_id": "C1-U14-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Spor vznikl, protože večerní skupina chápala úklid jako odnesení nádobí, ranní jako připravené pracovní plochy.",
+      "start": 12.329886621315193,
+      "end": 22.39573696145125,
+      "slow_start": 13.815963718820862,
+      "slow_end": 24.949931972789116
+    }
+  ]
+}

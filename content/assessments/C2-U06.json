@@ -1,0 +1,221 @@
+{
+  "id": "C2-U06-CHECK",
+  "kind": "unit",
+  "level": "C2",
+  "unit_id": "C2-U06",
+  "title_zh": "承担责任时，说准做到哪一步：新情境检验",
+  "version": "2026.10.22.1",
+  "unseen_text": [
+    {
+      "cs": "Servis napsal: Závada se nám při dnešní kontrole neprojevila. Majitel to převyprávěl: Servis prokázal, že závada neexistuje. Kontrola však proběhla pouze za jedné podmínky a závada byla dříve popisována jako občasná.",
+      "zh": "维修方说本次未复现，用户转述成证明故障不存在；检查仅一条件，原故障为偶发。"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "两说法差在哪？",
+      "stimulus_cs": "",
+      "answer": "a",
+      "explanation_zh": "范围与否定力度变化。",
+      "skill_ids": [
+        "reading"
+      ],
+      "knowledge_points": [
+        "c2-calibrated-certainty",
+        "c2-accountability-repair"
+      ],
+      "error_category": "comprehension",
+      "options": [
+        {
+          "id": "a",
+          "text": "未观察到与证明不存在不同"
+        },
+        {
+          "id": "b",
+          "text": "只差礼貌程度"
+        },
+        {
+          "id": "c",
+          "text": "维修方已经测遍所有场景"
+        }
+      ],
+      "scoring_basis": "封闭题以答案核对；解析说明本题边界。",
+      "id": "C2-U06-CHECK-E01"
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "写准确维修记录与下一步。",
+      "stimulus_cs": "",
+      "answer": "Při dnešní kontrole se závada neprojevila. Je třeba porovnat podmínky kontroly s okolnostmi, za nichž ji majitel zaznamenal.",
+      "explanation_zh": "不否认体验也不假定所有原因。",
+      "skill_ids": [
+        "writing"
+      ],
+      "knowledge_points": [
+        "c2-calibrated-certainty",
+        "c2-accountability-repair"
+      ],
+      "error_category": "comprehension",
+      "rubric": [
+        "回应具体任务，信息不失真",
+        "逻辑有衔接，能说明证据与限制",
+        "语法与搭配基本准确，语域适合对象",
+        "能自主组织语言而非照读范文"
+      ],
+      "scoring_basis": "开放表达：示范不是唯一答案；依量规自评或人工评阅，未接受人工评阅时不自动判定能力达标。",
+      "id": "C2-U06-CHECK-E02"
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "客户说“所以你认为我编造？”如何澄清？",
+      "stimulus_cs": "",
+      "answer": "To netvrdím. Říkám pouze, že jsme problém dnes nezachytili; potřebujeme upřesnit, kdy a za jakých podmínek nastává.",
+      "explanation_zh": "把有限观察与人格指控分离。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "knowledge_points": [
+        "c2-calibrated-certainty",
+        "c2-accountability-repair"
+      ],
+      "error_category": "comprehension",
+      "rubric": [
+        "回应具体任务，信息不失真",
+        "逻辑有衔接，能说明证据与限制",
+        "语法与搭配基本准确，语域适合对象",
+        "能自主组织语言而非照读范文"
+      ],
+      "scoring_basis": "开放表达：示范不是唯一答案；依量规自评或人工评阅，未接受人工评阅时不自动判定能力达标。",
+      "id": "C2-U06-CHECK-E03"
+    }
+  ],
+  "rubric": [
+    "理解未见材料中的主张及限定",
+    "主动表达时准确转述不同立场",
+    "区分事实、推断与建议",
+    "能针对误解调整解释方式"
+  ],
+  "remediation": [
+    {
+      "condition_zh": "误把可能性说成事实，或遗漏反方条件",
+      "lesson_ids": [
+        "C2-U06-L01"
+      ],
+      "action_zh": "重做信息定位与转述，标出每个判断的来源和语气词。"
+    },
+    {
+      "condition_zh": "表达卡住或只有单句结论",
+      "lesson_ids": [
+        "C2-U06-L01"
+      ],
+      "action_zh": "先列论点—依据—限制—行动四点，再换对象重录一次。"
+    }
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "C2-U06-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U06-CHECK--2026.10.22.1--text--7224f5e8fc--normal.mp3",
+      "slow_file": "audio/files/C2-U06-CHECK--2026.10.22.1--text--7224f5e8fc--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U06-CHECK--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Servis napsal: Závada se nám při dnešní kontrole neprojevila. Majitel to převyprávěl: Servis prokázal, že závada neexistuje. Kontrola však proběhla pouze za jedné podmínky a závada byla dříve popisována jako občasná.",
+      "duration_seconds": 20.207301587301586,
+      "slow_duration_seconds": 22.77310657596372,
+      "sha256": "039e1b48ae61521e5eb1afe5db668e6aad3465f02f0c9a651e2ce50e4332de2d",
+      "slow_sha256": "8c5b5a233cd5094cf736bea9c80b62c1f66b06b6b4350772968adae6dae82b56"
+    },
+    {
+      "lesson_id": "C2-U06-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U06-CHECK--2026.10.22.1--text--7224f5e8fc--normal.mp3",
+      "slow_file": "audio/files/C2-U06-CHECK--2026.10.22.1--text--7224f5e8fc--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U06-CHECK--2026.10.22.1--text--p0",
+      "asset_id": "C2-U06-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Servis napsal: Závada se nám při dnešní kontrole neprojevila. Majitel to převyprávěl: Servis prokázal, že závada neexistuje. Kontrola však proběhla pouze za jedné podmínky a závada byla dříve popisována jako občasná.",
+      "start": 0,
+      "end": 20.027301587301586,
+      "slow_start": 0,
+      "slow_end": 22.59310657596372
+    },
+    {
+      "lesson_id": "C2-U06-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U06-CHECK--2026.10.22.1--text--7224f5e8fc--normal.mp3",
+      "slow_file": "audio/files/C2-U06-CHECK--2026.10.22.1--text--7224f5e8fc--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U06-CHECK--2026.10.22.1--text--s0",
+      "asset_id": "C2-U06-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Servis napsal: Závada se nám při dnešní kontrole neprojevila.",
+      "start": 0,
+      "end": 5.108390022675737,
+      "slow_start": 0,
+      "slow_end": 5.955918367346939
+    },
+    {
+      "lesson_id": "C2-U06-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U06-CHECK--2026.10.22.1--text--7224f5e8fc--normal.mp3",
+      "slow_file": "audio/files/C2-U06-CHECK--2026.10.22.1--text--7224f5e8fc--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U06-CHECK--2026.10.22.1--text--s1",
+      "asset_id": "C2-U06-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Majitel to převyprávěl: Servis prokázal, že závada neexistuje.",
+      "start": 5.2883900226757365,
+      "end": 11.430068027210885,
+      "slow_start": 6.135918367346939,
+      "slow_end": 13.02063492063492
+    },
+    {
+      "lesson_id": "C2-U06-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U06-CHECK--2026.10.22.1--text--7224f5e8fc--normal.mp3",
+      "slow_file": "audio/files/C2-U06-CHECK--2026.10.22.1--text--7224f5e8fc--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U06-CHECK--2026.10.22.1--text--s2",
+      "asset_id": "C2-U06-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Kontrola však proběhla pouze za jedné podmínky a závada byla dříve popisována jako občasná.",
+      "start": 11.610068027210884,
+      "end": 20.027301587301586,
+      "slow_start": 13.20063492063492,
+      "slow_end": 22.59310657596372
+    }
+  ]
+}

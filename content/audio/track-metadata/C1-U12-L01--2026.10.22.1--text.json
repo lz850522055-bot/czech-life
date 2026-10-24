@@ -1,0 +1,501 @@
+{
+  "id": "C1-U12-L01--2026.10.22.1--text",
+  "lesson_id": "C1-U12-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Při úpravě výročního textu nahradil redaktor slovo změna výrazem zásadní proměna. Věta začala působit výrazněji, ale autor s úpravou nesouhlasil. Organizace sice zavedla nový způsob objednávání, její hlavní činnost se však nezměnila. Přídavné jméno zásadní posouvalo význam od praktické úpravy k hlubší změně principu. Spor se netýkal toho, který výraz je krásnější. Šlo o to, jak velkou změnu může text na základě skutečných událostí tvrdit.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Při úpravě výročního textu nahradil redaktor slovo změna výrazem zásadní proměna.",
+        "Věta začala působit výrazněji, ale autor s úpravou nesouhlasil.",
+        "Organizace sice zavedla nový způsob objednávání, její hlavní činnost se však nezměnila.",
+        "Přídavné jméno zásadní posouvalo význam od praktické úpravy k hlubší změně principu.",
+        "Spor se netýkal toho, který výraz je krásnější.",
+        "Šlo o to, jak velkou změnu může text na základě skutečných událostí tvrdit."
+      ]
+    },
+    {
+      "text": "Podobně se lišila slova významný a prokazatelný. Významný přínos může označovat přínos důležitý z určitého hlediska; prokazatelný přínos zdůrazňuje, že jej lze doložit. Něco může být dobře doložené a přitom malé, nebo pravděpodobně důležité, ale zatím nedostatečně ověřené. V odborném kontextu navíc mohou některé výrazy získat zvláštní význam. Autor proto nemá spoléhat na pocit, že několik pochvalných slov vedle sebe automaticky vytváří přesnější hodnocení.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Podobně se lišila slova významný a prokazatelný.",
+        "Významný přínos může označovat přínos důležitý z určitého hlediska; prokazatelný přínos zdůrazňuje, že jej lze doložit.",
+        "Něco může být dobře doložené a přitom malé, nebo pravděpodobně důležité, ale zatím nedostatečně ověřené.",
+        "V odborném kontextu navíc mohou některé výrazy získat zvláštní význam.",
+        "Autor proto nemá spoléhat na pocit, že několik pochvalných slov vedle sebe automaticky vytváří přesnější hodnocení."
+      ]
+    },
+    {
+      "text": "Druhá část revize se věnovala ustáleným spojením. Český text přirozeně používá výrazy nést odpovědnost, věnovat pozornost nebo vyvodit závěr. Učící se mluvčí někdy správně zvolí podstatné jméno, ale připojí k němu sloveso přeložené z jiného jazyka. Výsledek může být srozumitelný, a přesto působit nepřirozeně. Pomáhá proto učit se slova v malých funkčních celcích a zaznamenat také jejich vazbu: věnovat pozornost čemu, nést odpovědnost za co, vyvodit závěr z čeho.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Druhá část revize se věnovala ustáleným spojením.",
+        "Český text přirozeně používá výrazy nést odpovědnost, věnovat pozornost nebo vyvodit závěr.",
+        "Učící se mluvčí někdy správně zvolí podstatné jméno, ale připojí k němu sloveso přeložené z jiného jazyka.",
+        "Výsledek může být srozumitelný, a přesto působit nepřirozeně.",
+        "Pomáhá proto učit se slova v malých funkčních celcích a zaznamenat také jejich vazbu: věnovat pozornost čemu, nést odpovědnost za co, vyvodit závěr z čeho."
+      ]
+    },
+    {
+      "text": "Zvláštní pozornost vyvolala věta, že se dodávka opozdila díky chybě v rozpisu. Někteří čtenáři ji vnímali neutrálně, jiným zněla, jako by autor chybu vítal. Předložka díky může v současném užití vystupovat i u nepříznivých příčin, ale její tradičně kladné zabarvení pro část publika přetrvává. Redaktor zvolil kvůli chybě, protože nechtěl vytvářet vedlejší otázku autorova postoje. Nešlo o jednoduchý zákaz jednoho slova, nýbrž o výběr komunikačně bezpečnější varianty.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Zvláštní pozornost vyvolala věta, že se dodávka opozdila díky chybě v rozpisu.",
+        "Někteří čtenáři ji vnímali neutrálně, jiným zněla, jako by autor chybu vítal.",
+        "Předložka díky může v současném užití vystupovat i u nepříznivých příčin, ale její tradičně kladné zabarvení pro část publika přetrvává.",
+        "Redaktor zvolil kvůli chybě, protože nechtěl vytvářet vedlejší otázku autorova postoje.",
+        "Nešlo o jednoduchý zákaz jednoho slova, nýbrž o výběr komunikačně bezpečnější varianty."
+      ]
+    },
+    {
+      "text": "V jiném odstavci naopak slovo kvůli zůstalo nejasné, protože mohlo označovat příčinu i účel. Autor napsal, že setkání přesunuli kvůli dostupnosti sálu. Čtenář nevěděl, zda sál původně dostupný nebyl, nebo zda změna měla dostupnost zlepšit. Přesnější bylo pojmenovat vztah celou větou: setkání přesunuli, protože původní sál nebyl volný. Někdy tedy nepomůže hledat lepší synonymum. Je třeba rozbalit spojení a vyjádřit logiku, kterou krátká formulace zakrývá.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "V jiném odstavci naopak slovo kvůli zůstalo nejasné, protože mohlo označovat příčinu i účel.",
+        "Autor napsal, že setkání přesunuli kvůli dostupnosti sálu.",
+        "Čtenář nevěděl, zda sál původně dostupný nebyl, nebo zda změna měla dostupnost zlepšit.",
+        "Přesnější bylo pojmenovat vztah celou větou: setkání přesunuli, protože původní sál nebyl volný.",
+        "Někdy tedy nepomůže hledat lepší synonymum.",
+        "Je třeba rozbalit spojení a vyjádřit logiku, kterou krátká formulace zakrývá."
+      ]
+    },
+    {
+      "text": "Autor chtěl v závěru použít obraz, že nový systém je páteří celé organizace. Redaktor se zeptal, zda by bez něj skutečně přestala fungovat většina činností. Pokud ne, metafora by nadsazovala jeho roli. Navrhli proto střídmější vyjádření, že systém propojuje několik důležitých kroků. Obrazná řeč má v informativním textu místo, ale čtenář musí poznat, co vysvětluje a kde přestává být doslovně použitelná. Silný obraz může zpřístupnit myšlenku i nepozorovaně rozšířit její platnost.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Autor chtěl v závěru použít obraz, že nový systém je páteří celé organizace.",
+        "Redaktor se zeptal, zda by bez něj skutečně přestala fungovat většina činností.",
+        "Pokud ne, metafora by nadsazovala jeho roli.",
+        "Navrhli proto střídmější vyjádření, že systém propojuje několik důležitých kroků.",
+        "Obrazná řeč má v informativním textu místo, ale čtenář musí poznat, co vysvětluje a kde přestává být doslovně použitelná.",
+        "Silný obraz může zpřístupnit myšlenku i nepozorovaně rozšířit její platnost."
+      ]
+    },
+    {
+      "text": "Po revizi byl text méně slavnostní, zato jasněji rozlišoval velikost změny, jistotu výsledku a odpovědnost za jednotlivé kroky. Autor v něm nenašel největší počet vzácných slov, ale našel přesnější vztahy. Pro pokročilého mluvčího je právě to podstatné: vědět nejen, co výraz přibližně znamená, ale také co zdůrazňuje, s čím se běžně spojuje a jaký závazek jeho použitím přijímáme. Někdy nejvyspělejší revize spočívá v návratu k jednoduššímu slovu, které netvrdí víc, než víme.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Po revizi byl text méně slavnostní, zato jasněji rozlišoval velikost změny, jistotu výsledku a odpovědnost za jednotlivé kroky.",
+        "Autor v něm nenašel největší počet vzácných slov, ale našel přesnější vztahy.",
+        "Pro pokročilého mluvčího je právě to podstatné: vědět nejen, co výraz přibližně znamená, ale také co zdůrazňuje, s čím se běžně spojuje a jaký závazek jeho použitím přijímáme.",
+        "Někdy nejvyspělejší revize spočívá v návratu k jednoduššímu slovu, které netvrdí víc, než víme."
+      ]
+    }
+  ],
+  "text_sha256": "8d760516e233528d06847dbab0547b6e8b0da2fec92b246623a4131771fdb65a",
+  "source_file": "content/lessons/C1/C1-U12-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U12-L01--2026.10.22.1--text--8d760516e2--normal.mp3",
+  "slow_file": "content/audio/files/C1-U12-L01--2026.10.22.1--text--8d760516e2--slow.mp3",
+  "duration_seconds": 302.00621315192745,
+  "slow_duration_seconds": 339.901179138322,
+  "cues": [
+    {
+      "text": "Při úpravě výročního textu nahradil redaktor slovo změna výrazem zásadní proměna. Věta začala působit výrazněji, ale autor s úpravou nesouhlasil. Organizace sice zavedla nový způsob objednávání, její hlavní činnost se však nezměnila. Přídavné jméno zásadní posouvalo význam od praktické úpravy k hlubší změně principu. Spor se netýkal toho, který výraz je krásnější. Šlo o to, jak velkou změnu může text na základě skutečných událostí tvrdit.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Při úpravě výročního textu nahradil redaktor slovo změna výrazem zásadní proměna.",
+        "Věta začala působit výrazněji, ale autor s úpravou nesouhlasil.",
+        "Organizace sice zavedla nový způsob objednávání, její hlavní činnost se však nezměnila.",
+        "Přídavné jméno zásadní posouvalo význam od praktické úpravy k hlubší změně principu.",
+        "Spor se netýkal toho, který výraz je krásnější.",
+        "Šlo o to, jak velkou změnu může text na základě skutečných událostí tvrdit."
+      ],
+      "start": 0.0,
+      "end": 40.31587301587302,
+      "sentences": [
+        {
+          "text": "Při úpravě výročního textu nahradil redaktor slovo změna výrazem zásadní proměna.",
+          "start": 0.0,
+          "end": 7.22140589569161,
+          "slow_start": 0.0,
+          "slow_end": 8.080544217687075
+        },
+        {
+          "text": "Věta začala působit výrazněji, ale autor s úpravou nesouhlasil.",
+          "start": 7.40140589569161,
+          "end": 13.43859410430839,
+          "slow_start": 8.260544217687075,
+          "slow_end": 15.145260770975057
+        },
+        {
+          "text": "Organizace sice zavedla nový způsob objednávání, její hlavní činnost se však nezměnila.",
+          "start": 13.61859410430839,
+          "end": 21.432108843537414,
+          "slow_start": 15.325260770975056,
+          "slow_end": 24.253333333333334
+        },
+        {
+          "text": "Přídavné jméno zásadní posouvalo význam od praktické úpravy k hlubší změně principu.",
+          "start": 21.612108843537413,
+          "end": 29.04249433106576,
+          "slow_start": 24.433333333333334,
+          "slow_end": 32.73446712018141
+        },
+        {
+          "text": "Spor se netýkal toho, který výraz je krásnější.",
+          "start": 29.22249433106576,
+          "end": 33.46013605442177,
+          "slow_start": 32.914467120181406,
+          "slow_end": 37.70938775510204
+        },
+        {
+          "text": "Šlo o to, jak velkou změnu může text na základě skutečných událostí tvrdit.",
+          "start": 33.64013605442177,
+          "end": 40.31587301587302,
+          "slow_start": 37.88938775510204,
+          "slow_end": 45.505532879818595
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 45.505532879818595
+    },
+    {
+      "text": "Podobně se lišila slova významný a prokazatelný. Významný přínos může označovat přínos důležitý z určitého hlediska; prokazatelný přínos zdůrazňuje, že jej lze doložit. Něco může být dobře doložené a přitom malé, nebo pravděpodobně důležité, ale zatím nedostatečně ověřené. V odborném kontextu navíc mohou některé výrazy získat zvláštní význam. Autor proto nemá spoléhat na pocit, že několik pochvalných slov vedle sebe automaticky vytváří přesnější hodnocení.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Podobně se lišila slova významný a prokazatelný.",
+        "Významný přínos může označovat přínos důležitý z určitého hlediska; prokazatelný přínos zdůrazňuje, že jej lze doložit.",
+        "Něco může být dobře doložené a přitom malé, nebo pravděpodobně důležité, ale zatím nedostatečně ověřené.",
+        "V odborném kontextu navíc mohou některé výrazy získat zvláštní význam.",
+        "Autor proto nemá spoléhat na pocit, že několik pochvalných slov vedle sebe automaticky vytváří přesnější hodnocení."
+      ],
+      "start": 40.495873015873016,
+      "end": 82.48934240362811,
+      "sentences": [
+        {
+          "text": "Podobně se lišila slova významný a prokazatelný.",
+          "start": 40.495873015873016,
+          "end": 44.50131519274377,
+          "slow_start": 45.685532879818595,
+          "slow_end": 50.13215419501134
+        },
+        {
+          "text": "Významný přínos může označovat přínos důležitý z určitého hlediska; prokazatelný přínos zdůrazňuje, že jej lze doložit.",
+          "start": 44.68131519274377,
+          "end": 56.11714285714286,
+          "slow_start": 50.31215419501134,
+          "slow_end": 63.39659863945578
+        },
+        {
+          "text": "Něco může být dobře doložené a přitom malé, nebo pravděpodobně důležité, ale zatím nedostatečně ověřené.",
+          "start": 56.29714285714286,
+          "end": 65.9566439909297,
+          "slow_start": 63.57659863945578,
+          "slow_end": 74.03718820861678
+        },
+        {
+          "text": "V odborném kontextu navíc mohou některé výrazy získat zvláštní význam.",
+          "start": 66.1366439909297,
+          "end": 72.38281179138322,
+          "slow_start": 74.21718820861678,
+          "slow_end": 81.05546485260771
+        },
+        {
+          "text": "Autor proto nemá spoléhat na pocit, že několik pochvalných slov vedle sebe automaticky vytváří přesnější hodnocení.",
+          "start": 72.56281179138323,
+          "end": 82.48934240362811,
+          "slow_start": 81.2354648526077,
+          "slow_end": 92.38104308390022
+        }
+      ],
+      "slow_start": 45.685532879818595,
+      "slow_end": 92.38104308390022
+    },
+    {
+      "text": "Druhá část revize se věnovala ustáleným spojením. Český text přirozeně používá výrazy nést odpovědnost, věnovat pozornost nebo vyvodit závěr. Učící se mluvčí někdy správně zvolí podstatné jméno, ale připojí k němu sloveso přeložené z jiného jazyka. Výsledek může být srozumitelný, a přesto působit nepřirozeně. Pomáhá proto učit se slova v malých funkčních celcích a zaznamenat také jejich vazbu: věnovat pozornost čemu, nést odpovědnost za co, vyvodit závěr z čeho.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Druhá část revize se věnovala ustáleným spojením.",
+        "Český text přirozeně používá výrazy nést odpovědnost, věnovat pozornost nebo vyvodit závěr.",
+        "Učící se mluvčí někdy správně zvolí podstatné jméno, ale připojí k němu sloveso přeložené z jiného jazyka.",
+        "Výsledek může být srozumitelný, a přesto působit nepřirozeně.",
+        "Pomáhá proto učit se slova v malých funkčních celcích a zaznamenat také jejich vazbu: věnovat pozornost čemu, nést odpovědnost za co, vyvodit závěr z čeho."
+      ],
+      "start": 82.66934240362812,
+      "end": 126.6481179138322,
+      "sentences": [
+        {
+          "text": "Druhá část revize se věnovala ustáleným spojením.",
+          "start": 82.66934240362812,
+          "end": 87.24367346938776,
+          "slow_start": 92.56104308390023,
+          "slow_end": 97.84358276643991
+        },
+        {
+          "text": "Český text přirozeně používá výrazy nést odpovědnost, věnovat pozornost nebo vyvodit závěr.",
+          "start": 87.42367346938775,
+          "end": 96.08471655328798,
+          "slow_start": 98.02358276643992,
+          "slow_end": 107.91528344671202
+        },
+        {
+          "text": "Učící se mluvčí někdy správně zvolí podstatné jméno, ale připojí k němu sloveso přeložené z jiného jazyka.",
+          "start": 96.26471655328798,
+          "end": 105.81972789115646,
+          "slow_start": 108.09528344671202,
+          "slow_end": 118.76485260770976
+        },
+        {
+          "text": "Výsledek může být srozumitelný, a přesto působit nepřirozeně.",
+          "start": 105.99972789115647,
+          "end": 111.52607709750566,
+          "slow_start": 118.94485260770975,
+          "slow_end": 125.48126984126984
+        },
+        {
+          "text": "Pomáhá proto učit se slova v malých funkčních celcích a zaznamenat také jejich vazbu: věnovat pozornost čemu, nést odpovědnost za co, vyvodit závěr z čeho.",
+          "start": 111.70607709750567,
+          "end": 126.6481179138322,
+          "slow_start": 125.66126984126984,
+          "slow_end": 142.68149659863946
+        }
+      ],
+      "slow_start": 92.56104308390023,
+      "slow_end": 142.68149659863946
+    },
+    {
+      "text": "Zvláštní pozornost vyvolala věta, že se dodávka opozdila díky chybě v rozpisu. Někteří čtenáři ji vnímali neutrálně, jiným zněla, jako by autor chybu vítal. Předložka díky může v současném užití vystupovat i u nepříznivých příčin, ale její tradičně kladné zabarvení pro část publika přetrvává. Redaktor zvolil kvůli chybě, protože nechtěl vytvářet vedlejší otázku autorova postoje. Nešlo o jednoduchý zákaz jednoho slova, nýbrž o výběr komunikačně bezpečnější varianty.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Zvláštní pozornost vyvolala věta, že se dodávka opozdila díky chybě v rozpisu.",
+        "Někteří čtenáři ji vnímali neutrálně, jiným zněla, jako by autor chybu vítal.",
+        "Předložka díky může v současném užití vystupovat i u nepříznivých příčin, ale její tradičně kladné zabarvení pro část publika přetrvává.",
+        "Redaktor zvolil kvůli chybě, protože nechtěl vytvářet vedlejší otázku autorova postoje.",
+        "Nešlo o jednoduchý zákaz jednoho slova, nýbrž o výběr komunikačně bezpečnější varianty."
+      ],
+      "start": 126.8281179138322,
+      "end": 169.93614512471655,
+      "sentences": [
+        {
+          "text": "Zvláštní pozornost vyvolala věta, že se dodávka opozdila díky chybě v rozpisu.",
+          "start": 126.8281179138322,
+          "end": 133.84054421768707,
+          "slow_start": 142.86149659863946,
+          "slow_end": 150.8259410430839
+        },
+        {
+          "text": "Někteří čtenáři ji vnímali neutrálně, jiným zněla, jako by autor chybu vítal.",
+          "start": 134.02054421768707,
+          "end": 141.32321995464852,
+          "slow_start": 151.0059410430839,
+          "slow_end": 159.34190476190477
+        },
+        {
+          "text": "Předložka díky může v současném užití vystupovat i u nepříznivých příčin, ale její tradičně kladné zabarvení pro část publika přetrvává.",
+          "start": 141.50321995464853,
+          "end": 154.04199546485262,
+          "slow_start": 159.52190476190475,
+          "slow_end": 173.7325170068027
+        },
+        {
+          "text": "Redaktor zvolil kvůli chybě, protože nechtěl vytvářet vedlejší otázku autorova postoje.",
+          "start": 154.2219954648526,
+          "end": 162.27931972789116,
+          "slow_start": 173.91251700680272,
+          "slow_end": 182.94507936507935
+        },
+        {
+          "text": "Nešlo o jednoduchý zákaz jednoho slova, nýbrž o výběr komunikačně bezpečnější varianty.",
+          "start": 162.45931972789117,
+          "end": 169.93614512471655,
+          "slow_start": 183.12507936507936,
+          "slow_end": 191.57714285714286
+        }
+      ],
+      "slow_start": 142.86149659863946,
+      "slow_end": 191.57714285714286
+    },
+    {
+      "text": "V jiném odstavci naopak slovo kvůli zůstalo nejasné, protože mohlo označovat příčinu i účel. Autor napsal, že setkání přesunuli kvůli dostupnosti sálu. Čtenář nevěděl, zda sál původně dostupný nebyl, nebo zda změna měla dostupnost zlepšit. Přesnější bylo pojmenovat vztah celou větou: setkání přesunuli, protože původní sál nebyl volný. Někdy tedy nepomůže hledat lepší synonymum. Je třeba rozbalit spojení a vyjádřit logiku, kterou krátká formulace zakrývá.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "V jiném odstavci naopak slovo kvůli zůstalo nejasné, protože mohlo označovat příčinu i účel.",
+        "Autor napsal, že setkání přesunuli kvůli dostupnosti sálu.",
+        "Čtenář nevěděl, zda sál původně dostupný nebyl, nebo zda změna měla dostupnost zlepšit.",
+        "Přesnější bylo pojmenovat vztah celou větou: setkání přesunuli, protože původní sál nebyl volný.",
+        "Někdy tedy nepomůže hledat lepší synonymum.",
+        "Je třeba rozbalit spojení a vyjádřit logiku, kterou krátká formulace zakrývá."
+      ],
+      "start": 170.11614512471655,
+      "end": 212.60308390022675,
+      "sentences": [
+        {
+          "text": "V jiném odstavci naopak slovo kvůli zůstalo nejasné, protože mohlo označovat příčinu i účel.",
+          "start": 170.11614512471655,
+          "end": 178.55659863945579,
+          "slow_start": 191.75714285714287,
+          "slow_end": 201.4166439909297
+        },
+        {
+          "text": "Autor napsal, že setkání přesunuli kvůli dostupnosti sálu.",
+          "start": 178.7365986394558,
+          "end": 183.93786848072563,
+          "slow_start": 201.5966439909297,
+          "slow_end": 207.51773242630387
+        },
+        {
+          "text": "Čtenář nevěděl, zda sál původně dostupný nebyl, nebo zda změna měla dostupnost zlepšit.",
+          "start": 184.11786848072563,
+          "end": 192.0010430839002,
+          "slow_start": 207.69773242630384,
+          "slow_end": 216.4400453514739
+        },
+        {
+          "text": "Přesnější bylo pojmenovat vztah celou větou: setkání přesunuli, protože původní sál nebyl volný.",
+          "start": 192.18104308390022,
+          "end": 201.53868480725623,
+          "slow_start": 216.62004535147392,
+          "slow_end": 227.35927437641723
+        },
+        {
+          "text": "Někdy tedy nepomůže hledat lepší synonymum.",
+          "start": 201.71868480725624,
+          "end": 205.4687074829932,
+          "slow_start": 227.53927437641724,
+          "slow_end": 231.84657596371883
+        },
+        {
+          "text": "Je třeba rozbalit spojení a vyjádřit logiku, kterou krátká formulace zakrývá.",
+          "start": 205.6487074829932,
+          "end": 212.60308390022675,
+          "slow_start": 232.0265759637188,
+          "slow_end": 239.86331065759637
+        }
+      ],
+      "slow_start": 191.75714285714287,
+      "slow_end": 239.86331065759637
+    },
+    {
+      "text": "Autor chtěl v závěru použít obraz, že nový systém je páteří celé organizace. Redaktor se zeptal, zda by bez něj skutečně přestala fungovat většina činností. Pokud ne, metafora by nadsazovala jeho roli. Navrhli proto střídmější vyjádření, že systém propojuje několik důležitých kroků. Obrazná řeč má v informativním textu místo, ale čtenář musí poznat, co vysvětluje a kde přestává být doslovně použitelná. Silný obraz může zpřístupnit myšlenku i nepozorovaně rozšířit její platnost.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Autor chtěl v závěru použít obraz, že nový systém je páteří celé organizace.",
+        "Redaktor se zeptal, zda by bez něj skutečně přestala fungovat většina činností.",
+        "Pokud ne, metafora by nadsazovala jeho roli.",
+        "Navrhli proto střídmější vyjádření, že systém propojuje několik důležitých kroků.",
+        "Obrazná řeč má v informativním textu místo, ale čtenář musí poznat, co vysvětluje a kde přestává být doslovně použitelná.",
+        "Silný obraz může zpřístupnit myšlenku i nepozorovaně rozšířit její platnost."
+      ],
+      "start": 212.78308390022676,
+      "end": 257.19727891156464,
+      "sentences": [
+        {
+          "text": "Autor chtěl v závěru použít obraz, že nový systém je páteří celé organizace.",
+          "start": 212.78308390022676,
+          "end": 219.95804988662132,
+          "slow_start": 240.04331065759638,
+          "slow_end": 248.14707482993197
+        },
+        {
+          "text": "Redaktor se zeptal, zda by bez něj skutečně přestala fungovat většina činností.",
+          "start": 220.1380498866213,
+          "end": 226.62802721088434,
+          "slow_start": 248.32707482993197,
+          "slow_end": 255.61814058956915
+        },
+        {
+          "text": "Pokud ne, metafora by nadsazovala jeho roli.",
+          "start": 226.80802721088435,
+          "end": 230.5696598639456,
+          "slow_start": 255.79814058956916,
+          "slow_end": 259.94290249433107
+        },
+        {
+          "text": "Navrhli proto střídmější vyjádření, že systém propojuje několik důležitých kroků.",
+          "start": 230.74965986394557,
+          "end": 237.8433560090703,
+          "slow_start": 260.1229024943311,
+          "slow_end": 268.1802267573696
+        },
+        {
+          "text": "Obrazná řeč má v informativním textu místo, ale čtenář musí poznat, co vysvětluje a kde přestává být doslovně použitelná.",
+          "start": 238.02335600907028,
+          "end": 249.81909297052155,
+          "slow_start": 268.3602267573696,
+          "slow_end": 281.50272108843535
+        },
+        {
+          "text": "Silný obraz může zpřístupnit myšlenku i nepozorovaně rozšířit její platnost.",
+          "start": 249.99909297052153,
+          "end": 257.19727891156464,
+          "slow_start": 281.68272108843536,
+          "slow_end": 289.67038548752834
+        }
+      ],
+      "slow_start": 240.04331065759638,
+      "slow_end": 289.67038548752834
+    },
+    {
+      "text": "Po revizi byl text méně slavnostní, zato jasněji rozlišoval velikost změny, jistotu výsledku a odpovědnost za jednotlivé kroky. Autor v něm nenašel největší počet vzácných slov, ale našel přesnější vztahy. Pro pokročilého mluvčího je právě to podstatné: vědět nejen, co výraz přibližně znamená, ale také co zdůrazňuje, s čím se běžně spojuje a jaký závazek jeho použitím přijímáme. Někdy nejvyspělejší revize spočívá v návratu k jednoduššímu slovu, které netvrdí víc, než víme.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Po revizi byl text méně slavnostní, zato jasněji rozlišoval velikost změny, jistotu výsledku a odpovědnost za jednotlivé kroky.",
+        "Autor v něm nenašel největší počet vzácných slov, ale našel přesnější vztahy.",
+        "Pro pokročilého mluvčího je právě to podstatné: vědět nejen, co výraz přibližně znamená, ale také co zdůrazňuje, s čím se běžně spojuje a jaký závazek jeho použitím přijímáme.",
+        "Někdy nejvyspělejší revize spočívá v návratu k jednoduššímu slovu, které netvrdí víc, než víme."
+      ],
+      "start": 257.37727891156464,
+      "end": 301.82621315192745,
+      "sentences": [
+        {
+          "text": "Po revizi byl text méně slavnostní, zato jasněji rozlišoval velikost změny, jistotu výsledku a odpovědnost za jednotlivé kroky.",
+          "start": 257.37727891156464,
+          "end": 269.4516553287982,
+          "slow_start": 289.85038548752834,
+          "slow_end": 303.39922902494334
+        },
+        {
+          "text": "Autor v něm nenašel největší počet vzácných slov, ale našel přesnější vztahy.",
+          "start": 269.63165532879816,
+          "end": 276.62086167800453,
+          "slow_start": 303.5792290249433,
+          "slow_end": 311.57850340136054
+        },
+        {
+          "text": "Pro pokročilého mluvčího je právě to podstatné: vědět nejen, co výraz přibližně znamená, ale také co zdůrazňuje, s čím se běžně spojuje a jaký závazek jeho použitím přijímáme.",
+          "start": 276.80086167800454,
+          "end": 293.31024943310655,
+          "slow_start": 311.75850340136054,
+          "slow_end": 330.21836734693875
+        },
+        {
+          "text": "Někdy nejvyspělejší revize spočívá v návratu k jednoduššímu slovu, které netvrdí víc, než víme.",
+          "start": 293.49024943310656,
+          "end": 301.82621315192745,
+          "slow_start": 330.39836734693876,
+          "slow_end": 339.721179138322
+        }
+      ],
+      "slow_start": 289.85038548752834,
+      "slow_end": 339.721179138322
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "eff00eeff1907d3e9cd651518291eef4ed481a68a0d63ada9a903d2e0a3fd572",
+    "slow": "87b6b70511458d9fa317249f3ac04a0bf83d94da774282032b54ec18ecd552c8"
+  }
+}

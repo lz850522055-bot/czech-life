@@ -1,0 +1,59 @@
+{
+  "id": "B2-U09-L01--2026.10.22.1--exercises",
+  "lesson_id": "B2-U09-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B2",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Studio nabízí čtyři hodiny ve čtvrtek; úklid je navíc.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "B2-U09-L01-E03",
+      "parts": [
+        "Studio nabízí čtyři hodiny ve čtvrtek; úklid je navíc."
+      ]
+    }
+  ],
+  "text_sha256": "16b1bacfc9f48fbd009ab8f212e62ce710e07e93b56bdb7510ac1c793338ebb0",
+  "source_file": "content/lessons/B2/B2-U09-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U09-L01--2026.10.22.1--exercises--16b1bacfc9--normal.mp3",
+  "slow_file": "content/audio/files/B2-U09-L01--2026.10.22.1--exercises--16b1bacfc9--slow.mp3",
+  "duration_seconds": 5.3,
+  "slow_duration_seconds": 5.868888888888889,
+  "cues": [
+    {
+      "text": "Studio nabízí čtyři hodiny ve čtvrtek; úklid je navíc.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "B2-U09-L01-E03",
+      "parts": [
+        "Studio nabízí čtyři hodiny ve čtvrtek; úklid je navíc."
+      ],
+      "start": 0.0,
+      "end": 5.12,
+      "sentences": [
+        {
+          "text": "Studio nabízí čtyři hodiny ve čtvrtek; úklid je navíc.",
+          "start": 0.0,
+          "end": 5.12,
+          "slow_start": 0.0,
+          "slow_end": 5.688888888888889
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 5.688888888888889
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "4c5c09c2ce0947c123a8f31de071d05c297fc5b905280879785a926e13a8f61b",
+    "slow": "12abff1d717aa247600c324f9e16d9d8a68ced5f73cf46cfc5fed07eec3072a4"
+  }
+}

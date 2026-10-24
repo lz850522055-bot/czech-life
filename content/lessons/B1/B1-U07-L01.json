@@ -1,0 +1,1311 @@
+{
+  "id": "B1-U07-L01",
+  "level": "B1",
+  "unit_id": "B1-U07",
+  "order": 39,
+  "version": "2026.10.23.1",
+  "title_zh": "语序和附着词位置",
+  "title_cs": "Malá slova, velký rozdíl",
+  "prerequisites": [
+    "B1-U06-L01"
+  ],
+  "can_do": [
+    "把附着词放在首个意义单位之后",
+    "区分轻读代词与强调形式",
+    "通过语序安排已知信息和新信息"
+  ],
+  "scene": "消息语序与信息重点",
+  "skills": [
+    "listening",
+    "speaking",
+    "reading",
+    "writing",
+    "interaction",
+    "mediation"
+  ],
+  "knowledge_points": [
+    "clitic-second-position",
+    "information-focus"
+  ],
+  "intro_zh": "捷语语序有弹性，但不等于小词可以随意散放。先找到句子第一块意思，再安放 jsem、bych、se、mi、to 等轻读词。",
+  "lesson_text": [
+    {
+      "id": "s01",
+      "cs": "Po schůzce jsem měl kolegovi poslat krátké shrnutí. Napsal jsem větu: „Včera večer já se jsem rozhodl změnit termín.“ Kolegyně rozuměla tomu, co chci říct, ale upozornila mě na nepřirozené pořadí malých slov. Navrhla jednodušší podobu: „Včera večer jsem se rozhodl změnit termín.“ První část věty tvořilo celé spojení včera večer, nikoli jen první napsané slovo.",
+      "zh": "会后我要给同事发简短总结。我写出不自然的语序 Včera večer já se jsem… 女同事虽懂，却提醒小词排序有问题。她建议 Včera večer jsem se rozhodl… 句首第一块是整个“昨晚”，不是只数第一个单词。",
+      "note_zh": ""
+    },
+    {
+      "id": "s02",
+      "cs": "Potom jsme zkusili začít jinak: „Na poslední schůzce jsme se domluvili na úterý.“ Skupina jsme se opět následovala za prvním významovým celkem. Když jsem chtěl zdůraznit osobu, použil jsem delší zájmeno: „Mně jste to neřekli, pouze Petrovi.“ Nebylo to stejné jako neutrální „Neřekli jste mi to.“ Důraz měnil to, co měl posluchač považovat za hlavní sdělení.",
+      "zh": "接着换开头：“上次会上我们定了周二。”jsme se 仍跟在第一意义单位后。强调人时可以说“你们没有告诉我，只告诉彼得”，用重读长形式 Mně；中性句是 Neřekli jste mi to。重音改变信息重点。",
+      "note_zh": ""
+    },
+    {
+      "id": "s03",
+      "cs": "Také konec věty může nést důležitou novou informaci. Když se někdo zeptá, kdo připravil návrh, můžeme odpovědět: „Návrh připravila Jana.“ Pokud se ptá, co Jana připravila, přirozeně řekneme: „Jana připravila návrh.“ Samotná správná slova tedy nestačí. Pořadí závisí také na otázce, předchozím rozhovoru a na tom, co už oba lidé vědí.",
+      "zh": "句末也可承载重要新信息。问谁准备了方案，回答 Návrh připravila Jana；问雅娜准备什么，回答 Jana připravila návrh。单词对并不够，顺序还依赖问题、前文和共同已知信息。",
+      "note_zh": ""
+    },
+    {
+      "id": "s04",
+      "cs": "Do konečné zprávy jsem napsal: „Na dnešní schůzce jsme se dohodli, že vám pošleme nový návrh. Zítra vám ho ukážeme. Kdyby vám některý bod nebyl jasný, rád vám ho vysvětlím.“ Zprávu jsem si přečetl nahlas. Malá slova jsem nezdůrazňoval jedno po druhém; spojil jsem je do plynulých skupin. Díky tomu text zněl přirozeněji a zároveň bylo jasnější, kdo komu co pošle.",
+      "zh": "最后消息写成：“今天会上我们约定发送新方案，明天展示给您。若有不清楚之处，我愿意解释。”我朗读消息，没有逐个强调小词，而是把它们读成流畅的块，使内容更自然，也更清楚谁给谁发什么。",
+      "note_zh": ""
+    }
+  ],
+  "grammar": [
+    {
+      "id": "clitic-second-position",
+      "rule_zh": "第二位置通常指第一块意思之后，不是第二个单词。",
+      "detail_zh": "轻读的 jsem/jsme、条件式 bych、se/si、mi/ti/ho/to 等常聚在句子首个成分后。常见次序可先练助动词或条件式 → se/si → 第三格短代词 → 第四格短代词，例如 Včera jsem mu to poslal；Včera jsem si to přečetl。复杂组合有额外限制，不凭口诀生成所有排列。",
+      "examples": [
+        {
+          "cs": "Na poslední schůzce jsme se domluvili.",
+          "zh": "我们在上次会议上约定了。",
+          "note_zh": ""
+        },
+        {
+          "cs": "Zítra vám ho ukážeme.",
+          "zh": "明天展示给您。",
+          "note_zh": ""
+        }
+      ],
+      "pitfalls": [
+        "不要用按空格数第二词的方法。",
+        "不要把 jsem 与 se 反过来写成 se jsem。"
+      ],
+      "exceptions": [
+        "长句、嵌套、不定式、强调与口语中可有变体；此处练中性常见句型。"
+      ],
+      "term": "附着词与第二位置"
+    },
+    {
+      "id": "information-focus",
+      "rule_zh": "先接住已知信息，再把回答重点放到合适位置。",
+      "detail_zh": "捷语可用语序与重音调整信息重点。中性句尾常出现新信息，但不是任何末词都必然最重要。短代词 mi 不能随意承担强对比；强调“是我”常用 mně。长形式与格也要一致。",
+      "examples": [
+        {
+          "cs": "Návrh připravila Jana.",
+          "zh": "准备方案的是雅娜。",
+          "note_zh": ""
+        },
+        {
+          "cs": "Mně to řekli, jemu ne.",
+          "zh": "他们告诉了我，没有告诉他。",
+          "note_zh": ""
+        }
+      ],
+      "pitfalls": [
+        "语序变体不是随意随机排列。",
+        "只看顺序不听重音也可能误判重点。"
+      ],
+      "exceptions": [
+        "带特殊语境的语序可能合理，自动题只判题目限定的中性形式。"
+      ],
+      "term": "信息结构与强调代词"
+    }
+  ],
+  "vocabulary": [
+    {
+      "lemma": "shrnutí",
+      "pos": "名词，中性",
+      "forms": "shrnutí; se shrnutím",
+      "meaning_zh": "总结",
+      "collocation": "poslat shrnutí",
+      "example_cs": "Pošlu vám krátké shrnutí.",
+      "example_zh": "我给您发简短总结。",
+      "confusion_zh": "不是逐字记录。"
+    },
+    {
+      "lemma": "návrh",
+      "pos": "名词，阳性无生",
+      "forms": "návrhu; návrhy",
+      "meaning_zh": "方案、建议",
+      "collocation": "připravit návrh",
+      "example_cs": "Návrh připravila Jana.",
+      "example_zh": "雅娜准备了方案。",
+      "confusion_zh": "不代表已批准。"
+    },
+    {
+      "lemma": "sdělení",
+      "pos": "名词，中性",
+      "forms": "sdělení",
+      "meaning_zh": "传达的信息",
+      "collocation": "hlavní sdělení",
+      "example_cs": "Jaké je hlavní sdělení zprávy?",
+      "example_zh": "消息的核心内容是什么？",
+      "confusion_zh": "信息重点不必等于第一句。"
+    },
+    {
+      "lemma": "zdůraznit",
+      "pos": "动词，完成体",
+      "forms": "zdůrazním; zdůraznil",
+      "meaning_zh": "强调",
+      "collocation": "zdůraznit rozdíl",
+      "example_cs": "Chci zdůraznit jeden rozdíl.",
+      "example_zh": "我想强调一个区别。",
+      "confusion_zh": "不一定提高音量。"
+    }
+  ],
+  "listening": {
+    "script": [
+      {
+        "cs": "Na včerejší schůzce jsme se dohodli na novém termínu. Já jsem vám ho poslal večer. Mně ale zatím žádné potvrzení nepřišlo. Můžete mi prosím říct, zda vám zpráva dorazila?",
+        "zh": "昨天会上我们定了新时间，我晚上发给您了。但我还没收到确认，您能告诉我消息是否到了吗？",
+        "note_zh": ""
+      }
+    ],
+    "focus_zh": "跟随指代：ho 指 termín；mi/mně 是说话人；找出是否收到确认。",
+    "source": "original"
+  },
+  "pronunciation": {
+    "focus_zh": "先拍一次第一意义块，再把 jsem vám ho 连读成轻读组；不把每个词都拖成相同长度。",
+    "contrast": [
+      {
+        "a": "mi",
+        "b": "mně",
+        "note_zh": "轻读形式与强调形式，不只是音量不同。"
+      }
+    ],
+    "task_zh": "先听一句，再按意义块跟读；录下自然语速版本，对照长短元音、句中停顿和关键词。不要追求机械加速。"
+  },
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "“第二位置”如何理解？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "永远第二个书写单词"
+        },
+        {
+          "id": "b",
+          "text": "通常在首个意义成分之后"
+        },
+        {
+          "id": "c",
+          "text": "永远在动词之后"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "第一块可包含多个词。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U07-L01-E01",
+      "knowledge_points": [
+        "clitic-second-position",
+        "information-focus"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "问“谁准备方案”时，中性回答哪项更贴切？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "Návrh připravila Jana."
+        },
+        {
+          "id": "b",
+          "text": "Jana připravila návrh."
+        },
+        {
+          "id": "c",
+          "text": "Návrh se připravil včera."
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "将回答的人名放在句尾新信息位置。第二句非总是错，但本题选贴题回答。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U07-L01-E02",
+      "knowledge_points": [
+        "clitic-second-position",
+        "information-focus"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "听：尚未收到的是什么？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "新时间"
+        },
+        {
+          "id": "b",
+          "text": "确认"
+        },
+        {
+          "id": "c",
+          "text": "方案正文"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "žádné potvrzení nepřišlo 明确未收到确认。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "listening"
+      ],
+      "error_category": "comprehension",
+      "audio_text_cs": "Nový termín jsem vám poslal večer. Mně ale zatím žádné potvrzení nepřišlo.",
+      "id": "B1-U07-L01-E03",
+      "knowledge_points": [
+        "clitic-second-position",
+        "information-focus"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "补中性轻读第三格“我”。",
+      "stimulus_cs": "Můžete ___ to vysvětlit?",
+      "answer": "mi",
+      "accepted_answers": [
+        "mi"
+      ],
+      "explanation_zh": "轻读“给我”用 mi；题目未要求对比强调。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "B1-U07-L01-E04",
+      "knowledge_points": [
+        "clitic-second-position",
+        "information-focus"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "填条件式第一人称。",
+      "stimulus_cs": "Na tvém místě ___ si to ověřil.",
+      "answer": "bych",
+      "accepted_answers": [
+        "bych"
+      ],
+      "explanation_zh": "bych 在首个介词成分后，随后 si。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "B1-U07-L01-E05",
+      "knowledge_points": [
+        "clitic-second-position",
+        "information-focus"
+      ]
+    },
+    {
+      "type": "correct",
+      "prompt_zh": "只改附着词组内部次序。",
+      "stimulus_cs": "Včera se jsem rozhodl.",
+      "answer": "Včera jsem se rozhodl.",
+      "accepted_answers": [
+        "Včera jsem se rozhodl."
+      ],
+      "explanation_zh": "jsem 在 se 前。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "word_order",
+      "id": "B1-U07-L01-E06",
+      "knowledge_points": [
+        "clitic-second-position",
+        "information-focus"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt_zh": "以 Na dnešní schůzce 开头，中性表达。",
+      "stimulus_cs": "Na dnešní schůzce / jsme se / dohodli na úterý.",
+      "options": [
+        "Na dnešní schůzce",
+        "jsme se",
+        "dohodli na úterý."
+      ],
+      "answer": "Na dnešní schůzce jsme se dohodli na úterý.",
+      "accepted_answers": [
+        "Na dnešní schůzce jsme se dohodli na úterý."
+      ],
+      "explanation_zh": "首个成分是完整时间地点短语。",
+      "scoring_basis": "本题限定句首及语境；不据一个参考语序否定捷语所有语序变体。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "word_order",
+      "id": "B1-U07-L01-E07",
+      "knowledge_points": [
+        "clitic-second-position",
+        "information-focus"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "强调“他们只告诉他，没告诉我”，哪种形式承担对比？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mně"
+        },
+        {
+          "id": "b",
+          "text": "mi 的任意句首排列"
+        },
+        {
+          "id": "c",
+          "text": "se"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "mně 是可重读长形式。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U07-L01-E08",
+      "knowledge_points": [
+        "clitic-second-position",
+        "information-focus"
+      ]
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "朗读并改换句首三次：Včera jsem mu to poslal. / Ráno… / Po schůzce…",
+      "stimulus_cs": "",
+      "answer": "Včera jsem mu to poslal. Ráno jsem mu to poslal. Po schůzce jsem mu to poslal.",
+      "accepted_answers": [],
+      "explanation_zh": "这是语序的可控替换练习；另说一句自己的新消息完成迁移。",
+      "rubric": [
+        "第一意义块完整",
+        "小词顺序稳定",
+        "连读不吞元音"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "error_category": "fluency",
+      "id": "B1-U07-L01-E09",
+      "knowledge_points": [
+        "clitic-second-position",
+        "information-focus"
+      ]
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "写三句会议跟进，包含 jsme se、vám ho、mi。",
+      "stimulus_cs": "",
+      "answer": "Na schůzce jsme se dohodli na novém návrhu. Zítra vám ho pošlu. Dejte mi prosím vědět, zda vám vyhovuje.",
+      "accepted_answers": [],
+      "explanation_zh": "每个代词应有清楚指向。",
+      "rubric": [
+        "三结构",
+        "指代清楚",
+        "具体下一步"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U07-L01-E10",
+      "knowledge_points": [
+        "clitic-second-position",
+        "information-focus"
+      ]
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "一位男性工作人员以为通知过你，但只通知了Petr；礼貌说明区别并请他重发时间。",
+      "stimulus_cs": "",
+      "answer": "Možná došlo k nedorozumění. Petrovi jste to řekl, ale mně zatím ne. Mohl byste mi prosím nový termín poslat znovu?",
+      "accepted_answers": [],
+      "explanation_zh": "对比可清楚而不带指责。这里对一位男性用敬称，jste/byste是复数形式，但分词为单数řekl/mohl；若对一位女性，则用řekla/mohla。",
+      "rubric": [
+        "使用长形式对比",
+        "说明事实缺口",
+        "请求补发"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "error_category": "fluency",
+      "id": "B1-U07-L01-E11",
+      "knowledge_points": [
+        "clitic-second-position",
+        "information-focus"
+      ]
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "用中文解释两句差别：Jana připravila návrh. / Návrh připravila Jana.",
+      "stimulus_cs": "",
+      "answer": "两句基本事实相同；第一句更适合回答雅娜准备了什么，第二句更适合回答方案是谁准备的。实际重点也受重音和前文影响。",
+      "accepted_answers": [],
+      "explanation_zh": "不要把两个词序说成含义完全不同。",
+      "rubric": [
+        "基本事实一致",
+        "问答重点区别",
+        "承认语境作用"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U07-L01-E12",
+      "knowledge_points": [
+        "clitic-second-position",
+        "information-focus"
+      ]
+    }
+  ],
+  "transfer_task": {
+    "prompt_zh": "把工作消息换成看房约定：昨天我们约了时间、我发给你、请给我确认。",
+    "model_answer_cs": "Včera jsme se domluvili na prohlídce. Termín jsem ti poslal večer. Pošli mi prosím potvrzení.",
+    "rubric": [
+      "句首变化",
+      "指代明确",
+      "顺序可复核"
+    ]
+  },
+  "review_links": [
+    "B1-U06-L01"
+  ],
+  "sources": [
+    {
+      "source_id": "LANG01",
+      "url": "https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions",
+      "scope": "按实际能做的任务编排能力，不把CEFR说成官方捷语语法课表",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    },
+    {
+      "source_id": "LANG06",
+      "url": "https://www.czechency.org/slovnik/SLOVOSLED",
+      "scope": "语序的信息结构及附着词常见第二位置",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    },
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?id=575",
+      "scope": "条件式的人称形式、礼貌用途及过去条件式限制",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    },
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?id=580",
+      "scope": "se/si的不同功能与反身结构",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    }
+  ],
+  "content_status": "authored_crosschecked_not_native_reviewed",
+  "quality_notes": [
+    "原创课文和练习；规则按所列来源交叉核查，未获得捷语母语教师逐句审校。",
+    "本课级别属于教材编排判断，不代表官方能力认证。",
+    "听力为原创可合成脚本；真人多说话人、地区口音与录音自然度尚待现场核验。"
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "B1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--normal.mp3",
+      "slow_file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U07-L01--2026.10.23.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Po schůzce jsem měl kolegovi poslat krátké shrnutí. Napsal jsem větu: „Včera večer já se jsem rozhodl změnit termín.“ Kolegyně rozuměla tomu, co chci říct, ale upozornila mě na nepřirozené pořadí malých slov. Navrhla jednodušší podobu: „Včera večer jsem se rozhodl změnit termín.“ První část věty tvořilo celé spojení včera večer, nikoli jen první napsané slovo. Potom jsme zkusili začít jinak: „Na poslední schůzce jsme se domluvili na úterý.“ Skupina jsme se opět následovala za prvním významovým celkem. Když jsem chtěl zdůraznit osobu, použil jsem delší zájmeno: „Mně jste to neřekli, pouze Petrovi.“ Nebylo to stejné jako neutrální „Neřekli jste mi to.“ Důraz měnil to, co měl posluchač považovat za hlavní sdělení. Také konec věty může nést důležitou novou informaci. Když se někdo zeptá, kdo připravil návrh, můžeme odpovědět: „Návrh připravila Jana.“ Pokud se ptá, co Jana připravila, přirozeně řekneme: „Jana připravila návrh.“ Samotná správná slova tedy nestačí. Pořadí závisí také na otázce, předchozím rozhovoru a na tom, co už oba lidé vědí. Do konečné zprávy jsem napsal: „Na dnešní schůzce jsme se dohodli, že vám pošleme nový návrh. Zítra vám ho ukážeme. Kdyby vám některý bod nebyl jasný, rád vám ho vysvětlím.“ Zprávu jsem si přečetl nahlas. Malá slova jsem nezdůrazňoval jedno po druhém; spojil jsem je do plynulých skupin. Díky tomu text zněl přirozeněji a zároveň bylo jasnější, kdo komu co pošle.",
+      "duration_seconds": 130.41002267573697,
+      "slow_duration_seconds": 146.8265306122449,
+      "sha256": "e2b4b673960669bb772fa6f2da167c6dbec136de93c71edcf17a2e423ad4294f",
+      "slow_sha256": "5f506afe0112e5be795c01b19b14ed107a5afcb0b7cda282537c6cb2c8d4c307"
+    },
+    {
+      "lesson_id": "B1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--normal.mp3",
+      "slow_file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U07-L01--2026.10.23.1--text--p0",
+      "asset_id": "B1-U07-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Po schůzce jsem měl kolegovi poslat krátké shrnutí. Napsal jsem větu: „Včera večer já se jsem rozhodl změnit termín.“ Kolegyně rozuměla tomu, co chci říct, ale upozornila mě na nepřirozené pořadí malých slov. Navrhla jednodušší podobu: „Včera večer jsem se rozhodl změnit termín.“ První část věty tvořilo celé spojení včera večer, nikoli jen první napsané slovo.",
+      "start": 0,
+      "end": 33.611065759637185,
+      "slow_start": 0,
+      "slow_end": 37.89514739229025
+    },
+    {
+      "lesson_id": "B1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--normal.mp3",
+      "slow_file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U07-L01--2026.10.23.1--text--s0",
+      "asset_id": "B1-U07-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Po schůzce jsem měl kolegovi poslat krátké shrnutí.",
+      "start": 0,
+      "end": 4.597551020408163,
+      "slow_start": 0,
+      "slow_end": 5.12
+    },
+    {
+      "lesson_id": "B1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--normal.mp3",
+      "slow_file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U07-L01--2026.10.23.1--text--s1",
+      "asset_id": "B1-U07-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Napsal jsem větu: „Včera večer já se jsem rozhodl změnit termín.“",
+      "start": 4.777551020408163,
+      "end": 11.174648526077098,
+      "slow_start": 5.3,
+      "slow_end": 12.509795918367347
+    },
+    {
+      "lesson_id": "B1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--normal.mp3",
+      "slow_file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U07-L01--2026.10.23.1--text--s2",
+      "asset_id": "B1-U07-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Kolegyně rozuměla tomu, co chci říct, ale upozornila mě na nepřirozené pořadí malých slov.",
+      "start": 11.354648526077098,
+      "end": 19.214603174603173,
+      "slow_start": 12.689795918367347,
+      "slow_end": 21.513378684807257
+    },
+    {
+      "lesson_id": "B1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--normal.mp3",
+      "slow_file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U07-L01--2026.10.23.1--text--s3",
+      "asset_id": "B1-U07-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 3,
+      "paragraph_index": 0,
+      "sentence_index": 3,
+      "text": "Navrhla jednodušší podobu: „Včera večer jsem se rozhodl změnit termín.“",
+      "start": 19.394603174603173,
+      "end": 25.90780045351474,
+      "slow_start": 21.693378684807257,
+      "slow_end": 29.15859410430839
+    },
+    {
+      "lesson_id": "B1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--normal.mp3",
+      "slow_file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U07-L01--2026.10.23.1--text--s4",
+      "asset_id": "B1-U07-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 4,
+      "paragraph_index": 0,
+      "sentence_index": 4,
+      "text": "První část věty tvořilo celé spojení včera večer, nikoli jen první napsané slovo.",
+      "start": 26.08780045351474,
+      "end": 33.611065759637185,
+      "slow_start": 29.33859410430839,
+      "slow_end": 37.89514739229025
+    },
+    {
+      "lesson_id": "B1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--normal.mp3",
+      "slow_file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U07-L01--2026.10.23.1--text--p1",
+      "asset_id": "B1-U07-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Potom jsme zkusili začít jinak: „Na poslední schůzce jsme se domluvili na úterý.“ Skupina jsme se opět následovala za prvním významovým celkem. Když jsem chtěl zdůraznit osobu, použil jsem delší zájmeno: „Mně jste to neřekli, pouze Petrovi.“ Nebylo to stejné jako neutrální „Neřekli jste mi to.“ Důraz měnil to, co měl posluchač považovat za hlavní sdělení.",
+      "start": 33.791065759637185,
+      "end": 65.39360544217688,
+      "slow_start": 38.07514739229025,
+      "slow_end": 73.76439909297052
+    },
+    {
+      "lesson_id": "B1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--normal.mp3",
+      "slow_file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U07-L01--2026.10.23.1--text--s5",
+      "asset_id": "B1-U07-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 5,
+      "paragraph_index": 1,
+      "sentence_index": 0,
+      "text": "Potom jsme zkusili začít jinak: „Na poslední schůzce jsme se domluvili na úterý.“",
+      "start": 33.791065759637185,
+      "end": 40.687392290249434,
+      "slow_start": 38.07514739229025,
+      "slow_end": 46.08603174603174
+    },
+    {
+      "lesson_id": "B1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--normal.mp3",
+      "slow_file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U07-L01--2026.10.23.1--text--s6",
+      "asset_id": "B1-U07-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 6,
+      "paragraph_index": 1,
+      "sentence_index": 1,
+      "text": "Skupina jsme se opět následovala za prvním významovým celkem.",
+      "start": 40.867392290249434,
+      "end": 46.50984126984127,
+      "slow_start": 46.26603174603174,
+      "slow_end": 52.80244897959184
+    },
+    {
+      "lesson_id": "B1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--normal.mp3",
+      "slow_file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U07-L01--2026.10.23.1--text--s7",
+      "asset_id": "B1-U07-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 7,
+      "paragraph_index": 1,
+      "sentence_index": 2,
+      "text": "Když jsem chtěl zdůraznit osobu, použil jsem delší zájmeno: „Mně jste to neřekli, pouze Petrovi.“",
+      "start": 46.68984126984127,
+      "end": 55.23478458049887,
+      "slow_start": 52.98244897959184,
+      "slow_end": 62.51424036281179
+    },
+    {
+      "lesson_id": "B1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--normal.mp3",
+      "slow_file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U07-L01--2026.10.23.1--text--s8",
+      "asset_id": "B1-U07-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 8,
+      "paragraph_index": 1,
+      "sentence_index": 3,
+      "text": "Nebylo to stejné jako neutrální „Neřekli jste mi to.“",
+      "start": 55.41478458049887,
+      "end": 59.5827664399093,
+      "slow_start": 62.69424036281179,
+      "slow_end": 67.34984126984126
+    },
+    {
+      "lesson_id": "B1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--normal.mp3",
+      "slow_file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U07-L01--2026.10.23.1--text--s9",
+      "asset_id": "B1-U07-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 9,
+      "paragraph_index": 1,
+      "sentence_index": 4,
+      "text": "Důraz měnil to, co měl posluchač považovat za hlavní sdělení.",
+      "start": 59.7627664399093,
+      "end": 65.39360544217688,
+      "slow_start": 67.52984126984127,
+      "slow_end": 73.76439909297052
+    },
+    {
+      "lesson_id": "B1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--normal.mp3",
+      "slow_file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U07-L01--2026.10.23.1--text--p2",
+      "asset_id": "B1-U07-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Také konec věty může nést důležitou novou informaci. Když se někdo zeptá, kdo připravil návrh, můžeme odpovědět: „Návrh připravila Jana.“ Pokud se ptá, co Jana připravila, přirozeně řekneme: „Jana připravila návrh.“ Samotná správná slova tedy nestačí. Pořadí závisí také na otázce, předchozím rozhovoru a na tom, co už oba lidé vědí.",
+      "start": 65.57360544217687,
+      "end": 96.7233560090703,
+      "slow_start": 73.94439909297053,
+      "slow_end": 108.8790022675737
+    },
+    {
+      "lesson_id": "B1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--normal.mp3",
+      "slow_file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U07-L01--2026.10.23.1--text--s10",
+      "asset_id": "B1-U07-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 10,
+      "paragraph_index": 2,
+      "sentence_index": 0,
+      "text": "Také konec věty může nést důležitou novou informaci.",
+      "start": 65.57360544217687,
+      "end": 70.57750566893424,
+      "slow_start": 73.94439909297053,
+      "slow_end": 79.61006802721089
+    },
+    {
+      "lesson_id": "B1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--normal.mp3",
+      "slow_file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U07-L01--2026.10.23.1--text--s11",
+      "asset_id": "B1-U07-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 11,
+      "paragraph_index": 2,
+      "sentence_index": 1,
+      "text": "Když se někdo zeptá, kdo připravil návrh, můžeme odpovědět: „Návrh připravila Jana.“",
+      "start": 70.75750566893424,
+      "end": 78.32721088435375,
+      "slow_start": 79.79006802721088,
+      "slow_end": 88.43950113378685
+    },
+    {
+      "lesson_id": "B1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--normal.mp3",
+      "slow_file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U07-L01--2026.10.23.1--text--s12",
+      "asset_id": "B1-U07-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 12,
+      "paragraph_index": 2,
+      "sentence_index": 2,
+      "text": "Pokud se ptá, co Jana připravila, přirozeně řekneme: „Jana připravila návrh.“",
+      "start": 78.50721088435374,
+      "end": 85.18294784580499,
+      "slow_start": 88.61950113378686,
+      "slow_end": 96.10793650793651
+    },
+    {
+      "lesson_id": "B1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--normal.mp3",
+      "slow_file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U07-L01--2026.10.23.1--text--s13",
+      "asset_id": "B1-U07-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 13,
+      "paragraph_index": 2,
+      "sentence_index": 3,
+      "text": "Samotná správná slova tedy nestačí.",
+      "start": 85.36294784580498,
+      "end": 88.70662131519275,
+      "slow_start": 96.28793650793651,
+      "slow_end": 100.03795918367346
+    },
+    {
+      "lesson_id": "B1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--normal.mp3",
+      "slow_file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U07-L01--2026.10.23.1--text--s14",
+      "asset_id": "B1-U07-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 14,
+      "paragraph_index": 2,
+      "sentence_index": 4,
+      "text": "Pořadí závisí také na otázce, předchozím rozhovoru a na tom, co už oba lidé vědí.",
+      "start": 88.88662131519274,
+      "end": 96.7233560090703,
+      "slow_start": 100.21795918367347,
+      "slow_end": 108.8790022675737
+    },
+    {
+      "lesson_id": "B1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--normal.mp3",
+      "slow_file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U07-L01--2026.10.23.1--text--p3",
+      "asset_id": "B1-U07-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Do konečné zprávy jsem napsal: „Na dnešní schůzce jsme se dohodli, že vám pošleme nový návrh. Zítra vám ho ukážeme. Kdyby vám některý bod nebyl jasný, rád vám ho vysvětlím.“ Zprávu jsem si přečetl nahlas. Malá slova jsem nezdůrazňoval jedno po druhém; spojil jsem je do plynulých skupin. Díky tomu text zněl přirozeněji a zároveň bylo jasnější, kdo komu co pošle.",
+      "start": 96.9033560090703,
+      "end": 130.23002267573696,
+      "slow_start": 109.0590022675737,
+      "slow_end": 146.6465306122449
+    },
+    {
+      "lesson_id": "B1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--normal.mp3",
+      "slow_file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U07-L01--2026.10.23.1--text--s15",
+      "asset_id": "B1-U07-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 15,
+      "paragraph_index": 3,
+      "sentence_index": 0,
+      "text": "Do konečné zprávy jsem napsal: „Na dnešní schůzce jsme se dohodli, že vám pošleme nový návrh.",
+      "start": 96.9033560090703,
+      "end": 104.9142403628118,
+      "slow_start": 109.0590022675737,
+      "slow_end": 117.90580498866213
+    },
+    {
+      "lesson_id": "B1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--normal.mp3",
+      "slow_file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U07-L01--2026.10.23.1--text--s16",
+      "asset_id": "B1-U07-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 16,
+      "paragraph_index": 3,
+      "sentence_index": 1,
+      "text": "Zítra vám ho ukážeme.",
+      "start": 105.09424036281179,
+      "end": 107.05632653061224,
+      "slow_start": 118.08580498866213,
+      "slow_end": 120.36136054421769
+    },
+    {
+      "lesson_id": "B1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--normal.mp3",
+      "slow_file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U07-L01--2026.10.23.1--text--s17",
+      "asset_id": "B1-U07-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 17,
+      "paragraph_index": 3,
+      "sentence_index": 2,
+      "text": "Kdyby vám některý bod nebyl jasný, rád vám ho vysvětlím.“",
+      "start": 107.23632653061225,
+      "end": 112.62335600907029,
+      "slow_start": 120.54136054421768,
+      "slow_end": 126.54371882086168
+    },
+    {
+      "lesson_id": "B1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--normal.mp3",
+      "slow_file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U07-L01--2026.10.23.1--text--s18",
+      "asset_id": "B1-U07-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 18,
+      "paragraph_index": 3,
+      "sentence_index": 3,
+      "text": "Zprávu jsem si přečetl nahlas.",
+      "start": 112.8033560090703,
+      "end": 115.85678004535147,
+      "slow_start": 126.72371882086168,
+      "slow_end": 130.2647619047619
+    },
+    {
+      "lesson_id": "B1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--normal.mp3",
+      "slow_file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U07-L01--2026.10.23.1--text--s19",
+      "asset_id": "B1-U07-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 19,
+      "paragraph_index": 3,
+      "sentence_index": 4,
+      "text": "Malá slova jsem nezdůrazňoval jedno po druhém; spojil jsem je do plynulých skupin.",
+      "start": 116.03678004535148,
+      "end": 123.13047619047619,
+      "slow_start": 130.44476190476192,
+      "slow_end": 138.4904761904762
+    },
+    {
+      "lesson_id": "B1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--normal.mp3",
+      "slow_file": "audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U07-L01--2026.10.23.1--text--s20",
+      "asset_id": "B1-U07-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 20,
+      "paragraph_index": 3,
+      "sentence_index": 5,
+      "text": "Díky tomu text zněl přirozeněji a zároveň bylo jasnější, kdo komu co pošle.",
+      "start": 123.3104761904762,
+      "end": 130.23002267573696,
+      "slow_start": 138.6704761904762,
+      "slow_end": 146.6465306122449
+    },
+    {
+      "lesson_id": "B1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U07-L01--2026.10.22.1--listening--6d0ff414ce--normal.mp3",
+      "slow_file": "audio/files/B1-U07-L01--2026.10.22.1--listening--6d0ff414ce--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U07-L01--2026.10.23.1--listening",
+      "role": "listening-full",
+      "index": 0,
+      "text": "Na včerejší schůzce jsme se dohodli na novém termínu. Já jsem vám ho poslal večer. Mně ale zatím žádné potvrzení nepřišlo. Můžete mi prosím říct, zda vám zpráva dorazila?",
+      "duration_seconds": 16.11482993197279,
+      "slow_duration_seconds": 18.158185941043083,
+      "sha256": "155119aa7df9578ee028665143670ef167bc399457424492334b0d8252f9888d",
+      "slow_sha256": "e83f2c0c935cec2090d73f748e116949dfbbf99d1f2babdb0078fab9fa989c78"
+    },
+    {
+      "lesson_id": "B1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U07-L01--2026.10.22.1--listening--6d0ff414ce--normal.mp3",
+      "slow_file": "audio/files/B1-U07-L01--2026.10.22.1--listening--6d0ff414ce--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U07-L01--2026.10.23.1--listening--p0",
+      "asset_id": "B1-U07-L01--2026.10.23.1--listening",
+      "role": "listening",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Na včerejší schůzce jsme se dohodli na novém termínu. Já jsem vám ho poslal večer. Mně ale zatím žádné potvrzení nepřišlo. Můžete mi prosím říct, zda vám zpráva dorazila?",
+      "start": 0,
+      "end": 15.93482993197279,
+      "slow_start": 0,
+      "slow_end": 17.978185941043083
+    },
+    {
+      "lesson_id": "B1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U07-L01--2026.10.22.1--vocabulary--d8b713531f--normal.mp3",
+      "slow_file": "audio/files/B1-U07-L01--2026.10.22.1--vocabulary--d8b713531f--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U07-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary-full",
+      "index": 0,
+      "text": "Pošlu vám krátké shrnutí. Návrh připravila Jana. Jaké je hlavní sdělení zprávy? Chci zdůraznit jeden rozdíl.",
+      "duration_seconds": 10.588480725623583,
+      "slow_duration_seconds": 11.946848072562359,
+      "sha256": "fb874e04e71ace8616f30960086ae1480c9d6f727f49f256ddfe511d453aeb65",
+      "slow_sha256": "dc1d0fee9743d7536323df83b7b6189cfb425a20bc710c54245a3e6ec3824b80"
+    },
+    {
+      "lesson_id": "B1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U07-L01--2026.10.22.1--vocabulary--d8b713531f--normal.mp3",
+      "slow_file": "audio/files/B1-U07-L01--2026.10.22.1--vocabulary--d8b713531f--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U07-L01--2026.10.23.1--vocabulary--p0",
+      "asset_id": "B1-U07-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Pošlu vám krátké shrnutí.",
+      "start": 0,
+      "end": 2.5658049886621317,
+      "slow_start": 0,
+      "slow_end": 2.9605442176870747
+    },
+    {
+      "lesson_id": "B1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U07-L01--2026.10.22.1--vocabulary--d8b713531f--normal.mp3",
+      "slow_file": "audio/files/B1-U07-L01--2026.10.22.1--vocabulary--d8b713531f--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U07-L01--2026.10.23.1--vocabulary--p1",
+      "asset_id": "B1-U07-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Návrh připravila Jana.",
+      "start": 2.7458049886621314,
+      "end": 4.684671201814059,
+      "slow_start": 3.140544217687075,
+      "slow_end": 5.311609977324263
+    },
+    {
+      "lesson_id": "B1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U07-L01--2026.10.22.1--vocabulary--d8b713531f--normal.mp3",
+      "slow_file": "audio/files/B1-U07-L01--2026.10.22.1--vocabulary--d8b713531f--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U07-L01--2026.10.23.1--vocabulary--p2",
+      "asset_id": "B1-U07-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Jaké je hlavní sdělení zprávy?",
+      "start": 4.864671201814059,
+      "end": 7.6046258503401365,
+      "slow_start": 5.491609977324263,
+      "slow_end": 8.603083900226757
+    },
+    {
+      "lesson_id": "B1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U07-L01--2026.10.22.1--vocabulary--d8b713531f--normal.mp3",
+      "slow_file": "audio/files/B1-U07-L01--2026.10.22.1--vocabulary--d8b713531f--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U07-L01--2026.10.23.1--vocabulary--p3",
+      "asset_id": "B1-U07-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Chci zdůraznit jeden rozdíl.",
+      "start": 7.784625850340136,
+      "end": 10.408480725623583,
+      "slow_start": 8.783083900226757,
+      "slow_end": 11.766848072562357
+    },
+    {
+      "lesson_id": "B1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U07-L01--2026.10.22.1--exercises--8fcda55a07--normal.mp3",
+      "slow_file": "audio/files/B1-U07-L01--2026.10.22.1--exercises--8fcda55a07--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U07-L01--2026.10.23.1--exercises",
+      "role": "exercises-full",
+      "index": 0,
+      "text": "Nový termín jsem vám poslal večer. Mně ale zatím žádné potvrzení nepřišlo.",
+      "duration_seconds": 7.720725623582767,
+      "slow_duration_seconds": 8.614693877551021,
+      "sha256": "9d78cffb04fcef52d405033b9980091f06985d771e4b25a310da1040bea49c84",
+      "slow_sha256": "09ab61fb4235ee96a81e73c13eea1406d843126b0b1cea17d27c442e25a37c2b"
+    },
+    {
+      "lesson_id": "B1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U07-L01--2026.10.22.1--exercises--8fcda55a07--normal.mp3",
+      "slow_file": "audio/files/B1-U07-L01--2026.10.22.1--exercises--8fcda55a07--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U07-L01--2026.10.23.1--exercises--p0",
+      "asset_id": "B1-U07-L01--2026.10.23.1--exercises",
+      "role": "exercise",
+      "index": 0,
+      "exercise_id": "B1-U07-L01-E03",
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Nový termín jsem vám poslal večer. Mně ale zatím žádné potvrzení nepřišlo.",
+      "start": 0,
+      "end": 7.540725623582767,
+      "slow_start": 0,
+      "slow_end": 8.43469387755102
+    },
+    {
+      "lesson_id": "B1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U07-L01--2026.10.22.1--contrasts--5c41dd29fb--normal.mp3",
+      "slow_file": "audio/files/B1-U07-L01--2026.10.22.1--contrasts--5c41dd29fb--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U07-L01--2026.10.23.1--contrasts",
+      "role": "contrasts-full",
+      "index": 0,
+      "text": "mi. mně.",
+      "duration_seconds": 0.9578684807256236,
+      "slow_duration_seconds": 1.085578231292517,
+      "sha256": "48f2fb480972ebe44f2d6d914dbb5da10f117c5799ae381a935766a6aa8469a3",
+      "slow_sha256": "ff7be1c36a93976dc518f8ee59cfe1b89ceadb1b1843b25d9e7c6df7853d2b1b"
+    },
+    {
+      "lesson_id": "B1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U07-L01--2026.10.22.1--contrasts--5c41dd29fb--normal.mp3",
+      "slow_file": "audio/files/B1-U07-L01--2026.10.22.1--contrasts--5c41dd29fb--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U07-L01--2026.10.23.1--contrasts--p0",
+      "asset_id": "B1-U07-L01--2026.10.23.1--contrasts",
+      "role": "contrast",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "mi. mně.",
+      "start": 0,
+      "end": 0.7778684807256235,
+      "slow_start": 0,
+      "slow_end": 0.905578231292517
+    }
+  ]
+}

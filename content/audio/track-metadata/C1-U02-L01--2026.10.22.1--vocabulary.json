@@ -1,0 +1,173 @@
+{
+  "id": "C1-U02-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "C1-U02-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Technik ověří nosnost střechy.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Technik ověří nosnost střechy."
+      ]
+    },
+    {
+      "text": "Posudek ještě není hotový.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Posudek ještě není hotový."
+      ]
+    },
+    {
+      "text": "Přípustka uznává okolnost.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Přípustka uznává okolnost."
+      ]
+    },
+    {
+      "text": "Zkontrolujte návaznost vět.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Zkontrolujte návaznost vět."
+      ]
+    },
+    {
+      "text": "O realizaci se rozhodne později.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "O realizaci se rozhodne později."
+      ]
+    }
+  ],
+  "text_sha256": "e5d90e84345c21a31194ad4c4ef060351b106f1ffc836bd445f9d0b67b66d0dd",
+  "source_file": "content/lessons/C1/C1-U02-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U02-L01--2026.10.22.1--vocabulary--e5d90e8434--normal.mp3",
+  "slow_file": "content/audio/files/C1-U02-L01--2026.10.22.1--vocabulary--e5d90e8434--slow.mp3",
+  "duration_seconds": 14.054104308390023,
+  "slow_duration_seconds": 15.865260770975057,
+  "cues": [
+    {
+      "text": "Technik ověří nosnost střechy.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Technik ověří nosnost střechy."
+      ],
+      "start": 0.0,
+      "end": 2.809614512471655,
+      "sentences": [
+        {
+          "text": "Technik ověří nosnost střechy.",
+          "start": 0.0,
+          "end": 2.809614512471655,
+          "slow_start": 0.0,
+          "slow_end": 3.1811337868480725
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 3.1811337868480725
+    },
+    {
+      "text": "Posudek ještě není hotový.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Posudek ještě není hotový."
+      ],
+      "start": 2.9896145124716553,
+      "end": 5.520589569160998,
+      "sentences": [
+        {
+          "text": "Posudek ještě není hotový.",
+          "start": 2.9896145124716553,
+          "end": 5.520589569160998,
+          "slow_start": 3.3611337868480726,
+          "slow_end": 6.21718820861678
+        }
+      ],
+      "slow_start": 3.3611337868480726,
+      "slow_end": 6.21718820861678
+    },
+    {
+      "text": "Přípustka uznává okolnost.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Přípustka uznává okolnost."
+      ],
+      "start": 5.700589569160997,
+      "end": 8.219954648526077,
+      "sentences": [
+        {
+          "text": "Přípustka uznává okolnost.",
+          "start": 5.700589569160997,
+          "end": 8.219954648526077,
+          "slow_start": 6.39718820861678,
+          "slow_end": 9.288072562358277
+        }
+      ],
+      "slow_start": 6.39718820861678,
+      "slow_end": 9.288072562358277
+    },
+    {
+      "text": "Zkontrolujte návaznost vět.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Zkontrolujte návaznost vět."
+      ],
+      "start": 8.399954648526077,
+      "end": 11.058639455782313,
+      "sentences": [
+        {
+          "text": "Zkontrolujte návaznost vět.",
+          "start": 8.399954648526077,
+          "end": 11.058639455782313,
+          "slow_start": 9.468072562358277,
+          "slow_end": 12.46344671201814
+        }
+      ],
+      "slow_start": 9.468072562358277,
+      "slow_end": 12.46344671201814
+    },
+    {
+      "text": "O realizaci se rozhodne později.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "O realizaci se rozhodne později."
+      ],
+      "start": 11.238639455782312,
+      "end": 13.874104308390022,
+      "sentences": [
+        {
+          "text": "O realizaci se rozhodne později.",
+          "start": 11.238639455782312,
+          "end": 13.874104308390022,
+          "slow_start": 12.643446712018141,
+          "slow_end": 15.685260770975058
+        }
+      ],
+      "slow_start": 12.643446712018141,
+      "slow_end": 15.685260770975058
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "ad001fef5e82b700388283daf2c01bcbaf069b1e57cb2ce80eeec9541682c4f1",
+    "slow": "9e8c03fa73af23ca2ea9347427b065d18f15988fb71b7997ef366abe7bb4ce9e"
+  }
+}

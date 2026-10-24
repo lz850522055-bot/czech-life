@@ -1,0 +1,173 @@
+{
+  "id": "C1-U11-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "C1-U11-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Ve zprávě použijte spisovný tvar.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Ve zprávě použijte spisovný tvar."
+      ]
+    },
+    {
+      "text": "Výraz působí hovorově.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Výraz působí hovorově."
+      ]
+    },
+    {
+      "text": "Podobu rozpoznáme, ale nepoužijeme ji v podání.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Podobu rozpoznáme, ale nepoužijeme ji v podání."
+      ]
+    },
+    {
+      "text": "V zápisu zachovejte podstatné váhání.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "V zápisu zachovejte podstatné váhání."
+      ]
+    },
+    {
+      "text": "Rozhovor stručně převyprávím.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Rozhovor stručně převyprávím."
+      ]
+    }
+  ],
+  "text_sha256": "e5c47d7eb0ed46d1484293b97aeb90cca8243457b49cac21d8356075196037a3",
+  "source_file": "content/lessons/C1/C1-U11-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U11-L01--2026.10.22.1--vocabulary--e5c47d7eb0--normal.mp3",
+  "slow_file": "content/audio/files/C1-U11-L01--2026.10.22.1--vocabulary--e5c47d7eb0--slow.mp3",
+  "duration_seconds": 16.167120181405895,
+  "slow_duration_seconds": 17.873786848072562,
+  "cues": [
+    {
+      "text": "Ve zprávě použijte spisovný tvar.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Ve zprávě použijte spisovný tvar."
+      ],
+      "start": 0.0,
+      "end": 2.9257142857142857,
+      "sentences": [
+        {
+          "text": "Ve zprávě použijte spisovný tvar.",
+          "start": 0.0,
+          "end": 2.9257142857142857,
+          "slow_start": 0.0,
+          "slow_end": 3.274013605442177
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 3.274013605442177
+    },
+    {
+      "text": "Výraz působí hovorově.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Výraz působí hovorově."
+      ],
+      "start": 3.105714285714286,
+      "end": 5.3,
+      "sentences": [
+        {
+          "text": "Výraz působí hovorově.",
+          "start": 3.105714285714286,
+          "end": 5.3,
+          "slow_start": 3.454013605442177,
+          "slow_end": 5.9733786848072565
+        }
+      ],
+      "slow_start": 3.454013605442177,
+      "slow_end": 5.9733786848072565
+    },
+    {
+      "text": "Podobu rozpoznáme, ale nepoužijeme ji v podání.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Podobu rozpoznáme, ale nepoužijeme ji v podání."
+      ],
+      "start": 5.48,
+      "end": 9.578321995464853,
+      "sentences": [
+        {
+          "text": "Podobu rozpoznáme, ale nepoužijeme ji v podání.",
+          "start": 5.48,
+          "end": 9.578321995464853,
+          "slow_start": 6.153378684807256,
+          "slow_end": 10.75092970521542
+        }
+      ],
+      "slow_start": 6.153378684807256,
+      "slow_end": 10.75092970521542
+    },
+    {
+      "text": "V zápisu zachovejte podstatné váhání.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "V zápisu zachovejte podstatné váhání."
+      ],
+      "start": 9.758321995464852,
+      "end": 12.962675736961451,
+      "sentences": [
+        {
+          "text": "V zápisu zachovejte podstatné váhání.",
+          "start": 9.758321995464852,
+          "end": 12.962675736961451,
+          "slow_start": 10.93092970521542,
+          "slow_end": 14.495192743764173
+        }
+      ],
+      "slow_start": 10.93092970521542,
+      "slow_end": 14.495192743764173
+    },
+    {
+      "text": "Rozhovor stručně převyprávím.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Rozhovor stručně převyprávím."
+      ],
+      "start": 13.14267573696145,
+      "end": 15.987120181405896,
+      "sentences": [
+        {
+          "text": "Rozhovor stručně převyprávím.",
+          "start": 13.14267573696145,
+          "end": 15.987120181405896,
+          "slow_start": 14.675192743764173,
+          "slow_end": 17.693786848072563
+        }
+      ],
+      "slow_start": 14.675192743764173,
+      "slow_end": 17.693786848072563
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "032923ce61818bff305bf3bf90c0a1bbf6455d86ea952165121def566db2ca5a",
+    "slow": "b4ab3bdd386820d18c0162ea7231e7f925706fc63d8d4f755fa4b048988604ab"
+  }
+}

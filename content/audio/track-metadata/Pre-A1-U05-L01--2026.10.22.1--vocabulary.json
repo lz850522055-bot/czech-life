@@ -1,0 +1,144 @@
+{
+  "id": "Pre-A1-U05-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "Pre-A1-U05-L01",
+  "content_version": "2026.10.22.1",
+  "level": "Pre-A1",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Tady je led.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Tady je led."
+      ]
+    },
+    {
+      "text": "Jsem v obchodě.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Jsem v obchodě."
+      ]
+    },
+    {
+      "text": "Je to hned vedle.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Je to hned vedle."
+      ]
+    },
+    {
+      "text": "Mluvte pomaleji.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Mluvte pomaleji."
+      ]
+    }
+  ],
+  "text_sha256": "721347b7af239a349e96bb5c62d68e2d7b6c8583326df494be34652507c5230f",
+  "source_file": "content/lessons/Pre-A1/Pre-A1-U05-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/Pre-A1-U05-L01--2026.10.22.1--vocabulary--721347b7af--normal.mp3",
+  "slow_file": "content/audio/files/Pre-A1-U05-L01--2026.10.22.1--vocabulary--721347b7af--slow.mp3",
+  "duration_seconds": 6.141859410430839,
+  "slow_duration_seconds": 6.8152380952380955,
+  "cues": [
+    {
+      "text": "Tady je led.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Tady je led."
+      ],
+      "start": 0.0,
+      "end": 1.0565079365079366,
+      "sentences": [
+        {
+          "text": "Tady je led.",
+          "start": 0.0,
+          "end": 1.0565079365079366,
+          "slow_start": 0.0,
+          "slow_end": 1.253877551020408
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.253877551020408
+    },
+    {
+      "text": "Jsem v obchodě.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Jsem v obchodě."
+      ],
+      "start": 1.2365079365079366,
+      "end": 2.7341950113378686,
+      "sentences": [
+        {
+          "text": "Jsem v obchodě.",
+          "start": 1.2365079365079366,
+          "end": 2.7341950113378686,
+          "slow_start": 1.4338775510204083,
+          "slow_end": 3.105714285714286
+        }
+      ],
+      "slow_start": 1.4338775510204083,
+      "slow_end": 3.105714285714286
+    },
+    {
+      "text": "Je to hned vedle.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Je to hned vedle."
+      ],
+      "start": 2.9141950113378683,
+      "end": 4.330612244897959,
+      "sentences": [
+        {
+          "text": "Je to hned vedle.",
+          "start": 2.9141950113378683,
+          "end": 4.330612244897959,
+          "slow_start": 3.2857142857142856,
+          "slow_end": 4.899501133786848
+        }
+      ],
+      "slow_start": 3.2857142857142856,
+      "slow_end": 4.899501133786848
+    },
+    {
+      "text": "Mluvte pomaleji.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Mluvte pomaleji."
+      ],
+      "start": 4.510612244897959,
+      "end": 5.961859410430839,
+      "sentences": [
+        {
+          "text": "Mluvte pomaleji.",
+          "start": 4.510612244897959,
+          "end": 5.961859410430839,
+          "slow_start": 5.079501133786848,
+          "slow_end": 6.635238095238095
+        }
+      ],
+      "slow_start": 5.079501133786848,
+      "slow_end": 6.635238095238095
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "fb4130e47d4aba7324c1859ec6c92d062976cc5d3d15040ed41dd91594c3650f",
+    "slow": "b2202a2ebb6a37a08fa3a9b8727f1355923f49bfcea1e9bf338c5ca5839ef4a5"
+  }
+}

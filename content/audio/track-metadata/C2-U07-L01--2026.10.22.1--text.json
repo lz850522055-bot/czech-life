@@ -1,0 +1,602 @@
+{
+  "id": "C2-U07-L01--2026.10.22.1--text",
+  "lesson_id": "C2-U07-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Moderátorka začala otázkou, zda automatický přepis porad konečně zbaví zaměstnance zbytečné práce. Host, který v jedné organizaci vedl malý zkušební projekt, mohl odpovědět prostým ano a získat působivý úvod. Místo toho se krátce zeptal, zda zbytečnou prací myslí ruční zapisování, nebo také kontrolu, komu byl přidělen úkol. Rozlišení nebylo snahou utéci před odpovědí. První činnost může nástroj převzít zčásti, zatímco druhá vyžaduje posoudit, zda zachycená věta skutečně představuje dohodu a ne pouze návrh či odmítnutou možnost.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Moderátorka začala otázkou, zda automatický přepis porad konečně zbaví zaměstnance zbytečné práce.",
+        "Host, který v jedné organizaci vedl malý zkušební projekt, mohl odpovědět prostým ano a získat působivý úvod.",
+        "Místo toho se krátce zeptal, zda zbytečnou prací myslí ruční zapisování, nebo také kontrolu, komu byl přidělen úkol.",
+        "Rozlišení nebylo snahou utéci před odpovědí.",
+        "První činnost může nástroj převzít zčásti, zatímco druhá vyžaduje posoudit, zda zachycená věta skutečně představuje dohodu a ne pouze návrh či odmítnutou možnost."
+      ]
+    },
+    {
+      "text": "Moderátorka jej přerušila: Takže technice nevěříte? Host odpověděl, že otázku důvěry chápe jako otázku rozsahu použití. Věřit výstupu při hledání určité pasáže není stejný závazek jako bez kontroly rozeslat jménem týmu seznam povinností. Dodal stručný příklad: věta možná bych to mohl připravit se v zápisu nesmí změnit na úkol byl převzat. Místo abstraktního sporu pro nebo proti technice tak pojmenoval konkrétní přechod, v němž může dojít ke změně odpovědnosti. Jeho odpověď obsahovala výhradu, ale také jasný návrh využití.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Moderátorka jej přerušila: Takže technice nevěříte?",
+        "Host odpověděl, že otázku důvěry chápe jako otázku rozsahu použití.",
+        "Věřit výstupu při hledání určité pasáže není stejný závazek jako bez kontroly rozeslat jménem týmu seznam povinností.",
+        "Dodal stručný příklad: věta možná bych to mohl připravit se v zápisu nesmí změnit na úkol byl převzat.",
+        "Místo abstraktního sporu pro nebo proti technice tak pojmenoval konkrétní přechod, v němž může dojít ke změně odpovědnosti.",
+        "Jeho odpověď obsahovala výhradu, ale také jasný návrh využití."
+      ]
+    },
+    {
+      "text": "Z publika přišla ostřejší otázka: Není lidská kontrola jen způsob, jak zachovat pracovní místo člověku, kterého už nepotřebujete? Host nejprve uznal, že organizační zájmy mohou ovlivňovat hodnocení novinek. Potom odmítl závěr, že tato možnost sama vyvrací potřebu kontroly. Navrhl posoudit konkrétní chyby a jejich následky. Pokud kontrola nepřináší zjistitelnou hodnotu, její rozsah má být změněn; pokud zachytává významné zkreslení, nelze ji označit za zbytečnou pouze proto, že ji vykonává člověk. O motivu jednotlivého pracovníka přitom netvrdil nic.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Z publika přišla ostřejší otázka: Není lidská kontrola jen způsob, jak zachovat pracovní místo člověku, kterého už nepotřebujete?",
+        "Host nejprve uznal, že organizační zájmy mohou ovlivňovat hodnocení novinek.",
+        "Potom odmítl závěr, že tato možnost sama vyvrací potřebu kontroly.",
+        "Navrhl posoudit konkrétní chyby a jejich následky.",
+        "Pokud kontrola nepřináší zjistitelnou hodnotu, její rozsah má být změněn; pokud zachytává významné zkreslení, nelze ji označit za zbytečnou pouze proto, že ji vykonává člověk.",
+        "O motivu jednotlivého pracovníka přitom netvrdil nic."
+      ]
+    },
+    {
+      "text": "Moderátorka požádala o odpověď bez odborných výrazů. Host změnil příklad: představte si, že vám někdo připomene všechno, co zaznělo, ale neví, kterou možnost jste nakonec odmítli. Taková pomoc může být velmi užitečná, jen z ní ještě nelze udělat konečný seznam úkolů. Přirovnání zjednodušovalo rozdíl mezi zachycením řeči a potvrzením dohody. Host zároveň doplnil, že skutečné nástroje se liší a jeho příklad nevypovídá o každém výrobku. Jednoduchost vysvětlení neměla být vykoupena nepravdivou univerzalizací.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Moderátorka požádala o odpověď bez odborných výrazů.",
+        "Host změnil příklad: představte si, že vám někdo připomene všechno, co zaznělo, ale neví, kterou možnost jste nakonec odmítli.",
+        "Taková pomoc může být velmi užitečná, jen z ní ještě nelze udělat konečný seznam úkolů.",
+        "Přirovnání zjednodušovalo rozdíl mezi zachycením řeči a potvrzením dohody.",
+        "Host zároveň doplnil, že skutečné nástroje se liší a jeho příklad nevypovídá o každém výrobku.",
+        "Jednoduchost vysvětlení neměla být vykoupena nepravdivou univerzalizací."
+      ]
+    },
+    {
+      "text": "Další posluchačka se zeptala na vlastní situaci: zapisuje schůze sama a kontrola jí někdy zabere déle než původní zápis. Host nemohl z obecného popisu určit, zda se jí nástroj vyplatí. Neodkázal ji však jen na neurčité záleží. Zeptal se, které části opravuje, jak často se chyby vracejí a zda potřebuje úplný přepis, nebo pouze krátké rozhodnutí. Tím převedl širokou nejistotu na několik rozlišujících otázek. Pokud většinu času zabírá úprava nepodstatného stylu, může pomoci jiný cíl; pokud opravy mění odpovědnost, je problém závažnější.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Další posluchačka se zeptala na vlastní situaci: zapisuje schůze sama a kontrola jí někdy zabere déle než původní zápis.",
+        "Host nemohl z obecného popisu určit, zda se jí nástroj vyplatí.",
+        "Neodkázal ji však jen na neurčité záleží.",
+        "Zeptal se, které části opravuje, jak často se chyby vracejí a zda potřebuje úplný přepis, nebo pouze krátké rozhodnutí.",
+        "Tím převedl širokou nejistotu na několik rozlišujících otázek.",
+        "Pokud většinu času zabírá úprava nepodstatného stylu, může pomoci jiný cíl; pokud opravy mění odpovědnost, je problém závažnější."
+      ]
+    },
+    {
+      "text": "V polovině odpovědi zjistil, že předchozí příklad označil jako chybu přepisu, ačkoli šlo spíše o chybu shrnutí. Zastavil se a opravil toto rozlišení nahlas. Neomlouval se dlouze ani nepředstíral, že posluchači jistě pochopili jeho úmysl. Řekl, že slova mohou být zachycena správně, ale jejich vztah vyložen nesprávně. Tato krátká sebeoprava udržela společný předmět rozhovoru. Plynulost se neprojevila absencí každého zaváhání, nýbrž tím, že oprava nepřerušila směr argumentu a poskytla publiku přesnější oporu.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "V polovině odpovědi zjistil, že předchozí příklad označil jako chybu přepisu, ačkoli šlo spíše o chybu shrnutí.",
+        "Zastavil se a opravil toto rozlišení nahlas.",
+        "Neomlouval se dlouze ani nepředstíral, že posluchači jistě pochopili jeho úmysl.",
+        "Řekl, že slova mohou být zachycena správně, ale jejich vztah vyložen nesprávně.",
+        "Tato krátká sebeoprava udržela společný předmět rozhovoru.",
+        "Plynulost se neprojevila absencí každého zaváhání, nýbrž tím, že oprava nepřerušila směr argumentu a poskytla publiku přesnější oporu."
+      ]
+    },
+    {
+      "text": "Na závěr moderátorka trvala na jediné větě: používat, nebo nepoužívat? Host odpověděl, že nástroj doporučuje jako ověřovanou pomoc pro jasně vymezený úkol, nikoli jako automatického původce závazných rozhodnutí. Tato věta byla krátká, ale nevytvářela zdání bezpodmínečného doporučení. Zároveň byla konkrétnější než obvyklé vše má své výhody a nevýhody. Publikum mohlo poznat, pro jakou situaci jeho stanovisko platí a který krok považuje za podstatný. Jasnost odpovědi nevznikla přijetím každého zjednodušení obsaženého v otázce.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Na závěr moderátorka trvala na jediné větě: používat, nebo nepoužívat?",
+        "Host odpověděl, že nástroj doporučuje jako ověřovanou pomoc pro jasně vymezený úkol, nikoli jako automatického původce závazných rozhodnutí.",
+        "Tato věta byla krátká, ale nevytvářela zdání bezpodmínečného doporučení.",
+        "Zároveň byla konkrétnější než obvyklé vše má své výhody a nevýhody.",
+        "Publikum mohlo poznat, pro jakou situaci jeho stanovisko platí a který krok považuje za podstatný.",
+        "Jasnost odpovědi nevznikla přijetím každého zjednodušení obsaženého v otázce."
+      ]
+    },
+    {
+      "text": "Při následném rozboru studenti nesledovali pouze délku odpovědí. Zaznamenali, kdy host přímo odpověděl, kdy odmítl chybný předpoklad, kdy požádal o upřesnění a kdy zvolil nový příklad. Kdyby každou otázku vracel definicí pojmů, působil by vyhýbavě. Kdyby na každou přijal nabízené ano či ne, ztratil by přesnost. Náročnost improvizace spočívá ve volbě správného zásahu v daném okamžiku: stačí-li krátká odpověď, dát ji; mění-li otázka význam problému, opravit hranici a pak pokračovat tak, aby druhý člověk mohl rozhovor skutečně sledovat.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Při následném rozboru studenti nesledovali pouze délku odpovědí.",
+        "Zaznamenali, kdy host přímo odpověděl, kdy odmítl chybný předpoklad, kdy požádal o upřesnění a kdy zvolil nový příklad.",
+        "Kdyby každou otázku vracel definicí pojmů, působil by vyhýbavě.",
+        "Kdyby na každou přijal nabízené ano či ne, ztratil by přesnost.",
+        "Náročnost improvizace spočívá ve volbě správného zásahu v daném okamžiku: stačí-li krátká odpověď, dát ji; mění-li otázka význam problému, opravit hranici a pak pokračovat tak, aby druhý člověk mohl rozhovor skutečně sledovat."
+      ]
+    }
+  ],
+  "text_sha256": "bdfdacdb715f1d159172e85da0f2e4c48cb78634aeabd62f9b62445625ec1a4b",
+  "source_file": "content/lessons/C2/C2-U07-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U07-L01--2026.10.22.1--text--bdfdacdb71--normal.mp3",
+  "slow_file": "content/audio/files/C2-U07-L01--2026.10.22.1--text--bdfdacdb71--slow.mp3",
+  "duration_seconds": 387.8101587301587,
+  "slow_duration_seconds": 435.63165532879816,
+  "cues": [
+    {
+      "text": "Moderátorka začala otázkou, zda automatický přepis porad konečně zbaví zaměstnance zbytečné práce. Host, který v jedné organizaci vedl malý zkušební projekt, mohl odpovědět prostým ano a získat působivý úvod. Místo toho se krátce zeptal, zda zbytečnou prací myslí ruční zapisování, nebo také kontrolu, komu byl přidělen úkol. Rozlišení nebylo snahou utéci před odpovědí. První činnost může nástroj převzít zčásti, zatímco druhá vyžaduje posoudit, zda zachycená věta skutečně představuje dohodu a ne pouze návrh či odmítnutou možnost.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Moderátorka začala otázkou, zda automatický přepis porad konečně zbaví zaměstnance zbytečné práce.",
+        "Host, který v jedné organizaci vedl malý zkušební projekt, mohl odpovědět prostým ano a získat působivý úvod.",
+        "Místo toho se krátce zeptal, zda zbytečnou prací myslí ruční zapisování, nebo také kontrolu, komu byl přidělen úkol.",
+        "Rozlišení nebylo snahou utéci před odpovědí.",
+        "První činnost může nástroj převzít zčásti, zatímco druhá vyžaduje posoudit, zda zachycená věta skutečně představuje dohodu a ne pouze návrh či odmítnutou možnost."
+      ],
+      "start": 0.0,
+      "end": 48.33251700680272,
+      "sentences": [
+        {
+          "text": "Moderátorka začala otázkou, zda automatický přepis porad konečně zbaví zaměstnance zbytečné práce.",
+          "start": 0.0,
+          "end": 9.067392290249433,
+          "slow_start": 0.0,
+          "slow_end": 10.332879818594105
+        },
+        {
+          "text": "Host, který v jedné organizaci vedl malý zkušební projekt, mohl odpovědět prostým ano a získat působivý úvod.",
+          "start": 9.247392290249433,
+          "end": 19.20875283446712,
+          "slow_start": 10.512879818594104,
+          "slow_end": 21.635238095238094
+        },
+        {
+          "text": "Místo toho se krátce zeptal, zda zbytečnou prací myslí ruční zapisování, nebo také kontrolu, komu byl přidělen úkol.",
+          "start": 19.38875283446712,
+          "end": 30.104761904761904,
+          "slow_start": 21.815238095238094,
+          "slow_end": 34.075374149659865
+        },
+        {
+          "text": "Rozlišení nebylo snahou utéci před odpovědí.",
+          "start": 30.284761904761904,
+          "end": 34.2437641723356,
+          "slow_start": 34.255374149659865,
+          "slow_end": 38.794875283446714
+        },
+        {
+          "text": "První činnost může nástroj převzít zčásti, zatímco druhá vyžaduje posoudit, zda zachycená věta skutečně představuje dohodu a ne pouze návrh či odmítnutou možnost.",
+          "start": 34.4237641723356,
+          "end": 48.33251700680272,
+          "slow_start": 38.974875283446714,
+          "slow_end": 54.834104308390025
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 54.834104308390025
+    },
+    {
+      "text": "Moderátorka jej přerušila: Takže technice nevěříte? Host odpověděl, že otázku důvěry chápe jako otázku rozsahu použití. Věřit výstupu při hledání určité pasáže není stejný závazek jako bez kontroly rozeslat jménem týmu seznam povinností. Dodal stručný příklad: věta možná bych to mohl připravit se v zápisu nesmí změnit na úkol byl převzat. Místo abstraktního sporu pro nebo proti technice tak pojmenoval konkrétní přechod, v němž může dojít ke změně odpovědnosti. Jeho odpověď obsahovala výhradu, ale také jasný návrh využití.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Moderátorka jej přerušila: Takže technice nevěříte?",
+        "Host odpověděl, že otázku důvěry chápe jako otázku rozsahu použití.",
+        "Věřit výstupu při hledání určité pasáže není stejný závazek jako bez kontroly rozeslat jménem týmu seznam povinností.",
+        "Dodal stručný příklad: věta možná bych to mohl připravit se v zápisu nesmí změnit na úkol byl převzat.",
+        "Místo abstraktního sporu pro nebo proti technice tak pojmenoval konkrétní přechod, v němž může dojít ke změně odpovědnosti.",
+        "Jeho odpověď obsahovala výhradu, ale také jasný návrh využití."
+      ],
+      "start": 48.512517006802724,
+      "end": 95.95691609977324,
+      "sentences": [
+        {
+          "text": "Moderátorka jej přerušila: Takže technice nevěříte?",
+          "start": 48.512517006802724,
+          "end": 52.86625850340136,
+          "slow_start": 55.014104308390024,
+          "slow_end": 59.8902947845805
+        },
+        {
+          "text": "Host odpověděl, že otázku důvěry chápe jako otázku rozsahu použití.",
+          "start": 53.04625850340136,
+          "end": 59.09505668934241,
+          "slow_start": 60.0702947845805,
+          "slow_end": 66.7924716553288
+        },
+        {
+          "text": "Věřit výstupu při hledání určité pasáže není stejný závazek jako bez kontroly rozeslat jménem týmu seznam povinností.",
+          "start": 59.27505668934241,
+          "end": 70.18843537414966,
+          "slow_start": 66.9724716553288,
+          "slow_end": 79.31387755102041
+        },
+        {
+          "text": "Dodal stručný příklad: věta možná bych to mohl připravit se v zápisu nesmí změnit na úkol byl převzat.",
+          "start": 70.36843537414966,
+          "end": 79.9698866213152,
+          "slow_start": 79.4938775510204,
+          "slow_end": 90.34920634920636
+        },
+        {
+          "text": "Místo abstraktního sporu pro nebo proti technice tak pojmenoval konkrétní přechod, v němž může dojít ke změně odpovědnosti.",
+          "start": 80.14988662131519,
+          "end": 90.11124716553287,
+          "slow_start": 90.52920634920635,
+          "slow_end": 101.76766439909296
+        },
+        {
+          "text": "Jeho odpověď obsahovala výhradu, ale také jasný návrh využití.",
+          "start": 90.29124716553288,
+          "end": 95.95691609977324,
+          "slow_start": 101.94766439909297,
+          "slow_end": 108.2518820861678
+        }
+      ],
+      "slow_start": 55.014104308390024,
+      "slow_end": 108.2518820861678
+    },
+    {
+      "text": "Z publika přišla ostřejší otázka: Není lidská kontrola jen způsob, jak zachovat pracovní místo člověku, kterého už nepotřebujete? Host nejprve uznal, že organizační zájmy mohou ovlivňovat hodnocení novinek. Potom odmítl závěr, že tato možnost sama vyvrací potřebu kontroly. Navrhl posoudit konkrétní chyby a jejich následky. Pokud kontrola nepřináší zjistitelnou hodnotu, její rozsah má být změněn; pokud zachytává významné zkreslení, nelze ji označit za zbytečnou pouze proto, že ji vykonává člověk. O motivu jednotlivého pracovníka přitom netvrdil nic.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Z publika přišla ostřejší otázka: Není lidská kontrola jen způsob, jak zachovat pracovní místo člověku, kterého už nepotřebujete?",
+        "Host nejprve uznal, že organizační zájmy mohou ovlivňovat hodnocení novinek.",
+        "Potom odmítl závěr, že tato možnost sama vyvrací potřebu kontroly.",
+        "Navrhl posoudit konkrétní chyby a jejich následky.",
+        "Pokud kontrola nepřináší zjistitelnou hodnotu, její rozsah má být změněn; pokud zachytává významné zkreslení, nelze ji označit za zbytečnou pouze proto, že ji vykonává člověk.",
+        "O motivu jednotlivého pracovníka přitom netvrdil nic."
+      ],
+      "start": 96.13691609977325,
+      "end": 147.36616780045352,
+      "sentences": [
+        {
+          "text": "Z publika přišla ostřejší otázka: Není lidská kontrola jen způsob, jak zachovat pracovní místo člověku, kterého už nepotřebujete?",
+          "start": 96.13691609977325,
+          "end": 107.77011337868481,
+          "slow_start": 108.4318820861678,
+          "slow_end": 121.64403628117914
+        },
+        {
+          "text": "Host nejprve uznal, že organizační zájmy mohou ovlivňovat hodnocení novinek.",
+          "start": 107.9501133786848,
+          "end": 114.64907029478458,
+          "slow_start": 121.82403628117913,
+          "slow_end": 129.23120181405895
+        },
+        {
+          "text": "Potom odmítl závěr, že tato možnost sama vyvrací potřebu kontroly.",
+          "start": 114.82907029478459,
+          "end": 121.15650793650794,
+          "slow_start": 129.41120181405896,
+          "slow_end": 136.42362811791384
+        },
+        {
+          "text": "Navrhl posoudit konkrétní chyby a jejich následky.",
+          "start": 121.33650793650794,
+          "end": 125.80634920634921,
+          "slow_start": 136.60362811791384,
+          "slow_end": 141.72362811791382
+        },
+        {
+          "text": "Pokud kontrola nepřináší zjistitelnou hodnotu, její rozsah má být změněn; pokud zachytává významné zkreslení, nelze ji označit za zbytečnou pouze proto, že ji vykonává člověk.",
+          "start": 125.9863492063492,
+          "end": 142.33319727891157,
+          "slow_start": 141.90362811791383,
+          "slow_end": 160.46798185941043
+        },
+        {
+          "text": "O motivu jednotlivého pracovníka přitom netvrdil nic.",
+          "start": 142.51319727891158,
+          "end": 147.36616780045352,
+          "slow_start": 160.64798185941044,
+          "slow_end": 166.1278911564626
+        }
+      ],
+      "slow_start": 108.4318820861678,
+      "slow_end": 166.1278911564626
+    },
+    {
+      "text": "Moderátorka požádala o odpověď bez odborných výrazů. Host změnil příklad: představte si, že vám někdo připomene všechno, co zaznělo, ale neví, kterou možnost jste nakonec odmítli. Taková pomoc může být velmi užitečná, jen z ní ještě nelze udělat konečný seznam úkolů. Přirovnání zjednodušovalo rozdíl mezi zachycením řeči a potvrzením dohody. Host zároveň doplnil, že skutečné nástroje se liší a jeho příklad nevypovídá o každém výrobku. Jednoduchost vysvětlení neměla být vykoupena nepravdivou univerzalizací.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Moderátorka požádala o odpověď bez odborných výrazů.",
+        "Host změnil příklad: představte si, že vám někdo připomene všechno, co zaznělo, ale neví, kterou možnost jste nakonec odmítli.",
+        "Taková pomoc může být velmi užitečná, jen z ní ještě nelze udělat konečný seznam úkolů.",
+        "Přirovnání zjednodušovalo rozdíl mezi zachycením řeči a potvrzením dohody.",
+        "Host zároveň doplnil, že skutečné nástroje se liší a jeho příklad nevypovídá o každém výrobku.",
+        "Jednoduchost vysvětlení neměla být vykoupena nepravdivou univerzalizací."
+      ],
+      "start": 147.5461678004535,
+      "end": 192.9007709750567,
+      "sentences": [
+        {
+          "text": "Moderátorka požádala o odpověď bez odborných výrazů.",
+          "start": 147.5461678004535,
+          "end": 152.00439909297052,
+          "slow_start": 166.30789115646257,
+          "slow_end": 171.3001814058957
+        },
+        {
+          "text": "Host změnil příklad: představte si, že vám někdo připomene všechno, co zaznělo, ale neví, kterou možnost jste nakonec odmítli.",
+          "start": 152.18439909297052,
+          "end": 163.10938775510203,
+          "slow_start": 171.48018140589568,
+          "slow_end": 183.93768707482994
+        },
+        {
+          "text": "Taková pomoc může být velmi užitečná, jen z ní ještě nelze udělat konečný seznam úkolů.",
+          "start": 163.28938775510204,
+          "end": 171.55569160997732,
+          "slow_start": 184.11768707482995,
+          "slow_end": 193.3940589569161
+        },
+        {
+          "text": "Přirovnání zjednodušovalo rozdíl mezi zachycením řeči a potvrzením dohody.",
+          "start": 171.73569160997732,
+          "end": 178.0863492063492,
+          "slow_start": 193.5740589569161,
+          "slow_end": 200.56326530612245
+        },
+        {
+          "text": "Host zároveň doplnil, že skutečné nástroje se liší a jeho příklad nevypovídá o každém výrobku.",
+          "start": 178.26634920634922,
+          "end": 186.88095238095238,
+          "slow_start": 200.74326530612245,
+          "slow_end": 210.37954648526076
+        },
+        {
+          "text": "Jednoduchost vysvětlení neměla být vykoupena nepravdivou univerzalizací.",
+          "start": 187.0609523809524,
+          "end": 192.9007709750567,
+          "slow_start": 210.55954648526077,
+          "slow_end": 217.06113378684807
+        }
+      ],
+      "slow_start": 166.30789115646257,
+      "slow_end": 217.06113378684807
+    },
+    {
+      "text": "Další posluchačka se zeptala na vlastní situaci: zapisuje schůze sama a kontrola jí někdy zabere déle než původní zápis. Host nemohl z obecného popisu určit, zda se jí nástroj vyplatí. Neodkázal ji však jen na neurčité záleží. Zeptal se, které části opravuje, jak často se chyby vracejí a zda potřebuje úplný přepis, nebo pouze krátké rozhodnutí. Tím převedl širokou nejistotu na několik rozlišujících otázek. Pokud většinu času zabírá úprava nepodstatného stylu, může pomoci jiný cíl; pokud opravy mění odpovědnost, je problém závažnější.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Další posluchačka se zeptala na vlastní situaci: zapisuje schůze sama a kontrola jí někdy zabere déle než původní zápis.",
+        "Host nemohl z obecného popisu určit, zda se jí nástroj vyplatí.",
+        "Neodkázal ji však jen na neurčité záleží.",
+        "Zeptal se, které části opravuje, jak často se chyby vracejí a zda potřebuje úplný přepis, nebo pouze krátké rozhodnutí.",
+        "Tím převedl širokou nejistotu na několik rozlišujících otázek.",
+        "Pokud většinu času zabírá úprava nepodstatného stylu, může pomoci jiný cíl; pokud opravy mění odpovědnost, je problém závažnější."
+      ],
+      "start": 193.08077097505668,
+      "end": 243.03292517006804,
+      "sentences": [
+        {
+          "text": "Další posluchačka se zeptala na vlastní situaci: zapisuje schůze sama a kontrola jí někdy zabere déle než původní zápis.",
+          "start": 193.08077097505668,
+          "end": 204.23795918367347,
+          "slow_start": 217.24113378684808,
+          "slow_end": 230.0237188208617
+        },
+        {
+          "text": "Host nemohl z obecného popisu určit, zda se jí nástroj vyplatí.",
+          "start": 204.41795918367347,
+          "end": 210.24616780045352,
+          "slow_start": 230.20371882086167,
+          "slow_end": 236.5427664399093
+        },
+        {
+          "text": "Neodkázal ji však jen na neurčité záleží.",
+          "start": 210.42616780045353,
+          "end": 214.30390022675738,
+          "slow_start": 236.7227664399093,
+          "slow_end": 241.13455782312926
+        },
+        {
+          "text": "Zeptal se, které části opravuje, jak často se chyby vracejí a zda potřebuje úplný přepis, nebo pouze krátké rozhodnutí.",
+          "start": 214.48390022675736,
+          "end": 225.04897959183674,
+          "slow_start": 241.31455782312926,
+          "slow_end": 253.07546485260772
+        },
+        {
+          "text": "Tím převedl širokou nejistotu na několik rozlišujících otázek.",
+          "start": 225.22897959183675,
+          "end": 230.70888888888888,
+          "slow_start": 253.2554648526077,
+          "slow_end": 259.3739229024943
+        },
+        {
+          "text": "Pokud většinu času zabírá úprava nepodstatného stylu, může pomoci jiný cíl; pokud opravy mění odpovědnost, je problém závažnější.",
+          "start": 230.88888888888889,
+          "end": 243.03292517006804,
+          "slow_start": 259.5539229024943,
+          "slow_end": 273.1956462585034
+        }
+      ],
+      "slow_start": 217.24113378684808,
+      "slow_end": 273.1956462585034
+    },
+    {
+      "text": "V polovině odpovědi zjistil, že předchozí příklad označil jako chybu přepisu, ačkoli šlo spíše o chybu shrnutí. Zastavil se a opravil toto rozlišení nahlas. Neomlouval se dlouze ani nepředstíral, že posluchači jistě pochopili jeho úmysl. Řekl, že slova mohou být zachycena správně, ale jejich vztah vyložen nesprávně. Tato krátká sebeoprava udržela společný předmět rozhovoru. Plynulost se neprojevila absencí každého zaváhání, nýbrž tím, že oprava nepřerušila směr argumentu a poskytla publiku přesnější oporu.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "V polovině odpovědi zjistil, že předchozí příklad označil jako chybu přepisu, ačkoli šlo spíše o chybu shrnutí.",
+        "Zastavil se a opravil toto rozlišení nahlas.",
+        "Neomlouval se dlouze ani nepředstíral, že posluchači jistě pochopili jeho úmysl.",
+        "Řekl, že slova mohou být zachycena správně, ale jejich vztah vyložen nesprávně.",
+        "Tato krátká sebeoprava udržela společný předmět rozhovoru.",
+        "Plynulost se neprojevila absencí každého zaváhání, nýbrž tím, že oprava nepřerušila směr argumentu a poskytla publiku přesnější oporu."
+      ],
+      "start": 243.21292517006802,
+      "end": 289.07836734693876,
+      "sentences": [
+        {
+          "text": "V polovině odpovědi zjistil, že předchozí příklad označil jako chybu přepisu, ačkoli šlo spíše o chybu shrnutí.",
+          "start": 243.21292517006802,
+          "end": 252.97691609977323,
+          "slow_start": 273.3756462585034,
+          "slow_end": 284.3122448979592
+        },
+        {
+          "text": "Zastavil se a opravil toto rozlišení nahlas.",
+          "start": 253.15691609977324,
+          "end": 257.17396825396827,
+          "slow_start": 284.4922448979592,
+          "slow_end": 288.88081632653063
+        },
+        {
+          "text": "Neomlouval se dlouze ani nepředstíral, že posluchači jistě pochopili jeho úmysl.",
+          "start": 257.3539682539683,
+          "end": 263.9716553287982,
+          "slow_start": 289.0608163265306,
+          "slow_end": 296.5724716553288
+        },
+        {
+          "text": "Řekl, že slova mohou být zachycena správně, ale jejich vztah vyložen nesprávně.",
+          "start": 264.1516553287982,
+          "end": 271.29179138321996,
+          "slow_start": 296.7524716553288,
+          "slow_end": 304.5659863945578
+        },
+        {
+          "text": "Tato krátká sebeoprava udržela společný předmět rozhovoru.",
+          "start": 271.47179138321997,
+          "end": 276.47569160997733,
+          "slow_start": 304.7459863945578,
+          "slow_end": 310.6206349206349
+        },
+        {
+          "text": "Plynulost se neprojevila absencí každého zaváhání, nýbrž tím, že oprava nepřerušila směr argumentu a poskytla publiku přesnější oporu.",
+          "start": 276.65569160997734,
+          "end": 289.07836734693876,
+          "slow_start": 310.80063492063493,
+          "slow_end": 324.4655782312925
+        }
+      ],
+      "slow_start": 273.3756462585034,
+      "slow_end": 324.4655782312925
+    },
+    {
+      "text": "Na závěr moderátorka trvala na jediné větě: používat, nebo nepoužívat? Host odpověděl, že nástroj doporučuje jako ověřovanou pomoc pro jasně vymezený úkol, nikoli jako automatického původce závazných rozhodnutí. Tato věta byla krátká, ale nevytvářela zdání bezpodmínečného doporučení. Zároveň byla konkrétnější než obvyklé vše má své výhody a nevýhody. Publikum mohlo poznat, pro jakou situaci jeho stanovisko platí a který krok považuje za podstatný. Jasnost odpovědi nevznikla přijetím každého zjednodušení obsaženého v otázce.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Na závěr moderátorka trvala na jediné větě: používat, nebo nepoužívat?",
+        "Host odpověděl, že nástroj doporučuje jako ověřovanou pomoc pro jasně vymezený úkol, nikoli jako automatického původce závazných rozhodnutí.",
+        "Tato věta byla krátká, ale nevytvářela zdání bezpodmínečného doporučení.",
+        "Zároveň byla konkrétnější než obvyklé vše má své výhody a nevýhody.",
+        "Publikum mohlo poznat, pro jakou situaci jeho stanovisko platí a který krok považuje za podstatný.",
+        "Jasnost odpovědi nevznikla přijetím každého zjednodušení obsaženého v otázce."
+      ],
+      "start": 289.25836734693877,
+      "end": 337.968253968254,
+      "sentences": [
+        {
+          "text": "Na závěr moderátorka trvala na jediné větě: používat, nebo nepoužívat?",
+          "start": 289.25836734693877,
+          "end": 295.5393650793651,
+          "slow_start": 324.6455782312925,
+          "slow_end": 331.6812244897959
+        },
+        {
+          "text": "Host odpověděl, že nástroj doporučuje jako ověřovanou pomoc pro jasně vymezený úkol, nikoli jako automatického původce závazných rozhodnutí.",
+          "start": 295.7193650793651,
+          "end": 309.2798185941043,
+          "slow_start": 331.8612244897959,
+          "slow_end": 347.0702947845805
+        },
+        {
+          "text": "Tato věta byla krátká, ale nevytvářela zdání bezpodmínečného doporučení.",
+          "start": 309.4598185941043,
+          "end": 316.3677551020408,
+          "slow_start": 347.2502947845805,
+          "slow_end": 354.92448979591836
+        },
+        {
+          "text": "Zároveň byla konkrétnější než obvyklé vše má své výhody a nevýhody.",
+          "start": 316.5477551020408,
+          "end": 322.4340136054422,
+          "slow_start": 355.10448979591837,
+          "slow_end": 361.82666666666665
+        },
+        {
+          "text": "Publikum mohlo poznat, pro jakou situaci jeho stanovisko platí a který krok považuje za podstatný.",
+          "start": 322.61401360544215,
+          "end": 330.9383673469388,
+          "slow_start": 362.00666666666666,
+          "slow_end": 371.34108843537416
+        },
+        {
+          "text": "Jasnost odpovědi nevznikla přijetím každého zjednodušení obsaženého v otázce.",
+          "start": 331.1183673469388,
+          "end": 337.968253968254,
+          "slow_start": 371.52108843537417,
+          "slow_end": 379.3578231292517
+        }
+      ],
+      "slow_start": 324.6455782312925,
+      "slow_end": 379.3578231292517
+    },
+    {
+      "text": "Při následném rozboru studenti nesledovali pouze délku odpovědí. Zaznamenali, kdy host přímo odpověděl, kdy odmítl chybný předpoklad, kdy požádal o upřesnění a kdy zvolil nový příklad. Kdyby každou otázku vracel definicí pojmů, působil by vyhýbavě. Kdyby na každou přijal nabízené ano či ne, ztratil by přesnost. Náročnost improvizace spočívá ve volbě správného zásahu v daném okamžiku: stačí-li krátká odpověď, dát ji; mění-li otázka význam problému, opravit hranici a pak pokračovat tak, aby druhý člověk mohl rozhovor skutečně sledovat.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Při následném rozboru studenti nesledovali pouze délku odpovědí.",
+        "Zaznamenali, kdy host přímo odpověděl, kdy odmítl chybný předpoklad, kdy požádal o upřesnění a kdy zvolil nový příklad.",
+        "Kdyby každou otázku vracel definicí pojmů, působil by vyhýbavě.",
+        "Kdyby na každou přijal nabízené ano či ne, ztratil by přesnost.",
+        "Náročnost improvizace spočívá ve volbě správného zásahu v daném okamžiku: stačí-li krátká odpověď, dát ji; mění-li otázka význam problému, opravit hranici a pak pokračovat tak, aby druhý člověk mohl rozhovor skutečně sledovat."
+      ],
+      "start": 338.148253968254,
+      "end": 387.6301587301587,
+      "sentences": [
+        {
+          "text": "Při následném rozboru studenti nesledovali pouze délku odpovědí.",
+          "start": 338.148253968254,
+          "end": 343.9068027210884,
+          "slow_start": 379.5378231292517,
+          "slow_end": 386.039410430839
+        },
+        {
+          "text": "Zaznamenali, kdy host přímo odpověděl, kdy odmítl chybný předpoklad, kdy požádal o upřesnění a kdy zvolil nový příklad.",
+          "start": 344.0868027210884,
+          "end": 354.3848526077098,
+          "slow_start": 386.219410430839,
+          "slow_end": 397.98031746031745
+        },
+        {
+          "text": "Kdyby každou otázku vracel definicí pojmů, působil by vyhýbavě.",
+          "start": 354.5648526077097,
+          "end": 360.43950113378685,
+          "slow_start": 398.16031746031746,
+          "slow_end": 404.9637641723356
+        },
+        {
+          "text": "Kdyby na každou přijal nabízené ano či ne, ztratil by přesnost.",
+          "start": 360.61950113378686,
+          "end": 366.4477097505669,
+          "slow_start": 405.1437641723356,
+          "slow_end": 411.6221315192744
+        },
+        {
+          "text": "Náročnost improvizace spočívá ve volbě správného zásahu v daném okamžiku: stačí-li krátká odpověď, dát ji; mění-li otázka význam problému, opravit hranici a pak pokračovat tak, aby druhý člověk mohl rozhovor skutečně sledovat.",
+          "start": 366.6277097505669,
+          "end": 387.6301587301587,
+          "slow_start": 411.8021315192744,
+          "slow_end": 435.4516553287982
+        }
+      ],
+      "slow_start": 379.5378231292517,
+      "slow_end": 435.4516553287982
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "15b2efad865d9cb2da9f24ea41923f86b02cfc2ca5f957adfb5d274562c1d74c",
+    "slow": "e9ee99ee81662678c49f1026175af833e8787e9e1ca905b6d01807b364a8f59c"
+  }
+}

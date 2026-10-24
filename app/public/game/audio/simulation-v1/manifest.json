@@ -1,0 +1,706 @@
+{
+  "version": "2026.10.24.1",
+  "voice": "Czech Piper cs_CZ-jirka-medium",
+  "kind": "synthetic",
+  "review": "decoded; not native-listened",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "items": [
+    {
+      "id": "3c2cf31dd4dea1daeeea",
+      "text": "Prosím šest balení čaje.",
+      "zh": "请给我6包茶。",
+      "files": {
+        "normal": {
+          "url": "/game/audio/simulation-v1/3c2cf31dd4dea1daeeea-normal.mp3",
+          "seconds": 2.38,
+          "sha256": "59572d0c00c15ecaad5cfff380632dcb492b011d75d6bbc88b8038102e18e804"
+        },
+        "slow": {
+          "url": "/game/audio/simulation-v1/3c2cf31dd4dea1daeeea-slow.mp3",
+          "seconds": 2.728,
+          "sha256": "1f95fdca0e6199ffb1c98d737a2ab42648393e730cc017228a1a003b3d8ee349"
+        }
+      }
+    },
+    {
+      "id": "c858046c744624e90a4e",
+      "text": "Za šest balení zaplatíte 192 Kč.",
+      "zh": "6包进货要支付192 Kč。",
+      "files": {
+        "normal": {
+          "url": "/game/audio/simulation-v1/c858046c744624e90a4e-normal.mp3",
+          "seconds": 4.261,
+          "sha256": "92c6e2709c8fbdd9de5e27fa7140bd322a82251d131ba747f6733f0e199abb12"
+        },
+        "slow": {
+          "url": "/game/audio/simulation-v1/c858046c744624e90a4e-slow.mp3",
+          "seconds": 4.76,
+          "sha256": "b37a6925d6dda528b1e1d7ca32a987ea6966a5299bb1e2f58dbcce9c096fce96"
+        }
+      }
+    },
+    {
+      "id": "90109f7d9cdafd5fc830",
+      "text": "Dnes nemohu. Přijďte prosím zítra v deset.",
+      "zh": "今天不方便，请明天十点来。",
+      "files": {
+        "normal": {
+          "url": "/game/audio/simulation-v1/90109f7d9cdafd5fc830-normal.mp3",
+          "seconds": 3.704,
+          "sha256": "20351b80bd8a86c27b179617fa33eeb02e695bbb5134e78fba7fd0a984008546"
+        },
+        "slow": {
+          "url": "/game/audio/simulation-v1/90109f7d9cdafd5fc830-slow.mp3",
+          "seconds": 4.156,
+          "sha256": "74df12191abf8da37649ec307ecf1c1755fc0c0c5633de207c3aeb09bd455555"
+        }
+      }
+    },
+    {
+      "id": "73cbd924685003690a65",
+      "text": "Je to celkem 540 Kč, prosím.",
+      "zh": "总共540 Kč。",
+      "files": {
+        "normal": {
+          "url": "/game/audio/simulation-v1/73cbd924685003690a65-normal.mp3",
+          "seconds": 4.191,
+          "sha256": "c9a086861854695ee77dca5fe68710333b9f75958149eea67b62a77e9eb39e65"
+        },
+        "slow": {
+          "url": "/game/audio/simulation-v1/73cbd924685003690a65-slow.mp3",
+          "seconds": 4.54,
+          "sha256": "f6f789502d5864f1ca82cdd684fa0bf136b737cd899580907c3e0fd6a60335d8"
+        }
+      }
+    },
+    {
+      "id": "2ff761fa88bde7fdbae6",
+      "text": "Prosím čtyři balení kávy.",
+      "zh": "请给我4包咖啡。",
+      "files": {
+        "normal": {
+          "url": "/game/audio/simulation-v1/2ff761fa88bde7fdbae6-normal.mp3",
+          "seconds": 2.566,
+          "sha256": "11e62bc2ab403a62c3531e99a342b8dc4cdb8a6912c6129ac1d73d239119ff49"
+        },
+        "slow": {
+          "url": "/game/audio/simulation-v1/2ff761fa88bde7fdbae6-slow.mp3",
+          "seconds": 2.879,
+          "sha256": "de5b8af6b00483298120067fc9e9f34381274524634312739ffca5a98184ab23"
+        }
+      }
+    },
+    {
+      "id": "fd81d2629de322b54232",
+      "text": "Za čtyři balení zaplatíte 300 Kč.",
+      "zh": "4包进货要支付300 Kč。",
+      "files": {
+        "normal": {
+          "url": "/game/audio/simulation-v1/fd81d2629de322b54232-normal.mp3",
+          "seconds": 3.587,
+          "sha256": "8776fade8606f1f07252305d3b5a903c1e91c92a8e91c9ea1fd7eda50d6d1bc0"
+        },
+        "slow": {
+          "url": "/game/audio/simulation-v1/fd81d2629de322b54232-slow.mp3",
+          "seconds": 4.04,
+          "sha256": "a34167e779ea5eeb815e1ee6db89e635ecf7249f75d0535b866abd45e03c0dc5"
+        }
+      }
+    },
+    {
+      "id": "ae6b6e22846b88a19b6d",
+      "text": "Je to celkem 580 Kč, prosím.",
+      "zh": "总共580 Kč。",
+      "files": {
+        "normal": {
+          "url": "/game/audio/simulation-v1/ae6b6e22846b88a19b6d-normal.mp3",
+          "seconds": 4.249,
+          "sha256": "704f9f856adf09e1e84e9a8d804fa4189a719c7c7961c7e86582e1944fdcb765"
+        },
+        "slow": {
+          "url": "/game/audio/simulation-v1/ae6b6e22846b88a19b6d-slow.mp3",
+          "seconds": 4.946,
+          "sha256": "837ea80ab06d670c56d5ee2195914a4b9c4fe9d8cec43cba8e7ad74278636e4f"
+        }
+      }
+    },
+    {
+      "id": "1c88ffdebd7a6331da03",
+      "text": "Prosím dvanáct balení džusu.",
+      "zh": "请给我12包果汁。",
+      "files": {
+        "normal": {
+          "url": "/game/audio/simulation-v1/1c88ffdebd7a6331da03-normal.mp3",
+          "seconds": 2.786,
+          "sha256": "750a9cd9b0443b2f2446b57017ece4391dd59d151cd688ec6ca29ec7a0aa20fe"
+        },
+        "slow": {
+          "url": "/game/audio/simulation-v1/1c88ffdebd7a6331da03-slow.mp3",
+          "seconds": 3.251,
+          "sha256": "8c78d504d5bfc54204688da1ea10e461367c698fdd94cb72357a00e504bf35ec"
+        }
+      }
+    },
+    {
+      "id": "b8d46b80e6b2c9dc0aad",
+      "text": "Za dvanáct balení zaplatíte 216 Kč.",
+      "zh": "12包进货要支付216 Kč。",
+      "files": {
+        "normal": {
+          "url": "/game/audio/simulation-v1/b8d46b80e6b2c9dc0aad-normal.mp3",
+          "seconds": 4.54,
+          "sha256": "2cff5ea61ae959766ea24ff52437f4e6e466a46c9ea41e370b3d8e6625e4f09e"
+        },
+        "slow": {
+          "url": "/game/audio/simulation-v1/b8d46b80e6b2c9dc0aad-slow.mp3",
+          "seconds": 5.132,
+          "sha256": "21b91960b4728b5a64a496f9973ce52f41b384a3ba410fa9ad33fe490cd6b3bf"
+        }
+      }
+    },
+    {
+      "id": "ce179941a90f1ba9cdaf",
+      "text": "Je to celkem 624 Kč, prosím.",
+      "zh": "总共624 Kč。",
+      "files": {
+        "normal": {
+          "url": "/game/audio/simulation-v1/ce179941a90f1ba9cdaf-normal.mp3",
+          "seconds": 4.377,
+          "sha256": "e708e582df830d41e8f85aed405391f4fc1cb32231715959b32ae72b31c57776"
+        },
+        "slow": {
+          "url": "/game/audio/simulation-v1/ce179941a90f1ba9cdaf-slow.mp3",
+          "seconds": 5.004,
+          "sha256": "d5a4e26a4446d09c3e2219bb6fa08a94c00a42d95b82bdfa13ecd53f1e5e7975"
+        }
+      }
+    },
+    {
+      "id": "b4d2cc5713454e08baee",
+      "text": "Prosím osm balení čaje.",
+      "zh": "请给我8包茶。",
+      "files": {
+        "normal": {
+          "url": "/game/audio/simulation-v1/b4d2cc5713454e08baee-normal.mp3",
+          "seconds": 2.31,
+          "sha256": "3f36bcaeac527d9c34647b753b0076b760b540df4acfb0adb21ad38cc6dfaf14"
+        },
+        "slow": {
+          "url": "/game/audio/simulation-v1/b4d2cc5713454e08baee-slow.mp3",
+          "seconds": 2.67,
+          "sha256": "cf0e93c413331c679cdebded3ed05cdad1b90e502a9d2dc3282bcca24a8ff235"
+        }
+      }
+    },
+    {
+      "id": "4aa4a4a3a99dd3aa6e1e",
+      "text": "Za osm balení zaplatíte 256 Kč.",
+      "zh": "8包进货要支付256 Kč。",
+      "files": {
+        "normal": {
+          "url": "/game/audio/simulation-v1/4aa4a4a3a99dd3aa6e1e-normal.mp3",
+          "seconds": 4.423,
+          "sha256": "e4af816ca3e79a47844251dc1a4d97047e6d53f3e19ad460171e958d225b631e"
+        },
+        "slow": {
+          "url": "/game/audio/simulation-v1/4aa4a4a3a99dd3aa6e1e-slow.mp3",
+          "seconds": 4.957,
+          "sha256": "4dd44528ba5adcf8affa77ac4fe3c2179ed0762874db0e6b446812569a0a5c7b"
+        }
+      }
+    },
+    {
+      "id": "c98d8701054eda24c4a5",
+      "text": "Je to celkem 720 Kč, prosím.",
+      "zh": "总共720 Kč。",
+      "files": {
+        "normal": {
+          "url": "/game/audio/simulation-v1/c98d8701054eda24c4a5-normal.mp3",
+          "seconds": 3.994,
+          "sha256": "e9b2acd76e3e403b2953032fb7ad56f303b5393e5d3a7241a11c669ef0f04049"
+        },
+        "slow": {
+          "url": "/game/audio/simulation-v1/c98d8701054eda24c4a5-slow.mp3",
+          "seconds": 4.528,
+          "sha256": "edaf5968ec51fae3d84ac7abd321f81ae510ec77f230f92bf36c1397f469043f"
+        }
+      }
+    },
+    {
+      "id": "a58577fdb697ad17c20e",
+      "text": "Prosím pět balení kávy.",
+      "zh": "请给我5包咖啡。",
+      "files": {
+        "normal": {
+          "url": "/game/audio/simulation-v1/a58577fdb697ad17c20e-normal.mp3",
+          "seconds": 2.461,
+          "sha256": "bfc19b4982edcd240162d99b4e24112c1a54a06c31cbe94b8c1c0dfa13699b48"
+        },
+        "slow": {
+          "url": "/game/audio/simulation-v1/a58577fdb697ad17c20e-slow.mp3",
+          "seconds": 2.833,
+          "sha256": "620a06a194e5dc1eb565ec787dfe4549d935c447ffad4997bf7a131c87ef139f"
+        }
+      }
+    },
+    {
+      "id": "e7cc45f9d1fc439fedce",
+      "text": "Za pět balení zaplatíte 375 Kč.",
+      "zh": "5包进货要支付375 Kč。",
+      "files": {
+        "normal": {
+          "url": "/game/audio/simulation-v1/e7cc45f9d1fc439fedce-normal.mp3",
+          "seconds": 4.876,
+          "sha256": "b2c1d33ace7d21fb631d5f3779639324a2f2a410021cadda9a2660d183a9acb3"
+        },
+        "slow": {
+          "url": "/game/audio/simulation-v1/e7cc45f9d1fc439fedce-slow.mp3",
+          "seconds": 5.387,
+          "sha256": "c2a5b894cca6bf36f0106a3337c45f9f5389b1c6f5538c0fe9e32f8b4d411330"
+        }
+      }
+    },
+    {
+      "id": "fbf52c5570cc02ad7e15",
+      "text": "Je to celkem 725 Kč, prosím.",
+      "zh": "总共725 Kč。",
+      "files": {
+        "normal": {
+          "url": "/game/audio/simulation-v1/fbf52c5570cc02ad7e15-normal.mp3",
+          "seconds": 4.342,
+          "sha256": "cece1a27f155cd6ed50b845d65a8c5fc96b100dce2b3afa86394805b4a169dff"
+        },
+        "slow": {
+          "url": "/game/audio/simulation-v1/fbf52c5570cc02ad7e15-slow.mp3",
+          "seconds": 4.83,
+          "sha256": "7ec2e34c43f176b5f98ddf26f14bb19d774a745a24a68e1165f46748b3c588e4"
+        }
+      }
+    },
+    {
+      "id": "d1cb85d8288e37b09255",
+      "text": "Prosím devět balení džusu.",
+      "zh": "请给我9包果汁。",
+      "files": {
+        "normal": {
+          "url": "/game/audio/simulation-v1/d1cb85d8288e37b09255-normal.mp3",
+          "seconds": 2.473,
+          "sha256": "4478a82f10054b2cc300dd2ec89c419d433d09f23807d8ba1cb257574a714641"
+        },
+        "slow": {
+          "url": "/game/audio/simulation-v1/d1cb85d8288e37b09255-slow.mp3",
+          "seconds": 2.902,
+          "sha256": "716ec568a0741604e807d7d4c5f0a4d3418cbf414f41724ffe6693973396e230"
+        }
+      }
+    },
+    {
+      "id": "049982f3351bed3dba31",
+      "text": "Za devět balení zaplatíte 162 Kč.",
+      "zh": "9包进货要支付162 Kč。",
+      "files": {
+        "normal": {
+          "url": "/game/audio/simulation-v1/049982f3351bed3dba31-normal.mp3",
+          "seconds": 4.18,
+          "sha256": "8e8088b1cde845b8b88364751b4fe7b9fc0584ff78db167d4f99bb86bdf08b87"
+        },
+        "slow": {
+          "url": "/game/audio/simulation-v1/049982f3351bed3dba31-slow.mp3",
+          "seconds": 4.783,
+          "sha256": "4c2a7bf879714a89c4ec68c9a014ff710cdd7837c703fbbba779dda4b411f737"
+        }
+      }
+    },
+    {
+      "id": "2d00ac27284d861a0900",
+      "text": "Je to celkem 468 Kč, prosím.",
+      "zh": "总共468 Kč。",
+      "files": {
+        "normal": {
+          "url": "/game/audio/simulation-v1/2d00ac27284d861a0900-normal.mp3",
+          "seconds": 4.621,
+          "sha256": "87674d9daa445d86395b3ebca3cf714c7f044f17e3d7468de5f927d622a84516"
+        },
+        "slow": {
+          "url": "/game/audio/simulation-v1/2d00ac27284d861a0900-slow.mp3",
+          "seconds": 5.155,
+          "sha256": "90f430c14ff73336f2d3daaaead36ba15f69c9ee362a9784a2e7a8b1f868b9cd"
+        }
+      }
+    },
+    {
+      "id": "4f2614fc6f7db2ded65c",
+      "text": "Prosím deset balení čaje.",
+      "zh": "请给我10包茶。",
+      "files": {
+        "normal": {
+          "url": "/game/audio/simulation-v1/4f2614fc6f7db2ded65c-normal.mp3",
+          "seconds": 2.485,
+          "sha256": "22635268f3a157b25005976379674cda77a913bcacf65d329c8c95370bda6b1e"
+        },
+        "slow": {
+          "url": "/game/audio/simulation-v1/4f2614fc6f7db2ded65c-slow.mp3",
+          "seconds": 2.798,
+          "sha256": "1f2a34a3405e0445e53e82410605f9c354eb6312c21920c0ef6cb925117d65f1"
+        }
+      }
+    },
+    {
+      "id": "7a160056a6c1d2fcf121",
+      "text": "Za deset balení zaplatíte 320 Kč.",
+      "zh": "10包进货要支付320 Kč。",
+      "files": {
+        "normal": {
+          "url": "/game/audio/simulation-v1/7a160056a6c1d2fcf121-normal.mp3",
+          "seconds": 4.029,
+          "sha256": "c3d9fb6c1c536cde72130bdb168e2ac42522a3276a0f2c4746d2198b46ca211a"
+        },
+        "slow": {
+          "url": "/game/audio/simulation-v1/7a160056a6c1d2fcf121-slow.mp3",
+          "seconds": 4.667,
+          "sha256": "597001735810761c24cba68f56b25496270fe5c47cc726bb455a0994073ddb3a"
+        }
+      }
+    },
+    {
+      "id": "9cfad3929bad7338542d",
+      "text": "Je to celkem 900 Kč, prosím.",
+      "zh": "总共900 Kč。",
+      "files": {
+        "normal": {
+          "url": "/game/audio/simulation-v1/9cfad3929bad7338542d-normal.mp3",
+          "seconds": 3.46,
+          "sha256": "df90d34863aa78edca9ae3f52a88d82e1623be6352b8452a91644f496b65060b"
+        },
+        "slow": {
+          "url": "/game/audio/simulation-v1/9cfad3929bad7338542d-slow.mp3",
+          "seconds": 3.878,
+          "sha256": "f8490060c659768f69c12e0e405e8220546e8148ac9a68ee82ca13d03a9577c7"
+        }
+      }
+    },
+    {
+      "id": "4418da9dcd59eed68ff1",
+      "text": "Prosím tři balení kávy.",
+      "zh": "请给我3包咖啡。",
+      "files": {
+        "normal": {
+          "url": "/game/audio/simulation-v1/4418da9dcd59eed68ff1-normal.mp3",
+          "seconds": 2.218,
+          "sha256": "46e5834195b7dc792abe964964ffad891d77e43a4692db057a753ac713ca537d"
+        },
+        "slow": {
+          "url": "/game/audio/simulation-v1/4418da9dcd59eed68ff1-slow.mp3",
+          "seconds": 2.601,
+          "sha256": "b0fbf9da9cae364a401d23a6f639f624c6321c1be9e5c2e6d8c62a2e12a836fd"
+        }
+      }
+    },
+    {
+      "id": "740c2891c463a8027e10",
+      "text": "Za tři balení zaplatíte 225 Kč.",
+      "zh": "3包进货要支付225 Kč。",
+      "files": {
+        "normal": {
+          "url": "/game/audio/simulation-v1/740c2891c463a8027e10-normal.mp3",
+          "seconds": 4.226,
+          "sha256": "2a5f8e9d7b8d2d63ea00157e52a520d794fe89fc8761877cb914cea7b7e9a641"
+        },
+        "slow": {
+          "url": "/game/audio/simulation-v1/740c2891c463a8027e10-slow.mp3",
+          "seconds": 4.667,
+          "sha256": "6a936178d9e72039ed1eec33c7424b64dc8a754de9b2e3323382cf6b8dbf6035"
+        }
+      }
+    },
+    {
+      "id": "0b670b262d2c18dcafed",
+      "text": "Je to celkem 435 Kč, prosím.",
+      "zh": "总共435 Kč。",
+      "files": {
+        "normal": {
+          "url": "/game/audio/simulation-v1/0b670b262d2c18dcafed-normal.mp3",
+          "seconds": 4.389,
+          "sha256": "8ed50c0a64323c7ad381c34dd70a0aca9ae984217480ee80a436b837d21e85c6"
+        },
+        "slow": {
+          "url": "/game/audio/simulation-v1/0b670b262d2c18dcafed-slow.mp3",
+          "seconds": 4.83,
+          "sha256": "46dcae9e6d61a732725ca8c10411e60dc42917c2c89b01414ab345e52a77a8a3"
+        }
+      }
+    },
+    {
+      "id": "31b84da2eb7fd5c3ceec",
+      "text": "Prosím patnáct balení džusu.",
+      "zh": "请给我15包果汁。",
+      "files": {
+        "normal": {
+          "url": "/game/audio/simulation-v1/31b84da2eb7fd5c3ceec-normal.mp3",
+          "seconds": 2.786,
+          "sha256": "6cd3645812e2879d5880152ea2dc5b4743f7871ca8d12a1aa6fbf6e4c67f971f"
+        },
+        "slow": {
+          "url": "/game/audio/simulation-v1/31b84da2eb7fd5c3ceec-slow.mp3",
+          "seconds": 3.019,
+          "sha256": "8e3dbf5147d901a57747af11969e7aeca4d5d4f46a57dd9349df8309b397b3cd"
+        }
+      }
+    },
+    {
+      "id": "0fa1216538f72b1a8840",
+      "text": "Za patnáct balení zaplatíte 270 Kč.",
+      "zh": "15包进货要支付270 Kč。",
+      "files": {
+        "normal": {
+          "url": "/game/audio/simulation-v1/0fa1216538f72b1a8840-normal.mp3",
+          "seconds": 4.656,
+          "sha256": "88c59a17ac6b9702b5caa2c26066ff5245e63d3824c6d2596840ee7e33898ae4"
+        },
+        "slow": {
+          "url": "/game/audio/simulation-v1/0fa1216538f72b1a8840-slow.mp3",
+          "seconds": 5.352,
+          "sha256": "eb9ed42b58bd44fc6465ca36201c00c25f27d922795902ed3c71c5c4d7eac429"
+        }
+      }
+    },
+    {
+      "id": "abb234d0f07b661782ed",
+      "text": "Je to celkem 780 Kč, prosím.",
+      "zh": "总共780 Kč。",
+      "files": {
+        "normal": {
+          "url": "/game/audio/simulation-v1/abb234d0f07b661782ed-normal.mp3",
+          "seconds": 4.412,
+          "sha256": "94aa8463d98b4aed8d9cf2a566b546fd3234d70ce404a7d050265c20e216f25c"
+        },
+        "slow": {
+          "url": "/game/audio/simulation-v1/abb234d0f07b661782ed-slow.mp3",
+          "seconds": 5.085,
+          "sha256": "ca04a4c326361448a710cadd21953a30dca6ca122f156d8d8cfcbbcb35637737"
+        }
+      }
+    },
+    {
+      "id": "28e6e14ef27b986148b6",
+      "text": "Nájem je 650 Kč za měsíc. Kauce je dalších 300 Kč.",
+      "zh": "每期租金650，另外交300押金（均为游戏参数）。",
+      "files": {
+        "normal": {
+          "url": "/game/audio/simulation-v1/28e6e14ef27b986148b6-normal.mp3",
+          "seconds": 6.594,
+          "sha256": "f968e1b8643acf341088b1e2a69b51f77416d3b4f19e984f84ba36f59c45b9da"
+        },
+        "slow": {
+          "url": "/game/audio/simulation-v1/28e6e14ef27b986148b6-slow.mp3",
+          "seconds": 7.523,
+          "sha256": "2ab76a5b252fdbdcf6f34193c008caad7121a7e44aa3279ba1f35ea829313bb0"
+        }
+      }
+    },
+    {
+      "id": "794101e0dd7ac27fa188",
+      "text": "Cena pozemku je 3 500 Kč. Nejde o nájem.",
+      "zh": "教学地块买价3500游戏克朗，这不是租金。",
+      "files": {
+        "normal": {
+          "url": "/game/audio/simulation-v1/794101e0dd7ac27fa188-normal.mp3",
+          "seconds": 4.319,
+          "sha256": "d962d7516132516194972c634588d9422d95caba4b1561d37df6b01c8e5d67c9"
+        },
+        "slow": {
+          "url": "/game/audio/simulation-v1/794101e0dd7ac27fa188-slow.mp3",
+          "seconds": 4.841,
+          "sha256": "6b157aba4c214e4291b7895e765004880b0407b0baac9d4c51970d217cb5e5a9"
+        }
+      }
+    },
+    {
+      "id": "f12eecbbb0b6fff781b5",
+      "text": "Cena 1 200 Kč zahrnuje materiál a práci. Pozemek v ceně není.",
+      "zh": "1 200 Kč包括材料和施工，地块不包含在内。",
+      "files": {
+        "normal": {
+          "url": "/game/audio/simulation-v1/f12eecbbb0b6fff781b5-normal.mp3",
+          "seconds": 6.269,
+          "sha256": "1148b521d925820e8d2d151b4fa6220235024abe22a9f059bd2208e8693055bd"
+        },
+        "slow": {
+          "url": "/game/audio/simulation-v1/f12eecbbb0b6fff781b5-slow.mp3",
+          "seconds": 7.221,
+          "sha256": "663abbd97ebe6f55ce0173301b3f5fcf9b50db4c44c8ebaf33ec89fcbd0d4ed6"
+        }
+      }
+    },
+    {
+      "id": "eadb3df8787cb43fd30d",
+      "text": "Teď platíme jen materiál: 700 Kč. Práci zaplatíme později.",
+      "zh": "现在只付材料700 Kč，人工稍后付。",
+      "files": {
+        "normal": {
+          "url": "/game/audio/simulation-v1/eadb3df8787cb43fd30d-normal.mp3",
+          "seconds": 6.385,
+          "sha256": "94102f1846eee8adde3c293726635375f583799feaae38dd39d021354427e685"
+        },
+        "slow": {
+          "url": "/game/audio/simulation-v1/eadb3df8787cb43fd30d-slow.mp3",
+          "seconds": 7.163,
+          "sha256": "4eda59a221d4caa616b6975d0486b26d9732f1c62f838038967424005612646b"
+        }
+      }
+    },
+    {
+      "id": "e70948ca71d7a4774e11",
+      "text": "Nejdřív uděláme základy. Potom postavíme stěny.",
+      "zh": "先做基础，然后砌墙。",
+      "files": {
+        "normal": {
+          "url": "/game/audio/simulation-v1/e70948ca71d7a4774e11-normal.mp3",
+          "seconds": 4.203,
+          "sha256": "e75c9f2198bb3b9790704ce6504bbe132b14d81415691e4e4cc032c138b61f4b"
+        },
+        "slow": {
+          "url": "/game/audio/simulation-v1/e70948ca71d7a4774e11-slow.mp3",
+          "seconds": 4.795,
+          "sha256": "f6d1cb4a423e0bd5ee5b0845c305851db0aa9175ae977ebd18571222fc278279"
+        }
+      }
+    },
+    {
+      "id": "3949ba1fe464d1798109",
+      "text": "První část práce je zaplacená. Zbývá doplatit 250 Kč.",
+      "zh": "第一部分人工已经付过，只剩250 Kč。",
+      "files": {
+        "normal": {
+          "url": "/game/audio/simulation-v1/3949ba1fe464d1798109-normal.mp3",
+          "seconds": 6.339,
+          "sha256": "d98704394c55cd05a7857683197536af92d5be44c91b6058f070c9555c66be87"
+        },
+        "slow": {
+          "url": "/game/audio/simulation-v1/3949ba1fe464d1798109-slow.mp3",
+          "seconds": 7.245,
+          "sha256": "4c95a56e238a59f564cebb530c4fe6a11c910d971f5c9566dd1bde98c0436c06"
+        }
+      }
+    },
+    {
+      "id": "6756044fbebf301f9a19",
+      "text": "Představte svoji prodejnu zákazníkům.",
+      "zh": "向客户介绍你自己的店。",
+      "files": {
+        "normal": {
+          "url": "/game/audio/simulation-v1/6756044fbebf301f9a19-normal.mp3",
+          "seconds": 3.332,
+          "sha256": "38e0a0eb0a83943e85182e3d4f4e05ccf5ffe1ad1d7941a1d5dc58935836d179"
+        },
+        "slow": {
+          "url": "/game/audio/simulation-v1/6756044fbebf301f9a19-slow.mp3",
+          "seconds": 3.785,
+          "sha256": "28935e797b8582470f2c966964184f92a7d21422399ebb36396ab0f7b987f172"
+        }
+      }
+    },
+    {
+      "id": "b6a12361c4a5bc50308e",
+      "text": "Cena 1 800 Kč zahrnuje materiál a práci. Pozemek v ceně není.",
+      "zh": "1 800 Kč包括材料和施工，地块不包含在内。",
+      "files": {
+        "normal": {
+          "url": "/game/audio/simulation-v1/b6a12361c4a5bc50308e-normal.mp3",
+          "seconds": 6.467,
+          "sha256": "ac354096ae2235f0915a4e54fefad64d9830af1c9caeb8aaff5ebe121f04ebcd"
+        },
+        "slow": {
+          "url": "/game/audio/simulation-v1/b6a12361c4a5bc50308e-slow.mp3",
+          "seconds": 7.303,
+          "sha256": "a210e6d3e0a07c30d0f02e46444ee4901756f823ba04e1d9f3251d00e361e65c"
+        }
+      }
+    },
+    {
+      "id": "b2bd94add7deb8e73b48",
+      "text": "Teď platíme jen materiál: 1 100 Kč. Práci zaplatíme později.",
+      "zh": "现在只付材料1 100 Kč，人工稍后付。",
+      "files": {
+        "normal": {
+          "url": "/game/audio/simulation-v1/b2bd94add7deb8e73b48-normal.mp3",
+          "seconds": 6.235,
+          "sha256": "17f9fb9c2d0b715aab6c70315571a1f143f31c58858a121c3c62ecedb6e3ee97"
+        },
+        "slow": {
+          "url": "/game/audio/simulation-v1/b2bd94add7deb8e73b48-slow.mp3",
+          "seconds": 7.175,
+          "sha256": "0851212a1c5195ca998dd5acfa853d7e50978dbea9b4294d6e7276c2f944d665"
+        }
+      }
+    },
+    {
+      "id": "7dfa7656d4a728fb9513",
+      "text": "První část práce je zaplacená. Zbývá doplatit 350 Kč.",
+      "zh": "第一部分人工已经付过，只剩350 Kč。",
+      "files": {
+        "normal": {
+          "url": "/game/audio/simulation-v1/7dfa7656d4a728fb9513-normal.mp3",
+          "seconds": 6.304,
+          "sha256": "d444ff49376fe1066111bb8e6a13489a070f5518b462f6fdb33c97d162ee8992"
+        },
+        "slow": {
+          "url": "/game/audio/simulation-v1/7dfa7656d4a728fb9513-slow.mp3",
+          "seconds": 7.187,
+          "sha256": "53fb4e2abf5b6b1c1f241c79e96db58342299a25763197de3afbb9746f63f677"
+        }
+      }
+    },
+    {
+      "id": "898b7b5478537286bd7a",
+      "text": "Cena 2 500 Kč zahrnuje materiál a práci. Pozemek v ceně není.",
+      "zh": "2 500 Kč包括材料和施工，地块不包含在内。",
+      "files": {
+        "normal": {
+          "url": "/game/audio/simulation-v1/898b7b5478537286bd7a-normal.mp3",
+          "seconds": 5.898,
+          "sha256": "311ec4cfa4ce713571b64baf176047cbdba3ca9b1375a1eaaf4d712961353038"
+        },
+        "slow": {
+          "url": "/game/audio/simulation-v1/898b7b5478537286bd7a-slow.mp3",
+          "seconds": 6.757,
+          "sha256": "b9a3a822906fcffb4c19de2cfe5d03f1046fb522f0191d5a775d5dc0afb63afe"
+        }
+      }
+    },
+    {
+      "id": "acdff6aaf1dcb41d245f",
+      "text": "Teď platíme jen materiál: 1 600 Kč. Práci zaplatíme později.",
+      "zh": "现在只付材料1 600 Kč，人工稍后付。",
+      "files": {
+        "normal": {
+          "url": "/game/audio/simulation-v1/acdff6aaf1dcb41d245f-normal.mp3",
+          "seconds": 6.641,
+          "sha256": "d0a85ee062a9f40942428fb33bee6290b351ac6f2af6004f6574aa477e765933"
+        },
+        "slow": {
+          "url": "/game/audio/simulation-v1/acdff6aaf1dcb41d245f-slow.mp3",
+          "seconds": 7.523,
+          "sha256": "044398e963c22f72443401a1f56077838b557ef8f659f3d1b0c7a4d8d1c0bbb3"
+        }
+      }
+    },
+    {
+      "id": "f7ac4a29bc008db91914",
+      "text": "První část práce je zaplacená. Zbývá doplatit 450 Kč.",
+      "zh": "第一部分人工已经付过，只剩450 Kč。",
+      "files": {
+        "normal": {
+          "url": "/game/audio/simulation-v1/f7ac4a29bc008db91914-normal.mp3",
+          "seconds": 6.269,
+          "sha256": "16d5949cea66361d568af5e15b6b270b8bd99f2407c50a060d68507ba2654012"
+        },
+        "slow": {
+          "url": "/game/audio/simulation-v1/f7ac4a29bc008db91914-slow.mp3",
+          "seconds": 7.001,
+          "sha256": "4563adf476b05e0b65219631a58b43903b33445cdbe98fd6e703bc8a0d288a92"
+        }
+      }
+    }
+  ]
+}

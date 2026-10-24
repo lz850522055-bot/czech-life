@@ -1,0 +1,288 @@
+{
+  "id": "B1-U08-L01--2026.10.22.1--text",
+  "lesson_id": "B1-U08-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Na domovní schůzi jsme diskutovali o tom, zda má být společný dvůr večer zamčený. Někteří sousedé tvrdili, že se tím zvýší bezpečnost. Jiní se obávali, že návštěvy budou stát před bránou a nikdo je neuslyší. Já jsem nejprve poslouchal a zapisoval si důvody obou stran. Nechtěl jsem zaměnit osobní zkušenost jednoho člověka za situaci, která se děje každý den.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Na domovní schůzi jsme diskutovali o tom, zda má být společný dvůr večer zamčený.",
+        "Někteří sousedé tvrdili, že se tím zvýší bezpečnost.",
+        "Jiní se obávali, že návštěvy budou stát před bránou a nikdo je neuslyší.",
+        "Já jsem nejprve poslouchal a zapisoval si důvody obou stran.",
+        "Nechtěl jsem zaměnit osobní zkušenost jednoho člověka za situaci, která se děje každý den."
+      ]
+    },
+    {
+      "text": "Potom jsem řekl: „Souhlasím s tím, že potřebujeme omezit vstup cizích lidí. Nemyslím si ale, že zamykání bez další změny problém vyřeší. Například lidé, kteří se vracejí pozdě z práce, musí mít jednoduchý způsob, jak se dostat domů.“ Jeden soused mi odpověděl, že stačí rozdat klíče. Zeptal jsem se ho, jak by se řešila ztráta klíče nebo návštěva lékaře u staršího obyvatele.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Potom jsem řekl: „Souhlasím s tím, že potřebujeme omezit vstup cizích lidí.",
+        "Nemyslím si ale, že zamykání bez další změny problém vyřeší.",
+        "Například lidé, kteří se vracejí pozdě z práce, musí mít jednoduchý způsob, jak se dostat domů.“",
+        "Jeden soused mi odpověděl, že stačí rozdat klíče.",
+        "Zeptal jsem se ho, jak by se řešila ztráta klíče nebo návštěva lékaře u staršího obyvatele."
+      ]
+    },
+    {
+      "text": "Paní Novotná navrhla elektronický zámek. Podle jejího názoru by byl pohodlnější, ale nikdo zatím neznal cenu ani náklady na údržbu. Připomněl jsem proto, že nemáme dost podkladů pro konečné rozhodnutí. To neznamenalo, že návrh odmítám. Chtěl jsem pouze oddělit to, co víme, od toho, co teprve předpokládáme. Většina lidí s takovým postupem souhlasila.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Paní Novotná navrhla elektronický zámek.",
+        "Podle jejího názoru by byl pohodlnější, ale nikdo zatím neznal cenu ani náklady na údržbu.",
+        "Připomněl jsem proto, že nemáme dost podkladů pro konečné rozhodnutí.",
+        "To neznamenalo, že návrh odmítám.",
+        "Chtěl jsem pouze oddělit to, co víme, od toho, co teprve předpokládáme.",
+        "Většina lidí s takovým postupem souhlasila."
+      ]
+    },
+    {
+      "text": "Dohodli jsme se, že si vyžádáme dvě nabídky a pak porovnáme cenu, spolehlivost a přístup pro návštěvy. V závěru schůze jsem svůj postoj shrnul: bezpečnost považuji za důležitou, ale řešení musí fungovat i v běžném provozu. Změnil bych názor, kdyby se ukázalo, že zvolený systém lidem často brání ve vstupu. Diskuse tedy neskončila vítězstvím jedné strany, nýbrž konkrétním dalším krokem.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Dohodli jsme se, že si vyžádáme dvě nabídky a pak porovnáme cenu, spolehlivost a přístup pro návštěvy.",
+        "V závěru schůze jsem svůj postoj shrnul: bezpečnost považuji za důležitou, ale řešení musí fungovat i v běžném provozu.",
+        "Změnil bych názor, kdyby se ukázalo, že zvolený systém lidem často brání ve vstupu.",
+        "Diskuse tedy neskončila vítězstvím jedné strany, nýbrž konkrétním dalším krokem."
+      ]
+    }
+  ],
+  "text_sha256": "91b3ece50b9ff9486bf658712ad558e973f5e5ec01861c189549bd4f07a88921",
+  "source_file": "content/lessons/B1/B1-U08-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--normal.mp3",
+  "slow_file": "content/audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--slow.mp3",
+  "duration_seconds": 133.12090702947845,
+  "slow_duration_seconds": 149.60707482993197,
+  "cues": [
+    {
+      "text": "Na domovní schůzi jsme diskutovali o tom, zda má být společný dvůr večer zamčený. Někteří sousedé tvrdili, že se tím zvýší bezpečnost. Jiní se obávali, že návštěvy budou stát před bránou a nikdo je neuslyší. Já jsem nejprve poslouchal a zapisoval si důvody obou stran. Nechtěl jsem zaměnit osobní zkušenost jednoho člověka za situaci, která se děje každý den.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Na domovní schůzi jsme diskutovali o tom, zda má být společný dvůr večer zamčený.",
+        "Někteří sousedé tvrdili, že se tím zvýší bezpečnost.",
+        "Jiní se obávali, že návštěvy budou stát před bránou a nikdo je neuslyší.",
+        "Já jsem nejprve poslouchal a zapisoval si důvody obou stran.",
+        "Nechtěl jsem zaměnit osobní zkušenost jednoho člověka za situaci, která se děje každý den."
+      ],
+      "start": 0.0,
+      "end": 32.02049886621315,
+      "sentences": [
+        {
+          "text": "Na domovní schůzi jsme diskutovali o tom, zda má být společný dvůr večer zamčený.",
+          "start": 0.0,
+          "end": 7.1401360544217685,
+          "slow_start": 0.0,
+          "slow_end": 7.9760544217687075
+        },
+        {
+          "text": "Někteří sousedé tvrdili, že se tím zvýší bezpečnost.",
+          "start": 7.320136054421769,
+          "end": 12.184716553287982,
+          "slow_start": 8.156054421768708,
+          "slow_end": 13.473424036281179
+        },
+        {
+          "text": "Jiní se obávali, že návštěvy budou stát před bránou a nikdo je neuslyší.",
+          "start": 12.364716553287982,
+          "end": 18.692154195011337,
+          "slow_start": 13.653424036281178,
+          "slow_end": 20.87482993197279
+        },
+        {
+          "text": "Já jsem nejprve poslouchal a zapisoval si důvody obou stran.",
+          "start": 18.872154195011337,
+          "end": 24.143083900226756,
+          "slow_start": 21.05482993197279,
+          "slow_end": 26.836598639455783
+        },
+        {
+          "text": "Nechtěl jsem zaměnit osobní zkušenost jednoho člověka za situaci, která se děje každý den.",
+          "start": 24.323083900226756,
+          "end": 32.02049886621315,
+          "slow_start": 27.016598639455783,
+          "slow_end": 35.805351473922904
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 35.805351473922904
+    },
+    {
+      "text": "Potom jsem řekl: „Souhlasím s tím, že potřebujeme omezit vstup cizích lidí. Nemyslím si ale, že zamykání bez další změny problém vyřeší. Například lidé, kteří se vracejí pozdě z práce, musí mít jednoduchý způsob, jak se dostat domů.“ Jeden soused mi odpověděl, že stačí rozdat klíče. Zeptal jsem se ho, jak by se řešila ztráta klíče nebo návštěva lékaře u staršího obyvatele.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Potom jsem řekl: „Souhlasím s tím, že potřebujeme omezit vstup cizích lidí.",
+        "Nemyslím si ale, že zamykání bez další změny problém vyřeší.",
+        "Například lidé, kteří se vracejí pozdě z práce, musí mít jednoduchý způsob, jak se dostat domů.“",
+        "Jeden soused mi odpověděl, že stačí rozdat klíče.",
+        "Zeptal jsem se ho, jak by se řešila ztráta klíče nebo návštěva lékaře u staršího obyvatele."
+      ],
+      "start": 32.20049886621315,
+      "end": 66.96095238095238,
+      "sentences": [
+        {
+          "text": "Potom jsem řekl: „Souhlasím s tím, že potřebujeme omezit vstup cizích lidí.",
+          "start": 32.20049886621315,
+          "end": 39.03877551020408,
+          "slow_start": 35.985351473922904,
+          "slow_end": 43.60149659863946
+        },
+        {
+          "text": "Nemyslím si ale, že zamykání bez další změny problém vyřeší.",
+          "start": 39.21877551020408,
+          "end": 44.97732426303855,
+          "slow_start": 43.78149659863946,
+          "slow_end": 50.28308390022676
+        },
+        {
+          "text": "Například lidé, kteří se vracejí pozdě z práce, musí mít jednoduchý způsob, jak se dostat domů.“",
+          "start": 45.15732426303855,
+          "end": 53.88802721088435,
+          "slow_start": 50.463083900226756,
+          "slow_end": 60.087755102040816
+        },
+        {
+          "text": "Jeden soused mi odpověděl, že stačí rozdat klíče.",
+          "start": 54.06802721088435,
+          "end": 58.67718820861678,
+          "slow_start": 60.267755102040816,
+          "slow_end": 65.44580498866213
+        },
+        {
+          "text": "Zeptal jsem se ho, jak by se řešila ztráta klíče nebo návštěva lékaře u staršího obyvatele.",
+          "start": 58.85718820861678,
+          "end": 66.96095238095238,
+          "slow_start": 65.62580498866213,
+          "slow_end": 74.96022675736961
+        }
+      ],
+      "slow_start": 35.985351473922904,
+      "slow_end": 74.96022675736961
+    },
+    {
+      "text": "Paní Novotná navrhla elektronický zámek. Podle jejího názoru by byl pohodlnější, ale nikdo zatím neznal cenu ani náklady na údržbu. Připomněl jsem proto, že nemáme dost podkladů pro konečné rozhodnutí. To neznamenalo, že návrh odmítám. Chtěl jsem pouze oddělit to, co víme, od toho, co teprve předpokládáme. Většina lidí s takovým postupem souhlasila.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Paní Novotná navrhla elektronický zámek.",
+        "Podle jejího názoru by byl pohodlnější, ale nikdo zatím neznal cenu ani náklady na údržbu.",
+        "Připomněl jsem proto, že nemáme dost podkladů pro konečné rozhodnutí.",
+        "To neznamenalo, že návrh odmítám.",
+        "Chtěl jsem pouze oddělit to, co víme, od toho, co teprve předpokládáme.",
+        "Většina lidí s takovým postupem souhlasila."
+      ],
+      "start": 67.14095238095238,
+      "end": 98.23850340136055,
+      "sentences": [
+        {
+          "text": "Paní Novotná navrhla elektronický zámek.",
+          "start": 67.14095238095238,
+          "end": 70.5891156462585,
+          "slow_start": 75.14022675736962,
+          "slow_end": 79.14566893424036
+        },
+        {
+          "text": "Podle jejího názoru by byl pohodlnější, ale nikdo zatím neznal cenu ani náklady na údržbu.",
+          "start": 70.7691156462585,
+          "end": 78.97736961451247,
+          "slow_start": 79.32566893424037,
+          "slow_end": 88.61365079365079
+        },
+        {
+          "text": "Připomněl jsem proto, že nemáme dost podkladů pro konečné rozhodnutí.",
+          "start": 79.15736961451248,
+          "end": 84.68371882086167,
+          "slow_start": 88.7936507936508,
+          "slow_end": 95.05142857142857
+        },
+        {
+          "text": "To neznamenalo, že návrh odmítám.",
+          "start": 84.86371882086168,
+          "end": 87.85909297052154,
+          "slow_start": 95.23142857142857,
+          "slow_end": 98.56349206349206
+        },
+        {
+          "text": "Chtěl jsem pouze oddělit to, co víme, od toho, co teprve předpokládáme.",
+          "start": 88.03909297052154,
+          "end": 94.15755102040816,
+          "slow_start": 98.74349206349207,
+          "slow_end": 105.60498866213152
+        },
+        {
+          "text": "Většina lidí s takovým postupem souhlasila.",
+          "start": 94.33755102040816,
+          "end": 98.23850340136055,
+          "slow_start": 105.78498866213152,
+          "slow_end": 110.28965986394557
+        }
+      ],
+      "slow_start": 75.14022675736962,
+      "slow_end": 110.28965986394557
+    },
+    {
+      "text": "Dohodli jsme se, že si vyžádáme dvě nabídky a pak porovnáme cenu, spolehlivost a přístup pro návštěvy. V závěru schůze jsem svůj postoj shrnul: bezpečnost považuji za důležitou, ale řešení musí fungovat i v běžném provozu. Změnil bych názor, kdyby se ukázalo, že zvolený systém lidem často brání ve vstupu. Diskuse tedy neskončila vítězstvím jedné strany, nýbrž konkrétním dalším krokem.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Dohodli jsme se, že si vyžádáme dvě nabídky a pak porovnáme cenu, spolehlivost a přístup pro návštěvy.",
+        "V závěru schůze jsem svůj postoj shrnul: bezpečnost považuji za důležitou, ale řešení musí fungovat i v běžném provozu.",
+        "Změnil bych názor, kdyby se ukázalo, že zvolený systém lidem často brání ve vstupu.",
+        "Diskuse tedy neskončila vítězstvím jedné strany, nýbrž konkrétním dalším krokem."
+      ],
+      "start": 98.41850340136054,
+      "end": 132.94090702947847,
+      "sentences": [
+        {
+          "text": "Dohodli jsme se, že si vyžádáme dvě nabídky a pak porovnáme cenu, spolehlivost a přístup pro návštěvy.",
+          "start": 98.41850340136054,
+          "end": 107.00988662131519,
+          "slow_start": 110.46965986394558,
+          "slow_end": 120.14077097505668
+        },
+        {
+          "text": "V závěru schůze jsem svůj postoj shrnul: bezpečnost považuji za důležitou, ale řešení musí fungovat i v běžném provozu.",
+          "start": 107.1898866213152,
+          "end": 117.77818594104308,
+          "slow_start": 120.32077097505669,
+          "slow_end": 132.2906575963719
+        },
+        {
+          "text": "Změnil bych názor, kdyby se ukázalo, že zvolený systém lidem často brání ve vstupu.",
+          "start": 117.95818594104308,
+          "end": 125.59755102040816,
+          "slow_start": 132.4706575963719,
+          "slow_end": 141.2942403628118
+        },
+        {
+          "text": "Diskuse tedy neskončila vítězstvím jedné strany, nýbrž konkrétním dalším krokem.",
+          "start": 125.77755102040817,
+          "end": 132.94090702947847,
+          "slow_start": 141.4742403628118,
+          "slow_end": 149.42707482993197
+        }
+      ],
+      "slow_start": 110.46965986394558,
+      "slow_end": 149.42707482993197
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "1bcfe935876999369426b64af9147177fc6064174c0eb15beadf867c2e7db21a",
+    "slow": "ea87f730d1514b18c4bd02b32aa96d1ec7d52219db0e83aef7ef23917a6259c4"
+  }
+}

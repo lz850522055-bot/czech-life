@@ -1,0 +1,233 @@
+{
+  "id": "A2-U03-CHECK",
+  "kind": "unit",
+  "level": "A2",
+  "unit_id": "A2-U03",
+  "title_zh": "把七格整理成能查能用的地图：换情境独立完成",
+  "version": "2026.10.22.1",
+  "unseen_text": [
+    {
+      "cs": "Pavel poslal dopis sestře. V dopise napsal o novém městě. Sestra mu za dopis poděkovala.",
+      "zh": "帕维尔给姐妹寄信，信里写新城市；姐妹为信向他道谢。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt_zh": "填“与姐妹”。",
+      "stimulus_cs": "se ___（sestra）",
+      "answer": "sestrou",
+      "accepted_answers": [
+        "sestrou"
+      ],
+      "explanation_zh": "第七格单数。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "A2-U03-CHECK-E01",
+      "knowledge_points": [
+        "seven-case-system",
+        "declension-hard-models",
+        "declension-soft-models",
+        "declension-other-models"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "sestře表示什么关系？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "接收信的人"
+        },
+        {
+          "id": "b",
+          "text": "信的内容"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "poslat komu。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "A2-U03-CHECK-E02",
+      "knowledge_points": [
+        "seven-case-system",
+        "declension-hard-models",
+        "declension-soft-models",
+        "declension-other-models"
+      ]
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "用中文解释mu指谁以及为什么。",
+      "stimulus_cs": "",
+      "answer": "mu指帕维尔，是被感谢的人，děkovat配第三格。",
+      "accepted_answers": [],
+      "explanation_zh": "追踪句间指代。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A2-U03-CHECK-E03",
+      "knowledge_points": [
+        "seven-case-system",
+        "declension-hard-models",
+        "declension-soft-models",
+        "declension-other-models"
+      ]
+    },
+    {
+      "id": "A2-U03-CHECK-E04",
+      "type": "fill",
+      "prompt_zh": "新情境：机器需要维护，填“关于机器”的词形。",
+      "stimulus_cs": "Mluvíme o ___, který potřebuje opravu.（stroj）",
+      "answer": "stroji",
+      "accepted_answers": [
+        "stroji"
+      ],
+      "explanation_zh": "o在这里接第六格，stroj的第六格单数为stroji。",
+      "scoring_basis": "按限定名词与格形核对，不扩展为全部七格掌握。",
+      "skill_ids": [
+        "writing"
+      ],
+      "knowledge_points": [
+        "declension-masculine-more"
+      ],
+      "error_category": "inflection"
+    }
+  ],
+  "rubric": [
+    "能提取新材料中的关键事实，不靠背诵原文",
+    "能根据变化的条件组织一句或一段表达",
+    "能指出不确定之处并请求澄清"
+  ],
+  "remediation": [
+    {
+      "condition_zh": "目标规律使用不稳定或未能提取关键信息",
+      "lesson_ids": [
+        "A2-U03-L01"
+      ],
+      "action_zh": "返回规律卡，对照两例；隔一次其他练习后重做未见情境。"
+    }
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "A2-U03-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U03-CHECK--2026.10.22.1--text--d9e67cd1f1--normal.mp3",
+      "slow_file": "audio/files/A2-U03-CHECK--2026.10.22.1--text--d9e67cd1f1--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U03-CHECK--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Pavel poslal dopis sestře. V dopise napsal o novém městě. Sestra mu za dopis poděkovala.",
+      "duration_seconds": 8.783083900226757,
+      "slow_duration_seconds": 9.82798185941043,
+      "sha256": "0dc15260acd091b0b5eb2d3f00c7b871e0662a71c8aa1f4f61ae58fca05c9abf",
+      "slow_sha256": "7df7284a1c95eb0925c8b8b115d43b9f2bbefd3e75d11cb678533979a218d622"
+    },
+    {
+      "lesson_id": "A2-U03-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U03-CHECK--2026.10.22.1--text--d9e67cd1f1--normal.mp3",
+      "slow_file": "audio/files/A2-U03-CHECK--2026.10.22.1--text--d9e67cd1f1--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U03-CHECK--2026.10.22.1--text--p0",
+      "asset_id": "A2-U03-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Pavel poslal dopis sestře. V dopise napsal o novém městě. Sestra mu za dopis poděkovala.",
+      "start": 0,
+      "end": 8.603083900226757,
+      "slow_start": 0,
+      "slow_end": 9.64798185941043
+    },
+    {
+      "lesson_id": "A2-U03-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U03-CHECK--2026.10.22.1--text--d9e67cd1f1--normal.mp3",
+      "slow_file": "audio/files/A2-U03-CHECK--2026.10.22.1--text--d9e67cd1f1--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U03-CHECK--2026.10.22.1--text--s0",
+      "asset_id": "A2-U03-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Pavel poslal dopis sestře.",
+      "start": 0,
+      "end": 2.716734693877551,
+      "slow_start": 0,
+      "slow_end": 2.9837641723356008
+    },
+    {
+      "lesson_id": "A2-U03-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U03-CHECK--2026.10.22.1--text--d9e67cd1f1--normal.mp3",
+      "slow_file": "audio/files/A2-U03-CHECK--2026.10.22.1--text--d9e67cd1f1--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U03-CHECK--2026.10.22.1--text--s1",
+      "asset_id": "A2-U03-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "V dopise napsal o novém městě.",
+      "start": 2.896734693877551,
+      "end": 5.7063492063492065,
+      "slow_start": 3.163764172335601,
+      "slow_end": 6.391337868480726
+    },
+    {
+      "lesson_id": "A2-U03-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U03-CHECK--2026.10.22.1--text--d9e67cd1f1--normal.mp3",
+      "slow_file": "audio/files/A2-U03-CHECK--2026.10.22.1--text--d9e67cd1f1--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U03-CHECK--2026.10.22.1--text--s2",
+      "asset_id": "A2-U03-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Sestra mu za dopis poděkovala.",
+      "start": 5.886349206349206,
+      "end": 8.603083900226757,
+      "slow_start": 6.571337868480725,
+      "slow_end": 9.64798185941043
+    }
+  ]
+}

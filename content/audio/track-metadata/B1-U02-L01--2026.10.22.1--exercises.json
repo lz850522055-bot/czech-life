@@ -1,0 +1,68 @@
+{
+  "id": "B1-U02-L01--2026.10.22.1--exercises",
+  "lesson_id": "B1-U02-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Nabídku jsem zatím neposlal. Dopoledne jsem ji připravoval a teď ji do hodiny dokončím.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "B1-U02-L01-E03",
+      "parts": [
+        "Nabídku jsem zatím neposlal.",
+        "Dopoledne jsem ji připravoval a teď ji do hodiny dokončím."
+      ]
+    }
+  ],
+  "text_sha256": "d5594fc13e0425e7289357c9879c03f84fb45d3fe93a3ff2dc4110834a3e7a61",
+  "source_file": "content/lessons/B1/B1-U02-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U02-L01--2026.10.22.1--exercises--d5594fc13e--normal.mp3",
+  "slow_file": "content/audio/files/B1-U02-L01--2026.10.22.1--exercises--d5594fc13e--slow.mp3",
+  "duration_seconds": 7.929705215419501,
+  "slow_duration_seconds": 9.009433106575964,
+  "cues": [
+    {
+      "text": "Nabídku jsem zatím neposlal. Dopoledne jsem ji připravoval a teď ji do hodiny dokončím.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "B1-U02-L01-E03",
+      "parts": [
+        "Nabídku jsem zatím neposlal.",
+        "Dopoledne jsem ji připravoval a teď ji do hodiny dokončím."
+      ],
+      "start": 0.0,
+      "end": 7.749705215419501,
+      "sentences": [
+        {
+          "text": "Nabídku jsem zatím neposlal.",
+          "start": 0.0,
+          "end": 2.8676643990929707,
+          "slow_start": 0.0,
+          "slow_end": 3.250793650793651
+        },
+        {
+          "text": "Dopoledne jsem ji připravoval a teď ji do hodiny dokončím.",
+          "start": 3.0476643990929704,
+          "end": 7.749705215419501,
+          "slow_start": 3.430793650793651,
+          "slow_end": 8.829433106575964
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 8.829433106575964
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "f7e0a0e582ab441b8f71977d3217bf4e58fd951a30835336b77ae6135265e947",
+    "slow": "88cc021b77f092a9598bec3bf5cdc90fb1a8ce8ac797b98edfaa55f7de64f2d0"
+  }
+}

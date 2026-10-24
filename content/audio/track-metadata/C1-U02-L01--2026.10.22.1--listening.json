@@ -1,0 +1,75 @@
+{
+  "id": "C1-U02-L01--2026.10.22.1--listening",
+  "lesson_id": "C1-U02-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Posudek objednáme, i když část obyvatel se zahradou nesouhlasí. Samotná objednávka nikoho nezavazuje ke stavbě. Pokud bude výsledek nepříznivý, další příprava se zastaví.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Posudek objednáme, i když část obyvatel se zahradou nesouhlasí.",
+        "Samotná objednávka nikoho nezavazuje ke stavbě.",
+        "Pokud bude výsledek nepříznivý, další příprava se zastaví."
+      ]
+    }
+  ],
+  "text_sha256": "ec22c2dffbcac2c6f76a6f308d288eccc70d27033a2181e67b8997432637e263",
+  "source_file": "content/lessons/C1/C1-U02-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U02-L01--2026.10.22.1--listening--ec22c2dffb--normal.mp3",
+  "slow_file": "content/audio/files/C1-U02-L01--2026.10.22.1--listening--ec22c2dffb--slow.mp3",
+  "duration_seconds": 14.75061224489796,
+  "slow_duration_seconds": 16.66625850340136,
+  "cues": [
+    {
+      "text": "Posudek objednáme, i když část obyvatel se zahradou nesouhlasí. Samotná objednávka nikoho nezavazuje ke stavbě. Pokud bude výsledek nepříznivý, další příprava se zastaví.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Posudek objednáme, i když část obyvatel se zahradou nesouhlasí.",
+        "Samotná objednávka nikoho nezavazuje ke stavbě.",
+        "Pokud bude výsledek nepříznivý, další příprava se zastaví."
+      ],
+      "start": 0.0,
+      "end": 14.570612244897958,
+      "sentences": [
+        {
+          "text": "Posudek objednáme, i když část obyvatel se zahradou nesouhlasí.",
+          "start": 0.0,
+          "end": 5.561179138321996,
+          "slow_start": 0.0,
+          "slow_end": 6.211337868480726
+        },
+        {
+          "text": "Samotná objednávka nikoho nezavazuje ke stavbě.",
+          "start": 5.7411791383219954,
+          "end": 9.514421768707482,
+          "slow_start": 6.391337868480726,
+          "slow_end": 10.849569160997733
+        },
+        {
+          "text": "Pokud bude výsledek nepříznivý, další příprava se zastaví.",
+          "start": 9.694421768707484,
+          "end": 14.570612244897958,
+          "slow_start": 11.029569160997733,
+          "slow_end": 16.48625850340136
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 16.48625850340136
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "d2664e1a3a83f99033715c16fe0f44096fa1da74c934028fa482063669eb1053",
+    "slow": "8b585259bdf0dd05797ce798ef51702cf6c72e7cf993cec2c4a5bcbeaca8a675"
+  }
+}

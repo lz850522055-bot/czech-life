@@ -1,0 +1,57 @@
+{
+  "id": "B1-U06-L01--2026.10.22.1--contrasts",
+  "lesson_id": "B1-U06-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "se. si.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "se. si."
+      ]
+    }
+  ],
+  "text_sha256": "9fd3e0e97007289bbb96fbf97373af2b355e6ebc0d05959e5ab5455eaa3f59bb",
+  "source_file": "content/lessons/B1/B1-U06-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U06-L01--2026.10.22.1--contrasts--9fd3e0e970--normal.mp3",
+  "slow_file": "content/audio/files/B1-U06-L01--2026.10.22.1--contrasts--9fd3e0e970--slow.mp3",
+  "duration_seconds": 1.0043083900226757,
+  "slow_duration_seconds": 1.085578231292517,
+  "cues": [
+    {
+      "text": "se. si.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "se. si."
+      ],
+      "start": 0.0,
+      "end": 0.8243083900226758,
+      "sentences": [
+        {
+          "text": "se. si.",
+          "start": 0.0,
+          "end": 0.8243083900226758,
+          "slow_start": 0.0,
+          "slow_end": 0.905578231292517
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 0.905578231292517
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "265f5e1bcefa6f9f8497f86de3c91a61b743a0831cf18a3e8e0bef8dcafeecd5",
+    "slow": "7c7dfa2d23390d9a3b06d44bbd67757f19e2264fb2de63dfd1994a290f1043e4"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "A2-U04-CHECK--2026.10.22.1--text",
+  "lesson_id": "A2-U04-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Pavel půjčil Petrovi své auto. Petr mu ho vrátil v pátek.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Pavel půjčil Petrovi své auto.",
+        "Petr mu ho vrátil v pátek."
+      ]
+    }
+  ],
+  "text_sha256": "12e72cc83a246d20b896133b53d3202d15d553d91c5e9d45546dd6fa325cd1cb",
+  "source_file": "content/assessments/A2-U04.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U04-CHECK--2026.10.22.1--text--12e72cc83a--normal.mp3",
+  "slow_file": "content/audio/files/A2-U04-CHECK--2026.10.22.1--text--12e72cc83a--slow.mp3",
+  "duration_seconds": 5.874739229024943,
+  "slow_duration_seconds": 6.4320181405895696,
+  "cues": [
+    {
+      "text": "Pavel půjčil Petrovi své auto. Petr mu ho vrátil v pátek.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Pavel půjčil Petrovi své auto.",
+        "Petr mu ho vrátil v pátek."
+      ],
+      "start": 0.0,
+      "end": 5.694739229024943,
+      "sentences": [
+        {
+          "text": "Pavel půjčil Petrovi své auto.",
+          "start": 0.0,
+          "end": 2.972154195011338,
+          "slow_start": 0.0,
+          "slow_end": 3.308843537414966
+        },
+        {
+          "text": "Petr mu ho vrátil v pátek.",
+          "start": 3.152154195011338,
+          "end": 5.694739229024943,
+          "slow_start": 3.488843537414966,
+          "slow_end": 6.252018140589569
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 6.252018140589569
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "ffa7d8fa4afafe7908358f262e93be72b9a6f979869413968aede1aa43b07d3a",
+    "slow": "75067491083b6ff97190bca96b91fda0d459f516c2576ef79f3fb9cec7ba08f7"
+  }
+}

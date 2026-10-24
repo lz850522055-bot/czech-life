@@ -1,0 +1,219 @@
+{
+  "unseen_text": [
+    {
+      "cs": "Dopravce oznámil zpoždění zásilky. Dopravní omezení se týká pouze jedné ulice. Cena dopravy se nemění.",
+      "zh": "承运方通知包裹延迟。交通限制只涉及一条街，运费不变。",
+      "note_zh": ""
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "谁通知延迟？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "承运方"
+        },
+        {
+          "id": "b",
+          "text": "街道"
+        },
+        {
+          "id": "c",
+          "text": "运费"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "dopravce 指主体。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U13-CHECK-E01",
+      "knowledge_points": [
+        "word-family",
+        "collocation-building"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "把 doprava 变成“运费”的形式。",
+      "stimulus_cs": "cena ___",
+      "answer": "dopravy",
+      "accepted_answers": [
+        "dopravy"
+      ],
+      "explanation_zh": "名词所属用第二格。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "B1-U13-CHECK-E02",
+      "knowledge_points": [
+        "word-family",
+        "collocation-building"
+      ]
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "解释三个同根表达在材料中的角色。",
+      "stimulus_cs": "",
+      "answer": "Dopravce je firma, dopravní omezení popisuje provoz a doprava označuje přepravu, za kterou platíme.",
+      "accepted_answers": [],
+      "explanation_zh": "从实际句子识别角色。",
+      "rubric": [
+        "主体性质活动",
+        "范围只一街",
+        "不误说涨价"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U13-CHECK-E03",
+      "knowledge_points": [
+        "word-family",
+        "collocation-building"
+      ]
+    }
+  ],
+  "id": "B1-U13-CHECK",
+  "kind": "unit",
+  "level": "B1",
+  "unit_id": "B1-U13",
+  "title_zh": "词族搭配与构词：换场景检验",
+  "version": "2026.10.22.1",
+  "rubric": [
+    "关键信息准确且没有添加原文没有的信息",
+    "能使用本单元规律完成新情境",
+    "输出能让对方采取下一步行动"
+  ],
+  "remediation": [
+    {
+      "condition_zh": "理解遗漏或把推测说成事实",
+      "lesson_ids": [
+        "B1-U13-L01"
+      ],
+      "action_zh": "对照逐段译文，重新提取人物、限制和下一步。"
+    },
+    {
+      "condition_zh": "表达需要提示或形式反复出错",
+      "lesson_ids": [
+        "B1-U13-L01"
+      ],
+      "action_zh": "复看规律卡后更换人物、时间与限制条件，延后独立重做。"
+    }
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "B1-U13-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U13-CHECK--2026.10.22.1--text--f0f152c92e--normal.mp3",
+      "slow_file": "audio/files/B1-U13-CHECK--2026.10.22.1--text--f0f152c92e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U13-CHECK--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Dopravce oznámil zpoždění zásilky. Dopravní omezení se týká pouze jedné ulice. Cena dopravy se nemění.",
+      "duration_seconds": 10.164671201814059,
+      "slow_duration_seconds": 11.395328798185941,
+      "sha256": "5b6dfb998c4c039aebf0fef2eef9a2e5cd81fffac1b4cbc28c50cb4573456a9c",
+      "slow_sha256": "33d54565f75fbbfb990d6a6a9cbae2df21d9617db06b3be6ff3ffcfac0f96414"
+    },
+    {
+      "lesson_id": "B1-U13-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U13-CHECK--2026.10.22.1--text--f0f152c92e--normal.mp3",
+      "slow_file": "audio/files/B1-U13-CHECK--2026.10.22.1--text--f0f152c92e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U13-CHECK--2026.10.22.1--text--p0",
+      "asset_id": "B1-U13-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Dopravce oznámil zpoždění zásilky. Dopravní omezení se týká pouze jedné ulice. Cena dopravy se nemění.",
+      "start": 0,
+      "end": 9.98467120181406,
+      "slow_start": 0,
+      "slow_end": 11.215328798185942
+    },
+    {
+      "lesson_id": "B1-U13-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U13-CHECK--2026.10.22.1--text--f0f152c92e--normal.mp3",
+      "slow_file": "audio/files/B1-U13-CHECK--2026.10.22.1--text--f0f152c92e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U13-CHECK--2026.10.22.1--text--s0",
+      "asset_id": "B1-U13-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Dopravce oznámil zpoždění zásilky.",
+      "start": 0,
+      "end": 3.4481632653061225,
+      "slow_start": 0,
+      "slow_end": 3.9706122448979593
+    },
+    {
+      "lesson_id": "B1-U13-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U13-CHECK--2026.10.22.1--text--f0f152c92e--normal.mp3",
+      "slow_file": "audio/files/B1-U13-CHECK--2026.10.22.1--text--f0f152c92e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U13-CHECK--2026.10.22.1--text--s1",
+      "asset_id": "B1-U13-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Dopravní omezení se týká pouze jedné ulice.",
+      "start": 3.6281632653061227,
+      "end": 7.78453514739229,
+      "slow_start": 4.150612244897959,
+      "slow_end": 8.817823129251702
+    },
+    {
+      "lesson_id": "B1-U13-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U13-CHECK--2026.10.22.1--text--f0f152c92e--normal.mp3",
+      "slow_file": "audio/files/B1-U13-CHECK--2026.10.22.1--text--f0f152c92e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U13-CHECK--2026.10.22.1--text--s2",
+      "asset_id": "B1-U13-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Cena dopravy se nemění.",
+      "start": 7.96453514739229,
+      "end": 9.98467120181406,
+      "slow_start": 8.997823129251701,
+      "slow_end": 11.215328798185942
+    }
+  ]
+}

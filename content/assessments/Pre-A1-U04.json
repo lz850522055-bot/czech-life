@@ -1,0 +1,257 @@
+{
+  "id": "Pre-A1-U04-CHECK",
+  "kind": "unit",
+  "level": "Pre-A1",
+  "unit_id": "Pre-A1-U04",
+  "title_zh": "看懂di、ti、ni和ě的提示：换情境独立完成",
+  "version": "2026.10.22.1",
+  "unseen_text": [
+    {
+      "cs": "Dítě má pět let.",
+      "zh": "孩子五岁。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "cs": "Bydlí v malém městě.",
+      "zh": "他/她住在一个小城市。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "听到的年龄是多少？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "五"
+        },
+        {
+          "id": "b",
+          "text": "三"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "pět是五。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "listening"
+      ],
+      "error_category": "comprehension",
+      "audio_text_cs": "Dítě má pět let.",
+      "id": "Pre-A1-U04-CHECK-E01",
+      "knowledge_points": [
+        "soft-dtn",
+        "letter-e-caron"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "写出材料中表示孩子的主格形式。",
+      "stimulus_cs": "",
+      "answer": "dítě",
+      "accepted_answers": [
+        "dítě"
+      ],
+      "explanation_zh": "í和ě都要保留。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "spelling",
+      "id": "Pre-A1-U04-CHECK-E02",
+      "knowledge_points": [
+        "soft-dtn",
+        "letter-e-caron"
+      ]
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "读pět let和v městě，比较pě与mě。",
+      "stimulus_cs": "",
+      "answer": "Pět let. V městě.",
+      "accepted_answers": [],
+      "explanation_zh": "关注不同组合，允许慢读。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "Pre-A1-U04-CHECK-E03",
+      "knowledge_points": [
+        "soft-dtn",
+        "letter-e-caron"
+      ]
+    }
+  ],
+  "rubric": [
+    "能提取新材料中的关键事实，不靠背诵原文",
+    "能根据变化的条件组织一句或一段表达",
+    "能指出不确定之处并请求澄清"
+  ],
+  "remediation": [
+    {
+      "condition_zh": "目标规律使用不稳定或未能提取关键信息",
+      "lesson_ids": [
+        "Pre-A1-U04-L01"
+      ],
+      "action_zh": "返回规律卡，对照两例；隔一次其他练习后重做未见情境。"
+    }
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "Pre-A1-U04-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U04-CHECK--2026.10.22.1--text--74006ed833--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U04-CHECK--2026.10.22.1--text--74006ed833--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U04-CHECK--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Dítě má pět let. Bydlí v malém městě.",
+      "duration_seconds": 4.14485260770975,
+      "slow_duration_seconds": 4.713741496598639,
+      "sha256": "943633d3067276acbe8740b6e60436a8b634947aacc8350eaad9bcfb008d5c0a",
+      "slow_sha256": "ad8d8f6fe5bad0ca20e7009bf6ffbcd5f0b4293758f2889aeea21097c678f19f"
+    },
+    {
+      "lesson_id": "Pre-A1-U04-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U04-CHECK--2026.10.22.1--text--74006ed833--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U04-CHECK--2026.10.22.1--text--74006ed833--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U04-CHECK--2026.10.22.1--text--p0",
+      "asset_id": "Pre-A1-U04-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Dítě má pět let.",
+      "start": 0,
+      "end": 1.7182766439909296,
+      "slow_start": 0,
+      "slow_end": 1.9620861678004535
+    },
+    {
+      "lesson_id": "Pre-A1-U04-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U04-CHECK--2026.10.22.1--text--74006ed833--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U04-CHECK--2026.10.22.1--text--74006ed833--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U04-CHECK--2026.10.22.1--text--s0",
+      "asset_id": "Pre-A1-U04-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Dítě má pět let.",
+      "start": 0,
+      "end": 1.7182766439909296,
+      "slow_start": 0,
+      "slow_end": 1.9620861678004535
+    },
+    {
+      "lesson_id": "Pre-A1-U04-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U04-CHECK--2026.10.22.1--text--74006ed833--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U04-CHECK--2026.10.22.1--text--74006ed833--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U04-CHECK--2026.10.22.1--text--p1",
+      "asset_id": "Pre-A1-U04-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Bydlí v malém městě.",
+      "start": 1.8982766439909298,
+      "end": 3.9648526077097506,
+      "slow_start": 2.1420861678004535,
+      "slow_end": 4.53374149659864
+    },
+    {
+      "lesson_id": "Pre-A1-U04-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U04-CHECK--2026.10.22.1--text--74006ed833--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U04-CHECK--2026.10.22.1--text--74006ed833--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U04-CHECK--2026.10.22.1--text--s1",
+      "asset_id": "Pre-A1-U04-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 1,
+      "sentence_index": 0,
+      "text": "Bydlí v malém městě.",
+      "start": 1.8982766439909298,
+      "end": 3.9648526077097506,
+      "slow_start": 2.1420861678004535,
+      "slow_end": 4.53374149659864
+    },
+    {
+      "lesson_id": "Pre-A1-U04-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U04-CHECK--2026.10.22.1--exercises--e4c3d3693c--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U04-CHECK--2026.10.22.1--exercises--e4c3d3693c--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U04-CHECK--2026.10.22.1--exercises",
+      "role": "exercises-full",
+      "index": 0,
+      "text": "Dítě má pět let.",
+      "duration_seconds": 1.8634467120181406,
+      "slow_duration_seconds": 2.1653061224489796,
+      "sha256": "2fdc563a7b0cd137f071400846ffa74eb5b15bead59028462fa6c90d965f3bbf",
+      "slow_sha256": "aee6b3ed23fc765199e8dd4ef4f1e17545e389015d8ef95b29d1f76351867a12"
+    },
+    {
+      "lesson_id": "Pre-A1-U04-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U04-CHECK--2026.10.22.1--exercises--e4c3d3693c--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U04-CHECK--2026.10.22.1--exercises--e4c3d3693c--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U04-CHECK--2026.10.22.1--exercises--p0",
+      "asset_id": "Pre-A1-U04-CHECK--2026.10.22.1--exercises",
+      "role": "exercise",
+      "index": 0,
+      "exercise_id": "Pre-A1-U04-CHECK-E01",
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Dítě má pět let.",
+      "start": 0,
+      "end": 1.6834467120181407,
+      "slow_start": 0,
+      "slow_end": 1.9853061224489796
+    }
+  ]
+}

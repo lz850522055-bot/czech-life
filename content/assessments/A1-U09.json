@@ -1,0 +1,250 @@
+{
+  "id": "A1-U09-CHECK",
+  "kind": "unit",
+  "level": "A1",
+  "unit_id": "A1-U09",
+  "title_zh": "问路时同时听方向和目的地：换情境独立完成",
+  "version": "2026.10.22.1",
+  "unseen_text": [
+    {
+      "cs": "Jděte doleva. Lékárna je mezi bankou a poštou. Autobus tam nejede.",
+      "zh": "向左走，药房在银行和邮局之间，没有公交去那里。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "公交是否到那里？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "是"
+        },
+        {
+          "id": "b",
+          "text": "否"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "nejede是否定。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "listening"
+      ],
+      "error_category": "comprehension",
+      "audio_text_cs": "Autobus tam nejede.",
+      "id": "A1-U09-CHECK-E01",
+      "knowledge_points": [
+        "location-direction",
+        "transport-basic"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "“步行”捷语是什么？",
+      "stimulus_cs": "",
+      "answer": "pěšky",
+      "accepted_answers": [
+        "pěšky"
+      ],
+      "explanation_zh": "明确交通方式。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "meaning",
+      "id": "A1-U09-CHECK-E02",
+      "knowledge_points": [
+        "location-direction",
+        "transport-basic"
+      ]
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "给同伴说明位置和交通限制。",
+      "stimulus_cs": "",
+      "answer": "药房在银行与邮局之间，要按指引步行，公交不到。",
+      "accepted_answers": [],
+      "explanation_zh": "不把否定漏掉。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A1-U09-CHECK-E03",
+      "knowledge_points": [
+        "location-direction",
+        "transport-basic"
+      ]
+    }
+  ],
+  "rubric": [
+    "能提取新材料中的关键事实，不靠背诵原文",
+    "能根据变化的条件组织一句或一段表达",
+    "能指出不确定之处并请求澄清"
+  ],
+  "remediation": [
+    {
+      "condition_zh": "目标规律使用不稳定或未能提取关键信息",
+      "lesson_ids": [
+        "A1-U09-L01"
+      ],
+      "action_zh": "返回规律卡，对照两例；隔一次其他练习后重做未见情境。"
+    }
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "A1-U09-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U09-CHECK--2026.10.22.1--text--25f23ee506--normal.mp3",
+      "slow_file": "audio/files/A1-U09-CHECK--2026.10.22.1--text--25f23ee506--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U09-CHECK--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Jděte doleva. Lékárna je mezi bankou a poštou. Autobus tam nejede.",
+      "duration_seconds": 6.286938775510204,
+      "slow_duration_seconds": 6.995147392290249,
+      "sha256": "0864fdc51a6f67a6bdfe5c7a14574f9c26ee7e0f16a45797f05af7a811669b2a",
+      "slow_sha256": "aedc466dfa4dee8d78a96449f1bf20e2fa6ee5af827dd47a67fff7890c9d150b"
+    },
+    {
+      "lesson_id": "A1-U09-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U09-CHECK--2026.10.22.1--text--25f23ee506--normal.mp3",
+      "slow_file": "audio/files/A1-U09-CHECK--2026.10.22.1--text--25f23ee506--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U09-CHECK--2026.10.22.1--text--p0",
+      "asset_id": "A1-U09-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Jděte doleva. Lékárna je mezi bankou a poštou. Autobus tam nejede.",
+      "start": 0,
+      "end": 6.106938775510204,
+      "slow_start": 0,
+      "slow_end": 6.81514739229025
+    },
+    {
+      "lesson_id": "A1-U09-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U09-CHECK--2026.10.22.1--text--25f23ee506--normal.mp3",
+      "slow_file": "audio/files/A1-U09-CHECK--2026.10.22.1--text--25f23ee506--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U09-CHECK--2026.10.22.1--text--s0",
+      "asset_id": "A1-U09-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Jděte doleva.",
+      "start": 0,
+      "end": 1.1609977324263039,
+      "slow_start": 0,
+      "slow_end": 1.3119274376417234
+    },
+    {
+      "lesson_id": "A1-U09-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U09-CHECK--2026.10.22.1--text--25f23ee506--normal.mp3",
+      "slow_file": "audio/files/A1-U09-CHECK--2026.10.22.1--text--25f23ee506--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U09-CHECK--2026.10.22.1--text--s1",
+      "asset_id": "A1-U09-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Lékárna je mezi bankou a poštou.",
+      "start": 1.3409977324263038,
+      "end": 4.208662131519274,
+      "slow_start": 1.4919274376417233,
+      "slow_end": 4.719501133786848
+    },
+    {
+      "lesson_id": "A1-U09-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U09-CHECK--2026.10.22.1--text--25f23ee506--normal.mp3",
+      "slow_file": "audio/files/A1-U09-CHECK--2026.10.22.1--text--25f23ee506--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U09-CHECK--2026.10.22.1--text--s2",
+      "asset_id": "A1-U09-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Autobus tam nejede.",
+      "start": 4.388662131519275,
+      "end": 6.106938775510204,
+      "slow_start": 4.899501133786848,
+      "slow_end": 6.81514739229025
+    },
+    {
+      "lesson_id": "A1-U09-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U09-CHECK--2026.10.22.1--exercises--82dd7a58ce--normal.mp3",
+      "slow_file": "audio/files/A1-U09-CHECK--2026.10.22.1--exercises--82dd7a58ce--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U09-CHECK--2026.10.22.1--exercises",
+      "role": "exercises-full",
+      "index": 0,
+      "text": "Autobus tam nejede.",
+      "duration_seconds": 1.9447165532879818,
+      "slow_duration_seconds": 2.1420861678004535,
+      "sha256": "230e1595bdaf53319921dcaa452795cf9592a5da67c270326f37db7969c43af1",
+      "slow_sha256": "d66c0f209d13bdb6b68e3aaaf0355ddbd81c14a095450b6334e716ec57d7835c"
+    },
+    {
+      "lesson_id": "A1-U09-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U09-CHECK--2026.10.22.1--exercises--82dd7a58ce--normal.mp3",
+      "slow_file": "audio/files/A1-U09-CHECK--2026.10.22.1--exercises--82dd7a58ce--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U09-CHECK--2026.10.22.1--exercises--p0",
+      "asset_id": "A1-U09-CHECK--2026.10.22.1--exercises",
+      "role": "exercise",
+      "index": 0,
+      "exercise_id": "A1-U09-CHECK-E01",
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Autobus tam nejede.",
+      "start": 0,
+      "end": 1.7647165532879818,
+      "slow_start": 0,
+      "slow_end": 1.9620861678004535
+    }
+  ]
+}

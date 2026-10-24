@@ -1,0 +1,71 @@
+{
+  "id": "C1-U05-L01--2026.10.23.2--exercises",
+  "lesson_id": "C1-U05-L01",
+  "content_version": "2026.10.23.2",
+  "level": "C1",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Část lidí pouze změnila čas návštěvy. Proto budeme zvlášť sledovat nové uživatele.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "C1-U05-L01-E06",
+      "parts": [
+        "Část lidí pouze změnila čas návštěvy.",
+        "Proto budeme zvlášť sledovat nové uživatele."
+      ]
+    }
+  ],
+  "text_sha256": "4883c97262bbdae969500b66a62989853c04b2d189e113ff06a86316824db0a0",
+  "source_file": "content/lessons/C1/C1-U05-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U05-L01--2026.10.22.1--exercises--4883c97262--normal.mp3",
+  "slow_file": "content/audio/files/C1-U05-L01--2026.10.22.1--exercises--4883c97262--slow.mp3",
+  "duration_seconds": 7.767165532879819,
+  "slow_duration_seconds": 8.777233560090703,
+  "cues": [
+    {
+      "text": "Část lidí pouze změnila čas návštěvy. Proto budeme zvlášť sledovat nové uživatele.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "C1-U05-L01-E06",
+      "parts": [
+        "Část lidí pouze změnila čas návštěvy.",
+        "Proto budeme zvlášť sledovat nové uživatele."
+      ],
+      "start": 0.0,
+      "end": 7.587165532879818,
+      "sentences": [
+        {
+          "text": "Část lidí pouze změnila čas návštěvy.",
+          "start": 0.0,
+          "end": 3.6687528344671203,
+          "slow_start": 0.0,
+          "slow_end": 4.179591836734694
+        },
+        {
+          "text": "Proto budeme zvlášť sledovat nové uživatele.",
+          "start": 3.84875283446712,
+          "end": 7.587165532879818,
+          "slow_start": 4.359591836734694,
+          "slow_end": 8.597233560090704
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 8.597233560090704
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "b8a0bc749e27b7653cd53f116fece9a2a36e25adcf5fcef9207e404edf85e964",
+    "slow": "661211dcadabbb153b37d44340b44a8747cad0ed5a76cb79edfbd288c1e06d39"
+  },
+  "reused_from_track_id": "C1-U05-L01--2026.10.22.1--exercises",
+  "reused_at": "2026-10-22T20:54:51.203130+00:00",
+  "reuse_reason": "Exact normalized units/text_sha256 match; both original MP3 hashes verified. No speech synthesis in this revision."
+}

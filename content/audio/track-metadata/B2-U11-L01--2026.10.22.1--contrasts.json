@@ -1,0 +1,57 @@
+{
+  "id": "B2-U11-L01--2026.10.22.1--contrasts",
+  "lesson_id": "B2-U11-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B2",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "nemohu slíbit. nechci o tom mluvit.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "nemohu slíbit. nechci o tom mluvit."
+      ]
+    }
+  ],
+  "text_sha256": "5fd9a3943fbfcadd40fa084c2c4392babaec150b1cf5ab25cc60256359fcb0f2",
+  "source_file": "content/lessons/B2/B2-U11-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U11-L01--2026.10.22.1--contrasts--5fd9a3943f--normal.mp3",
+  "slow_file": "content/audio/files/B2-U11-L01--2026.10.22.1--contrasts--5fd9a3943f--slow.mp3",
+  "duration_seconds": 3.488843537414966,
+  "slow_duration_seconds": 4.057732426303855,
+  "cues": [
+    {
+      "text": "nemohu slíbit. nechci o tom mluvit.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "nemohu slíbit. nechci o tom mluvit."
+      ],
+      "start": 0.0,
+      "end": 3.308843537414966,
+      "sentences": [
+        {
+          "text": "nemohu slíbit. nechci o tom mluvit.",
+          "start": 0.0,
+          "end": 3.308843537414966,
+          "slow_start": 0.0,
+          "slow_end": 3.877732426303855
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 3.877732426303855
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "29196c0fcc2cd81cd68d144885fcce010973cbd96d12bcb3cda05a6aa6f8d49a",
+    "slow": "1ad82261f3dd78e65ebcc21e46f2c05d29c45d1a4d01a4cad9def2c30cbcb2d9"
+  }
+}

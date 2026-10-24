@@ -1,0 +1,75 @@
+{
+  "id": "C1-U12-CHECK--2026.10.22.1--text",
+  "lesson_id": "C1-U12-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Ve zprávě stojí: Zavedli jsme převratný systém. Ve skutečnosti se změnil pouze způsob potvrzování rezervací; ostatní kroky zůstaly stejné. Účastníci ocenili přehlednější potvrzení, nebyla však provedena celková analýza dopadu.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Ve zprávě stojí: Zavedli jsme převratný systém.",
+        "Ve skutečnosti se změnil pouze způsob potvrzování rezervací; ostatní kroky zůstaly stejné.",
+        "Účastníci ocenili přehlednější potvrzení, nebyla však provedena celková analýza dopadu."
+      ]
+    }
+  ],
+  "text_sha256": "adb81073417d7a7086f885e8fcf685412b69ee42f509247ecc99a82743fd7f03",
+  "source_file": "content/assessments/C1-U12.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U12-CHECK--2026.10.22.1--text--adb8107341--normal.mp3",
+  "slow_file": "content/audio/files/C1-U12-CHECK--2026.10.22.1--text--adb8107341--slow.mp3",
+  "duration_seconds": 20.93873015873016,
+  "slow_duration_seconds": 23.852834467120182,
+  "cues": [
+    {
+      "text": "Ve zprávě stojí: Zavedli jsme převratný systém. Ve skutečnosti se změnil pouze způsob potvrzování rezervací; ostatní kroky zůstaly stejné. Účastníci ocenili přehlednější potvrzení, nebyla však provedena celková analýza dopadu.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Ve zprávě stojí: Zavedli jsme převratný systém.",
+        "Ve skutečnosti se změnil pouze způsob potvrzování rezervací; ostatní kroky zůstaly stejné.",
+        "Účastníci ocenili přehlednější potvrzení, nebyla však provedena celková analýza dopadu."
+      ],
+      "start": 0.0,
+      "end": 20.75873015873016,
+      "sentences": [
+        {
+          "text": "Ve zprávě stojí: Zavedli jsme převratný systém.",
+          "start": 0.0,
+          "end": 4.46984126984127,
+          "slow_start": 0.0,
+          "slow_end": 5.038730158730159
+        },
+        {
+          "text": "Ve skutečnosti se změnil pouze způsob potvrzování rezervací; ostatní kroky zůstaly stejné.",
+          "start": 4.64984126984127,
+          "end": 12.718775510204082,
+          "slow_start": 5.218730158730159,
+          "slow_end": 14.611201814058957
+        },
+        {
+          "text": "Účastníci ocenili přehlednější potvrzení, nebyla však provedena celková analýza dopadu.",
+          "start": 12.898775510204082,
+          "end": 20.75873015873016,
+          "slow_start": 14.791201814058956,
+          "slow_end": 23.672834467120182
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 23.672834467120182
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "36164270de17b85aa14315e18d33d14025786ffafb66552636d6e87969deb3f4",
+    "slow": "74afaa3fca747fd1ab41a07cc0a181942e5cfb709e3655c938d87ac17e81b612"
+  }
+}

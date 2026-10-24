@@ -1,0 +1,202 @@
+{
+  "id": "A2-U02-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "A2-U02-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Přišli dva studenti.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Přišli dva studenti."
+      ]
+    },
+    {
+      "text": "Studentky čtou.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Studentky čtou."
+      ]
+    },
+    {
+      "text": "Každý člověk je jiný.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Každý člověk je jiný."
+      ]
+    },
+    {
+      "text": "Děti si hrají.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Děti si hrají."
+      ]
+    },
+    {
+      "text": "Používám slovník.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Používám slovník."
+      ]
+    },
+    {
+      "text": "Učebna je světlá.",
+      "index": 5,
+      "role": "vocabulary",
+      "parts": [
+        "Učebna je světlá."
+      ]
+    }
+  ],
+  "text_sha256": "410dbc1ca1751670ba94fdb14ae2b58914bf573fd1ce0e3821df158ff9994ddf",
+  "source_file": "content/lessons/A2/A2-U02-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U02-L01--2026.10.22.1--vocabulary--410dbc1ca1--normal.mp3",
+  "slow_file": "content/audio/files/A2-U02-L01--2026.10.22.1--vocabulary--410dbc1ca1--slow.mp3",
+  "duration_seconds": 11.122630385487529,
+  "slow_duration_seconds": 12.573877551020407,
+  "cues": [
+    {
+      "text": "Přišli dva studenti.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Přišli dva studenti."
+      ],
+      "start": 0.0,
+      "end": 1.7414965986394557,
+      "sentences": [
+        {
+          "text": "Přišli dva studenti.",
+          "start": 0.0,
+          "end": 1.7414965986394557,
+          "slow_start": 0.0,
+          "slow_end": 2.020136054421769
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.020136054421769
+    },
+    {
+      "text": "Studentky čtou.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Studentky čtou."
+      ],
+      "start": 1.9214965986394559,
+      "end": 3.512063492063492,
+      "sentences": [
+        {
+          "text": "Studentky čtou.",
+          "start": 1.9214965986394559,
+          "end": 3.512063492063492,
+          "slow_start": 2.2001360544217685,
+          "slow_end": 4.022902494331066
+        }
+      ],
+      "slow_start": 2.2001360544217685,
+      "slow_end": 4.022902494331066
+    },
+    {
+      "text": "Každý člověk je jiný.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Každý člověk je jiný."
+      ],
+      "start": 3.6920634920634923,
+      "end": 5.654149659863946,
+      "sentences": [
+        {
+          "text": "Každý člověk je jiný.",
+          "start": 3.6920634920634923,
+          "end": 5.654149659863946,
+          "slow_start": 4.202902494331066,
+          "slow_end": 6.420408163265306
+        }
+      ],
+      "slow_start": 4.202902494331066,
+      "slow_end": 6.420408163265306
+    },
+    {
+      "text": "Děti si hrají.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Děti si hrají."
+      ],
+      "start": 5.834149659863946,
+      "end": 7.099637188208617,
+      "sentences": [
+        {
+          "text": "Děti si hrají.",
+          "start": 5.834149659863946,
+          "end": 7.099637188208617,
+          "slow_start": 6.600408163265306,
+          "slow_end": 8.1097052154195
+        }
+      ],
+      "slow_start": 6.600408163265306,
+      "slow_end": 8.1097052154195
+    },
+    {
+      "text": "Používám slovník.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Používám slovník."
+      ],
+      "start": 7.279637188208617,
+      "end": 9.05596371882086,
+      "sentences": [
+        {
+          "text": "Používám slovník.",
+          "start": 7.279637188208617,
+          "end": 9.05596371882086,
+          "slow_start": 8.2897052154195,
+          "slow_end": 10.298231292517007
+        }
+      ],
+      "slow_start": 8.2897052154195,
+      "slow_end": 10.298231292517007
+    },
+    {
+      "text": "Učebna je světlá.",
+      "index": 5,
+      "role": "vocabulary",
+      "parts": [
+        "Učebna je světlá."
+      ],
+      "start": 9.235963718820862,
+      "end": 10.942630385487528,
+      "sentences": [
+        {
+          "text": "Učebna je světlá.",
+          "start": 9.235963718820862,
+          "end": 10.942630385487528,
+          "slow_start": 10.478231292517007,
+          "slow_end": 12.393877551020408
+        }
+      ],
+      "slow_start": 10.478231292517007,
+      "slow_end": 12.393877551020408
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "bb9669b5dc773d5de7c554e86416f4fd2839353ff13f29d6593de16b14564a03",
+    "slow": "3ff14fe03d036bbcaa9f0f2a410079328358cc4c99db571f11d94defee84f955"
+  }
+}

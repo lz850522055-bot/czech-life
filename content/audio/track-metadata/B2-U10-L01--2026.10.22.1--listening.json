@@ -1,0 +1,84 @@
+{
+  "id": "B2-U10-L01--2026.10.22.1--listening",
+  "lesson_id": "B2-U10-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B2",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Jestli zítra jen mírně zaprší, výlet nezrušíme; přesuneme část programu dovnitř. Kdyby však dopravce zrušil spojení, nejdřív ověříme jinou cestu. Bez potvrzené dopravy nevyjedeme. Kdybychom minulý rok rezervovali dřív, nemuseli bychom řešit oddělená místa.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Jestli zítra jen mírně zaprší, výlet nezrušíme; přesuneme část programu dovnitř.",
+        "Kdyby však dopravce zrušil spojení, nejdřív ověříme jinou cestu.",
+        "Bez potvrzené dopravy nevyjedeme.",
+        "Kdybychom minulý rok rezervovali dřív, nemuseli bychom řešit oddělená místa."
+      ]
+    }
+  ],
+  "text_sha256": "842061a353b92e3aaf2f2fd2e602396758daa7fad7d6e9b5ad64c64180c4c91b",
+  "source_file": "content/lessons/B2/B2-U10-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U10-L01--2026.10.22.1--listening--842061a353--normal.mp3",
+  "slow_file": "content/audio/files/B2-U10-L01--2026.10.22.1--listening--842061a353--slow.mp3",
+  "duration_seconds": 24.032834467120182,
+  "slow_duration_seconds": 27.213968253968254,
+  "cues": [
+    {
+      "text": "Jestli zítra jen mírně zaprší, výlet nezrušíme; přesuneme část programu dovnitř. Kdyby však dopravce zrušil spojení, nejdřív ověříme jinou cestu. Bez potvrzené dopravy nevyjedeme. Kdybychom minulý rok rezervovali dřív, nemuseli bychom řešit oddělená místa.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Jestli zítra jen mírně zaprší, výlet nezrušíme; přesuneme část programu dovnitř.",
+        "Kdyby však dopravce zrušil spojení, nejdřív ověříme jinou cestu.",
+        "Bez potvrzené dopravy nevyjedeme.",
+        "Kdybychom minulý rok rezervovali dřív, nemuseli bychom řešit oddělená místa."
+      ],
+      "start": 0.0,
+      "end": 23.852834467120182,
+      "sentences": [
+        {
+          "text": "Jestli zítra jen mírně zaprší, výlet nezrušíme; přesuneme část programu dovnitř.",
+          "start": 0.0,
+          "end": 8.161814058956915,
+          "slow_start": 0.0,
+          "slow_end": 9.148662131519274
+        },
+        {
+          "text": "Kdyby však dopravce zrušil spojení, nejdřív ověříme jinou cestu.",
+          "start": 8.341814058956917,
+          "end": 14.170022675736961,
+          "slow_start": 9.328662131519275,
+          "slow_end": 16.027619047619048
+        },
+        {
+          "text": "Bez potvrzené dopravy nevyjedeme.",
+          "start": 14.35002267573696,
+          "end": 17.078367346938776,
+          "slow_start": 16.207619047619048,
+          "slow_end": 19.249433106575964
+        },
+        {
+          "text": "Kdybychom minulý rok rezervovali dřív, nemuseli bychom řešit oddělená místa.",
+          "start": 17.258367346938776,
+          "end": 23.852834467120182,
+          "slow_start": 19.429433106575964,
+          "slow_end": 27.033968253968254
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 27.033968253968254
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "ae4a5091e77101f5b5899ef5b3ae4115cb887f4e01aeb89b3827b11205d61b0d",
+    "slow": "997cbd8c48ac6f9828ced151c67ef52ac722e0604ee03369b5d71b702f767148"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "B2-U06-L01--2026.10.22.1--exercises",
+  "lesson_id": "B2-U06-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B2",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Spíš v půl páté, ještě to potvrdím.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "B2-U06-L01-E03",
+      "parts": [
+        "Spíš v půl páté, ještě to potvrdím."
+      ]
+    }
+  ],
+  "text_sha256": "f3ccfb43ad024a0c246592725e24c6dff80baba816acfd97c9b4de180392d8a2",
+  "source_file": "content/lessons/B2/B2-U06-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U06-L01--2026.10.22.1--exercises--f3ccfb43ad--normal.mp3",
+  "slow_file": "content/audio/files/B2-U06-L01--2026.10.22.1--exercises--f3ccfb43ad--slow.mp3",
+  "duration_seconds": 3.6513832199546483,
+  "slow_duration_seconds": 4.139002267573696,
+  "cues": [
+    {
+      "text": "Spíš v půl páté, ještě to potvrdím.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "B2-U06-L01-E03",
+      "parts": [
+        "Spíš v půl páté, ještě to potvrdím."
+      ],
+      "start": 0.0,
+      "end": 3.4713832199546486,
+      "sentences": [
+        {
+          "text": "Spíš v půl páté, ještě to potvrdím.",
+          "start": 0.0,
+          "end": 3.4713832199546486,
+          "slow_start": 0.0,
+          "slow_end": 3.959002267573696
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 3.959002267573696
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "55b88c99cf8ca196bbbe308bc5fa2603736365004643d3701af0f42ed08c7d6b",
+    "slow": "2aaa20617a8e938c88800e71d1a7afb30f49884bd7763d053da1f41c373fd04e"
+  }
+}

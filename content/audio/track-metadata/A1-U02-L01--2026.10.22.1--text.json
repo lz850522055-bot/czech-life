@@ -1,0 +1,341 @@
+{
+  "id": "A1-U02-L01--2026.10.22.1--text",
+  "lesson_id": "A1-U02-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Tady je náš malý byt. To je kuchyň a vedle je pokoj.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Tady je náš malý byt.",
+        "To je kuchyň a vedle je pokoj."
+      ]
+    },
+    {
+      "text": "Ten stůl je nový, ale ta židle je stará. To okno je velké.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Ten stůl je nový, ale ta židle je stará.",
+        "To okno je velké."
+      ]
+    },
+    {
+      "text": "Na stole je telefon, kniha a malé rádio. Telefon je černý.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Na stole je telefon, kniha a malé rádio.",
+        "Telefon je černý."
+      ]
+    },
+    {
+      "text": "Kniha je česká. Rádio je bílé a velmi lehké.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Kniha je česká.",
+        "Rádio je bílé a velmi lehké."
+      ]
+    },
+    {
+      "text": "Kdo je na fotografii? To je můj kolega Pavel a moje kolegyně Eva.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Kdo je na fotografii?",
+        "To je můj kolega Pavel a moje kolegyně Eva."
+      ]
+    },
+    {
+      "text": "Pavel je nový učitel. Eva je dobrá lékařka.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Pavel je nový učitel.",
+        "Eva je dobrá lékařka."
+      ]
+    },
+    {
+      "text": "Je ten pokoj volný? Ano, je volný. Ta kuchyň je společná.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Je ten pokoj volný?",
+        "Ano, je volný.",
+        "Ta kuchyň je společná."
+      ]
+    },
+    {
+      "text": "Dobře, děkuju. Teď už vím, co je tady nové a co staré.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Dobře, děkuju.",
+        "Teď už vím, co je tady nové a co staré."
+      ]
+    }
+  ],
+  "text_sha256": "8771c48523ae6ffd05af9cf41cd6f8dcf457d4655773417f10200cdb7dc51ede",
+  "source_file": "content/lessons/A1/A1-U02-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--normal.mp3",
+  "slow_file": "content/audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--slow.mp3",
+  "duration_seconds": 42.52231292517007,
+  "slow_duration_seconds": 47.25918367346939,
+  "cues": [
+    {
+      "text": "Tady je náš malý byt. To je kuchyň a vedle je pokoj.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Tady je náš malý byt.",
+        "To je kuchyň a vedle je pokoj."
+      ],
+      "start": 0.0,
+      "end": 4.498911564625851,
+      "sentences": [
+        {
+          "text": "Tady je náš malý byt.",
+          "start": 0.0,
+          "end": 2.089795918367347,
+          "slow_start": 0.0,
+          "slow_end": 2.3103854875283445
+        },
+        {
+          "text": "To je kuchyň a vedle je pokoj.",
+          "start": 2.269795918367347,
+          "end": 4.498911564625851,
+          "slow_start": 2.4903854875283447,
+          "slow_end": 5.056190476190476
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 5.056190476190476
+    },
+    {
+      "text": "Ten stůl je nový, ale ta židle je stará. To okno je velké.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Ten stůl je nový, ale ta židle je stará.",
+        "To okno je velké."
+      ],
+      "start": 4.67891156462585,
+      "end": 10.292380952380952,
+      "sentences": [
+        {
+          "text": "Ten stůl je nový, ale ta židle je stará.",
+          "start": 4.67891156462585,
+          "end": 8.533424036281179,
+          "slow_start": 5.236190476190476,
+          "slow_end": 9.508662131519275
+        },
+        {
+          "text": "To okno je velké.",
+          "start": 8.713424036281179,
+          "end": 10.292380952380952,
+          "slow_start": 9.688662131519274,
+          "slow_end": 11.441768707482993
+        }
+      ],
+      "slow_start": 5.236190476190476,
+      "slow_end": 11.441768707482993
+    },
+    {
+      "text": "Na stole je telefon, kniha a malé rádio. Telefon je černý.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Na stole je telefon, kniha a malé rádio.",
+        "Telefon je černý."
+      ],
+      "start": 10.472380952380952,
+      "end": 16.085850340136055,
+      "sentences": [
+        {
+          "text": "Na stole je telefon, kniha a malé rádio.",
+          "start": 10.472380952380952,
+          "end": 14.141133786848073,
+          "slow_start": 11.621768707482993,
+          "slow_end": 15.534331065759638
+        },
+        {
+          "text": "Telefon je černý.",
+          "start": 14.321133786848073,
+          "end": 16.085850340136055,
+          "slow_start": 15.714331065759637,
+          "slow_end": 17.734467120181407
+        }
+      ],
+      "slow_start": 11.621768707482993,
+      "slow_end": 17.734467120181407
+    },
+    {
+      "text": "Kniha je česká. Rádio je bílé a velmi lehké.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Kniha je česká.",
+        "Rádio je bílé a velmi lehké."
+      ],
+      "start": 16.265850340136055,
+      "end": 20.90408163265306,
+      "sentences": [
+        {
+          "text": "Kniha je česká.",
+          "start": 16.265850340136055,
+          "end": 17.786757369614513,
+          "slow_start": 17.914467120181406,
+          "slow_end": 19.65596371882086
+        },
+        {
+          "text": "Rádio je bílé a velmi lehké.",
+          "start": 17.966757369614513,
+          "end": 20.90408163265306,
+          "slow_start": 19.83596371882086,
+          "slow_end": 23.098367346938776
+        }
+      ],
+      "slow_start": 17.914467120181406,
+      "slow_end": 23.098367346938776
+    },
+    {
+      "text": "Kdo je na fotografii? To je můj kolega Pavel a moje kolegyně Eva.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Kdo je na fotografii?",
+        "To je můj kolega Pavel a moje kolegyně Eva."
+      ],
+      "start": 21.08408163265306,
+      "end": 26.511791383219954,
+      "sentences": [
+        {
+          "text": "Kdo je na fotografii?",
+          "start": 21.08408163265306,
+          "end": 22.813968253968255,
+          "slow_start": 23.278367346938776,
+          "slow_end": 25.24045351473923
+        },
+        {
+          "text": "To je můj kolega Pavel a moje kolegyně Eva.",
+          "start": 22.993968253968255,
+          "end": 26.511791383219954,
+          "slow_start": 25.42045351473923,
+          "slow_end": 29.495555555555555
+        }
+      ],
+      "slow_start": 23.278367346938776,
+      "slow_end": 29.495555555555555
+    },
+    {
+      "text": "Pavel je nový učitel. Eva je dobrá lékařka.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Pavel je nový učitel.",
+        "Eva je dobrá lékařka."
+      ],
+      "start": 26.691791383219954,
+      "end": 31.0978231292517,
+      "sentences": [
+        {
+          "text": "Pavel je nový učitel.",
+          "start": 26.691791383219954,
+          "end": 28.828027210884354,
+          "slow_start": 29.675555555555555,
+          "slow_end": 32.06721088435374
+        },
+        {
+          "text": "Eva je dobrá lékařka.",
+          "start": 29.008027210884354,
+          "end": 31.0978231292517,
+          "slow_start": 32.24721088435374,
+          "slow_end": 34.557596371882084
+        }
+      ],
+      "slow_start": 29.675555555555555,
+      "slow_end": 34.557596371882084
+    },
+    {
+      "text": "Je ten pokoj volný? Ano, je volný. Ta kuchyň je společná.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Je ten pokoj volný?",
+        "Ano, je volný.",
+        "Ta kuchyň je společná."
+      ],
+      "start": 31.2778231292517,
+      "end": 36.93197278911565,
+      "sentences": [
+        {
+          "text": "Je ten pokoj volný?",
+          "start": 31.2778231292517,
+          "end": 33.12380952380953,
+          "slow_start": 34.737596371882084,
+          "slow_end": 36.74612244897959
+        },
+        {
+          "text": "Ano, je volný.",
+          "start": 33.30380952380953,
+          "end": 34.813106575963715,
+          "slow_start": 36.92612244897959,
+          "slow_end": 38.69083900226757
+        },
+        {
+          "text": "Ta kuchyň je společná.",
+          "start": 34.99310657596372,
+          "end": 36.93197278911565,
+          "slow_start": 38.87083900226757,
+          "slow_end": 41.065124716553285
+        }
+      ],
+      "slow_start": 34.737596371882084,
+      "slow_end": 41.065124716553285
+    },
+    {
+      "text": "Dobře, děkuju. Teď už vím, co je tady nové a co staré.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Dobře, děkuju.",
+        "Teď už vím, co je tady nové a co staré."
+      ],
+      "start": 37.11197278911565,
+      "end": 42.34231292517007,
+      "sentences": [
+        {
+          "text": "Dobře, děkuju.",
+          "start": 37.11197278911565,
+          "end": 38.50517006802721,
+          "slow_start": 41.245124716553285,
+          "slow_end": 42.789251700680275
+        },
+        {
+          "text": "Teď už vím, co je tady nové a co staré.",
+          "start": 38.68517006802721,
+          "end": 42.34231292517007,
+          "slow_start": 42.969251700680275,
+          "slow_end": 47.07918367346939
+        }
+      ],
+      "slow_start": 41.245124716553285,
+      "slow_end": 47.07918367346939
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "0fee63ec7652b62089194deac16bfb30f330428cf65baf0aca56710e07537bac",
+    "slow": "3badb385916aaf6a8fafa0cd2512b861ea7564f37b00b57e9c7879e94c7fdb54"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "A2-U06-CHECK--2026.10.22.1--text",
+  "lesson_id": "A2-U06-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Obraz visí nad stolem. Nový obraz pověsíme nad postel. Do práce jezdím vlakem.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Obraz visí nad stolem.",
+        "Nový obraz pověsíme nad postel.",
+        "Do práce jezdím vlakem."
+      ]
+    }
+  ],
+  "text_sha256": "c88470411bac9801e653a486f77271949c46d0b78d008e582706d226d1415d76",
+  "source_file": "content/assessments/A2-U06.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U06-CHECK--2026.10.22.1--text--c88470411b--normal.mp3",
+  "slow_file": "content/audio/files/A2-U06-CHECK--2026.10.22.1--text--c88470411b--slow.mp3",
+  "duration_seconds": 7.831065759637188,
+  "slow_duration_seconds": 8.79469387755102,
+  "cues": [
+    {
+      "text": "Obraz visí nad stolem. Nový obraz pověsíme nad postel. Do práce jezdím vlakem.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Obraz visí nad stolem.",
+        "Nový obraz pověsíme nad postel.",
+        "Do práce jezdím vlakem."
+      ],
+      "start": 0.0,
+      "end": 7.651065759637188,
+      "sentences": [
+        {
+          "text": "Obraz visí nad stolem.",
+          "start": 0.0,
+          "end": 2.159455782312925,
+          "slow_start": 0.0,
+          "slow_end": 2.449705215419501
+        },
+        {
+          "text": "Nový obraz pověsíme nad postel.",
+          "start": 2.339455782312925,
+          "end": 5.45092970521542,
+          "slow_start": 2.6297052154195013,
+          "slow_end": 6.182358276643991
+        },
+        {
+          "text": "Do práce jezdím vlakem.",
+          "start": 5.6309297052154195,
+          "end": 7.651065759637188,
+          "slow_start": 6.362358276643991,
+          "slow_end": 8.614693877551021
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 8.614693877551021
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "5584390e2f2102a97bace931099eff8b979b09143a6e70324b2f5acacb958cfc",
+    "slow": "06333fe1bb930f12b95a3749329216ce7cf1d2b6c4be77b60e73fbdcadfb8e18"
+  }
+}

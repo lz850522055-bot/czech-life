@@ -1,0 +1,428 @@
+{
+  "id": "A1-U09-L01--2026.10.22.1--text",
+  "lesson_id": "A1-U09-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Promiňte, kde je knihovna? Jsem tady poprvé.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Promiňte, kde je knihovna?",
+        "Jsem tady poprvé."
+      ]
+    },
+    {
+      "text": "Knihovna je za parkem. Jděte rovně a potom doleva.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Knihovna je za parkem.",
+        "Jděte rovně a potom doleva."
+      ]
+    },
+    {
+      "text": "Je to daleko? Mám jen půl hodiny.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Je to daleko?",
+        "Mám jen půl hodiny."
+      ]
+    },
+    {
+      "text": "Pěšky asi patnáct minut. Můžete jet také autobusem.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Pěšky asi patnáct minut.",
+        "Můžete jet také autobusem."
+      ]
+    },
+    {
+      "text": "Který autobus tam jede? A kde je zastávka?",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Který autobus tam jede?",
+        "A kde je zastávka?"
+      ]
+    },
+    {
+      "text": "Autobus číslo dvanáct. Zastávka je naproti obchodu.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Autobus číslo dvanáct.",
+        "Zastávka je naproti obchodu."
+      ]
+    },
+    {
+      "text": "Kde mám vystoupit?",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Kde mám vystoupit?"
+      ]
+    },
+    {
+      "text": "Na druhé zastávce. Potom přejděte ulici a knihovna je vpravo.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Na druhé zastávce.",
+        "Potom přejděte ulici a knihovna je vpravo."
+      ]
+    },
+    {
+      "text": "Takže dvanáctkou, dvě zastávky a potom vpravo?",
+      "index": 8,
+      "role": "text",
+      "parts": [
+        "Takže dvanáctkou, dvě zastávky a potom vpravo?"
+      ]
+    },
+    {
+      "text": "Ano. Ale nejdřív bezpečně přejděte ulici.",
+      "index": 9,
+      "role": "text",
+      "parts": [
+        "Ano.",
+        "Ale nejdřív bezpečně přejděte ulici."
+      ]
+    },
+    {
+      "text": "Můžete mi to ukázat na mapě? Ano, tady jsme a tady je knihovna.",
+      "index": 10,
+      "role": "text",
+      "parts": [
+        "Můžete mi to ukázat na mapě?",
+        "Ano, tady jsme a tady je knihovna."
+      ]
+    }
+  ],
+  "text_sha256": "bddecb34636333417bfeb00f75de51796ecef1a28225d8c4b5114b0d07e122bb",
+  "source_file": "content/lessons/A1/A1-U09-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U09-L01--2026.10.22.1--text--bddecb3463--normal.mp3",
+  "slow_file": "content/audio/files/A1-U09-L01--2026.10.22.1--text--bddecb3463--slow.mp3",
+  "duration_seconds": 48.49578231292517,
+  "slow_duration_seconds": 54.38204081632653,
+  "cues": [
+    {
+      "text": "Promiňte, kde je knihovna? Jsem tady poprvé.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Promiňte, kde je knihovna?",
+        "Jsem tady poprvé."
+      ],
+      "start": 0.0,
+      "end": 4.069342403628118,
+      "sentences": [
+        {
+          "text": "Promiňte, kde je knihovna?",
+          "start": 0.0,
+          "end": 2.1942857142857144,
+          "slow_start": 0.0,
+          "slow_end": 2.36843537414966
+        },
+        {
+          "text": "Jsem tady poprvé.",
+          "start": 2.374285714285714,
+          "end": 4.069342403628118,
+          "slow_start": 2.5484353741496597,
+          "slow_end": 4.475691609977324
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 4.475691609977324
+    },
+    {
+      "text": "Knihovna je za parkem. Jděte rovně a potom doleva.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Knihovna je za parkem.",
+        "Jděte rovně a potom doleva."
+      ],
+      "start": 4.249342403628118,
+      "end": 8.550884353741496,
+      "sentences": [
+        {
+          "text": "Knihovna je za parkem.",
+          "start": 4.249342403628118,
+          "end": 5.956009070294785,
+          "slow_start": 4.655691609977325,
+          "slow_end": 6.66421768707483
+        },
+        {
+          "text": "Jděte rovně a potom doleva.",
+          "start": 6.136009070294785,
+          "end": 8.550884353741496,
+          "slow_start": 6.84421768707483,
+          "slow_end": 9.468072562358277
+        }
+      ],
+      "slow_start": 4.655691609977325,
+      "slow_end": 9.468072562358277
+    },
+    {
+      "text": "Je to daleko? Mám jen půl hodiny.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Je to daleko?",
+        "Mám jen půl hodiny."
+      ],
+      "start": 8.730884353741496,
+      "end": 11.952698412698412,
+      "sentences": [
+        {
+          "text": "Je to daleko?",
+          "start": 8.730884353741496,
+          "end": 9.949931972789116,
+          "slow_start": 9.648072562358276,
+          "slow_end": 11.052879818594104
+        },
+        {
+          "text": "Mám jen půl hodiny.",
+          "start": 10.129931972789116,
+          "end": 11.952698412698412,
+          "slow_start": 11.232879818594105,
+          "slow_end": 13.253015873015872
+        }
+      ],
+      "slow_start": 9.648072562358276,
+      "slow_end": 13.253015873015872
+    },
+    {
+      "text": "Pěšky asi patnáct minut. Můžete jet také autobusem.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Pěšky asi patnáct minut.",
+        "Můžete jet také autobusem."
+      ],
+      "start": 12.132698412698412,
+      "end": 17.4675283446712,
+      "sentences": [
+        {
+          "text": "Pěšky asi patnáct minut.",
+          "start": 12.132698412698412,
+          "end": 14.826213151927437,
+          "slow_start": 13.433015873015872,
+          "slow_end": 16.381950113378686
+        },
+        {
+          "text": "Můžete jet také autobusem.",
+          "start": 15.006213151927438,
+          "end": 17.4675283446712,
+          "slow_start": 16.561950113378686,
+          "slow_end": 19.359954648526077
+        }
+      ],
+      "slow_start": 13.433015873015872,
+      "slow_end": 19.359954648526077
+    },
+    {
+      "text": "Který autobus tam jede? A kde je zastávka?",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Který autobus tam jede?",
+        "A kde je zastávka?"
+      ],
+      "start": 17.6475283446712,
+      "end": 21.821360544217686,
+      "sentences": [
+        {
+          "text": "Který autobus tam jede?",
+          "start": 17.6475283446712,
+          "end": 19.957913832199548,
+          "slow_start": 19.539954648526077,
+          "slow_end": 22.198639455782313
+        },
+        {
+          "text": "A kde je zastávka?",
+          "start": 20.137913832199548,
+          "end": 21.821360544217686,
+          "slow_start": 22.378639455782313,
+          "slow_end": 24.24784580498866
+        }
+      ],
+      "slow_start": 19.539954648526077,
+      "slow_end": 24.24784580498866
+    },
+    {
+      "text": "Autobus číslo dvanáct. Zastávka je naproti obchodu.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Autobus číslo dvanáct.",
+        "Zastávka je naproti obchodu."
+      ],
+      "start": 22.001360544217686,
+      "end": 26.802131519274376,
+      "sentences": [
+        {
+          "text": "Autobus číslo dvanáct.",
+          "start": 22.001360544217686,
+          "end": 24.253696145124717,
+          "slow_start": 24.427845804988664,
+          "slow_end": 27.06331065759637
+        },
+        {
+          "text": "Zastávka je naproti obchodu.",
+          "start": 24.433696145124717,
+          "end": 26.802131519274376,
+          "slow_start": 27.24331065759637,
+          "slow_end": 30.006485260770976
+        }
+      ],
+      "slow_start": 24.427845804988664,
+      "slow_end": 30.006485260770976
+    },
+    {
+      "text": "Kde mám vystoupit?",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Kde mám vystoupit?"
+      ],
+      "start": 26.982131519274375,
+      "end": 28.56108843537415,
+      "sentences": [
+        {
+          "text": "Kde mám vystoupit?",
+          "start": 26.982131519274375,
+          "end": 28.56108843537415,
+          "slow_start": 30.186485260770976,
+          "slow_end": 32.009251700680274
+        }
+      ],
+      "slow_start": 30.186485260770976,
+      "slow_end": 32.009251700680274
+    },
+    {
+      "text": "Na druhé zastávce. Potom přejděte ulici a knihovna je vpravo.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Na druhé zastávce.",
+        "Potom přejděte ulici a knihovna je vpravo."
+      ],
+      "start": 28.74108843537415,
+      "end": 34.238458049886624,
+      "sentences": [
+        {
+          "text": "Na druhé zastávce.",
+          "start": 28.74108843537415,
+          "end": 30.447755102040816,
+          "slow_start": 32.18925170068027,
+          "slow_end": 34.18616780045352
+        },
+        {
+          "text": "Potom přejděte ulici a knihovna je vpravo.",
+          "start": 30.627755102040815,
+          "end": 34.238458049886624,
+          "slow_start": 34.36616780045352,
+          "slow_end": 38.278730158730156
+        }
+      ],
+      "slow_start": 32.18925170068027,
+      "slow_end": 38.278730158730156
+    },
+    {
+      "text": "Takže dvanáctkou, dvě zastávky a potom vpravo?",
+      "index": 8,
+      "role": "text",
+      "parts": [
+        "Takže dvanáctkou, dvě zastávky a potom vpravo?"
+      ],
+      "start": 34.418458049886624,
+      "end": 38.54,
+      "sentences": [
+        {
+          "text": "Takže dvanáctkou, dvě zastávky a potom vpravo?",
+          "start": 34.418458049886624,
+          "end": 38.54,
+          "slow_start": 38.458730158730155,
+          "slow_end": 43.18399092970522
+        }
+      ],
+      "slow_start": 38.458730158730155,
+      "slow_end": 43.18399092970522
+    },
+    {
+      "text": "Ano. Ale nejdřív bezpečně přejděte ulici.",
+      "index": 9,
+      "role": "text",
+      "parts": [
+        "Ano.",
+        "Ale nejdřív bezpečně přejděte ulici."
+      ],
+      "start": 38.72,
+      "end": 42.591972789115644,
+      "sentences": [
+        {
+          "text": "Ano.",
+          "start": 38.72,
+          "end": 39.300498866213154,
+          "slow_start": 43.36399092970522,
+          "slow_end": 43.95609977324263
+        },
+        {
+          "text": "Ale nejdřív bezpečně přejděte ulici.",
+          "start": 39.48049886621315,
+          "end": 42.591972789115644,
+          "slow_start": 44.13609977324263,
+          "slow_end": 47.66553287981859
+        }
+      ],
+      "slow_start": 43.36399092970522,
+      "slow_end": 47.66553287981859
+    },
+    {
+      "text": "Můžete mi to ukázat na mapě? Ano, tady jsme a tady je knihovna.",
+      "index": 10,
+      "role": "text",
+      "parts": [
+        "Můžete mi to ukázat na mapě?",
+        "Ano, tady jsme a tady je knihovna."
+      ],
+      "start": 42.771972789115644,
+      "end": 48.31578231292517,
+      "sentences": [
+        {
+          "text": "Můžete mi to ukázat na mapě?",
+          "start": 42.771972789115644,
+          "end": 45.31455782312925,
+          "slow_start": 47.84553287981859,
+          "slow_end": 50.759637188208615
+        },
+        {
+          "text": "Ano, tady jsme a tady je knihovna.",
+          "start": 45.49455782312925,
+          "end": 48.31578231292517,
+          "slow_start": 50.939637188208614,
+          "slow_end": 54.20204081632653
+        }
+      ],
+      "slow_start": 47.84553287981859,
+      "slow_end": 54.20204081632653
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "5a0218554b12d7d01655f53ec3fa7b270c7b74bce6a3edcec683de4b3d17c8f2",
+    "slow": "1e72c63bbf147f442623a1edafd6d2612fe9cf04af7ccd9e5a7b23f9c3715b53"
+  }
+}

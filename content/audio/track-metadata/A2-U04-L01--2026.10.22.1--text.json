@@ -1,0 +1,350 @@
+{
+  "id": "A2-U04-L01--2026.10.22.1--text",
+  "lesson_id": "A2-U04-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Po společném kurzu zůstalo v učebně několik věcí. Jana našla na stole černý telefon a vedle něj modrou tašku.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Po společném kurzu zůstalo v učebně několik věcí.",
+        "Jana našla na stole černý telefon a vedle něj modrou tašku."
+      ]
+    },
+    {
+      "text": "Myslela si, že telefon patří Petrovi, protože ho viděla u stejného stolu. Taška ale nebyla jeho.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Myslela si, že telefon patří Petrovi, protože ho viděla u stejného stolu.",
+        "Taška ale nebyla jeho."
+      ]
+    },
+    {
+      "text": "Zavolala mu ze svého telefonu a zeptala se: Petře, nechal jsi tady svůj telefon? Mám ho u sebe.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Zavolala mu ze svého telefonu a zeptala se: Petře, nechal jsi tady svůj telefon?",
+        "Mám ho u sebe."
+      ]
+    },
+    {
+      "text": "Petr odpověděl, že svůj telefon má doma. Černý telefon je možná Pavlův. Pavel dnes spěchal a odešel první.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Petr odpověděl, že svůj telefon má doma.",
+        "Černý telefon je možná Pavlův.",
+        "Pavel dnes spěchal a odešel první."
+      ]
+    },
+    {
+      "text": "Jana proto napsala Pavlovi. Požádala ho, aby popsal svůj telefon. Nechtěla předat cizí věc nesprávnému člověku.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Jana proto napsala Pavlovi.",
+        "Požádala ho, aby popsal svůj telefon.",
+        "Nechtěla předat cizí věc nesprávnému člověku."
+      ]
+    },
+    {
+      "text": "Pavel napsal, že jeho telefon má na zadní straně malou bílou nálepku. Jana ji našla a domluvila s ním předání.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Pavel napsal, že jeho telefon má na zadní straně malou bílou nálepku.",
+        "Jana ji našla a domluvila s ním předání."
+      ]
+    },
+    {
+      "text": "Modrou tašku si později vyzvedla Eva. Byla její, ale kniha uvnitř patřila její sestře.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Modrou tašku si později vyzvedla Eva.",
+        "Byla její, ale kniha uvnitř patřila její sestře."
+      ]
+    },
+    {
+      "text": "Nakonec Jana všem připomněla, aby si před odchodem zkontrolovali své věci. Když není jasné, koho znamená on nebo ona, je lepší zopakovat jméno.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Nakonec Jana všem připomněla, aby si před odchodem zkontrolovali své věci.",
+        "Když není jasné, koho znamená on nebo ona, je lepší zopakovat jméno."
+      ]
+    }
+  ],
+  "text_sha256": "e7181c8171af601cacac5a9ca82dc583401d2ba26d109f6c7d3042314e85a395",
+  "source_file": "content/lessons/A2/A2-U04-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--normal.mp3",
+  "slow_file": "content/audio/files/A2-U04-L01--2026.10.22.1--text--e7181c8171--slow.mp3",
+  "duration_seconds": 79.86585034013605,
+  "slow_duration_seconds": 89.9665306122449,
+  "cues": [
+    {
+      "text": "Po společném kurzu zůstalo v učebně několik věcí. Jana našla na stole černý telefon a vedle něj modrou tašku.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Po společném kurzu zůstalo v učebně několik věcí.",
+        "Jana našla na stole černý telefon a vedle něj modrou tašku."
+      ],
+      "start": 0.0,
+      "end": 9.700181405895691,
+      "sentences": [
+        {
+          "text": "Po společném kurzu zůstalo v učebně několik věcí.",
+          "start": 0.0,
+          "end": 4.260861678004535,
+          "slow_start": 0.0,
+          "slow_end": 4.829750566893424
+        },
+        {
+          "text": "Jana našla na stole černý telefon a vedle něj modrou tašku.",
+          "start": 4.440861678004535,
+          "end": 9.700181405895691,
+          "slow_start": 5.009750566893424,
+          "slow_end": 11.023718820861678
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 11.023718820861678
+    },
+    {
+      "text": "Myslela si, že telefon patří Petrovi, protože ho viděla u stejného stolu. Taška ale nebyla jeho.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Myslela si, že telefon patří Petrovi, protože ho viděla u stejného stolu.",
+        "Taška ale nebyla jeho."
+      ],
+      "start": 9.880181405895692,
+      "end": 18.593514739229025,
+      "sentences": [
+        {
+          "text": "Myslela si, že telefon patří Petrovi, protože ho viděla u stejného stolu.",
+          "start": 9.880181405895692,
+          "end": 16.41659863945578,
+          "slow_start": 11.203718820861678,
+          "slow_end": 18.50639455782313
+        },
+        {
+          "text": "Taška ale nebyla jeho.",
+          "start": 16.59659863945578,
+          "end": 18.593514739229025,
+          "slow_start": 18.686394557823128,
+          "slow_end": 20.973560090702946
+        }
+      ],
+      "slow_start": 11.203718820861678,
+      "slow_end": 20.973560090702946
+    },
+    {
+      "text": "Zavolala mu ze svého telefonu a zeptala se: Petře, nechal jsi tady svůj telefon? Mám ho u sebe.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Zavolala mu ze svého telefonu a zeptala se: Petře, nechal jsi tady svůj telefon?",
+        "Mám ho u sebe."
+      ],
+      "start": 18.773514739229025,
+      "end": 27.591337868480725,
+      "sentences": [
+        {
+          "text": "Zavolala mu ze svého telefonu a zeptala se: Petře, nechal jsi tady svůj telefon?",
+          "start": 18.773514739229025,
+          "end": 25.890430839002267,
+          "slow_start": 21.153560090702946,
+          "slow_end": 29.152834467120183
+        },
+        {
+          "text": "Mám ho u sebe.",
+          "start": 26.070430839002267,
+          "end": 27.591337868480725,
+          "slow_start": 29.332834467120183,
+          "slow_end": 31.09755102040816
+        }
+      ],
+      "slow_start": 21.153560090702946,
+      "slow_end": 31.09755102040816
+    },
+    {
+      "text": "Petr odpověděl, že svůj telefon má doma. Černý telefon je možná Pavlův. Pavel dnes spěchal a odešel první.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Petr odpověděl, že svůj telefon má doma.",
+        "Černý telefon je možná Pavlův.",
+        "Pavel dnes spěchal a odešel první."
+      ],
+      "start": 27.771337868480725,
+      "end": 37.66312925170068,
+      "sentences": [
+        {
+          "text": "Petr odpověděl, že svůj telefon má doma.",
+          "start": 27.771337868480725,
+          "end": 31.393650793650792,
+          "slow_start": 31.277551020408165,
+          "slow_end": 35.236553287981856
+        },
+        {
+          "text": "Černý telefon je možná Pavlův.",
+          "start": 31.573650793650792,
+          "end": 34.31360544217687,
+          "slow_start": 35.41655328798186,
+          "slow_end": 38.690566893424034
+        },
+        {
+          "text": "Pavel dnes spěchal a odešel první.",
+          "start": 34.49360544217687,
+          "end": 37.66312925170068,
+          "slow_start": 38.870566893424034,
+          "slow_end": 42.52770975056689
+        }
+      ],
+      "slow_start": 31.277551020408165,
+      "slow_end": 42.52770975056689
+    },
+    {
+      "text": "Jana proto napsala Pavlovi. Požádala ho, aby popsal svůj telefon. Nechtěla předat cizí věc nesprávnému člověku.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Jana proto napsala Pavlovi.",
+        "Požádala ho, aby popsal svůj telefon.",
+        "Nechtěla předat cizí věc nesprávnému člověku."
+      ],
+      "start": 37.84312925170068,
+      "end": 48.3734693877551,
+      "sentences": [
+        {
+          "text": "Jana proto napsala Pavlovi.",
+          "start": 37.84312925170068,
+          "end": 40.199954648526074,
+          "slow_start": 42.70770975056689,
+          "slow_end": 45.401224489795915
+        },
+        {
+          "text": "Požádala ho, aby popsal svůj telefon.",
+          "start": 40.37995464852608,
+          "end": 44.12997732426304,
+          "slow_start": 45.58122448979592,
+          "slow_end": 49.65632653061225
+        },
+        {
+          "text": "Nechtěla předat cizí věc nesprávnému člověku.",
+          "start": 44.30997732426304,
+          "end": 48.3734693877551,
+          "slow_start": 49.83632653061225,
+          "slow_end": 54.44548752834467
+        }
+      ],
+      "slow_start": 42.70770975056689,
+      "slow_end": 54.44548752834467
+    },
+    {
+      "text": "Pavel napsal, že jeho telefon má na zadní straně malou bílou nálepku. Jana ji našla a domluvila s ním předání.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Pavel napsal, že jeho telefon má na zadní straně malou bílou nálepku.",
+        "Jana ji našla a domluvila s ním předání."
+      ],
+      "start": 48.5534693877551,
+      "end": 58.47424036281179,
+      "sentences": [
+        {
+          "text": "Pavel napsal, že jeho telefon má na zadní straně malou bílou nálepku.",
+          "start": 48.5534693877551,
+          "end": 54.68353741496599,
+          "slow_start": 54.62548752834467,
+          "slow_end": 61.69596371882086
+        },
+        {
+          "text": "Jana ji našla a domluvila s ním předání.",
+          "start": 54.86353741496599,
+          "end": 58.47424036281179,
+          "slow_start": 61.87596371882086,
+          "slow_end": 65.76530612244898
+        }
+      ],
+      "slow_start": 54.62548752834467,
+      "slow_end": 65.76530612244898
+    },
+    {
+      "text": "Modrou tašku si později vyzvedla Eva. Byla její, ale kniha uvnitř patřila její sestře.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Modrou tašku si později vyzvedla Eva.",
+        "Byla její, ale kniha uvnitř patřila její sestře."
+      ],
+      "start": 58.65424036281179,
+      "end": 66.93800453514739,
+      "sentences": [
+        {
+          "text": "Modrou tašku si později vyzvedla Eva.",
+          "start": 58.65424036281179,
+          "end": 61.88181405895691,
+          "slow_start": 65.94530612244898,
+          "slow_end": 69.6140589569161
+        },
+        {
+          "text": "Byla její, ale kniha uvnitř patřila její sestře.",
+          "start": 62.06181405895692,
+          "end": 66.93800453514739,
+          "slow_start": 69.7940589569161,
+          "slow_end": 75.34362811791384
+        }
+      ],
+      "slow_start": 65.94530612244898,
+      "slow_end": 75.34362811791384
+    },
+    {
+      "text": "Nakonec Jana všem připomněla, aby si před odchodem zkontrolovali své věci. Když není jasné, koho znamená on nebo ona, je lepší zopakovat jméno.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Nakonec Jana všem připomněla, aby si před odchodem zkontrolovali své věci.",
+        "Když není jasné, koho znamená on nebo ona, je lepší zopakovat jméno."
+      ],
+      "start": 67.11800453514739,
+      "end": 79.68585034013606,
+      "sentences": [
+        {
+          "text": "Nakonec Jana všem připomněla, aby si před odchodem zkontrolovali své věci.",
+          "start": 67.11800453514739,
+          "end": 73.32934240362812,
+          "slow_start": 75.52362811791383,
+          "slow_end": 82.53605442176871
+        },
+        {
+          "text": "Když není jasné, koho znamená on nebo ona, je lepší zopakovat jméno.",
+          "start": 73.50934240362812,
+          "end": 79.68585034013606,
+          "slow_start": 82.7160544217687,
+          "slow_end": 89.7865306122449
+        }
+      ],
+      "slow_start": 75.52362811791383,
+      "slow_end": 89.7865306122449
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "88113784c93590c1e2a72051cc72646f79330219d8e0d32786347c8409a570e4",
+    "slow": "87d2d7d01f4e1aff1cd5826dbe15b1a70d97ee02a364adb8326fe4cea4574728"
+  }
+}

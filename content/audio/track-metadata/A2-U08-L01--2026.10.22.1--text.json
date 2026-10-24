@@ -1,0 +1,500 @@
+{
+  "id": "A2-U08-L01--2026.10.22.1--text",
+  "lesson_id": "A2-U08-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Dobrý den, tady Li. Volám kvůli zítřejší schůzce. Můžu prosím mluvit s paní Novákovou?",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Dobrý den, tady Li.",
+        "Volám kvůli zítřejší schůzce.",
+        "Můžu prosím mluvit s paní Novákovou?"
+      ]
+    },
+    {
+      "text": "Dobrý den. Paní Nováková teď nemůže k telefonu. Můžu jí něco vyřídit?",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Dobrý den.",
+        "Paní Nováková teď nemůže k telefonu.",
+        "Můžu jí něco vyřídit?"
+      ]
+    },
+    {
+      "text": "Ano, prosím. Potřebuju potvrdit čas a adresu. V poslední zprávě bylo deset hodin, ale předtím jsme mluvili o jedenácté.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Ano, prosím.",
+        "Potřebuju potvrdit čas a adresu.",
+        "V poslední zprávě bylo deset hodin, ale předtím jsme mluvili o jedenácté."
+      ]
+    },
+    {
+      "text": "Podívám se do kalendáře. Vidím tady schůzku ve čtvrtek v deset hodin, ulice Lesní číslo patnáct.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Podívám se do kalendáře.",
+        "Vidím tady schůzku ve čtvrtek v deset hodin, ulice Lesní číslo patnáct."
+      ]
+    },
+    {
+      "text": "Promiňte, slyším vás špatně. Říkáte patnáct, nebo padesát? A schůzka je zítra, tedy ve čtvrtek?",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Promiňte, slyším vás špatně.",
+        "Říkáte patnáct, nebo padesát?",
+        "A schůzka je zítra, tedy ve čtvrtek?"
+      ]
+    },
+    {
+      "text": "Patnáct, jedna pět. Ano, ve čtvrtek. Pošlu vám potvrzení zprávou, aby nedošlo k omylu.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Patnáct, jedna pět.",
+        "Ano, ve čtvrtek.",
+        "Pošlu vám potvrzení zprávou, aby nedošlo k omylu."
+      ]
+    },
+    {
+      "text": "Děkuju. Moje číslo máte, nebo ho mám zopakovat?",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Děkuju.",
+        "Moje číslo máte, nebo ho mám zopakovat?"
+      ]
+    },
+    {
+      "text": "Číslo vidím. Prosím odpovězte na zprávu, až ji dostanete. Pokud něco nesouhlasí, zavolejte znovu.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Číslo vidím.",
+        "Prosím odpovězte na zprávu, až ji dostanete.",
+        "Pokud něco nesouhlasí, zavolejte znovu."
+      ]
+    },
+    {
+      "text": "Dobře. Ještě prosím vyřiďte paní Novákové, že přinesu podklady. Teď už je mi všechno jasné.",
+      "index": 8,
+      "role": "text",
+      "parts": [
+        "Dobře.",
+        "Ještě prosím vyřiďte paní Novákové, že přinesu podklady.",
+        "Teď už je mi všechno jasné."
+      ]
+    },
+    {
+      "text": "Na shledanou a děkuju za pomoc.",
+      "index": 9,
+      "role": "text",
+      "parts": [
+        "Na shledanou a děkuju za pomoc."
+      ]
+    },
+    {
+      "text": "Po hovoru si zapíšu potvrzený čas a počkám na zprávu. Teprve potom považuju domluvu za jasnou.",
+      "index": 10,
+      "role": "text",
+      "parts": [
+        "Po hovoru si zapíšu potvrzený čas a počkám na zprávu.",
+        "Teprve potom považuju domluvu za jasnou."
+      ]
+    }
+  ],
+  "text_sha256": "0c6f858c9fb802db61087dd8bbd9bc78156cdaa311ea2ee9ad77c22618d7ca54",
+  "source_file": "content/lessons/A2/A2-U08-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U08-L01--2026.10.22.1--text--0c6f858c9f--normal.mp3",
+  "slow_file": "content/audio/files/A2-U08-L01--2026.10.22.1--text--0c6f858c9f--slow.mp3",
+  "duration_seconds": 88.6898866213152,
+  "slow_duration_seconds": 99.85868480725624,
+  "cues": [
+    {
+      "text": "Dobrý den, tady Li. Volám kvůli zítřejší schůzce. Můžu prosím mluvit s paní Novákovou?",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Dobrý den, tady Li.",
+        "Volám kvůli zítřejší schůzce.",
+        "Můžu prosím mluvit s paní Novákovou?"
+      ],
+      "start": 0.0,
+      "end": 8.76562358276644,
+      "sentences": [
+        {
+          "text": "Dobrý den, tady Li.",
+          "start": 0.0,
+          "end": 1.9156462585034013,
+          "slow_start": 0.0,
+          "slow_end": 2.182675736961451
+        },
+        {
+          "text": "Volám kvůli zítřejší schůzce.",
+          "start": 2.0956462585034012,
+          "end": 4.882040816326531,
+          "slow_start": 2.3626757369614513,
+          "slow_end": 5.462539682539682
+        },
+        {
+          "text": "Můžu prosím mluvit s paní Novákovou?",
+          "start": 5.0620408163265305,
+          "end": 8.76562358276644,
+          "slow_start": 5.642539682539683,
+          "slow_end": 9.694421768707484
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 9.694421768707484
+    },
+    {
+      "text": "Dobrý den. Paní Nováková teď nemůže k telefonu. Můžu jí něco vyřídit?",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Dobrý den.",
+        "Paní Nováková teď nemůže k telefonu.",
+        "Můžu jí něco vyřídit?"
+      ],
+      "start": 8.94562358276644,
+      "end": 15.795600907029478,
+      "sentences": [
+        {
+          "text": "Dobrý den.",
+          "start": 8.94562358276644,
+          "end": 10.071791383219955,
+          "slow_start": 9.874421768707483,
+          "slow_end": 11.08185941043084
+        },
+        {
+          "text": "Paní Nováková teď nemůže k telefonu.",
+          "start": 10.251791383219954,
+          "end": 13.549024943310657,
+          "slow_start": 11.261859410430839,
+          "slow_end": 15.093151927437642
+        },
+        {
+          "text": "Můžu jí něco vyřídit?",
+          "start": 13.729024943310657,
+          "end": 15.795600907029478,
+          "slow_start": 15.273151927437642,
+          "slow_end": 17.525487528344673
+        }
+      ],
+      "slow_start": 9.874421768707483,
+      "slow_end": 17.525487528344673
+    },
+    {
+      "text": "Ano, prosím. Potřebuju potvrdit čas a adresu. V poslední zprávě bylo deset hodin, ale předtím jsme mluvili o jedenácté.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Ano, prosím.",
+        "Potřebuju potvrdit čas a adresu.",
+        "V poslední zprávě bylo deset hodin, ale předtím jsme mluvili o jedenácté."
+      ],
+      "start": 15.975600907029479,
+      "end": 27.144489795918368,
+      "sentences": [
+        {
+          "text": "Ano, prosím.",
+          "start": 15.975600907029479,
+          "end": 17.39201814058957,
+          "slow_start": 17.705487528344673,
+          "slow_end": 19.37732426303855
+        },
+        {
+          "text": "Potřebuju potvrdit čas a adresu.",
+          "start": 17.57201814058957,
+          "end": 20.683492063492064,
+          "slow_start": 19.55732426303855,
+          "slow_end": 22.912607709750567
+        },
+        {
+          "text": "V poslední zprávě bylo deset hodin, ale předtím jsme mluvili o jedenácté.",
+          "start": 20.863492063492064,
+          "end": 27.144489795918368,
+          "slow_start": 23.092607709750567,
+          "slow_end": 30.488163265306124
+        }
+      ],
+      "slow_start": 17.705487528344673,
+      "slow_end": 30.488163265306124
+    },
+    {
+      "text": "Podívám se do kalendáře. Vidím tady schůzku ve čtvrtek v deset hodin, ulice Lesní číslo patnáct.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Podívám se do kalendáře.",
+        "Vidím tady schůzku ve čtvrtek v deset hodin, ulice Lesní číslo patnáct."
+      ],
+      "start": 27.324489795918367,
+      "end": 36.21197278911565,
+      "sentences": [
+        {
+          "text": "Podívám se do kalendáře.",
+          "start": 27.324489795918367,
+          "end": 29.530385487528346,
+          "slow_start": 30.668163265306124,
+          "slow_end": 33.210748299319725
+        },
+        {
+          "text": "Vidím tady schůzku ve čtvrtek v deset hodin, ulice Lesní číslo patnáct.",
+          "start": 29.710385487528345,
+          "end": 36.21197278911565,
+          "slow_start": 33.390748299319725,
+          "slow_end": 40.786303854875285
+        }
+      ],
+      "slow_start": 30.668163265306124,
+      "slow_end": 40.786303854875285
+    },
+    {
+      "text": "Promiňte, slyším vás špatně. Říkáte patnáct, nebo padesát? A schůzka je zítra, tedy ve čtvrtek?",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Promiňte, slyším vás špatně.",
+        "Říkáte patnáct, nebo padesát?",
+        "A schůzka je zítra, tedy ve čtvrtek?"
+      ],
+      "start": 36.39197278911565,
+      "end": 45.598775510204085,
+      "sentences": [
+        {
+          "text": "Promiňte, slyším vás špatně.",
+          "start": 36.39197278911565,
+          "end": 39.166757369614515,
+          "slow_start": 40.966303854875285,
+          "slow_end": 44.0081179138322
+        },
+        {
+          "text": "Říkáte patnáct, nebo padesát?",
+          "start": 39.346757369614515,
+          "end": 42.516281179138325,
+          "slow_start": 44.1881179138322,
+          "slow_end": 47.65950113378685
+        },
+        {
+          "text": "A schůzka je zítra, tedy ve čtvrtek?",
+          "start": 42.696281179138325,
+          "end": 45.598775510204085,
+          "slow_start": 47.83950113378685,
+          "slow_end": 51.334104308390025
+        }
+      ],
+      "slow_start": 40.966303854875285,
+      "slow_end": 51.334104308390025
+    },
+    {
+      "text": "Patnáct, jedna pět. Ano, ve čtvrtek. Pošlu vám potvrzení zprávou, aby nedošlo k omylu.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Patnáct, jedna pět.",
+        "Ano, ve čtvrtek.",
+        "Pošlu vám potvrzení zprávou, aby nedošlo k omylu."
+      ],
+      "start": 45.778775510204085,
+      "end": 54.66049886621315,
+      "sentences": [
+        {
+          "text": "Patnáct, jedna pět.",
+          "start": 45.778775510204085,
+          "end": 47.77569160997732,
+          "slow_start": 51.514104308390024,
+          "slow_end": 53.82448979591837
+        },
+        {
+          "text": "Ano, ve čtvrtek.",
+          "start": 47.95569160997732,
+          "end": 49.569478458049886,
+          "slow_start": 54.00448979591837,
+          "slow_end": 55.89691609977324
+        },
+        {
+          "text": "Pošlu vám potvrzení zprávou, aby nedošlo k omylu.",
+          "start": 49.749478458049886,
+          "end": 54.66049886621315,
+          "slow_start": 56.07691609977324,
+          "slow_end": 61.777414965986395
+        }
+      ],
+      "slow_start": 51.514104308390024,
+      "slow_end": 61.777414965986395
+    },
+    {
+      "text": "Děkuju. Moje číslo máte, nebo ho mám zopakovat?",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Děkuju.",
+        "Moje číslo máte, nebo ho mám zopakovat?"
+      ],
+      "start": 54.84049886621315,
+      "end": 59.53678004535147,
+      "sentences": [
+        {
+          "text": "Děkuju.",
+          "start": 54.84049886621315,
+          "end": 55.722857142857144,
+          "slow_start": 61.957414965986395,
+          "slow_end": 62.86299319727891
+        },
+        {
+          "text": "Moje číslo máte, nebo ho mám zopakovat?",
+          "start": 55.902857142857144,
+          "end": 59.53678004535147,
+          "slow_start": 63.04299319727891,
+          "slow_end": 67.03682539682539
+        }
+      ],
+      "slow_start": 61.957414965986395,
+      "slow_end": 67.03682539682539
+    },
+    {
+      "text": "Číslo vidím. Prosím odpovězte na zprávu, až ji dostanete. Pokud něco nesouhlasí, zavolejte znovu.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Číslo vidím.",
+        "Prosím odpovězte na zprávu, až ji dostanete.",
+        "Pokud něco nesouhlasí, zavolejte znovu."
+      ],
+      "start": 59.71678004535148,
+      "end": 68.59850340136055,
+      "sentences": [
+        {
+          "text": "Číslo vidím.",
+          "start": 59.71678004535148,
+          "end": 60.83133786848072,
+          "slow_start": 67.2168253968254,
+          "slow_end": 68.43587301587301
+        },
+        {
+          "text": "Prosím odpovězte na zprávu, až ji dostanete.",
+          "start": 61.01133786848072,
+          "end": 64.95873015873016,
+          "slow_start": 68.61587301587302,
+          "slow_end": 73.17859410430839
+        },
+        {
+          "text": "Pokud něco nesouhlasí, zavolejte znovu.",
+          "start": 65.13873015873016,
+          "end": 68.59850340136055,
+          "slow_start": 73.3585941043084,
+          "slow_end": 77.13183673469388
+        }
+      ],
+      "slow_start": 67.2168253968254,
+      "slow_end": 77.13183673469388
+    },
+    {
+      "text": "Dobře. Ještě prosím vyřiďte paní Novákové, že přinesu podklady. Teď už je mi všechno jasné.",
+      "index": 8,
+      "role": "text",
+      "parts": [
+        "Dobře.",
+        "Ještě prosím vyřiďte paní Novákové, že přinesu podklady.",
+        "Teď už je mi všechno jasné."
+      ],
+      "start": 68.77850340136054,
+      "end": 77.09133786848072,
+      "sentences": [
+        {
+          "text": "Dobře.",
+          "start": 68.77850340136054,
+          "end": 69.52154195011337,
+          "slow_start": 77.31183673469388,
+          "slow_end": 78.21741496598639
+        },
+        {
+          "text": "Ještě prosím vyřiďte paní Novákové, že přinesu podklady.",
+          "start": 69.70154195011338,
+          "end": 74.57773242630385,
+          "slow_start": 78.3974149659864,
+          "slow_end": 83.91215419501134
+        },
+        {
+          "text": "Teď už je mi všechno jasné.",
+          "start": 74.75773242630386,
+          "end": 77.09133786848072,
+          "slow_start": 84.09215419501133,
+          "slow_end": 86.681179138322
+        }
+      ],
+      "slow_start": 77.31183673469388,
+      "slow_end": 86.681179138322
+    },
+    {
+      "text": "Na shledanou a děkuju za pomoc.",
+      "index": 9,
+      "role": "text",
+      "parts": [
+        "Na shledanou a děkuju za pomoc."
+      ],
+      "start": 77.27133786848073,
+      "end": 79.87197278911565,
+      "sentences": [
+        {
+          "text": "Na shledanou a děkuju za pomoc.",
+          "start": 77.27133786848073,
+          "end": 79.87197278911565,
+          "slow_start": 86.861179138322,
+          "slow_end": 89.82172335600907
+        }
+      ],
+      "slow_start": 86.861179138322,
+      "slow_end": 89.82172335600907
+    },
+    {
+      "text": "Po hovoru si zapíšu potvrzený čas a počkám na zprávu. Teprve potom považuju domluvu za jasnou.",
+      "index": 10,
+      "role": "text",
+      "parts": [
+        "Po hovoru si zapíšu potvrzený čas a počkám na zprávu.",
+        "Teprve potom považuju domluvu za jasnou."
+      ],
+      "start": 80.05197278911565,
+      "end": 88.50988662131519,
+      "sentences": [
+        {
+          "text": "Po hovoru si zapíšu potvrzený čas a počkám na zprávu.",
+          "start": 80.05197278911565,
+          "end": 84.83528344671201,
+          "slow_start": 90.00172335600907,
+          "slow_end": 95.50485260770975
+        },
+        {
+          "text": "Teprve potom považuju domluvu za jasnou.",
+          "start": 85.01528344671202,
+          "end": 88.50988662131519,
+          "slow_start": 95.68485260770976,
+          "slow_end": 99.67868480725623
+        }
+      ],
+      "slow_start": 90.00172335600907,
+      "slow_end": 99.67868480725623
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "bd4fd32db83f98817f96c0f448af26aa4f6b22a3bb90ab128f841c6ee1cc7c55",
+    "slow": "96ace33dac19999ced269449b134a7746ced72e0dcdf8c2f168a4c690e93b80a"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "B2-U01-L01--2026.10.22.1--exercises",
+  "lesson_id": "B2-U01-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B2",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Mně jde především o zásobování ráno, nikoli o volný průjezd celý den.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "B2-U01-L01-E03",
+      "parts": [
+        "Mně jde především o zásobování ráno, nikoli o volný průjezd celý den."
+      ]
+    }
+  ],
+  "text_sha256": "4bdcb30e9a6b615a2d5a773abc00600a301027690644b920cd73cf311adf1ade",
+  "source_file": "content/lessons/B2/B2-U01-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U01-L01--2026.10.22.1--exercises--4bdcb30e9a--normal.mp3",
+  "slow_file": "content/audio/files/B2-U01-L01--2026.10.22.1--exercises--4bdcb30e9a--slow.mp3",
+  "duration_seconds": 6.519047619047619,
+  "slow_duration_seconds": 7.471065759637188,
+  "cues": [
+    {
+      "text": "Mně jde především o zásobování ráno, nikoli o volný průjezd celý den.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "B2-U01-L01-E03",
+      "parts": [
+        "Mně jde především o zásobování ráno, nikoli o volný průjezd celý den."
+      ],
+      "start": 0.0,
+      "end": 6.339047619047619,
+      "sentences": [
+        {
+          "text": "Mně jde především o zásobování ráno, nikoli o volný průjezd celý den.",
+          "start": 0.0,
+          "end": 6.339047619047619,
+          "slow_start": 0.0,
+          "slow_end": 7.291065759637188
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 7.291065759637188
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "20b69606a4ac020166bc62b97aa30fa8af5aec70275e5194904b5fa31d857591",
+    "slow": "94863c1df9168e42a717faba49fcaa1d2e995d56cf14411950ea040840df976f"
+  }
+}

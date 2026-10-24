@@ -1,0 +1,59 @@
+{
+  "id": "A1-U12-L01--2026.10.22.1--exercises",
+  "lesson_id": "A1-U12-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A1",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Otevřeno máme do sedmnácti hodin.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "A1-U12-L01-E01",
+      "parts": [
+        "Otevřeno máme do sedmnácti hodin."
+      ]
+    }
+  ],
+  "text_sha256": "4eb37851c0de2eaac9c1a60a227fecbcbd725d06b28e60d5b95c993e701d3a50",
+  "source_file": "content/lessons/A1/A1-U12-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U12-L01--2026.10.22.1--exercises--4eb37851c0--normal.mp3",
+  "slow_file": "content/audio/files/A1-U12-L01--2026.10.22.1--exercises--4eb37851c0--slow.mp3",
+  "duration_seconds": 3.186984126984127,
+  "slow_duration_seconds": 3.442403628117914,
+  "cues": [
+    {
+      "text": "Otevřeno máme do sedmnácti hodin.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "A1-U12-L01-E01",
+      "parts": [
+        "Otevřeno máme do sedmnácti hodin."
+      ],
+      "start": 0.0,
+      "end": 3.006984126984127,
+      "sentences": [
+        {
+          "text": "Otevřeno máme do sedmnácti hodin.",
+          "start": 0.0,
+          "end": 3.006984126984127,
+          "slow_start": 0.0,
+          "slow_end": 3.2624036281179136
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 3.2624036281179136
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "3e62df762316f46b015e5c6bc9624800c6ca8652804601e87e7901981ba97556",
+    "slow": "a40c88427295ece884d325e8075fe62999cb4509a6dbbdbab7af3532fbe342c9"
+  }
+}

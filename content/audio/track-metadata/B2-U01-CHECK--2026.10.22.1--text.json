@@ -1,0 +1,75 @@
+{
+  "id": "B2-U01-CHECK--2026.10.22.1--text",
+  "lesson_id": "B2-U01-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "B2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Škola navrhuje úplný zákaz telefonů o přestávkách. Část rodičů očekává více osobních rozhovorů; jiní upozorňují na žáky, kteří potřebují telefon kvůli zdravotní pomůcce. Dosavadní zkušenost pochází pouze z jedné třídy.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Škola navrhuje úplný zákaz telefonů o přestávkách.",
+        "Část rodičů očekává více osobních rozhovorů; jiní upozorňují na žáky, kteří potřebují telefon kvůli zdravotní pomůcce.",
+        "Dosavadní zkušenost pochází pouze z jedné třídy."
+      ]
+    }
+  ],
+  "text_sha256": "f9e4ddf6810c597fd8d087c8aa99705430f65dd8d9f0b2a2899a99615daae774",
+  "source_file": "content/assessments/B2-U01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U01-CHECK--2026.10.22.1--text--f9e4ddf681--normal.mp3",
+  "slow_file": "content/audio/files/B2-U01-CHECK--2026.10.22.1--text--f9e4ddf681--slow.mp3",
+  "duration_seconds": 20.52077097505669,
+  "slow_duration_seconds": 22.924036281179138,
+  "cues": [
+    {
+      "text": "Škola navrhuje úplný zákaz telefonů o přestávkách. Část rodičů očekává více osobních rozhovorů; jiní upozorňují na žáky, kteří potřebují telefon kvůli zdravotní pomůcce. Dosavadní zkušenost pochází pouze z jedné třídy.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Škola navrhuje úplný zákaz telefonů o přestávkách.",
+        "Část rodičů očekává více osobních rozhovorů; jiní upozorňují na žáky, kteří potřebují telefon kvůli zdravotní pomůcce.",
+        "Dosavadní zkušenost pochází pouze z jedné třídy."
+      ],
+      "start": 0.0,
+      "end": 20.34077097505669,
+      "sentences": [
+        {
+          "text": "Škola navrhuje úplný zákaz telefonů o přestávkách.",
+          "start": 0.0,
+          "end": 4.620770975056689,
+          "slow_start": 0.0,
+          "slow_end": 5.317369614512471
+        },
+        {
+          "text": "Část rodičů očekává více osobních rozhovorů; jiní upozorňují na žáky, kteří potřebují telefon kvůli zdravotní pomůcce.",
+          "start": 4.80077097505669,
+          "end": 15.841859410430839,
+          "slow_start": 5.497369614512472,
+          "slow_end": 17.68784580498866
+        },
+        {
+          "text": "Dosavadní zkušenost pochází pouze z jedné třídy.",
+          "start": 16.02185941043084,
+          "end": 20.34077097505669,
+          "slow_start": 17.86784580498866,
+          "slow_end": 22.744036281179138
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 22.744036281179138
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "3eeb8801e1d8e9f3f7cc9c824e3f12c4e6bb3229565cc2bb9600e494e5c906d3",
+    "slow": "24f553125ebe99f7d71cddccf7b58e5bf456784ceec97a5ae50b50215cdef766"
+  }
+}

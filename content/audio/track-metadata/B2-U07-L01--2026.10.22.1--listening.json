@@ -1,0 +1,102 @@
+{
+  "id": "B2-U07-L01--2026.10.22.1--listening",
+  "lesson_id": "B2-U07-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B2",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Redaktorka: Podnětů bylo čtyřicet místo dvaceti. Znamená to dvojnásobný problém? Analytik: Ne nutně. Změnil se i způsob hlášení. Víme, že přibylo zaznamenaných podnětů, neznáme ale přesný vývoj skutečných problémů. Anketa dvaceti souhlasných odpovědí ze třiceti navíc popisuje jen účastníky této ankety.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Redaktorka: Podnětů bylo čtyřicet místo dvaceti.",
+        "Znamená to dvojnásobný problém?",
+        "Analytik: Ne nutně.",
+        "Změnil se i způsob hlášení.",
+        "Víme, že přibylo zaznamenaných podnětů, neznáme ale přesný vývoj skutečných problémů.",
+        "Anketa dvaceti souhlasných odpovědí ze třiceti navíc popisuje jen účastníky této ankety."
+      ]
+    }
+  ],
+  "text_sha256": "b8c345211cda52cfe249f87241d2f8dd34c6fa67ef18b03e8b17f9f892e6936d",
+  "source_file": "content/lessons/B2/B2-U07-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U07-L01--2026.10.22.1--listening--b8c345211c--normal.mp3",
+  "slow_file": "content/audio/files/B2-U07-L01--2026.10.22.1--listening--b8c345211c--slow.mp3",
+  "duration_seconds": 28.177687074829933,
+  "slow_duration_seconds": 31.904489795918366,
+  "cues": [
+    {
+      "text": "Redaktorka: Podnětů bylo čtyřicet místo dvaceti. Znamená to dvojnásobný problém? Analytik: Ne nutně. Změnil se i způsob hlášení. Víme, že přibylo zaznamenaných podnětů, neznáme ale přesný vývoj skutečných problémů. Anketa dvaceti souhlasných odpovědí ze třiceti navíc popisuje jen účastníky této ankety.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Redaktorka: Podnětů bylo čtyřicet místo dvaceti.",
+        "Znamená to dvojnásobný problém?",
+        "Analytik: Ne nutně.",
+        "Změnil se i způsob hlášení.",
+        "Víme, že přibylo zaznamenaných podnětů, neznáme ale přesný vývoj skutečných problémů.",
+        "Anketa dvaceti souhlasných odpovědí ze třiceti navíc popisuje jen účastníky této ankety."
+      ],
+      "start": 0.0,
+      "end": 27.997687074829933,
+      "sentences": [
+        {
+          "text": "Redaktorka: Podnětů bylo čtyřicet místo dvaceti.",
+          "start": 0.0,
+          "end": 4.446621315192743,
+          "slow_start": 0.0,
+          "slow_end": 5.073560090702948
+        },
+        {
+          "text": "Znamená to dvojnásobný problém?",
+          "start": 4.626621315192744,
+          "end": 7.378185941043084,
+          "slow_start": 5.253560090702948,
+          "slow_end": 8.423083900226757
+        },
+        {
+          "text": "Analytik: Ne nutně.",
+          "start": 7.558185941043084,
+          "end": 9.41578231292517,
+          "slow_start": 8.603083900226757,
+          "slow_end": 10.774149659863946
+        },
+        {
+          "text": "Změnil se i způsob hlášení.",
+          "start": 9.59578231292517,
+          "end": 12.393786848072562,
+          "slow_start": 10.954149659863946,
+          "slow_end": 14.123673469387755
+        },
+        {
+          "text": "Víme, že přibylo zaznamenaných podnětů, neznáme ale přesný vývoj skutečných problémů.",
+          "start": 12.573786848072562,
+          "end": 19.89968253968254,
+          "slow_start": 14.303673469387755,
+          "slow_end": 22.778956916099773
+        },
+        {
+          "text": "Anketa dvaceti souhlasných odpovědí ze třiceti navíc popisuje jen účastníky této ankety.",
+          "start": 20.07968253968254,
+          "end": 27.997687074829933,
+          "slow_start": 22.958956916099773,
+          "slow_end": 31.724489795918366
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 31.724489795918366
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "1c3a1f60b5b197d53789b2c6c35ff5b15a900eb713a0c0419abc5dd8811efd7d",
+    "slow": "d35fd3e6a2a2c66483413004960a242146f46b85057b225635a0818280ed9728"
+  }
+}

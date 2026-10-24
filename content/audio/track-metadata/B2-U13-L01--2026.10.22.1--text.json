@@ -1,0 +1,436 @@
+{
+  "id": "B2-U13-L01--2026.10.22.1--text",
+  "lesson_id": "B2-U13-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Jazyková škola chce zjistit, proč část účastníků nedokončuje kurz. Připravila dotazník a rodičům mladších studentů poslala vysvětlení. V první verzi použila větu, že odpovědi budou anonymní. Technický popis ale uváděl, že každý student dostane vlastní kód a správce může podle seznamu zjistit, komu patří. Jedna účastnice upozornila, že pro běžného čtenáře mohou tato dvě sdělení znamenat něco jiného.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Jazyková škola chce zjistit, proč část účastníků nedokončuje kurz.",
+        "Připravila dotazník a rodičům mladších studentů poslala vysvětlení.",
+        "V první verzi použila větu, že odpovědi budou anonymní.",
+        "Technický popis ale uváděl, že každý student dostane vlastní kód a správce může podle seznamu zjistit, komu patří.",
+        "Jedna účastnice upozornila, že pro běžného čtenáře mohou tato dvě sdělení znamenat něco jiného."
+      ]
+    },
+    {
+      "text": "Na schůzce jsem měl obě strany propojit. Škola chtěla zabránit opakovanému vyplnění a současně sledovat, zda změna rozvrhu pomohla stejné skupině. Rodiče se obávali, že kritická odpověď ovlivní vztah učitele ke studentovi. Bylo by nepřesné říct, že škola chce studenty kontrolovat, nebo že rodiče odmítají jakýkoli průzkum. Každá strana popisovala jiné riziko a jiný účel.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Na schůzce jsem měl obě strany propojit.",
+        "Škola chtěla zabránit opakovanému vyplnění a současně sledovat, zda změna rozvrhu pomohla stejné skupině.",
+        "Rodiče se obávali, že kritická odpověď ovlivní vztah učitele ke studentovi.",
+        "Bylo by nepřesné říct, že škola chce studenty kontrolovat, nebo že rodiče odmítají jakýkoli průzkum.",
+        "Každá strana popisovala jiné riziko a jiný účel."
+      ]
+    },
+    {
+      "text": "Vysvětlil jsem proto kódovaný postup běžnými slovy: odpověď nenese napsané jméno, ale existuje seznam, který ji může spojit s konkrétním člověkem. To není totéž jako odpověď, kterou už k jednotlivci přiřadit nelze. Nešlo o právní posouzení konkrétního systému. Potřebovali jsme nejprve sjednotit význam slov, aby škola neslíbila širší ochranu, než jakou popsaný postup skutečně poskytuje. Technické podrobnosti měly být potvrzeny správcem systému.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Vysvětlil jsem proto kódovaný postup běžnými slovy: odpověď nenese napsané jméno, ale existuje seznam, který ji může spojit s konkrétním člověkem.",
+        "To není totéž jako odpověď, kterou už k jednotlivci přiřadit nelze.",
+        "Nešlo o právní posouzení konkrétního systému.",
+        "Potřebovali jsme nejprve sjednotit význam slov, aby škola neslíbila širší ochranu, než jakou popsaný postup skutečně poskytuje.",
+        "Technické podrobnosti měly být potvrzeny správcem systému."
+      ]
+    },
+    {
+      "text": "Potom jsme sepsali otázky, které mohou obavy převést do ověřitelných podmínek. Kdo má přístup k seznamu kódů? Uvidí učitel jednotlivé odpovědi, nebo pouze souhrn? Kdy bude propojení odstraněno a kdo tento krok potvrdí? Může student některou otázku přeskočit? Na tyto body jsme si neodpovídali sami. Předali jsme je škole jako žádost o jasnou informaci před zahájením sběru odpovědí.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Potom jsme sepsali otázky, které mohou obavy převést do ověřitelných podmínek.",
+        "Kdo má přístup k seznamu kódů?",
+        "Uvidí učitel jednotlivé odpovědi, nebo pouze souhrn?",
+        "Kdy bude propojení odstraněno a kdo tento krok potvrdí?",
+        "Může student některou otázku přeskočit?",
+        "Na tyto body jsme si neodpovídali sami.",
+        "Předali jsme je škole jako žádost o jasnou informaci před zahájením sběru odpovědí."
+      ]
+    },
+    {
+      "text": "Pro rodiče jsem připravil krátké shrnutí bez odborných zkratek. Pro technika jsem naopak zachoval přesné rozlišení mezi kódem v odpovědi a seznamem, který kód propojuje se studentem. Obě verze popisovaly stejný stav. Lišily se množstvím podrobností, nikoli mírou jistoty. Pokud odpověď na některou otázku chyběla, uvedl jsem to i v jednodušší verzi; zjednodušení nesmí změnit neznámou věc v uklidňující slib.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Pro rodiče jsem připravil krátké shrnutí bez odborných zkratek.",
+        "Pro technika jsem naopak zachoval přesné rozlišení mezi kódem v odpovědi a seznamem, který kód propojuje se studentem.",
+        "Obě verze popisovaly stejný stav.",
+        "Lišily se množstvím podrobností, nikoli mírou jistoty.",
+        "Pokud odpověď na některou otázku chyběla, uvedl jsem to i v jednodušší verzi; zjednodušení nesmí změnit neznámou věc v uklidňující slib."
+      ]
+    },
+    {
+      "text": "Na konci se škola zavázala text upravit a doplnit konkrétní postup. Rodiče na oplátku upřesnili, které informace potřebují před rozhodnutím o účasti. Samotné setkání neprokázalo, že systém je bezpečný nebo že obavy už byly odstraněny. Přineslo však přesnější společný slovník a seznam odpovědí, které je třeba získat. Úspěšné zprostředkování někdy nespočívá v okamžité shodě, ale v tom, že obě strany konečně vědí, na co se vlastně ptají.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Na konci se škola zavázala text upravit a doplnit konkrétní postup.",
+        "Rodiče na oplátku upřesnili, které informace potřebují před rozhodnutím o účasti.",
+        "Samotné setkání neprokázalo, že systém je bezpečný nebo že obavy už byly odstraněny.",
+        "Přineslo však přesnější společný slovník a seznam odpovědí, které je třeba získat.",
+        "Úspěšné zprostředkování někdy nespočívá v okamžité shodě, ale v tom, že obě strany konečně vědí, na co se vlastně ptají."
+      ]
+    }
+  ],
+  "text_sha256": "fc84360a1d3bc775498e4213dea76a35db72a2a1022541866ac4f81329efabb0",
+  "source_file": "content/lessons/B2/B2-U13-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U13-L01--2026.10.22.1--text--fc84360a1d--normal.mp3",
+  "slow_file": "content/audio/files/B2-U13-L01--2026.10.22.1--text--fc84360a1d--slow.mp3",
+  "duration_seconds": 220.7651700680272,
+  "slow_duration_seconds": 247.17786848072564,
+  "cues": [
+    {
+      "text": "Jazyková škola chce zjistit, proč část účastníků nedokončuje kurz. Připravila dotazník a rodičům mladších studentů poslala vysvětlení. V první verzi použila větu, že odpovědi budou anonymní. Technický popis ale uváděl, že každý student dostane vlastní kód a správce může podle seznamu zjistit, komu patří. Jedna účastnice upozornila, že pro běžného čtenáře mohou tato dvě sdělení znamenat něco jiného.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Jazyková škola chce zjistit, proč část účastníků nedokončuje kurz.",
+        "Připravila dotazník a rodičům mladších studentů poslala vysvětlení.",
+        "V první verzi použila větu, že odpovědi budou anonymní.",
+        "Technický popis ale uváděl, že každý student dostane vlastní kód a správce může podle seznamu zjistit, komu patří.",
+        "Jedna účastnice upozornila, že pro běžného čtenáře mohou tato dvě sdělení znamenat něco jiného."
+      ],
+      "start": 0.0,
+      "end": 36.09560090702948,
+      "sentences": [
+        {
+          "text": "Jazyková škola chce zjistit, proč část účastníků nedokončuje kurz.",
+          "start": 0.0,
+          "end": 6.164897959183674,
+          "slow_start": 0.0,
+          "slow_end": 6.977596371882086
+        },
+        {
+          "text": "Připravila dotazník a rodičům mladších studentů poslala vysvětlení.",
+          "start": 6.344897959183673,
+          "end": 12.13827664399093,
+          "slow_start": 7.157596371882086,
+          "slow_end": 13.856553287981859
+        },
+        {
+          "text": "V první verzi použila větu, že odpovědi budou anonymní.",
+          "start": 12.318276643990929,
+          "end": 16.880997732426305,
+          "slow_start": 14.03655328798186,
+          "slow_end": 19.098503401360546
+        },
+        {
+          "text": "Technický popis ale uváděl, že každý student dostane vlastní kód a správce může podle seznamu zjistit, komu patří.",
+          "start": 17.060997732426305,
+          "end": 27.486757369614512,
+          "slow_start": 19.278503401360545,
+          "slow_end": 31.062630385487527
+        },
+        {
+          "text": "Jedna účastnice upozornila, že pro běžného čtenáře mohou tato dvě sdělení znamenat něco jiného.",
+          "start": 27.666757369614512,
+          "end": 36.09560090702948,
+          "slow_start": 31.24263038548753,
+          "slow_end": 40.58866213151927
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 40.58866213151927
+    },
+    {
+      "text": "Na schůzce jsem měl obě strany propojit. Škola chtěla zabránit opakovanému vyplnění a současně sledovat, zda změna rozvrhu pomohla stejné skupině. Rodiče se obávali, že kritická odpověď ovlivní vztah učitele ke studentovi. Bylo by nepřesné říct, že škola chce studenty kontrolovat, nebo že rodiče odmítají jakýkoli průzkum. Každá strana popisovala jiné riziko a jiný účel.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Na schůzce jsem měl obě strany propojit.",
+        "Škola chtěla zabránit opakovanému vyplnění a současně sledovat, zda změna rozvrhu pomohla stejné skupině.",
+        "Rodiče se obávali, že kritická odpověď ovlivní vztah učitele ke studentovi.",
+        "Bylo by nepřesné říct, že škola chce studenty kontrolovat, nebo že rodiče odmítají jakýkoli průzkum.",
+        "Každá strana popisovala jiné riziko a jiný účel."
+      ],
+      "start": 36.27560090702948,
+      "end": 70.23496598639456,
+      "sentences": [
+        {
+          "text": "Na schůzce jsem měl obě strany propojit.",
+          "start": 36.27560090702948,
+          "end": 39.99079365079365,
+          "slow_start": 40.76866213151927,
+          "slow_end": 44.92503401360544
+        },
+        {
+          "text": "Škola chtěla zabránit opakovanému vyplnění a současně sledovat, zda změna rozvrhu pomohla stejné skupině.",
+          "start": 40.17079365079365,
+          "end": 49.8302947845805,
+          "slow_start": 45.10503401360544,
+          "slow_end": 55.960362811791384
+        },
+        {
+          "text": "Rodiče se obávali, že kritická odpověď ovlivní vztah učitele ke studentovi.",
+          "start": 50.0102947845805,
+          "end": 56.686031746031745,
+          "slow_start": 56.140362811791384,
+          "slow_end": 63.55913832199546
+        },
+        {
+          "text": "Bylo by nepřesné říct, že škola chce studenty kontrolovat, nebo že rodiče odmítají jakýkoli průzkum.",
+          "start": 56.866031746031744,
+          "end": 65.35292517006803,
+          "slow_start": 63.73913832199546,
+          "slow_end": 73.14321995464853
+        },
+        {
+          "text": "Každá strana popisovala jiné riziko a jiný účel.",
+          "start": 65.53292517006803,
+          "end": 70.23496598639456,
+          "slow_start": 73.32321995464852,
+          "slow_end": 78.60575963718821
+        }
+      ],
+      "slow_start": 40.76866213151927,
+      "slow_end": 78.60575963718821
+    },
+    {
+      "text": "Vysvětlil jsem proto kódovaný postup běžnými slovy: odpověď nenese napsané jméno, ale existuje seznam, který ji může spojit s konkrétním člověkem. To není totéž jako odpověď, kterou už k jednotlivci přiřadit nelze. Nešlo o právní posouzení konkrétního systému. Potřebovali jsme nejprve sjednotit význam slov, aby škola neslíbila širší ochranu, než jakou popsaný postup skutečně poskytuje. Technické podrobnosti měly být potvrzeny správcem systému.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Vysvětlil jsem proto kódovaný postup běžnými slovy: odpověď nenese napsané jméno, ale existuje seznam, který ji může spojit s konkrétním člověkem.",
+        "To není totéž jako odpověď, kterou už k jednotlivci přiřadit nelze.",
+        "Nešlo o právní posouzení konkrétního systému.",
+        "Potřebovali jsme nejprve sjednotit význam slov, aby škola neslíbila širší ochranu, než jakou popsaný postup skutečně poskytuje.",
+        "Technické podrobnosti měly být potvrzeny správcem systému."
+      ],
+      "start": 70.41496598639456,
+      "end": 110.27219954648525,
+      "sentences": [
+        {
+          "text": "Vysvětlil jsem proto kódovaný postup běžnými slovy: odpověď nenese napsané jméno, ale existuje seznam, který ji může spojit s konkrétním člověkem.",
+          "start": 70.41496598639456,
+          "end": 83.45297052154196,
+          "slow_start": 78.7857596371882,
+          "slow_end": 93.79746031746032
+        },
+        {
+          "text": "To není totéž jako odpověď, kterou už k jednotlivci přiřadit nelze.",
+          "start": 83.63297052154195,
+          "end": 89.29863945578231,
+          "slow_start": 93.97746031746031,
+          "slow_end": 100.40938775510205
+        },
+        {
+          "text": "Nešlo o právní posouzení konkrétního systému.",
+          "start": 89.47863945578231,
+          "end": 93.61179138321995,
+          "slow_start": 100.58938775510204,
+          "slow_end": 105.15210884353742
+        },
+        {
+          "text": "Potřebovali jsme nejprve sjednotit význam slov, aby škola neslíbila širší ochranu, než jakou popsaný postup skutečně poskytuje.",
+          "start": 93.79179138321996,
+          "end": 105.07668934240363,
+          "slow_start": 105.33210884353741,
+          "slow_end": 118.17274376417234
+        },
+        {
+          "text": "Technické podrobnosti měly být potvrzeny správcem systému.",
+          "start": 105.25668934240363,
+          "end": 110.27219954648525,
+          "slow_start": 118.35274376417233,
+          "slow_end": 124.07646258503401
+        }
+      ],
+      "slow_start": 78.7857596371882,
+      "slow_end": 124.07646258503401
+    },
+    {
+      "text": "Potom jsme sepsali otázky, které mohou obavy převést do ověřitelných podmínek. Kdo má přístup k seznamu kódů? Uvidí učitel jednotlivé odpovědi, nebo pouze souhrn? Kdy bude propojení odstraněno a kdo tento krok potvrdí? Může student některou otázku přeskočit? Na tyto body jsme si neodpovídali sami. Předali jsme je škole jako žádost o jasnou informaci před zahájením sběru odpovědí.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Potom jsme sepsali otázky, které mohou obavy převést do ověřitelných podmínek.",
+        "Kdo má přístup k seznamu kódů?",
+        "Uvidí učitel jednotlivé odpovědi, nebo pouze souhrn?",
+        "Kdy bude propojení odstraněno a kdo tento krok potvrdí?",
+        "Může student některou otázku přeskočit?",
+        "Na tyto body jsme si neodpovídali sami.",
+        "Předali jsme je škole jako žádost o jasnou informaci před zahájením sběru odpovědí."
+      ],
+      "start": 110.45219954648526,
+      "end": 145.07342403628118,
+      "sentences": [
+        {
+          "text": "Potom jsme sepsali otázky, které mohou obavy převést do ověřitelných podmínek.",
+          "start": 110.45219954648526,
+          "end": 117.16276643990929,
+          "slow_start": 124.25646258503401,
+          "slow_end": 131.6752380952381
+        },
+        {
+          "text": "Kdo má přístup k seznamu kódů?",
+          "start": 117.3427664399093,
+          "end": 120.22204081632653,
+          "slow_start": 131.8552380952381,
+          "slow_end": 135.04798185941044
+        },
+        {
+          "text": "Uvidí učitel jednotlivé odpovědi, nebo pouze souhrn?",
+          "start": 120.40204081632653,
+          "end": 125.42916099773242,
+          "slow_start": 135.22798185941042,
+          "slow_end": 140.90526077097505
+        },
+        {
+          "text": "Kdy bude propojení odstraněno a kdo tento krok potvrdí?",
+          "start": 125.60916099773243,
+          "end": 130.2299319727891,
+          "slow_start": 141.08526077097505,
+          "slow_end": 146.29814058956916
+        },
+        {
+          "text": "Může student některou otázku přeskočit?",
+          "start": 130.4099319727891,
+          "end": 134.1483446712018,
+          "slow_start": 146.47814058956916,
+          "slow_end": 150.72739229024944
+        },
+        {
+          "text": "Na tyto body jsme si neodpovídali sami.",
+          "start": 134.32834467120182,
+          "end": 137.82294784580498,
+          "slow_start": 150.90739229024942,
+          "slow_end": 154.93605442176872
+        },
+        {
+          "text": "Předali jsme je škole jako žádost o jasnou informaci před zahájením sběru odpovědí.",
+          "start": 138.00294784580498,
+          "end": 145.07342403628118,
+          "slow_start": 155.1160544217687,
+          "slow_end": 163.13854875283448
+        }
+      ],
+      "slow_start": 124.25646258503401,
+      "slow_end": 163.13854875283448
+    },
+    {
+      "text": "Pro rodiče jsem připravil krátké shrnutí bez odborných zkratek. Pro technika jsem naopak zachoval přesné rozlišení mezi kódem v odpovědi a seznamem, který kód propojuje se studentem. Obě verze popisovaly stejný stav. Lišily se množstvím podrobností, nikoli mírou jistoty. Pokud odpověď na některou otázku chyběla, uvedl jsem to i v jednodušší verzi; zjednodušení nesmí změnit neznámou věc v uklidňující slib.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Pro rodiče jsem připravil krátké shrnutí bez odborných zkratek.",
+        "Pro technika jsem naopak zachoval přesné rozlišení mezi kódem v odpovědi a seznamem, který kód propojuje se studentem.",
+        "Obě verze popisovaly stejný stav.",
+        "Lišily se množstvím podrobností, nikoli mírou jistoty.",
+        "Pokud odpověď na některou otázku chyběla, uvedl jsem to i v jednodušší verzi; zjednodušení nesmí změnit neznámou věc v uklidňující slib."
+      ],
+      "start": 145.2534240362812,
+      "end": 181.25614512471654,
+      "sentences": [
+        {
+          "text": "Pro rodiče jsem připravil krátké shrnutí bez odborných zkratek.",
+          "start": 145.2534240362812,
+          "end": 150.45469387755102,
+          "slow_start": 163.31854875283446,
+          "slow_end": 169.10031746031746
+        },
+        {
+          "text": "Pro technika jsem naopak zachoval přesné rozlišení mezi kódem v odpovědi a seznamem, který kód propojuje se studentem.",
+          "start": 150.63469387755103,
+          "end": 161.28104308390022,
+          "slow_start": 169.28031746031746,
+          "slow_end": 181.2037641723356
+        },
+        {
+          "text": "Obě verze popisovaly stejný stav.",
+          "start": 161.46104308390022,
+          "end": 164.5492970521542,
+          "slow_start": 181.3837641723356,
+          "slow_end": 185.04090702947846
+        },
+        {
+          "text": "Lišily se množstvím podrobností, nikoli mírou jistoty.",
+          "start": 164.7292970521542,
+          "end": 169.2455782312925,
+          "slow_start": 185.22090702947847,
+          "slow_end": 190.41056689342403
+        },
+        {
+          "text": "Pokud odpověď na některou otázku chyběla, uvedl jsem to i v jednodušší verzi; zjednodušení nesmí změnit neznámou věc v uklidňující slib.",
+          "start": 169.42557823129252,
+          "end": 181.25614512471654,
+          "slow_start": 190.59056689342404,
+          "slow_end": 203.6634013605442
+        }
+      ],
+      "slow_start": 163.31854875283446,
+      "slow_end": 203.6634013605442
+    },
+    {
+      "text": "Na konci se škola zavázala text upravit a doplnit konkrétní postup. Rodiče na oplátku upřesnili, které informace potřebují před rozhodnutím o účasti. Samotné setkání neprokázalo, že systém je bezpečný nebo že obavy už byly odstraněny. Přineslo však přesnější společný slovník a seznam odpovědí, které je třeba získat. Úspěšné zprostředkování někdy nespočívá v okamžité shodě, ale v tom, že obě strany konečně vědí, na co se vlastně ptají.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Na konci se škola zavázala text upravit a doplnit konkrétní postup.",
+        "Rodiče na oplátku upřesnili, které informace potřebují před rozhodnutím o účasti.",
+        "Samotné setkání neprokázalo, že systém je bezpečný nebo že obavy už byly odstraněny.",
+        "Přineslo však přesnější společný slovník a seznam odpovědí, které je třeba získat.",
+        "Úspěšné zprostředkování někdy nespočívá v okamžité shodě, ale v tom, že obě strany konečně vědí, na co se vlastně ptají."
+      ],
+      "start": 181.43614512471655,
+      "end": 220.58517006802722,
+      "sentences": [
+        {
+          "text": "Na konci se škola zavázala text upravit a doplnit konkrétní postup.",
+          "start": 181.43614512471655,
+          "end": 186.8928344671202,
+          "slow_start": 203.84340136054422,
+          "slow_end": 210.00829931972788
+        },
+        {
+          "text": "Rodiče na oplátku upřesnili, které informace potřebují před rozhodnutím o účasti.",
+          "start": 187.07283446712017,
+          "end": 194.2013605442177,
+          "slow_start": 210.1882993197279,
+          "slow_end": 218.17596371882087
+        },
+        {
+          "text": "Samotné setkání neprokázalo, že systém je bezpečný nebo že obavy už byly odstraněny.",
+          "start": 194.3813605442177,
+          "end": 202.24131519274377,
+          "slow_start": 218.35596371882087,
+          "slow_end": 226.95895691609977
+        },
+        {
+          "text": "Přineslo však přesnější společný slovník a seznam odpovědí, které je třeba získat.",
+          "start": 202.42131519274378,
+          "end": 209.54984126984127,
+          "slow_start": 227.13895691609977,
+          "slow_end": 235.03374149659865
+        },
+        {
+          "text": "Úspěšné zprostředkování někdy nespočívá v okamžité shodě, ale v tom, že obě strany konečně vědí, na co se vlastně ptají.",
+          "start": 209.72984126984127,
+          "end": 220.58517006802722,
+          "slow_start": 235.21374149659863,
+          "slow_end": 246.99786848072563
+        }
+      ],
+      "slow_start": 203.84340136054422,
+      "slow_end": 246.99786848072563
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "1aabcfe24933b47e09876dc4935ee2fb7e5eff2f72acb8e36f223ac1241fa417",
+    "slow": "755d5c28b459ac76b7c5e9f36a6c24442fc3d712f65fb55e099a8a399a4271e8"
+  }
+}

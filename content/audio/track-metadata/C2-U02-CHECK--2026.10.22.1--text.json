@@ -1,0 +1,75 @@
+{
+  "id": "C2-U02-CHECK--2026.10.22.1--text",
+  "lesson_id": "C2-U02-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "C2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Zpráva: Ne všechny pobočky už přijímají nové žádosti. Pouze jižní pobočka potvrdila rozšíření otevírací doby. U severní zatím neznáme termín změny.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Zpráva: Ne všechny pobočky už přijímají nové žádosti.",
+        "Pouze jižní pobočka potvrdila rozšíření otevírací doby.",
+        "U severní zatím neznáme termín změny."
+      ]
+    }
+  ],
+  "text_sha256": "fab6a8883a87bf3da589366088f3544c2403980658750a1b7e32c7e546f488f3",
+  "source_file": "content/assessments/C2-U02.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U02-CHECK--2026.10.22.1--text--fab6a8883a--normal.mp3",
+  "slow_file": "content/audio/files/C2-U02-CHECK--2026.10.22.1--text--fab6a8883a--slow.mp3",
+  "duration_seconds": 14.123673469387755,
+  "slow_duration_seconds": 15.853560090702947,
+  "cues": [
+    {
+      "text": "Zpráva: Ne všechny pobočky už přijímají nové žádosti. Pouze jižní pobočka potvrdila rozšíření otevírací doby. U severní zatím neznáme termín změny.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Zpráva: Ne všechny pobočky už přijímají nové žádosti.",
+        "Pouze jižní pobočka potvrdila rozšíření otevírací doby.",
+        "U severní zatím neznáme termín změny."
+      ],
+      "start": 0.0,
+      "end": 13.943673469387756,
+      "sentences": [
+        {
+          "text": "Zpráva: Ne všechny pobočky už přijímají nové žádosti.",
+          "start": 0.0,
+          "end": 5.270929705215419,
+          "slow_start": 0.0,
+          "slow_end": 5.955918367346939
+        },
+        {
+          "text": "Pouze jižní pobočka potvrdila rozšíření otevírací doby.",
+          "start": 5.45092970521542,
+          "end": 10.245850340136055,
+          "slow_start": 6.135918367346939,
+          "slow_end": 11.453287981859411
+        },
+        {
+          "text": "U severní zatím neznáme termín změny.",
+          "start": 10.425850340136055,
+          "end": 13.943673469387756,
+          "slow_start": 11.63328798185941,
+          "slow_end": 15.673560090702948
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 15.673560090702948
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "08f7748aee14852897a94f762ddc8931b99c9859dbdeff034029c9bd768cf6b2",
+    "slow": "3e8e80b2bb5db5c30ee5f7105bed6b995644b8ab791b8001f8a9fc73fc9432b3"
+  }
+}

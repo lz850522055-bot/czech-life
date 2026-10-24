@@ -1,0 +1,58 @@
+{
+  "id": "B2-U14-L01--2026.10.23.1--contrasts",
+  "lesson_id": "B2-U14-L01",
+  "content_version": "2026.10.23.1",
+  "level": "B2",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "do jedenácti. v jedenáct.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "do jedenácti. v jedenáct."
+      ]
+    }
+  ],
+  "text_sha256": "ee70cb18796603d1f5d6896d1edd7609ce149839b227c9f45b713fde4a313c8c",
+  "source_file": "content/lessons/B2/B2-U14-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U14-L01--2026.10.22.1--contrasts--ee70cb1879--normal.mp3",
+  "slow_file": "content/audio/files/B2-U14-L01--2026.10.22.1--contrasts--ee70cb1879--slow.mp3",
+  "duration_seconds": 2.3626757369614513,
+  "slow_duration_seconds": 2.641315192743764,
+  "cues": [
+    {
+      "text": "do jedenácti. v jedenáct.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "do jedenácti. v jedenáct."
+      ],
+      "start": 0.0,
+      "end": 2.182675736961451,
+      "sentences": [
+        {
+          "text": "do jedenácti. v jedenáct.",
+          "start": 0.0,
+          "end": 2.182675736961451,
+          "slow_start": 0.0,
+          "slow_end": 2.461315192743764
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.461315192743764
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "95a59266a56e9d0c4b395ad7286aff25086a0c9d68ca2c7c63eb7d8d2469e161",
+    "slow": "d330856df206ba5d519d1ae497bce112ebe10432f315432062541e1e79469f18"
+  },
+  "reused_from_track_id": "B2-U14-L01--2026.10.22.1--contrasts"
+}

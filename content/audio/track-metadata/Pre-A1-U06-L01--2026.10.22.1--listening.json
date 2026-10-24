@@ -1,0 +1,115 @@
+{
+  "id": "Pre-A1-U06-L01--2026.10.22.1--listening",
+  "lesson_id": "Pre-A1-U06-L01",
+  "content_version": "2026.10.22.1",
+  "level": "Pre-A1",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Vodu, prosím.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Vodu, prosím."
+      ]
+    },
+    {
+      "text": "Perlivou, nebo neperlivou?",
+      "index": 1,
+      "role": "listening",
+      "parts": [
+        "Perlivou, nebo neperlivou?"
+      ]
+    },
+    {
+      "text": "Neperlivou, prosím.",
+      "index": 2,
+      "role": "listening",
+      "parts": [
+        "Neperlivou, prosím."
+      ]
+    }
+  ],
+  "text_sha256": "5faaad325b8caf6fc9b3d60ba2b6163498683d892955f8090b5c7e0880f32fd8",
+  "source_file": "content/lessons/Pre-A1/Pre-A1-U06-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/Pre-A1-U06-L01--2026.10.22.1--listening--5faaad325b--normal.mp3",
+  "slow_file": "content/audio/files/Pre-A1-U06-L01--2026.10.22.1--listening--5faaad325b--slow.mp3",
+  "duration_seconds": 6.031519274376417,
+  "slow_duration_seconds": 6.6584580498866215,
+  "cues": [
+    {
+      "text": "Vodu, prosím.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Vodu, prosím."
+      ],
+      "start": 0.0,
+      "end": 1.4048072562358276,
+      "sentences": [
+        {
+          "text": "Vodu, prosím.",
+          "start": 0.0,
+          "end": 1.4048072562358276,
+          "slow_start": 0.0,
+          "slow_end": 1.6021768707482993
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.6021768707482993
+    },
+    {
+      "text": "Perlivou, nebo neperlivou?",
+      "index": 1,
+      "role": "listening",
+      "parts": [
+        "Perlivou, nebo neperlivou?"
+      ],
+      "start": 1.5848072562358277,
+      "end": 3.825532879818594,
+      "sentences": [
+        {
+          "text": "Perlivou, nebo neperlivou?",
+          "start": 1.5848072562358277,
+          "end": 3.825532879818594,
+          "slow_start": 1.7821768707482992,
+          "slow_end": 4.197052154195012
+        }
+      ],
+      "slow_start": 1.7821768707482992,
+      "slow_end": 4.197052154195012
+    },
+    {
+      "text": "Neperlivou, prosím.",
+      "index": 2,
+      "role": "listening",
+      "parts": [
+        "Neperlivou, prosím."
+      ],
+      "start": 4.0055328798185945,
+      "end": 5.851519274376417,
+      "sentences": [
+        {
+          "text": "Neperlivou, prosím.",
+          "start": 4.0055328798185945,
+          "end": 5.851519274376417,
+          "slow_start": 4.377052154195011,
+          "slow_end": 6.478458049886621
+        }
+      ],
+      "slow_start": 4.377052154195011,
+      "slow_end": 6.478458049886621
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "1402cb0d2e3b0b4a2b97d28041896be2b7d6574fa063920263b7805b788af0c8",
+    "slow": "5aa7b472e85aea00b8f7f97a0e2abb195988e6c7b77c58d41db5d6936e73cb44"
+  }
+}

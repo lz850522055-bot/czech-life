@@ -1,0 +1,59 @@
+{
+  "id": "C2-U07-L01--2026.10.22.1--exercises",
+  "lesson_id": "C2-U07-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C2",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Problém nemusí být v přepisu slov, nýbrž v jejich shrnutí.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "C2-U07-L01-E06",
+      "parts": [
+        "Problém nemusí být v přepisu slov, nýbrž v jejich shrnutí."
+      ]
+    }
+  ],
+  "text_sha256": "e0a9c00d62fcec0838cac8391277a8bfd8e5ac27f26de93fe449d3a0b4443733",
+  "source_file": "content/lessons/C2/C2-U07-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U07-L01--2026.10.22.1--exercises--e0a9c00d62--normal.mp3",
+  "slow_file": "content/audio/files/C2-U07-L01--2026.10.22.1--exercises--e0a9c00d62--slow.mp3",
+  "duration_seconds": 5.45092970521542,
+  "slow_duration_seconds": 6.054648526077098,
+  "cues": [
+    {
+      "text": "Problém nemusí být v přepisu slov, nýbrž v jejich shrnutí.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "C2-U07-L01-E06",
+      "parts": [
+        "Problém nemusí být v přepisu slov, nýbrž v jejich shrnutí."
+      ],
+      "start": 0.0,
+      "end": 5.270929705215419,
+      "sentences": [
+        {
+          "text": "Problém nemusí být v přepisu slov, nýbrž v jejich shrnutí.",
+          "start": 0.0,
+          "end": 5.270929705215419,
+          "slow_start": 0.0,
+          "slow_end": 5.874648526077097
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 5.874648526077097
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "63a059954a565deb4e9212b8224e126e65802472e7c7c1ba17cbf6564860eb02",
+    "slow": "1bdb7600362a7420a65ef3c5f5261cbc5945177cc5e15017d050dfa87e7553c4"
+  }
+}

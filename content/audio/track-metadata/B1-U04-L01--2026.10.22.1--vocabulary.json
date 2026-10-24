@@ -1,0 +1,144 @@
+{
+  "id": "B1-U04-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "B1-U04-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Potvrďte účast do pátku.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Potvrďte účast do pátku."
+      ]
+    },
+    {
+      "text": "Předpověď slibuje déšť.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Předpověď slibuje déšť."
+      ]
+    },
+    {
+      "text": "Máme náhradní možnost.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Máme náhradní možnost."
+      ]
+    },
+    {
+      "text": "Přišli, přestože pršelo.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Přišli, přestože pršelo."
+      ]
+    }
+  ],
+  "text_sha256": "5a3c81aed0c23b495eeb8e7604073505db2aa04a92d9b1c45bfb307d8dce75c5",
+  "source_file": "content/lessons/B1/B1-U04-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U04-L01--2026.10.22.1--vocabulary--5a3c81aed0--normal.mp3",
+  "slow_file": "content/audio/files/B1-U04-L01--2026.10.22.1--vocabulary--5a3c81aed0--slow.mp3",
+  "duration_seconds": 9.613242630385487,
+  "slow_duration_seconds": 10.92517006802721,
+  "cues": [
+    {
+      "text": "Potvrďte účast do pátku.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Potvrďte účast do pátku."
+      ],
+      "start": 0.0,
+      "end": 2.36843537414966,
+      "sentences": [
+        {
+          "text": "Potvrďte účast do pátku.",
+          "start": 0.0,
+          "end": 2.36843537414966,
+          "slow_start": 0.0,
+          "slow_end": 2.681904761904762
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.681904761904762
+    },
+    {
+      "text": "Předpověď slibuje déšť.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Předpověď slibuje déšť."
+      ],
+      "start": 2.5484353741496597,
+      "end": 4.719501133786848,
+      "sentences": [
+        {
+          "text": "Předpověď slibuje déšť.",
+          "start": 2.5484353741496597,
+          "end": 4.719501133786848,
+          "slow_start": 2.861904761904762,
+          "slow_end": 5.3
+        }
+      ],
+      "slow_start": 2.861904761904762,
+      "slow_end": 5.3
+    },
+    {
+      "text": "Máme náhradní možnost.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Máme náhradní možnost."
+      ],
+      "start": 4.899501133786848,
+      "end": 7.070566893424036,
+      "sentences": [
+        {
+          "text": "Máme náhradní možnost.",
+          "start": 4.899501133786848,
+          "end": 7.070566893424036,
+          "slow_start": 5.48,
+          "slow_end": 8.057414965986395
+        }
+      ],
+      "slow_start": 5.48,
+      "slow_end": 8.057414965986395
+    },
+    {
+      "text": "Přišli, přestože pršelo.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Přišli, přestože pršelo."
+      ],
+      "start": 7.250566893424036,
+      "end": 9.433242630385488,
+      "sentences": [
+        {
+          "text": "Přišli, přestože pršelo.",
+          "start": 7.250566893424036,
+          "end": 9.433242630385488,
+          "slow_start": 8.237414965986394,
+          "slow_end": 10.74517006802721
+        }
+      ],
+      "slow_start": 8.237414965986394,
+      "slow_end": 10.74517006802721
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "c6360ea965d6b8055c5681f642c1baeb5295f6ecc9b9804c49ad59eec1baf363",
+    "slow": "e1706c13d678555727152d5382547e9c77c13465c94569e4ea5f42eb09d2b6f0"
+  }
+}

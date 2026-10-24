@@ -1,0 +1,144 @@
+{
+  "id": "B1-U07-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "B1-U07-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Pošlu vám krátké shrnutí.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Pošlu vám krátké shrnutí."
+      ]
+    },
+    {
+      "text": "Návrh připravila Jana.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Návrh připravila Jana."
+      ]
+    },
+    {
+      "text": "Jaké je hlavní sdělení zprávy?",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Jaké je hlavní sdělení zprávy?"
+      ]
+    },
+    {
+      "text": "Chci zdůraznit jeden rozdíl.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Chci zdůraznit jeden rozdíl."
+      ]
+    }
+  ],
+  "text_sha256": "d8b713531f7c3901d1f43c1ac0ebc461c439f5c48137d13f6043a7feefb948f4",
+  "source_file": "content/lessons/B1/B1-U07-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U07-L01--2026.10.22.1--vocabulary--d8b713531f--normal.mp3",
+  "slow_file": "content/audio/files/B1-U07-L01--2026.10.22.1--vocabulary--d8b713531f--slow.mp3",
+  "duration_seconds": 10.588480725623583,
+  "slow_duration_seconds": 11.946848072562359,
+  "cues": [
+    {
+      "text": "Pošlu vám krátké shrnutí.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Pošlu vám krátké shrnutí."
+      ],
+      "start": 0.0,
+      "end": 2.5658049886621317,
+      "sentences": [
+        {
+          "text": "Pošlu vám krátké shrnutí.",
+          "start": 0.0,
+          "end": 2.5658049886621317,
+          "slow_start": 0.0,
+          "slow_end": 2.9605442176870747
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.9605442176870747
+    },
+    {
+      "text": "Návrh připravila Jana.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Návrh připravila Jana."
+      ],
+      "start": 2.7458049886621314,
+      "end": 4.684671201814059,
+      "sentences": [
+        {
+          "text": "Návrh připravila Jana.",
+          "start": 2.7458049886621314,
+          "end": 4.684671201814059,
+          "slow_start": 3.140544217687075,
+          "slow_end": 5.311609977324263
+        }
+      ],
+      "slow_start": 3.140544217687075,
+      "slow_end": 5.311609977324263
+    },
+    {
+      "text": "Jaké je hlavní sdělení zprávy?",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Jaké je hlavní sdělení zprávy?"
+      ],
+      "start": 4.864671201814059,
+      "end": 7.6046258503401365,
+      "sentences": [
+        {
+          "text": "Jaké je hlavní sdělení zprávy?",
+          "start": 4.864671201814059,
+          "end": 7.6046258503401365,
+          "slow_start": 5.491609977324263,
+          "slow_end": 8.603083900226757
+        }
+      ],
+      "slow_start": 5.491609977324263,
+      "slow_end": 8.603083900226757
+    },
+    {
+      "text": "Chci zdůraznit jeden rozdíl.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Chci zdůraznit jeden rozdíl."
+      ],
+      "start": 7.784625850340136,
+      "end": 10.408480725623583,
+      "sentences": [
+        {
+          "text": "Chci zdůraznit jeden rozdíl.",
+          "start": 7.784625850340136,
+          "end": 10.408480725623583,
+          "slow_start": 8.783083900226757,
+          "slow_end": 11.766848072562357
+        }
+      ],
+      "slow_start": 8.783083900226757,
+      "slow_end": 11.766848072562357
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "fb874e04e71ace8616f30960086ae1480c9d6f727f49f256ddfe511d453aeb65",
+    "slow": "dc1d0fee9743d7536323df83b7b6189cfb425a20bc710c54245a3e6ec3824b80"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "C2-U10-CHECK--2026.10.22.1--text",
+  "lesson_id": "C2-U10-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "C2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Česká a zahraniční kolegyně se neshodly na výrazu brzy. Jedna očekávala zprávu během dne, druhá do konce příštího týdne. Obě pak zjistily, že i lidé v jejich vlastních týmech používají toto slovo různě.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Česká a zahraniční kolegyně se neshodly na výrazu brzy.",
+        "Jedna očekávala zprávu během dne, druhá do konce příštího týdne.",
+        "Obě pak zjistily, že i lidé v jejich vlastních týmech používají toto slovo různě."
+      ]
+    }
+  ],
+  "text_sha256": "59db64c01694a6f6dc88d3673e5da90e8d6695b55f4aecd638e439e73d8020f5",
+  "source_file": "content/assessments/C2-U10.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U10-CHECK--2026.10.22.1--text--59db64c016--normal.mp3",
+  "slow_file": "content/audio/files/C2-U10-CHECK--2026.10.22.1--text--59db64c016--slow.mp3",
+  "duration_seconds": 17.397687074829932,
+  "slow_duration_seconds": 19.441043083900226,
+  "cues": [
+    {
+      "text": "Česká a zahraniční kolegyně se neshodly na výrazu brzy. Jedna očekávala zprávu během dne, druhá do konce příštího týdne. Obě pak zjistily, že i lidé v jejich vlastních týmech používají toto slovo různě.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Česká a zahraniční kolegyně se neshodly na výrazu brzy.",
+        "Jedna očekávala zprávu během dne, druhá do konce příštího týdne.",
+        "Obě pak zjistily, že i lidé v jejich vlastních týmech používají toto slovo různě."
+      ],
+      "start": 0.0,
+      "end": 17.217687074829932,
+      "sentences": [
+        {
+          "text": "Česká a zahraniční kolegyně se neshodly na výrazu brzy.",
+          "start": 0.0,
+          "end": 4.667210884353741,
+          "slow_start": 0.0,
+          "slow_end": 5.166439909297052
+        },
+        {
+          "text": "Jedna očekávala zprávu během dne, druhá do konce příštího týdne.",
+          "start": 4.847210884353742,
+          "end": 10.431609977324262,
+          "slow_start": 5.346439909297052,
+          "slow_end": 11.639047619047618
+        },
+        {
+          "text": "Obě pak zjistily, že i lidé v jejich vlastních týmech používají toto slovo různě.",
+          "start": 10.611609977324264,
+          "end": 17.217687074829932,
+          "slow_start": 11.81904761904762,
+          "slow_end": 19.261043083900226
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 19.261043083900226
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "ebfe302c1c26acca54883e1f3107f653ac9ae3f68cdf3603789488255925a7b2",
+    "slow": "739d9858a9a113b9dbe749b5bc3c5c11659c47050f9938cad3de85f32ec412e9"
+  }
+}

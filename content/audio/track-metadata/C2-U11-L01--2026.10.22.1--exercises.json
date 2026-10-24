@@ -1,0 +1,59 @@
+{
+  "id": "C2-U11-L01--2026.10.22.1--exercises",
+  "lesson_id": "C2-U11-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C2",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Kroky znamenají nejprve rušení, potom blízkost a nakonec moje vlastní jednání.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "C2-U11-L01-E06",
+      "parts": [
+        "Kroky znamenají nejprve rušení, potom blízkost a nakonec moje vlastní jednání."
+      ]
+    }
+  ],
+  "text_sha256": "f9e60bf93bf9b6ad75b0952609e53157c0eec839ac217ed560649ff45890f473",
+  "source_file": "content/lessons/C2/C2-U11-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U11-L01--2026.10.22.1--exercises--f9e60bf93b--normal.mp3",
+  "slow_file": "content/audio/files/C2-U11-L01--2026.10.22.1--exercises--f9e60bf93b--slow.mp3",
+  "duration_seconds": 7.01827664399093,
+  "slow_duration_seconds": 7.761315192743764,
+  "cues": [
+    {
+      "text": "Kroky znamenají nejprve rušení, potom blízkost a nakonec moje vlastní jednání.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "C2-U11-L01-E06",
+      "parts": [
+        "Kroky znamenají nejprve rušení, potom blízkost a nakonec moje vlastní jednání."
+      ],
+      "start": 0.0,
+      "end": 6.8382766439909295,
+      "sentences": [
+        {
+          "text": "Kroky znamenají nejprve rušení, potom blízkost a nakonec moje vlastní jednání.",
+          "start": 0.0,
+          "end": 6.8382766439909295,
+          "slow_start": 0.0,
+          "slow_end": 7.581315192743764
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 7.581315192743764
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "020f8f32d07fbaac10fac4fffb4f332f47c9787ca864148126ff538f6ea11923",
+    "slow": "108117abb93b029c5fc20dc123f2f520b9901609943a4b75e0edbe419d24217a"
+  }
+}

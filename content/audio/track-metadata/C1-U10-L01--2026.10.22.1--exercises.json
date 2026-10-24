@@ -1,0 +1,68 @@
+{
+  "id": "C1-U10-L01--2026.10.22.1--exercises",
+  "lesson_id": "C1-U10-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Letošní zpráva počítá celý víkend, loňská jen sobotu. Bez sjednocení nelze vyvozovat změnu návštěvnosti.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "C1-U10-L01-E06",
+      "parts": [
+        "Letošní zpráva počítá celý víkend, loňská jen sobotu.",
+        "Bez sjednocení nelze vyvozovat změnu návštěvnosti."
+      ]
+    }
+  ],
+  "text_sha256": "d715731b4ce6bc2a558e5f62bea536bd73541fefaf8d1d7201eba9a8de4f8c29",
+  "source_file": "content/lessons/C1/C1-U10-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U10-L01--2026.10.22.1--exercises--d715731b4c--normal.mp3",
+  "slow_file": "content/audio/files/C1-U10-L01--2026.10.22.1--exercises--d715731b4c--slow.mp3",
+  "duration_seconds": 9.880181405895692,
+  "slow_duration_seconds": 11.110839002267573,
+  "cues": [
+    {
+      "text": "Letošní zpráva počítá celý víkend, loňská jen sobotu. Bez sjednocení nelze vyvozovat změnu návštěvnosti.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "C1-U10-L01-E06",
+      "parts": [
+        "Letošní zpráva počítá celý víkend, loňská jen sobotu.",
+        "Bez sjednocení nelze vyvozovat změnu návštěvnosti."
+      ],
+      "start": 0.0,
+      "end": 9.700181405895691,
+      "sentences": [
+        {
+          "text": "Letošní zpráva počítá celý víkend, loňská jen sobotu.",
+          "start": 0.0,
+          "end": 5.061950113378685,
+          "slow_start": 0.0,
+          "slow_end": 5.61922902494331
+        },
+        {
+          "text": "Bez sjednocení nelze vyvozovat změnu návštěvnosti.",
+          "start": 5.241950113378685,
+          "end": 9.700181405895691,
+          "slow_start": 5.799229024943311,
+          "slow_end": 10.930839002267573
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 10.930839002267573
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "4ed46597dad986729cb3c49f9619a9f9d081e5b5161e331e16fd554d8c34d60e",
+    "slow": "195c2749d6a5902f61114f804dbaf4777a5bd44257815398083ed47829491248"
+  }
+}

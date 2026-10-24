@@ -1,0 +1,57 @@
+{
+  "id": "B1-U01-L01--2026.10.22.1--contrasts",
+  "lesson_id": "B1-U01-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "pozdě. později.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "pozdě. později."
+      ]
+    }
+  ],
+  "text_sha256": "974e6bb6cdc31f342efc25b420cfaa472bac8c5aaf2c171908919a1c7e45976b",
+  "source_file": "content/lessons/B1/B1-U01-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U01-L01--2026.10.22.1--contrasts--974e6bb6cd--normal.mp3",
+  "slow_file": "content/audio/files/B1-U01-L01--2026.10.22.1--contrasts--974e6bb6cd--slow.mp3",
+  "duration_seconds": 1.399047619047619,
+  "slow_duration_seconds": 1.4803174603174603,
+  "cues": [
+    {
+      "text": "pozdě. později.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "pozdě. později."
+      ],
+      "start": 0.0,
+      "end": 1.2190476190476192,
+      "sentences": [
+        {
+          "text": "pozdě. později.",
+          "start": 0.0,
+          "end": 1.2190476190476192,
+          "slow_start": 0.0,
+          "slow_end": 1.3003174603174603
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.3003174603174603
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "ec731eb4f50e876792fca151c95f32b11b434d42f410aa03d8f4c45c630caba3",
+    "slow": "368345f0bd6f50ee844cae8c2f516c6880078372db0e5afe17d2c1c71246bc23"
+  }
+}

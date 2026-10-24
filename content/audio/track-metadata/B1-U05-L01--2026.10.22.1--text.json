@@ -1,0 +1,306 @@
+{
+  "id": "B1-U05-L01--2026.10.22.1--text",
+  "lesson_id": "B1-U05-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Kamarádka Lenka hledá nový byt. Našla levnější nabídku daleko od práce a dražší byt blízko tramvaje. Zeptala se mě, co bych udělal na jejím místě. Nechtěl jsem odpovědět jen podle ceny. Nejprve jsem se jí zeptal, kolik času tráví dojížděním a zda potřebuje klid na práci z domova. Řekla, že by ráda bydlela blíž centru, ale nechce ztratit finanční rezervu.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Kamarádka Lenka hledá nový byt.",
+        "Našla levnější nabídku daleko od práce a dražší byt blízko tramvaje.",
+        "Zeptala se mě, co bych udělal na jejím místě.",
+        "Nechtěl jsem odpovědět jen podle ceny.",
+        "Nejprve jsem se jí zeptal, kolik času tráví dojížděním a zda potřebuje klid na práci z domova.",
+        "Řekla, že by ráda bydlela blíž centru, ale nechce ztratit finanční rezervu."
+      ]
+    },
+    {
+      "text": "Navrhl jsem, aby si oba byty prohlédla ve stejný den. „Kdybych byl na tvém místě, porovnal bych celkové náklady, nejen nájem,“ řekl jsem. Do levnějšího bytu by musela koupit nábytek a cesta do práce by trvala skoro hodinu. Dražší byt byl vybavený, ale nebylo jasné, co zahrnují měsíční poplatky. Bez těchto údajů by srovnání nebylo poctivé.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Navrhl jsem, aby si oba byty prohlédla ve stejný den.",
+        "„Kdybych byl na tvém místě, porovnal bych celkové náklady, nejen nájem,“ řekl jsem.",
+        "Do levnějšího bytu by musela koupit nábytek a cesta do práce by trvala skoro hodinu.",
+        "Dražší byt byl vybavený, ale nebylo jasné, co zahrnují měsíční poplatky.",
+        "Bez těchto údajů by srovnání nebylo poctivé."
+      ]
+    },
+    {
+      "text": "Lenka chtěla majiteli napsat hned večer. Pomohl jsem jí formulovat zdvořilý dotaz: „Mohl byste mi prosím upřesnit, které služby jsou v ceně? Bylo by možné domluvit prohlídku na čtvrtek?“ Nešlo o nejistotu v jejím rozhodování. Podmiňovací způsob zde sloužil k tomu, aby žádost nepůsobila jako příkaz. Majitel odpověděl stručně, ale poslal všechny potřebné informace.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Lenka chtěla majiteli napsat hned večer.",
+        "Pomohl jsem jí formulovat zdvořilý dotaz: „Mohl byste mi prosím upřesnit, které služby jsou v ceně?",
+        "Bylo by možné domluvit prohlídku na čtvrtek?“",
+        "Nešlo o nejistotu v jejím rozhodování.",
+        "Podmiňovací způsob zde sloužil k tomu, aby žádost nepůsobila jako příkaz.",
+        "Majitel odpověděl stručně, ale poslal všechny potřebné informace."
+      ]
+    },
+    {
+      "text": "Nakonec si Lenka vybrala dražší byt. Řekla, že kdyby měla menší rozpočet, hledala by dál, ale teď si může dovolit připlatit za kratší cestu. Já bych možná zvolil jinak, protože pracuji převážně doma. Oba jsme ale uznali, že dobrá rada musí vycházet z potřeb člověka, který se rozhoduje. Věta „Já bych…“ je návrh, nikoli závazný pokyn pro druhého.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Nakonec si Lenka vybrala dražší byt.",
+        "Řekla, že kdyby měla menší rozpočet, hledala by dál, ale teď si může dovolit připlatit za kratší cestu.",
+        "Já bych možná zvolil jinak, protože pracuji převážně doma.",
+        "Oba jsme ale uznali, že dobrá rada musí vycházet z potřeb člověka, který se rozhoduje.",
+        "Věta „Já bych…“ je návrh, nikoli závazný pokyn pro druhého."
+      ]
+    }
+  ],
+  "text_sha256": "c0ee24cb7a40684910349afd1de2ccc447f390c6c8135be6915cbb950d779d4b",
+  "source_file": "content/lessons/B1/B1-U05-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U05-L01--2026.10.22.1--text--c0ee24cb7a--normal.mp3",
+  "slow_file": "content/audio/files/B1-U05-L01--2026.10.22.1--text--c0ee24cb7a--slow.mp3",
+  "duration_seconds": 126.86321995464853,
+  "slow_duration_seconds": 143.07074829931972,
+  "cues": [
+    {
+      "text": "Kamarádka Lenka hledá nový byt. Našla levnější nabídku daleko od práce a dražší byt blízko tramvaje. Zeptala se mě, co bych udělal na jejím místě. Nechtěl jsem odpovědět jen podle ceny. Nejprve jsem se jí zeptal, kolik času tráví dojížděním a zda potřebuje klid na práci z domova. Řekla, že by ráda bydlela blíž centru, ale nechce ztratit finanční rezervu.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Kamarádka Lenka hledá nový byt.",
+        "Našla levnější nabídku daleko od práce a dražší byt blízko tramvaje.",
+        "Zeptala se mě, co bych udělal na jejím místě.",
+        "Nechtěl jsem odpovědět jen podle ceny.",
+        "Nejprve jsem se jí zeptal, kolik času tráví dojížděním a zda potřebuje klid na práci z domova.",
+        "Řekla, že by ráda bydlela blíž centru, ale nechce ztratit finanční rezervu."
+      ],
+      "start": 0.0,
+      "end": 31.631609977324263,
+      "sentences": [
+        {
+          "text": "Kamarádka Lenka hledá nový byt.",
+          "start": 0.0,
+          "end": 2.9024943310657596,
+          "slow_start": 0.0,
+          "slow_end": 3.250793650793651
+        },
+        {
+          "text": "Našla levnější nabídku daleko od práce a dražší byt blízko tramvaje.",
+          "start": 3.0824943310657598,
+          "end": 9.026802721088435,
+          "slow_start": 3.430793650793651,
+          "slow_end": 10.164580498866213
+        },
+        {
+          "text": "Zeptala se mě, co bych udělal na jejím místě.",
+          "start": 9.206802721088435,
+          "end": 13.281904761904762,
+          "slow_start": 10.344580498866213,
+          "slow_end": 15.081451247165534
+        },
+        {
+          "text": "Nechtěl jsem odpovědět jen podle ceny.",
+          "start": 13.461904761904762,
+          "end": 16.875238095238096,
+          "slow_start": 15.261451247165533,
+          "slow_end": 19.290113378684808
+        },
+        {
+          "text": "Nejprve jsem se jí zeptal, kolik času tráví dojížděním a zda potřebuje klid na práci z domova.",
+          "start": 17.055238095238096,
+          "end": 24.97324263038549,
+          "slow_start": 19.470113378684808,
+          "slow_end": 28.351746031746032
+        },
+        {
+          "text": "Řekla, že by ráda bydlela blíž centru, ale nechce ztratit finanční rezervu.",
+          "start": 25.15324263038549,
+          "end": 31.631609977324263,
+          "slow_start": 28.53174603174603,
+          "slow_end": 35.95052154195011
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 35.95052154195011
+    },
+    {
+      "text": "Navrhl jsem, aby si oba byty prohlédla ve stejný den. „Kdybych byl na tvém místě, porovnal bych celkové náklady, nejen nájem,“ řekl jsem. Do levnějšího bytu by musela koupit nábytek a cesta do práce by trvala skoro hodinu. Dražší byt byl vybavený, ale nebylo jasné, co zahrnují měsíční poplatky. Bez těchto údajů by srovnání nebylo poctivé.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Navrhl jsem, aby si oba byty prohlédla ve stejný den.",
+        "„Kdybych byl na tvém místě, porovnal bych celkové náklady, nejen nájem,“ řekl jsem.",
+        "Do levnějšího bytu by musela koupit nábytek a cesta do práce by trvala skoro hodinu.",
+        "Dražší byt byl vybavený, ale nebylo jasné, co zahrnují měsíční poplatky.",
+        "Bez těchto údajů by srovnání nebylo poctivé."
+      ],
+      "start": 31.811609977324263,
+      "end": 62.67111111111111,
+      "sentences": [
+        {
+          "text": "Navrhl jsem, aby si oba byty prohlédla ve stejný den.",
+          "start": 31.811609977324263,
+          "end": 36.478820861678,
+          "slow_start": 36.13052154195012,
+          "slow_end": 41.296961451247164
+        },
+        {
+          "text": "„Kdybych byl na tvém místě, porovnal bych celkové náklady, nejen nájem,“ řekl jsem.",
+          "start": 36.658820861678,
+          "end": 44.34462585034014,
+          "slow_start": 41.47696145124716,
+          "slow_end": 50.346984126984125
+        },
+        {
+          "text": "Do levnějšího bytu by musela koupit nábytek a cesta do práce by trvala skoro hodinu.",
+          "start": 44.524625850340136,
+          "end": 51.80408163265306,
+          "slow_start": 50.526984126984125,
+          "slow_end": 58.572698412698415
+        },
+        {
+          "text": "Dražší byt byl vybavený, ale nebylo jasné, co zahrnují měsíční poplatky.",
+          "start": 51.98408163265306,
+          "end": 58.752698412698415,
+          "slow_start": 58.752698412698415,
+          "slow_end": 66.46172335600907
+        },
+        {
+          "text": "Bez těchto údajů by srovnání nebylo poctivé.",
+          "start": 58.932698412698414,
+          "end": 62.67111111111111,
+          "slow_start": 66.64172335600907,
+          "slow_end": 70.87936507936507
+        }
+      ],
+      "slow_start": 36.13052154195012,
+      "slow_end": 70.87936507936507
+    },
+    {
+      "text": "Lenka chtěla majiteli napsat hned večer. Pomohl jsem jí formulovat zdvořilý dotaz: „Mohl byste mi prosím upřesnit, které služby jsou v ceně? Bylo by možné domluvit prohlídku na čtvrtek?“ Nešlo o nejistotu v jejím rozhodování. Podmiňovací způsob zde sloužil k tomu, aby žádost nepůsobila jako příkaz. Majitel odpověděl stručně, ale poslal všechny potřebné informace.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Lenka chtěla majiteli napsat hned večer.",
+        "Pomohl jsem jí formulovat zdvořilý dotaz: „Mohl byste mi prosím upřesnit, které služby jsou v ceně?",
+        "Bylo by možné domluvit prohlídku na čtvrtek?“",
+        "Nešlo o nejistotu v jejím rozhodování.",
+        "Podmiňovací způsob zde sloužil k tomu, aby žádost nepůsobila jako příkaz.",
+        "Majitel odpověděl stručně, ale poslal všechny potřebné informace."
+      ],
+      "start": 62.85111111111111,
+      "end": 95.89913832199547,
+      "sentences": [
+        {
+          "text": "Lenka chtěla majiteli napsat hned večer.",
+          "start": 62.85111111111111,
+          "end": 66.53147392290249,
+          "slow_start": 71.05936507936508,
+          "slow_end": 75.2621768707483
+        },
+        {
+          "text": "Pomohl jsem jí formulovat zdvořilý dotaz: „Mohl byste mi prosím upřesnit, které služby jsou v ceně?",
+          "start": 66.7114739229025,
+          "end": 75.04743764172336,
+          "slow_start": 75.4421768707483,
+          "slow_end": 84.69532879818594
+        },
+        {
+          "text": "Bylo by možné domluvit prohlídku na čtvrtek?“",
+          "start": 75.22743764172336,
+          "end": 79.15160997732427,
+          "slow_start": 84.87532879818595,
+          "slow_end": 89.26390022675737
+        },
+        {
+          "text": "Nešlo o nejistotu v jejím rozhodování.",
+          "start": 79.33160997732426,
+          "end": 82.58240362811792,
+          "slow_start": 89.44390022675736,
+          "slow_end": 93.11265306122449
+        },
+        {
+          "text": "Podmiňovací způsob zde sloužil k tomu, aby žádost nepůsobila jako příkaz.",
+          "start": 82.76240362811791,
+          "end": 89.97219954648526,
+          "slow_start": 93.29265306122448,
+          "slow_end": 101.40802721088436
+        },
+        {
+          "text": "Majitel odpověděl stručně, ale poslal všechny potřebné informace.",
+          "start": 90.15219954648526,
+          "end": 95.89913832199547,
+          "slow_start": 101.58802721088435,
+          "slow_end": 108.19410430839002
+        }
+      ],
+      "slow_start": 71.05936507936508,
+      "slow_end": 108.19410430839002
+    },
+    {
+      "text": "Nakonec si Lenka vybrala dražší byt. Řekla, že kdyby měla menší rozpočet, hledala by dál, ale teď si může dovolit připlatit za kratší cestu. Já bych možná zvolil jinak, protože pracuji převážně doma. Oba jsme ale uznali, že dobrá rada musí vycházet z potřeb člověka, který se rozhoduje. Věta „Já bych…“ je návrh, nikoli závazný pokyn pro druhého.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Nakonec si Lenka vybrala dražší byt.",
+        "Řekla, že kdyby měla menší rozpočet, hledala by dál, ale teď si může dovolit připlatit za kratší cestu.",
+        "Já bych možná zvolil jinak, protože pracuji převážně doma.",
+        "Oba jsme ale uznali, že dobrá rada musí vycházet z potřeb člověka, který se rozhoduje.",
+        "Věta „Já bych…“ je návrh, nikoli závazný pokyn pro druhého."
+      ],
+      "start": 96.07913832199546,
+      "end": 126.68321995464852,
+      "sentences": [
+        {
+          "text": "Nakonec si Lenka vybrala dražší byt.",
+          "start": 96.07913832199546,
+          "end": 99.3647619047619,
+          "slow_start": 108.37410430839002,
+          "slow_end": 112.12412698412699
+        },
+        {
+          "text": "Řekla, že kdyby měla menší rozpočet, hledala by dál, ale teď si může dovolit připlatit za kratší cestu.",
+          "start": 99.5447619047619,
+          "end": 108.57732426303855,
+          "slow_start": 112.30412698412698,
+          "slow_end": 122.53251700680272
+        },
+        {
+          "text": "Já bych možná zvolil jinak, protože pracuji převážně doma.",
+          "start": 108.75732426303856,
+          "end": 113.6102947845805,
+          "slow_start": 122.71251700680273,
+          "slow_end": 128.09954648526076
+        },
+        {
+          "text": "Oba jsme ale uznali, že dobrá rada musí vycházet z potřeb člověka, který se rozhoduje.",
+          "start": 113.7902947845805,
+          "end": 121.40643990929705,
+          "slow_start": 128.27954648526077,
+          "slow_end": 136.92897959183674
+        },
+        {
+          "text": "Věta „Já bych…“ je návrh, nikoli závazný pokyn pro druhého.",
+          "start": 121.58643990929706,
+          "end": 126.68321995464852,
+          "slow_start": 137.10897959183674,
+          "slow_end": 142.89074829931974
+        }
+      ],
+      "slow_start": 108.37410430839002,
+      "slow_end": 142.89074829931974
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "5c79c70be156363b9a968616993bb5ce6678f67dc74b34f46de54613ba5bc243",
+    "slow": "75bffd9436539a802c6bd073ad8889ae2df0ac881ff667e28df577c8a54ce265"
+  }
+}

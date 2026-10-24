@@ -1,0 +1,94 @@
+{
+  "id": "C2-U03-L01--2026.10.23.1--listening",
+  "lesson_id": "C2-U03-L01",
+  "content_version": "2026.10.23.1",
+  "level": "C2",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Zapisovatelka: Změna bude určitě trvalá. Předseda: To rád slyším. Zapisovatelka: Nikdo totiž nebude mít sílu vyplnit žádost o její zrušení. Předseda: Aha. Tak tu žádost ještě zjednodušíme.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Zapisovatelka: Změna bude určitě trvalá.",
+        "Předseda: To rád slyším.",
+        "Zapisovatelka: Nikdo totiž nebude mít sílu vyplnit žádost o její zrušení.",
+        "Předseda: Aha.",
+        "Tak tu žádost ještě zjednodušíme."
+      ]
+    }
+  ],
+  "text_sha256": "92900f027889adcce0b72ef477b340a2ae93aa65e571d40ac5e7e291020e4d5f",
+  "source_file": "content/lessons/C2/C2-U03-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U03-L01--2026.10.22.1--listening--92900f0278--normal.mp3",
+  "slow_file": "content/audio/files/C2-U03-L01--2026.10.22.1--listening--92900f0278--slow.mp3",
+  "duration_seconds": 18.477505668934242,
+  "slow_duration_seconds": 20.753061224489795,
+  "cues": [
+    {
+      "text": "Zapisovatelka: Změna bude určitě trvalá. Předseda: To rád slyším. Zapisovatelka: Nikdo totiž nebude mít sílu vyplnit žádost o její zrušení. Předseda: Aha. Tak tu žádost ještě zjednodušíme.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Zapisovatelka: Změna bude určitě trvalá.",
+        "Předseda: To rád slyším.",
+        "Zapisovatelka: Nikdo totiž nebude mít sílu vyplnit žádost o její zrušení.",
+        "Předseda: Aha.",
+        "Tak tu žádost ještě zjednodušíme."
+      ],
+      "start": 0.0,
+      "end": 18.29750566893424,
+      "sentences": [
+        {
+          "text": "Zapisovatelka: Změna bude určitě trvalá.",
+          "start": 0.0,
+          "end": 3.912562358276644,
+          "slow_start": 0.0,
+          "slow_end": 4.4117913832199545
+        },
+        {
+          "text": "Předseda: To rád slyším.",
+          "start": 4.092562358276644,
+          "end": 6.437777777777778,
+          "slow_start": 4.591791383219955,
+          "slow_end": 7.157596371882086
+        },
+        {
+          "text": "Zapisovatelka: Nikdo totiž nebude mít sílu vyplnit žádost o její zrušení.",
+          "start": 6.6177777777777775,
+          "end": 13.653424036281178,
+          "slow_start": 7.3375963718820865,
+          "slow_end": 15.313650793650794
+        },
+        {
+          "text": "Předseda: Aha.",
+          "start": 13.83342403628118,
+          "end": 15.342721088435374,
+          "slow_start": 15.493650793650794,
+          "slow_end": 17.223537414965985
+        },
+        {
+          "text": "Tak tu žádost ještě zjednodušíme.",
+          "start": 15.522721088435373,
+          "end": 18.29750566893424,
+          "slow_start": 17.403537414965985,
+          "slow_end": 20.573061224489795
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 20.573061224489795
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "84c009969a34f9a32984ae71c3231efd6ca75c712ae99fbe673ed400595818d9",
+    "slow": "5930aae4c9ecb6b561f7fe0cb0278a53a597c625618063b17c26455316de18bd"
+  },
+  "reused_from_track_id": "C2-U03-L01--2026.10.22.1--listening"
+}

@@ -1,0 +1,93 @@
+{
+  "id": "B2-U04-L01--2026.10.22.1--listening",
+  "lesson_id": "B2-U04-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B2",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Ahoj, můžeme to přesunout na úterý? Ještě čekáme na jeden údaj. Jakmile ho dostanu, pošlu ti podklady. — Dobrý den, rádi bychom požádali o přesunutí termínu na úterý. Čekáme na potvrzení jednoho údaje. Prosím o sdělení, zda s navrženou změnou souhlasíte.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Ahoj, můžeme to přesunout na úterý?",
+        "Ještě čekáme na jeden údaj.",
+        "Jakmile ho dostanu, pošlu ti podklady. — Dobrý den, rádi bychom požádali o přesunutí termínu na úterý.",
+        "Čekáme na potvrzení jednoho údaje.",
+        "Prosím o sdělení, zda s navrženou změnou souhlasíte."
+      ]
+    }
+  ],
+  "text_sha256": "480deb8907531b55a0ae15bc01a9b8e0756b57e590d2fd6c1cdfa28c9de6f248",
+  "source_file": "content/lessons/B2/B2-U04-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U04-L01--2026.10.22.1--listening--480deb8907--normal.mp3",
+  "slow_file": "content/audio/files/B2-U04-L01--2026.10.22.1--listening--480deb8907--slow.mp3",
+  "duration_seconds": 23.40013605442177,
+  "slow_duration_seconds": 26.325850340136054,
+  "cues": [
+    {
+      "text": "Ahoj, můžeme to přesunout na úterý? Ještě čekáme na jeden údaj. Jakmile ho dostanu, pošlu ti podklady. — Dobrý den, rádi bychom požádali o přesunutí termínu na úterý. Čekáme na potvrzení jednoho údaje. Prosím o sdělení, zda s navrženou změnou souhlasíte.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Ahoj, můžeme to přesunout na úterý?",
+        "Ještě čekáme na jeden údaj.",
+        "Jakmile ho dostanu, pošlu ti podklady. — Dobrý den, rádi bychom požádali o přesunutí termínu na úterý.",
+        "Čekáme na potvrzení jednoho údaje.",
+        "Prosím o sdělení, zda s navrženou změnou souhlasíte."
+      ],
+      "start": 0.0,
+      "end": 23.22013605442177,
+      "sentences": [
+        {
+          "text": "Ahoj, můžeme to přesunout na úterý?",
+          "start": 0.0,
+          "end": 3.076643990929705,
+          "slow_start": 0.0,
+          "slow_end": 3.3901133786848074
+        },
+        {
+          "text": "Ještě čekáme na jeden údaj.",
+          "start": 3.2566439909297054,
+          "end": 5.822448979591837,
+          "slow_start": 3.570113378684807,
+          "slow_end": 6.449387755102041
+        },
+        {
+          "text": "Jakmile ho dostanu, pošlu ti podklady. — Dobrý den, rádi bychom požádali o přesunutí termínu na úterý.",
+          "start": 6.002448979591836,
+          "end": 14.756371882086167,
+          "slow_start": 6.629387755102041,
+          "slow_end": 16.555918367346937
+        },
+        {
+          "text": "Čekáme na potvrzení jednoho údaje.",
+          "start": 14.936371882086167,
+          "end": 17.838866213151928,
+          "slow_start": 16.73591836734694,
+          "slow_end": 20.06798185941043
+        },
+        {
+          "text": "Prosím o sdělení, zda s navrženou změnou souhlasíte.",
+          "start": 18.018866213151927,
+          "end": 23.22013605442177,
+          "slow_start": 20.24798185941043,
+          "slow_end": 26.145850340136054
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 26.145850340136054
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "b3d63f62582be6b9716b08d255153dd8ff65097c730b4d2b52c6f40b44e4f56f",
+    "slow": "f5f87925ba863da824cc91d73b2a5abb0279c1fc6645aef974cc972928ade1ea"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "B2-U07-L01--2026.10.22.1--contrasts",
+  "lesson_id": "B2-U07-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B2",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "vzrostlo o sto procent. vzrostlo na dvě stě procent původní hodnoty.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "vzrostlo o sto procent. vzrostlo na dvě stě procent původní hodnoty."
+      ]
+    }
+  ],
+  "text_sha256": "079271c96b3fec996d05cf3ed9a9eed5080c40498025023a4c45fc1b31b2602c",
+  "source_file": "content/lessons/B2/B2-U07-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U07-L01--2026.10.22.1--contrasts--079271c96b--normal.mp3",
+  "slow_file": "content/audio/files/B2-U07-L01--2026.10.22.1--contrasts--079271c96b--slow.mp3",
+  "duration_seconds": 5.799229024943311,
+  "slow_duration_seconds": 6.4609977324263035,
+  "cues": [
+    {
+      "text": "vzrostlo o sto procent. vzrostlo na dvě stě procent původní hodnoty.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "vzrostlo o sto procent. vzrostlo na dvě stě procent původní hodnoty."
+      ],
+      "start": 0.0,
+      "end": 5.61922902494331,
+      "sentences": [
+        {
+          "text": "vzrostlo o sto procent. vzrostlo na dvě stě procent původní hodnoty.",
+          "start": 0.0,
+          "end": 5.61922902494331,
+          "slow_start": 0.0,
+          "slow_end": 6.280997732426304
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 6.280997732426304
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "2bacea586d36a7f9855b62e52213047bdf585d066e279aa1ed15560c12484860",
+    "slow": "d44eaef88cf49856cfdea5b1dc1bd46848428ce51f8bbfb35b4eb4a13d00da57"
+  }
+}

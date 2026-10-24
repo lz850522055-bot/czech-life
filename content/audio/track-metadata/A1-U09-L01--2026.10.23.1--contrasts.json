@@ -1,0 +1,58 @@
+{
+  "id": "A1-U09-L01--2026.10.23.1--contrasts",
+  "lesson_id": "A1-U09-L01",
+  "content_version": "2026.10.23.1",
+  "level": "A1",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "doprava. doleva.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "doprava. doleva."
+      ]
+    }
+  ],
+  "text_sha256": "6e34eca990675181a5159e6cdbc336d870b030833b6d1dab1460a6fca87a163b",
+  "source_file": "content/lessons/A1/A1-U09-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U09-L01--2026.10.22.1--contrasts--6e34eca990--normal.mp3",
+  "slow_file": "content/audio/files/A1-U09-L01--2026.10.22.1--contrasts--6e34eca990--slow.mp3",
+  "duration_seconds": 1.4570975056689341,
+  "slow_duration_seconds": 1.666077097505669,
+  "cues": [
+    {
+      "text": "doprava. doleva.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "doprava. doleva."
+      ],
+      "start": 0.0,
+      "end": 1.2770975056689342,
+      "sentences": [
+        {
+          "text": "doprava. doleva.",
+          "start": 0.0,
+          "end": 1.2770975056689342,
+          "slow_start": 0.0,
+          "slow_end": 1.486077097505669
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.486077097505669
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "b03012f25e6e22acd6c472a680079c528c2e3156b206e9312cc3b2aeecff5ac9",
+    "slow": "0ff22b799ef18bb8e14b6c08ff3edfefc7427f28cbaca27469f8ada0610bb85d"
+  },
+  "reused_from_track_id": "A1-U09-L01--2026.10.22.1--contrasts"
+}

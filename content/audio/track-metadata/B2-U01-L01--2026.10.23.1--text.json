@@ -1,0 +1,392 @@
+{
+  "id": "B2-U01-L01--2026.10.23.1--text",
+  "lesson_id": "B2-U01-L01",
+  "content_version": "2026.10.23.1",
+  "level": "B2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Město připravuje návrh, podle něhož by do části historického centra směla vjíždět pouze zásobovací vozidla, obyvatelé s povolením a lidé s omezenou pohyblivostí. Veřejná debata se rychle rozdělila na zastánce klidnějších ulic a odpůrce dalších omezení. Takové rozdělení je však příliš hrubé. Někteří obchodníci podporují méně aut, ale potřebují spolehlivý přístup pro zásobování; někteří obyvatelé zase chtějí současně méně hluku i možnost návštěv.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Město připravuje návrh, podle něhož by do části historického centra směla vjíždět pouze zásobovací vozidla, obyvatelé s povolením a lidé s omezenou pohyblivostí.",
+        "Veřejná debata se rychle rozdělila na zastánce klidnějších ulic a odpůrce dalších omezení.",
+        "Takové rozdělení je však příliš hrubé.",
+        "Někteří obchodníci podporují méně aut, ale potřebují spolehlivý přístup pro zásobování; někteří obyvatelé zase chtějí současně méně hluku i možnost návštěv."
+      ]
+    },
+    {
+      "text": "Zastánci opatření upozorňují na bezpečnost chodců a možnost využít uvolněný prostor jinak. Jako příklad uvádějí dvě ulice, kde po omezení průjezdu přibyly zahrádky a pěší pohyb. Z tohoto pozorování ovšem nelze bez dalšího vyvodit, že stejný výsledek nastane v celém centru. Ulice se liší šířkou, nabídkou obchodů i dostupností veřejné dopravy. Příklad může ukázat možnost, nikoli zaručit totožný účinek všude.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Zastánci opatření upozorňují na bezpečnost chodců a možnost využít uvolněný prostor jinak.",
+        "Jako příklad uvádějí dvě ulice, kde po omezení průjezdu přibyly zahrádky a pěší pohyb.",
+        "Z tohoto pozorování ovšem nelze bez dalšího vyvodit, že stejný výsledek nastane v celém centru.",
+        "Ulice se liší šířkou, nabídkou obchodů i dostupností veřejné dopravy.",
+        "Příklad může ukázat možnost, nikoli zaručit totožný účinek všude."
+      ]
+    },
+    {
+      "text": "Odpůrci namítají, že zákaz zkomplikuje běžné nákupy a přesune provoz do okolních čtvrtí. Tato námitka je věcná, pokud popisuje konkrétní dopad a navrhuje způsob jeho ověření. Slabší je tvrzení, že každé omezení automaticky zničí místní podnikání. Bez rozlišení typů obchodů, času zásobování a alternativních způsobů dopravy takový závěr přesahuje dostupné informace. Stejnou chybu by dělalo tvrzení, že automobilisté nemají žádný legitimní důvod do centra jezdit.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Odpůrci namítají, že zákaz zkomplikuje běžné nákupy a přesune provoz do okolních čtvrtí.",
+        "Tato námitka je věcná, pokud popisuje konkrétní dopad a navrhuje způsob jeho ověření.",
+        "Slabší je tvrzení, že každé omezení automaticky zničí místní podnikání.",
+        "Bez rozlišení typů obchodů, času zásobování a alternativních způsobů dopravy takový závěr přesahuje dostupné informace.",
+        "Stejnou chybu by dělalo tvrzení, že automobilisté nemají žádný legitimní důvod do centra jezdit."
+      ]
+    },
+    {
+      "text": "Rozumná odpověď na námitku nemusí znamenat zrušení celého návrhu. Lze upravit časová okna pro zásobování, vymezit výjimky a předem zveřejnit pravidla pro návštěvy. Současně je třeba přiznat náklady: kontrola oprávnění vyžaduje práci a nepřehledný systém může vytvářet nové problémy. Výjimky nesmějí být jen slibem v debatě; musejí být popsány tak, aby je lidé dokázali v běžné situaci použít.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Rozumná odpověď na námitku nemusí znamenat zrušení celého návrhu.",
+        "Lze upravit časová okna pro zásobování, vymezit výjimky a předem zveřejnit pravidla pro návštěvy.",
+        "Současně je třeba přiznat náklady: kontrola oprávnění vyžaduje práci a nepřehledný systém může vytvářet nové problémy.",
+        "Výjimky nesmějí být jen slibem v debatě; musejí být popsány tak, aby je lidé dokázali v běžné situaci použít."
+      ]
+    },
+    {
+      "text": "Navrhuji proto zkušební období s předem stanovenými ukazateli. Město by sledovalo počet nebezpečných situací, změny provozu v okolí, dostupnost zásobování a zkušenosti různých skupin obyvatel. Nestačilo by uvést jediný souhrnný počet stížností. Více stížností může znamenat větší problém, ale také lepší možnost problém nahlásit. Výsledky je nutné vykládat společně s tím, jak byly údaje získány.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Navrhuji proto zkušební období s předem stanovenými ukazateli.",
+        "Město by sledovalo počet nebezpečných situací, změny provozu v okolí, dostupnost zásobování a zkušenosti různých skupin obyvatel.",
+        "Nestačilo by uvést jediný souhrnný počet stížností.",
+        "Více stížností může znamenat větší problém, ale také lepší možnost problém nahlásit.",
+        "Výsledky je nutné vykládat společně s tím, jak byly údaje získány."
+      ]
+    },
+    {
+      "text": "Můj závěr je podmíněný: omezení podporuji, pokud bude přístup pro zranitelné skupiny skutečně zajištěn a pokud se dopady budou průběžně vyhodnocovat. Přesvědčivá argumentace tím neztrácí sílu. Naopak jasně ukazuje, z jakých předpokladů vychází a při jakých nových zjištěních by měla být změněna. Cílem není umlčet druhou stranu, ale zvolit opatření, které obstojí i mimo diskusní sál.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Můj závěr je podmíněný: omezení podporuji, pokud bude přístup pro zranitelné skupiny skutečně zajištěn a pokud se dopady budou průběžně vyhodnocovat.",
+        "Přesvědčivá argumentace tím neztrácí sílu.",
+        "Naopak jasně ukazuje, z jakých předpokladů vychází a při jakých nových zjištěních by měla být změněna.",
+        "Cílem není umlčet druhou stranu, ale zvolit opatření, které obstojí i mimo diskusní sál."
+      ]
+    }
+  ],
+  "text_sha256": "0ae4f7089d86c1b19d0bad843cceb0c6f15fd8db90283a3b88db993554239a0e",
+  "source_file": "content/lessons/B2/B2-U01-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U01-L01--2026.10.22.1--text--0ae4f7089d--normal.mp3",
+  "slow_file": "content/audio/files/B2-U01-L01--2026.10.22.1--text--0ae4f7089d--slow.mp3",
+  "duration_seconds": 230.59278911564627,
+  "slow_duration_seconds": 259.80349206349206,
+  "cues": [
+    {
+      "text": "Město připravuje návrh, podle něhož by do části historického centra směla vjíždět pouze zásobovací vozidla, obyvatelé s povolením a lidé s omezenou pohyblivostí. Veřejná debata se rychle rozdělila na zastánce klidnějších ulic a odpůrce dalších omezení. Takové rozdělení je však příliš hrubé. Někteří obchodníci podporují méně aut, ale potřebují spolehlivý přístup pro zásobování; někteří obyvatelé zase chtějí současně méně hluku i možnost návštěv.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Město připravuje návrh, podle něhož by do části historického centra směla vjíždět pouze zásobovací vozidla, obyvatelé s povolením a lidé s omezenou pohyblivostí.",
+        "Veřejná debata se rychle rozdělila na zastánce klidnějších ulic a odpůrce dalších omezení.",
+        "Takové rozdělení je však příliš hrubé.",
+        "Někteří obchodníci podporují méně aut, ale potřebují spolehlivý přístup pro zásobování; někteří obyvatelé zase chtějí současně méně hluku i možnost návštěv."
+      ],
+      "start": 0.0,
+      "end": 40.24612244897959,
+      "sentences": [
+        {
+          "text": "Město připravuje návrh, podle něhož by do části historického centra směla vjíždět pouze zásobovací vozidla, obyvatelé s povolením a lidé s omezenou pohyblivostí.",
+          "start": 0.0,
+          "end": 14.918820861678004,
+          "slow_start": 0.0,
+          "slow_end": 16.869297052154195
+        },
+        {
+          "text": "Veřejná debata se rychle rozdělila na zastánce klidnějších ulic a odpůrce dalších omezení.",
+          "start": 15.098820861678005,
+          "end": 22.854285714285716,
+          "slow_start": 17.049297052154195,
+          "slow_end": 25.78
+        },
+        {
+          "text": "Takové rozdělení je však příliš hrubé.",
+          "start": 23.034285714285716,
+          "end": 26.436009070294784,
+          "slow_start": 25.96,
+          "slow_end": 29.617142857142856
+        },
+        {
+          "text": "Někteří obchodníci podporují méně aut, ale potřebují spolehlivý přístup pro zásobování; někteří obyvatelé zase chtějí současně méně hluku i možnost návštěv.",
+          "start": 26.616009070294783,
+          "end": 40.24612244897959,
+          "slow_start": 29.797142857142855,
+          "slow_end": 45.133922902494334
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 45.133922902494334
+    },
+    {
+      "text": "Zastánci opatření upozorňují na bezpečnost chodců a možnost využít uvolněný prostor jinak. Jako příklad uvádějí dvě ulice, kde po omezení průjezdu přibyly zahrádky a pěší pohyb. Z tohoto pozorování ovšem nelze bez dalšího vyvodit, že stejný výsledek nastane v celém centru. Ulice se liší šířkou, nabídkou obchodů i dostupností veřejné dopravy. Příklad může ukázat možnost, nikoli zaručit totožný účinek všude.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Zastánci opatření upozorňují na bezpečnost chodců a možnost využít uvolněný prostor jinak.",
+        "Jako příklad uvádějí dvě ulice, kde po omezení průjezdu přibyly zahrádky a pěší pohyb.",
+        "Z tohoto pozorování ovšem nelze bez dalšího vyvodit, že stejný výsledek nastane v celém centru.",
+        "Ulice se liší šířkou, nabídkou obchodů i dostupností veřejné dopravy.",
+        "Příklad může ukázat možnost, nikoli zaručit totožný účinek všude."
+      ],
+      "start": 40.42612244897959,
+      "end": 78.24,
+      "sentences": [
+        {
+          "text": "Zastánci opatření upozorňují na bezpečnost chodců a možnost využít uvolněný prostor jinak.",
+          "start": 40.42612244897959,
+          "end": 48.90140589569161,
+          "slow_start": 45.31392290249433,
+          "slow_end": 54.89215419501134
+        },
+        {
+          "text": "Jako příklad uvádějí dvě ulice, kde po omezení průjezdu přibyly zahrádky a pěší pohyb.",
+          "start": 49.08140589569161,
+          "end": 56.94136054421769,
+          "slow_start": 55.072154195011336,
+          "slow_end": 63.79124716553288
+        },
+        {
+          "text": "Z tohoto pozorování ovšem nelze bez dalšího vyvodit, že stejný výsledek nastane v celém centru.",
+          "start": 57.12136054421769,
+          "end": 65.35283446712018,
+          "slow_start": 63.97124716553288,
+          "slow_end": 73.24761904761905
+        },
+        {
+          "text": "Ulice se liší šířkou, nabídkou obchodů i dostupností veřejné dopravy.",
+          "start": 65.53283446712018,
+          "end": 71.68612244897959,
+          "slow_start": 73.42761904761905,
+          "slow_end": 80.18462585034014
+        },
+        {
+          "text": "Příklad může ukázat možnost, nikoli zaručit totožný účinek všude.",
+          "start": 71.8661224489796,
+          "end": 78.24,
+          "slow_start": 80.36462585034013,
+          "slow_end": 87.6324716553288
+        }
+      ],
+      "slow_start": 45.31392290249433,
+      "slow_end": 87.6324716553288
+    },
+    {
+      "text": "Odpůrci namítají, že zákaz zkomplikuje běžné nákupy a přesune provoz do okolních čtvrtí. Tato námitka je věcná, pokud popisuje konkrétní dopad a navrhuje způsob jeho ověření. Slabší je tvrzení, že každé omezení automaticky zničí místní podnikání. Bez rozlišení typů obchodů, času zásobování a alternativních způsobů dopravy takový závěr přesahuje dostupné informace. Stejnou chybu by dělalo tvrzení, že automobilisté nemají žádný legitimní důvod do centra jezdit.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Odpůrci namítají, že zákaz zkomplikuje běžné nákupy a přesune provoz do okolních čtvrtí.",
+        "Tato námitka je věcná, pokud popisuje konkrétní dopad a navrhuje způsob jeho ověření.",
+        "Slabší je tvrzení, že každé omezení automaticky zničí místní podnikání.",
+        "Bez rozlišení typů obchodů, času zásobování a alternativních způsobů dopravy takový závěr přesahuje dostupné informace.",
+        "Stejnou chybu by dělalo tvrzení, že automobilisté nemají žádný legitimní důvod do centra jezdit."
+      ],
+      "start": 78.42,
+      "end": 121.33065759637188,
+      "sentences": [
+        {
+          "text": "Odpůrci namítají, že zákaz zkomplikuje běžné nákupy a přesune provoz do okolních čtvrtí.",
+          "start": 78.42,
+          "end": 86.40766439909297,
+          "slow_start": 87.81247165532879,
+          "slow_end": 97.04240362811791
+        },
+        {
+          "text": "Tato námitka je věcná, pokud popisuje konkrétní dopad a navrhuje způsob jeho ověření.",
+          "start": 86.58766439909297,
+          "end": 94.11092970521543,
+          "slow_start": 97.22240362811792,
+          "slow_end": 105.65124716553288
+        },
+        {
+          "text": "Slabší je tvrzení, že každé omezení automaticky zničí místní podnikání.",
+          "start": 94.29092970521542,
+          "end": 100.7344671201814,
+          "slow_start": 105.83124716553289,
+          "slow_end": 113.22680272108843
+        },
+        {
+          "text": "Bez rozlišení typů obchodů, času zásobování a alternativních způsobů dopravy takový závěr přesahuje dostupné informace.",
+          "start": 100.9144671201814,
+          "end": 112.7914739229025,
+          "slow_start": 113.40680272108844,
+          "slow_end": 126.7350566893424
+        },
+        {
+          "text": "Stejnou chybu by dělalo tvrzení, že automobilisté nemají žádný legitimní důvod do centra jezdit.",
+          "start": 112.97147392290249,
+          "end": 121.33065759637188,
+          "slow_start": 126.9150566893424,
+          "slow_end": 136.31913832199547
+        }
+      ],
+      "slow_start": 87.81247165532879,
+      "slow_end": 136.31913832199547
+    },
+    {
+      "text": "Rozumná odpověď na námitku nemusí znamenat zrušení celého návrhu. Lze upravit časová okna pro zásobování, vymezit výjimky a předem zveřejnit pravidla pro návštěvy. Současně je třeba přiznat náklady: kontrola oprávnění vyžaduje práci a nepřehledný systém může vytvářet nové problémy. Výjimky nesmějí být jen slibem v debatě; musejí být popsány tak, aby je lidé dokázali v běžné situaci použít.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Rozumná odpověď na námitku nemusí znamenat zrušení celého návrhu.",
+        "Lze upravit časová okna pro zásobování, vymezit výjimky a předem zveřejnit pravidla pro návštěvy.",
+        "Současně je třeba přiznat náklady: kontrola oprávnění vyžaduje práci a nepřehledný systém může vytvářet nové problémy.",
+        "Výjimky nesmějí být jen slibem v debatě; musejí být popsány tak, aby je lidé dokázali v běžné situaci použít."
+      ],
+      "start": 121.51065759637189,
+      "end": 158.29700680272109,
+      "sentences": [
+        {
+          "text": "Rozumná odpověď na námitku nemusí znamenat zrušení celého návrhu.",
+          "start": 121.51065759637189,
+          "end": 127.37369614512471,
+          "slow_start": 136.49913832199547,
+          "slow_end": 143.09360544217688
+        },
+        {
+          "text": "Lze upravit časová okna pro zásobování, vymezit výjimky a předem zveřejnit pravidla pro návštěvy.",
+          "start": 127.55369614512472,
+          "end": 136.01736961451246,
+          "slow_start": 143.27360544217686,
+          "slow_end": 152.77056689342405
+        },
+        {
+          "text": "Současně je třeba přiznat náklady: kontrola oprávnění vyžaduje práci a nepřehledný systém může vytvářet nové problémy.",
+          "start": 136.19736961451247,
+          "end": 148.0627664399093,
+          "slow_start": 152.95056689342402,
+          "slow_end": 166.19755102040816
+        },
+        {
+          "text": "Výjimky nesmějí být jen slibem v debatě; musejí být popsány tak, aby je lidé dokázali v běžné situaci použít.",
+          "start": 148.2427664399093,
+          "end": 158.29700680272109,
+          "slow_start": 166.37755102040816,
+          "slow_end": 177.81337868480725
+        }
+      ],
+      "slow_start": 136.49913832199547,
+      "slow_end": 177.81337868480725
+    },
+    {
+      "text": "Navrhuji proto zkušební období s předem stanovenými ukazateli. Město by sledovalo počet nebezpečných situací, změny provozu v okolí, dostupnost zásobování a zkušenosti různých skupin obyvatel. Nestačilo by uvést jediný souhrnný počet stížností. Více stížností může znamenat větší problém, ale také lepší možnost problém nahlásit. Výsledky je nutné vykládat společně s tím, jak byly údaje získány.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Navrhuji proto zkušební období s předem stanovenými ukazateli.",
+        "Město by sledovalo počet nebezpečných situací, změny provozu v okolí, dostupnost zásobování a zkušenosti různých skupin obyvatel.",
+        "Nestačilo by uvést jediný souhrnný počet stížností.",
+        "Více stížností může znamenat větší problém, ale také lepší možnost problém nahlásit.",
+        "Výsledky je nutné vykládat společně s tím, jak byly údaje získány."
+      ],
+      "start": 158.4770068027211,
+      "end": 195.90775510204082,
+      "sentences": [
+        {
+          "text": "Navrhuji proto zkušební období s předem stanovenými ukazateli.",
+          "start": 158.4770068027211,
+          "end": 164.06140589569162,
+          "slow_start": 177.99337868480725,
+          "slow_end": 184.2975963718821
+        },
+        {
+          "text": "Město by sledovalo počet nebezpečných situací, změny provozu v okolí, dostupnost zásobování a zkušenosti různých skupin obyvatel.",
+          "start": 164.2414058956916,
+          "end": 176.72213151927437,
+          "slow_start": 184.4775963718821,
+          "slow_end": 198.89718820861677
+        },
+        {
+          "text": "Nestačilo by uvést jediný souhrnný počet stížností.",
+          "start": 176.90213151927438,
+          "end": 181.70866213151928,
+          "slow_start": 199.07718820861678,
+          "slow_end": 204.37133786848074
+        },
+        {
+          "text": "Více stížností může znamenat větší problém, ale také lepší možnost problém nahlásit.",
+          "start": 181.88866213151928,
+          "end": 189.80666666666667,
+          "slow_start": 204.55133786848072,
+          "slow_end": 213.479410430839
+        },
+        {
+          "text": "Výsledky je nutné vykládat společně s tím, jak byly údaje získány.",
+          "start": 189.98666666666668,
+          "end": 195.90775510204082,
+          "slow_start": 213.659410430839,
+          "slow_end": 220.2538775510204
+        }
+      ],
+      "slow_start": 177.99337868480725,
+      "slow_end": 220.2538775510204
+    },
+    {
+      "text": "Můj závěr je podmíněný: omezení podporuji, pokud bude přístup pro zranitelné skupiny skutečně zajištěn a pokud se dopady budou průběžně vyhodnocovat. Přesvědčivá argumentace tím neztrácí sílu. Naopak jasně ukazuje, z jakých předpokladů vychází a při jakých nových zjištěních by měla být změněna. Cílem není umlčet druhou stranu, ale zvolit opatření, které obstojí i mimo diskusní sál.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Můj závěr je podmíněný: omezení podporuji, pokud bude přístup pro zranitelné skupiny skutečně zajištěn a pokud se dopady budou průběžně vyhodnocovat.",
+        "Přesvědčivá argumentace tím neztrácí sílu.",
+        "Naopak jasně ukazuje, z jakých předpokladů vychází a při jakých nových zjištěních by měla být změněna.",
+        "Cílem není umlčet druhou stranu, ale zvolit opatření, které obstojí i mimo diskusní sál."
+      ],
+      "start": 196.08775510204083,
+      "end": 230.41278911564626,
+      "sentences": [
+        {
+          "text": "Můj závěr je podmíněný: omezení podporuji, pokud bude přístup pro zranitelné skupiny skutečně zajištěn a pokud se dopady budou průběžně vyhodnocovat.",
+          "start": 196.08775510204083,
+          "end": 209.09092970521542,
+          "slow_start": 220.4338775510204,
+          "slow_end": 235.2598185941043
+        },
+        {
+          "text": "Přesvědčivá argumentace tím neztrácí sílu.",
+          "start": 209.27092970521542,
+          "end": 213.03256235827664,
+          "slow_start": 235.4398185941043,
+          "slow_end": 239.5961904761905
+        },
+        {
+          "text": "Naopak jasně ukazuje, z jakých předpokladů vychází a při jakých nových zjištěních by měla být změněna.",
+          "start": 213.21256235827664,
+          "end": 221.97809523809525,
+          "slow_start": 239.77619047619046,
+          "slow_end": 249.9117006802721
+        },
+        {
+          "text": "Cílem není umlčet druhou stranu, ale zvolit opatření, které obstojí i mimo diskusní sál.",
+          "start": 222.15809523809523,
+          "end": 230.41278911564626,
+          "slow_start": 250.0917006802721,
+          "slow_end": 259.62349206349205
+        }
+      ],
+      "slow_start": 220.4338775510204,
+      "slow_end": 259.62349206349205
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "9389616919c071db9abce421031fc9be5dbdfb90a249369acae090193ce5bfb0",
+    "slow": "5f0be3555f2338ef61748698a55a18fcaef8d5acdfd61364fe4013fc3d750c16"
+  },
+  "reused_from_track_id": "B2-U01-L01--2026.10.22.1--text"
+}

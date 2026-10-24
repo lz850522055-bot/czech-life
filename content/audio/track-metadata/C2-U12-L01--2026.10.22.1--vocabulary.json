@@ -1,0 +1,173 @@
+{
+  "id": "C2-U12-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "C2-U12-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C2",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Dramaturg navrhl kratší verzi.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Dramaturg navrhl kratší verzi."
+      ]
+    },
+    {
+      "text": "Úryvek mění dojem podle okolí.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Úryvek mění dojem podle okolí."
+      ]
+    },
+    {
+      "text": "Výběr je formou zprostředkování.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Výběr je formou zprostředkování."
+      ]
+    },
+    {
+      "text": "Pochybnost tvoří osobitý hlas.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Pochybnost tvoří osobitý hlas."
+      ]
+    },
+    {
+      "text": "Výběr omezuje pestrost zkušeností.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Výběr omezuje pestrost zkušeností."
+      ]
+    }
+  ],
+  "text_sha256": "9571227ef09098aab7b1ee203ad8d2310d802d76db2bcb231b6799ecab83def5",
+  "source_file": "content/lessons/C2/C2-U12-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U12-L01--2026.10.22.1--vocabulary--9571227ef0--normal.mp3",
+  "slow_file": "content/audio/files/C2-U12-L01--2026.10.22.1--vocabulary--9571227ef0--slow.mp3",
+  "duration_seconds": 15.911700680272109,
+  "slow_duration_seconds": 18.04793650793651,
+  "cues": [
+    {
+      "text": "Dramaturg navrhl kratší verzi.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Dramaturg navrhl kratší verzi."
+      ],
+      "start": 0.0,
+      "end": 2.8444444444444446,
+      "sentences": [
+        {
+          "text": "Dramaturg navrhl kratší verzi.",
+          "start": 0.0,
+          "end": 2.8444444444444446,
+          "slow_start": 0.0,
+          "slow_end": 3.3668934240362813
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 3.3668934240362813
+    },
+    {
+      "text": "Úryvek mění dojem podle okolí.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Úryvek mění dojem podle okolí."
+      ],
+      "start": 3.0244444444444443,
+      "end": 6.089478458049887,
+      "sentences": [
+        {
+          "text": "Úryvek mění dojem podle okolí.",
+          "start": 3.0244444444444443,
+          "end": 6.089478458049887,
+          "slow_start": 3.546893424036281,
+          "slow_end": 6.890566893424037
+        }
+      ],
+      "slow_start": 3.546893424036281,
+      "slow_end": 6.890566893424037
+    },
+    {
+      "text": "Výběr je formou zprostředkování.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Výběr je formou zprostředkování."
+      ],
+      "start": 6.269478458049886,
+      "end": 9.357732426303855,
+      "sentences": [
+        {
+          "text": "Výběr je formou zprostředkování.",
+          "start": 6.269478458049886,
+          "end": 9.357732426303855,
+          "slow_start": 7.070566893424036,
+          "slow_end": 10.553560090702948
+        }
+      ],
+      "slow_start": 7.070566893424036,
+      "slow_end": 10.553560090702948
+    },
+    {
+      "text": "Pochybnost tvoří osobitý hlas.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Pochybnost tvoří osobitý hlas."
+      ],
+      "start": 9.537732426303855,
+      "end": 12.544716553287982,
+      "sentences": [
+        {
+          "text": "Pochybnost tvoří osobitý hlas.",
+          "start": 9.537732426303855,
+          "end": 12.544716553287982,
+          "slow_start": 10.733560090702948,
+          "slow_end": 14.21655328798186
+        }
+      ],
+      "slow_start": 10.733560090702948,
+      "slow_end": 14.21655328798186
+    },
+    {
+      "text": "Výběr omezuje pestrost zkušeností.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Výběr omezuje pestrost zkušeností."
+      ],
+      "start": 12.724716553287982,
+      "end": 15.731700680272109,
+      "sentences": [
+        {
+          "text": "Výběr omezuje pestrost zkušeností.",
+          "start": 12.724716553287982,
+          "end": 15.731700680272109,
+          "slow_start": 14.39655328798186,
+          "slow_end": 17.86793650793651
+        }
+      ],
+      "slow_start": 14.39655328798186,
+      "slow_end": 17.86793650793651
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "7b94ff9f09bbe85fdedef92311f8648685d927e3f96e685126e76dbfdcb58ae5",
+    "slow": "73e32946a631807351576f4e704ceaa5d0d6e5e8a1db0e5c71d39eb9ffeb76ce"
+  }
+}

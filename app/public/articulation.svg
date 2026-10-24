@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 375" role="img" aria-labelledby="title desc">
+<title id="title">捷语元音口型与 r、ř 舌位示意</title><desc id="desc">a 张口、i 唇向两侧展开、u 双唇收圆。r 与 ř 的舌尖靠近上齿后齿龈区域。此图是练习提示，不是声学测量。</desc>
+<rect width="840" height="375" rx="18" fill="#eff2e8"/>
+<g font-family="Segoe UI, Microsoft YaHei, sans-serif" fill="#203d35" text-anchor="middle">
+<text x="420" y="36" font-size="20" font-weight="600">先观察口型，再听声音、录自己</text>
+<g fill="#fffefa" stroke="#708b72" stroke-width="2"><rect x="25" y="60" width="245" height="172" rx="12"/><rect x="297" y="60" width="245" height="172" rx="12"/><rect x="570" y="60" width="245" height="172" rx="12"/></g>
+<text x="148" y="89" font-size="25">a / á</text><text x="420" y="89" font-size="25">i / í</text><text x="692" y="89" font-size="25">u / ú, ů</text>
+<g stroke="#a66d64" stroke-width="7" fill="#503a38"><ellipse cx="148" cy="140" rx="32" ry="28"/><ellipse cx="420" cy="140" rx="53" ry="10"/><ellipse cx="692" cy="140" rx="19" ry="22"/></g>
+<g font-size="15"><text x="148" y="197">下颌放松，嘴张开</text><text x="420" y="197">嘴角向两侧，舌面靠前</text><text x="692" y="197">双唇收圆，舌面靠后</text><text x="420" y="216" font-size="13" fill="#6e7973">长短主要听持续时间，不用额外加重。</text><text x="420" y="236" font-size="13" fill="#6e7973">i / í 还略有音质差异：长 í 更闭，跟随示范。</text></g>
+<path d="M45 296 Q110 253 185 283 L185 299 M185 283 L203 287 L197 305" stroke="#708b72" stroke-width="5" fill="none"/>
+<path d="M62 324 Q105 327 130 307 Q154 283 174 294" stroke="#b97f6d" stroke-width="10" fill="none" stroke-linecap="round"/>
+<circle cx="175" cy="282" r="5" fill="#c09b49"/><path d="M181 276 L218 254" stroke="#c09b49" stroke-width="2"/>
+<text x="252" y="258" font-size="13">上齿后的齿龈</text>
+<g text-anchor="start" font-size="16"><text x="290" y="282">r：舌尖在齿龈附近轻颤，避免用力卷向后。</text><text x="290" y="310">ř：在相近区域收窄气流，并加入摩擦成分；先模仿短词。</text><text x="290" y="340" font-size="13" fill="#6e7973">图为简化提示。结合本课对立音与录音回听，不把自评当发音测量。</text></g>
+</g></svg>

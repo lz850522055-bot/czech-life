@@ -1,0 +1,1283 @@
+{
+  "id": "B1-U08-L01",
+  "level": "B1",
+  "unit_id": "B1-U08",
+  "order": 40,
+  "version": "2026.10.23.1",
+  "title_zh": "表达观点同意与反对",
+  "title_cs": "Souhlasit nemusíme ve všem",
+  "prerequisites": [
+    "B1-U07-L01"
+  ],
+  "can_do": [
+    "清楚提出观点并提供一个理由和例子",
+    "部分同意后说明保留意见",
+    "区分事实、推测与个人偏好"
+  ],
+  "scene": "表达观点与社区讨论",
+  "skills": [
+    "listening",
+    "speaking",
+    "reading",
+    "writing",
+    "interaction",
+    "mediation"
+  ],
+  "knowledge_points": [
+    "opinion-evidence",
+    "partial-agreement"
+  ],
+  "intro_zh": "你可以反对一项提议，同时准确复述对方担心的问题。今天练“我同意哪一部分、不同意哪一部分、依据是什么”。",
+  "lesson_text": [
+    {
+      "id": "s01",
+      "cs": "Na domovní schůzi jsme diskutovali o tom, zda má být společný dvůr večer zamčený. Někteří sousedé tvrdili, že se tím zvýší bezpečnost. Jiní se obávali, že návštěvy budou stát před bránou a nikdo je neuslyší. Já jsem nejprve poslouchal a zapisoval si důvody obou stran. Nechtěl jsem zaměnit osobní zkušenost jednoho člověka za situaci, která se děje každý den.",
+      "zh": "住户会议讨论院子晚上是否锁门。有人认为更安全，也有人怕客人被拦在门外没人听见。我先听并记双方理由，不想把某个人的经历当成每天都发生的普遍情况。",
+      "note_zh": ""
+    },
+    {
+      "id": "s02",
+      "cs": "Potom jsem řekl: „Souhlasím s tím, že potřebujeme omezit vstup cizích lidí. Nemyslím si ale, že zamykání bez další změny problém vyřeší. Například lidé, kteří se vracejí pozdě z práce, musí mít jednoduchý způsob, jak se dostat domů.“ Jeden soused mi odpověděl, že stačí rozdat klíče. Zeptal jsem se ho, jak by se řešila ztráta klíče nebo návštěva lékaře u staršího obyvatele.",
+      "zh": "我说，同意限制陌生人进入，但单纯上锁未必解决问题，晚归者需要方便回家。一位邻居认为发钥匙即可。我问丢钥匙怎么办，医生来探访年长住户又怎么办。",
+      "note_zh": ""
+    },
+    {
+      "id": "s03",
+      "cs": "Paní Novotná navrhla elektronický zámek. Podle jejího názoru by byl pohodlnější, ale nikdo zatím neznal cenu ani náklady na údržbu. Připomněl jsem proto, že nemáme dost podkladů pro konečné rozhodnutí. To neznamenalo, že návrh odmítám. Chtěl jsem pouze oddělit to, co víme, od toho, co teprve předpokládáme. Většina lidí s takovým postupem souhlasila.",
+      "zh": "诺沃特娜女士提议电子锁，认为更方便，但没人知道价格和维护费。我提醒目前缺少最终决策依据；这不等于拒绝提议，而是区分已知与假设。多数人同意这种做法。",
+      "note_zh": ""
+    },
+    {
+      "id": "s04",
+      "cs": "Dohodli jsme se, že si vyžádáme dvě nabídky a pak porovnáme cenu, spolehlivost a přístup pro návštěvy. V závěru schůze jsem svůj postoj shrnul: bezpečnost považuji za důležitou, ale řešení musí fungovat i v běžném provozu. Změnil bych názor, kdyby se ukázalo, že zvolený systém lidem často brání ve vstupu. Diskuse tedy neskončila vítězstvím jedné strany, nýbrž konkrétním dalším krokem.",
+      "zh": "我们约定索要两份报价，比较价格、可靠性和访客进入方式。结尾我重申安全重要，但方案必须日常可用；若系统经常妨碍住户进入，我会调整判断。讨论以具体下一步结束，而不是某一方“获胜”。",
+      "note_zh": ""
+    }
+  ],
+  "grammar": [
+    {
+      "id": "opinion-evidence",
+      "rule_zh": "先标明这是你的判断，再说明依据。",
+      "detail_zh": "Myslím si, že… / Podle mého názoru… 表立场；například 引例；proto 表根据前提得出的结果。Tvrdí, že… 是转述别人声称，不证明内容真实；zdá se mi, že… 表印象。中文可先说“我认为”，然后给可核对条件。",
+      "examples": [
+        {
+          "cs": "Myslím si, že potřebujeme víc údajů.",
+          "zh": "我认为需要更多信息。",
+          "note_zh": ""
+        },
+        {
+          "cs": "Podle mé zkušenosti se brána často nezavírá.",
+          "zh": "据我的经历，门经常没有关。",
+          "note_zh": ""
+        }
+      ],
+      "pitfalls": [
+        "一个例子不能直接证明“所有人都如此”。"
+      ],
+      "exceptions": [
+        "Myslím, že 与 Myslím si, že 都可用，不把省 si 当绝对错误。"
+      ],
+      "term": "观点标记与证据"
+    },
+    {
+      "id": "partial-agreement",
+      "rule_zh": "同意目标，不等于同意每一种做法。",
+      "detail_zh": "Souhlasím s tím, že… 后可接 ale / zároveň；Nesouhlasím s návrhem 用 s+第七格。považovat něco za něco 的对象与 za 后通常第四格。先复述共同点，再给保留条件，减少把观点分歧说成人身否定。",
+      "examples": [
+        {
+          "cs": "Souhlasím s cílem, ale ne s postupem.",
+          "zh": "我同意目标，但不同意做法。",
+          "note_zh": ""
+        },
+        {
+          "cs": "Bezpečnost považuji za důležitou.",
+          "zh": "我认为安全很重要。",
+          "note_zh": ""
+        }
+      ],
+      "pitfalls": [
+        "souhlasit s，不用 souhlasit na。"
+      ],
+      "exceptions": [
+        "直接 Nesouhlasím 不是天然不礼貌，关键在场合与后续理由。"
+      ],
+      "term": "部分同意与观点搭配"
+    }
+  ],
+  "vocabulary": [
+    {
+      "lemma": "postoj",
+      "pos": "名词，阳性无生",
+      "forms": "postoje; postojem",
+      "meaning_zh": "立场",
+      "collocation": "změnit postoj",
+      "example_cs": "Svůj postoj mohu změnit.",
+      "example_zh": "我可以改变立场。",
+      "confusion_zh": "不是永恒身份。"
+    },
+    {
+      "lemma": "podklad",
+      "pos": "名词，阳性无生",
+      "forms": "podklady; podkladů",
+      "meaning_zh": "依据资料",
+      "collocation": "mít podklady",
+      "example_cs": "Nemáme dost podkladů.",
+      "example_zh": "依据资料不足。",
+      "confusion_zh": "推测不是已核实资料。"
+    },
+    {
+      "lemma": "údržba",
+      "pos": "名词，阴性",
+      "forms": "údržby",
+      "meaning_zh": "维护",
+      "collocation": "náklady na údržbu",
+      "example_cs": "Kolik stojí údržba?",
+      "example_zh": "维护费多少？",
+      "confusion_zh": "不是购买价。"
+    },
+    {
+      "lemma": "spolehlivost",
+      "pos": "名词，阴性",
+      "forms": "spolehlivosti",
+      "meaning_zh": "可靠性",
+      "collocation": "ověřit spolehlivost",
+      "example_cs": "Chceme ověřit spolehlivost zámku.",
+      "example_zh": "我们想核实锁的可靠性。",
+      "confusion_zh": "不等同于昂贵。"
+    }
+  ],
+  "listening": {
+    "script": [
+      {
+        "cs": "Souhlasím s tím, že potřebujeme klidnější dvůr. Nejsem si ale jistý, zda zákaz všech návštěv pomůže. Můj soused potřebuje pravidelnou domácí pomoc. Navrhuji nejdřív zjistit, kdo a proč do domu chodí, a teprve potom změnit pravidla.",
+        "zh": "我同意需要安静的院子，但不确定禁止所有访客是否有用。邻居需要定期上门帮助。建议先了解谁为何来，再调整规则。",
+        "note_zh": ""
+      }
+    ],
+    "focus_zh": "听出同意的是目标、保留的是措施；不要把 ale 前后的意思混在一起。",
+    "source": "original"
+  },
+  "pronunciation": {
+    "focus_zh": "Souhlasím 与 nesouhlasím 清楚读出否定 ne；保留 věta 中并列部分的短停顿。",
+    "contrast": [
+      {
+        "a": "souhlasím",
+        "b": "nesouhlasím",
+        "note_zh": "否定前缀会翻转立场，必须听清。"
+      }
+    ],
+    "task_zh": "先听一句，再按意义块跟读；录下自然语速版本，对照长短元音、句中停顿和关键词。不要追求机械加速。"
+  },
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "说话人反对的是什么？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "所有安全措施"
+        },
+        {
+          "id": "b",
+          "text": "没有依据便直接定最终方案"
+        },
+        {
+          "id": "c",
+          "text": "所有电子设备"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "要求先收资料不是拒绝安全目标。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U08-L01-E01",
+      "knowledge_points": [
+        "opinion-evidence",
+        "partial-agreement"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "哪项目前仍未确定？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "有人提电子锁"
+        },
+        {
+          "id": "b",
+          "text": "电子锁价格和维护费"
+        },
+        {
+          "id": "c",
+          "text": "院子属于共同区域"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "文本说明nikdo zatím neznal cenu，即当时无人知道价格。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U08-L01-E02",
+      "knowledge_points": [
+        "opinion-evidence",
+        "partial-agreement"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "听：说话人同意什么？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "禁止所有客人"
+        },
+        {
+          "id": "b",
+          "text": "院子更安静的目标"
+        },
+        {
+          "id": "c",
+          "text": "不用了解访客情况"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "共同目标与具体措施分开。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "listening"
+      ],
+      "error_category": "comprehension",
+      "audio_text_cs": "Souhlasím s tím, že potřebujeme klidnější dvůr. Nejsem si ale jistý, zda zákaz všech návštěv pomůže.",
+      "id": "B1-U08-L01-E03",
+      "knowledge_points": [
+        "opinion-evidence",
+        "partial-agreement"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "填写 souhlasit 的介词。",
+      "stimulus_cs": "Souhlasím ___ návrhem.",
+      "answer": "s",
+      "accepted_answers": [
+        "s"
+      ],
+      "explanation_zh": "souhlasit s + 第七格。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "collocation",
+      "id": "B1-U08-L01-E04",
+      "knowledge_points": [
+        "opinion-evidence",
+        "partial-agreement"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "填“例如”。",
+      "stimulus_cs": "Máme několik problémů, ___ ztracené klíče.",
+      "answer": "například",
+      "accepted_answers": [
+        "například",
+        "třeba",
+        "kupříkladu"
+      ],
+      "explanation_zh": "给出例子，不等同于证明普遍发生。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "meaning",
+      "id": "B1-U08-L01-E05",
+      "knowledge_points": [
+        "opinion-evidence",
+        "partial-agreement"
+      ]
+    },
+    {
+      "type": "correct",
+      "prompt_zh": "只修正介词搭配。",
+      "stimulus_cs": "Nesouhlasím na tímto postupem.",
+      "answer": "Nesouhlasím s tímto postupem.",
+      "accepted_answers": [
+        "Nesouhlasím s tímto postupem."
+      ],
+      "explanation_zh": "s+工具格 tímto postupem。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "collocation",
+      "id": "B1-U08-L01-E06",
+      "knowledge_points": [
+        "opinion-evidence",
+        "partial-agreement"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt_zh": "先承认目标，再提出限制。",
+      "stimulus_cs": "ale potřebujeme znát cenu. / Souhlasím s cílem,",
+      "options": [
+        "ale potřebujeme znát cenu.",
+        "Souhlasím s cílem,"
+      ],
+      "answer": "Souhlasím s cílem, ale potřebujeme znát cenu.",
+      "accepted_answers": [
+        "Souhlasím s cílem, ale potřebujeme znát cenu."
+      ],
+      "explanation_zh": "部分同意之后给具体未决信息。",
+      "scoring_basis": "本题限定句首及语境；不据一个参考语序否定捷语所有语序变体。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "word_order",
+      "id": "B1-U08-L01-E07",
+      "knowledge_points": [
+        "opinion-evidence",
+        "partial-agreement"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "“Tvrdí, že systém je levný”直接证明哪项？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "系统一定便宜"
+        },
+        {
+          "id": "b",
+          "text": "有人声称系统便宜"
+        },
+        {
+          "id": "c",
+          "text": "系统免费"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "转述他人说法与证实事实不同。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U08-L01-E08",
+      "knowledge_points": [
+        "opinion-evidence",
+        "partial-agreement"
+      ]
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "对晚间锁门表立场：共同目标、一个风险、一个核查动作。",
+      "stimulus_cs": "",
+      "answer": "Bezpečnost je pro mě důležitá. Obávám se ale, že návštěvy nebudou mít přístup. Navrhuji zjistit, jak funguje otevírání na dálku.",
+      "accepted_answers": [],
+      "explanation_zh": "三个环节比只赞成或反对更可用。",
+      "rubric": [
+        "立场明确",
+        "风险具体",
+        "核查可执行"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "error_category": "fluency",
+      "id": "B1-U08-L01-E09",
+      "knowledge_points": [
+        "opinion-evidence",
+        "partial-agreement"
+      ]
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "写一段会议意见，不超过六句，区分事实与未知。",
+      "stimulus_cs": "",
+      "answer": "Máme dvě možnosti zamykání. Zatím však neznáme cenu elektronického systému. Považuji ho za zajímavý návrh, ale před rozhodnutím potřebujeme nabídku a údaje o údržbě.",
+      "accepted_answers": [],
+      "explanation_zh": "不要把估计价格填成事实。",
+      "rubric": [
+        "事实未知分开",
+        "明确意见",
+        "下一步具体"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U08-L01-E10",
+      "knowledge_points": [
+        "opinion-evidence",
+        "partial-agreement"
+      ]
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "对方说你反对安全，请纠正误解。",
+      "stimulus_cs": "",
+      "answer": "Bezpečnost neodmítám. Souhlasím s cílem, ale chci ověřit, zda navržený způsob neomezí obyvatele. Můžeme porovnat dvě řešení?",
+      "accepted_answers": [],
+      "explanation_zh": "复述共同点再澄清分歧。",
+      "rubric": [
+        "不攻击对方",
+        "区分目标方法",
+        "推进比较"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "error_category": "fluency",
+      "id": "B1-U08-L01-E11",
+      "knowledge_points": [
+        "opinion-evidence",
+        "partial-agreement"
+      ]
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "把两派观点客观介绍给缺席邻居。",
+      "stimulus_cs": "",
+      "answer": "一方希望锁门提高安全，另一方担心访客和晚归者进不来。会上没有否定安全目标，而是决定先收集报价和维护信息再比较。",
+      "accepted_answers": [],
+      "explanation_zh": "不要把异议者改写成“不要安全”。",
+      "rubric": [
+        "两方理由",
+        "不添加动机",
+        "会议下一步"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U08-L01-E12",
+      "knowledge_points": [
+        "opinion-evidence",
+        "partial-agreement"
+      ]
+    }
+  ],
+  "transfer_task": {
+    "prompt_zh": "换成图书馆延长开放时间：赞成便民，但需核算人员与噪音。",
+    "model_answer_cs": "Delší otevření by pomohlo pracujícím lidem. Souhlasím s tímto cílem, ale potřebujeme zjistit náklady na personál a dopad na sousedy.",
+    "rubric": [
+      "部分同意",
+      "依据变量",
+      "保留未知"
+    ]
+  },
+  "review_links": [
+    "B1-U07-L01"
+  ],
+  "sources": [
+    {
+      "source_id": "LANG01",
+      "url": "https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions",
+      "scope": "按实际能做的任务编排能力，不把CEFR说成官方捷语语法课表",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    },
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?id=620",
+      "scope": "动词与名词的格搭配、díky/kvůli的语用边界",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    },
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?id=575",
+      "scope": "条件式的人称形式、礼貌用途及过去条件式限制",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    }
+  ],
+  "content_status": "authored_crosschecked_not_native_reviewed",
+  "quality_notes": [
+    "原创课文和练习；规则按所列来源交叉核查，未获得捷语母语教师逐句审校。",
+    "本课级别属于教材编排判断，不代表官方能力认证。",
+    "听力为原创可合成脚本；真人多说话人、地区口音与录音自然度尚待现场核验。"
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "B1-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--normal.mp3",
+      "slow_file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U08-L01--2026.10.23.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Na domovní schůzi jsme diskutovali o tom, zda má být společný dvůr večer zamčený. Někteří sousedé tvrdili, že se tím zvýší bezpečnost. Jiní se obávali, že návštěvy budou stát před bránou a nikdo je neuslyší. Já jsem nejprve poslouchal a zapisoval si důvody obou stran. Nechtěl jsem zaměnit osobní zkušenost jednoho člověka za situaci, která se děje každý den. Potom jsem řekl: „Souhlasím s tím, že potřebujeme omezit vstup cizích lidí. Nemyslím si ale, že zamykání bez další změny problém vyřeší. Například lidé, kteří se vracejí pozdě z práce, musí mít jednoduchý způsob, jak se dostat domů.“ Jeden soused mi odpověděl, že stačí rozdat klíče. Zeptal jsem se ho, jak by se řešila ztráta klíče nebo návštěva lékaře u staršího obyvatele. Paní Novotná navrhla elektronický zámek. Podle jejího názoru by byl pohodlnější, ale nikdo zatím neznal cenu ani náklady na údržbu. Připomněl jsem proto, že nemáme dost podkladů pro konečné rozhodnutí. To neznamenalo, že návrh odmítám. Chtěl jsem pouze oddělit to, co víme, od toho, co teprve předpokládáme. Většina lidí s takovým postupem souhlasila. Dohodli jsme se, že si vyžádáme dvě nabídky a pak porovnáme cenu, spolehlivost a přístup pro návštěvy. V závěru schůze jsem svůj postoj shrnul: bezpečnost považuji za důležitou, ale řešení musí fungovat i v běžném provozu. Změnil bych názor, kdyby se ukázalo, že zvolený systém lidem často brání ve vstupu. Diskuse tedy neskončila vítězstvím jedné strany, nýbrž konkrétním dalším krokem.",
+      "duration_seconds": 133.12090702947845,
+      "slow_duration_seconds": 149.60707482993197,
+      "sha256": "1bcfe935876999369426b64af9147177fc6064174c0eb15beadf867c2e7db21a",
+      "slow_sha256": "ea87f730d1514b18c4bd02b32aa96d1ec7d52219db0e83aef7ef23917a6259c4"
+    },
+    {
+      "lesson_id": "B1-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--normal.mp3",
+      "slow_file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U08-L01--2026.10.23.1--text--p0",
+      "asset_id": "B1-U08-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Na domovní schůzi jsme diskutovali o tom, zda má být společný dvůr večer zamčený. Někteří sousedé tvrdili, že se tím zvýší bezpečnost. Jiní se obávali, že návštěvy budou stát před bránou a nikdo je neuslyší. Já jsem nejprve poslouchal a zapisoval si důvody obou stran. Nechtěl jsem zaměnit osobní zkušenost jednoho člověka za situaci, která se děje každý den.",
+      "start": 0,
+      "end": 32.02049886621315,
+      "slow_start": 0,
+      "slow_end": 35.805351473922904
+    },
+    {
+      "lesson_id": "B1-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--normal.mp3",
+      "slow_file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U08-L01--2026.10.23.1--text--s0",
+      "asset_id": "B1-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Na domovní schůzi jsme diskutovali o tom, zda má být společný dvůr večer zamčený.",
+      "start": 0,
+      "end": 7.1401360544217685,
+      "slow_start": 0,
+      "slow_end": 7.9760544217687075
+    },
+    {
+      "lesson_id": "B1-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--normal.mp3",
+      "slow_file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U08-L01--2026.10.23.1--text--s1",
+      "asset_id": "B1-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Někteří sousedé tvrdili, že se tím zvýší bezpečnost.",
+      "start": 7.320136054421769,
+      "end": 12.184716553287982,
+      "slow_start": 8.156054421768708,
+      "slow_end": 13.473424036281179
+    },
+    {
+      "lesson_id": "B1-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--normal.mp3",
+      "slow_file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U08-L01--2026.10.23.1--text--s2",
+      "asset_id": "B1-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Jiní se obávali, že návštěvy budou stát před bránou a nikdo je neuslyší.",
+      "start": 12.364716553287982,
+      "end": 18.692154195011337,
+      "slow_start": 13.653424036281178,
+      "slow_end": 20.87482993197279
+    },
+    {
+      "lesson_id": "B1-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--normal.mp3",
+      "slow_file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U08-L01--2026.10.23.1--text--s3",
+      "asset_id": "B1-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 3,
+      "paragraph_index": 0,
+      "sentence_index": 3,
+      "text": "Já jsem nejprve poslouchal a zapisoval si důvody obou stran.",
+      "start": 18.872154195011337,
+      "end": 24.143083900226756,
+      "slow_start": 21.05482993197279,
+      "slow_end": 26.836598639455783
+    },
+    {
+      "lesson_id": "B1-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--normal.mp3",
+      "slow_file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U08-L01--2026.10.23.1--text--s4",
+      "asset_id": "B1-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 4,
+      "paragraph_index": 0,
+      "sentence_index": 4,
+      "text": "Nechtěl jsem zaměnit osobní zkušenost jednoho člověka za situaci, která se děje každý den.",
+      "start": 24.323083900226756,
+      "end": 32.02049886621315,
+      "slow_start": 27.016598639455783,
+      "slow_end": 35.805351473922904
+    },
+    {
+      "lesson_id": "B1-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--normal.mp3",
+      "slow_file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U08-L01--2026.10.23.1--text--p1",
+      "asset_id": "B1-U08-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Potom jsem řekl: „Souhlasím s tím, že potřebujeme omezit vstup cizích lidí. Nemyslím si ale, že zamykání bez další změny problém vyřeší. Například lidé, kteří se vracejí pozdě z práce, musí mít jednoduchý způsob, jak se dostat domů.“ Jeden soused mi odpověděl, že stačí rozdat klíče. Zeptal jsem se ho, jak by se řešila ztráta klíče nebo návštěva lékaře u staršího obyvatele.",
+      "start": 32.20049886621315,
+      "end": 66.96095238095238,
+      "slow_start": 35.985351473922904,
+      "slow_end": 74.96022675736961
+    },
+    {
+      "lesson_id": "B1-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--normal.mp3",
+      "slow_file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U08-L01--2026.10.23.1--text--s5",
+      "asset_id": "B1-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 5,
+      "paragraph_index": 1,
+      "sentence_index": 0,
+      "text": "Potom jsem řekl: „Souhlasím s tím, že potřebujeme omezit vstup cizích lidí.",
+      "start": 32.20049886621315,
+      "end": 39.03877551020408,
+      "slow_start": 35.985351473922904,
+      "slow_end": 43.60149659863946
+    },
+    {
+      "lesson_id": "B1-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--normal.mp3",
+      "slow_file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U08-L01--2026.10.23.1--text--s6",
+      "asset_id": "B1-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 6,
+      "paragraph_index": 1,
+      "sentence_index": 1,
+      "text": "Nemyslím si ale, že zamykání bez další změny problém vyřeší.",
+      "start": 39.21877551020408,
+      "end": 44.97732426303855,
+      "slow_start": 43.78149659863946,
+      "slow_end": 50.28308390022676
+    },
+    {
+      "lesson_id": "B1-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--normal.mp3",
+      "slow_file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U08-L01--2026.10.23.1--text--s7",
+      "asset_id": "B1-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 7,
+      "paragraph_index": 1,
+      "sentence_index": 2,
+      "text": "Například lidé, kteří se vracejí pozdě z práce, musí mít jednoduchý způsob, jak se dostat domů.“",
+      "start": 45.15732426303855,
+      "end": 53.88802721088435,
+      "slow_start": 50.463083900226756,
+      "slow_end": 60.087755102040816
+    },
+    {
+      "lesson_id": "B1-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--normal.mp3",
+      "slow_file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U08-L01--2026.10.23.1--text--s8",
+      "asset_id": "B1-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 8,
+      "paragraph_index": 1,
+      "sentence_index": 3,
+      "text": "Jeden soused mi odpověděl, že stačí rozdat klíče.",
+      "start": 54.06802721088435,
+      "end": 58.67718820861678,
+      "slow_start": 60.267755102040816,
+      "slow_end": 65.44580498866213
+    },
+    {
+      "lesson_id": "B1-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--normal.mp3",
+      "slow_file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U08-L01--2026.10.23.1--text--s9",
+      "asset_id": "B1-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 9,
+      "paragraph_index": 1,
+      "sentence_index": 4,
+      "text": "Zeptal jsem se ho, jak by se řešila ztráta klíče nebo návštěva lékaře u staršího obyvatele.",
+      "start": 58.85718820861678,
+      "end": 66.96095238095238,
+      "slow_start": 65.62580498866213,
+      "slow_end": 74.96022675736961
+    },
+    {
+      "lesson_id": "B1-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--normal.mp3",
+      "slow_file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U08-L01--2026.10.23.1--text--p2",
+      "asset_id": "B1-U08-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Paní Novotná navrhla elektronický zámek. Podle jejího názoru by byl pohodlnější, ale nikdo zatím neznal cenu ani náklady na údržbu. Připomněl jsem proto, že nemáme dost podkladů pro konečné rozhodnutí. To neznamenalo, že návrh odmítám. Chtěl jsem pouze oddělit to, co víme, od toho, co teprve předpokládáme. Většina lidí s takovým postupem souhlasila.",
+      "start": 67.14095238095238,
+      "end": 98.23850340136055,
+      "slow_start": 75.14022675736962,
+      "slow_end": 110.28965986394557
+    },
+    {
+      "lesson_id": "B1-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--normal.mp3",
+      "slow_file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U08-L01--2026.10.23.1--text--s10",
+      "asset_id": "B1-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 10,
+      "paragraph_index": 2,
+      "sentence_index": 0,
+      "text": "Paní Novotná navrhla elektronický zámek.",
+      "start": 67.14095238095238,
+      "end": 70.5891156462585,
+      "slow_start": 75.14022675736962,
+      "slow_end": 79.14566893424036
+    },
+    {
+      "lesson_id": "B1-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--normal.mp3",
+      "slow_file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U08-L01--2026.10.23.1--text--s11",
+      "asset_id": "B1-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 11,
+      "paragraph_index": 2,
+      "sentence_index": 1,
+      "text": "Podle jejího názoru by byl pohodlnější, ale nikdo zatím neznal cenu ani náklady na údržbu.",
+      "start": 70.7691156462585,
+      "end": 78.97736961451247,
+      "slow_start": 79.32566893424037,
+      "slow_end": 88.61365079365079
+    },
+    {
+      "lesson_id": "B1-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--normal.mp3",
+      "slow_file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U08-L01--2026.10.23.1--text--s12",
+      "asset_id": "B1-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 12,
+      "paragraph_index": 2,
+      "sentence_index": 2,
+      "text": "Připomněl jsem proto, že nemáme dost podkladů pro konečné rozhodnutí.",
+      "start": 79.15736961451248,
+      "end": 84.68371882086167,
+      "slow_start": 88.7936507936508,
+      "slow_end": 95.05142857142857
+    },
+    {
+      "lesson_id": "B1-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--normal.mp3",
+      "slow_file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U08-L01--2026.10.23.1--text--s13",
+      "asset_id": "B1-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 13,
+      "paragraph_index": 2,
+      "sentence_index": 3,
+      "text": "To neznamenalo, že návrh odmítám.",
+      "start": 84.86371882086168,
+      "end": 87.85909297052154,
+      "slow_start": 95.23142857142857,
+      "slow_end": 98.56349206349206
+    },
+    {
+      "lesson_id": "B1-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--normal.mp3",
+      "slow_file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U08-L01--2026.10.23.1--text--s14",
+      "asset_id": "B1-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 14,
+      "paragraph_index": 2,
+      "sentence_index": 4,
+      "text": "Chtěl jsem pouze oddělit to, co víme, od toho, co teprve předpokládáme.",
+      "start": 88.03909297052154,
+      "end": 94.15755102040816,
+      "slow_start": 98.74349206349207,
+      "slow_end": 105.60498866213152
+    },
+    {
+      "lesson_id": "B1-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--normal.mp3",
+      "slow_file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U08-L01--2026.10.23.1--text--s15",
+      "asset_id": "B1-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 15,
+      "paragraph_index": 2,
+      "sentence_index": 5,
+      "text": "Většina lidí s takovým postupem souhlasila.",
+      "start": 94.33755102040816,
+      "end": 98.23850340136055,
+      "slow_start": 105.78498866213152,
+      "slow_end": 110.28965986394557
+    },
+    {
+      "lesson_id": "B1-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--normal.mp3",
+      "slow_file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U08-L01--2026.10.23.1--text--p3",
+      "asset_id": "B1-U08-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Dohodli jsme se, že si vyžádáme dvě nabídky a pak porovnáme cenu, spolehlivost a přístup pro návštěvy. V závěru schůze jsem svůj postoj shrnul: bezpečnost považuji za důležitou, ale řešení musí fungovat i v běžném provozu. Změnil bych názor, kdyby se ukázalo, že zvolený systém lidem často brání ve vstupu. Diskuse tedy neskončila vítězstvím jedné strany, nýbrž konkrétním dalším krokem.",
+      "start": 98.41850340136054,
+      "end": 132.94090702947847,
+      "slow_start": 110.46965986394558,
+      "slow_end": 149.42707482993197
+    },
+    {
+      "lesson_id": "B1-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--normal.mp3",
+      "slow_file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U08-L01--2026.10.23.1--text--s16",
+      "asset_id": "B1-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 16,
+      "paragraph_index": 3,
+      "sentence_index": 0,
+      "text": "Dohodli jsme se, že si vyžádáme dvě nabídky a pak porovnáme cenu, spolehlivost a přístup pro návštěvy.",
+      "start": 98.41850340136054,
+      "end": 107.00988662131519,
+      "slow_start": 110.46965986394558,
+      "slow_end": 120.14077097505668
+    },
+    {
+      "lesson_id": "B1-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--normal.mp3",
+      "slow_file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U08-L01--2026.10.23.1--text--s17",
+      "asset_id": "B1-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 17,
+      "paragraph_index": 3,
+      "sentence_index": 1,
+      "text": "V závěru schůze jsem svůj postoj shrnul: bezpečnost považuji za důležitou, ale řešení musí fungovat i v běžném provozu.",
+      "start": 107.1898866213152,
+      "end": 117.77818594104308,
+      "slow_start": 120.32077097505669,
+      "slow_end": 132.2906575963719
+    },
+    {
+      "lesson_id": "B1-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--normal.mp3",
+      "slow_file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U08-L01--2026.10.23.1--text--s18",
+      "asset_id": "B1-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 18,
+      "paragraph_index": 3,
+      "sentence_index": 2,
+      "text": "Změnil bych názor, kdyby se ukázalo, že zvolený systém lidem často brání ve vstupu.",
+      "start": 117.95818594104308,
+      "end": 125.59755102040816,
+      "slow_start": 132.4706575963719,
+      "slow_end": 141.2942403628118
+    },
+    {
+      "lesson_id": "B1-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--normal.mp3",
+      "slow_file": "audio/files/B1-U08-L01--2026.10.22.1--text--91b3ece50b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U08-L01--2026.10.23.1--text--s19",
+      "asset_id": "B1-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 19,
+      "paragraph_index": 3,
+      "sentence_index": 3,
+      "text": "Diskuse tedy neskončila vítězstvím jedné strany, nýbrž konkrétním dalším krokem.",
+      "start": 125.77755102040817,
+      "end": 132.94090702947847,
+      "slow_start": 141.4742403628118,
+      "slow_end": 149.42707482993197
+    },
+    {
+      "lesson_id": "B1-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U08-L01--2026.10.22.1--listening--032413482b--normal.mp3",
+      "slow_file": "audio/files/B1-U08-L01--2026.10.22.1--listening--032413482b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U08-L01--2026.10.23.1--listening",
+      "role": "listening-full",
+      "index": 0,
+      "text": "Souhlasím s tím, že potřebujeme klidnější dvůr. Nejsem si ale jistý, zda zákaz všech návštěv pomůže. Můj soused potřebuje pravidelnou domácí pomoc. Navrhuji nejdřív zjistit, kdo a proč do domu chodí, a teprve potom změnit pravidla.",
+      "duration_seconds": 20.944580498866213,
+      "slow_duration_seconds": 23.6497052154195,
+      "sha256": "75bf0154523c751be2c1906fd646d201fedcbf58b3e403c170036324c7741fc2",
+      "slow_sha256": "3ce830b4282d11d188334bacac9345e8a320b936332cb8254128732be007f4ad"
+    },
+    {
+      "lesson_id": "B1-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U08-L01--2026.10.22.1--listening--032413482b--normal.mp3",
+      "slow_file": "audio/files/B1-U08-L01--2026.10.22.1--listening--032413482b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U08-L01--2026.10.23.1--listening--p0",
+      "asset_id": "B1-U08-L01--2026.10.23.1--listening",
+      "role": "listening",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Souhlasím s tím, že potřebujeme klidnější dvůr. Nejsem si ale jistý, zda zákaz všech návštěv pomůže. Můj soused potřebuje pravidelnou domácí pomoc. Navrhuji nejdřív zjistit, kdo a proč do domu chodí, a teprve potom změnit pravidla.",
+      "start": 0,
+      "end": 20.764580498866213,
+      "slow_start": 0,
+      "slow_end": 23.469705215419502
+    },
+    {
+      "lesson_id": "B1-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U08-L01--2026.10.22.1--vocabulary--c5f4c82c80--normal.mp3",
+      "slow_file": "audio/files/B1-U08-L01--2026.10.22.1--vocabulary--c5f4c82c80--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U08-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary-full",
+      "index": 0,
+      "text": "Svůj postoj mohu změnit. Nemáme dost podkladů. Kolik stojí údržba? Chceme ověřit spolehlivost zámku.",
+      "duration_seconds": 10.379501133786848,
+      "slow_duration_seconds": 11.552108843537415,
+      "sha256": "d1de5b0d3ae2183057225cbc55c9caa66b625de0b5dd42ff2989a52a731b59d8",
+      "slow_sha256": "6b4ae568c907725d42fa746cf7145e747199c3e98ccdf21f19f71ff0a50893d5"
+    },
+    {
+      "lesson_id": "B1-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U08-L01--2026.10.22.1--vocabulary--c5f4c82c80--normal.mp3",
+      "slow_file": "audio/files/B1-U08-L01--2026.10.22.1--vocabulary--c5f4c82c80--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U08-L01--2026.10.23.1--vocabulary--p0",
+      "asset_id": "B1-U08-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Svůj postoj mohu změnit.",
+      "start": 0,
+      "end": 2.449705215419501,
+      "slow_start": 0,
+      "slow_end": 2.728344671201814
+    },
+    {
+      "lesson_id": "B1-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U08-L01--2026.10.22.1--vocabulary--c5f4c82c80--normal.mp3",
+      "slow_file": "audio/files/B1-U08-L01--2026.10.22.1--vocabulary--c5f4c82c80--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U08-L01--2026.10.23.1--vocabulary--p1",
+      "asset_id": "B1-U08-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Nemáme dost podkladů.",
+      "start": 2.6297052154195013,
+      "end": 4.615011337868481,
+      "slow_start": 2.908344671201814,
+      "slow_end": 5.1374603174603175
+    },
+    {
+      "lesson_id": "B1-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U08-L01--2026.10.22.1--vocabulary--c5f4c82c80--normal.mp3",
+      "slow_file": "audio/files/B1-U08-L01--2026.10.22.1--vocabulary--c5f4c82c80--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U08-L01--2026.10.23.1--vocabulary--p2",
+      "asset_id": "B1-U08-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Kolik stojí údržba?",
+      "start": 4.79501133786848,
+      "end": 6.838367346938775,
+      "slow_start": 5.317460317460317,
+      "slow_end": 7.6046258503401365
+    },
+    {
+      "lesson_id": "B1-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U08-L01--2026.10.22.1--vocabulary--c5f4c82c80--normal.mp3",
+      "slow_file": "audio/files/B1-U08-L01--2026.10.22.1--vocabulary--c5f4c82c80--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U08-L01--2026.10.23.1--vocabulary--p3",
+      "asset_id": "B1-U08-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Chceme ověřit spolehlivost zámku.",
+      "start": 7.018367346938776,
+      "end": 10.199501133786848,
+      "slow_start": 7.784625850340136,
+      "slow_end": 11.372108843537415
+    },
+    {
+      "lesson_id": "B1-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U08-L01--2026.10.22.1--exercises--f667e5c3f9--normal.mp3",
+      "slow_file": "audio/files/B1-U08-L01--2026.10.22.1--exercises--f667e5c3f9--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U08-L01--2026.10.23.1--exercises",
+      "role": "exercises-full",
+      "index": 0,
+      "text": "Souhlasím s tím, že potřebujeme klidnější dvůr. Nejsem si ale jistý, zda zákaz všech návštěv pomůže.",
+      "duration_seconds": 9.462222222222222,
+      "slow_duration_seconds": 10.623219954648526,
+      "sha256": "672eeac2787192d30cc99f9a1b5ea49f38b29e32b2b8cff7d516fe9eb7262897",
+      "slow_sha256": "61313a91910a28950cf0a94bb5ee7846d6b975a79f57a6ea417796f69c95cc23"
+    },
+    {
+      "lesson_id": "B1-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U08-L01--2026.10.22.1--exercises--f667e5c3f9--normal.mp3",
+      "slow_file": "audio/files/B1-U08-L01--2026.10.22.1--exercises--f667e5c3f9--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U08-L01--2026.10.23.1--exercises--p0",
+      "asset_id": "B1-U08-L01--2026.10.23.1--exercises",
+      "role": "exercise",
+      "index": 0,
+      "exercise_id": "B1-U08-L01-E03",
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Souhlasím s tím, že potřebujeme klidnější dvůr. Nejsem si ale jistý, zda zákaz všech návštěv pomůže.",
+      "start": 0,
+      "end": 9.282222222222222,
+      "slow_start": 0,
+      "slow_end": 10.443219954648526
+    },
+    {
+      "lesson_id": "B1-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U08-L01--2026.10.22.1--contrasts--70a99413b2--normal.mp3",
+      "slow_file": "audio/files/B1-U08-L01--2026.10.22.1--contrasts--70a99413b2--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U08-L01--2026.10.23.1--contrasts",
+      "role": "contrasts-full",
+      "index": 0,
+      "text": "souhlasím. nesouhlasím.",
+      "duration_seconds": 2.4555555555555557,
+      "slow_duration_seconds": 2.8502947845804987,
+      "sha256": "4f48f0af7c79e85197f36373668ab871ef821b4ff41c3dc213945e65bc7d84b3",
+      "slow_sha256": "eb19cbb8192d2b15dcab856139519a759bfed14687a5888d17bc325372c0ad11"
+    },
+    {
+      "lesson_id": "B1-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U08-L01--2026.10.22.1--contrasts--70a99413b2--normal.mp3",
+      "slow_file": "audio/files/B1-U08-L01--2026.10.22.1--contrasts--70a99413b2--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U08-L01--2026.10.23.1--contrasts--p0",
+      "asset_id": "B1-U08-L01--2026.10.23.1--contrasts",
+      "role": "contrast",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "souhlasím. nesouhlasím.",
+      "start": 0,
+      "end": 2.2755555555555556,
+      "slow_start": 0,
+      "slow_end": 2.670294784580499
+    }
+  ]
+}

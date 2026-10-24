@@ -1,0 +1,75 @@
+{
+  "id": "A2-U11-CHECK--2026.10.22.1--text",
+  "lesson_id": "A2-U11-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Pavel opravoval kolo celé odpoledne. Nakonec ho opravil. Zítra bude opravovat dveře.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Pavel opravoval kolo celé odpoledne.",
+        "Nakonec ho opravil.",
+        "Zítra bude opravovat dveře."
+      ]
+    }
+  ],
+  "text_sha256": "fee3f3a07257e6fc9306836870388caea5bef16b6d12971b095a94a7cbb9cbdb",
+  "source_file": "content/assessments/A2-U11.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U11-CHECK--2026.10.22.1--text--fee3f3a072--normal.mp3",
+  "slow_file": "content/audio/files/A2-U11-CHECK--2026.10.22.1--text--fee3f3a072--slow.mp3",
+  "duration_seconds": 7.9819954648526075,
+  "slow_duration_seconds": 8.817913832199546,
+  "cues": [
+    {
+      "text": "Pavel opravoval kolo celé odpoledne. Nakonec ho opravil. Zítra bude opravovat dveře.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Pavel opravoval kolo celé odpoledne.",
+        "Nakonec ho opravil.",
+        "Zítra bude opravovat dveře."
+      ],
+      "start": 0.0,
+      "end": 7.801995464852608,
+      "sentences": [
+        {
+          "text": "Pavel opravoval kolo celé odpoledne.",
+          "start": 0.0,
+          "end": 3.1346938775510202,
+          "slow_start": 0.0,
+          "slow_end": 3.599092970521542
+        },
+        {
+          "text": "Nakonec ho opravil.",
+          "start": 3.3146938775510204,
+          "end": 5.276780045351474,
+          "slow_start": 3.779092970521542,
+          "slow_end": 5.903718820861678
+        },
+        {
+          "text": "Zítra bude opravovat dveře.",
+          "start": 5.456780045351474,
+          "end": 7.801995464852608,
+          "slow_start": 6.083718820861678,
+          "slow_end": 8.637913832199546
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 8.637913832199546
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "25cfabc200a375041b9530497abf93a8e1f7cff6c363c0184626aedc48f64148",
+    "slow": "6c42288caea7c9a00f4602d858c26f51f9fc7d7b736553ecb81fb9275a42cd80"
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "id": "C2-U02-CHECK",
+  "kind": "unit",
+  "level": "C2",
+  "unit_id": "C2-U02",
+  "title_zh": "“不一定”与“不允许”，差的是整个判断：新情境检验",
+  "version": "2026.10.22.1",
+  "unseen_text": [
+    {
+      "cs": "Zpráva: Ne všechny pobočky už přijímají nové žádosti. Pouze jižní pobočka potvrdila rozšíření otevírací doby. U severní zatím neznáme termín změny.",
+      "zh": "并非所有网点已经接新申请；只有南网点确认延时开放；北网点变更日期未知。"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "能否断言北网点永远不变更？",
+      "stimulus_cs": "",
+      "answer": "c",
+      "explanation_zh": "未知当前日期不等于永久不变。",
+      "skill_ids": [
+        "reading"
+      ],
+      "knowledge_points": [
+        "c2-negation-scope",
+        "c2-focus-modal-time"
+      ],
+      "error_category": "comprehension",
+      "options": [
+        {
+          "id": "a",
+          "text": "能"
+        },
+        {
+          "id": "b",
+          "text": "材料要求如此"
+        },
+        {
+          "id": "c",
+          "text": "不能，zatím只限定当前未知"
+        }
+      ],
+      "scoring_basis": "封闭题以答案核对；解析说明本题边界。",
+      "id": "C2-U02-CHECK-E01"
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "用两句区分“受理申请”和“延时开放”两指标。",
+      "stimulus_cs": "",
+      "answer": "Přijímání žádostí a délka otevírací doby jsou dvě různé věci. Potvrzení jižní pobočky se týká rozšíření hodin, nikoli všech podmínek přijímání.",
+      "explanation_zh": "避免跨句把不同事件合并。",
+      "skill_ids": [
+        "writing"
+      ],
+      "knowledge_points": [
+        "c2-negation-scope",
+        "c2-focus-modal-time"
+      ],
+      "error_category": "comprehension",
+      "rubric": [
+        "回应具体任务，信息不失真",
+        "逻辑有衔接，能说明证据与限制",
+        "语法与搭配基本准确，语域适合对象",
+        "能自主组织语言而非照读范文"
+      ],
+      "scoring_basis": "开放表达：示范不是唯一答案；依量规自评或人工评阅，未接受人工评阅时不自动判定能力达标。",
+      "id": "C2-U02-CHECK-E02"
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "向机构补问一个可获得确定行动信息的问题。",
+      "stimulus_cs": "",
+      "answer": "Které pobočky nyní skutečně přijímají žádosti a kde je tato informace aktualizována?",
+      "explanation_zh": "先问当前能办事的网点，而非猜未来。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "knowledge_points": [
+        "c2-negation-scope",
+        "c2-focus-modal-time"
+      ],
+      "error_category": "comprehension",
+      "rubric": [
+        "回应具体任务，信息不失真",
+        "逻辑有衔接，能说明证据与限制",
+        "语法与搭配基本准确，语域适合对象",
+        "能自主组织语言而非照读范文"
+      ],
+      "scoring_basis": "开放表达：示范不是唯一答案；依量规自评或人工评阅，未接受人工评阅时不自动判定能力达标。",
+      "id": "C2-U02-CHECK-E03"
+    }
+  ],
+  "rubric": [
+    "理解未见材料中的主张及限定",
+    "主动表达时准确转述不同立场",
+    "区分事实、推断与建议",
+    "能针对误解调整解释方式"
+  ],
+  "remediation": [
+    {
+      "condition_zh": "误把可能性说成事实，或遗漏反方条件",
+      "lesson_ids": [
+        "C2-U02-L01"
+      ],
+      "action_zh": "重做信息定位与转述，标出每个判断的来源和语气词。"
+    },
+    {
+      "condition_zh": "表达卡住或只有单句结论",
+      "lesson_ids": [
+        "C2-U02-L01"
+      ],
+      "action_zh": "先列论点—依据—限制—行动四点，再换对象重录一次。"
+    }
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "C2-U02-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U02-CHECK--2026.10.22.1--text--fab6a8883a--normal.mp3",
+      "slow_file": "audio/files/C2-U02-CHECK--2026.10.22.1--text--fab6a8883a--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U02-CHECK--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Zpráva: Ne všechny pobočky už přijímají nové žádosti. Pouze jižní pobočka potvrdila rozšíření otevírací doby. U severní zatím neznáme termín změny.",
+      "duration_seconds": 14.123673469387755,
+      "slow_duration_seconds": 15.853560090702947,
+      "sha256": "08f7748aee14852897a94f762ddc8931b99c9859dbdeff034029c9bd768cf6b2",
+      "slow_sha256": "3e8e80b2bb5db5c30ee5f7105bed6b995644b8ab791b8001f8a9fc73fc9432b3"
+    },
+    {
+      "lesson_id": "C2-U02-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U02-CHECK--2026.10.22.1--text--fab6a8883a--normal.mp3",
+      "slow_file": "audio/files/C2-U02-CHECK--2026.10.22.1--text--fab6a8883a--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U02-CHECK--2026.10.22.1--text--p0",
+      "asset_id": "C2-U02-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Zpráva: Ne všechny pobočky už přijímají nové žádosti. Pouze jižní pobočka potvrdila rozšíření otevírací doby. U severní zatím neznáme termín změny.",
+      "start": 0,
+      "end": 13.943673469387756,
+      "slow_start": 0,
+      "slow_end": 15.673560090702948
+    },
+    {
+      "lesson_id": "C2-U02-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U02-CHECK--2026.10.22.1--text--fab6a8883a--normal.mp3",
+      "slow_file": "audio/files/C2-U02-CHECK--2026.10.22.1--text--fab6a8883a--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U02-CHECK--2026.10.22.1--text--s0",
+      "asset_id": "C2-U02-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Zpráva: Ne všechny pobočky už přijímají nové žádosti.",
+      "start": 0,
+      "end": 5.270929705215419,
+      "slow_start": 0,
+      "slow_end": 5.955918367346939
+    },
+    {
+      "lesson_id": "C2-U02-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U02-CHECK--2026.10.22.1--text--fab6a8883a--normal.mp3",
+      "slow_file": "audio/files/C2-U02-CHECK--2026.10.22.1--text--fab6a8883a--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U02-CHECK--2026.10.22.1--text--s1",
+      "asset_id": "C2-U02-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Pouze jižní pobočka potvrdila rozšíření otevírací doby.",
+      "start": 5.45092970521542,
+      "end": 10.245850340136055,
+      "slow_start": 6.135918367346939,
+      "slow_end": 11.453287981859411
+    },
+    {
+      "lesson_id": "C2-U02-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U02-CHECK--2026.10.22.1--text--fab6a8883a--normal.mp3",
+      "slow_file": "audio/files/C2-U02-CHECK--2026.10.22.1--text--fab6a8883a--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U02-CHECK--2026.10.22.1--text--s2",
+      "asset_id": "C2-U02-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "U severní zatím neznáme termín změny.",
+      "start": 10.425850340136055,
+      "end": 13.943673469387756,
+      "slow_start": 11.63328798185941,
+      "slow_end": 15.673560090702948
+    }
+  ]
+}

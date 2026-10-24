@@ -1,0 +1,298 @@
+{
+  "id": "B1-U11-L01--2026.10.23.1--text",
+  "lesson_id": "B1-U11-L01",
+  "content_version": "2026.10.23.1",
+  "level": "B1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Naše malá skupina připravovala veřejné setkání v knihovně. Potřebovali jsme potvrdit rezervaci místnosti a zapůjčení projektoru. První návrh e-mailu zněl: „Dobrý den, posílám to, o čem jsme mluvili. Prosím o rychlé vyřízení.“ Kolegyně se zeptala, zda příjemce vůbec pozná, o kterou schůzku jde a co má přesně potvrdit. Uvědomil jsem si, že sdílený kontext není samozřejmost.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Naše malá skupina připravovala veřejné setkání v knihovně.",
+        "Potřebovali jsme potvrdit rezervaci místnosti a zapůjčení projektoru.",
+        "První návrh e-mailu zněl: „Dobrý den, posílám to, o čem jsme mluvili.",
+        "Prosím o rychlé vyřízení.“",
+        "Kolegyně se zeptala, zda příjemce vůbec pozná, o kterou schůzku jde a co má přesně potvrdit.",
+        "Uvědomil jsem si, že sdílený kontext není samozřejmost."
+      ]
+    },
+    {
+      "text": "Do předmětu jsem proto napsal: „Potvrzení rezervace: setkání 14. května.“ V úvodu jsem připomněl telefonickou dohodu a uvedl počet účastníků. Potom jsem oddělil dvě žádosti: potvrzení místnosti a informaci o projektoru. V příloze byl stručný program, nikoli další nepojmenovaný soubor. Požádal jsem o odpověď do pátku, protože podle ní potřebujeme odeslat pozvánky.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Do předmětu jsem proto napsal: „Potvrzení rezervace: setkání 14. května.“",
+        "V úvodu jsem připomněl telefonickou dohodu a uvedl počet účastníků.",
+        "Potom jsem oddělil dvě žádosti: potvrzení místnosti a informaci o projektoru.",
+        "V příloze byl stručný program, nikoli další nepojmenovaný soubor.",
+        "Požádal jsem o odpověď do pátku, protože podle ní potřebujeme odeslat pozvánky."
+      ]
+    },
+    {
+      "text": "Správce odpověděl, že místnost je volná, ale projektor musí předem vyzkoušet. Připojil také pokyny: po příchodu se máme ohlásit na recepci, převzít klíč a zkontrolovat vybavení. Pokud zjistíme závadu, nemáme zařízení opravovat sami, ale zavolat správce. Po skončení máme vypnout světla, zavřít okna a vrátit klíč. Tyto kroky bylo nutné předat i ostatním organizátorům.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Správce odpověděl, že místnost je volná, ale projektor musí předem vyzkoušet.",
+        "Připojil také pokyny: po příchodu se máme ohlásit na recepci, převzít klíč a zkontrolovat vybavení.",
+        "Pokud zjistíme závadu, nemáme zařízení opravovat sami, ale zavolat správce.",
+        "Po skončení máme vypnout světla, zavřít okna a vrátit klíč.",
+        "Tyto kroky bylo nutné předat i ostatním organizátorům."
+      ]
+    },
+    {
+      "text": "Odpověď jsem nepovažoval za úplné potvrzení obou požadavků. Poděkoval jsem za rezervaci a zeptal se, kdy bude znám výsledek zkoušky projektoru. Do sdílených poznámek jsem zapsal, co je potvrzené a co ještě čeká. U každého úkolu jsem uvedl konkrétního člověka. Dobře napsaný e-mail nám tak pomohl předejít chybě, kterou by samotný zdvořilý tón nevyřešil: nikdo by nevěděl, kdo má udělat další krok.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Odpověď jsem nepovažoval za úplné potvrzení obou požadavků.",
+        "Poděkoval jsem za rezervaci a zeptal se, kdy bude znám výsledek zkoušky projektoru.",
+        "Do sdílených poznámek jsem zapsal, co je potvrzené a co ještě čeká.",
+        "U každého úkolu jsem uvedl konkrétního člověka.",
+        "Dobře napsaný e-mail nám tak pomohl předejít chybě, kterou by samotný zdvořilý tón nevyřešil: nikdo by nevěděl, kdo má udělat další krok."
+      ]
+    }
+  ],
+  "text_sha256": "bca1424171d69b6d252963e0ce69816c3a76f8e658647d65fbac8c33bb5be7f6",
+  "source_file": "content/lessons/B1/B1-U11-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--normal.mp3",
+  "slow_file": "content/audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--slow.mp3",
+  "duration_seconds": 138.67632653061224,
+  "slow_duration_seconds": 156.68340136054422,
+  "cues": [
+    {
+      "text": "Naše malá skupina připravovala veřejné setkání v knihovně. Potřebovali jsme potvrdit rezervaci místnosti a zapůjčení projektoru. První návrh e-mailu zněl: „Dobrý den, posílám to, o čem jsme mluvili. Prosím o rychlé vyřízení.“ Kolegyně se zeptala, zda příjemce vůbec pozná, o kterou schůzku jde a co má přesně potvrdit. Uvědomil jsem si, že sdílený kontext není samozřejmost.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Naše malá skupina připravovala veřejné setkání v knihovně.",
+        "Potřebovali jsme potvrdit rezervaci místnosti a zapůjčení projektoru.",
+        "První návrh e-mailu zněl: „Dobrý den, posílám to, o čem jsme mluvili.",
+        "Prosím o rychlé vyřízení.“",
+        "Kolegyně se zeptala, zda příjemce vůbec pozná, o kterou schůzku jde a co má přesně potvrdit.",
+        "Uvědomil jsem si, že sdílený kontext není samozřejmost."
+      ],
+      "start": 0.0,
+      "end": 33.93038548752835,
+      "sentences": [
+        {
+          "text": "Naše malá skupina připravovala veřejné setkání v knihovně.",
+          "start": 0.0,
+          "end": 4.9458503401360545,
+          "slow_start": 0.0,
+          "slow_end": 5.572789115646258
+        },
+        {
+          "text": "Potřebovali jsme potvrdit rezervaci místnosti a zapůjčení projektoru.",
+          "start": 5.125850340136054,
+          "end": 10.930839002267573,
+          "slow_start": 5.752789115646259,
+          "slow_end": 12.370476190476191
+        },
+        {
+          "text": "První návrh e-mailu zněl: „Dobrý den, posílám to, o čem jsme mluvili.",
+          "start": 11.110839002267573,
+          "end": 17.693696145124715,
+          "slow_start": 12.550476190476191,
+          "slow_end": 19.911201814058956
+        },
+        {
+          "text": "Prosím o rychlé vyřízení.“",
+          "start": 17.87369614512472,
+          "end": 20.230521541950115,
+          "slow_start": 20.091201814058955,
+          "slow_end": 22.680226757369613
+        },
+        {
+          "text": "Kolegyně se zeptala, zda příjemce vůbec pozná, o kterou schůzku jde a co má přesně potvrdit.",
+          "start": 20.410521541950114,
+          "end": 28.479455782312925,
+          "slow_start": 22.860226757369613,
+          "slow_end": 32.02049886621315
+        },
+        {
+          "text": "Uvědomil jsem si, že sdílený kontext není samozřejmost.",
+          "start": 28.659455782312925,
+          "end": 33.93038548752835,
+          "slow_start": 32.20049886621315,
+          "slow_end": 38.48149659863945
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 38.48149659863945
+    },
+    {
+      "text": "Do předmětu jsem proto napsal: „Potvrzení rezervace: setkání 14. května.“ V úvodu jsem připomněl telefonickou dohodu a uvedl počet účastníků. Potom jsem oddělil dvě žádosti: potvrzení místnosti a informaci o projektoru. V příloze byl stručný program, nikoli další nepojmenovaný soubor. Požádal jsem o odpověď do pátku, protože podle ní potřebujeme odeslat pozvánky.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Do předmětu jsem proto napsal: „Potvrzení rezervace: setkání 14. května.“",
+        "V úvodu jsem připomněl telefonickou dohodu a uvedl počet účastníků.",
+        "Potom jsem oddělil dvě žádosti: potvrzení místnosti a informaci o projektoru.",
+        "V příloze byl stručný program, nikoli další nepojmenovaný soubor.",
+        "Požádal jsem o odpověď do pátku, protože podle ní potřebujeme odeslat pozvánky."
+      ],
+      "start": 34.11038548752835,
+      "end": 68.34839002267573,
+      "sentences": [
+        {
+          "text": "Do předmětu jsem proto napsal: „Potvrzení rezervace: setkání 14. května.“",
+          "start": 34.11038548752835,
+          "end": 41.26213151927438,
+          "slow_start": 38.66149659863945,
+          "slow_end": 46.91619047619048
+        },
+        {
+          "text": "V úvodu jsem připomněl telefonickou dohodu a uvedl počet účastníků.",
+          "start": 41.442131519274376,
+          "end": 47.827619047619045,
+          "slow_start": 47.09619047619048,
+          "slow_end": 54.27115646258503
+        },
+        {
+          "text": "Potom jsem oddělil dvě žádosti: potvrzení místnosti a informaci o projektoru.",
+          "start": 48.007619047619045,
+          "end": 54.93877551020408,
+          "slow_start": 54.45115646258503,
+          "slow_end": 62.3459410430839
+        },
+        {
+          "text": "V příloze byl stručný program, nikoli další nepojmenovaný soubor.",
+          "start": 55.11877551020408,
+          "end": 60.784444444444446,
+          "slow_start": 62.5259410430839,
+          "slow_end": 68.87659863945578
+        },
+        {
+          "text": "Požádal jsem o odpověď do pátku, protože podle ní potřebujeme odeslat pozvánky.",
+          "start": 60.964444444444446,
+          "end": 68.34839002267573,
+          "slow_start": 69.05659863945579,
+          "slow_end": 77.12553287981859
+        }
+      ],
+      "slow_start": 38.66149659863945,
+      "slow_end": 77.12553287981859
+    },
+    {
+      "text": "Správce odpověděl, že místnost je volná, ale projektor musí předem vyzkoušet. Připojil také pokyny: po příchodu se máme ohlásit na recepci, převzít klíč a zkontrolovat vybavení. Pokud zjistíme závadu, nemáme zařízení opravovat sami, ale zavolat správce. Po skončení máme vypnout světla, zavřít okna a vrátit klíč. Tyto kroky bylo nutné předat i ostatním organizátorům.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Správce odpověděl, že místnost je volná, ale projektor musí předem vyzkoušet.",
+        "Připojil také pokyny: po příchodu se máme ohlásit na recepci, převzít klíč a zkontrolovat vybavení.",
+        "Pokud zjistíme závadu, nemáme zařízení opravovat sami, ale zavolat správce.",
+        "Po skončení máme vypnout světla, zavřít okna a vrátit klíč.",
+        "Tyto kroky bylo nutné předat i ostatním organizátorům."
+      ],
+      "start": 68.52839002267574,
+      "end": 102.89410430839003,
+      "sentences": [
+        {
+          "text": "Správce odpověděl, že místnost je volná, ale projektor musí předem vyzkoušet.",
+          "start": 68.52839002267574,
+          "end": 75.93555555555555,
+          "slow_start": 77.3055328798186,
+          "slow_end": 85.73437641723356
+        },
+        {
+          "text": "Připojil také pokyny: po příchodu se máme ohlásit na recepci, převzít klíč a zkontrolovat vybavení.",
+          "start": 76.11555555555556,
+          "end": 84.75337868480726,
+          "slow_start": 85.91437641723356,
+          "slow_end": 95.64353741496599
+        },
+        {
+          "text": "Pokud zjistíme závadu, nemáme zařízení opravovat sami, ale zavolat správce.",
+          "start": 84.93337868480725,
+          "end": 92.1780045351474,
+          "slow_start": 95.82353741496598,
+          "slow_end": 103.9853514739229
+        },
+        {
+          "text": "Po skončení máme vypnout světla, zavřít okna a vrátit klíč.",
+          "start": 92.35800453514739,
+          "end": 97.94240362811792,
+          "slow_start": 104.1653514739229,
+          "slow_end": 110.7598185941043
+        },
+        {
+          "text": "Tyto kroky bylo nutné předat i ostatním organizátorům.",
+          "start": 98.12240362811791,
+          "end": 102.89410430839003,
+          "slow_start": 110.93981859410431,
+          "slow_end": 116.33845804988663
+        }
+      ],
+      "slow_start": 77.3055328798186,
+      "slow_end": 116.33845804988663
+    },
+    {
+      "text": "Odpověď jsem nepovažoval za úplné potvrzení obou požadavků. Poděkoval jsem za rezervaci a zeptal se, kdy bude znám výsledek zkoušky projektoru. Do sdílených poznámek jsem zapsal, co je potvrzené a co ještě čeká. U každého úkolu jsem uvedl konkrétního člověka. Dobře napsaný e-mail nám tak pomohl předejít chybě, kterou by samotný zdvořilý tón nevyřešil: nikdo by nevěděl, kdo má udělat další krok.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Odpověď jsem nepovažoval za úplné potvrzení obou požadavků.",
+        "Poděkoval jsem za rezervaci a zeptal se, kdy bude znám výsledek zkoušky projektoru.",
+        "Do sdílených poznámek jsem zapsal, co je potvrzené a co ještě čeká.",
+        "U každého úkolu jsem uvedl konkrétního člověka.",
+        "Dobře napsaný e-mail nám tak pomohl předejít chybě, kterou by samotný zdvořilý tón nevyřešil: nikdo by nevěděl, kdo má udělat další krok."
+      ],
+      "start": 103.07410430839002,
+      "end": 138.49632653061224,
+      "sentences": [
+        {
+          "text": "Odpověď jsem nepovažoval za úplné potvrzení obou požadavků.",
+          "start": 103.07410430839002,
+          "end": 108.47274376417234,
+          "slow_start": 116.51845804988662,
+          "slow_end": 122.56725623582767
+        },
+        {
+          "text": "Poděkoval jsem za rezervaci a zeptal se, kdy bude znám výsledek zkoušky projektoru.",
+          "start": 108.65274376417234,
+          "end": 115.52585034013606,
+          "slow_start": 122.74725623582766,
+          "slow_end": 130.57238095238094
+        },
+        {
+          "text": "Do sdílených poznámek jsem zapsal, co je potvrzené a co ještě čeká.",
+          "start": 115.70585034013605,
+          "end": 121.81269841269841,
+          "slow_start": 130.75238095238095,
+          "slow_end": 137.54421768707482
+        },
+        {
+          "text": "U každého úkolu jsem uvedl konkrétního člověka.",
+          "start": 121.99269841269842,
+          "end": 126.40448979591837,
+          "slow_start": 137.72421768707483,
+          "slow_end": 142.7861678004535
+        },
+        {
+          "text": "Dobře napsaný e-mail nám tak pomohl předejít chybě, kterou by samotný zdvořilý tón nevyřešil: nikdo by nevěděl, kdo má udělat další krok.",
+          "start": 126.58448979591837,
+          "end": 138.49632653061224,
+          "slow_start": 142.96616780045352,
+          "slow_end": 156.50340136054422
+        }
+      ],
+      "slow_start": 116.51845804988662,
+      "slow_end": 156.50340136054422
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "a7546d11bea18972104ccdc3760a6c639a520cdf656a3771bd70ead80aa8a3f7",
+    "slow": "270a6126f5af77fbbe0de6454255cc1fcddf03aa168b6614dd584785f637325e"
+  },
+  "reused_from_track_id": "B1-U11-L01--2026.10.22.1--text"
+}

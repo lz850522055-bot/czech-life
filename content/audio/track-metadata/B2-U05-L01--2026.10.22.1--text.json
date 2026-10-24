@@ -1,0 +1,409 @@
+{
+  "id": "B2-U05-L01--2026.10.22.1--text",
+  "lesson_id": "B2-U05-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Na nástěnce domu se objevilo oznámení: „Žádosti o nové klíče jsou vyřizovány postupně.“ Obyvatelé rozuměli, že zpracování probíhá, ale nevěděli, kdy se dostane na jejich žádost. Jeden soused větu pochopil tak, že všechny žádosti už jsou vyřízeny. Rozdíl mezi probíhajícím procesem a hotovým výsledkem se v krátkém úředním sdělení snadno ztratí, zejména když čtenář sleduje hlavně praktickou otázku, zda už může klíč převzít.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Na nástěnce domu se objevilo oznámení: „Žádosti o nové klíče jsou vyřizovány postupně.“",
+        "Obyvatelé rozuměli, že zpracování probíhá, ale nevěděli, kdy se dostane na jejich žádost.",
+        "Jeden soused větu pochopil tak, že všechny žádosti už jsou vyřízeny.",
+        "Rozdíl mezi probíhajícím procesem a hotovým výsledkem se v krátkém úředním sdělení snadno ztratí, zejména když čtenář sleduje hlavně praktickou otázku, zda už může klíč převzít."
+      ]
+    },
+    {
+      "text": "Správkyně vysvětlila, že sloveso vyřizovat popisuje činnost, zatímco vyřídit ji představuje jako dokončenou. Věta „Žádosti jsou vyřizovány“ zdůrazňuje průběh; „Žádosti byly vyřízeny“ v daném kontextu oznamuje dokončení. Když chceme sdělit konkrétní stav jedné žádosti, je lepší uvést její označení a další krok. Samotná gramatická forma nenahradí informaci o rozsahu: některé žádosti mohou být hotové, jiné nikoli.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Správkyně vysvětlila, že sloveso vyřizovat popisuje činnost, zatímco vyřídit ji představuje jako dokončenou.",
+        "Věta „Žádosti jsou vyřizovány“ zdůrazňuje průběh; „Žádosti byly vyřízeny“ v daném kontextu oznamuje dokončení.",
+        "Když chceme sdělit konkrétní stav jedné žádosti, je lepší uvést její označení a další krok.",
+        "Samotná gramatická forma nenahradí informaci o rozsahu: některé žádosti mohou být hotové, jiné nikoli."
+      ]
+    },
+    {
+      "text": "Potom jsme porovnali tři formulace. „Správkyně zkontroluje žádost“ uvádí činitele jako podmět. „Žádost bude zkontrolována správkyní“ přesouvá pozornost k žádosti a činitele vyjadřuje sedmým pádem. „Žádosti se kontrolují v kanceláři“ popisuje obvyklý postup bez uvedení konkrétní osoby. Všechny mohou být užitečné, ale nejsou zaměnitelné v každé situaci. Pokud se ptáme, kdo má úkol převzít, poslední věta nám nestačí.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Potom jsme porovnali tři formulace.",
+        "„Správkyně zkontroluje žádost“ uvádí činitele jako podmět.",
+        "„Žádost bude zkontrolována správkyní“ přesouvá pozornost k žádosti a činitele vyjadřuje sedmým pádem.",
+        "„Žádosti se kontrolují v kanceláři“ popisuje obvyklý postup bez uvedení konkrétní osoby.",
+        "Všechny mohou být užitečné, ale nejsou zaměnitelné v každé situaci.",
+        "Pokud se ptáme, kdo má úkol převzít, poslední věta nám nestačí."
+      ]
+    },
+    {
+      "text": "U výsledných stavů jsme narazili na další dvojici: „Dveře jsou zavřeny“ a „Dveře jsou zavřené.“ V běžné komunikaci se jejich významy mohou překrývat. Nelze mechanicky tvrdit, že první věta vždy znamená právě probíhající zavírání a druhá vždy trvalou vlastnost. Rozhoduje slovesný vid, okolní text i styl. Když chceme oznámit děj probíhající právě teď, můžeme říct například „Pracovník právě zavírá dveře“.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "U výsledných stavů jsme narazili na další dvojici: „Dveře jsou zavřeny“ a „Dveře jsou zavřené.“",
+        "V běžné komunikaci se jejich významy mohou překrývat.",
+        "Nelze mechanicky tvrdit, že první věta vždy znamená právě probíhající zavírání a druhá vždy trvalou vlastnost.",
+        "Rozhoduje slovesný vid, okolní text i styl.",
+        "Když chceme oznámit děj probíhající právě teď, můžeme říct například „Pracovník právě zavírá dveře“."
+      ]
+    },
+    {
+      "text": "Nové oznámení jsme proto rozdělili na stav a odpovědnost: „Žádosti přijaté do pondělí byly zkontrolovány. Klíče připraví paní Dvořáková do čtvrtka. Jakmile bude vaše žádost vyřízena, pošleme vám zprávu.“ Čtenář teď ví, kterou skupinu se podařilo zkontrolovat, kdo provede další krok a jak dostane informaci. Nezaměňuje samotnou kontrolu s konečným vydáním klíče ani příslib budoucí činnosti s hotovým výsledkem.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Nové oznámení jsme proto rozdělili na stav a odpovědnost: „Žádosti přijaté do pondělí byly zkontrolovány.",
+        "Klíče připraví paní Dvořáková do čtvrtka.",
+        "Jakmile bude vaše žádost vyřízena, pošleme vám zprávu.“",
+        "Čtenář teď ví, kterou skupinu se podařilo zkontrolovat, kdo provede další krok a jak dostane informaci.",
+        "Nezaměňuje samotnou kontrolu s konečným vydáním klíče ani příslib budoucí činnosti s hotovým výsledkem."
+      ]
+    },
+    {
+      "text": "Pasivní vyjádření tedy nemusí být ani špatné, ani automaticky odbornější. Hodí se, když je důležitý předmět, postup nebo výsledek a činitel je známý či nepodstatný. Nevhodné je tehdy, když zakrývá informaci, kterou příjemce potřebuje k jednání. Při psaní se proto ptáme, co má čtenář sledovat: člověka, proces, dokončený krok, nebo trvající stav. Podle toho volíme konstrukci i potřebné doplnění.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Pasivní vyjádření tedy nemusí být ani špatné, ani automaticky odbornější.",
+        "Hodí se, když je důležitý předmět, postup nebo výsledek a činitel je známý či nepodstatný.",
+        "Nevhodné je tehdy, když zakrývá informaci, kterou příjemce potřebuje k jednání.",
+        "Při psaní se proto ptáme, co má čtenář sledovat: člověka, proces, dokončený krok, nebo trvající stav.",
+        "Podle toho volíme konstrukci i potřebné doplnění."
+      ]
+    }
+  ],
+  "text_sha256": "84d5e5b052a6a8dd542b870ff1dbb87783897c7213a1ff4df5cf829cd00c051f",
+  "source_file": "content/lessons/B2/B2-U05-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--normal.mp3",
+  "slow_file": "content/audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--slow.mp3",
+  "duration_seconds": 221.90861678004535,
+  "slow_duration_seconds": 249.9699319727891,
+  "cues": [
+    {
+      "text": "Na nástěnce domu se objevilo oznámení: „Žádosti o nové klíče jsou vyřizovány postupně.“ Obyvatelé rozuměli, že zpracování probíhá, ale nevěděli, kdy se dostane na jejich žádost. Jeden soused větu pochopil tak, že všechny žádosti už jsou vyřízeny. Rozdíl mezi probíhajícím procesem a hotovým výsledkem se v krátkém úředním sdělení snadno ztratí, zejména když čtenář sleduje hlavně praktickou otázku, zda už může klíč převzít.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Na nástěnce domu se objevilo oznámení: „Žádosti o nové klíče jsou vyřizovány postupně.“",
+        "Obyvatelé rozuměli, že zpracování probíhá, ale nevěděli, kdy se dostane na jejich žádost.",
+        "Jeden soused větu pochopil tak, že všechny žádosti už jsou vyřízeny.",
+        "Rozdíl mezi probíhajícím procesem a hotovým výsledkem se v krátkém úředním sdělení snadno ztratí, zejména když čtenář sleduje hlavně praktickou otázku, zda už může klíč převzít."
+      ],
+      "start": 0.0,
+      "end": 38.65555555555556,
+      "sentences": [
+        {
+          "text": "Na nástěnce domu se objevilo oznámení: „Žádosti o nové klíče jsou vyřizovány postupně.“",
+          "start": 0.0,
+          "end": 7.825124716553288,
+          "slow_start": 0.0,
+          "slow_end": 8.928072562358278
+        },
+        {
+          "text": "Obyvatelé rozuměli, že zpracování probíhá, ale nevěděli, kdy se dostane na jejich žádost.",
+          "start": 8.005124716553288,
+          "end": 16.027619047619048,
+          "slow_start": 9.108072562358277,
+          "slow_end": 18.070975056689342
+        },
+        {
+          "text": "Jeden soused větu pochopil tak, že všechny žádosti už jsou vyřízeny.",
+          "start": 16.207619047619048,
+          "end": 22.360907029478458,
+          "slow_start": 18.25097505668934,
+          "slow_end": 25.182131519274375
+        },
+        {
+          "text": "Rozdíl mezi probíhajícím procesem a hotovým výsledkem se v krátkém úředním sdělení snadno ztratí, zejména když čtenář sleduje hlavně praktickou otázku, zda už může klíč převzít.",
+          "start": 22.540907029478458,
+          "end": 38.65555555555556,
+          "slow_start": 25.362131519274378,
+          "slow_end": 43.589795918367344
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 43.589795918367344
+    },
+    {
+      "text": "Správkyně vysvětlila, že sloveso vyřizovat popisuje činnost, zatímco vyřídit ji představuje jako dokončenou. Věta „Žádosti jsou vyřizovány“ zdůrazňuje průběh; „Žádosti byly vyřízeny“ v daném kontextu oznamuje dokončení. Když chceme sdělit konkrétní stav jedné žádosti, je lepší uvést její označení a další krok. Samotná gramatická forma nenahradí informaci o rozsahu: některé žádosti mohou být hotové, jiné nikoli.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Správkyně vysvětlila, že sloveso vyřizovat popisuje činnost, zatímco vyřídit ji představuje jako dokončenou.",
+        "Věta „Žádosti jsou vyřizovány“ zdůrazňuje průběh; „Žádosti byly vyřízeny“ v daném kontextu oznamuje dokončení.",
+        "Když chceme sdělit konkrétní stav jedné žádosti, je lepší uvést její označení a další krok.",
+        "Samotná gramatická forma nenahradí informaci o rozsahu: některé žádosti mohou být hotové, jiné nikoli."
+      ],
+      "start": 38.83555555555556,
+      "end": 76.16757369614513,
+      "sentences": [
+        {
+          "text": "Správkyně vysvětlila, že sloveso vyřizovat popisuje činnost, zatímco vyřídit ji představuje jako dokončenou.",
+          "start": 38.83555555555556,
+          "end": 48.13514739229025,
+          "slow_start": 43.76979591836735,
+          "slow_end": 54.497414965986394
+        },
+        {
+          "text": "Věta „Žádosti jsou vyřizovány“ zdůrazňuje průběh; „Žádosti byly vyřízeny“ v daném kontextu oznamuje dokončení.",
+          "start": 48.31514739229025,
+          "end": 57.89337868480725,
+          "slow_start": 54.677414965986394,
+          "slow_end": 65.47469387755102
+        },
+        {
+          "text": "Když chceme sdělit konkrétní stav jedné žádosti, je lepší uvést její označení a další krok.",
+          "start": 58.07337868480726,
+          "end": 66.2584126984127,
+          "slow_start": 65.65469387755103,
+          "slow_end": 74.8962358276644
+        },
+        {
+          "text": "Samotná gramatická forma nenahradí informaci o rozsahu: některé žádosti mohou být hotové, jiné nikoli.",
+          "start": 66.4384126984127,
+          "end": 76.16757369614513,
+          "slow_start": 75.0762358276644,
+          "slow_end": 86.2914739229025
+        }
+      ],
+      "slow_start": 43.76979591836735,
+      "slow_end": 86.2914739229025
+    },
+    {
+      "text": "Potom jsme porovnali tři formulace. „Správkyně zkontroluje žádost“ uvádí činitele jako podmět. „Žádost bude zkontrolována správkyní“ přesouvá pozornost k žádosti a činitele vyjadřuje sedmým pádem. „Žádosti se kontrolují v kanceláři“ popisuje obvyklý postup bez uvedení konkrétní osoby. Všechny mohou být užitečné, ale nejsou zaměnitelné v každé situaci. Pokud se ptáme, kdo má úkol převzít, poslední věta nám nestačí.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Potom jsme porovnali tři formulace.",
+        "„Správkyně zkontroluje žádost“ uvádí činitele jako podmět.",
+        "„Žádost bude zkontrolována správkyní“ přesouvá pozornost k žádosti a činitele vyjadřuje sedmým pádem.",
+        "„Žádosti se kontrolují v kanceláři“ popisuje obvyklý postup bez uvedení konkrétní osoby.",
+        "Všechny mohou být užitečné, ale nejsou zaměnitelné v každé situaci.",
+        "Pokud se ptáme, kdo má úkol převzít, poslední věta nám nestačí."
+      ],
+      "start": 76.34757369614512,
+      "end": 113.3778231292517,
+      "sentences": [
+        {
+          "text": "Potom jsme porovnali tři formulace.",
+          "start": 76.34757369614512,
+          "end": 79.41260770975056,
+          "slow_start": 86.47147392290249,
+          "slow_end": 89.97768707482993
+        },
+        {
+          "text": "„Správkyně zkontroluje žádost“ uvádí činitele jako podmět.",
+          "start": 79.59260770975057,
+          "end": 84.7358276643991,
+          "slow_start": 90.15768707482994,
+          "slow_end": 95.86979591836734
+        },
+        {
+          "text": "„Žádost bude zkontrolována správkyní“ přesouvá pozornost k žádosti a činitele vyjadřuje sedmým pádem.",
+          "start": 84.91582766439909,
+          "end": 93.84390022675737,
+          "slow_start": 96.04979591836735,
+          "slow_end": 106.03437641723356
+        },
+        {
+          "text": "„Žádosti se kontrolují v kanceláři“ popisuje obvyklý postup bez uvedení konkrétní osoby.",
+          "start": 94.02390022675738,
+          "end": 101.67487528344671,
+          "slow_start": 106.21437641723357,
+          "slow_end": 114.70126984126985
+        },
+        {
+          "text": "Všechny mohou být užitečné, ale nejsou zaměnitelné v každé situaci.",
+          "start": 101.85487528344672,
+          "end": 107.56698412698412,
+          "slow_start": 114.88126984126984,
+          "slow_end": 121.41768707482993
+        },
+        {
+          "text": "Pokud se ptáme, kdo má úkol převzít, poslední věta nám nestačí.",
+          "start": 107.74698412698413,
+          "end": 113.3778231292517,
+          "slow_start": 121.59768707482993,
+          "slow_end": 127.84385487528344
+        }
+      ],
+      "slow_start": 86.47147392290249,
+      "slow_end": 127.84385487528344
+    },
+    {
+      "text": "U výsledných stavů jsme narazili na další dvojici: „Dveře jsou zavřeny“ a „Dveře jsou zavřené.“ V běžné komunikaci se jejich významy mohou překrývat. Nelze mechanicky tvrdit, že první věta vždy znamená právě probíhající zavírání a druhá vždy trvalou vlastnost. Rozhoduje slovesný vid, okolní text i styl. Když chceme oznámit děj probíhající právě teď, můžeme říct například „Pracovník právě zavírá dveře“.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "U výsledných stavů jsme narazili na další dvojici: „Dveře jsou zavřeny“ a „Dveře jsou zavřené.“",
+        "V běžné komunikaci se jejich významy mohou překrývat.",
+        "Nelze mechanicky tvrdit, že první věta vždy znamená právě probíhající zavírání a druhá vždy trvalou vlastnost.",
+        "Rozhoduje slovesný vid, okolní text i styl.",
+        "Když chceme oznámit děj probíhající právě teď, můžeme říct například „Pracovník právě zavírá dveře“."
+      ],
+      "start": 113.5578231292517,
+      "end": 149.8972335600907,
+      "sentences": [
+        {
+          "text": "U výsledných stavů jsme narazili na další dvojici: „Dveře jsou zavřeny“ a „Dveře jsou zavřené.“",
+          "start": 113.5578231292517,
+          "end": 121.37133786848072,
+          "slow_start": 128.02385487528343,
+          "slow_end": 136.81260770975058
+        },
+        {
+          "text": "V běžné komunikaci se jejich významy mohou překrývat.",
+          "start": 121.55133786848073,
+          "end": 125.87024943310658,
+          "slow_start": 136.99260770975056,
+          "slow_end": 141.89201814058956
+        },
+        {
+          "text": "Nelze mechanicky tvrdit, že první věta vždy znamená právě probíhající zavírání a druhá vždy trvalou vlastnost.",
+          "start": 126.05024943310657,
+          "end": 135.95356009070295,
+          "slow_start": 142.07201814058956,
+          "slow_end": 153.25242630385486
+        },
+        {
+          "text": "Rozhoduje slovesný vid, okolní text i styl.",
+          "start": 136.13356009070296,
+          "end": 140.0461224489796,
+          "slow_start": 153.43242630385487,
+          "slow_end": 157.83260770975056
+        },
+        {
+          "text": "Když chceme oznámit děj probíhající právě teď, můžeme říct například „Pracovník právě zavírá dveře“.",
+          "start": 140.2261224489796,
+          "end": 149.8972335600907,
+          "slow_start": 158.01260770975057,
+          "slow_end": 168.96081632653062
+        }
+      ],
+      "slow_start": 128.02385487528343,
+      "slow_end": 168.96081632653062
+    },
+    {
+      "text": "Nové oznámení jsme proto rozdělili na stav a odpovědnost: „Žádosti přijaté do pondělí byly zkontrolovány. Klíče připraví paní Dvořáková do čtvrtka. Jakmile bude vaše žádost vyřízena, pošleme vám zprávu.“ Čtenář teď ví, kterou skupinu se podařilo zkontrolovat, kdo provede další krok a jak dostane informaci. Nezaměňuje samotnou kontrolu s konečným vydáním klíče ani příslib budoucí činnosti s hotovým výsledkem.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Nové oznámení jsme proto rozdělili na stav a odpovědnost: „Žádosti přijaté do pondělí byly zkontrolovány.",
+        "Klíče připraví paní Dvořáková do čtvrtka.",
+        "Jakmile bude vaše žádost vyřízena, pošleme vám zprávu.“",
+        "Čtenář teď ví, kterou skupinu se podařilo zkontrolovat, kdo provede další krok a jak dostane informaci.",
+        "Nezaměňuje samotnou kontrolu s konečným vydáním klíče ani příslib budoucí činnosti s hotovým výsledkem."
+      ],
+      "start": 150.0772335600907,
+      "end": 186.40503401360544,
+      "sentences": [
+        {
+          "text": "Nové oznámení jsme proto rozdělili na stav a odpovědnost: „Žádosti přijaté do pondělí byly zkontrolovány.",
+          "start": 150.0772335600907,
+          "end": 159.12140589569162,
+          "slow_start": 169.14081632653063,
+          "slow_end": 179.52013605442176
+        },
+        {
+          "text": "Klíče připraví paní Dvořáková do čtvrtka.",
+          "start": 159.3014058956916,
+          "end": 162.93532879818594,
+          "slow_start": 179.70013605442176,
+          "slow_end": 183.87972789115645
+        },
+        {
+          "text": "Jakmile bude vaše žádost vyřízena, pošleme vám zprávu.“",
+          "start": 163.11532879818594,
+          "end": 168.20049886621314,
+          "slow_start": 184.05972789115646,
+          "slow_end": 189.41192743764174
+        },
+        {
+          "text": "Čtenář teď ví, kterou skupinu se podařilo zkontrolovat, kdo provede další krok a jak dostane informaci.",
+          "start": 168.38049886621314,
+          "end": 177.0995918367347,
+          "slow_start": 189.59192743764171,
+          "slow_end": 199.26303854875283
+        },
+        {
+          "text": "Nezaměňuje samotnou kontrolu s konečným vydáním klíče ani příslib budoucí činnosti s hotovým výsledkem.",
+          "start": 177.27959183673468,
+          "end": 186.40503401360544,
+          "slow_start": 199.44303854875284,
+          "slow_end": 209.96167800453514
+        }
+      ],
+      "slow_start": 169.14081632653063,
+      "slow_end": 209.96167800453514
+    },
+    {
+      "text": "Pasivní vyjádření tedy nemusí být ani špatné, ani automaticky odbornější. Hodí se, když je důležitý předmět, postup nebo výsledek a činitel je známý či nepodstatný. Nevhodné je tehdy, když zakrývá informaci, kterou příjemce potřebuje k jednání. Při psaní se proto ptáme, co má čtenář sledovat: člověka, proces, dokončený krok, nebo trvající stav. Podle toho volíme konstrukci i potřebné doplnění.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Pasivní vyjádření tedy nemusí být ani špatné, ani automaticky odbornější.",
+        "Hodí se, když je důležitý předmět, postup nebo výsledek a činitel je známý či nepodstatný.",
+        "Nevhodné je tehdy, když zakrývá informaci, kterou příjemce potřebuje k jednání.",
+        "Při psaní se proto ptáme, co má čtenář sledovat: člověka, proces, dokončený krok, nebo trvající stav.",
+        "Podle toho volíme konstrukci i potřebné doplnění."
+      ],
+      "start": 186.58503401360545,
+      "end": 221.72861678004534,
+      "sentences": [
+        {
+          "text": "Pasivní vyjádření tedy nemusí být ani špatné, ani automaticky odbornější.",
+          "start": 186.58503401360545,
+          "end": 193.37687074829932,
+          "slow_start": 210.14167800453515,
+          "slow_end": 217.79265306122448
+        },
+        {
+          "text": "Hodí se, když je důležitý předmět, postup nebo výsledek a činitel je známý či nepodstatný.",
+          "start": 193.55687074829933,
+          "end": 201.25428571428571,
+          "slow_start": 217.9726530612245,
+          "slow_end": 226.71496598639456
+        },
+        {
+          "text": "Nevhodné je tehdy, když zakrývá informaci, kterou příjemce potřebuje k jednání.",
+          "start": 201.43428571428572,
+          "end": 207.90104308390022,
+          "slow_start": 226.89496598639457,
+          "slow_end": 234.18603174603174
+        },
+        {
+          "text": "Při psaní se proto ptáme, co má čtenář sledovat: člověka, proces, dokončený krok, nebo trvající stav.",
+          "start": 208.08104308390023,
+          "end": 217.53156462585034,
+          "slow_start": 234.36603174603175,
+          "slow_end": 245.0239909297052
+        },
+        {
+          "text": "Podle toho volíme konstrukci i potřebné doplnění.",
+          "start": 217.71156462585034,
+          "end": 221.72861678004534,
+          "slow_start": 245.2039909297052,
+          "slow_end": 249.7899319727891
+        }
+      ],
+      "slow_start": 210.14167800453515,
+      "slow_end": 249.7899319727891
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "591869e52022fd4114c68415623671fdb3754446391078ef263a0cf7275bf37d",
+    "slow": "fb77325309e50cfc01d2cfe3c0e6721ddc6c40bd795efd309f1c383ef6637a41"
+  }
+}

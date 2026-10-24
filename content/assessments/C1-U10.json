@@ -1,0 +1,242 @@
+{
+  "id": "C1-U10-CHECK",
+  "kind": "unit",
+  "level": "C1",
+  "unit_id": "C1-U10",
+  "title_zh": "两份材料冲突，还是各自回答了不同问题：新情境检验",
+  "version": "2026.10.22.1",
+  "unseen_text": [
+    {
+      "cs": "Zpráva A uvádí, že poradna přijala během měsíce osmdesát dotazů. Zpráva B uvádí, že služby využilo padesát lidí. Jedna osoba mohla položit více dotazů. Ani jedna zpráva neuvádí počet vyřešených případů.",
+      "zh": "A称80次咨询，B称50位使用者，一人可多次提问，均未说明解决数；数字为虚构练习。"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "两数字是否必然矛盾？",
+      "stimulus_cs": "",
+      "answer": "a",
+      "explanation_zh": "材料说明同人可多问题；未说月份不同。",
+      "skill_ids": [
+        "reading"
+      ],
+      "knowledge_points": [
+        "c1-source-alignment",
+        "c1-attribution-strength"
+      ],
+      "error_category": "comprehension",
+      "options": [
+        {
+          "id": "a",
+          "text": "不，统计单位不同"
+        },
+        {
+          "id": "b",
+          "text": "是，80不等于50"
+        },
+        {
+          "id": "c",
+          "text": "是，月份不相同"
+        }
+      ],
+      "scoring_basis": "封闭题以答案核对；解析说明本题边界。",
+      "id": "C1-U10-CHECK-E01"
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "写不夸大的两句总结。",
+      "stimulus_cs": "",
+      "answer": "Poradna zaznamenala osmdesát dotazů od padesáti lidí. Počet vyřešených případů z těchto údajů neznáme.",
+      "explanation_zh": "避免把接收自动当解决。",
+      "skill_ids": [
+        "writing"
+      ],
+      "knowledge_points": [
+        "c1-source-alignment",
+        "c1-attribution-strength"
+      ],
+      "error_category": "comprehension",
+      "rubric": [
+        "回应具体任务，信息不失真",
+        "逻辑有衔接，能说明证据与限制",
+        "语法与搭配基本准确，语域适合对象",
+        "能自主组织语言而非照读范文"
+      ],
+      "scoring_basis": "开放表达：示范不是唯一答案；依量规自评或人工评阅，未接受人工评阅时不自动判定能力达标。",
+      "id": "C1-U10-CHECK-E02"
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "补问一个能评价实际效果的问题。",
+      "stimulus_cs": "",
+      "answer": "Kolik případů se podařilo vyřešit a podle jakého kritéria považujete případ za vyřešený?",
+      "explanation_zh": "既问结果数量也问定义。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "knowledge_points": [
+        "c1-source-alignment",
+        "c1-attribution-strength"
+      ],
+      "error_category": "comprehension",
+      "rubric": [
+        "回应具体任务，信息不失真",
+        "逻辑有衔接，能说明证据与限制",
+        "语法与搭配基本准确，语域适合对象",
+        "能自主组织语言而非照读范文"
+      ],
+      "scoring_basis": "开放表达：示范不是唯一答案；依量规自评或人工评阅，未接受人工评阅时不自动判定能力达标。",
+      "id": "C1-U10-CHECK-E03"
+    }
+  ],
+  "rubric": [
+    "理解未见材料中的主张及限定",
+    "主动表达时准确转述不同立场",
+    "区分事实、推断与建议",
+    "能针对误解调整解释方式"
+  ],
+  "remediation": [
+    {
+      "condition_zh": "误把可能性说成事实，或遗漏反方条件",
+      "lesson_ids": [
+        "C1-U10-L01"
+      ],
+      "action_zh": "重做信息定位与转述，标出每个判断的来源和语气词。"
+    },
+    {
+      "condition_zh": "表达卡住或只有单句结论",
+      "lesson_ids": [
+        "C1-U10-L01"
+      ],
+      "action_zh": "先列论点—依据—限制—行动四点，再换对象重录一次。"
+    }
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "C1-U10-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U10-CHECK--2026.10.22.1--text--b87f6d2986--normal.mp3",
+      "slow_file": "audio/files/C1-U10-CHECK--2026.10.22.1--text--b87f6d2986--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U10-CHECK--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Zpráva A uvádí, že poradna přijala během měsíce osmdesát dotazů. Zpráva B uvádí, že služby využilo padesát lidí. Jedna osoba mohla položit více dotazů. Ani jedna zpráva neuvádí počet vyřešených případů.",
+      "duration_seconds": 19.806802721088435,
+      "slow_duration_seconds": 21.943038548752835,
+      "sha256": "44204ecc9dd89151d0ad99d60062ee1af8b0d842b292628b2905267849c9cf4b",
+      "slow_sha256": "213ed916330d1972ae339e7b891f722fb6208f478088ea2b90c2256e4667610f"
+    },
+    {
+      "lesson_id": "C1-U10-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U10-CHECK--2026.10.22.1--text--b87f6d2986--normal.mp3",
+      "slow_file": "audio/files/C1-U10-CHECK--2026.10.22.1--text--b87f6d2986--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U10-CHECK--2026.10.22.1--text--p0",
+      "asset_id": "C1-U10-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Zpráva A uvádí, že poradna přijala během měsíce osmdesát dotazů. Zpráva B uvádí, že služby využilo padesát lidí. Jedna osoba mohla položit více dotazů. Ani jedna zpráva neuvádí počet vyřešených případů.",
+      "start": 0,
+      "end": 19.626802721088435,
+      "slow_start": 0,
+      "slow_end": 21.763038548752835
+    },
+    {
+      "lesson_id": "C1-U10-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U10-CHECK--2026.10.22.1--text--b87f6d2986--normal.mp3",
+      "slow_file": "audio/files/C1-U10-CHECK--2026.10.22.1--text--b87f6d2986--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U10-CHECK--2026.10.22.1--text--s0",
+      "asset_id": "C1-U10-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Zpráva A uvádí, že poradna přijala během měsíce osmdesát dotazů.",
+      "start": 0,
+      "end": 6.106848072562358,
+      "slow_start": 0,
+      "slow_end": 6.896326530612245
+    },
+    {
+      "lesson_id": "C1-U10-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U10-CHECK--2026.10.22.1--text--b87f6d2986--normal.mp3",
+      "slow_file": "audio/files/C1-U10-CHECK--2026.10.22.1--text--b87f6d2986--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U10-CHECK--2026.10.22.1--text--s1",
+      "asset_id": "C1-U10-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Zpráva B uvádí, že služby využilo padesát lidí.",
+      "start": 6.286848072562358,
+      "end": 11.174648526077098,
+      "slow_start": 7.076326530612245,
+      "slow_end": 12.474965986394558
+    },
+    {
+      "lesson_id": "C1-U10-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U10-CHECK--2026.10.22.1--text--b87f6d2986--normal.mp3",
+      "slow_file": "audio/files/C1-U10-CHECK--2026.10.22.1--text--b87f6d2986--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U10-CHECK--2026.10.22.1--text--s2",
+      "asset_id": "C1-U10-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Jedna osoba mohla položit více dotazů.",
+      "start": 11.354648526077098,
+      "end": 14.907301587301587,
+      "slow_start": 12.654965986394558,
+      "slow_end": 16.60235827664399
+    },
+    {
+      "lesson_id": "C1-U10-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U10-CHECK--2026.10.22.1--text--b87f6d2986--normal.mp3",
+      "slow_file": "audio/files/C1-U10-CHECK--2026.10.22.1--text--b87f6d2986--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U10-CHECK--2026.10.22.1--text--s3",
+      "asset_id": "C1-U10-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 3,
+      "paragraph_index": 0,
+      "sentence_index": 3,
+      "text": "Ani jedna zpráva neuvádí počet vyřešených případů.",
+      "start": 15.087301587301587,
+      "end": 19.626802721088435,
+      "slow_start": 16.78235827664399,
+      "slow_end": 21.763038548752835
+    }
+  ]
+}

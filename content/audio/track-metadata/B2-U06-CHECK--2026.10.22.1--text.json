@@ -1,0 +1,93 @@
+{
+  "id": "B2-U06-CHECK--2026.10.22.1--text",
+  "lesson_id": "B2-U06-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "B2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Klára: Odjezd platí na osmou? Jan: Autobus ano, ale sraz je o půl hodiny dřív. Tedy v půl osmé, ne v sedm. Eva: Já pošlu zprávu, jakmile potvrdíme nástupiště. To ještě neznáme.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Klára: Odjezd platí na osmou?",
+        "Jan: Autobus ano, ale sraz je o půl hodiny dřív.",
+        "Tedy v půl osmé, ne v sedm.",
+        "Eva: Já pošlu zprávu, jakmile potvrdíme nástupiště.",
+        "To ještě neznáme."
+      ]
+    }
+  ],
+  "text_sha256": "664d526c96143331b602ee45315e8804a4df81a04f4adf664bcf6e89275cecce",
+  "source_file": "content/assessments/B2-U06.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U06-CHECK--2026.10.22.1--text--664d526c96--normal.mp3",
+  "slow_file": "content/audio/files/B2-U06-CHECK--2026.10.22.1--text--664d526c96--slow.mp3",
+  "duration_seconds": 17.223628117913833,
+  "slow_duration_seconds": 19.243764172335602,
+  "cues": [
+    {
+      "text": "Klára: Odjezd platí na osmou? Jan: Autobus ano, ale sraz je o půl hodiny dřív. Tedy v půl osmé, ne v sedm. Eva: Já pošlu zprávu, jakmile potvrdíme nástupiště. To ještě neznáme.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Klára: Odjezd platí na osmou?",
+        "Jan: Autobus ano, ale sraz je o půl hodiny dřív.",
+        "Tedy v půl osmé, ne v sedm.",
+        "Eva: Já pošlu zprávu, jakmile potvrdíme nástupiště.",
+        "To ještě neznáme."
+      ],
+      "start": 0.0,
+      "end": 17.043628117913833,
+      "sentences": [
+        {
+          "text": "Klára: Odjezd platí na osmou?",
+          "start": 0.0,
+          "end": 2.670294784580499,
+          "slow_start": 0.0,
+          "slow_end": 2.948934240362812
+        },
+        {
+          "text": "Jan: Autobus ano, ale sraz je o půl hodiny dřív.",
+          "start": 2.8502947845804987,
+          "end": 7.575555555555556,
+          "slow_start": 3.128934240362812,
+          "slow_end": 8.562403628117913
+        },
+        {
+          "text": "Tedy v půl osmé, ne v sedm.",
+          "start": 7.7555555555555555,
+          "end": 10.309750566893424,
+          "slow_start": 8.742403628117914,
+          "slow_end": 11.63328798185941
+        },
+        {
+          "text": "Eva: Já pošlu zprávu, jakmile potvrdíme nástupiště.",
+          "start": 10.489750566893424,
+          "end": 15.482040816326531,
+          "slow_start": 11.81328798185941,
+          "slow_end": 17.339637188208616
+        },
+        {
+          "text": "To ještě neznáme.",
+          "start": 15.662040816326531,
+          "end": 17.043628117913833,
+          "slow_start": 17.519637188208616,
+          "slow_end": 19.063764172335603
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 19.063764172335603
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "d189620ce6428f8d9417619277be9dd335787fc713fe25d3073370a984b5c376",
+    "slow": "79b0df6ff2dd098895d3b4f45a51abf43daebf4c8df4bd4a42c52a613661e85c"
+  }
+}

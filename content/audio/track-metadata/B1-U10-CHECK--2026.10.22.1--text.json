@@ -1,0 +1,75 @@
+{
+  "id": "B1-U10-CHECK--2026.10.22.1--text",
+  "lesson_id": "B1-U10-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Městské kino mění od listopadu začátek večerních projekcí z osmi na půl osmé. Změna má být vyzkoušena po dobu šesti týdnů. O trvalém zavedení se rozhodne podle návštěvnosti.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Městské kino mění od listopadu začátek večerních projekcí z osmi na půl osmé.",
+        "Změna má být vyzkoušena po dobu šesti týdnů.",
+        "O trvalém zavedení se rozhodne podle návštěvnosti."
+      ]
+    }
+  ],
+  "text_sha256": "d2b87ef29cee9b952aec95178f1f596ff76e21d5c4ec85e59e701d596b2bed3e",
+  "source_file": "content/assessments/B1-U10.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U10-CHECK--2026.10.22.1--text--d2b87ef29c--normal.mp3",
+  "slow_file": "content/audio/files/B1-U10-CHECK--2026.10.22.1--text--d2b87ef29c--slow.mp3",
+  "duration_seconds": 15.841950113378685,
+  "slow_duration_seconds": 17.85047619047619,
+  "cues": [
+    {
+      "text": "Městské kino mění od listopadu začátek večerních projekcí z osmi na půl osmé. Změna má být vyzkoušena po dobu šesti týdnů. O trvalém zavedení se rozhodne podle návštěvnosti.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Městské kino mění od listopadu začátek večerních projekcí z osmi na půl osmé.",
+        "Změna má být vyzkoušena po dobu šesti týdnů.",
+        "O trvalém zavedení se rozhodne podle návštěvnosti."
+      ],
+      "start": 0.0,
+      "end": 15.661950113378685,
+      "sentences": [
+        {
+          "text": "Městské kino mění od listopadu začátek večerních projekcí z osmi na půl osmé.",
+          "start": 0.0,
+          "end": 7.047256235827664,
+          "slow_start": 0.0,
+          "slow_end": 8.045714285714286
+        },
+        {
+          "text": "Změna má být vyzkoušena po dobu šesti týdnů.",
+          "start": 7.227256235827665,
+          "end": 11.279138321995465,
+          "slow_start": 8.225714285714286,
+          "slow_end": 12.707165532879818
+        },
+        {
+          "text": "O trvalém zavedení se rozhodne podle návštěvnosti.",
+          "start": 11.459138321995464,
+          "end": 15.661950113378685,
+          "slow_start": 12.887165532879818,
+          "slow_end": 17.67047619047619
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 17.67047619047619
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "1e634895b9b9ea3afafa1a9a68072a11e0628359b7d69021e4039eda0e4688d9",
+    "slow": "e85269eba227fcbda7cdf942bdcdd24361ecbea96535b5cc15350ee5f64b87b0"
+  }
+}

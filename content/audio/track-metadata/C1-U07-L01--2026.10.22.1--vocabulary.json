@@ -1,0 +1,173 @@
+{
+  "id": "C1-U07-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "C1-U07-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Odstávku oznámíme předem.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Odstávku oznámíme předem."
+      ]
+    },
+    {
+      "text": "Text respektuje potřeby adresáta.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Text respektuje potřeby adresáta."
+      ]
+    },
+    {
+      "text": "Rozsah omezení upřesníme.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Rozsah omezení upřesníme."
+      ]
+    },
+    {
+      "text": "Dokončení předpokládáme večer.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Dokončení předpokládáme večer."
+      ]
+    },
+    {
+      "text": "Technik zařízení uvede do provozu.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Technik zařízení uvede do provozu."
+      ]
+    }
+  ],
+  "text_sha256": "1de20d4e0286d1de3ea613ccaad504d03a48079ee055a48a8f6a5524541db07a",
+  "source_file": "content/lessons/C1/C1-U07-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U07-L01--2026.10.22.1--vocabulary--1de20d4e02--normal.mp3",
+  "slow_file": "content/audio/files/C1-U07-L01--2026.10.22.1--vocabulary--1de20d4e02--slow.mp3",
+  "duration_seconds": 15.087392290249433,
+  "slow_duration_seconds": 17.17718820861678,
+  "cues": [
+    {
+      "text": "Odstávku oznámíme předem.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Odstávku oznámíme předem."
+      ],
+      "start": 0.0,
+      "end": 2.403265306122449,
+      "sentences": [
+        {
+          "text": "Odstávku oznámíme předem.",
+          "start": 0.0,
+          "end": 2.403265306122449,
+          "slow_start": 0.0,
+          "slow_end": 2.670294784580499
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.670294784580499
+    },
+    {
+      "text": "Text respektuje potřeby adresáta.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Text respektuje potřeby adresáta."
+      ],
+      "start": 2.583265306122449,
+      "end": 5.810839002267573,
+      "sentences": [
+        {
+          "text": "Text respektuje potřeby adresáta.",
+          "start": 2.583265306122449,
+          "end": 5.810839002267573,
+          "slow_start": 2.8502947845804987,
+          "slow_end": 6.635147392290249
+        }
+      ],
+      "slow_start": 2.8502947845804987,
+      "slow_end": 6.635147392290249
+    },
+    {
+      "text": "Rozsah omezení upřesníme.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Rozsah omezení upřesníme."
+      ],
+      "start": 5.990839002267574,
+      "end": 8.545034013605441,
+      "sentences": [
+        {
+          "text": "Rozsah omezení upřesníme.",
+          "start": 5.990839002267574,
+          "end": 8.545034013605441,
+          "slow_start": 6.81514739229025,
+          "slow_end": 9.79891156462585
+        }
+      ],
+      "slow_start": 6.81514739229025,
+      "slow_end": 9.79891156462585
+    },
+    {
+      "text": "Dokončení předpokládáme večer.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Dokončení předpokládáme večer."
+      ],
+      "start": 8.725034013605443,
+      "end": 11.766848072562357,
+      "sentences": [
+        {
+          "text": "Dokončení předpokládáme večer.",
+          "start": 8.725034013605443,
+          "end": 11.766848072562357,
+          "slow_start": 9.97891156462585,
+          "slow_end": 13.438684807256235
+        }
+      ],
+      "slow_start": 9.97891156462585,
+      "slow_end": 13.438684807256235
+    },
+    {
+      "text": "Technik zařízení uvede do provozu.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Technik zařízení uvede do provozu."
+      ],
+      "start": 11.946848072562359,
+      "end": 14.907392290249433,
+      "sentences": [
+        {
+          "text": "Technik zařízení uvede do provozu.",
+          "start": 11.946848072562359,
+          "end": 14.907392290249433,
+          "slow_start": 13.618684807256235,
+          "slow_end": 16.99718820861678
+        }
+      ],
+      "slow_start": 13.618684807256235,
+      "slow_end": 16.99718820861678
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "8f30cc8a73fe87739844a56195260aea221cdef3964c0d07fe864834cd034d85",
+    "slow": "cbcd8641d00c6715761c981fd93ab6e842340063b8e0d97a8b83b74bb2cbd6f9"
+  }
+}

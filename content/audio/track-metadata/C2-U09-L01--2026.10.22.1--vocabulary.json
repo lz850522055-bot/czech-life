@@ -1,0 +1,173 @@
+{
+  "id": "C2-U09-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "C2-U09-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C2",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Průměr souboru činí dvě minuty.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Průměr souboru činí dvě minuty."
+      ]
+    },
+    {
+      "text": "Skladba požadavků se může změnit.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Skladba požadavků se může změnit."
+      ]
+    },
+    {
+      "text": "Některé úkoly řešíme souběžně.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Některé úkoly řešíme souběžně."
+      ]
+    },
+    {
+      "text": "Přidáme podrobnější vrstvu vysvětlení.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Přidáme podrobnější vrstvu vysvětlení."
+      ]
+    },
+    {
+      "text": "Odhad platí za daného předpokladu.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Odhad platí za daného předpokladu."
+      ]
+    }
+  ],
+  "text_sha256": "2b58d0a114a68b69fdd87f8288c84db12f1e8443bb3e1996806e55e815ff8e41",
+  "source_file": "content/lessons/C2/C2-U09-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U09-L01--2026.10.22.1--vocabulary--2b58d0a114--normal.mp3",
+  "slow_file": "content/audio/files/C2-U09-L01--2026.10.22.1--vocabulary--2b58d0a114--slow.mp3",
+  "duration_seconds": 16.039410430839002,
+  "slow_duration_seconds": 18.21047619047619,
+  "cues": [
+    {
+      "text": "Průměr souboru činí dvě minuty.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Průměr souboru činí dvě minuty."
+      ],
+      "start": 0.0,
+      "end": 3.030204081632653,
+      "sentences": [
+        {
+          "text": "Průměr souboru činí dvě minuty.",
+          "start": 0.0,
+          "end": 3.030204081632653,
+          "slow_start": 0.0,
+          "slow_end": 3.4249433106575964
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 3.4249433106575964
+    },
+    {
+      "text": "Skladba požadavků se může změnit.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Skladba požadavků se může změnit."
+      ],
+      "start": 3.210204081632653,
+      "end": 6.4261678004535145,
+      "sentences": [
+        {
+          "text": "Skladba požadavků se může změnit.",
+          "start": 3.210204081632653,
+          "end": 6.4261678004535145,
+          "slow_start": 3.6049433106575965,
+          "slow_end": 7.169206349206349
+        }
+      ],
+      "slow_start": 3.6049433106575965,
+      "slow_end": 7.169206349206349
+    },
+    {
+      "text": "Některé úkoly řešíme souběžně.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Některé úkoly řešíme souběžně."
+      ],
+      "start": 6.606167800453515,
+      "end": 9.589931972789115,
+      "sentences": [
+        {
+          "text": "Některé úkoly řešíme souběžně.",
+          "start": 6.606167800453515,
+          "end": 9.589931972789115,
+          "slow_start": 7.349206349206349,
+          "slow_end": 10.820589569160997
+        }
+      ],
+      "slow_start": 7.349206349206349,
+      "slow_end": 10.820589569160997
+    },
+    {
+      "text": "Přidáme podrobnější vrstvu vysvětlení.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Přidáme podrobnější vrstvu vysvětlení."
+      ],
+      "start": 9.769931972789117,
+      "end": 12.800136054421769,
+      "sentences": [
+        {
+          "text": "Přidáme podrobnější vrstvu vysvětlení.",
+          "start": 9.769931972789117,
+          "end": 12.800136054421769,
+          "slow_start": 11.000589569160997,
+          "slow_end": 14.495192743764173
+        }
+      ],
+      "slow_start": 11.000589569160997,
+      "slow_end": 14.495192743764173
+    },
+    {
+      "text": "Odhad platí za daného předpokladu.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Odhad platí za daného předpokladu."
+      ],
+      "start": 12.980136054421768,
+      "end": 15.859410430839002,
+      "sentences": [
+        {
+          "text": "Odhad platí za daného předpokladu.",
+          "start": 12.980136054421768,
+          "end": 15.859410430839002,
+          "slow_start": 14.675192743764173,
+          "slow_end": 18.03047619047619
+        }
+      ],
+      "slow_start": 14.675192743764173,
+      "slow_end": 18.03047619047619
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "d25952ada7d4a29e6fe8cfefa0936e6af27654b99b613b6f0e6d0b4a6504063b",
+    "slow": "f4c962ac28cffa93d0e86dc50fdcd9cda8b3f54c79940a297668513aa3c70874"
+  }
+}

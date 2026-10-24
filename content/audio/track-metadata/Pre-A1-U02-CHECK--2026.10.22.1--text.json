@@ -1,0 +1,95 @@
+{
+  "id": "Pre-A1-U02-CHECK--2026.10.22.1--text",
+  "lesson_id": "Pre-A1-U02-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "Pre-A1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Paní Eva má pas. Je doma.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Paní Eva má pas.",
+        "Je doma."
+      ]
+    },
+    {
+      "text": "Její byt je malý.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Její byt je malý."
+      ]
+    }
+  ],
+  "text_sha256": "0c9387875fbf37f9b07f51b0427d84232a99ebff3d085a418604fa4d6e113d27",
+  "source_file": "content/assessments/Pre-A1-U02.json",
+  "status": "generated",
+  "file": "content/audio/files/Pre-A1-U02-CHECK--2026.10.22.1--text--0c9387875f--normal.mp3",
+  "slow_file": "content/audio/files/Pre-A1-U02-CHECK--2026.10.22.1--text--0c9387875f--slow.mp3",
+  "duration_seconds": 4.998231292517007,
+  "slow_duration_seconds": 5.532290249433107,
+  "cues": [
+    {
+      "text": "Paní Eva má pas. Je doma.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Paní Eva má pas.",
+        "Je doma."
+      ],
+      "start": 0.0,
+      "end": 2.838684807256236,
+      "sentences": [
+        {
+          "text": "Paní Eva má pas.",
+          "start": 0.0,
+          "end": 1.9388662131519274,
+          "slow_start": 0.0,
+          "slow_end": 2.2291156462585033
+        },
+        {
+          "text": "Je doma.",
+          "start": 2.1188662131519274,
+          "end": 2.838684807256236,
+          "slow_start": 2.4091156462585035,
+          "slow_end": 3.2566439909297054
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 3.2566439909297054
+    },
+    {
+      "text": "Její byt je malý.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Její byt je malý."
+      ],
+      "start": 3.018684807256236,
+      "end": 4.818231292517007,
+      "sentences": [
+        {
+          "text": "Její byt je malý.",
+          "start": 3.018684807256236,
+          "end": 4.818231292517007,
+          "slow_start": 3.436643990929705,
+          "slow_end": 5.352290249433106
+        }
+      ],
+      "slow_start": 3.436643990929705,
+      "slow_end": 5.352290249433106
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "277b9695b7557f51d46a5b2a172d1feb06d4b1e61eb5f5bcfb1a02d27ad12607",
+    "slow": "f97976afdba2d0c75f1d1da7841d6a5bbdcab34b320d365967c23efb0746b734"
+  }
+}

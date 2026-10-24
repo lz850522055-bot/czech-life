@@ -1,0 +1,1303 @@
+{
+  "id": "B1-U11-L01",
+  "level": "B1",
+  "unit_id": "B1-U11",
+  "order": 43,
+  "version": "2026.10.23.1",
+  "title_zh": "工作邮件与说明文本",
+  "title_cs": "E-mail, podle kterého se dá jednat",
+  "prerequisites": [
+    "B1-U10-L01"
+  ],
+  "can_do": [
+    "写清主题、背景、请求和下一步",
+    "阅读说明中的先后与条件",
+    "选择正式称呼并保持敬称一致"
+  ],
+  "scene": "工作邮件与操作说明",
+  "skills": [
+    "listening",
+    "speaking",
+    "reading",
+    "writing",
+    "interaction",
+    "mediation"
+  ],
+  "knowledge_points": [
+    "email-requests",
+    "instructions-sequence"
+  ],
+  "intro_zh": "一封工作邮件的目标是让收件人知道要做什么。今天把含糊的“请尽快处理”改成有对象、材料、期限和确认方式的请求。",
+  "lesson_text": [
+    {
+      "id": "s01",
+      "cs": "Naše malá skupina připravovala veřejné setkání v knihovně. Potřebovali jsme potvrdit rezervaci místnosti a zapůjčení projektoru. První návrh e-mailu zněl: „Dobrý den, posílám to, o čem jsme mluvili. Prosím o rychlé vyřízení.“ Kolegyně se zeptala, zda příjemce vůbec pozná, o kterou schůzku jde a co má přesně potvrdit. Uvědomil jsem si, že sdílený kontext není samozřejmost.",
+      "zh": "我们小组准备图书馆公共活动，需要确认房间和投影仪。初稿只写“您好，我把我们谈过的东西发给您，请尽快处理”。同事问收件人是否知道哪场活动、要确认什么。我意识到不能假定对方都记得背景。",
+      "note_zh": ""
+    },
+    {
+      "id": "s02",
+      "cs": "Do předmětu jsem proto napsal: „Potvrzení rezervace: setkání 14. května.“ V úvodu jsem připomněl telefonickou dohodu a uvedl počet účastníků. Potom jsem oddělil dvě žádosti: potvrzení místnosti a informaci o projektoru. V příloze byl stručný program, nikoli další nepojmenovaný soubor. Požádal jsem o odpověď do pátku, protože podle ní potřebujeme odeslat pozvánky.",
+      "zh": "于是主题改为“确认预约：五月十四日活动”。开头提电话约定、人数，再分两项请求：确认房间及告知投影仪情况。附件是清晰命名的活动安排。我请求周五前回复，因为要据此发邀请。",
+      "note_zh": ""
+    },
+    {
+      "id": "s03",
+      "cs": "Správce odpověděl, že místnost je volná, ale projektor musí předem vyzkoušet. Připojil také pokyny: po příchodu se máme ohlásit na recepci, převzít klíč a zkontrolovat vybavení. Pokud zjistíme závadu, nemáme zařízení opravovat sami, ale zavolat správce. Po skončení máme vypnout světla, zavřít okna a vrátit klíč. Tyto kroky bylo nutné předat i ostatním organizátorům.",
+      "zh": "管理员回复房间有空，但投影仪要先测试。到达后在前台登记、拿钥匙、检查设备；有故障不要自行修理，要叫管理员。结束后关灯、关窗、还钥匙。这些步骤还需传达给其他组织者。",
+      "note_zh": ""
+    },
+    {
+      "id": "s04",
+      "cs": "Odpověď jsem nepovažoval za úplné potvrzení obou požadavků. Poděkoval jsem za rezervaci a zeptal se, kdy bude znám výsledek zkoušky projektoru. Do sdílených poznámek jsem zapsal, co je potvrzené a co ještě čeká. U každého úkolu jsem uvedl konkrétního člověka. Dobře napsaný e-mail nám tak pomohl předejít chybě, kterou by samotný zdvořilý tón nevyřešil: nikdo by nevěděl, kdo má udělat další krok.",
+      "zh": "我没有把回复当成两项都已确认。我感谢房间预约，并问何时知道投影测试结果。共享记录分已确认和待确认，每项任务注明负责的人。邮件除了礼貌，还避免没人知道下一步由谁做。",
+      "note_zh": ""
+    }
+  ],
+  "grammar": [
+    {
+      "id": "email-requests",
+      "rule_zh": "一条请求对应一个能被确认的动作。",
+      "detail_zh": "Prosím o potvrzení + 第二格名词（potvrzení rezervace）；Můžete mi sdělit, zda…? 用间接问句说明需确认的条件；v příloze 表附件中。podle domluvy 提既有约定，但不能把未同意事项包装成已定。",
+      "examples": [
+        {
+          "cs": "Prosím o potvrzení rezervace do pátku.",
+          "zh": "请周五前确认预约。",
+          "note_zh": ""
+        },
+        {
+          "cs": "V příloze posílám program.",
+          "zh": "附件发送活动安排。",
+          "note_zh": ""
+        }
+      ],
+      "pitfalls": [
+        "to/o tom 在缺少共同上下文时容易不清楚。"
+      ],
+      "exceptions": [
+        "如果没有对方承诺的期限，要写成请求而不是宣称义务。"
+      ],
+      "term": "工作请求与上下文"
+    },
+    {
+      "id": "instructions-sequence",
+      "rule_zh": "说明文先看动作顺序，再看出现问题怎么办。",
+      "detail_zh": "po příchodu/po skončení 用 po+第六格；před začátkem 用 před+第七格。máme + 不定式在此转述安排，nemáme 可表示不应做。Pokud zjistíte… 表触发条件，不表示已经发生。",
+      "examples": [
+        {
+          "cs": "Po příchodu se ohlaste na recepci.",
+          "zh": "到达后请在前台登记。",
+          "note_zh": ""
+        },
+        {
+          "cs": "Pokud zjistíte závadu, zavolejte správce.",
+          "zh": "若发现故障，请叫管理员。",
+          "note_zh": ""
+        }
+      ],
+      "pitfalls": [
+        "不要把“如果坏了”转述为“已经坏了”。"
+      ],
+      "exceptions": [
+        "专业设备实际操作须遵守现场说明，这里仅训练语言理解。"
+      ],
+      "term": "时序与条件指令"
+    }
+  ],
+  "vocabulary": [
+    {
+      "lemma": "příloha",
+      "pos": "名词，阴性",
+      "forms": "přílohy; v příloze",
+      "meaning_zh": "附件",
+      "collocation": "poslat v příloze",
+      "example_cs": "Program posílám v příloze.",
+      "example_zh": "安排见附件。",
+      "confusion_zh": "餐饮中也可指配菜。"
+    },
+    {
+      "lemma": "vybavení",
+      "pos": "名词，中性",
+      "forms": "vybavení",
+      "meaning_zh": "设备、配备",
+      "collocation": "zkontrolovat vybavení",
+      "example_cs": "Zkontrolujte vybavení místnosti.",
+      "example_zh": "请检查房间设备。",
+      "confusion_zh": "不是用户个人行李。"
+    },
+    {
+      "lemma": "závada",
+      "pos": "名词，阴性",
+      "forms": "závady; závadu",
+      "meaning_zh": "故障",
+      "collocation": "zjistit závadu",
+      "example_cs": "Zjistili jsme závadu projektoru.",
+      "example_zh": "我们发现投影仪故障。",
+      "confusion_zh": "vada 更泛指缺陷。"
+    },
+    {
+      "lemma": "vyřízení",
+      "pos": "名词，中性",
+      "forms": "vyřízení",
+      "meaning_zh": "处理",
+      "collocation": "rychlé vyřízení",
+      "example_cs": "Děkuji za rychlé vyřízení žádosti.",
+      "example_zh": "谢谢快速处理请求。",
+      "confusion_zh": "未明确对象时过于空泛。"
+    }
+  ],
+  "listening": {
+    "script": [
+      {
+        "cs": "Místnost vám potvrzujeme na čtvrtek od pěti do sedmi. Projektor zatím potvrdit nemůžeme, technik ho zkontroluje zítra. Po příchodu se prosím hlaste u recepce. Klíč vraťte nejpozději v půl osmé.",
+        "zh": "确认周四五到七点房间，投影仪尚未确认，技术员明天检查。到达请到前台报到，最晚七点半还钥匙。",
+        "note_zh": ""
+      }
+    ],
+    "focus_zh": "分开确认事项、待确认设备与最终还钥匙时间。",
+    "source": "original"
+  },
+  "pronunciation": {
+    "focus_zh": "把日期、时间和期限分成短组读；nejpozději 与 nejdříve 的方向要辨清。",
+    "contrast": [
+      {
+        "a": "nejpozději",
+        "b": "nejdříve",
+        "note_zh": "最晚与最早，不能按听到一个 nej 就猜。"
+      }
+    ],
+    "task_zh": "先听一句，再按意义块跟读；录下自然语速版本，对照长短元音、句中停顿和关键词。不要追求机械加速。"
+  },
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "首稿最大问题是什么？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "不够长"
+        },
+        {
+          "id": "b",
+          "text": "对方无法明确对象和动作"
+        },
+        {
+          "id": "c",
+          "text": "没有文学修辞"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "共享上下文未必存在。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U11-L01-E01",
+      "knowledge_points": [
+        "email-requests",
+        "instructions-sequence"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "管理员回复确认了什么？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "房间和投影仪都完全确认"
+        },
+        {
+          "id": "b",
+          "text": "房间，投影仪仍待测试"
+        },
+        {
+          "id": "c",
+          "text": "所有邀请已发"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "不能把部分确认扩为全部确认。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U11-L01-E02",
+      "knowledge_points": [
+        "email-requests",
+        "instructions-sequence"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "听：钥匙最晚什么时候归还？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "七点"
+        },
+        {
+          "id": "b",
+          "text": "七点半"
+        },
+        {
+          "id": "c",
+          "text": "八点半"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "půl osmé=7:30。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "listening"
+      ],
+      "error_category": "comprehension",
+      "audio_text_cs": "Místnost máte do sedmi. Klíč vraťte nejpozději v půl osmé.",
+      "id": "B1-U11-L01-E03",
+      "knowledge_points": [
+        "email-requests",
+        "instructions-sequence"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "附件里，填 příloha 的第六格。",
+      "stimulus_cs": "Program je v ___.",
+      "answer": "příloze",
+      "accepted_answers": [
+        "příloze"
+      ],
+      "explanation_zh": "v+地点第六格。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "B1-U11-L01-E04",
+      "knowledge_points": [
+        "email-requests",
+        "instructions-sequence"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "到达后，填 příchod 的形式。",
+      "stimulus_cs": "Po ___ se ohlaste.",
+      "answer": "příchodu",
+      "accepted_answers": [
+        "příchodu"
+      ],
+      "explanation_zh": "po+第六格。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "B1-U11-L01-E05",
+      "knowledge_points": [
+        "email-requests",
+        "instructions-sequence"
+      ]
+    },
+    {
+      "type": "correct",
+      "prompt_zh": "设备尚待测试。用zatím nebo ještě（暂时／还）替换už，并把je改为否定形式；副词放在否定动词前，其余保留。",
+      "stimulus_cs": "Projektor je už potvrzený.",
+      "answer": "Projektor zatím není potvrzený.",
+      "accepted_answers": [
+        "Projektor zatím není potvrzený.",
+        "Projektor ještě není potvrzený."
+      ],
+      "explanation_zh": "题目背景只有房间确认。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U11-L01-E06",
+      "knowledge_points": [
+        "email-requests",
+        "instructions-sequence"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt_zh": "按说明顺序排列：报到→拿钥匙→检查。",
+      "stimulus_cs": "potom převezměte klíč a zkontrolujte vybavení. / Nejdřív se ohlaste na recepci,",
+      "options": [
+        "potom převezměte klíč a zkontrolujte vybavení.",
+        "Nejdřív se ohlaste na recepci,"
+      ],
+      "answer": "Nejdřív se ohlaste na recepci, potom převezměte klíč a zkontrolujte vybavení.",
+      "accepted_answers": [
+        "Nejdřív se ohlaste na recepci, potom převezměte klíč a zkontrolujte vybavení."
+      ],
+      "explanation_zh": "先联系前台才能进入后续操作。",
+      "scoring_basis": "本题限定句首及语境；不据一个参考语序否定捷语所有语序变体。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "word_order",
+      "id": "B1-U11-L01-E07",
+      "knowledge_points": [
+        "email-requests",
+        "instructions-sequence"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "哪个主题最便于收件人识别？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "Důležité!!!"
+        },
+        {
+          "id": "b",
+          "text": "Potvrzení rezervace: setkání 14. května"
+        },
+        {
+          "id": "c",
+          "text": "Ahoj, tohle"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "主题同时给动作、对象、日期。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U11-L01-E08",
+      "knowledge_points": [
+        "email-requests",
+        "instructions-sequence"
+      ]
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "口头向同伴交接到场和离场四个关键步骤。",
+      "stimulus_cs": "",
+      "answer": "Po příchodu se ohlásíme na recepci a převezmeme klíč. Potom zkontrolujeme vybavení. Při závadě zavoláme správce. Po skončení zavřeme okna a vrátíme klíč.",
+      "accepted_answers": [],
+      "explanation_zh": "不用逐字读邮件，按动作组织。",
+      "rubric": [
+        "先后清楚",
+        "故障分支",
+        "结束事项"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "error_category": "fluency",
+      "id": "B1-U11-L01-E09",
+      "knowledge_points": [
+        "email-requests",
+        "instructions-sequence"
+      ]
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "写一封询问教室和音箱的正式邮件，日期自定，未收到确认。",
+      "stimulus_cs": "",
+      "answer": "Dobrý den, rádi bychom si rezervovali učebnu na 20. června od 17 do 19 hodin pro dvanáct osob. Prosím o potvrzení dostupnosti místnosti a informaci, zda je možné použít reproduktor. Odpověď bychom potřebovali do pátku kvůli pozvánkám. Děkuji.",
+      "accepted_answers": [],
+      "explanation_zh": "清楚标为申请，不写成已预约。",
+      "rubric": [
+        "对象人数时间",
+        "两请求",
+        "有理由的期限"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U11-L01-E10",
+      "knowledge_points": [
+        "email-requests",
+        "instructions-sequence"
+      ]
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "对方答复房间有空，你追问音箱状态。",
+      "stimulus_cs": "",
+      "answer": "Děkuji za potvrzení místnosti. Mohl byste mi ještě sdělit, zda bude k dispozici také reproduktor? Bez této informace zatím nemůžeme dokončit program.",
+      "accepted_answers": [],
+      "explanation_zh": "承接已答项，再补未答项。",
+      "rubric": [
+        "不重复无效问题",
+        "明确剩余缺口",
+        "说明影响"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "error_category": "fluency",
+      "id": "B1-U11-L01-E11",
+      "knowledge_points": [
+        "email-requests",
+        "instructions-sequence"
+      ]
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "用中文向组织者解释管理员指令，特别是故障处理。",
+      "stimulus_cs": "",
+      "answer": "到前台登记拿钥匙，随后检查设备；发现故障联系管理员，不自行修。结束后关灯关窗并还钥匙。投影仪仍需等待测试确认。",
+      "accepted_answers": [],
+      "explanation_zh": "保留条件与状态。",
+      "rubric": [
+        "步骤准确",
+        "故障条件",
+        "待确认不遗漏"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U11-L01-E12",
+      "knowledge_points": [
+        "email-requests",
+        "instructions-sequence"
+      ]
+    }
+  ],
+  "transfer_task": {
+    "prompt_zh": "改成租用运动场和器材，编写预约申请与到场交接说明。",
+    "model_answer_cs": "Prosím o potvrzení hřiště a zapůjčení míčů na sobotu. Po příchodu se ohlásíme správci. Případné poškození vybavení mu oznámíme před začátkem.",
+    "rubric": [
+      "两个对象",
+      "条件步骤",
+      "不冒充确认"
+    ]
+  },
+  "review_links": [
+    "B1-U10-L01"
+  ],
+  "sources": [
+    {
+      "source_id": "LANG01",
+      "url": "https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions",
+      "scope": "按实际能做的任务编排能力，不把CEFR说成官方捷语语法课表",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    },
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?id=620",
+      "scope": "动词与名词的格搭配、díky/kvůli的语用边界",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    },
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?id=420",
+      "scope": "被动分词与形容词、动作和结果状态的表达倾向",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    }
+  ],
+  "content_status": "authored_crosschecked_not_native_reviewed",
+  "quality_notes": [
+    "原创课文和练习；规则按所列来源交叉核查，未获得捷语母语教师逐句审校。",
+    "本课级别属于教材编排判断，不代表官方能力认证。",
+    "听力为原创可合成脚本；真人多说话人、地区口音与录音自然度尚待现场核验。"
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "B1-U11-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--normal.mp3",
+      "slow_file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U11-L01--2026.10.23.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Naše malá skupina připravovala veřejné setkání v knihovně. Potřebovali jsme potvrdit rezervaci místnosti a zapůjčení projektoru. První návrh e-mailu zněl: „Dobrý den, posílám to, o čem jsme mluvili. Prosím o rychlé vyřízení.“ Kolegyně se zeptala, zda příjemce vůbec pozná, o kterou schůzku jde a co má přesně potvrdit. Uvědomil jsem si, že sdílený kontext není samozřejmost. Do předmětu jsem proto napsal: „Potvrzení rezervace: setkání 14. května.“ V úvodu jsem připomněl telefonickou dohodu a uvedl počet účastníků. Potom jsem oddělil dvě žádosti: potvrzení místnosti a informaci o projektoru. V příloze byl stručný program, nikoli další nepojmenovaný soubor. Požádal jsem o odpověď do pátku, protože podle ní potřebujeme odeslat pozvánky. Správce odpověděl, že místnost je volná, ale projektor musí předem vyzkoušet. Připojil také pokyny: po příchodu se máme ohlásit na recepci, převzít klíč a zkontrolovat vybavení. Pokud zjistíme závadu, nemáme zařízení opravovat sami, ale zavolat správce. Po skončení máme vypnout světla, zavřít okna a vrátit klíč. Tyto kroky bylo nutné předat i ostatním organizátorům. Odpověď jsem nepovažoval za úplné potvrzení obou požadavků. Poděkoval jsem za rezervaci a zeptal se, kdy bude znám výsledek zkoušky projektoru. Do sdílených poznámek jsem zapsal, co je potvrzené a co ještě čeká. U každého úkolu jsem uvedl konkrétního člověka. Dobře napsaný e-mail nám tak pomohl předejít chybě, kterou by samotný zdvořilý tón nevyřešil: nikdo by nevěděl, kdo má udělat další krok.",
+      "duration_seconds": 138.67632653061224,
+      "slow_duration_seconds": 156.68340136054422,
+      "sha256": "a7546d11bea18972104ccdc3760a6c639a520cdf656a3771bd70ead80aa8a3f7",
+      "slow_sha256": "270a6126f5af77fbbe0de6454255cc1fcddf03aa168b6614dd584785f637325e"
+    },
+    {
+      "lesson_id": "B1-U11-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--normal.mp3",
+      "slow_file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U11-L01--2026.10.23.1--text--p0",
+      "asset_id": "B1-U11-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Naše malá skupina připravovala veřejné setkání v knihovně. Potřebovali jsme potvrdit rezervaci místnosti a zapůjčení projektoru. První návrh e-mailu zněl: „Dobrý den, posílám to, o čem jsme mluvili. Prosím o rychlé vyřízení.“ Kolegyně se zeptala, zda příjemce vůbec pozná, o kterou schůzku jde a co má přesně potvrdit. Uvědomil jsem si, že sdílený kontext není samozřejmost.",
+      "start": 0,
+      "end": 33.93038548752835,
+      "slow_start": 0,
+      "slow_end": 38.48149659863945
+    },
+    {
+      "lesson_id": "B1-U11-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--normal.mp3",
+      "slow_file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U11-L01--2026.10.23.1--text--s0",
+      "asset_id": "B1-U11-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Naše malá skupina připravovala veřejné setkání v knihovně.",
+      "start": 0,
+      "end": 4.9458503401360545,
+      "slow_start": 0,
+      "slow_end": 5.572789115646258
+    },
+    {
+      "lesson_id": "B1-U11-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--normal.mp3",
+      "slow_file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U11-L01--2026.10.23.1--text--s1",
+      "asset_id": "B1-U11-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Potřebovali jsme potvrdit rezervaci místnosti a zapůjčení projektoru.",
+      "start": 5.125850340136054,
+      "end": 10.930839002267573,
+      "slow_start": 5.752789115646259,
+      "slow_end": 12.370476190476191
+    },
+    {
+      "lesson_id": "B1-U11-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--normal.mp3",
+      "slow_file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U11-L01--2026.10.23.1--text--s2",
+      "asset_id": "B1-U11-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "První návrh e-mailu zněl: „Dobrý den, posílám to, o čem jsme mluvili.",
+      "start": 11.110839002267573,
+      "end": 17.693696145124715,
+      "slow_start": 12.550476190476191,
+      "slow_end": 19.911201814058956
+    },
+    {
+      "lesson_id": "B1-U11-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--normal.mp3",
+      "slow_file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U11-L01--2026.10.23.1--text--s3",
+      "asset_id": "B1-U11-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 3,
+      "paragraph_index": 0,
+      "sentence_index": 3,
+      "text": "Prosím o rychlé vyřízení.“",
+      "start": 17.87369614512472,
+      "end": 20.230521541950115,
+      "slow_start": 20.091201814058955,
+      "slow_end": 22.680226757369613
+    },
+    {
+      "lesson_id": "B1-U11-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--normal.mp3",
+      "slow_file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U11-L01--2026.10.23.1--text--s4",
+      "asset_id": "B1-U11-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 4,
+      "paragraph_index": 0,
+      "sentence_index": 4,
+      "text": "Kolegyně se zeptala, zda příjemce vůbec pozná, o kterou schůzku jde a co má přesně potvrdit.",
+      "start": 20.410521541950114,
+      "end": 28.479455782312925,
+      "slow_start": 22.860226757369613,
+      "slow_end": 32.02049886621315
+    },
+    {
+      "lesson_id": "B1-U11-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--normal.mp3",
+      "slow_file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U11-L01--2026.10.23.1--text--s5",
+      "asset_id": "B1-U11-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 5,
+      "paragraph_index": 0,
+      "sentence_index": 5,
+      "text": "Uvědomil jsem si, že sdílený kontext není samozřejmost.",
+      "start": 28.659455782312925,
+      "end": 33.93038548752835,
+      "slow_start": 32.20049886621315,
+      "slow_end": 38.48149659863945
+    },
+    {
+      "lesson_id": "B1-U11-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--normal.mp3",
+      "slow_file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U11-L01--2026.10.23.1--text--p1",
+      "asset_id": "B1-U11-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Do předmětu jsem proto napsal: „Potvrzení rezervace: setkání 14. května.“ V úvodu jsem připomněl telefonickou dohodu a uvedl počet účastníků. Potom jsem oddělil dvě žádosti: potvrzení místnosti a informaci o projektoru. V příloze byl stručný program, nikoli další nepojmenovaný soubor. Požádal jsem o odpověď do pátku, protože podle ní potřebujeme odeslat pozvánky.",
+      "start": 34.11038548752835,
+      "end": 68.34839002267573,
+      "slow_start": 38.66149659863945,
+      "slow_end": 77.12553287981859
+    },
+    {
+      "lesson_id": "B1-U11-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--normal.mp3",
+      "slow_file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U11-L01--2026.10.23.1--text--s6",
+      "asset_id": "B1-U11-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 6,
+      "paragraph_index": 1,
+      "sentence_index": 0,
+      "text": "Do předmětu jsem proto napsal: „Potvrzení rezervace: setkání 14. května.“",
+      "start": 34.11038548752835,
+      "end": 41.26213151927438,
+      "slow_start": 38.66149659863945,
+      "slow_end": 46.91619047619048
+    },
+    {
+      "lesson_id": "B1-U11-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--normal.mp3",
+      "slow_file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U11-L01--2026.10.23.1--text--s7",
+      "asset_id": "B1-U11-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 7,
+      "paragraph_index": 1,
+      "sentence_index": 1,
+      "text": "V úvodu jsem připomněl telefonickou dohodu a uvedl počet účastníků.",
+      "start": 41.442131519274376,
+      "end": 47.827619047619045,
+      "slow_start": 47.09619047619048,
+      "slow_end": 54.27115646258503
+    },
+    {
+      "lesson_id": "B1-U11-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--normal.mp3",
+      "slow_file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U11-L01--2026.10.23.1--text--s8",
+      "asset_id": "B1-U11-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 8,
+      "paragraph_index": 1,
+      "sentence_index": 2,
+      "text": "Potom jsem oddělil dvě žádosti: potvrzení místnosti a informaci o projektoru.",
+      "start": 48.007619047619045,
+      "end": 54.93877551020408,
+      "slow_start": 54.45115646258503,
+      "slow_end": 62.3459410430839
+    },
+    {
+      "lesson_id": "B1-U11-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--normal.mp3",
+      "slow_file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U11-L01--2026.10.23.1--text--s9",
+      "asset_id": "B1-U11-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 9,
+      "paragraph_index": 1,
+      "sentence_index": 3,
+      "text": "V příloze byl stručný program, nikoli další nepojmenovaný soubor.",
+      "start": 55.11877551020408,
+      "end": 60.784444444444446,
+      "slow_start": 62.5259410430839,
+      "slow_end": 68.87659863945578
+    },
+    {
+      "lesson_id": "B1-U11-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--normal.mp3",
+      "slow_file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U11-L01--2026.10.23.1--text--s10",
+      "asset_id": "B1-U11-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 10,
+      "paragraph_index": 1,
+      "sentence_index": 4,
+      "text": "Požádal jsem o odpověď do pátku, protože podle ní potřebujeme odeslat pozvánky.",
+      "start": 60.964444444444446,
+      "end": 68.34839002267573,
+      "slow_start": 69.05659863945579,
+      "slow_end": 77.12553287981859
+    },
+    {
+      "lesson_id": "B1-U11-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--normal.mp3",
+      "slow_file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U11-L01--2026.10.23.1--text--p2",
+      "asset_id": "B1-U11-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Správce odpověděl, že místnost je volná, ale projektor musí předem vyzkoušet. Připojil také pokyny: po příchodu se máme ohlásit na recepci, převzít klíč a zkontrolovat vybavení. Pokud zjistíme závadu, nemáme zařízení opravovat sami, ale zavolat správce. Po skončení máme vypnout světla, zavřít okna a vrátit klíč. Tyto kroky bylo nutné předat i ostatním organizátorům.",
+      "start": 68.52839002267574,
+      "end": 102.89410430839003,
+      "slow_start": 77.3055328798186,
+      "slow_end": 116.33845804988663
+    },
+    {
+      "lesson_id": "B1-U11-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--normal.mp3",
+      "slow_file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U11-L01--2026.10.23.1--text--s11",
+      "asset_id": "B1-U11-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 11,
+      "paragraph_index": 2,
+      "sentence_index": 0,
+      "text": "Správce odpověděl, že místnost je volná, ale projektor musí předem vyzkoušet.",
+      "start": 68.52839002267574,
+      "end": 75.93555555555555,
+      "slow_start": 77.3055328798186,
+      "slow_end": 85.73437641723356
+    },
+    {
+      "lesson_id": "B1-U11-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--normal.mp3",
+      "slow_file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U11-L01--2026.10.23.1--text--s12",
+      "asset_id": "B1-U11-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 12,
+      "paragraph_index": 2,
+      "sentence_index": 1,
+      "text": "Připojil také pokyny: po příchodu se máme ohlásit na recepci, převzít klíč a zkontrolovat vybavení.",
+      "start": 76.11555555555556,
+      "end": 84.75337868480726,
+      "slow_start": 85.91437641723356,
+      "slow_end": 95.64353741496599
+    },
+    {
+      "lesson_id": "B1-U11-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--normal.mp3",
+      "slow_file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U11-L01--2026.10.23.1--text--s13",
+      "asset_id": "B1-U11-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 13,
+      "paragraph_index": 2,
+      "sentence_index": 2,
+      "text": "Pokud zjistíme závadu, nemáme zařízení opravovat sami, ale zavolat správce.",
+      "start": 84.93337868480725,
+      "end": 92.1780045351474,
+      "slow_start": 95.82353741496598,
+      "slow_end": 103.9853514739229
+    },
+    {
+      "lesson_id": "B1-U11-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--normal.mp3",
+      "slow_file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U11-L01--2026.10.23.1--text--s14",
+      "asset_id": "B1-U11-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 14,
+      "paragraph_index": 2,
+      "sentence_index": 3,
+      "text": "Po skončení máme vypnout světla, zavřít okna a vrátit klíč.",
+      "start": 92.35800453514739,
+      "end": 97.94240362811792,
+      "slow_start": 104.1653514739229,
+      "slow_end": 110.7598185941043
+    },
+    {
+      "lesson_id": "B1-U11-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--normal.mp3",
+      "slow_file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U11-L01--2026.10.23.1--text--s15",
+      "asset_id": "B1-U11-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 15,
+      "paragraph_index": 2,
+      "sentence_index": 4,
+      "text": "Tyto kroky bylo nutné předat i ostatním organizátorům.",
+      "start": 98.12240362811791,
+      "end": 102.89410430839003,
+      "slow_start": 110.93981859410431,
+      "slow_end": 116.33845804988663
+    },
+    {
+      "lesson_id": "B1-U11-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--normal.mp3",
+      "slow_file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U11-L01--2026.10.23.1--text--p3",
+      "asset_id": "B1-U11-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Odpověď jsem nepovažoval za úplné potvrzení obou požadavků. Poděkoval jsem za rezervaci a zeptal se, kdy bude znám výsledek zkoušky projektoru. Do sdílených poznámek jsem zapsal, co je potvrzené a co ještě čeká. U každého úkolu jsem uvedl konkrétního člověka. Dobře napsaný e-mail nám tak pomohl předejít chybě, kterou by samotný zdvořilý tón nevyřešil: nikdo by nevěděl, kdo má udělat další krok.",
+      "start": 103.07410430839002,
+      "end": 138.49632653061224,
+      "slow_start": 116.51845804988662,
+      "slow_end": 156.50340136054422
+    },
+    {
+      "lesson_id": "B1-U11-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--normal.mp3",
+      "slow_file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U11-L01--2026.10.23.1--text--s16",
+      "asset_id": "B1-U11-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 16,
+      "paragraph_index": 3,
+      "sentence_index": 0,
+      "text": "Odpověď jsem nepovažoval za úplné potvrzení obou požadavků.",
+      "start": 103.07410430839002,
+      "end": 108.47274376417234,
+      "slow_start": 116.51845804988662,
+      "slow_end": 122.56725623582767
+    },
+    {
+      "lesson_id": "B1-U11-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--normal.mp3",
+      "slow_file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U11-L01--2026.10.23.1--text--s17",
+      "asset_id": "B1-U11-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 17,
+      "paragraph_index": 3,
+      "sentence_index": 1,
+      "text": "Poděkoval jsem za rezervaci a zeptal se, kdy bude znám výsledek zkoušky projektoru.",
+      "start": 108.65274376417234,
+      "end": 115.52585034013606,
+      "slow_start": 122.74725623582766,
+      "slow_end": 130.57238095238094
+    },
+    {
+      "lesson_id": "B1-U11-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--normal.mp3",
+      "slow_file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U11-L01--2026.10.23.1--text--s18",
+      "asset_id": "B1-U11-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 18,
+      "paragraph_index": 3,
+      "sentence_index": 2,
+      "text": "Do sdílených poznámek jsem zapsal, co je potvrzené a co ještě čeká.",
+      "start": 115.70585034013605,
+      "end": 121.81269841269841,
+      "slow_start": 130.75238095238095,
+      "slow_end": 137.54421768707482
+    },
+    {
+      "lesson_id": "B1-U11-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--normal.mp3",
+      "slow_file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U11-L01--2026.10.23.1--text--s19",
+      "asset_id": "B1-U11-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 19,
+      "paragraph_index": 3,
+      "sentence_index": 3,
+      "text": "U každého úkolu jsem uvedl konkrétního člověka.",
+      "start": 121.99269841269842,
+      "end": 126.40448979591837,
+      "slow_start": 137.72421768707483,
+      "slow_end": 142.7861678004535
+    },
+    {
+      "lesson_id": "B1-U11-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--normal.mp3",
+      "slow_file": "audio/files/B1-U11-L01--2026.10.22.1--text--bca1424171--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U11-L01--2026.10.23.1--text--s20",
+      "asset_id": "B1-U11-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 20,
+      "paragraph_index": 3,
+      "sentence_index": 4,
+      "text": "Dobře napsaný e-mail nám tak pomohl předejít chybě, kterou by samotný zdvořilý tón nevyřešil: nikdo by nevěděl, kdo má udělat další krok.",
+      "start": 126.58448979591837,
+      "end": 138.49632653061224,
+      "slow_start": 142.96616780045352,
+      "slow_end": 156.50340136054422
+    },
+    {
+      "lesson_id": "B1-U11-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U11-L01--2026.10.22.1--listening--7e7af88077--normal.mp3",
+      "slow_file": "audio/files/B1-U11-L01--2026.10.22.1--listening--7e7af88077--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U11-L01--2026.10.23.1--listening",
+      "role": "listening-full",
+      "index": 0,
+      "text": "Místnost vám potvrzujeme na čtvrtek od pěti do sedmi. Projektor zatím potvrdit nemůžeme, technik ho zkontroluje zítra. Po příchodu se prosím hlaste u recepce. Klíč vraťte nejpozději v půl osmé.",
+      "duration_seconds": 17.519637188208616,
+      "slow_duration_seconds": 19.655873015873016,
+      "sha256": "4aa308259d718797538a9fae8161be17024b7db407d764cf24f929c1d0f8d21e",
+      "slow_sha256": "880b3e29317a6423debbc265968ade224b2d6228377aed1d17ff3b21165fcbbf"
+    },
+    {
+      "lesson_id": "B1-U11-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U11-L01--2026.10.22.1--listening--7e7af88077--normal.mp3",
+      "slow_file": "audio/files/B1-U11-L01--2026.10.22.1--listening--7e7af88077--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U11-L01--2026.10.23.1--listening--p0",
+      "asset_id": "B1-U11-L01--2026.10.23.1--listening",
+      "role": "listening",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Místnost vám potvrzujeme na čtvrtek od pěti do sedmi. Projektor zatím potvrdit nemůžeme, technik ho zkontroluje zítra. Po příchodu se prosím hlaste u recepce. Klíč vraťte nejpozději v půl osmé.",
+      "start": 0,
+      "end": 17.339637188208616,
+      "slow_start": 0,
+      "slow_end": 19.475873015873017
+    },
+    {
+      "lesson_id": "B1-U11-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U11-L01--2026.10.22.1--vocabulary--84e9d83519--normal.mp3",
+      "slow_file": "audio/files/B1-U11-L01--2026.10.22.1--vocabulary--84e9d83519--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U11-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary-full",
+      "index": 0,
+      "text": "Program posílám v příloze. Zkontrolujte vybavení místnosti. Zjistili jsme závadu projektoru. Děkuji za rychlé vyřízení žádosti.",
+      "duration_seconds": 12.0281179138322,
+      "slow_duration_seconds": 13.386485260770975,
+      "sha256": "282f142cd136d000c50b1eaac424adca29c8b286b53f476c7f12413d09708185",
+      "slow_sha256": "a98620a204f3c3f770f763754df8978bb3775b7db8e74694f02fa2c65ff87e05"
+    },
+    {
+      "lesson_id": "B1-U11-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U11-L01--2026.10.22.1--vocabulary--84e9d83519--normal.mp3",
+      "slow_file": "audio/files/B1-U11-L01--2026.10.22.1--vocabulary--84e9d83519--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U11-L01--2026.10.23.1--vocabulary--p0",
+      "asset_id": "B1-U11-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Program posílám v příloze.",
+      "start": 0,
+      "end": 2.5193650793650795,
+      "slow_start": 0,
+      "slow_end": 2.7747845804988662
+    },
+    {
+      "lesson_id": "B1-U11-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U11-L01--2026.10.22.1--vocabulary--84e9d83519--normal.mp3",
+      "slow_file": "audio/files/B1-U11-L01--2026.10.22.1--vocabulary--84e9d83519--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U11-L01--2026.10.23.1--vocabulary--p1",
+      "asset_id": "B1-U11-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Zkontrolujte vybavení místnosti.",
+      "start": 2.699365079365079,
+      "end": 5.485759637188209,
+      "slow_start": 2.9547845804988664,
+      "slow_end": 6.1591383219954645
+    },
+    {
+      "lesson_id": "B1-U11-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U11-L01--2026.10.22.1--vocabulary--84e9d83519--normal.mp3",
+      "slow_file": "audio/files/B1-U11-L01--2026.10.22.1--vocabulary--84e9d83519--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U11-L01--2026.10.23.1--vocabulary--p2",
+      "asset_id": "B1-U11-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Zjistili jsme závadu projektoru.",
+      "start": 5.665759637188208,
+      "end": 8.38249433106576,
+      "slow_start": 6.339138321995465,
+      "slow_end": 9.29968253968254
+    },
+    {
+      "lesson_id": "B1-U11-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U11-L01--2026.10.22.1--vocabulary--84e9d83519--normal.mp3",
+      "slow_file": "audio/files/B1-U11-L01--2026.10.22.1--vocabulary--84e9d83519--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U11-L01--2026.10.23.1--vocabulary--p3",
+      "asset_id": "B1-U11-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Děkuji za rychlé vyřízení žádosti.",
+      "start": 8.562494331065759,
+      "end": 11.8481179138322,
+      "slow_start": 9.479682539682539,
+      "slow_end": 13.206485260770975
+    },
+    {
+      "lesson_id": "B1-U11-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U11-L01--2026.10.22.1--exercises--116be76835--normal.mp3",
+      "slow_file": "audio/files/B1-U11-L01--2026.10.22.1--exercises--116be76835--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U11-L01--2026.10.23.1--exercises",
+      "role": "exercises-full",
+      "index": 0,
+      "text": "Místnost máte do sedmi. Klíč vraťte nejpozději v půl osmé.",
+      "duration_seconds": 5.514829931972789,
+      "slow_duration_seconds": 6.095328798185941,
+      "sha256": "08e77e7349b376c40686f0628abed420dd9fbb88ff75d3e8ff62a6fb41fedeed",
+      "slow_sha256": "6cb923f518e4792de3ca6b5f9331360e124e9975698c6eecc334532e6976f8fc"
+    },
+    {
+      "lesson_id": "B1-U11-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U11-L01--2026.10.22.1--exercises--116be76835--normal.mp3",
+      "slow_file": "audio/files/B1-U11-L01--2026.10.22.1--exercises--116be76835--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U11-L01--2026.10.23.1--exercises--p0",
+      "asset_id": "B1-U11-L01--2026.10.23.1--exercises",
+      "role": "exercise",
+      "index": 0,
+      "exercise_id": "B1-U11-L01-E03",
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Místnost máte do sedmi. Klíč vraťte nejpozději v půl osmé.",
+      "start": 0,
+      "end": 5.334829931972789,
+      "slow_start": 0,
+      "slow_end": 5.915328798185941
+    },
+    {
+      "lesson_id": "B1-U11-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U11-L01--2026.10.22.1--contrasts--06d43fc472--normal.mp3",
+      "slow_file": "audio/files/B1-U11-L01--2026.10.22.1--contrasts--06d43fc472--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U11-L01--2026.10.23.1--contrasts",
+      "role": "contrasts-full",
+      "index": 0,
+      "text": "nejpozději. nejdříve.",
+      "duration_seconds": 2.025986394557823,
+      "slow_duration_seconds": 2.3046258503401362,
+      "sha256": "5daf4adfb12f5e82432d95e66c769cdb9434c16b2103eab411839643be450773",
+      "slow_sha256": "e8013dbe48eaf11217231751f24d174b53bb74232079dad8fc63e8cf7c07e838"
+    },
+    {
+      "lesson_id": "B1-U11-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U11-L01--2026.10.22.1--contrasts--06d43fc472--normal.mp3",
+      "slow_file": "audio/files/B1-U11-L01--2026.10.22.1--contrasts--06d43fc472--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U11-L01--2026.10.23.1--contrasts--p0",
+      "asset_id": "B1-U11-L01--2026.10.23.1--contrasts",
+      "role": "contrast",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "nejpozději. nejdříve.",
+      "start": 0,
+      "end": 1.8459863945578232,
+      "slow_start": 0,
+      "slow_end": 2.124625850340136
+    }
+  ]
+}

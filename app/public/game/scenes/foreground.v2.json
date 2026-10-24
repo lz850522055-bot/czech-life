@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "objects": [
+    {
+      "id": "st-nicholas",
+      "cs": "Kostel svatého Mikuláše",
+      "zh": "圣尼古拉教堂",
+      "url": "/game/scenes/st-nicholas-foreground-v1.webp",
+      "bounds": {
+        "left": -1929.453125,
+        "top": -1495.390625,
+        "width": 171.09375,
+        "height": 139.0625
+      },
+      "depth_y": -1356.71875,
+      "scope": "layer cut from the existing authored illustration; artistic facade, not surveyed 3D geometry"
+    },
+    {
+      "id": "mostecka-corner-house",
+      "cs": "Dům v okolí Mostecké",
+      "zh": "莫斯特街周边房屋",
+      "url": "/game/scenes/mostecka-house-foreground-v1.webp",
+      "bounds": {
+        "left": -1256.40625,
+        "top": -1171.171875,
+        "width": 77.34375,
+        "height": 72.65625
+      },
+      "depth_y": -1101.640625,
+      "scope": "Illustrative 2D roof/facade layer from existing authored art, not a surveyed building interior"
+    }
+  ]
+}

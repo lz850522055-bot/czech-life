@@ -1,0 +1,104 @@
+{
+  "id": "A1-U02-L01--2026.10.22.1--listening",
+  "lesson_id": "A1-U02-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A1",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Ten telefon je starý. Ta kniha je nová. To rádio je malé.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Ten telefon je starý.",
+        "Ta kniha je nová.",
+        "To rádio je malé."
+      ]
+    },
+    {
+      "text": "Kuchyň je společná.",
+      "index": 1,
+      "role": "listening",
+      "parts": [
+        "Kuchyň je společná."
+      ]
+    }
+  ],
+  "text_sha256": "87742e156b9f2c4c0a670d58baf23b79dc1ee93e0eeb792b2d9af7d1340b5112",
+  "source_file": "content/lessons/A1/A1-U02-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U02-L01--2026.10.22.1--listening--87742e156b--normal.mp3",
+  "slow_file": "content/audio/files/A1-U02-L01--2026.10.22.1--listening--87742e156b--slow.mp3",
+  "duration_seconds": 7.477006802721088,
+  "slow_duration_seconds": 8.510294784580498,
+  "cues": [
+    {
+      "text": "Ten telefon je starý. Ta kniha je nová. To rádio je malé.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Ten telefon je starý.",
+        "Ta kniha je nová.",
+        "To rádio je malé."
+      ],
+      "start": 0.0,
+      "end": 5.363900226757369,
+      "sentences": [
+        {
+          "text": "Ten telefon je starý.",
+          "start": 0.0,
+          "end": 1.9040362811791383,
+          "slow_start": 0.0,
+          "slow_end": 2.2639455782312927
+        },
+        {
+          "text": "Ta kniha je nová.",
+          "start": 2.0840362811791384,
+          "end": 3.5817233560090704,
+          "slow_start": 2.4439455782312924,
+          "slow_end": 4.185442176870748
+        },
+        {
+          "text": "To rádio je malé.",
+          "start": 3.76172335600907,
+          "end": 5.363900226757369,
+          "slow_start": 4.365442176870748,
+          "slow_end": 6.153378684807256
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 6.153378684807256
+    },
+    {
+      "text": "Kuchyň je společná.",
+      "index": 1,
+      "role": "listening",
+      "parts": [
+        "Kuchyň je společná."
+      ],
+      "start": 5.54390022675737,
+      "end": 7.297006802721088,
+      "sentences": [
+        {
+          "text": "Kuchyň je společná.",
+          "start": 5.54390022675737,
+          "end": 7.297006802721088,
+          "slow_start": 6.333378684807256,
+          "slow_end": 8.330294784580499
+        }
+      ],
+      "slow_start": 6.333378684807256,
+      "slow_end": 8.330294784580499
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "5ecb0750cfa6b1fb84322f923dcaca0fa911d5053473876199b61bd2136ad018",
+    "slow": "0f73e58bf8da397cd896f723b40e48e4f807e6c2901531868993d19f0dd63b6c"
+  }
+}

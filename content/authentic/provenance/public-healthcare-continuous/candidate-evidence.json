@@ -1,0 +1,125 @@
+{
+  "checked_at": "2026-10-23T00:48:55.793704+00:00",
+  "candidate": "同场连续发言与主持人提醒，医疗筹资争论（历史语料，不作为现行政策资料）",
+  "source_date": "2013-11-27",
+  "source_audio_url": "https://www.psp.cz/eknih/2013ps/audio/2013/11/27/2013112720482102.mp3",
+  "official_transcript_url": "https://www.psp.cz/eknih/2013ps/stenprot/001schuz/s001042.htm",
+  "raw_alignment_item": "https://hdl.handle.net/11234/1-5946",
+  "raw_alignment_download": "https://lindat.mff.cuni.cz/repository/server/api/core/bitstreams/cd8d1c0a-939c-422e-9abf-239d2618356f/content",
+  "audio_collection_item": "https://hdl.handle.net/11234/1-5404",
+  "relative_audio_path_in_published_alignment": "audio/psp/2013/11/27/2013112720482102.mp3",
+  "licenses": {
+    "raw_alignment": {
+      "license": "CC BY 4.0",
+      "authors": [
+        "Stankov, Vladislav",
+        "Kopp, Matyáš",
+        "Bojar, Ondřej"
+      ],
+      "url": "https://creativecommons.org/licenses/by/4.0/",
+      "metadata_evidence": "raw-item-metadata.json"
+    },
+    "audio_collection": {
+      "license": "CC0 1.0",
+      "author": "Matyáš Kopp",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "metadata_evidence": "audiopsp-item-metadata.json"
+    },
+    "note": "Existing HuggingFace short-clips card states CC BY 2.0; do not substitute that version for this LINDAT raw-alignment source. Audio file downloaded from the linked official PSP original, with its path matched to the AudioPSP-linked alignment; archive byte-for-byte identity not tested."
+  },
+  "continuous_interval": {
+    "source_start_seconds": 175.903,
+    "source_end_seconds": 310.111,
+    "seconds": 134.208,
+    "original_duration_seconds": 838.776,
+    "recording_count": 1,
+    "concatenation_used": false,
+    "speaker_turns": [
+      "MiroslavOpalka.1952",
+      "VojtechFilip.1955",
+      "MiroslavOpalka.1952"
+    ]
+  },
+  "extraction_command": "ffmpeg -i 2013112720482102-original.mp3 -ss 175.903 -t 134.208 -map 0:a:0 -c:a libmp3lame -b:a 128k continuous-20131127-opalka-134s.mp3",
+  "verification": {
+    "original_mp3_fetched": true,
+    "clip_decode_probe_duration": 134.208,
+    "alignment_rows": 320,
+    "paragraphs": 6,
+    "official_html_match": [
+      {
+        "paragraph": "ps2013-001-02-014-017.u12.p1",
+        "exact_normalized_text_in_official_html": true
+      },
+      {
+        "paragraph": "ps2013-001-02-014-017.u12.p2",
+        "exact_normalized_text_in_official_html": true
+      },
+      {
+        "paragraph": "ps2013-001-02-014-017.u12.p3",
+        "exact_normalized_text_in_official_html": true
+      },
+      {
+        "paragraph": "ps2013-001-02-014-017.u12.p4",
+        "exact_normalized_text_in_official_html": true
+      },
+      {
+        "paragraph": "ps2013-001-02-014-017.u13.p1",
+        "exact_normalized_text_in_official_html": true
+      },
+      {
+        "paragraph": "ps2013-001-02-014-017.u14.p1",
+        "exact_normalized_text_in_official_html": true
+      }
+    ],
+    "audio_manually_audited": false,
+    "cefr_claim": "Authentic extended listening candidate for a C2 lesson; no claim that duration, speed, source or word count alone establish C2 level."
+  },
+  "files": [
+    {
+      "path": "upstream-research/2013112720482102-original.mp3",
+      "bytes": 13420416,
+      "sha256": "2c2c038084463b572a9c31279cfa1a3b024af803d9ebf7ae54e171f847e9ebdf"
+    },
+    {
+      "path": "upstream-research/continuous-20131127-opalka-134s.mp3",
+      "bytes": 2148141,
+      "sha256": "ee401481e30272d88ddb3a237fb6871cf442f5ae65b3060c6c768d8b811a917d"
+    },
+    {
+      "path": "upstream-research/2013112720482102-word-alignment.json",
+      "bytes": 688225,
+      "sha256": "159b30dd7850ca32389a210ca4270bca8b1c2c975b3ff0a65831d1c3c2022c9b"
+    },
+    {
+      "path": "upstream-research/continuous-20131127-opalka-aligned.json",
+      "bytes": 125845,
+      "sha256": "3fed6ffc1227a5f4497e41e37388edd152e91e86b5821eeb982972f93e5d0513"
+    },
+    {
+      "path": "upstream-research/continuous-20131127-opalka-transcript.txt",
+      "bytes": 2305,
+      "sha256": "8956deb700e19f100a3fb70a962fe61917f76c9cd5e7060bd89e467855d32ee9"
+    },
+    {
+      "path": "upstream-research/raw-item-metadata.json",
+      "bytes": 9136,
+      "sha256": "774a3809efa591eb30612483e38ef6c173ad18f3eaa5c3d5f5bc6f5d57539255"
+    },
+    {
+      "path": "upstream-research/audiopsp-item-metadata.json",
+      "bytes": 7402,
+      "sha256": "bc2323776111935b7f00119214180c416a44d1bdef67e4f8adb01e586736e54a"
+    },
+    {
+      "path": "upstream-research/official-readme.txt",
+      "bytes": 9663,
+      "sha256": "77725756a4e6c74993779679779379199bce35b092e023a0f6eaebe4c0fd5fda"
+    },
+    {
+      "path": "upstream-research/s001042.htm",
+      "bytes": 27305,
+      "sha256": "3fd52a18630b4a046ffcbbd4d14f697bba36bfac58188b7e94877960322ec140"
+    }
+  ]
+}

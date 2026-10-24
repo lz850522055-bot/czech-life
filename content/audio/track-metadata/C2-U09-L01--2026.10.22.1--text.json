@@ -1,0 +1,629 @@
+{
+  "id": "C2-U09-L01--2026.10.22.1--text",
+  "lesson_id": "C2-U09-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Technická zpráva uváděla, že průměrná doba vyřízení pěti zkušebních požadavků činila dvě minuty. Vedoucí služby chtěl tuto větu použít v oznámení zákazníkům: váš požadavek vyřídíme za dvě minuty. Analytik jej zastavil. Ve zkoušce trvaly čtyři jednoduché požadavky jednu minutu a pátý šest minut. Součet deseti minut dělený pěti opravdu dává dvě minuty, ale žádný jednotlivý případ nemusel mít právě tuto délku. Průměr zde shrnoval soubor, nikoli poskytoval záruku každému dalšímu člověku.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Technická zpráva uváděla, že průměrná doba vyřízení pěti zkušebních požadavků činila dvě minuty.",
+        "Vedoucí služby chtěl tuto větu použít v oznámení zákazníkům: váš požadavek vyřídíme za dvě minuty.",
+        "Analytik jej zastavil.",
+        "Ve zkoušce trvaly čtyři jednoduché požadavky jednu minutu a pátý šest minut.",
+        "Součet deseti minut dělený pěti opravdu dává dvě minuty, ale žádný jednotlivý případ nemusel mít právě tuto délku.",
+        "Průměr zde shrnoval soubor, nikoli poskytoval záruku každému dalšímu člověku."
+      ]
+    },
+    {
+      "text": "Vedoucí odpověděl, že podrobná tabulka by zákazníky jen zmátla. Analytik souhlasil, že není nutné zveřejňovat každou technickou poznámku, odmítl však záměnu srozumitelnosti za odstranění rozhodujícího rozdílu. Navrhl říci, že jednoduché zkušební případy proběhly rychle, zatímco složitější trval déle, a že další ověřování má ukázat rozsah běžných situací. Taková formulace nebyla stejně úderná jako příslib dvou minut. Umožňovala ale zákazníkovi pochopit, proč se jeho vlastní zkušenost může lišit, aniž by byl automaticky považován za výjimku, kterou není třeba řešit.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Vedoucí odpověděl, že podrobná tabulka by zákazníky jen zmátla.",
+        "Analytik souhlasil, že není nutné zveřejňovat každou technickou poznámku, odmítl však záměnu srozumitelnosti za odstranění rozhodujícího rozdílu.",
+        "Navrhl říci, že jednoduché zkušební případy proběhly rychle, zatímco složitější trval déle, a že další ověřování má ukázat rozsah běžných situací.",
+        "Taková formulace nebyla stejně úderná jako příslib dvou minut.",
+        "Umožňovala ale zákazníkovi pochopit, proč se jeho vlastní zkušenost může lišit, aniž by byl automaticky považován za výjimku, kterou není třeba řešit."
+      ]
+    },
+    {
+      "text": "Při další kontrole se objevil podstatnější problém. Měření začínalo až okamžikem, kdy pracovník otevřel žádost. Čas před tím, v němž požadavek čekal ve frontě, do údaje nevstupoval. Zákazník ovšem vnímal dobu od odeslání po obdržení odpovědi. Dvě strany používaly stejný výraz doba vyřízení pro různé úseky děje. Nešlo proto pouze o vysvětlení průměru. Bylo třeba nejprve sjednotit, který začátek a konec měření odpovídá otázce, na niž chceme odpovědět. Bez toho by přesnější výpočet pouze přesněji popisoval jinou věc.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Při další kontrole se objevil podstatnější problém.",
+        "Měření začínalo až okamžikem, kdy pracovník otevřel žádost.",
+        "Čas před tím, v němž požadavek čekal ve frontě, do údaje nevstupoval.",
+        "Zákazník ovšem vnímal dobu od odeslání po obdržení odpovědi.",
+        "Dvě strany používaly stejný výraz doba vyřízení pro různé úseky děje.",
+        "Nešlo proto pouze o vysvětlení průměru.",
+        "Bylo třeba nejprve sjednotit, který začátek a konec měření odpovídá otázce, na niž chceme odpovědět.",
+        "Bez toho by přesnější výpočet pouze přesněji popisoval jinou věc."
+      ]
+    },
+    {
+      "text": "Analytik si pomohl obrazem kuchyně. Krátká doba přípravy jednoho jídla neříká, jak dlouho bude host čekat, pokud před ním stojí mnoho objednávek. Přirovnání vystihovalo rozdíl mezi aktivní prací a celkovou dobou, ale mělo hranice. Požadavky služby se mohou zpracovávat jinak než jídla a některé se dají řešit souběžně. Analytik tuto hranici výslovně uvedl, aby obraz nepřenesl do výkladu vlastnosti, které v původním procesu nebyly ověřeny. Dobrá analogie vybírá podobnost; nepředstírá úplnou totožnost dvou systémů.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Analytik si pomohl obrazem kuchyně.",
+        "Krátká doba přípravy jednoho jídla neříká, jak dlouho bude host čekat, pokud před ním stojí mnoho objednávek.",
+        "Přirovnání vystihovalo rozdíl mezi aktivní prací a celkovou dobou, ale mělo hranice.",
+        "Požadavky služby se mohou zpracovávat jinak než jídla a některé se dají řešit souběžně.",
+        "Analytik tuto hranici výslovně uvedl, aby obraz nepřenesl do výkladu vlastnosti, které v původním procesu nebyly ověřeny.",
+        "Dobrá analogie vybírá podobnost; nepředstírá úplnou totožnost dvou systémů."
+      ]
+    },
+    {
+      "text": "Zpráva dále obsahovala modelovou větu, že při stejné skladbě požadavků a dostatečném počtu pracovníků lze očekávat podobný průměr. Vedoucí podmínky při prvním čtení přešel jako technické podrobnosti. Právě ony však určovaly použitelnost odhadu. Pokud přibude složitých případů nebo se část týmu věnuje jiné práci, stejné číslo nemusí být vhodným předpokladem. To neznamená, že je původní model podvodný. Znamená to, že model popisuje určitou situaci a musí být porovnán s prostředím, v němž se podle něj má jednat.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Zpráva dále obsahovala modelovou větu, že při stejné skladbě požadavků a dostatečném počtu pracovníků lze očekávat podobný průměr.",
+        "Vedoucí podmínky při prvním čtení přešel jako technické podrobnosti.",
+        "Právě ony však určovaly použitelnost odhadu.",
+        "Pokud přibude složitých případů nebo se část týmu věnuje jiné práci, stejné číslo nemusí být vhodným předpokladem.",
+        "To neznamená, že je původní model podvodný.",
+        "Znamená to, že model popisuje určitou situaci a musí být porovnán s prostředím, v němž se podle něj má jednat."
+      ]
+    },
+    {
+      "text": "Pro veřejné sdělení tým nakonec oddělil tři vrstvy. První stručně vysvětlovala, co už bylo změřeno. Druhá uváděla, které části čekání zatím nejsou v údaji zahrnuty. Třetí říkala, kdy a jak bude služba zveřejňovat skutečnou zkušenost z běžného provozu. Čtenář nemusel ovládat statistickou terminologii, aby pochopil rozdíl mezi výsledkem malé zkoušky a příslibem pro všechny. Současně měl možnost otevřít podrobnější vysvětlení, pokud na údaji záviselo jeho vlastní plánování. Přístupnost výkladu byla odstupňovaná, nikoli založená na zatajení podmínek.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Pro veřejné sdělení tým nakonec oddělil tři vrstvy.",
+        "První stručně vysvětlovala, co už bylo změřeno.",
+        "Druhá uváděla, které části čekání zatím nejsou v údaji zahrnuty.",
+        "Třetí říkala, kdy a jak bude služba zveřejňovat skutečnou zkušenost z běžného provozu.",
+        "Čtenář nemusel ovládat statistickou terminologii, aby pochopil rozdíl mezi výsledkem malé zkoušky a příslibem pro všechny.",
+        "Současně měl možnost otevřít podrobnější vysvětlení, pokud na údaji záviselo jeho vlastní plánování.",
+        "Přístupnost výkladu byla odstupňovaná, nikoli založená na zatajení podmínek."
+      ]
+    },
+    {
+      "text": "Jeden zákazník přesto namítl, že když nelze slíbit dvě minuty, není údaj k ničemu. Analytik vysvětlil, že omezený údaj může být užitečný pro porovnání určité fáze procesu, pokud se měří stejně. Není však univerzální odpovědí na každou otázku o službě. Nástroj nemusí být buď všemocný, nebo bezcenný. Jeho hodnota se ukazuje v tom, zda pomáhá učinit rozhodnutí, pro které skutečně obsahuje informace. V tomto případě mohl upozornit na náročný typ požadavku, ale sám neodhadoval délku fronty ani budoucí kapacitu týmu.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Jeden zákazník přesto namítl, že když nelze slíbit dvě minuty, není údaj k ničemu.",
+        "Analytik vysvětlil, že omezený údaj může být užitečný pro porovnání určité fáze procesu, pokud se měří stejně.",
+        "Není však univerzální odpovědí na každou otázku o službě.",
+        "Nástroj nemusí být buď všemocný, nebo bezcenný.",
+        "Jeho hodnota se ukazuje v tom, zda pomáhá učinit rozhodnutí, pro které skutečně obsahuje informace.",
+        "V tomto případě mohl upozornit na náročný typ požadavku, ale sám neodhadoval délku fronty ani budoucí kapacitu týmu."
+      ]
+    },
+    {
+      "text": "Při nácviku vysvětlení dostali účastníci za úkol postupně promluvit k analytikovi, vedoucímu a netrpělivému zákazníkovi. Ve všech verzích musel zůstat stejný výsledek výpočtu i jeho hranice, měnila se však cesta k porozumění. Odborník potřeboval znát definici měření, vedoucí důsledek pro slib služby a zákazník praktickou informaci o vlastním očekávání. Úspěšný prostředník nevynechal složitost bez náhrady. Přeložil ji do rozhodnutí a otázek, které může konkrétní adresát skutečně použít, a výslovně označil místo, kde další přesnost zatím chybí.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Při nácviku vysvětlení dostali účastníci za úkol postupně promluvit k analytikovi, vedoucímu a netrpělivému zákazníkovi.",
+        "Ve všech verzích musel zůstat stejný výsledek výpočtu i jeho hranice, měnila se však cesta k porozumění.",
+        "Odborník potřeboval znát definici měření, vedoucí důsledek pro slib služby a zákazník praktickou informaci o vlastním očekávání.",
+        "Úspěšný prostředník nevynechal složitost bez náhrady.",
+        "Přeložil ji do rozhodnutí a otázek, které může konkrétní adresát skutečně použít, a výslovně označil místo, kde další přesnost zatím chybí."
+      ]
+    }
+  ],
+  "text_sha256": "696cb2fe70a598be8969957515d2b6087c5e4e74a49ba05a04ac5dd623fab522",
+  "source_file": "content/lessons/C2/C2-U09-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U09-L01--2026.10.22.1--text--696cb2fe70--normal.mp3",
+  "slow_file": "content/audio/files/C2-U09-L01--2026.10.22.1--text--696cb2fe70--slow.mp3",
+  "duration_seconds": 389.4182766439909,
+  "slow_duration_seconds": 438.5517006802721,
+  "cues": [
+    {
+      "text": "Technická zpráva uváděla, že průměrná doba vyřízení pěti zkušebních požadavků činila dvě minuty. Vedoucí služby chtěl tuto větu použít v oznámení zákazníkům: váš požadavek vyřídíme za dvě minuty. Analytik jej zastavil. Ve zkoušce trvaly čtyři jednoduché požadavky jednu minutu a pátý šest minut. Součet deseti minut dělený pěti opravdu dává dvě minuty, ale žádný jednotlivý případ nemusel mít právě tuto délku. Průměr zde shrnoval soubor, nikoli poskytoval záruku každému dalšímu člověku.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Technická zpráva uváděla, že průměrná doba vyřízení pěti zkušebních požadavků činila dvě minuty.",
+        "Vedoucí služby chtěl tuto větu použít v oznámení zákazníkům: váš požadavek vyřídíme za dvě minuty.",
+        "Analytik jej zastavil.",
+        "Ve zkoušce trvaly čtyři jednoduché požadavky jednu minutu a pátý šest minut.",
+        "Součet deseti minut dělený pěti opravdu dává dvě minuty, ale žádný jednotlivý případ nemusel mít právě tuto délku.",
+        "Průměr zde shrnoval soubor, nikoli poskytoval záruku každému dalšímu člověku."
+      ],
+      "start": 0.0,
+      "end": 44.91342403628118,
+      "sentences": [
+        {
+          "text": "Technická zpráva uváděla, že průměrná doba vyřízení pěti zkušebních požadavků činila dvě minuty.",
+          "start": 0.0,
+          "end": 8.846802721088435,
+          "slow_start": 0.0,
+          "slow_end": 9.822040816326531
+        },
+        {
+          "text": "Vedoucí služby chtěl tuto větu použít v oznámení zákazníkům: váš požadavek vyřídíme za dvě minuty.",
+          "start": 9.026802721088435,
+          "end": 18.163854875283448,
+          "slow_start": 10.00204081632653,
+          "slow_end": 20.346530612244898
+        },
+        {
+          "text": "Analytik jej zastavil.",
+          "start": 18.343854875283448,
+          "end": 20.329160997732426,
+          "slow_start": 20.526530612244898,
+          "slow_end": 22.79047619047619
+        },
+        {
+          "text": "Ve zkoušce trvaly čtyři jednoduché požadavky jednu minutu a pátý šest minut.",
+          "start": 20.509160997732426,
+          "end": 26.8946485260771,
+          "slow_start": 22.97047619047619,
+          "slow_end": 30.15705215419501
+        },
+        {
+          "text": "Součet deseti minut dělený pěti opravdu dává dvě minuty, ale žádný jednotlivý případ nemusel mít právě tuto délku.",
+          "start": 27.074648526077098,
+          "end": 37.24498866213152,
+          "slow_start": 30.33705215419501,
+          "slow_end": 42.16761904761905
+        },
+        {
+          "text": "Průměr zde shrnoval soubor, nikoli poskytoval záruku každému dalšímu člověku.",
+          "start": 37.42498866213152,
+          "end": 44.91342403628118,
+          "slow_start": 42.34761904761905,
+          "slow_end": 50.98544217687075
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 50.98544217687075
+    },
+    {
+      "text": "Vedoucí odpověděl, že podrobná tabulka by zákazníky jen zmátla. Analytik souhlasil, že není nutné zveřejňovat každou technickou poznámku, odmítl však záměnu srozumitelnosti za odstranění rozhodujícího rozdílu. Navrhl říci, že jednoduché zkušební případy proběhly rychle, zatímco složitější trval déle, a že další ověřování má ukázat rozsah běžných situací. Taková formulace nebyla stejně úderná jako příslib dvou minut. Umožňovala ale zákazníkovi pochopit, proč se jeho vlastní zkušenost může lišit, aniž by byl automaticky považován za výjimku, kterou není třeba řešit.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Vedoucí odpověděl, že podrobná tabulka by zákazníky jen zmátla.",
+        "Analytik souhlasil, že není nutné zveřejňovat každou technickou poznámku, odmítl však záměnu srozumitelnosti za odstranění rozhodujícího rozdílu.",
+        "Navrhl říci, že jednoduché zkušební případy proběhly rychle, zatímco složitější trval déle, a že další ověřování má ukázat rozsah běžných situací.",
+        "Taková formulace nebyla stejně úderná jako příslib dvou minut.",
+        "Umožňovala ale zákazníkovi pochopit, proč se jeho vlastní zkušenost může lišit, aniž by byl automaticky považován za výjimku, kterou není třeba řešit."
+      ],
+      "start": 45.09342403628118,
+      "end": 98.4530612244898,
+      "sentences": [
+        {
+          "text": "Vedoucí odpověděl, že podrobná tabulka by zákazníky jen zmátla.",
+          "start": 45.09342403628118,
+          "end": 50.94485260770975,
+          "slow_start": 51.16544217687075,
+          "slow_end": 57.72507936507937
+        },
+        {
+          "text": "Analytik souhlasil, že není nutné zveřejňovat každou technickou poznámku, odmítl však záměnu srozumitelnosti za odstranění rozhodujícího rozdílu.",
+          "start": 51.12485260770975,
+          "end": 64.82462585034014,
+          "slow_start": 57.90507936507937,
+          "slow_end": 73.6946485260771
+        },
+        {
+          "text": "Navrhl říci, že jednoduché zkušební případy proběhly rychle, zatímco složitější trval déle, a že další ověřování má ukázat rozsah běžných situací.",
+          "start": 65.00462585034013,
+          "end": 79.21523809523809,
+          "slow_start": 73.8746485260771,
+          "slow_end": 89.84997732426304
+        },
+        {
+          "text": "Taková formulace nebyla stejně úderná jako příslib dvou minut.",
+          "start": 79.3952380952381,
+          "end": 85.00285714285714,
+          "slow_start": 90.02997732426304,
+          "slow_end": 96.5431746031746
+        },
+        {
+          "text": "Umožňovala ale zákazníkovi pochopit, proč se jeho vlastní zkušenost může lišit, aniž by byl automaticky považován za výjimku, kterou není třeba řešit.",
+          "start": 85.18285714285715,
+          "end": 98.4530612244898,
+          "slow_start": 96.7231746031746,
+          "slow_end": 111.74648526077098
+        }
+      ],
+      "slow_start": 51.16544217687075,
+      "slow_end": 111.74648526077098
+    },
+    {
+      "text": "Při další kontrole se objevil podstatnější problém. Měření začínalo až okamžikem, kdy pracovník otevřel žádost. Čas před tím, v němž požadavek čekal ve frontě, do údaje nevstupoval. Zákazník ovšem vnímal dobu od odeslání po obdržení odpovědi. Dvě strany používaly stejný výraz doba vyřízení pro různé úseky děje. Nešlo proto pouze o vysvětlení průměru. Bylo třeba nejprve sjednotit, který začátek a konec měření odpovídá otázce, na niž chceme odpovědět. Bez toho by přesnější výpočet pouze přesněji popisoval jinou věc.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Při další kontrole se objevil podstatnější problém.",
+        "Měření začínalo až okamžikem, kdy pracovník otevřel žádost.",
+        "Čas před tím, v němž požadavek čekal ve frontě, do údaje nevstupoval.",
+        "Zákazník ovšem vnímal dobu od odeslání po obdržení odpovědi.",
+        "Dvě strany používaly stejný výraz doba vyřízení pro různé úseky děje.",
+        "Nešlo proto pouze o vysvětlení průměru.",
+        "Bylo třeba nejprve sjednotit, který začátek a konec měření odpovídá otázce, na niž chceme odpovědět.",
+        "Bez toho by přesnější výpočet pouze přesněji popisoval jinou věc."
+      ],
+      "start": 98.6330612244898,
+      "end": 146.87863945578232,
+      "sentences": [
+        {
+          "text": "Při další kontrole se objevil podstatnější problém.",
+          "start": 98.6330612244898,
+          "end": 102.85909297052154,
+          "slow_start": 111.92648526077097,
+          "slow_end": 116.60530612244898
+        },
+        {
+          "text": "Měření začínalo až okamžikem, kdy pracovník otevřel žádost.",
+          "start": 103.03909297052154,
+          "end": 108.99501133786848,
+          "slow_start": 116.78530612244899,
+          "slow_end": 123.35655328798185
+        },
+        {
+          "text": "Čas před tím, v němž požadavek čekal ve frontě, do údaje nevstupoval.",
+          "start": 109.17501133786848,
+          "end": 115.28185941043084,
+          "slow_start": 123.53655328798186,
+          "slow_end": 130.34
+        },
+        {
+          "text": "Zákazník ovšem vnímal dobu od odeslání po obdržení odpovědi.",
+          "start": 115.46185941043083,
+          "end": 121.29006802721088,
+          "slow_start": 130.52,
+          "slow_end": 137.06802721088437
+        },
+        {
+          "text": "Dvě strany používaly stejný výraz doba vyřízení pro různé úseky děje.",
+          "start": 121.47006802721089,
+          "end": 127.82072562358276,
+          "slow_start": 137.24802721088435,
+          "slow_end": 144.37655328798186
+        },
+        {
+          "text": "Nešlo proto pouze o vysvětlení průměru.",
+          "start": 128.00072562358275,
+          "end": 131.48371882086167,
+          "slow_start": 144.55655328798187,
+          "slow_end": 148.35301587301586
+        },
+        {
+          "text": "Bylo třeba nejprve sjednotit, který začátek a konec měření odpovídá otázce, na niž chceme odpovědět.",
+          "start": 131.66371882086167,
+          "end": 140.90526077097505,
+          "slow_start": 148.53301587301587,
+          "slow_end": 158.91233560090703
+        },
+        {
+          "text": "Bez toho by přesnější výpočet pouze přesněji popisoval jinou věc.",
+          "start": 141.08526077097505,
+          "end": 146.87863945578232,
+          "slow_start": 159.09233560090703,
+          "slow_end": 165.65197278911563
+        }
+      ],
+      "slow_start": 111.92648526077097,
+      "slow_end": 165.65197278911563
+    },
+    {
+      "text": "Analytik si pomohl obrazem kuchyně. Krátká doba přípravy jednoho jídla neříká, jak dlouho bude host čekat, pokud před ním stojí mnoho objednávek. Přirovnání vystihovalo rozdíl mezi aktivní prací a celkovou dobou, ale mělo hranice. Požadavky služby se mohou zpracovávat jinak než jídla a některé se dají řešit souběžně. Analytik tuto hranici výslovně uvedl, aby obraz nepřenesl do výkladu vlastnosti, které v původním procesu nebyly ověřeny. Dobrá analogie vybírá podobnost; nepředstírá úplnou totožnost dvou systémů.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Analytik si pomohl obrazem kuchyně.",
+        "Krátká doba přípravy jednoho jídla neříká, jak dlouho bude host čekat, pokud před ním stojí mnoho objednávek.",
+        "Přirovnání vystihovalo rozdíl mezi aktivní prací a celkovou dobou, ale mělo hranice.",
+        "Požadavky služby se mohou zpracovávat jinak než jídla a některé se dají řešit souběžně.",
+        "Analytik tuto hranici výslovně uvedl, aby obraz nepřenesl do výkladu vlastnosti, které v původním procesu nebyly ověřeny.",
+        "Dobrá analogie vybírá podobnost; nepředstírá úplnou totožnost dvou systémů."
+      ],
+      "start": 147.05863945578233,
+      "end": 193.7251700680272,
+      "sentences": [
+        {
+          "text": "Analytik si pomohl obrazem kuchyně.",
+          "start": 147.05863945578233,
+          "end": 150.19333333333333,
+          "slow_start": 165.83197278911564,
+          "slow_end": 169.25691609977324
+        },
+        {
+          "text": "Krátká doba přípravy jednoho jídla neříká, jak dlouho bude host čekat, pokud před ním stojí mnoho objednávek.",
+          "start": 150.37333333333333,
+          "end": 159.25496598639455,
+          "slow_start": 169.43691609977324,
+          "slow_end": 179.4331065759637
+        },
+        {
+          "text": "Přirovnání vystihovalo rozdíl mezi aktivní prací a celkovou dobou, ale mělo hranice.",
+          "start": 159.43496598639456,
+          "end": 167.09755102040816,
+          "slow_start": 179.6131065759637,
+          "slow_end": 188.30897959183673
+        },
+        {
+          "text": "Požadavky služby se mohou zpracovávat jinak než jídla a některé se dají řešit souběžně.",
+          "start": 167.27755102040817,
+          "end": 175.2768253968254,
+          "slow_start": 188.48897959183674,
+          "slow_end": 197.42866213151927
+        },
+        {
+          "text": "Analytik tuto hranici výslovně uvedl, aby obraz nepřenesl do výkladu vlastnosti, které v původním procesu nebyly ověřeny.",
+          "start": 175.4568253968254,
+          "end": 186.5095238095238,
+          "slow_start": 197.60866213151928,
+          "slow_end": 209.83396825396827
+        },
+        {
+          "text": "Dobrá analogie vybírá podobnost; nepředstírá úplnou totožnost dvou systémů.",
+          "start": 186.68952380952382,
+          "end": 193.7251700680272,
+          "slow_start": 210.01396825396824,
+          "slow_end": 218.1641723356009
+        }
+      ],
+      "slow_start": 165.83197278911564,
+      "slow_end": 218.1641723356009
+    },
+    {
+      "text": "Zpráva dále obsahovala modelovou větu, že při stejné skladbě požadavků a dostatečném počtu pracovníků lze očekávat podobný průměr. Vedoucí podmínky při prvním čtení přešel jako technické podrobnosti. Právě ony však určovaly použitelnost odhadu. Pokud přibude složitých případů nebo se část týmu věnuje jiné práci, stejné číslo nemusí být vhodným předpokladem. To neznamená, že je původní model podvodný. Znamená to, že model popisuje určitou situaci a musí být porovnán s prostředím, v němž se podle něj má jednat.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Zpráva dále obsahovala modelovou větu, že při stejné skladbě požadavků a dostatečném počtu pracovníků lze očekávat podobný průměr.",
+        "Vedoucí podmínky při prvním čtení přešel jako technické podrobnosti.",
+        "Právě ony však určovaly použitelnost odhadu.",
+        "Pokud přibude složitých případů nebo se část týmu věnuje jiné práci, stejné číslo nemusí být vhodným předpokladem.",
+        "To neznamená, že je původní model podvodný.",
+        "Znamená to, že model popisuje určitou situaci a musí být porovnán s prostředím, v němž se podle něj má jednat."
+      ],
+      "start": 193.90517006802722,
+      "end": 240.53687074829932,
+      "sentences": [
+        {
+          "text": "Zpráva dále obsahovala modelovou větu, že při stejné skladbě požadavků a dostatečném počtu pracovníků lze očekávat podobný průměr.",
+          "start": 193.90517006802722,
+          "end": 205.75895691609978,
+          "slow_start": 218.34417233560092,
+          "slow_end": 231.71886621315193
+        },
+        {
+          "text": "Vedoucí podmínky při prvním čtení přešel jako technické podrobnosti.",
+          "start": 205.93895691609978,
+          "end": 211.76716553287983,
+          "slow_start": 231.89886621315193,
+          "slow_end": 238.45850340136053
+        },
+        {
+          "text": "Právě ony však určovaly použitelnost odhadu.",
+          "start": 211.9471655328798,
+          "end": 215.89455782312925,
+          "slow_start": 238.63850340136054,
+          "slow_end": 243.03868480725623
+        },
+        {
+          "text": "Pokud přibude složitých případů nebo se část týmu věnuje jiné práci, stejné číslo nemusí být vhodným předpokladem.",
+          "start": 216.07455782312925,
+          "end": 226.74412698412698,
+          "slow_start": 243.21868480725624,
+          "slow_end": 255.52526077097505
+        },
+        {
+          "text": "To neznamená, že je původní model podvodný.",
+          "start": 226.92412698412699,
+          "end": 230.73219954648525,
+          "slow_start": 255.70526077097506,
+          "slow_end": 260.0241723356009
+        },
+        {
+          "text": "Znamená to, že model popisuje určitou situaci a musí být porovnán s prostředím, v němž se podle něj má jednat.",
+          "start": 230.91219954648525,
+          "end": 240.53687074829932,
+          "slow_start": 260.2041723356009,
+          "slow_end": 271.0362811791383
+        }
+      ],
+      "slow_start": 218.34417233560092,
+      "slow_end": 271.0362811791383
+    },
+    {
+      "text": "Pro veřejné sdělení tým nakonec oddělil tři vrstvy. První stručně vysvětlovala, co už bylo změřeno. Druhá uváděla, které části čekání zatím nejsou v údaji zahrnuty. Třetí říkala, kdy a jak bude služba zveřejňovat skutečnou zkušenost z běžného provozu. Čtenář nemusel ovládat statistickou terminologii, aby pochopil rozdíl mezi výsledkem malé zkoušky a příslibem pro všechny. Současně měl možnost otevřít podrobnější vysvětlení, pokud na údaji záviselo jeho vlastní plánování. Přístupnost výkladu byla odstupňovaná, nikoli založená na zatajení podmínek.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Pro veřejné sdělení tým nakonec oddělil tři vrstvy.",
+        "První stručně vysvětlovala, co už bylo změřeno.",
+        "Druhá uváděla, které části čekání zatím nejsou v údaji zahrnuty.",
+        "Třetí říkala, kdy a jak bude služba zveřejňovat skutečnou zkušenost z běžného provozu.",
+        "Čtenář nemusel ovládat statistickou terminologii, aby pochopil rozdíl mezi výsledkem malé zkoušky a příslibem pro všechny.",
+        "Současně měl možnost otevřít podrobnější vysvětlení, pokud na údaji záviselo jeho vlastní plánování.",
+        "Přístupnost výkladu byla odstupňovaná, nikoli založená na zatajení podmínek."
+      ],
+      "start": 240.71687074829933,
+      "end": 290.1756462585034,
+      "sentences": [
+        {
+          "text": "Pro veřejné sdělení tým nakonec oddělil tři vrstvy.",
+          "start": 240.71687074829933,
+          "end": 245.18671201814058,
+          "slow_start": 271.2162811791383,
+          "slow_end": 276.27823129251703
+        },
+        {
+          "text": "První stručně vysvětlovala, co už bylo změřeno.",
+          "start": 245.3667120181406,
+          "end": 249.4185941043084,
+          "slow_start": 276.458231292517,
+          "slow_end": 281.13705215419503
+        },
+        {
+          "text": "Druhá uváděla, které části čekání zatím nejsou v údaji zahrnuty.",
+          "start": 249.5985941043084,
+          "end": 255.62417233560092,
+          "slow_start": 281.31705215419504,
+          "slow_end": 288.0740589569161
+        },
+        {
+          "text": "Třetí říkala, kdy a jak bude služba zveřejňovat skutečnou zkušenost z běžného provozu.",
+          "start": 255.8041723356009,
+          "end": 262.88625850340134,
+          "slow_start": 288.2540589569161,
+          "slow_end": 296.0443537414966
+        },
+        {
+          "text": "Čtenář nemusel ovládat statistickou terminologii, aby pochopil rozdíl mezi výsledkem malé zkoušky a příslibem pro všechny.",
+          "start": 263.06625850340134,
+          "end": 273.863537414966,
+          "slow_start": 296.2243537414966,
+          "slow_end": 308.5541496598639
+        },
+        {
+          "text": "Současně měl možnost otevřít podrobnější vysvětlení, pokud na údaji záviselo jeho vlastní plánování.",
+          "start": 274.043537414966,
+          "end": 283.22702947845806,
+          "slow_start": 308.73414965986393,
+          "slow_end": 319.15990929705214
+        },
+        {
+          "text": "Přístupnost výkladu byla odstupňovaná, nikoli založená na zatajení podmínek.",
+          "start": 283.40702947845807,
+          "end": 290.1756462585034,
+          "slow_start": 319.33990929705215,
+          "slow_end": 326.8980045351474
+        }
+      ],
+      "slow_start": 271.2162811791383,
+      "slow_end": 326.8980045351474
+    },
+    {
+      "text": "Jeden zákazník přesto namítl, že když nelze slíbit dvě minuty, není údaj k ničemu. Analytik vysvětlil, že omezený údaj může být užitečný pro porovnání určité fáze procesu, pokud se měří stejně. Není však univerzální odpovědí na každou otázku o službě. Nástroj nemusí být buď všemocný, nebo bezcenný. Jeho hodnota se ukazuje v tom, zda pomáhá učinit rozhodnutí, pro které skutečně obsahuje informace. V tomto případě mohl upozornit na náročný typ požadavku, ale sám neodhadoval délku fronty ani budoucí kapacitu týmu.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Jeden zákazník přesto namítl, že když nelze slíbit dvě minuty, není údaj k ničemu.",
+        "Analytik vysvětlil, že omezený údaj může být užitečný pro porovnání určité fáze procesu, pokud se měří stejně.",
+        "Není však univerzální odpovědí na každou otázku o službě.",
+        "Nástroj nemusí být buď všemocný, nebo bezcenný.",
+        "Jeho hodnota se ukazuje v tom, zda pomáhá učinit rozhodnutí, pro které skutečně obsahuje informace.",
+        "V tomto případě mohl upozornit na náročný typ požadavku, ale sám neodhadoval délku fronty ani budoucí kapacitu týmu."
+      ],
+      "start": 290.3556462585034,
+      "end": 337.7536054421769,
+      "sentences": [
+        {
+          "text": "Jeden zákazník přesto namítl, že když nelze slíbit dvě minuty, není údaj k ničemu.",
+          "start": 290.3556462585034,
+          "end": 297.9137414965986,
+          "slow_start": 327.0780045351474,
+          "slow_end": 335.53006802721086
+        },
+        {
+          "text": "Analytik vysvětlil, že omezený údaj může být užitečný pro porovnání určité fáze procesu, pokud se měří stejně.",
+          "start": 298.0937414965986,
+          "end": 308.2873015873016,
+          "slow_start": 335.71006802721087,
+          "slow_end": 347.72639455782314
+        },
+        {
+          "text": "Není však univerzální odpovědí na každou otázku o službě.",
+          "start": 308.46730158730156,
+          "end": 313.4595918367347,
+          "slow_start": 347.90639455782315,
+          "slow_end": 353.815873015873
+        },
+        {
+          "text": "Nástroj nemusí být buď všemocný, nebo bezcenný.",
+          "start": 313.63959183673467,
+          "end": 318.1326530612245,
+          "slow_start": 353.99587301587303,
+          "slow_end": 358.9881632653061
+        },
+        {
+          "text": "Jeho hodnota se ukazuje v tom, zda pomáhá učinit rozhodnutí, pro které skutečně obsahuje informace.",
+          "start": 318.31265306122447,
+          "end": 326.9504761904762,
+          "slow_start": 359.16816326530613,
+          "slow_end": 369.08308390022677
+        },
+        {
+          "text": "V tomto případě mohl upozornit na náročný typ požadavku, ale sám neodhadoval délku fronty ani budoucí kapacitu týmu.",
+          "start": 327.1304761904762,
+          "end": 337.7536054421769,
+          "slow_start": 369.2630839002268,
+          "slow_end": 380.9078911564626
+        }
+      ],
+      "slow_start": 327.0780045351474,
+      "slow_end": 380.9078911564626
+    },
+    {
+      "text": "Při nácviku vysvětlení dostali účastníci za úkol postupně promluvit k analytikovi, vedoucímu a netrpělivému zákazníkovi. Ve všech verzích musel zůstat stejný výsledek výpočtu i jeho hranice, měnila se však cesta k porozumění. Odborník potřeboval znát definici měření, vedoucí důsledek pro slib služby a zákazník praktickou informaci o vlastním očekávání. Úspěšný prostředník nevynechal složitost bez náhrady. Přeložil ji do rozhodnutí a otázek, které může konkrétní adresát skutečně použít, a výslovně označil místo, kde další přesnost zatím chybí.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Při nácviku vysvětlení dostali účastníci za úkol postupně promluvit k analytikovi, vedoucímu a netrpělivému zákazníkovi.",
+        "Ve všech verzích musel zůstat stejný výsledek výpočtu i jeho hranice, měnila se však cesta k porozumění.",
+        "Odborník potřeboval znát definici měření, vedoucí důsledek pro slib služby a zákazník praktickou informaci o vlastním očekávání.",
+        "Úspěšný prostředník nevynechal složitost bez náhrady.",
+        "Přeložil ji do rozhodnutí a otázek, které může konkrétní adresát skutečně použít, a výslovně označil místo, kde další přesnost zatím chybí."
+      ],
+      "start": 337.9336054421769,
+      "end": 389.23827664399096,
+      "sentences": [
+        {
+          "text": "Při nácviku vysvětlení dostali účastníci za úkol postupně promluvit k analytikovi, vedoucímu a netrpělivému zákazníkovi.",
+          "start": 337.9336054421769,
+          "end": 349.8686621315193,
+          "slow_start": 381.0878911564626,
+          "slow_end": 394.4974149659864
+        },
+        {
+          "text": "Ve všech verzích musel zůstat stejný výsledek výpočtu i jeho hranice, měnila se však cesta k porozumění.",
+          "start": 350.0486621315193,
+          "end": 359.45274376417234,
+          "slow_start": 394.6774149659864,
+          "slow_end": 405.3121541950113
+        },
+        {
+          "text": "Odborník potřeboval znát definici měření, vedoucí důsledek pro slib služby a zákazník praktickou informaci o vlastním očekávání.",
+          "start": 359.63274376417235,
+          "end": 371.9277097505669,
+          "slow_start": 405.4921541950113,
+          "slow_end": 419.1338775510204
+        },
+        {
+          "text": "Úspěšný prostředník nevynechal složitost bez náhrady.",
+          "start": 372.10770975056687,
+          "end": 376.5311111111111,
+          "slow_start": 419.3138775510204,
+          "slow_end": 424.4106575963719
+        },
+        {
+          "text": "Přeložil ji do rozhodnutí a otázek, které může konkrétní adresát skutečně použít, a výslovně označil místo, kde další přesnost zatím chybí.",
+          "start": 376.7111111111111,
+          "end": 389.23827664399096,
+          "slow_start": 424.5906575963719,
+          "slow_end": 438.3717006802721
+        }
+      ],
+      "slow_start": 381.0878911564626,
+      "slow_end": 438.3717006802721
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "6e440e4064cfd8021a8427e179596b2ca0bd4039b1c041e4db69fe41db323819",
+    "slow": "dd8bed461fde9ff412e5b038e0affe5901986eee1d27160dee746ee284ffe9c3"
+  }
+}

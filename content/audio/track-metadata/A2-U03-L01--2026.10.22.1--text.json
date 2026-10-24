@@ -1,0 +1,359 @@
+{
+  "id": "A2-U03-L01--2026.10.22.1--text",
+  "lesson_id": "A2-U03-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Jana připravuje sousedské setkání a potřebuje pomoc. Na stole má seznam lidí, věcí a úkolů. Každý řádek ukazuje jiný vztah.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Jana připravuje sousedské setkání a potřebuje pomoc.",
+        "Na stole má seznam lidí, věcí a úkolů.",
+        "Každý řádek ukazuje jiný vztah."
+      ]
+    },
+    {
+      "text": "Petr přinese stoly. Bez Petra by to bylo těžší, protože má velké auto. Jana mu proto ráno zavolá a poděkuje mu.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Petr přinese stoly.",
+        "Bez Petra by to bylo těžší, protože má velké auto.",
+        "Jana mu proto ráno zavolá a poděkuje mu."
+      ]
+    },
+    {
+      "text": "Vidí Petra před domem a říká: Petře, můžeš prosím přinést také dvě židle? Petr souhlasí a jde do sklepa.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Vidí Petra před domem a říká: Petře, můžeš prosím přinést také dvě židle?",
+        "Petr souhlasí a jde do sklepa."
+      ]
+    },
+    {
+      "text": "Později Jana mluví o Petrovi s novou sousedkou. Vysvětluje, že společně připravují místo pro malé děti i dospělé.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Později Jana mluví o Petrovi s novou sousedkou.",
+        "Vysvětluje, že společně připravují místo pro malé děti i dospělé."
+      ]
+    },
+    {
+      "text": "Na stole bude voda, čaj a několik misek s ovocem. Dětem dá malé sklenice. Pro dospělé připraví větší hrnky.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Na stole bude voda, čaj a několik misek s ovocem.",
+        "Dětem dá malé sklenice.",
+        "Pro dospělé připraví větší hrnky."
+      ]
+    },
+    {
+      "text": "Hosté přijdou do zahrady a budou sedět v zahradě pod stromem. Po setkání půjdou ze zahrady domů.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Hosté přijdou do zahrady a budou sedět v zahradě pod stromem.",
+        "Po setkání půjdou ze zahrady domů."
+      ]
+    },
+    {
+      "text": "Jana si všímá, že slova mění tvar podle úlohy ve větě. Nejde o sedm různých lidí ani o sedm různých zahrad.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Jana si všímá, že slova mění tvar podle úlohy ve větě.",
+        "Nejde o sedm různých lidí ani o sedm různých zahrad."
+      ]
+    },
+    {
+      "text": "Když nezná správný tvar, nejdřív najde předložku nebo sloveso. Potom zkontroluje rod, číslo a vzor ve slovníku.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Když nezná správný tvar, nejdřív najde předložku nebo sloveso.",
+        "Potom zkontroluje rod, číslo a vzor ve slovníku."
+      ]
+    }
+  ],
+  "text_sha256": "1d2fc63d18ed0fc74da459bf3a40029b049789cb9570d5f8afe35d8bc8051200",
+  "source_file": "content/lessons/A2/A2-U03-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--normal.mp3",
+  "slow_file": "content/audio/files/A2-U03-L01--2026.10.22.1--text--1d2fc63d18--slow.mp3",
+  "duration_seconds": 81.12557823129252,
+  "slow_duration_seconds": 90.71541950113378,
+  "cues": [
+    {
+      "text": "Jana připravuje sousedské setkání a potřebuje pomoc. Na stole má seznam lidí, věcí a úkolů. Každý řádek ukazuje jiný vztah.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Jana připravuje sousedské setkání a potřebuje pomoc.",
+        "Na stole má seznam lidí, věcí a úkolů.",
+        "Každý řádek ukazuje jiný vztah."
+      ],
+      "start": 0.0,
+      "end": 12.387936507936509,
+      "sentences": [
+        {
+          "text": "Jana připravuje sousedské setkání a potřebuje pomoc.",
+          "start": 0.0,
+          "end": 4.783310657596372,
+          "slow_start": 0.0,
+          "slow_end": 5.328979591836735
+        },
+        {
+          "text": "Na stole má seznam lidí, věcí a úkolů.",
+          "start": 4.963310657596372,
+          "end": 8.910702947845804,
+          "slow_start": 5.508979591836734,
+          "slow_end": 9.978820861678004
+        },
+        {
+          "text": "Každý řádek ukazuje jiný vztah.",
+          "start": 9.090702947845806,
+          "end": 12.387936507936509,
+          "slow_start": 10.158820861678004,
+          "slow_end": 13.897233560090703
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 13.897233560090703
+    },
+    {
+      "text": "Petr přinese stoly. Bez Petra by to bylo těžší, protože má velké auto. Jana mu proto ráno zavolá a poděkuje mu.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Petr přinese stoly.",
+        "Bez Petra by to bylo těžší, protože má velké auto.",
+        "Jana mu proto ráno zavolá a poděkuje mu."
+      ],
+      "start": 12.567936507936508,
+      "end": 22.74997732426304,
+      "sentences": [
+        {
+          "text": "Petr přinese stoly.",
+          "start": 12.567936507936508,
+          "end": 14.413922902494331,
+          "slow_start": 14.077233560090702,
+          "slow_end": 16.108979591836736
+        },
+        {
+          "text": "Bez Petra by to bylo těžší, protože má velké auto.",
+          "start": 14.59392290249433,
+          "end": 19.028934240362812,
+          "slow_start": 16.288979591836735,
+          "slow_end": 21.23482993197279
+        },
+        {
+          "text": "Jana mu proto ráno zavolá a poděkuje mu.",
+          "start": 19.20893424036281,
+          "end": 22.74997732426304,
+          "slow_start": 21.41482993197279,
+          "slow_end": 25.46671201814059
+        }
+      ],
+      "slow_start": 14.077233560090702,
+      "slow_end": 25.46671201814059
+    },
+    {
+      "text": "Vidí Petra před domem a říká: Petře, můžeš prosím přinést také dvě židle? Petr souhlasí a jde do sklepa.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Vidí Petra před domem a říká: Petře, můžeš prosím přinést také dvě židle?",
+        "Petr souhlasí a jde do sklepa."
+      ],
+      "start": 22.92997732426304,
+      "end": 32.38634920634921,
+      "sentences": [
+        {
+          "text": "Vidí Petra před domem a říká: Petře, můžeš prosím přinést také dvě židle?",
+          "start": 22.92997732426304,
+          "end": 29.489614512471654,
+          "slow_start": 25.64671201814059,
+          "slow_end": 32.96099773242631
+        },
+        {
+          "text": "Petr souhlasí a jde do sklepa.",
+          "start": 29.669614512471654,
+          "end": 32.38634920634921,
+          "slow_start": 33.14099773242631,
+          "slow_end": 36.29891156462585
+        }
+      ],
+      "slow_start": 25.64671201814059,
+      "slow_end": 36.29891156462585
+    },
+    {
+      "text": "Později Jana mluví o Petrovi s novou sousedkou. Vysvětluje, že společně připravují místo pro malé děti i dospělé.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Později Jana mluví o Petrovi s novou sousedkou.",
+        "Vysvětluje, že společně připravují místo pro malé děti i dospělé."
+      ],
+      "start": 32.56634920634921,
+      "end": 42.788979591836735,
+      "sentences": [
+        {
+          "text": "Později Jana mluví o Petrovi s novou sousedkou.",
+          "start": 32.56634920634921,
+          "end": 36.88526077097506,
+          "slow_start": 36.478911564625854,
+          "slow_end": 41.37832199546485
+        },
+        {
+          "text": "Vysvětluje, že společně připravují místo pro malé děti i dospělé.",
+          "start": 37.06526077097506,
+          "end": 42.788979591836735,
+          "slow_start": 41.55832199546485,
+          "slow_end": 47.804489795918364
+        }
+      ],
+      "slow_start": 36.478911564625854,
+      "slow_end": 47.804489795918364
+    },
+    {
+      "text": "Na stole bude voda, čaj a několik misek s ovocem. Dětem dá malé sklenice. Pro dospělé připraví větší hrnky.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Na stole bude voda, čaj a několik misek s ovocem.",
+        "Dětem dá malé sklenice.",
+        "Pro dospělé připraví větší hrnky."
+      ],
+      "start": 42.968979591836735,
+      "end": 52.53569160997733,
+      "sentences": [
+        {
+          "text": "Na stole bude voda, čaj a několik misek s ovocem.",
+          "start": 42.968979591836735,
+          "end": 47.171791383219954,
+          "slow_start": 47.984489795918364,
+          "slow_end": 52.73297052154195
+        },
+        {
+          "text": "Dětem dá malé sklenice.",
+          "start": 47.351791383219954,
+          "end": 49.546077097505666,
+          "slow_start": 52.91297052154195,
+          "slow_end": 55.3162358276644
+        },
+        {
+          "text": "Pro dospělé připraví větší hrnky.",
+          "start": 49.726077097505666,
+          "end": 52.53569160997733,
+          "slow_start": 55.4962358276644,
+          "slow_end": 58.642539682539685
+        }
+      ],
+      "slow_start": 47.984489795918364,
+      "slow_end": 58.642539682539685
+    },
+    {
+      "text": "Hosté přijdou do zahrady a budou sedět v zahradě pod stromem. Po setkání půjdou ze zahrady domů.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Hosté přijdou do zahrady a budou sedět v zahradě pod stromem.",
+        "Po setkání půjdou ze zahrady domů."
+      ],
+      "start": 52.71569160997733,
+      "end": 60.77886621315193,
+      "sentences": [
+        {
+          "text": "Hosté přijdou do zahrady a budou sedět v zahradě pod stromem.",
+          "start": 52.71569160997733,
+          "end": 57.76603174603174,
+          "slow_start": 58.822539682539684,
+          "slow_end": 64.33727891156462
+        },
+        {
+          "text": "Po setkání půjdou ze zahrady domů.",
+          "start": 57.94603174603174,
+          "end": 60.77886621315193,
+          "slow_start": 64.51727891156463,
+          "slow_end": 67.79129251700681
+        }
+      ],
+      "slow_start": 58.822539682539684,
+      "slow_end": 67.79129251700681
+    },
+    {
+      "text": "Jana si všímá, že slova mění tvar podle úlohy ve větě. Nejde o sedm různých lidí ani o sedm různých zahrad.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Jana si všímá, že slova mění tvar podle úlohy ve větě.",
+        "Nejde o sedm různých lidí ani o sedm různých zahrad."
+      ],
+      "start": 60.95886621315193,
+      "end": 70.76353741496598,
+      "sentences": [
+        {
+          "text": "Jana si všímá, že slova mění tvar podle úlohy ve větě.",
+          "start": 60.95886621315193,
+          "end": 65.82344671201814,
+          "slow_start": 67.9712925170068,
+          "slow_end": 73.50925170068027
+        },
+        {
+          "text": "Nejde o sedm různých lidí ani o sedm různých zahrad.",
+          "start": 66.00344671201815,
+          "end": 70.76353741496598,
+          "slow_start": 73.68925170068027,
+          "slow_end": 79.07628117913832
+        }
+      ],
+      "slow_start": 67.9712925170068,
+      "slow_end": 79.07628117913832
+    },
+    {
+      "text": "Když nezná správný tvar, nejdřív najde předložku nebo sloveso. Potom zkontroluje rod, číslo a vzor ve slovníku.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Když nezná správný tvar, nejdřív najde předložku nebo sloveso.",
+        "Potom zkontroluje rod, číslo a vzor ve slovníku."
+      ],
+      "start": 70.94353741496599,
+      "end": 80.94557823129252,
+      "sentences": [
+        {
+          "text": "Když nezná správný tvar, nejdřív najde předložku nebo sloveso.",
+          "start": 70.94353741496599,
+          "end": 76.4698866213152,
+          "slow_start": 79.25628117913833,
+          "slow_end": 85.36312925170068
+        },
+        {
+          "text": "Potom zkontroluje rod, číslo a vzor ve slovníku.",
+          "start": 76.64988662131519,
+          "end": 80.94557823129252,
+          "slow_start": 85.54312925170068,
+          "slow_end": 90.53541950113379
+        }
+      ],
+      "slow_start": 79.25628117913833,
+      "slow_end": 90.53541950113379
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "4a166a1a74150e4a7347c4877aae13b1895181ef6fb4d5202d6b6c440f834d46",
+    "slow": "73fc1d5fd4292df7adeb2c7e99694aac31982a7e951612bde54adc9e8ca89b29"
+  }
+}

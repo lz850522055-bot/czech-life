@@ -1,0 +1,1317 @@
+{
+  "id": "A2-U10-L01",
+  "level": "A2",
+  "unit_id": "A2-U10",
+  "order": 28,
+  "version": "2026.10.23.1",
+  "title_zh": "请帮我一下：命令、请求和条件",
+  "title_cs": "Prosby a podmínky",
+  "prerequisites": [
+    "A2-U09-L01"
+  ],
+  "can_do": [
+    "构造常见命令式",
+    "使用bych/bychom等条件式",
+    "区分现实条件和假设愿望"
+  ],
+  "scene": "协作与请求",
+  "skills": [
+    "listening",
+    "speaking",
+    "reading",
+    "writing",
+    "interaction",
+    "mediation"
+  ],
+  "knowledge_points": [
+    "imperative",
+    "conditional-basic"
+  ],
+  "intro_zh": "同样一件事，可以命令、请求或提出有条件的安排。根据关系和场景选择语气。",
+  "lesson_text": [
+    {
+      "id": "s01",
+      "cs": "Zítra připravujeme malé setkání v komunitním centru. Máme dost lidí, ale potřebujeme si jasně rozdělit práci.",
+      "zh": "明天我们在社区中心筹备聚会，人手足够，但要分清任务。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s02",
+      "cs": "Jana píše Petrovi: Přijď prosím v devět a přines prodlužovací kabel. Pokud ho nemáš, napiš mi ještě dnes.",
+      "zh": "雅娜写给彼得：请九点来，带延长线。如果没有，今天就告诉我。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s03",
+      "cs": "Novému dobrovolníkovi ale píše formálněji: Mohl byste přijít o půl hodiny dříve? Potřebovali bychom pomoct se stoly.",
+      "zh": "给新志愿者则更正式：您能提前半小时来吗？我们需要帮忙摆桌子。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s04",
+      "cs": "Petr odpovídá, že může přijít, ale nemůže nést těžké věci. Rád by pomohl s technikou nebo s registrací hostů.",
+      "zh": "彼得回复能来，但不能搬重物，愿意帮技术或登记。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s05",
+      "cs": "To je v pořádku. Zkontroluj prosím mikrofon a napiš jména na seznam. Krabice zatím neotvírej, nejdřív je spočítáme.",
+      "zh": "没问题，请检查麦克风，把名字写清单上。箱子暂时别开，我们先数。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s06",
+      "cs": "Kdybychom měli více času, připravili bychom také krátké promítání. Dnes ale nechceme přidávat další úkoly.",
+      "zh": "如果有更多时间，我们还会准备短片放映，但今天不再加任务。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s07",
+      "cs": "Jana nakonec shrne plán: Když přijde méně lidí, spojíme dvě skupiny. Pokud bude problém se zvukem, budeme pracovat bez mikrofonu.",
+      "zh": "雅娜最后概括：若来人较少就合并两组，若声音出问题就不用麦克风。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s08",
+      "cs": "Každý má vědět nejen co udělat, ale i komu říct, že něco nejde. Včasné odmítnutí je lepší než tichý souhlas bez výsledku.",
+      "zh": "每人不只要知道做什么，还要知道做不了时告诉谁。及时拒绝胜过无结果地默默同意。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "imperative",
+      "rule_zh": "熟人指令常短，礼貌多人/您常加-te，但词干不能全靠猜。",
+      "detail_zh": "dělat→dělej/dělejte/dělejme；prosit→pros/proste/prosme；psát→piš/pište/pišme；číst→čti/čtěte/čtěme；být→buď/buďte/buďme；přijít→přijď/přijďte。否定加ne-：neotvírej、nechoď。需要学高频命令形式。",
+      "examples": [
+        {
+          "cs": "Počkejte, prosím.",
+          "zh": "请稍等。",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        },
+        {
+          "cs": "Nepiš to sem.",
+          "zh": "别写这里。",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        }
+      ],
+      "pitfalls": [
+        "所有动词删-t就加-te，会造错词形。"
+      ],
+      "exceptions": [
+        "否定禁止时常用未完成体，不代表所有否定都机械换体。"
+      ],
+      "term": "命令式"
+    },
+    {
+      "id": "conditional-basic",
+      "rule_zh": "“如果有条件我会……”和“能否请您……”常共用条件式。",
+      "detail_zh": "条件式由-l形式与bych/bys/by/bychom/byste/by配合。保留主语时用中性语序：já bych mohl，ty bys mohl，on by mohl，my bychom mohli，vy byste mohli，oni by mohli；省略主语也可Mohl bych。女性单数Mohla bych；礼貌对单一男性Mohl byste，对单一女性Mohla byste；对多人再按群体用mohli/mohly byste。Kdybych měl čas, přišel bych。标准写法bychom、byste，不写by jsme/by jste。",
+      "examples": [
+        {
+          "cs": "Mohl byste pomoct?",
+          "zh": "您能帮忙吗？",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        },
+        {
+          "cs": "Kdybych měl čas, přišel bych.",
+          "zh": "如果有时间我会来。",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        }
+      ],
+      "pitfalls": [
+        "把byste拆成by jste。"
+      ],
+      "exceptions": [
+        "pokud/když可谈现实将来条件，kdyby标假设；选择反映说话者如何设定情境。"
+      ],
+      "term": "条件式"
+    }
+  ],
+  "vocabulary": [
+    {
+      "lemma": "přinést",
+      "pos": "动词，完成体",
+      "forms": "přinesu; přinesl; přines",
+      "meaning_zh": "带来",
+      "collocation": "přinést kabel",
+      "example_cs": "Přines prosím kabel.",
+      "example_zh": "请带线来。",
+      "confusion_zh": "nést过程，přinést到达。"
+    },
+    {
+      "lemma": "pomoct",
+      "pos": "动词，完成体",
+      "forms": "pomůžu; pomohl",
+      "meaning_zh": "帮一下",
+      "collocation": "pomoct se stoly",
+      "example_cs": "Můžete pomoct?",
+      "example_zh": "能帮忙吗？",
+      "confusion_zh": "pomoci是另一不定式。"
+    },
+    {
+      "lemma": "rozdělit",
+      "pos": "动词，完成体",
+      "forms": "rozdělím; rozdělil",
+      "meaning_zh": "分配；分开",
+      "collocation": "rozdělit práci",
+      "example_cs": "Rozdělíme práci.",
+      "example_zh": "我们分工。",
+      "confusion_zh": "不是删除任务。"
+    },
+    {
+      "lemma": "pokud",
+      "pos": "连词",
+      "forms": "不变",
+      "meaning_zh": "如果；只要",
+      "collocation": "pokud bude čas",
+      "example_cs": "Pokud bude čas, přijdu.",
+      "example_zh": "有时间我就来。",
+      "confusion_zh": "现实条件可用未来。"
+    },
+    {
+      "lemma": "kdyby",
+      "pos": "条件连词",
+      "forms": "kdybych; kdybys; kdybychom; kdybyste",
+      "meaning_zh": "假如",
+      "collocation": "kdybych měl čas",
+      "example_cs": "Kdybych měl čas, pomohl bych.",
+      "example_zh": "若有时间我会帮。",
+      "confusion_zh": "与když非完全同义。"
+    },
+    {
+      "lemma": "seznam",
+      "pos": "名词，阳性无生",
+      "forms": "seznamu; seznamy",
+      "meaning_zh": "清单",
+      "collocation": "seznam hostů",
+      "example_cs": "Napiš jméno na seznam.",
+      "example_zh": "把名字写清单上。",
+      "confusion_zh": "不是seznámit介绍。"
+    }
+  ],
+  "listening": {
+    "script": [
+      {
+        "cs": "Přijďte v deset. Pokud nemůžete přijít, pošlete zprávu. Mohli byste také přinést dvě židle?",
+        "zh": "请十点来，若不能来请发消息，还能带两把椅子吗？",
+        "note_zh": "先理解整句意图，再回看本课规律。"
+      }
+    ],
+    "focus_zh": "先不看文本听出任务关键信息；第二遍核对词形、数字与否定；最后对照中文。",
+    "source": "original"
+  },
+  "pronunciation": {
+    "focus_zh": "byste一个词组内连读，别插入第二个jste；přijď末尾不加元音。",
+    "contrast": [
+      {
+        "a": "byste",
+        "b": "jste",
+        "note_zh": "条件与陈述帮助词不同。"
+      }
+    ],
+    "task_zh": "同一请求分别录熟人命令与礼貌条件式。"
+  },
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "不能来时应做什么？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "发消息"
+        },
+        {
+          "id": "b",
+          "text": "不回应"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "pošlete zprávu。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "listening"
+      ],
+      "error_category": "comprehension",
+      "audio_text_cs": "Pokud nemůžete přijít, pošlete zprávu.",
+      "id": "A2-U10-L01-E01",
+      "knowledge_points": [
+        "imperative",
+        "conditional-basic"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "填我们条件式。",
+      "stimulus_cs": "Mohli ___ pomoct.（my）",
+      "answer": "bychom",
+      "accepted_answers": [
+        "bychom"
+      ],
+      "explanation_zh": "标准第一人称复数。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "A2-U10-L01-E02",
+      "knowledge_points": [
+        "imperative",
+        "conditional-basic"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "填psát的熟人命令式。",
+      "stimulus_cs": "___ mi, prosím.",
+      "answer": "Piš",
+      "accepted_answers": [
+        "Piš",
+        "piš"
+      ],
+      "explanation_zh": "psát→piš；完成写一条也可napiš，但本题指定psát。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "A2-U10-L01-E03",
+      "knowledge_points": [
+        "imperative",
+        "conditional-basic"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "对一位女性礼貌说“您能帮忙吗”应？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mohla byste pomoct?"
+        },
+        {
+          "id": "b",
+          "text": "Mohli byste pomoct?（指单一女性）"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "敬称vy但分词仍单数女性。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "A2-U10-L01-E04",
+      "knowledge_points": [
+        "imperative",
+        "conditional-basic"
+      ]
+    },
+    {
+      "type": "correct",
+      "prompt_zh": "改标准拼写。",
+      "stimulus_cs": "Mohl by jste přijít?",
+      "answer": "Mohl byste přijít?",
+      "accepted_answers": [
+        "Mohl byste přijít?"
+      ],
+      "explanation_zh": "byste连写。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "spelling",
+      "id": "A2-U10-L01-E05",
+      "knowledge_points": [
+        "imperative",
+        "conditional-basic"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt_zh": "排列“如果有时间我会来”（男性）。",
+      "stimulus_cs": "přišel bych. / Kdybych měl čas,",
+      "answer": "Kdybych měl čas, přišel bych.",
+      "accepted_answers": [
+        "Kdybych měl čas, přišel bych."
+      ],
+      "explanation_zh": "两个分句条件关系。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "word_order",
+      "options": [
+        "přišel bych.",
+        "Kdybych měl čas,"
+      ],
+      "id": "A2-U10-L01-E06",
+      "knowledge_points": [
+        "imperative",
+        "conditional-basic"
+      ]
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "请朋友带一件东西，再对陌生人礼貌说同一请求。",
+      "stimulus_cs": "",
+      "answer": "Přines kabel, prosím. Mohl byste přinést kabel?",
+      "accepted_answers": [],
+      "explanation_zh": "语域变化而任务不变。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A2-U10-L01-E07",
+      "knowledge_points": [
+        "imperative",
+        "conditional-basic"
+      ]
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "拒绝搬重物，但提出能帮登记。",
+      "stimulus_cs": "",
+      "answer": "Těžké věci nést nemůžu. Můžu ale pomoct s registrací.",
+      "accepted_answers": [],
+      "explanation_zh": "给可执行替代。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A2-U10-L01-E08",
+      "knowledge_points": [
+        "imperative",
+        "conditional-basic"
+      ]
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "写一条有现实条件的安排和一条假设愿望。",
+      "stimulus_cs": "",
+      "answer": "Pokud bude čas, přijdu. Kdybych měl více času, pomohl bych déle.",
+      "accepted_answers": [],
+      "explanation_zh": "不把两个条件都说成已发生。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A2-U10-L01-E09",
+      "knowledge_points": [
+        "imperative",
+        "conditional-basic"
+      ]
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "转告听力中的到场时刻、缺席处理和附加请求。",
+      "stimulus_cs": "",
+      "answer": "十点来；来不了发消息；还请求带两把椅子。",
+      "accepted_answers": [],
+      "explanation_zh": "请求不当成已承诺。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A2-U10-L01-E10",
+      "knowledge_points": [
+        "imperative",
+        "conditional-basic"
+      ]
+    }
+  ],
+  "transfer_task": {
+    "prompt_zh": "别人要求太多时，明确能做的范围，并把其余改成条件安排。",
+    "model_answer_cs": "Můžu připravit seznam. Kdyby mi někdo pomohl, připravili bychom i sál.",
+    "rubric": [
+      "任务信息完整",
+      "用目标规律表达",
+      "独立完成并回听/回看"
+    ]
+  },
+  "review_links": [
+    "A2-U09-L01"
+  ],
+  "sources": [
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?id=575",
+      "scope": "本课涉及的声音/词形/语法规则；编排与例句为原创",
+      "verification": "官方来源用于相关规则交叉核查；具体查核范围见content/sources/foundation-verification.md；本课例句为原创，未逐句母语审校。"
+    }
+  ],
+  "content_status": "authored_crosschecked_not_native_reviewed",
+  "quality_notes": [
+    "课程及题目原创；自动检查结构、唯一ID与答案。",
+    "已对照所列官方发音、数词、条件式、物主词等章节核查相应规则；其余内容做内部语言一致性复核，未逐句外部审校。",
+    "CEFR级别为教学编排，不构成官方达标或考试认证。"
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "A2-U10-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--normal.mp3",
+      "slow_file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U10-L01--2026.10.23.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Zítra připravujeme malé setkání v komunitním centru. Máme dost lidí, ale potřebujeme si jasně rozdělit práci. Jana píše Petrovi: Přijď prosím v devět a přines prodlužovací kabel. Pokud ho nemáš, napiš mi ještě dnes. Novému dobrovolníkovi ale píše formálněji: Mohl byste přijít o půl hodiny dříve? Potřebovali bychom pomoct se stoly. Petr odpovídá, že může přijít, ale nemůže nést těžké věci. Rád by pomohl s technikou nebo s registrací hostů. To je v pořádku. Zkontroluj prosím mikrofon a napiš jména na seznam. Krabice zatím neotvírej, nejdřív je spočítáme. Kdybychom měli více času, připravili bychom také krátké promítání. Dnes ale nechceme přidávat další úkoly. Jana nakonec shrne plán: Když přijde méně lidí, spojíme dvě skupiny. Pokud bude problém se zvukem, budeme pracovat bez mikrofonu. Každý má vědět nejen co udělat, ale i komu říct, že něco nejde. Včasné odmítnutí je lepší než tichý souhlas bez výsledku.",
+      "duration_seconds": 83.76095238095238,
+      "slow_duration_seconds": 94.10544217687075,
+      "sha256": "30e9a084d93230e8aca52ae65500cd0d4aa28c12bb5752c5ee5533cf565be0c1",
+      "slow_sha256": "5e9091cb559d89ac1330e1eaa397f4523cf1144e1235c0971bfdc90543473773"
+    },
+    {
+      "lesson_id": "A2-U10-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--normal.mp3",
+      "slow_file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U10-L01--2026.10.23.1--text--p0",
+      "asset_id": "A2-U10-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Zítra připravujeme malé setkání v komunitním centru. Máme dost lidí, ale potřebujeme si jasně rozdělit práci.",
+      "start": 0,
+      "end": 10.048480725623582,
+      "slow_start": 0,
+      "slow_end": 10.965668934240362
+    },
+    {
+      "lesson_id": "A2-U10-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--normal.mp3",
+      "slow_file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U10-L01--2026.10.23.1--text--s0",
+      "asset_id": "A2-U10-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Zítra připravujeme malé setkání v komunitním centru.",
+      "start": 0,
+      "end": 4.620770975056689,
+      "slow_start": 0,
+      "slow_end": 5.038730158730159
+    },
+    {
+      "lesson_id": "A2-U10-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--normal.mp3",
+      "slow_file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U10-L01--2026.10.23.1--text--s1",
+      "asset_id": "A2-U10-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Máme dost lidí, ale potřebujeme si jasně rozdělit práci.",
+      "start": 4.80077097505669,
+      "end": 10.048480725623582,
+      "slow_start": 5.218730158730159,
+      "slow_end": 10.965668934240362
+    },
+    {
+      "lesson_id": "A2-U10-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--normal.mp3",
+      "slow_file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U10-L01--2026.10.23.1--text--p1",
+      "asset_id": "A2-U10-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Jana píše Petrovi: Přijď prosím v devět a přines prodlužovací kabel. Pokud ho nemáš, napiš mi ještě dnes.",
+      "start": 10.228480725623582,
+      "end": 19.812562358276644,
+      "slow_start": 11.145668934240362,
+      "slow_end": 21.925578231292516
+    },
+    {
+      "lesson_id": "A2-U10-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--normal.mp3",
+      "slow_file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U10-L01--2026.10.23.1--text--s2",
+      "asset_id": "A2-U10-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 1,
+      "sentence_index": 0,
+      "text": "Jana píše Petrovi: Přijď prosím v devět a přines prodlužovací kabel.",
+      "start": 10.228480725623582,
+      "end": 16.509478458049887,
+      "slow_start": 11.145668934240362,
+      "slow_end": 18.13487528344671
+    },
+    {
+      "lesson_id": "A2-U10-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--normal.mp3",
+      "slow_file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U10-L01--2026.10.23.1--text--s3",
+      "asset_id": "A2-U10-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 3,
+      "paragraph_index": 1,
+      "sentence_index": 1,
+      "text": "Pokud ho nemáš, napiš mi ještě dnes.",
+      "start": 16.689478458049887,
+      "end": 19.812562358276644,
+      "slow_start": 18.31487528344671,
+      "slow_end": 21.925578231292516
+    },
+    {
+      "lesson_id": "A2-U10-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--normal.mp3",
+      "slow_file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U10-L01--2026.10.23.1--text--p2",
+      "asset_id": "A2-U10-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Novému dobrovolníkovi ale píše formálněji: Mohl byste přijít o půl hodiny dříve? Potřebovali bychom pomoct se stoly.",
+      "start": 19.992562358276643,
+      "end": 30.447392290249432,
+      "slow_start": 22.105578231292515,
+      "slow_end": 33.82589569160998
+    },
+    {
+      "lesson_id": "A2-U10-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--normal.mp3",
+      "slow_file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U10-L01--2026.10.23.1--text--s4",
+      "asset_id": "A2-U10-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 4,
+      "paragraph_index": 2,
+      "sentence_index": 0,
+      "text": "Novému dobrovolníkovi ale píše formálněji: Mohl byste přijít o půl hodiny dříve?",
+      "start": 19.992562358276643,
+      "end": 27.295238095238094,
+      "slow_start": 22.105578231292515,
+      "slow_end": 30.267392290249433
+    },
+    {
+      "lesson_id": "A2-U10-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--normal.mp3",
+      "slow_file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U10-L01--2026.10.23.1--text--s5",
+      "asset_id": "A2-U10-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 5,
+      "paragraph_index": 2,
+      "sentence_index": 1,
+      "text": "Potřebovali bychom pomoct se stoly.",
+      "start": 27.475238095238094,
+      "end": 30.447392290249432,
+      "slow_start": 30.447392290249432,
+      "slow_end": 33.82589569160998
+    },
+    {
+      "lesson_id": "A2-U10-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--normal.mp3",
+      "slow_file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U10-L01--2026.10.23.1--text--p3",
+      "asset_id": "A2-U10-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Petr odpovídá, že může přijít, ale nemůže nést těžké věci. Rád by pomohl s technikou nebo s registrací hostů.",
+      "start": 30.627392290249432,
+      "end": 40.617823129251704,
+      "slow_start": 34.00589569160998,
+      "slow_end": 45.3314739229025
+    },
+    {
+      "lesson_id": "A2-U10-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--normal.mp3",
+      "slow_file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U10-L01--2026.10.23.1--text--s6",
+      "asset_id": "A2-U10-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 6,
+      "paragraph_index": 3,
+      "sentence_index": 0,
+      "text": "Petr odpovídá, že může přijít, ale nemůže nést těžké věci.",
+      "start": 30.627392290249432,
+      "end": 36.31628117913832,
+      "slow_start": 34.00589569160998,
+      "slow_end": 40.3449433106576
+    },
+    {
+      "lesson_id": "A2-U10-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--normal.mp3",
+      "slow_file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U10-L01--2026.10.23.1--text--s7",
+      "asset_id": "A2-U10-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 7,
+      "paragraph_index": 3,
+      "sentence_index": 1,
+      "text": "Rád by pomohl s technikou nebo s registrací hostů.",
+      "start": 36.49628117913832,
+      "end": 40.617823129251704,
+      "slow_start": 40.5249433106576,
+      "slow_end": 45.3314739229025
+    },
+    {
+      "lesson_id": "A2-U10-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--normal.mp3",
+      "slow_file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U10-L01--2026.10.23.1--text--p4",
+      "asset_id": "A2-U10-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 4,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "To je v pořádku. Zkontroluj prosím mikrofon a napiš jména na seznam. Krabice zatím neotvírej, nejdřív je spočítáme.",
+      "start": 40.797823129251704,
+      "end": 51.3978231292517,
+      "slow_start": 45.511473922902496,
+      "slow_end": 57.57433106575964
+    },
+    {
+      "lesson_id": "A2-U10-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--normal.mp3",
+      "slow_file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U10-L01--2026.10.23.1--text--s8",
+      "asset_id": "A2-U10-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 8,
+      "paragraph_index": 4,
+      "sentence_index": 0,
+      "text": "To je v pořádku.",
+      "start": 40.797823129251704,
+      "end": 42.26068027210884,
+      "slow_start": 45.511473922902496,
+      "slow_end": 47.22975056689342
+    },
+    {
+      "lesson_id": "A2-U10-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--normal.mp3",
+      "slow_file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U10-L01--2026.10.23.1--text--s9",
+      "asset_id": "A2-U10-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 9,
+      "paragraph_index": 4,
+      "sentence_index": 1,
+      "text": "Zkontroluj prosím mikrofon a napiš jména na seznam.",
+      "start": 42.44068027210884,
+      "end": 47.258820861678004,
+      "slow_start": 47.40975056689342,
+      "slow_end": 53.040589569161
+    },
+    {
+      "lesson_id": "A2-U10-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--normal.mp3",
+      "slow_file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U10-L01--2026.10.23.1--text--s10",
+      "asset_id": "A2-U10-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 10,
+      "paragraph_index": 4,
+      "sentence_index": 2,
+      "text": "Krabice zatím neotvírej, nejdřív je spočítáme.",
+      "start": 47.438820861678,
+      "end": 51.3978231292517,
+      "slow_start": 53.220589569161,
+      "slow_end": 57.57433106575964
+    },
+    {
+      "lesson_id": "A2-U10-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--normal.mp3",
+      "slow_file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U10-L01--2026.10.23.1--text--p5",
+      "asset_id": "A2-U10-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 5,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Kdybychom měli více času, připravili bychom také krátké promítání. Dnes ale nechceme přidávat další úkoly.",
+      "start": 51.5778231292517,
+      "end": 61.41732426303855,
+      "slow_start": 57.75433106575964,
+      "slow_end": 68.87092970521542
+    },
+    {
+      "lesson_id": "A2-U10-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--normal.mp3",
+      "slow_file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U10-L01--2026.10.23.1--text--s11",
+      "asset_id": "A2-U10-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 11,
+      "paragraph_index": 5,
+      "sentence_index": 0,
+      "text": "Kdybychom měli více času, připravili bychom také krátké promítání.",
+      "start": 51.5778231292517,
+      "end": 57.66145124716553,
+      "slow_start": 57.75433106575964,
+      "slow_end": 64.61582766439909
+    },
+    {
+      "lesson_id": "A2-U10-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--normal.mp3",
+      "slow_file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U10-L01--2026.10.23.1--text--s12",
+      "asset_id": "A2-U10-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 12,
+      "paragraph_index": 5,
+      "sentence_index": 1,
+      "text": "Dnes ale nechceme přidávat další úkoly.",
+      "start": 57.84145124716553,
+      "end": 61.41732426303855,
+      "slow_start": 64.7958276643991,
+      "slow_end": 68.87092970521542
+    },
+    {
+      "lesson_id": "A2-U10-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--normal.mp3",
+      "slow_file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U10-L01--2026.10.23.1--text--p6",
+      "asset_id": "A2-U10-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 6,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Jana nakonec shrne plán: Když přijde méně lidí, spojíme dvě skupiny. Pokud bude problém se zvukem, budeme pracovat bez mikrofonu.",
+      "start": 61.59732426303855,
+      "end": 72.93451247165532,
+      "slow_start": 69.05092970521542,
+      "slow_end": 81.8625850340136
+    },
+    {
+      "lesson_id": "A2-U10-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--normal.mp3",
+      "slow_file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U10-L01--2026.10.23.1--text--s13",
+      "asset_id": "A2-U10-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 13,
+      "paragraph_index": 6,
+      "sentence_index": 0,
+      "text": "Jana nakonec shrne plán: Když přijde méně lidí, spojíme dvě skupiny.",
+      "start": 61.59732426303855,
+      "end": 67.53002267573696,
+      "slow_start": 69.05092970521542,
+      "slow_end": 75.8079365079365
+    },
+    {
+      "lesson_id": "A2-U10-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--normal.mp3",
+      "slow_file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U10-L01--2026.10.23.1--text--s14",
+      "asset_id": "A2-U10-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 14,
+      "paragraph_index": 6,
+      "sentence_index": 1,
+      "text": "Pokud bude problém se zvukem, budeme pracovat bez mikrofonu.",
+      "start": 67.71002267573697,
+      "end": 72.93451247165532,
+      "slow_start": 75.98793650793651,
+      "slow_end": 81.8625850340136
+    },
+    {
+      "lesson_id": "A2-U10-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--normal.mp3",
+      "slow_file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U10-L01--2026.10.23.1--text--p7",
+      "asset_id": "A2-U10-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 7,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Každý má vědět nejen co udělat, ale i komu říct, že něco nejde. Včasné odmítnutí je lepší než tichý souhlas bez výsledku.",
+      "start": 73.11451247165533,
+      "end": 83.58095238095238,
+      "slow_start": 82.04258503401361,
+      "slow_end": 93.92544217687075
+    },
+    {
+      "lesson_id": "A2-U10-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--normal.mp3",
+      "slow_file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U10-L01--2026.10.23.1--text--s15",
+      "asset_id": "A2-U10-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 15,
+      "paragraph_index": 7,
+      "sentence_index": 0,
+      "text": "Každý má vědět nejen co udělat, ale i komu říct, že něco nejde.",
+      "start": 73.11451247165533,
+      "end": 78.81501133786848,
+      "slow_start": 82.04258503401361,
+      "slow_end": 88.55578231292517
+    },
+    {
+      "lesson_id": "A2-U10-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--normal.mp3",
+      "slow_file": "audio/files/A2-U10-L01--2026.10.22.1--text--3d3287498e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U10-L01--2026.10.23.1--text--s16",
+      "asset_id": "A2-U10-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 16,
+      "paragraph_index": 7,
+      "sentence_index": 1,
+      "text": "Včasné odmítnutí je lepší než tichý souhlas bez výsledku.",
+      "start": 78.99501133786848,
+      "end": 83.58095238095238,
+      "slow_start": 88.73578231292517,
+      "slow_end": 93.92544217687075
+    },
+    {
+      "lesson_id": "A2-U10-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U10-L01--2026.10.22.1--listening--3651e3269e--normal.mp3",
+      "slow_file": "audio/files/A2-U10-L01--2026.10.22.1--listening--3651e3269e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U10-L01--2026.10.23.1--listening",
+      "role": "listening-full",
+      "index": 0,
+      "text": "Přijďte v deset. Pokud nemůžete přijít, pošlete zprávu. Mohli byste také přinést dvě židle?",
+      "duration_seconds": 8.214195011337868,
+      "slow_duration_seconds": 9.189433106575963,
+      "sha256": "fd88b15312d390204f09b83527e3e134275a085cc5adc9822a20ffd3532068ac",
+      "slow_sha256": "9996ec40fffe9cec8f822c5f25245bfed5c41a9f755c1bc89aa288f4e8d621fd"
+    },
+    {
+      "lesson_id": "A2-U10-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U10-L01--2026.10.22.1--listening--3651e3269e--normal.mp3",
+      "slow_file": "audio/files/A2-U10-L01--2026.10.22.1--listening--3651e3269e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U10-L01--2026.10.23.1--listening--p0",
+      "asset_id": "A2-U10-L01--2026.10.23.1--listening",
+      "role": "listening",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Přijďte v deset. Pokud nemůžete přijít, pošlete zprávu. Mohli byste také přinést dvě židle?",
+      "start": 0,
+      "end": 8.034195011337868,
+      "slow_start": 0,
+      "slow_end": 9.009433106575964
+    },
+    {
+      "lesson_id": "A2-U10-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U10-L01--2026.10.22.1--vocabulary--01e58dcff8--normal.mp3",
+      "slow_file": "audio/files/A2-U10-L01--2026.10.22.1--vocabulary--01e58dcff8--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U10-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary-full",
+      "index": 0,
+      "text": "Přines prosím kabel. Můžete pomoct? Rozdělíme práci. Pokud bude čas, přijdu. Kdybych měl čas, pomohl bych. Napiš jméno na seznam.",
+      "duration_seconds": 13.235646258503401,
+      "slow_duration_seconds": 15.011972789115646,
+      "sha256": "3910b319ebb2367159874d54a9a920bdaa509849c3c3d490a34d79f858048ac2",
+      "slow_sha256": "3264041eb4b362892cd9454f335587b120ae7d95be313d3df464dbb05b0bc85a"
+    },
+    {
+      "lesson_id": "A2-U10-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U10-L01--2026.10.22.1--vocabulary--01e58dcff8--normal.mp3",
+      "slow_file": "audio/files/A2-U10-L01--2026.10.22.1--vocabulary--01e58dcff8--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U10-L01--2026.10.23.1--vocabulary--p0",
+      "asset_id": "A2-U10-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Přines prosím kabel.",
+      "start": 0,
+      "end": 2.020136054421769,
+      "slow_start": 0,
+      "slow_end": 2.2291156462585033
+    },
+    {
+      "lesson_id": "A2-U10-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U10-L01--2026.10.22.1--vocabulary--01e58dcff8--normal.mp3",
+      "slow_file": "audio/files/A2-U10-L01--2026.10.22.1--vocabulary--01e58dcff8--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U10-L01--2026.10.23.1--vocabulary--p1",
+      "asset_id": "A2-U10-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Můžete pomoct?",
+      "start": 2.2001360544217685,
+      "end": 3.755873015873016,
+      "slow_start": 2.4091156462585035,
+      "slow_end": 4.150612244897959
+    },
+    {
+      "lesson_id": "A2-U10-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U10-L01--2026.10.22.1--vocabulary--01e58dcff8--normal.mp3",
+      "slow_file": "audio/files/A2-U10-L01--2026.10.22.1--vocabulary--01e58dcff8--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U10-L01--2026.10.23.1--vocabulary--p2",
+      "asset_id": "A2-U10-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Rozdělíme práci.",
+      "start": 3.9358730158730157,
+      "end": 5.654149659863946,
+      "slow_start": 4.330612244897959,
+      "slow_end": 6.362358276643991
+    },
+    {
+      "lesson_id": "A2-U10-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U10-L01--2026.10.22.1--vocabulary--01e58dcff8--normal.mp3",
+      "slow_file": "audio/files/A2-U10-L01--2026.10.22.1--vocabulary--01e58dcff8--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U10-L01--2026.10.23.1--vocabulary--p3",
+      "asset_id": "A2-U10-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Pokud bude čas, přijdu.",
+      "start": 5.834149659863946,
+      "end": 7.877505668934241,
+      "slow_start": 6.5423582766439905,
+      "slow_end": 8.91079365079365
+    },
+    {
+      "lesson_id": "A2-U10-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U10-L01--2026.10.22.1--vocabulary--01e58dcff8--normal.mp3",
+      "slow_file": "audio/files/A2-U10-L01--2026.10.22.1--vocabulary--01e58dcff8--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U10-L01--2026.10.23.1--vocabulary--p4",
+      "asset_id": "A2-U10-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 4,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Kdybych měl čas, pomohl bych.",
+      "start": 8.05750566893424,
+      "end": 10.84390022675737,
+      "slow_start": 9.090793650793652,
+      "slow_end": 12.364807256235828
+    },
+    {
+      "lesson_id": "A2-U10-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U10-L01--2026.10.22.1--vocabulary--01e58dcff8--normal.mp3",
+      "slow_file": "audio/files/A2-U10-L01--2026.10.22.1--vocabulary--01e58dcff8--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U10-L01--2026.10.23.1--vocabulary--p5",
+      "asset_id": "A2-U10-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 5,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Napiš jméno na seznam.",
+      "start": 11.02390022675737,
+      "end": 13.055646258503401,
+      "slow_start": 12.544807256235828,
+      "slow_end": 14.831972789115646
+    },
+    {
+      "lesson_id": "A2-U10-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U10-L01--2026.10.22.1--exercises--1757f42b25--normal.mp3",
+      "slow_file": "audio/files/A2-U10-L01--2026.10.22.1--exercises--1757f42b25--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U10-L01--2026.10.23.1--exercises",
+      "role": "exercises-full",
+      "index": 0,
+      "text": "Pokud nemůžete přijít, pošlete zprávu.",
+      "duration_seconds": 3.7210430839002266,
+      "slow_duration_seconds": 4.185442176870748,
+      "sha256": "9b3e91c32f3669d7ecadca1cd7c9708beac1e6f0e693353cbb725bf93d74250a",
+      "slow_sha256": "8f47a991d5ec8622d249be388cd56b921ae622f99b1fe373520afe0a9d1dee4f"
+    },
+    {
+      "lesson_id": "A2-U10-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U10-L01--2026.10.22.1--exercises--1757f42b25--normal.mp3",
+      "slow_file": "audio/files/A2-U10-L01--2026.10.22.1--exercises--1757f42b25--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U10-L01--2026.10.23.1--exercises--p0",
+      "asset_id": "A2-U10-L01--2026.10.23.1--exercises",
+      "role": "exercise",
+      "index": 0,
+      "exercise_id": "A2-U10-L01-E01",
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Pokud nemůžete přijít, pošlete zprávu.",
+      "start": 0,
+      "end": 3.541043083900227,
+      "slow_start": 0,
+      "slow_end": 4.005442176870749
+    },
+    {
+      "lesson_id": "A2-U10-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U10-L01--2026.10.22.1--contrasts--95aea145f3--normal.mp3",
+      "slow_file": "audio/files/A2-U10-L01--2026.10.22.1--contrasts--95aea145f3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U10-L01--2026.10.23.1--contrasts",
+      "role": "contrasts-full",
+      "index": 0,
+      "text": "byste. jste.",
+      "duration_seconds": 1.3293877551020408,
+      "slow_duration_seconds": 1.4687074829931972,
+      "sha256": "a4c5cf42a30b6b8fcf8bc03d4265348bc096a36f3c9b362763b1f79a8065cfc3",
+      "slow_sha256": "8ffa1a9e5303d0fb8822c99013bc447098568d6473867fe3f233603763c1261c"
+    },
+    {
+      "lesson_id": "A2-U10-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U10-L01--2026.10.22.1--contrasts--95aea145f3--normal.mp3",
+      "slow_file": "audio/files/A2-U10-L01--2026.10.22.1--contrasts--95aea145f3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U10-L01--2026.10.23.1--contrasts--p0",
+      "asset_id": "A2-U10-L01--2026.10.23.1--contrasts",
+      "role": "contrast",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "byste. jste.",
+      "start": 0,
+      "end": 1.1493877551020408,
+      "slow_start": 0,
+      "slow_end": 1.2887074829931973
+    }
+  ]
+}

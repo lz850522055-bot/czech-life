@@ -1,0 +1,1349 @@
+{
+  "id": "A1-U07-L01",
+  "level": "A1",
+  "unit_id": "A1-U07",
+  "order": 13,
+  "version": "2026.10.23.1",
+  "title_zh": "谈家人和工作，不只会报名字",
+  "title_cs": "Rodina, práce a zájmy",
+  "prerequisites": [
+    "A1-U06-L01"
+  ],
+  "can_do": [
+    "介绍家庭关系",
+    "区分喜欢东西与喜欢做事",
+    "使用基本所有格词"
+  ],
+  "scene": "家庭与兴趣",
+  "skills": [
+    "listening",
+    "speaking",
+    "reading",
+    "writing",
+    "interaction",
+    "mediation"
+  ],
+  "knowledge_points": [
+    "possessive-basic",
+    "likes-rad"
+  ],
+  "intro_zh": "和邻居聊自己的生活，能说关系、工作和爱好；真实情况由你填写，不把教学人物当成你的履历。",
+  "lesson_text": [
+    {
+      "id": "s01",
+      "cs": "To je moje rodina. Na fotografii je moje sestra, její manžel a jejich dcera.",
+      "zh": "这是我的家人。照片上是我姐姐、她丈夫和他们的女儿。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s02",
+      "cs": "Sestra se jmenuje Lin. Pracuje v obchodě a má ráda svou práci.",
+      "zh": "姐姐叫琳，她在商店工作，喜欢自己的工作。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s03",
+      "cs": "Její manžel je kuchař. Rád vaří, ale doma někdy vaří i sestra.",
+      "zh": "她丈夫是厨师，喜欢做饭，不过家里有时也由姐姐做饭。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s04",
+      "cs": "Jejich dcera chodí do školy. Ráda čte a kreslí.",
+      "zh": "他们的女儿上学，喜欢阅读和画画。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s05",
+      "cs": "Já bydlím sám. Ve volném čase rád chodím ven a poslouchám hudbu.",
+      "zh": "我一个人住，空闲时喜欢出门、听音乐。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s06",
+      "cs": "Můj kamarád Pavel má rád sport. Každou sobotu hraje fotbal.",
+      "zh": "我的朋友帕维尔喜欢运动，每周六踢足球。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s07",
+      "cs": "Nemám moc času na sport, ale rád se s ním procházím.",
+      "zh": "我运动时间不多，但喜欢和他一起散步。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s08",
+      "cs": "A co vy? Máte sourozence? Co rád děláte o víkendu?",
+      "zh": "您呢？有兄弟姐妹吗？周末喜欢做什么？",
+      "note_zh": "这里礼貌询问一位男性；询问一位女性用Co ráda děláte o víkendu?，询问多人可用rádi（含男性有生）或rády（全女性）。敬称的动词děláte用复数，rád/ráda仍与被称呼的一人一致。"
+    },
+    {
+      "id": "s09",
+      "cs": "O osobních věcech mluvíme jen tehdy, když chceme.",
+      "zh": "私人事情只有我们愿意时才聊。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "possessive-basic",
+      "rule_zh": "“我的”跟被拥有的东西配合，不跟拥有者的性别配合。",
+      "detail_zh": "můj bratr、moje sestra、moje dítě；tvůj/tvoje同理。náš byt、naše rodina；váš telefon、vaše práce。jeho（他的）和jejich（他们的）不随被拥有物这样变；její（她的）有自己的变化。",
+      "examples": [
+        {
+          "cs": "můj telefon",
+          "zh": "我的电话",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        },
+        {
+          "cs": "moje kniha",
+          "zh": "我的书",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        }
+      ],
+      "pitfalls": [
+        "因为说话者是男性就所有东西都配můj。"
+      ],
+      "exceptions": [
+        "svůj表示句子主语自己的，A2系统展开，不能总用můj替代。"
+      ],
+      "term": "物主词入门"
+    },
+    {
+      "id": "likes-rad",
+      "rule_zh": "喜欢物品用mít rád，喜欢做某事用rád加动作。",
+      "detail_zh": "男性说Mám rád čaj、Rád vařím；女性说Mám ráda čaj、Ráda vařím。复数含男性有生常rádi，全女性rády。Rád čtu不用再加mám。",
+      "examples": [
+        {
+          "cs": "Mám rád hudbu.",
+          "zh": "我喜欢音乐（男性说）。",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        },
+        {
+          "cs": "Ráda čtu.",
+          "zh": "我喜欢阅读（女性说）。",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        }
+      ],
+      "pitfalls": [
+        "说Mám rád čtu会把两种结构混起来。"
+      ],
+      "exceptions": [
+        "rád表达喜好或乐意，不等于恋爱中的爱。"
+      ],
+      "term": "喜好表达"
+    }
+  ],
+  "vocabulary": [
+    {
+      "lemma": "rodina",
+      "pos": "名词，阴性",
+      "forms": "rodiny; rodiny",
+      "meaning_zh": "家庭",
+      "collocation": "moje rodina",
+      "example_cs": "Moje rodina je velká.",
+      "example_zh": "我的家庭很大。",
+      "confusion_zh": "区别家庭成员与房屋。"
+    },
+    {
+      "lemma": "sourozenec",
+      "pos": "名词，阳性有生",
+      "forms": "sourozence; sourozenci",
+      "meaning_zh": "兄弟姐妹中的一人",
+      "collocation": "mít sourozence",
+      "example_cs": "Mám dva sourozence.",
+      "example_zh": "我有两个兄弟姐妹。",
+      "confusion_zh": "不必区分兄或姐。"
+    },
+    {
+      "lemma": "sestra",
+      "pos": "名词，阴性",
+      "forms": "sestry; sestry",
+      "meaning_zh": "姐妹；护士",
+      "collocation": "moje sestra",
+      "example_cs": "To je moje sestra.",
+      "example_zh": "这是我的姐姐/妹妹。",
+      "confusion_zh": "年龄关系靠上下文。"
+    },
+    {
+      "lemma": "bratr",
+      "pos": "名词，阳性有生",
+      "forms": "bratra; bratři",
+      "meaning_zh": "兄弟",
+      "collocation": "můj bratr",
+      "example_cs": "Můj bratr čte.",
+      "example_zh": "我的兄弟在读书。",
+      "confusion_zh": "复数bratři。"
+    },
+    {
+      "lemma": "kuchař",
+      "pos": "名词，阳性有生",
+      "forms": "kuchaře; kuchaři",
+      "meaning_zh": "厨师",
+      "collocation": "dobrý kuchař",
+      "example_cs": "Petr je kuchař.",
+      "example_zh": "彼得是厨师。",
+      "confusion_zh": "职业阴性kuchařka。"
+    },
+    {
+      "lemma": "volný čas",
+      "pos": "名词短语，阳性无生",
+      "forms": "volného času",
+      "meaning_zh": "空闲时间",
+      "collocation": "ve volném čase",
+      "example_cs": "Ve volném čase čtu.",
+      "example_zh": "空闲时我读书。",
+      "confusion_zh": "不是所有时间都叫volno。"
+    }
+  ],
+  "listening": {
+    "script": [
+      {
+        "cs": "Eva má jednu sestru. Její sestra je učitelka. Eva ráda běhá, ale její sestra raději čte.",
+        "zh": "伊娃有一个姐妹，她姐妹是老师。伊娃喜欢跑步，姐妹更喜欢阅读。",
+        "note_zh": "先理解整句意图，再回看本课规律。"
+      }
+    ],
+    "focus_zh": "先不看文本听出任务关键信息；第二遍核对词形、数字与否定；最后对照中文。",
+    "source": "original"
+  },
+  "pronunciation": {
+    "focus_zh": "jeho、její、jejich字形相似，结尾要完整。rád与ráda音节数不同。",
+    "contrast": [
+      {
+        "a": "jeho",
+        "b": "její",
+        "note_zh": "他的与她的，不能只听到je就猜。"
+      }
+    ],
+    "task_zh": "录自己真实愿意分享的两条信息，不强求谈隐私。"
+  },
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "谁更喜欢阅读？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "Eva"
+        },
+        {
+          "id": "b",
+          "text": "Eva的姐妹"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "její sestra raději čte。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "listening"
+      ],
+      "error_category": "comprehension",
+      "audio_text_cs": "Eva ráda běhá, ale její sestra raději čte.",
+      "id": "A1-U07-L01-E01",
+      "knowledge_points": [
+        "possessive-basic",
+        "likes-rad"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "填“我的姐姐”。",
+      "stimulus_cs": "___ sestra",
+      "answer": "moje",
+      "accepted_answers": [
+        "moje",
+        "má"
+      ],
+      "explanation_zh": "跟阴性sestra配；moje和má都正确。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "A1-U07-L01-E02",
+      "knowledge_points": [
+        "possessive-basic",
+        "likes-rad"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "女性说“我喜欢做饭”。",
+      "stimulus_cs": "___ vařím.",
+      "answer": "Ráda",
+      "accepted_answers": [
+        "Ráda",
+        "ráda"
+      ],
+      "explanation_zh": "女性用ráda。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "A1-U07-L01-E03",
+      "knowledge_points": [
+        "possessive-basic",
+        "likes-rad"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "哪句正确？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mám rád čtu."
+        },
+        {
+          "id": "b",
+          "text": "Rád čtu."
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "喜欢动作直接rád+动词。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "A1-U07-L01-E04",
+      "knowledge_points": [
+        "possessive-basic",
+        "likes-rad"
+      ]
+    },
+    {
+      "type": "correct",
+      "prompt_zh": "改正物主词。",
+      "stimulus_cs": "Můj kniha je tady.",
+      "answer": "Moje kniha je tady.",
+      "accepted_answers": [
+        "Moje kniha je tady.",
+        "Má kniha je tady."
+      ],
+      "explanation_zh": "kniha是阴性；moje和má都可以与它一致。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "A1-U07-L01-E05",
+      "knowledge_points": [
+        "possessive-basic",
+        "likes-rad"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt_zh": "排列“我喜欢音乐”（男性）。",
+      "stimulus_cs": "hudbu. / Mám / rád",
+      "answer": "Mám rád hudbu.",
+      "accepted_answers": [
+        "Mám rád hudbu."
+      ],
+      "explanation_zh": "喜欢名词用mít rád。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "word_order",
+      "options": [
+        "hudbu.",
+        "Mám",
+        "rád"
+      ],
+      "id": "A1-U07-L01-E06",
+      "knowledge_points": [
+        "possessive-basic",
+        "likes-rad"
+      ]
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "介绍一位家人或朋友及其一项爱好。",
+      "stimulus_cs": "",
+      "answer": "Moje kamarádka je Eva. Ráda čte.",
+      "accepted_answers": [],
+      "explanation_zh": "不愿谈家庭可介绍虚构人物并注明。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A1-U07-L01-E07",
+      "knowledge_points": [
+        "possessive-basic",
+        "likes-rad"
+      ]
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "问对方周末喜欢做什么，并用一句话回应。",
+      "stimulus_cs": "",
+      "answer": "Co rád děláte o víkendu? Rád chodím ven.",
+      "accepted_answers": [],
+      "explanation_zh": "对女性ráda，询问时尊重对方边界。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A1-U07-L01-E08",
+      "knowledge_points": [
+        "possessive-basic",
+        "likes-rad"
+      ]
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "写两句话，一句喜欢物品，一句喜欢动作。",
+      "stimulus_cs": "",
+      "answer": "Mám rád čaj. Rád vařím.",
+      "accepted_answers": [],
+      "explanation_zh": "两种结构不混。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A1-U07-L01-E09",
+      "knowledge_points": [
+        "possessive-basic",
+        "likes-rad"
+      ]
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "用中文转告Eva和姐妹不同的爱好。",
+      "stimulus_cs": "",
+      "answer": "伊娃喜欢跑步，她的姐妹更喜欢读书。",
+      "accepted_answers": [],
+      "explanation_zh": "代词指向要清楚。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A1-U07-L01-E10",
+      "knowledge_points": [
+        "possessive-basic",
+        "likes-rad"
+      ]
+    }
+  ],
+  "transfer_task": {
+    "prompt_zh": "向新朋友介绍一个与你爱好不同的人，补一句你的爱好。",
+    "model_answer_cs": "Pavel má rád sport. Já rád čtu.",
+    "rubric": [
+      "任务信息完整",
+      "用目标规律表达",
+      "独立完成并回听/回看"
+    ]
+  },
+  "review_links": [
+    "A1-U06-L01"
+  ],
+  "sources": [
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/",
+      "scope": "本课涉及的声音/词形/语法规则；编排与例句为原创",
+      "verification": "官方来源用于相关规则交叉核查；具体查核范围见content/sources/foundation-verification.md；本课例句为原创，未逐句母语审校。"
+    }
+  ],
+  "content_status": "authored_crosschecked_not_native_reviewed",
+  "quality_notes": [
+    "课程及题目原创；自动检查结构、唯一ID与答案。",
+    "已对照所列官方发音、数词、条件式、物主词等章节核查相应规则；其余内容做内部语言一致性复核，未逐句外部审校。",
+    "CEFR级别为教学编排，不构成官方达标或考试认证。"
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "A1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--normal.mp3",
+      "slow_file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U07-L01--2026.10.23.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "To je moje rodina. Na fotografii je moje sestra, její manžel a jejich dcera. Sestra se jmenuje Lin. Pracuje v obchodě a má ráda svou práci. Její manžel je kuchař. Rád vaří, ale doma někdy vaří i sestra. Jejich dcera chodí do školy. Ráda čte a kreslí. Já bydlím sám. Ve volném čase rád chodím ven a poslouchám hudbu. Můj kamarád Pavel má rád sport. Každou sobotu hraje fotbal. Nemám moc času na sport, ale rád se s ním procházím. A co vy? Máte sourozence? Co rád děláte o víkendu? O osobních věcech mluvíme jen tehdy, když chceme.",
+      "duration_seconds": 51.21818594104308,
+      "slow_duration_seconds": 57.31342403628118,
+      "sha256": "8a2f1c4bf17eeb41ff80388f0d2748a617922341d19cdb94a958b2c6102c0bf6",
+      "slow_sha256": "1a572b72ddb0f099c0b3ab06b57f7e0ae56ac7a72e1cb6a0241b8958cca114fa"
+    },
+    {
+      "lesson_id": "A1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--normal.mp3",
+      "slow_file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U07-L01--2026.10.23.1--text--p0",
+      "asset_id": "A1-U07-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "To je moje rodina. Na fotografii je moje sestra, její manžel a jejich dcera.",
+      "start": 0,
+      "end": 6.3681179138322,
+      "slow_start": 0,
+      "slow_end": 7.285306122448979
+    },
+    {
+      "lesson_id": "A1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--normal.mp3",
+      "slow_file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U07-L01--2026.10.23.1--text--s0",
+      "asset_id": "A1-U07-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "To je moje rodina.",
+      "start": 0,
+      "end": 1.2654875283446712,
+      "slow_start": 0,
+      "slow_end": 1.4628571428571429
+    },
+    {
+      "lesson_id": "A1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--normal.mp3",
+      "slow_file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U07-L01--2026.10.23.1--text--s1",
+      "asset_id": "A1-U07-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Na fotografii je moje sestra, její manžel a jejich dcera.",
+      "start": 1.445487528344671,
+      "end": 6.3681179138322,
+      "slow_start": 1.6428571428571428,
+      "slow_end": 7.285306122448979
+    },
+    {
+      "lesson_id": "A1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--normal.mp3",
+      "slow_file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U07-L01--2026.10.23.1--text--p1",
+      "asset_id": "A1-U07-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Sestra se jmenuje Lin. Pracuje v obchodě a má ráda svou práci.",
+      "start": 6.5481179138322,
+      "end": 12.14997732426304,
+      "slow_start": 7.46530612244898,
+      "slow_end": 13.786984126984127
+    },
+    {
+      "lesson_id": "A1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--normal.mp3",
+      "slow_file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U07-L01--2026.10.23.1--text--s2",
+      "asset_id": "A1-U07-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 1,
+      "sentence_index": 0,
+      "text": "Sestra se jmenuje Lin.",
+      "start": 6.5481179138322,
+      "end": 8.486984126984128,
+      "slow_start": 7.46530612244898,
+      "slow_end": 9.636371882086168
+    },
+    {
+      "lesson_id": "A1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--normal.mp3",
+      "slow_file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U07-L01--2026.10.23.1--text--s3",
+      "asset_id": "A1-U07-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 3,
+      "paragraph_index": 1,
+      "sentence_index": 1,
+      "text": "Pracuje v obchodě a má ráda svou práci.",
+      "start": 8.666984126984127,
+      "end": 12.14997732426304,
+      "slow_start": 9.816371882086168,
+      "slow_end": 13.786984126984127
+    },
+    {
+      "lesson_id": "A1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--normal.mp3",
+      "slow_file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U07-L01--2026.10.23.1--text--p2",
+      "asset_id": "A1-U07-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Její manžel je kuchař. Rád vaří, ale doma někdy vaří i sestra.",
+      "start": 12.329977324263039,
+      "end": 18.43106575963719,
+      "slow_start": 13.966984126984126,
+      "slow_end": 20.776281179138323
+    },
+    {
+      "lesson_id": "A1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--normal.mp3",
+      "slow_file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U07-L01--2026.10.23.1--text--s4",
+      "asset_id": "A1-U07-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 4,
+      "paragraph_index": 2,
+      "sentence_index": 0,
+      "text": "Její manžel je kuchař.",
+      "start": 12.329977324263039,
+      "end": 14.559092970521542,
+      "slow_start": 13.966984126984126,
+      "slow_end": 16.463129251700682
+    },
+    {
+      "lesson_id": "A1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--normal.mp3",
+      "slow_file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U07-L01--2026.10.23.1--text--s5",
+      "asset_id": "A1-U07-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 5,
+      "paragraph_index": 2,
+      "sentence_index": 1,
+      "text": "Rád vaří, ale doma někdy vaří i sestra.",
+      "start": 14.739092970521542,
+      "end": 18.43106575963719,
+      "slow_start": 16.64312925170068,
+      "slow_end": 20.776281179138323
+    },
+    {
+      "lesson_id": "A1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--normal.mp3",
+      "slow_file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U07-L01--2026.10.23.1--text--p3",
+      "asset_id": "A1-U07-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Jejich dcera chodí do školy. Ráda čte a kreslí.",
+      "start": 18.61106575963719,
+      "end": 23.086757369614514,
+      "slow_start": 20.956281179138323,
+      "slow_end": 26.116961451247164
+    },
+    {
+      "lesson_id": "A1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--normal.mp3",
+      "slow_file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U07-L01--2026.10.23.1--text--s6",
+      "asset_id": "A1-U07-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 6,
+      "paragraph_index": 3,
+      "sentence_index": 0,
+      "text": "Jejich dcera chodí do školy.",
+      "start": 18.61106575963719,
+      "end": 20.933061224489794,
+      "slow_start": 20.956281179138323,
+      "slow_end": 23.62657596371882
+    },
+    {
+      "lesson_id": "A1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--normal.mp3",
+      "slow_file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U07-L01--2026.10.23.1--text--s7",
+      "asset_id": "A1-U07-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 7,
+      "paragraph_index": 3,
+      "sentence_index": 1,
+      "text": "Ráda čte a kreslí.",
+      "start": 21.113061224489797,
+      "end": 23.086757369614514,
+      "slow_start": 23.80657596371882,
+      "slow_end": 26.116961451247164
+    },
+    {
+      "lesson_id": "A1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--normal.mp3",
+      "slow_file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U07-L01--2026.10.23.1--text--p4",
+      "asset_id": "A1-U07-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 4,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Já bydlím sám. Ve volném čase rád chodím ven a poslouchám hudbu.",
+      "start": 23.266757369614513,
+      "end": 29.600045351473923,
+      "slow_start": 26.296961451247167,
+      "slow_end": 33.384897959183675
+    },
+    {
+      "lesson_id": "A1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--normal.mp3",
+      "slow_file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U07-L01--2026.10.23.1--text--s8",
+      "asset_id": "A1-U07-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 8,
+      "paragraph_index": 4,
+      "sentence_index": 0,
+      "text": "Já bydlím sám.",
+      "start": 23.266757369614513,
+      "end": 24.845714285714287,
+      "slow_start": 26.296961451247167,
+      "slow_end": 28.154557823129252
+    },
+    {
+      "lesson_id": "A1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--normal.mp3",
+      "slow_file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U07-L01--2026.10.23.1--text--s9",
+      "asset_id": "A1-U07-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 9,
+      "paragraph_index": 4,
+      "sentence_index": 1,
+      "text": "Ve volném čase rád chodím ven a poslouchám hudbu.",
+      "start": 25.025714285714287,
+      "end": 29.600045351473923,
+      "slow_start": 28.334557823129252,
+      "slow_end": 33.384897959183675
+    },
+    {
+      "lesson_id": "A1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--normal.mp3",
+      "slow_file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U07-L01--2026.10.23.1--text--p5",
+      "asset_id": "A1-U07-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 5,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Můj kamarád Pavel má rád sport. Každou sobotu hraje fotbal.",
+      "start": 29.780045351473923,
+      "end": 35.765034013605444,
+      "slow_start": 33.564897959183675,
+      "slow_end": 40.35097505668934
+    },
+    {
+      "lesson_id": "A1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--normal.mp3",
+      "slow_file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U07-L01--2026.10.23.1--text--s10",
+      "asset_id": "A1-U07-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 10,
+      "paragraph_index": 5,
+      "sentence_index": 0,
+      "text": "Můj kamarád Pavel má rád sport.",
+      "start": 29.780045351473923,
+      "end": 33.08888888888889,
+      "slow_start": 33.564897959183675,
+      "slow_end": 37.280090702947845
+    },
+    {
+      "lesson_id": "A1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--normal.mp3",
+      "slow_file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U07-L01--2026.10.23.1--text--s11",
+      "asset_id": "A1-U07-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 11,
+      "paragraph_index": 5,
+      "sentence_index": 1,
+      "text": "Každou sobotu hraje fotbal.",
+      "start": 33.26888888888889,
+      "end": 35.765034013605444,
+      "slow_start": 37.460090702947845,
+      "slow_end": 40.35097505668934
+    },
+    {
+      "lesson_id": "A1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--normal.mp3",
+      "slow_file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U07-L01--2026.10.23.1--text--p6",
+      "asset_id": "A1-U07-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 6,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Nemám moc času na sport, ale rád se s ním procházím.",
+      "start": 35.945034013605444,
+      "end": 41.16952380952381,
+      "slow_start": 40.53097505668934,
+      "slow_end": 46.15020408163265
+    },
+    {
+      "lesson_id": "A1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--normal.mp3",
+      "slow_file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U07-L01--2026.10.23.1--text--s12",
+      "asset_id": "A1-U07-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 12,
+      "paragraph_index": 6,
+      "sentence_index": 0,
+      "text": "Nemám moc času na sport, ale rád se s ním procházím.",
+      "start": 35.945034013605444,
+      "end": 41.16952380952381,
+      "slow_start": 40.53097505668934,
+      "slow_end": 46.15020408163265
+    },
+    {
+      "lesson_id": "A1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--normal.mp3",
+      "slow_file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U07-L01--2026.10.23.1--text--p7",
+      "asset_id": "A1-U07-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 7,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "A co vy? Máte sourozence? Co rád děláte o víkendu?",
+      "start": 41.34952380952381,
+      "end": 46.446394557823126,
+      "slow_start": 46.33020408163265,
+      "slow_end": 52.239773242630385
+    },
+    {
+      "lesson_id": "A1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--normal.mp3",
+      "slow_file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U07-L01--2026.10.23.1--text--s13",
+      "asset_id": "A1-U07-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 13,
+      "paragraph_index": 7,
+      "sentence_index": 0,
+      "text": "A co vy?",
+      "start": 41.34952380952381,
+      "end": 42.208662131519276,
+      "slow_start": 46.33020408163265,
+      "slow_end": 47.43315192743764
+    },
+    {
+      "lesson_id": "A1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--normal.mp3",
+      "slow_file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U07-L01--2026.10.23.1--text--s14",
+      "asset_id": "A1-U07-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 14,
+      "paragraph_index": 7,
+      "sentence_index": 1,
+      "text": "Máte sourozence?",
+      "start": 42.388662131519276,
+      "end": 44.072108843537414,
+      "slow_start": 47.61315192743764,
+      "slow_end": 49.58684807256236
+    },
+    {
+      "lesson_id": "A1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--normal.mp3",
+      "slow_file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U07-L01--2026.10.23.1--text--s15",
+      "asset_id": "A1-U07-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 15,
+      "paragraph_index": 7,
+      "sentence_index": 2,
+      "text": "Co rád děláte o víkendu?",
+      "start": 44.252108843537414,
+      "end": 46.446394557823126,
+      "slow_start": 49.76684807256236,
+      "slow_end": 52.239773242630385
+    },
+    {
+      "lesson_id": "A1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--normal.mp3",
+      "slow_file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U07-L01--2026.10.23.1--text--p8",
+      "asset_id": "A1-U07-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 8,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "O osobních věcech mluvíme jen tehdy, když chceme.",
+      "start": 46.626394557823126,
+      "end": 51.03818594104308,
+      "slow_start": 52.419773242630384,
+      "slow_end": 57.13342403628118
+    },
+    {
+      "lesson_id": "A1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--normal.mp3",
+      "slow_file": "audio/files/A1-U07-L01--2026.10.23.1--text--613877f6e4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U07-L01--2026.10.23.1--text--s16",
+      "asset_id": "A1-U07-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 16,
+      "paragraph_index": 8,
+      "sentence_index": 0,
+      "text": "O osobních věcech mluvíme jen tehdy, když chceme.",
+      "start": 46.626394557823126,
+      "end": 51.03818594104308,
+      "slow_start": 52.419773242630384,
+      "slow_end": 57.13342403628118
+    },
+    {
+      "lesson_id": "A1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U07-L01--2026.10.22.1--listening--34200c0750--normal.mp3",
+      "slow_file": "audio/files/A1-U07-L01--2026.10.22.1--listening--34200c0750--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U07-L01--2026.10.23.1--listening",
+      "role": "listening-full",
+      "index": 0,
+      "text": "Eva má jednu sestru. Její sestra je učitelka. Eva ráda běhá, ale její sestra raději čte.",
+      "duration_seconds": 8.574104308390023,
+      "slow_duration_seconds": 9.491292517006803,
+      "sha256": "100198062c56745c72d4d432485ebf46e822b446912eda0fe27692917343b6c1",
+      "slow_sha256": "e44a0a0a0458b4083a1c14940f76fc0e36a3ff176690d9add60caaf492e6dc0a"
+    },
+    {
+      "lesson_id": "A1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U07-L01--2026.10.22.1--listening--34200c0750--normal.mp3",
+      "slow_file": "audio/files/A1-U07-L01--2026.10.22.1--listening--34200c0750--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U07-L01--2026.10.23.1--listening--p0",
+      "asset_id": "A1-U07-L01--2026.10.23.1--listening",
+      "role": "listening",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Eva má jednu sestru. Její sestra je učitelka. Eva ráda běhá, ale její sestra raději čte.",
+      "start": 0,
+      "end": 8.394104308390023,
+      "slow_start": 0,
+      "slow_end": 9.311292517006803
+    },
+    {
+      "lesson_id": "A1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U07-L01--2026.10.22.1--vocabulary--9cdf30d37f--normal.mp3",
+      "slow_file": "audio/files/A1-U07-L01--2026.10.22.1--vocabulary--9cdf30d37f--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U07-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary-full",
+      "index": 0,
+      "text": "Moje rodina je velká. Mám dva sourozence. To je moje sestra. Můj bratr čte. Petr je kuchař. Ve volném čase čtu.",
+      "duration_seconds": 11.50575963718821,
+      "slow_duration_seconds": 13.015056689342403,
+      "sha256": "4dfb2c732a4dab7dd144df6488984abbd6a53a7b4a0f52b540fcbdedf05ef16c",
+      "slow_sha256": "4f1561dd9ed2fd0aa3cd63098e07d3df51f8a9c2696103322f5c7e04d54b7271"
+    },
+    {
+      "lesson_id": "A1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U07-L01--2026.10.22.1--vocabulary--9cdf30d37f--normal.mp3",
+      "slow_file": "audio/files/A1-U07-L01--2026.10.22.1--vocabulary--9cdf30d37f--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U07-L01--2026.10.23.1--vocabulary--p0",
+      "asset_id": "A1-U07-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Moje rodina je velká.",
+      "start": 0,
+      "end": 2.043356009070295,
+      "slow_start": 0,
+      "slow_end": 2.3219954648526078
+    },
+    {
+      "lesson_id": "A1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U07-L01--2026.10.22.1--vocabulary--9cdf30d37f--normal.mp3",
+      "slow_file": "audio/files/A1-U07-L01--2026.10.22.1--vocabulary--9cdf30d37f--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U07-L01--2026.10.23.1--vocabulary--p1",
+      "asset_id": "A1-U07-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Mám dva sourozence.",
+      "start": 2.2233560090702946,
+      "end": 4.104172335600907,
+      "slow_start": 2.501995464852608,
+      "slow_end": 4.64984126984127
+    },
+    {
+      "lesson_id": "A1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U07-L01--2026.10.22.1--vocabulary--9cdf30d37f--normal.mp3",
+      "slow_file": "audio/files/A1-U07-L01--2026.10.22.1--vocabulary--9cdf30d37f--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U07-L01--2026.10.23.1--vocabulary--p2",
+      "asset_id": "A1-U07-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "To je moje sestra.",
+      "start": 4.284172335600907,
+      "end": 5.839909297052154,
+      "slow_start": 4.82984126984127,
+      "slow_end": 6.478458049886621
+    },
+    {
+      "lesson_id": "A1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U07-L01--2026.10.22.1--vocabulary--9cdf30d37f--normal.mp3",
+      "slow_file": "audio/files/A1-U07-L01--2026.10.22.1--vocabulary--9cdf30d37f--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U07-L01--2026.10.23.1--vocabulary--p3",
+      "asset_id": "A1-U07-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Můj bratr čte.",
+      "start": 6.019909297052155,
+      "end": 7.575646258503402,
+      "slow_start": 6.6584580498866215,
+      "slow_end": 8.469614512471656
+    },
+    {
+      "lesson_id": "A1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U07-L01--2026.10.22.1--vocabulary--9cdf30d37f--normal.mp3",
+      "slow_file": "audio/files/A1-U07-L01--2026.10.22.1--vocabulary--9cdf30d37f--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U07-L01--2026.10.23.1--vocabulary--p4",
+      "asset_id": "A1-U07-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 4,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Petr je kuchař.",
+      "start": 7.755646258503401,
+      "end": 9.20689342403628,
+      "slow_start": 8.649614512471656,
+      "slow_end": 10.4259410430839
+    },
+    {
+      "lesson_id": "A1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U07-L01--2026.10.22.1--vocabulary--9cdf30d37f--normal.mp3",
+      "slow_file": "audio/files/A1-U07-L01--2026.10.22.1--vocabulary--9cdf30d37f--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U07-L01--2026.10.23.1--vocabulary--p5",
+      "asset_id": "A1-U07-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 5,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Ve volném čase čtu.",
+      "start": 9.38689342403628,
+      "end": 11.32575963718821,
+      "slow_start": 10.6059410430839,
+      "slow_end": 12.835056689342403
+    },
+    {
+      "lesson_id": "A1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U07-L01--2026.10.22.1--exercises--2c8b651487--normal.mp3",
+      "slow_file": "audio/files/A1-U07-L01--2026.10.22.1--exercises--2c8b651487--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U07-L01--2026.10.23.1--exercises",
+      "role": "exercises-full",
+      "index": 0,
+      "text": "Eva ráda běhá, ale její sestra raději čte.",
+      "duration_seconds": 4.057732426303855,
+      "slow_duration_seconds": 4.673061224489796,
+      "sha256": "bebd6ad0b050377107e4aede5462937df00f7e64ac5595e29ce662de35375282",
+      "slow_sha256": "690525c54ae4c9d99b4692bc38c0a82cec3726a0237149714ea3fae8cc7e96db"
+    },
+    {
+      "lesson_id": "A1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U07-L01--2026.10.22.1--exercises--2c8b651487--normal.mp3",
+      "slow_file": "audio/files/A1-U07-L01--2026.10.22.1--exercises--2c8b651487--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U07-L01--2026.10.23.1--exercises--p0",
+      "asset_id": "A1-U07-L01--2026.10.23.1--exercises",
+      "role": "exercise",
+      "index": 0,
+      "exercise_id": "A1-U07-L01-E01",
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Eva ráda běhá, ale její sestra raději čte.",
+      "start": 0,
+      "end": 3.877732426303855,
+      "slow_start": 0,
+      "slow_end": 4.493061224489796
+    },
+    {
+      "lesson_id": "A1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U07-L01--2026.10.22.1--contrasts--33e84f1fa3--normal.mp3",
+      "slow_file": "audio/files/A1-U07-L01--2026.10.22.1--contrasts--33e84f1fa3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U07-L01--2026.10.23.1--contrasts",
+      "role": "contrasts-full",
+      "index": 0,
+      "text": "jeho. její.",
+      "duration_seconds": 1.0971882086167801,
+      "slow_duration_seconds": 1.3061678004535147,
+      "sha256": "96fef4b5fadbc4b10e84258965019e6f941bb0408ecdf25429cfe373f31edbac",
+      "slow_sha256": "0e246897241460a1c3c7942ba4d5b62cf888fab60f2cf8ebeb1a1dd96b3532c4"
+    },
+    {
+      "lesson_id": "A1-U07-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U07-L01--2026.10.22.1--contrasts--33e84f1fa3--normal.mp3",
+      "slow_file": "audio/files/A1-U07-L01--2026.10.22.1--contrasts--33e84f1fa3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U07-L01--2026.10.23.1--contrasts--p0",
+      "asset_id": "A1-U07-L01--2026.10.23.1--contrasts",
+      "role": "contrast",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "jeho. její.",
+      "start": 0,
+      "end": 0.9171882086167801,
+      "slow_start": 0,
+      "slow_end": 1.1261678004535147
+    }
+  ]
+}

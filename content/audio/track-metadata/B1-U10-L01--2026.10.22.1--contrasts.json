@@ -1,0 +1,57 @@
+{
+  "id": "B1-U10-L01--2026.10.22.1--contrasts",
+  "lesson_id": "B1-U10-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "dočasně. natrvalo.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "dočasně. natrvalo."
+      ]
+    }
+  ],
+  "text_sha256": "0595387f7f1800fbda8c26560caf76d3dc23964afbed5892b476c458bbeda5de",
+  "source_file": "content/lessons/B1/B1-U10-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U10-L01--2026.10.22.1--contrasts--0595387f7f--normal.mp3",
+  "slow_file": "content/audio/files/B1-U10-L01--2026.10.22.1--contrasts--0595387f7f--slow.mp3",
+  "duration_seconds": 1.7473469387755103,
+  "slow_duration_seconds": 1.991156462585034,
+  "cues": [
+    {
+      "text": "dočasně. natrvalo.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "dočasně. natrvalo."
+      ],
+      "start": 0.0,
+      "end": 1.5673469387755101,
+      "sentences": [
+        {
+          "text": "dočasně. natrvalo.",
+          "start": 0.0,
+          "end": 1.5673469387755101,
+          "slow_start": 0.0,
+          "slow_end": 1.811156462585034
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.811156462585034
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "8e1d5a43c020b5d92cbae9df4796f49ca8d3540271fcc2dd0f707f4a85e285ca",
+    "slow": "04a58722cd9a74a06dedb658353e1abefc9ac8e7d6d281070d2985fea6d686f5"
+  }
+}

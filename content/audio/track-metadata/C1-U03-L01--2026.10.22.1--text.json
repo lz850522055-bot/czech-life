@@ -1,0 +1,483 @@
+{
+  "id": "C1-U03-L01--2026.10.22.1--text",
+  "lesson_id": "C1-U03-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Na poradě malého kulturního centra představila koordinátorka nápad pořádat část akcí venku. Vedoucí odpověděl, že jde o zajímavý podnět, k němuž by se tým mohl vrátit, až bude jasnější personální situace. Koordinátorka si poznamenala, že návrh byl přijat. Technik však větu pochopil opačně: podle něj se projekt odkládá na neurčito. Obě interpretace byly možné jako pracovní odhad, ani jedna však nebyla doslovným obsahem odpovědi.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Na poradě malého kulturního centra představila koordinátorka nápad pořádat část akcí venku.",
+        "Vedoucí odpověděl, že jde o zajímavý podnět, k němuž by se tým mohl vrátit, až bude jasnější personální situace.",
+        "Koordinátorka si poznamenala, že návrh byl přijat.",
+        "Technik však větu pochopil opačně: podle něj se projekt odkládá na neurčito.",
+        "Obě interpretace byly možné jako pracovní odhad, ani jedna však nebyla doslovným obsahem odpovědi."
+      ]
+    },
+    {
+      "text": "Rozdíl vznikl zejména tím, že účastníci přisuzovali různou váhu slovu zajímavý. V běžném rozhovoru může označovat skutečný zájem, ale také zdvořile potvrdit, že mluvčí návrh vyslechl. Samotné přídavné jméno proto není spolehlivým ukazatelem souhlasu. V tomto případě nesla důležitější informaci vedlejší věta až bude jasnější personální situace. Vymezovala předpoklad dalšího jednání, aniž by určovala termín nebo zavazovala vedoucího k realizaci.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Rozdíl vznikl zejména tím, že účastníci přisuzovali různou váhu slovu zajímavý.",
+        "V běžném rozhovoru může označovat skutečný zájem, ale také zdvořile potvrdit, že mluvčí návrh vyslechl.",
+        "Samotné přídavné jméno proto není spolehlivým ukazatelem souhlasu.",
+        "V tomto případě nesla důležitější informaci vedlejší věta až bude jasnější personální situace.",
+        "Vymezovala předpoklad dalšího jednání, aniž by určovala termín nebo zavazovala vedoucího k realizaci."
+      ]
+    },
+    {
+      "text": "Podobně problematická byla reakce kolegyně, která řekla: Proti tomu v zásadě nic nemám, jen si nejsem jistá, zda máme kapacitu. První část působila souhlasně, druhá však obsahovala námitku, která mohla celý záměr zastavit. Výraz v zásadě signalizoval obecnou přijatelnost, nikoli souhlas se všemi podrobnostmi. Slovo jen velikost námitky zdánlivě zmenšovalo, její praktický význam však nezmenšovalo vůbec. Zdvořilostní rámec a závažnost problému se nemusí shodovat.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Podobně problematická byla reakce kolegyně, která řekla: Proti tomu v zásadě nic nemám, jen si nejsem jistá, zda máme kapacitu.",
+        "První část působila souhlasně, druhá však obsahovala námitku, která mohla celý záměr zastavit.",
+        "Výraz v zásadě signalizoval obecnou přijatelnost, nikoli souhlas se všemi podrobnostmi.",
+        "Slovo jen velikost námitky zdánlivě zmenšovalo, její praktický význam však nezmenšovalo vůbec.",
+        "Zdvořilostní rámec a závažnost problému se nemusí shodovat."
+      ]
+    },
+    {
+      "text": "Koordinátorka mohla reagovat obranně a tvrdit, že tým odmítá každou novinku. Tím by však vlastní domněnku proměnila v obvinění. Místo toho položila ověřovací otázku: Rozumím správně, že myšlenku nevylučujete, ale zatím nemůžeme slíbit konkrétní akci? Vedoucí souhlasil a doplnil, že chce nejprve přehled směn. Poprvé zazněl další krok, podle něhož bylo možné rozlišit skutečné pokračování přípravy od pouhého zdvořilého ukončení tématu.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Koordinátorka mohla reagovat obranně a tvrdit, že tým odmítá každou novinku.",
+        "Tím by však vlastní domněnku proměnila v obvinění.",
+        "Místo toho položila ověřovací otázku: Rozumím správně, že myšlenku nevylučujete, ale zatím nemůžeme slíbit konkrétní akci?",
+        "Vedoucí souhlasil a doplnil, že chce nejprve přehled směn.",
+        "Poprvé zazněl další krok, podle něhož bylo možné rozlišit skutečné pokračování přípravy od pouhého zdvořilého ukončení tématu."
+      ]
+    },
+    {
+      "text": "Pragmatické porozumění tedy nespočívá v hledání tajného významu za každou větou. Vyžaduje spíše práci s několika vodítky: co bylo řečeno, co zůstalo nevyřčeno, jaký problém se právě řeší a k jakému jednání odpověď vede. Intonace, předchozí zkušenost i vztah mezi lidmi mohou interpretaci ovlivnit, nejsou však neomylné. Člověk, který mluví úsporně, nemusí být nepřátelský; dlouhé zdvořilé vysvětlení zase samo o sobě nezaručuje ochotu pomoci.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Pragmatické porozumění tedy nespočívá v hledání tajného významu za každou větou.",
+        "Vyžaduje spíše práci s několika vodítky: co bylo řečeno, co zůstalo nevyřčeno, jaký problém se právě řeší a k jakému jednání odpověď vede.",
+        "Intonace, předchozí zkušenost i vztah mezi lidmi mohou interpretaci ovlivnit, nejsou však neomylné.",
+        "Člověk, který mluví úsporně, nemusí být nepřátelský; dlouhé zdvořilé vysvětlení zase samo o sobě nezaručuje ochotu pomoci."
+      ]
+    },
+    {
+      "text": "V zápisu z porady proto nakonec nestálo ani návrh schválen, ani návrh zamítnut. Objevila se přesnější formulace: Tým připouští možnost venkovních akcí; před dalším rozhodnutím koordinátorka připraví přehled personálních potřeb. Tato věta nepůsobila tak optimisticky jako první poznámka, zato zachycovala skutečnou míru dohody. Umožnila také později ověřit, zda se jednání posunulo. Přesnost zde neznamenala nedůvěru, ale ochranu všech účastníků před očekáváním, které nikdo výslovně nepřijal.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "V zápisu z porady proto nakonec nestálo ani návrh schválen, ani návrh zamítnut.",
+        "Objevila se přesnější formulace: Tým připouští možnost venkovních akcí; před dalším rozhodnutím koordinátorka připraví přehled personálních potřeb.",
+        "Tato věta nepůsobila tak optimisticky jako první poznámka, zato zachycovala skutečnou míru dohody.",
+        "Umožnila také později ověřit, zda se jednání posunulo.",
+        "Přesnost zde neznamenala nedůvěru, ale ochranu všech účastníků před očekáváním, které nikdo výslovně nepřijal."
+      ]
+    },
+    {
+      "text": "Při dalším jednání koordinátorka nezjišťovala pouze to, zda ostatní souhlasí. Rozlišila souhlas s cílem, souhlas s navrženým postupem a ochotu převzít konkrétní úkol. Technik mohl první dvě věci podpořit, a přesto nemít volnou směnu. Kolegyně mohla nabídnout pomoc, aniž by považovala zvolený termín za nejlepší. Takové rozlišení bránilo tomu, aby byl nesouhlas s jednou částí považován za odmítnutí celého projektu. Umožnilo také přesněji požádat o to, co bylo v dané chvíli opravdu potřeba: rozhodnutí, informaci, nebo závazek jednat.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Při dalším jednání koordinátorka nezjišťovala pouze to, zda ostatní souhlasí.",
+        "Rozlišila souhlas s cílem, souhlas s navrženým postupem a ochotu převzít konkrétní úkol.",
+        "Technik mohl první dvě věci podpořit, a přesto nemít volnou směnu.",
+        "Kolegyně mohla nabídnout pomoc, aniž by považovala zvolený termín za nejlepší.",
+        "Takové rozlišení bránilo tomu, aby byl nesouhlas s jednou částí považován za odmítnutí celého projektu.",
+        "Umožnilo také přesněji požádat o to, co bylo v dané chvíli opravdu potřeba: rozhodnutí, informaci, nebo závazek jednat."
+      ]
+    }
+  ],
+  "text_sha256": "70058394823806d12ae9f64abcc440b4853c0a7242d37fd840c4312c3cf9b2a6",
+  "source_file": "content/lessons/C1/C1-U03-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U03-L01--2026.10.22.1--text--7005839482--normal.mp3",
+  "slow_file": "content/audio/files/C1-U03-L01--2026.10.22.1--text--7005839482--slow.mp3",
+  "duration_seconds": 297.4085714285714,
+  "slow_duration_seconds": 336.6154648526077,
+  "cues": [
+    {
+      "text": "Na poradě malého kulturního centra představila koordinátorka nápad pořádat část akcí venku. Vedoucí odpověděl, že jde o zajímavý podnět, k němuž by se tým mohl vrátit, až bude jasnější personální situace. Koordinátorka si poznamenala, že návrh byl přijat. Technik však větu pochopil opačně: podle něj se projekt odkládá na neurčito. Obě interpretace byly možné jako pracovní odhad, ani jedna však nebyla doslovným obsahem odpovědi.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Na poradě malého kulturního centra představila koordinátorka nápad pořádat část akcí venku.",
+        "Vedoucí odpověděl, že jde o zajímavý podnět, k němuž by se tým mohl vrátit, až bude jasnější personální situace.",
+        "Koordinátorka si poznamenala, že návrh byl přijat.",
+        "Technik však větu pochopil opačně: podle něj se projekt odkládá na neurčito.",
+        "Obě interpretace byly možné jako pracovní odhad, ani jedna však nebyla doslovným obsahem odpovědi."
+      ],
+      "start": 0.0,
+      "end": 38.104126984126985,
+      "sentences": [
+        {
+          "text": "Na poradě malého kulturního centra představila koordinátorka nápad pořádat část akcí venku.",
+          "start": 0.0,
+          "end": 8.382403628117913,
+          "slow_start": 0.0,
+          "slow_end": 9.462131519274376
+        },
+        {
+          "text": "Vedoucí odpověděl, že jde o zajímavý podnět, k němuž by se tým mohl vrátit, až bude jasnější personální situace.",
+          "start": 8.562403628117913,
+          "end": 18.233514739229026,
+          "slow_start": 9.642131519274377,
+          "slow_end": 20.683219954648525
+        },
+        {
+          "text": "Koordinátorka si poznamenala, že návrh byl přijat.",
+          "start": 18.413514739229026,
+          "end": 22.685986394557823,
+          "slow_start": 20.863219954648525,
+          "slow_end": 25.832290249433107
+        },
+        {
+          "text": "Technik však větu pochopil opačně: podle něj se projekt odkládá na neurčito.",
+          "start": 22.865986394557822,
+          "end": 29.483673469387757,
+          "slow_start": 26.012290249433107,
+          "slow_end": 33.431065759637185
+        },
+        {
+          "text": "Obě interpretace byly možné jako pracovní odhad, ani jedna však nebyla doslovným obsahem odpovědi.",
+          "start": 29.663673469387756,
+          "end": 38.104126984126985,
+          "slow_start": 33.611065759637185,
+          "slow_end": 43.189297052154195
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 43.189297052154195
+    },
+    {
+      "text": "Rozdíl vznikl zejména tím, že účastníci přisuzovali různou váhu slovu zajímavý. V běžném rozhovoru může označovat skutečný zájem, ale také zdvořile potvrdit, že mluvčí návrh vyslechl. Samotné přídavné jméno proto není spolehlivým ukazatelem souhlasu. V tomto případě nesla důležitější informaci vedlejší věta až bude jasnější personální situace. Vymezovala předpoklad dalšího jednání, aniž by určovala termín nebo zavazovala vedoucího k realizaci.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Rozdíl vznikl zejména tím, že účastníci přisuzovali různou váhu slovu zajímavý.",
+        "V běžném rozhovoru může označovat skutečný zájem, ale také zdvořile potvrdit, že mluvčí návrh vyslechl.",
+        "Samotné přídavné jméno proto není spolehlivým ukazatelem souhlasu.",
+        "V tomto případě nesla důležitější informaci vedlejší věta až bude jasnější personální situace.",
+        "Vymezovala předpoklad dalšího jednání, aniž by určovala termín nebo zavazovala vedoucího k realizaci."
+      ],
+      "start": 38.284126984126985,
+      "end": 80.17310657596371,
+      "sentences": [
+        {
+          "text": "Rozdíl vznikl zejména tím, že účastníci přisuzovali různou váhu slovu zajímavý.",
+          "start": 38.284126984126985,
+          "end": 46.318231292517005,
+          "slow_start": 43.369297052154195,
+          "slow_end": 52.45990929705216
+        },
+        {
+          "text": "V běžném rozhovoru může označovat skutečný zájem, ale také zdvořile potvrdit, že mluvčí návrh vyslechl.",
+          "start": 46.498231292517005,
+          "end": 55.93714285714286,
+          "slow_start": 52.63990929705216,
+          "slow_end": 63.42557823129252
+        },
+        {
+          "text": "Samotné přídavné jméno proto není spolehlivým ukazatelem souhlasu.",
+          "start": 56.11714285714286,
+          "end": 62.3865306122449,
+          "slow_start": 63.60557823129252,
+          "slow_end": 70.88503401360545
+        },
+        {
+          "text": "V tomto případě nesla důležitější informaci vedlejší věta až bude jasnější personální situace.",
+          "start": 62.5665306122449,
+          "end": 70.55419501133787,
+          "slow_start": 71.06503401360544,
+          "slow_end": 80.1556462585034
+        },
+        {
+          "text": "Vymezovala předpoklad dalšího jednání, aniž by určovala termín nebo zavazovala vedoucího k realizaci.",
+          "start": 70.73419501133787,
+          "end": 80.17310657596371,
+          "slow_start": 80.3356462585034,
+          "slow_end": 91.04004535147392
+        }
+      ],
+      "slow_start": 43.369297052154195,
+      "slow_end": 91.04004535147392
+    },
+    {
+      "text": "Podobně problematická byla reakce kolegyně, která řekla: Proti tomu v zásadě nic nemám, jen si nejsem jistá, zda máme kapacitu. První část působila souhlasně, druhá však obsahovala námitku, která mohla celý záměr zastavit. Výraz v zásadě signalizoval obecnou přijatelnost, nikoli souhlas se všemi podrobnostmi. Slovo jen velikost námitky zdánlivě zmenšovalo, její praktický význam však nezmenšovalo vůbec. Zdvořilostní rámec a závažnost problému se nemusí shodovat.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Podobně problematická byla reakce kolegyně, která řekla: Proti tomu v zásadě nic nemám, jen si nejsem jistá, zda máme kapacitu.",
+        "První část působila souhlasně, druhá však obsahovala námitku, která mohla celý záměr zastavit.",
+        "Výraz v zásadě signalizoval obecnou přijatelnost, nikoli souhlas se všemi podrobnostmi.",
+        "Slovo jen velikost námitky zdánlivě zmenšovalo, její praktický význam však nezmenšovalo vůbec.",
+        "Zdvořilostní rámec a závažnost problému se nemusí shodovat."
+      ],
+      "start": 80.35310657596372,
+      "end": 122.91546485260771,
+      "sentences": [
+        {
+          "text": "Podobně problematická byla reakce kolegyně, která řekla: Proti tomu v zásadě nic nemám, jen si nejsem jistá, zda máme kapacitu.",
+          "start": 80.35310657596372,
+          "end": 91.4174149659864,
+          "slow_start": 91.22004535147393,
+          "slow_end": 103.68916099773243
+        },
+        {
+          "text": "První část působila souhlasně, druhá však obsahovala námitku, která mohla celý záměr zastavit.",
+          "start": 91.59741496598639,
+          "end": 100.85056689342403,
+          "slow_start": 103.86916099773242,
+          "slow_end": 114.16721088435374
+        },
+        {
+          "text": "Výraz v zásadě signalizoval obecnou přijatelnost, nikoli souhlas se všemi podrobnostmi.",
+          "start": 101.03056689342404,
+          "end": 108.31002267573696,
+          "slow_start": 114.34721088435374,
+          "slow_end": 122.61351473922902
+        },
+        {
+          "text": "Slovo jen velikost námitky zdánlivě zmenšovalo, její praktický význam však nezmenšovalo vůbec.",
+          "start": 108.49002267573697,
+          "end": 117.39487528344671,
+          "slow_start": 122.79351473922902,
+          "slow_end": 133.07995464852607
+        },
+        {
+          "text": "Zdvořilostní rámec a závažnost problému se nemusí shodovat.",
+          "start": 117.57487528344672,
+          "end": 122.91546485260771,
+          "slow_start": 133.25995464852608,
+          "slow_end": 139.4132426303855
+        }
+      ],
+      "slow_start": 91.22004535147393,
+      "slow_end": 139.4132426303855
+    },
+    {
+      "text": "Koordinátorka mohla reagovat obranně a tvrdit, že tým odmítá každou novinku. Tím by však vlastní domněnku proměnila v obvinění. Místo toho položila ověřovací otázku: Rozumím správně, že myšlenku nevylučujete, ale zatím nemůžeme slíbit konkrétní akci? Vedoucí souhlasil a doplnil, že chce nejprve přehled směn. Poprvé zazněl další krok, podle něhož bylo možné rozlišit skutečné pokračování přípravy od pouhého zdvořilého ukončení tématu.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Koordinátorka mohla reagovat obranně a tvrdit, že tým odmítá každou novinku.",
+        "Tím by však vlastní domněnku proměnila v obvinění.",
+        "Místo toho položila ověřovací otázku: Rozumím správně, že myšlenku nevylučujete, ale zatím nemůžeme slíbit konkrétní akci?",
+        "Vedoucí souhlasil a doplnil, že chce nejprve přehled směn.",
+        "Poprvé zazněl další krok, podle něhož bylo možné rozlišit skutečné pokračování přípravy od pouhého zdvořilého ukončení tématu."
+      ],
+      "start": 123.0954648526077,
+      "end": 162.22126984126984,
+      "sentences": [
+        {
+          "text": "Koordinátorka mohla reagovat obranně a tvrdit, že tým odmítá každou novinku.",
+          "start": 123.0954648526077,
+          "end": 129.7828117913832,
+          "slow_start": 139.59324263038548,
+          "slow_end": 147.01201814058956
+        },
+        {
+          "text": "Tím by však vlastní domněnku proměnila v obvinění.",
+          "start": 129.96281179138322,
+          "end": 134.15401360544217,
+          "slow_start": 147.19201814058957,
+          "slow_end": 152.14947845804988
+        },
+        {
+          "text": "Místo toho položila ověřovací otázku: Rozumím správně, že myšlenku nevylučujete, ale zatím nemůžeme slíbit konkrétní akci?",
+          "start": 134.33401360544218,
+          "end": 145.87433106575963,
+          "slow_start": 152.3294784580499,
+          "slow_end": 165.41392290249433
+        },
+        {
+          "text": "Vedoucí souhlasil a doplnil, že chce nejprve přehled směn.",
+          "start": 146.05433106575964,
+          "end": 151.13950113378684,
+          "slow_start": 165.59392290249434,
+          "slow_end": 171.34086167800453
+        },
+        {
+          "text": "Poprvé zazněl další krok, podle něhož bylo možné rozlišit skutečné pokračování přípravy od pouhého zdvořilého ukončení tématu.",
+          "start": 151.31950113378684,
+          "end": 162.22126984126984,
+          "slow_start": 171.52086167800454,
+          "slow_end": 183.88548752834467
+        }
+      ],
+      "slow_start": 139.59324263038548,
+      "slow_end": 183.88548752834467
+    },
+    {
+      "text": "Pragmatické porozumění tedy nespočívá v hledání tajného významu za každou větou. Vyžaduje spíše práci s několika vodítky: co bylo řečeno, co zůstalo nevyřčeno, jaký problém se právě řeší a k jakému jednání odpověď vede. Intonace, předchozí zkušenost i vztah mezi lidmi mohou interpretaci ovlivnit, nejsou však neomylné. Člověk, který mluví úsporně, nemusí být nepřátelský; dlouhé zdvořilé vysvětlení zase samo o sobě nezaručuje ochotu pomoci.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Pragmatické porozumění tedy nespočívá v hledání tajného významu za každou větou.",
+        "Vyžaduje spíše práci s několika vodítky: co bylo řečeno, co zůstalo nevyřčeno, jaký problém se právě řeší a k jakému jednání odpověď vede.",
+        "Intonace, předchozí zkušenost i vztah mezi lidmi mohou interpretaci ovlivnit, nejsou však neomylné.",
+        "Člověk, který mluví úsporně, nemusí být nepřátelský; dlouhé zdvořilé vysvětlení zase samo o sobě nezaručuje ochotu pomoci."
+      ],
+      "start": 162.40126984126985,
+      "end": 203.34399092970523,
+      "sentences": [
+        {
+          "text": "Pragmatické porozumění tedy nespočívá v hledání tajného významu za každou větou.",
+          "start": 162.40126984126985,
+          "end": 170.3308843537415,
+          "slow_start": 184.06548752834468,
+          "slow_end": 193.06321995464853
+        },
+        {
+          "text": "Vyžaduje spíše práci s několika vodítky: co bylo řečeno, co zůstalo nevyřčeno, jaký problém se právě řeší a k jakému jednání odpověď vede.",
+          "start": 170.5108843537415,
+          "end": 183.66498866213152,
+          "slow_start": 193.24321995464854,
+          "slow_end": 208.06916099773244
+        },
+        {
+          "text": "Intonace, předchozí zkušenost i vztah mezi lidmi mohou interpretaci ovlivnit, nejsou však neomylné.",
+          "start": 183.84498866213153,
+          "end": 192.297052154195,
+          "slow_start": 208.24916099773242,
+          "slow_end": 217.66485260770975
+        },
+        {
+          "text": "Člověk, který mluví úsporně, nemusí být nepřátelský; dlouhé zdvořilé vysvětlení zase samo o sobě nezaručuje ochotu pomoci.",
+          "start": 192.477052154195,
+          "end": 203.34399092970523,
+          "slow_start": 217.84485260770975,
+          "slow_end": 230.66226757369614
+        }
+      ],
+      "slow_start": 184.06548752834468,
+      "slow_end": 230.66226757369614
+    },
+    {
+      "text": "V zápisu z porady proto nakonec nestálo ani návrh schválen, ani návrh zamítnut. Objevila se přesnější formulace: Tým připouští možnost venkovních akcí; před dalším rozhodnutím koordinátorka připraví přehled personálních potřeb. Tato věta nepůsobila tak optimisticky jako první poznámka, zato zachycovala skutečnou míru dohody. Umožnila také později ověřit, zda se jednání posunulo. Přesnost zde neznamenala nedůvěru, ale ochranu všech účastníků před očekáváním, které nikdo výslovně nepřijal.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "V zápisu z porady proto nakonec nestálo ani návrh schválen, ani návrh zamítnut.",
+        "Objevila se přesnější formulace: Tým připouští možnost venkovních akcí; před dalším rozhodnutím koordinátorka připraví přehled personálních potřeb.",
+        "Tato věta nepůsobila tak optimisticky jako první poznámka, zato zachycovala skutečnou míru dohody.",
+        "Umožnila také později ověřit, zda se jednání posunulo.",
+        "Přesnost zde neznamenala nedůvěru, ale ochranu všech účastníků před očekáváním, které nikdo výslovně nepřijal."
+      ],
+      "start": 203.5239909297052,
+      "end": 247.6304761904762,
+      "sentences": [
+        {
+          "text": "V zápisu z porady proto nakonec nestálo ani návrh schválen, ani návrh zamítnut.",
+          "start": 203.5239909297052,
+          "end": 210.5015873015873,
+          "slow_start": 230.84226757369615,
+          "slow_end": 238.72544217687076
+        },
+        {
+          "text": "Objevila se přesnější formulace: Tým připouští možnost venkovních akcí; před dalším rozhodnutím koordinátorka připraví přehled personálních potřeb.",
+          "start": 210.6815873015873,
+          "end": 223.69637188208617,
+          "slow_start": 238.90544217687074,
+          "slow_end": 253.62689342403627
+        },
+        {
+          "text": "Tato věta nepůsobila tak optimisticky jako první poznámka, zato zachycovala skutečnou míru dohody.",
+          "start": 223.87637188208618,
+          "end": 232.38648526077097,
+          "slow_start": 253.80689342403628,
+          "slow_end": 263.547664399093
+        },
+        {
+          "text": "Umožnila také později ověřit, zda se jednání posunulo.",
+          "start": 232.56648526077097,
+          "end": 237.31496598639455,
+          "slow_start": 263.727664399093,
+          "slow_end": 269.1843537414966
+        },
+        {
+          "text": "Přesnost zde neznamenala nedůvěru, ale ochranu všech účastníků před očekáváním, které nikdo výslovně nepřijal.",
+          "start": 237.49496598639456,
+          "end": 247.6304761904762,
+          "slow_start": 269.3643537414966,
+          "slow_end": 280.49832199546483
+        }
+      ],
+      "slow_start": 230.84226757369615,
+      "slow_end": 280.49832199546483
+    },
+    {
+      "text": "Při dalším jednání koordinátorka nezjišťovala pouze to, zda ostatní souhlasí. Rozlišila souhlas s cílem, souhlas s navrženým postupem a ochotu převzít konkrétní úkol. Technik mohl první dvě věci podpořit, a přesto nemít volnou směnu. Kolegyně mohla nabídnout pomoc, aniž by považovala zvolený termín za nejlepší. Takové rozlišení bránilo tomu, aby byl nesouhlas s jednou částí považován za odmítnutí celého projektu. Umožnilo také přesněji požádat o to, co bylo v dané chvíli opravdu potřeba: rozhodnutí, informaci, nebo závazek jednat.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Při dalším jednání koordinátorka nezjišťovala pouze to, zda ostatní souhlasí.",
+        "Rozlišila souhlas s cílem, souhlas s navrženým postupem a ochotu převzít konkrétní úkol.",
+        "Technik mohl první dvě věci podpořit, a přesto nemít volnou směnu.",
+        "Kolegyně mohla nabídnout pomoc, aniž by považovala zvolený termín za nejlepší.",
+        "Takové rozlišení bránilo tomu, aby byl nesouhlas s jednou částí považován za odmítnutí celého projektu.",
+        "Umožnilo také přesněji požádat o to, co bylo v dané chvíli opravdu potřeba: rozhodnutí, informaci, nebo závazek jednat."
+      ],
+      "start": 247.81047619047618,
+      "end": 297.22857142857146,
+      "sentences": [
+        {
+          "text": "Při dalším jednání koordinátorka nezjišťovala pouze to, zda ostatní souhlasí.",
+          "start": 247.81047619047618,
+          "end": 254.64875283446713,
+          "slow_start": 280.67832199546484,
+          "slow_end": 288.28285714285715
+        },
+        {
+          "text": "Rozlišila souhlas s cílem, souhlas s navrženým postupem a ochotu převzít konkrétní úkol.",
+          "start": 254.8287528344671,
+          "end": 263.45496598639454,
+          "slow_start": 288.46285714285716,
+          "slow_end": 298.44743764172335
+        },
+        {
+          "text": "Technik mohl první dvě věci podpořit, a přesto nemít volnou směnu.",
+          "start": 263.63496598639455,
+          "end": 269.39351473922903,
+          "slow_start": 298.62743764172336,
+          "slow_end": 304.9897052154195
+        },
+        {
+          "text": "Kolegyně mohla nabídnout pomoc, aniž by považovala zvolený termín za nejlepší.",
+          "start": 269.57351473922904,
+          "end": 276.63238095238097,
+          "slow_start": 305.1697052154195,
+          "slow_end": 313.1109297052154
+        },
+        {
+          "text": "Takové rozlišení bránilo tomu, aby byl nesouhlas s jednou částí považován za odmítnutí celého projektu.",
+          "start": 276.812380952381,
+          "end": 285.90299319727893,
+          "slow_start": 313.29092970521543,
+          "slow_end": 323.6354195011338
+        },
+        {
+          "text": "Umožnilo také přesněji požádat o to, co bylo v dané chvíli opravdu potřeba: rozhodnutí, informaci, nebo závazek jednat.",
+          "start": 286.08299319727894,
+          "end": 297.22857142857146,
+          "slow_start": 323.81541950113376,
+          "slow_end": 336.4354648526077
+        }
+      ],
+      "slow_start": 280.67832199546484,
+      "slow_end": 336.4354648526077
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "81a16d11d89608970d03eecc299aeebd6904d025ef81c3c106a7381c6670a9f5",
+    "slow": "ec1da95c59434a73af73b1476e82596c43896565b6498c7e8410c4e75767c5dd"
+  }
+}

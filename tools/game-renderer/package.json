@@ -1,0 +1,12 @@
+{
+  "name": "czlife-renderer-build",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "pixi.js": "8.22.0",
+    "pixi-viewport": "6.0.3",
+    "esbuild": "0.28.2",
+    "sharp": "0.35.5",
+    "@napi-rs/canvas": "0.1.80"
+  }
+}

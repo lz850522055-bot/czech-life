@@ -1,0 +1,57 @@
+{
+  "id": "B2-U03-L01--2026.10.22.1--contrasts",
+  "lesson_id": "B2-U03-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B2",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "byli. byly.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "byli. byly."
+      ]
+    }
+  ],
+  "text_sha256": "270b3f9de5b79a41ff73b688421a8c3cca24fcac931e19a20d086ef90f2a5865",
+  "source_file": "content/lessons/B2/B2-U03-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U03-L01--2026.10.22.1--contrasts--270b3f9de5--normal.mp3",
+  "slow_file": "content/audio/files/B2-U03-L01--2026.10.22.1--contrasts--270b3f9de5--slow.mp3",
+  "duration_seconds": 1.1087981859410432,
+  "slow_duration_seconds": 1.2597278911564627,
+  "cues": [
+    {
+      "text": "byli. byly.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "byli. byly."
+      ],
+      "start": 0.0,
+      "end": 0.9287981859410431,
+      "sentences": [
+        {
+          "text": "byli. byly.",
+          "start": 0.0,
+          "end": 0.9287981859410431,
+          "slow_start": 0.0,
+          "slow_end": 1.0797278911564625
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.0797278911564625
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "5ad7ac7484e9457e196478c8344bb6fe6c26a2f1ea25ed00cc5cfad4c5986f03",
+    "slow": "1207809de28bba6d2b9ea5e5e27076925a9ad3db1435c85bed23efa4e6d595cc"
+  }
+}

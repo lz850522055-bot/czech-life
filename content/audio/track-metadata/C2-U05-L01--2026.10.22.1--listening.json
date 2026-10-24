@@ -1,0 +1,75 @@
+{
+  "id": "C2-U05-L01--2026.10.22.1--listening",
+  "lesson_id": "C2-U05-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C2",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Vedení sleduje čas u přepážky, zaměstnanci celkovou práci a uživatelé vlastní přístup ke službě. Výsledky se mohou lišit, aniž by někdo nutně lhal. To však neznamená, že jsou všechny závěry stejně dobře podloženy.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Vedení sleduje čas u přepážky, zaměstnanci celkovou práci a uživatelé vlastní přístup ke službě.",
+        "Výsledky se mohou lišit, aniž by někdo nutně lhal.",
+        "To však neznamená, že jsou všechny závěry stejně dobře podloženy."
+      ]
+    }
+  ],
+  "text_sha256": "ca7eeff5f6bd56723744fa12620d4dda9784e12ecf83d8a81324094c83be40ae",
+  "source_file": "content/lessons/C2/C2-U05-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U05-L01--2026.10.22.1--listening--ca7eeff5f6--normal.mp3",
+  "slow_file": "content/audio/files/C2-U05-L01--2026.10.22.1--listening--ca7eeff5f6--slow.mp3",
+  "duration_seconds": 18.61673469387755,
+  "slow_duration_seconds": 21.20575963718821,
+  "cues": [
+    {
+      "text": "Vedení sleduje čas u přepážky, zaměstnanci celkovou práci a uživatelé vlastní přístup ke službě. Výsledky se mohou lišit, aniž by někdo nutně lhal. To však neznamená, že jsou všechny závěry stejně dobře podloženy.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Vedení sleduje čas u přepážky, zaměstnanci celkovou práci a uživatelé vlastní přístup ke službě.",
+        "Výsledky se mohou lišit, aniž by někdo nutně lhal.",
+        "To však neznamená, že jsou všechny závěry stejně dobře podloženy."
+      ],
+      "start": 0.0,
+      "end": 18.43673469387755,
+      "sentences": [
+        {
+          "text": "Vedení sleduje čas u přepážky, zaměstnanci celkovou práci a uživatelé vlastní přístup ke službě.",
+          "start": 0.0,
+          "end": 8.614603174603175,
+          "slow_start": 0.0,
+          "slow_end": 9.763990929705216
+        },
+        {
+          "text": "Výsledky se mohou lišit, aniž by někdo nutně lhal.",
+          "start": 8.794603174603175,
+          "end": 13.05546485260771,
+          "slow_start": 9.943990929705215,
+          "slow_end": 14.808571428571428
+        },
+        {
+          "text": "To však neznamená, že jsou všechny závěry stejně dobře podloženy.",
+          "start": 13.23546485260771,
+          "end": 18.43673469387755,
+          "slow_start": 14.98857142857143,
+          "slow_end": 21.02575963718821
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 21.02575963718821
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "601eab475f60a70254c20421f1aa34fabc0f98f1a01a47d071288d5b68a96409",
+    "slow": "ab4515fc67c9006ba0e443f0bf983bf436645f7539cd1c11aadd588fe6599dd9"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "B2-U03-L01--2026.10.23.1--exercises",
+  "lesson_id": "B2-U03-L01",
+  "content_version": "2026.10.23.1",
+  "level": "B2",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Nové lavičky byly připraveny, ale dětská hřiště ještě nebyla otevřena.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "B2-U03-L01-E03",
+      "parts": [
+        "Nové lavičky byly připraveny, ale dětská hřiště ještě nebyla otevřena."
+      ]
+    }
+  ],
+  "text_sha256": "f390b9ac44ee5bd84957f855f1656ef7c76bd88bcdaec79bfcfc48617d7a5a5d",
+  "source_file": "content/lessons/B2/B2-U03-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U03-L01--2026.10.22.1--exercises--f390b9ac44--normal.mp3",
+  "slow_file": "content/audio/files/B2-U03-L01--2026.10.22.1--exercises--f390b9ac44--slow.mp3",
+  "duration_seconds": 5.636689342403628,
+  "slow_duration_seconds": 6.4261678004535145,
+  "cues": [
+    {
+      "text": "Nové lavičky byly připraveny, ale dětská hřiště ještě nebyla otevřena.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "B2-U03-L01-E03",
+      "parts": [
+        "Nové lavičky byly připraveny, ale dětská hřiště ještě nebyla otevřena."
+      ],
+      "start": 0.0,
+      "end": 5.456689342403628,
+      "sentences": [
+        {
+          "text": "Nové lavičky byly připraveny, ale dětská hřiště ještě nebyla otevřena.",
+          "start": 0.0,
+          "end": 5.456689342403628,
+          "slow_start": 0.0,
+          "slow_end": 6.246167800453515
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 6.246167800453515
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "3e4c6d64290ebf1058bd47e0272c4cb7ee07040997e24b9e1bade5a2b4c865a3",
+    "slow": "80db80938de8775132f49171710d9955d62be1ac3359ba68a8bb8606f6831d31"
+  },
+  "reused_from_track_id": "B2-U03-L01--2026.10.22.1--exercises"
+}

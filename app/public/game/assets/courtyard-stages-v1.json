@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "url": "/game/assets/courtyard-stages-v1.webp",
+  "width": 1254,
+  "height": 1254,
+  "tile_width": 627,
+  "tile_height": 627,
+  "frames": [
+    "cleared",
+    "materials",
+    "foundation",
+    "built"
+  ],
+  "file_sha256": "cb3a9d27f4295e909a0e7aedf2e8c15dcf499781ad4a7d24f196e6b0e7eede36",
+  "source_sha256": "2c8d21f78efb5c6fe720dfddcdefa9319caec61517b37610631f1482e71dc8fd",
+  "decoded_rgba_sha256": "SHA256=e03f107822cd20ea1c57646d25433adc66ac380176834f5ff3c983edd99b9bf4",
+  "pixel_equal": true,
+  "bytes": 2925384,
+  "source": "Built-in image_gen; reference used only for style; four authored fictional courtyard illustrations; one shared building illustration, not a real Prague plot or three unique plan illustrations."
+}

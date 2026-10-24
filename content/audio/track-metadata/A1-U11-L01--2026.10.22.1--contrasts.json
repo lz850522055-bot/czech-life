@@ -1,0 +1,57 @@
+{
+  "id": "A1-U11-L01--2026.10.22.1--contrasts",
+  "lesson_id": "A1-U11-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A1",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "s Janou. bez Jany.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "s Janou. bez Jany."
+      ]
+    }
+  ],
+  "text_sha256": "6f6b39b583362a7d1e0f80514c65576620db7fce3083d3dc2b3821aabbd28d1c",
+  "source_file": "content/lessons/A1/A1-U11-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U11-L01--2026.10.22.1--contrasts--6f6b39b583--normal.mp3",
+  "slow_file": "content/audio/files/A1-U11-L01--2026.10.22.1--contrasts--6f6b39b583--slow.mp3",
+  "duration_seconds": 1.375827664399093,
+  "slow_duration_seconds": 1.5964172335600908,
+  "cues": [
+    {
+      "text": "s Janou. bez Jany.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "s Janou. bez Jany."
+      ],
+      "start": 0.0,
+      "end": 1.195827664399093,
+      "sentences": [
+        {
+          "text": "s Janou. bez Jany.",
+          "start": 0.0,
+          "end": 1.195827664399093,
+          "slow_start": 0.0,
+          "slow_end": 1.4164172335600906
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.4164172335600906
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "0820dab7be53dd6c287d55778c0319211c7de32c97b5970c7e8fdc8fd0df3f5e",
+    "slow": "cd59e90a358bdf9d134e7b825c64982920d55d7309884739678f1de9731b98d1"
+  }
+}

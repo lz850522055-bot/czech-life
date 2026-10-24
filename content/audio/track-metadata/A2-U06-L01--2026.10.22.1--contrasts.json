@@ -1,0 +1,57 @@
+{
+  "id": "A2-U06-L01--2026.10.22.1--contrasts",
+  "lesson_id": "A2-U06-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "na stůl. na stole.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "na stůl. na stole."
+      ]
+    }
+  ],
+  "text_sha256": "bf202609282a83ebda4b74338d4cbf932683ad9c21ff1434570a7ab364ed0a8e",
+  "source_file": "content/lessons/A2/A2-U06-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U06-L01--2026.10.22.1--contrasts--bf20260928--normal.mp3",
+  "slow_file": "content/audio/files/A2-U06-L01--2026.10.22.1--contrasts--bf20260928--slow.mp3",
+  "duration_seconds": 1.8286167800453514,
+  "slow_duration_seconds": 2.0027664399092973,
+  "cues": [
+    {
+      "text": "na stůl. na stole.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "na stůl. na stole."
+      ],
+      "start": 0.0,
+      "end": 1.6486167800453515,
+      "sentences": [
+        {
+          "text": "na stůl. na stole.",
+          "start": 0.0,
+          "end": 1.6486167800453515,
+          "slow_start": 0.0,
+          "slow_end": 1.822766439909297
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.822766439909297
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "4aca3358ca0de592c8867d67b3400eff11acdf08fdf0d68d90213202f3c9c24f",
+    "slow": "69ccf093cce56b1721e66483f99014bbff7378ab23f7502291b504f90f2a1d20"
+  }
+}

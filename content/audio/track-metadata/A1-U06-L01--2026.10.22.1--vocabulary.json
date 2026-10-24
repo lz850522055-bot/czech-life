@@ -1,0 +1,202 @@
+{
+  "id": "A1-U06-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "A1-U06-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A1",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Zítra mám čas.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Zítra mám čas."
+      ]
+    },
+    {
+      "text": "V sedm mám schůzku.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "V sedm mám schůzku."
+      ]
+    },
+    {
+      "text": "Přijdu v šest hodin.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Přijdu v šest hodin."
+      ]
+    },
+    {
+      "text": "Je půl šesté.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Je půl šesté."
+      ]
+    },
+    {
+      "text": "Čekám před vchodem.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Čekám před vchodem."
+      ]
+    },
+    {
+      "text": "Odpoledne mám volno.",
+      "index": 5,
+      "role": "vocabulary",
+      "parts": [
+        "Odpoledne mám volno."
+      ]
+    }
+  ],
+  "text_sha256": "4b8eb9469ee01553afb443942c6c62a40705a7b116a6e06c7b289f0ee3a7029e",
+  "source_file": "content/lessons/A1/A1-U06-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U06-L01--2026.10.22.1--vocabulary--4b8eb9469e--normal.mp3",
+  "slow_file": "content/audio/files/A1-U06-L01--2026.10.22.1--vocabulary--4b8eb9469e--slow.mp3",
+  "duration_seconds": 11.412879818594105,
+  "slow_duration_seconds": 12.7015873015873,
+  "cues": [
+    {
+      "text": "Zítra mám čas.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Zítra mám čas."
+      ],
+      "start": 0.0,
+      "end": 1.787936507936508,
+      "sentences": [
+        {
+          "text": "Zítra mám čas.",
+          "start": 0.0,
+          "end": 1.787936507936508,
+          "slow_start": 0.0,
+          "slow_end": 2.0085260770975055
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.0085260770975055
+    },
+    {
+      "text": "V sedm mám schůzku.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "V sedm mám schůzku."
+      ],
+      "start": 1.9679365079365079,
+      "end": 3.8023129251700682,
+      "sentences": [
+        {
+          "text": "V sedm mám schůzku.",
+          "start": 1.9679365079365079,
+          "end": 3.8023129251700682,
+          "slow_start": 2.1885260770975057,
+          "slow_end": 4.231882086167801
+        }
+      ],
+      "slow_start": 2.1885260770975057,
+      "slow_end": 4.231882086167801
+    },
+    {
+      "text": "Přijdu v šest hodin.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Přijdu v šest hodin."
+      ],
+      "start": 3.982312925170068,
+      "end": 5.665759637188208,
+      "sentences": [
+        {
+          "text": "Přijdu v šest hodin.",
+          "start": 3.982312925170068,
+          "end": 5.665759637188208,
+          "slow_start": 4.4118820861678,
+          "slow_end": 6.315918367346939
+        }
+      ],
+      "slow_start": 4.4118820861678,
+      "slow_end": 6.315918367346939
+    },
+    {
+      "text": "Je půl šesté.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Je půl šesté."
+      ],
+      "start": 5.845759637188209,
+      "end": 7.366666666666666,
+      "sentences": [
+        {
+          "text": "Je půl šesté.",
+          "start": 5.845759637188209,
+          "end": 7.366666666666666,
+          "slow_start": 6.495918367346939,
+          "slow_end": 8.190975056689343
+        }
+      ],
+      "slow_start": 6.495918367346939,
+      "slow_end": 8.190975056689343
+    },
+    {
+      "text": "Čekám před vchodem.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Čekám před vchodem."
+      ],
+      "start": 7.546666666666667,
+      "end": 9.183673469387756,
+      "sentences": [
+        {
+          "text": "Čekám před vchodem.",
+          "start": 7.546666666666667,
+          "end": 9.183673469387756,
+          "slow_start": 8.370975056689343,
+          "slow_end": 10.147301587301587
+        }
+      ],
+      "slow_start": 8.370975056689343,
+      "slow_end": 10.147301587301587
+    },
+    {
+      "text": "Odpoledne mám volno.",
+      "index": 5,
+      "role": "vocabulary",
+      "parts": [
+        "Odpoledne mám volno."
+      ],
+      "start": 9.363673469387756,
+      "end": 11.232879818594105,
+      "sentences": [
+        {
+          "text": "Odpoledne mám volno.",
+          "start": 9.363673469387756,
+          "end": 11.232879818594105,
+          "slow_start": 10.327301587301587,
+          "slow_end": 12.521587301587301
+        }
+      ],
+      "slow_start": 10.327301587301587,
+      "slow_end": 12.521587301587301
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "9d4ccc4d657a51c78dd11457d7a2459ac04dda1630e7087e7916a3821bf6234c",
+    "slow": "f44f93c029a3b1bfea1c4ee7f621d9a132138d85ed2b4f87055b6ec77af62226"
+  }
+}

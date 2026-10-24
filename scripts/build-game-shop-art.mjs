@@ -1,0 +1,18 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import {fileURLToPath} from 'node:url';
+import {createHash} from 'node:crypto';
+import sharp from '../tools/game-renderer/node_modules/sharp/dist/index.mjs';
+const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..'),dir=path.join(root,'app/public/game');
+const hash=buffer=>createHash('sha256').update(buffer).digest('hex');
+sharp.concurrency(1);
+const roomSource=path.join(dir,'scenes/mala-strana-cup-shop-v1.png'),roomOutput=path.join(dir,'scenes/mala-strana-cup-shop-v1.webp');
+await sharp(roomSource).webp({lossless:true,effort:5}).toFile(roomOutput);
+const source=await sharp(roomSource).removeAlpha().raw().toBuffer({resolveWithObject:true}),runtime=await sharp(roomOutput).removeAlpha().raw().toBuffer();
+if(!source.data.equals(runtime))throw Error('Room background differs from original source pixels');
+const itemSource=path.join(dir,'assets/cup-item-v1.png'),itemOutput=path.join(dir,'assets/cup-item-v1.webp'),alpha=await sharp(itemSource).ensureAlpha().raw().toBuffer();
+let transparent=0;for(let i=3;i<alpha.length;i+=4)if(alpha[i]===0)transparent++;
+if(!transparent)throw Error('Cup item must have real transparency');
+await sharp(itemSource).resize({width:256,height:256,fit:'inside',withoutEnlargement:true}).webp({lossless:true,effort:5}).toFile(itemOutput);
+const evidence={at:new Date().toISOString(),mode:'built-in image_gen; originals retained',room:{source:path.relative(root,roomSource),runtime:path.relative(root,roomOutput),pixels:[source.info.width,source.info.height],source_bytes:fs.statSync(roomSource).size,runtime_bytes:fs.statSync(roomOutput).size,runtime_rgb_matches_source:true,pixels_sha256:hash(source.data)},item:{source:path.relative(root,itemSource),runtime:path.relative(root,itemOutput),runtime_bytes:fs.statSync(itemOutput).size,transparent_pixels:transparent,source_sha256:hash(fs.readFileSync(itemSource)),purpose:'256-pixel transparent runtime item for maximum 62 CSS pixels; original source preserved'}};
+fs.writeFileSync(path.join(root,'evidence/game-prague-20261024/shop-art-audit.json'),JSON.stringify(evidence,null,2));console.log(JSON.stringify(evidence));

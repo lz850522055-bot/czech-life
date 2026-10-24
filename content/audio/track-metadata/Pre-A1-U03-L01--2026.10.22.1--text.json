@@ -1,0 +1,305 @@
+{
+  "id": "Pre-A1-U03-L01--2026.10.22.1--text",
+  "lesson_id": "Pre-A1-U03-L01",
+  "content_version": "2026.10.22.1",
+  "level": "Pre-A1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Cena. Čaj.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Cena.",
+        "Čaj."
+      ]
+    },
+    {
+      "text": "Rada. Řada.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Rada.",
+        "Řada."
+      ]
+    },
+    {
+      "text": "Tři. Čtyři.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Tři.",
+        "Čtyři."
+      ]
+    },
+    {
+      "text": "Ruka. Řeka.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Ruka.",
+        "Řeka."
+      ]
+    },
+    {
+      "text": "Krk. Vlk.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Krk.",
+        "Vlk."
+      ]
+    },
+    {
+      "text": "Tady je řeka.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Tady je řeka."
+      ]
+    },
+    {
+      "text": "Prosím tři čaje.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Prosím tři čaje."
+      ]
+    },
+    {
+      "text": "Řekněte to pomalu, prosím.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Řekněte to pomalu, prosím."
+      ]
+    }
+  ],
+  "text_sha256": "3740a9223909d595c97820d88e20b089bf1b2ba54b8da5332b847a02a0eb88bc",
+  "source_file": "content/lessons/Pre-A1/Pre-A1-U03-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/Pre-A1-U03-L01--2026.10.22.1--text--3740a92239--normal.mp3",
+  "slow_file": "content/audio/files/Pre-A1-U03-L01--2026.10.22.1--text--3740a92239--slow.mp3",
+  "duration_seconds": 14.867165532879818,
+  "slow_duration_seconds": 16.51578231292517,
+  "cues": [
+    {
+      "text": "Cena. Čaj.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Cena.",
+        "Čaj."
+      ],
+      "start": 0.0,
+      "end": 1.5499773242630386,
+      "sentences": [
+        {
+          "text": "Cena.",
+          "start": 0.0,
+          "end": 0.626938775510204,
+          "slow_start": 0.0,
+          "slow_end": 0.6965986394557823
+        },
+        {
+          "text": "Čaj.",
+          "start": 0.8069387755102041,
+          "end": 1.5499773242630386,
+          "slow_start": 0.8765986394557823,
+          "slow_end": 1.677687074829932
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.677687074829932
+    },
+    {
+      "text": "Rada. Řada.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Rada.",
+        "Řada."
+      ],
+      "start": 1.7299773242630385,
+      "end": 3.303174603174603,
+      "sentences": [
+        {
+          "text": "Rada.",
+          "start": 1.7299773242630385,
+          "end": 2.403356009070295,
+          "slow_start": 1.857687074829932,
+          "slow_end": 2.693605442176871
+        },
+        {
+          "text": "Řada.",
+          "start": 2.583356009070295,
+          "end": 3.303174603174603,
+          "slow_start": 2.8736054421768706,
+          "slow_end": 3.7327437641723358
+        }
+      ],
+      "slow_start": 1.857687074829932,
+      "slow_end": 3.7327437641723358
+    },
+    {
+      "text": "Tři. Čtyři.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Tři.",
+        "Čtyři."
+      ],
+      "start": 3.483174603174603,
+      "end": 5.0331519274376415,
+      "sentences": [
+        {
+          "text": "Tři.",
+          "start": 3.483174603174603,
+          "end": 4.075283446712018,
+          "slow_start": 3.9127437641723355,
+          "slow_end": 4.667392290249433
+        },
+        {
+          "text": "Čtyři.",
+          "start": 4.255283446712018,
+          "end": 5.0331519274376415,
+          "slow_start": 4.8473922902494335,
+          "slow_end": 5.683310657596372
+        }
+      ],
+      "slow_start": 3.9127437641723355,
+      "slow_end": 5.683310657596372
+    },
+    {
+      "text": "Ruka. Řeka.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Ruka.",
+        "Řeka."
+      ],
+      "start": 5.213151927437642,
+      "end": 6.983718820861678,
+      "sentences": [
+        {
+          "text": "Ruka.",
+          "start": 5.213151927437642,
+          "end": 6.002630385487528,
+          "slow_start": 5.863310657596372,
+          "slow_end": 6.734058956916099
+        },
+        {
+          "text": "Řeka.",
+          "start": 6.182630385487529,
+          "end": 6.983718820861678,
+          "slow_start": 6.9140589569161,
+          "slow_end": 7.877687074829932
+        }
+      ],
+      "slow_start": 5.863310657596372,
+      "slow_end": 7.877687074829932
+    },
+    {
+      "text": "Krk. Vlk.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Krk.",
+        "Vlk."
+      ],
+      "start": 7.163718820861678,
+      "end": 8.922675736961452,
+      "sentences": [
+        {
+          "text": "Krk.",
+          "start": 7.163718820861678,
+          "end": 7.767437641723356,
+          "slow_start": 8.057687074829932,
+          "slow_end": 8.742675736961452
+        },
+        {
+          "text": "Vlk.",
+          "start": 7.947437641723356,
+          "end": 8.922675736961452,
+          "slow_start": 8.922675736961452,
+          "slow_end": 9.99079365079365
+        }
+      ],
+      "slow_start": 8.057687074829932,
+      "slow_end": 9.99079365079365
+    },
+    {
+      "text": "Tady je řeka.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Tady je řeka."
+      ],
+      "start": 9.102675736961451,
+      "end": 10.310113378684807,
+      "sentences": [
+        {
+          "text": "Tady je řeka.",
+          "start": 9.102675736961451,
+          "end": 10.310113378684807,
+          "slow_start": 10.170793650793652,
+          "slow_end": 11.494331065759637
+        }
+      ],
+      "slow_start": 10.170793650793652,
+      "slow_end": 11.494331065759637
+    },
+    {
+      "text": "Prosím tři čaje.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Prosím tři čaje."
+      ],
+      "start": 10.490113378684807,
+      "end": 12.057460317460318,
+      "sentences": [
+        {
+          "text": "Prosím tři čaje.",
+          "start": 10.490113378684807,
+          "end": 12.057460317460318,
+          "slow_start": 11.674331065759636,
+          "slow_end": 13.450657596371881
+        }
+      ],
+      "slow_start": 11.674331065759636,
+      "slow_end": 13.450657596371881
+    },
+    {
+      "text": "Řekněte to pomalu, prosím.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Řekněte to pomalu, prosím."
+      ],
+      "start": 12.237460317460318,
+      "end": 14.687165532879819,
+      "sentences": [
+        {
+          "text": "Řekněte to pomalu, prosím.",
+          "start": 12.237460317460318,
+          "end": 14.687165532879819,
+          "slow_start": 13.630657596371883,
+          "slow_end": 16.33578231292517
+        }
+      ],
+      "slow_start": 13.630657596371883,
+      "slow_end": 16.33578231292517
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "56e91e780219182e65c89fa04f5dbc1c5e49c4f6a1db39645e6612b0c43e0726",
+    "slow": "1052ae58ab08810a2d056eeaaea4f2628cef06b5a158b6845b9ea98fcb8646e6"
+  }
+}

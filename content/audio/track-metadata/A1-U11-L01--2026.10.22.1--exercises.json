@@ -1,0 +1,59 @@
+{
+  "id": "A1-U11-L01--2026.10.22.1--exercises",
+  "lesson_id": "A1-U11-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A1",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Mluví s Evou o rodině.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "A1-U11-L01-E01",
+      "parts": [
+        "Mluví s Evou o rodině."
+      ]
+    }
+  ],
+  "text_sha256": "4d9e216d4e4146f9c2a518f176394b97790f567bf08b73369c0d0ec0607c33c1",
+  "source_file": "content/lessons/A1/A1-U11-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U11-L01--2026.10.22.1--exercises--4d9e216d4e--normal.mp3",
+  "slow_file": "content/audio/files/A1-U11-L01--2026.10.22.1--exercises--4d9e216d4e--slow.mp3",
+  "duration_seconds": 2.339455782312925,
+  "slow_duration_seconds": 2.6877551020408164,
+  "cues": [
+    {
+      "text": "Mluví s Evou o rodině.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "A1-U11-L01-E01",
+      "parts": [
+        "Mluví s Evou o rodině."
+      ],
+      "start": 0.0,
+      "end": 2.159455782312925,
+      "sentences": [
+        {
+          "text": "Mluví s Evou o rodině.",
+          "start": 0.0,
+          "end": 2.159455782312925,
+          "slow_start": 0.0,
+          "slow_end": 2.507755102040816
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.507755102040816
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "70a1014d18e384c220893d57a254af027f0e5784dc6c5c7ecad2e48b4b85334a",
+    "slow": "60c32bfa0774c822d09c4fbf5aa20bb17ac1f8a856ccf7426b31b8618e7ece4f"
+  }
+}

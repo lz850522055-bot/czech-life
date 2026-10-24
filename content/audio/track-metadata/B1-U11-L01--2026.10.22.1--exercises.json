@@ -1,0 +1,68 @@
+{
+  "id": "B1-U11-L01--2026.10.22.1--exercises",
+  "lesson_id": "B1-U11-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Místnost máte do sedmi. Klíč vraťte nejpozději v půl osmé.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "B1-U11-L01-E03",
+      "parts": [
+        "Místnost máte do sedmi.",
+        "Klíč vraťte nejpozději v půl osmé."
+      ]
+    }
+  ],
+  "text_sha256": "116be768350f41206f6d2a65db9ad6044d9745152fb5fa931d2e6e72c66a6192",
+  "source_file": "content/lessons/B1/B1-U11-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U11-L01--2026.10.22.1--exercises--116be76835--normal.mp3",
+  "slow_file": "content/audio/files/B1-U11-L01--2026.10.22.1--exercises--116be76835--slow.mp3",
+  "duration_seconds": 5.514829931972789,
+  "slow_duration_seconds": 6.095328798185941,
+  "cues": [
+    {
+      "text": "Místnost máte do sedmi. Klíč vraťte nejpozději v půl osmé.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "B1-U11-L01-E03",
+      "parts": [
+        "Místnost máte do sedmi.",
+        "Klíč vraťte nejpozději v půl osmé."
+      ],
+      "start": 0.0,
+      "end": 5.334829931972789,
+      "sentences": [
+        {
+          "text": "Místnost máte do sedmi.",
+          "start": 0.0,
+          "end": 2.124625850340136,
+          "slow_start": 0.0,
+          "slow_end": 2.3568253968253967
+        },
+        {
+          "text": "Klíč vraťte nejpozději v půl osmé.",
+          "start": 2.3046258503401362,
+          "end": 5.334829931972789,
+          "slow_start": 2.536825396825397,
+          "slow_end": 5.915328798185941
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 5.915328798185941
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "08e77e7349b376c40686f0628abed420dd9fbb88ff75d3e8ff62a6fb41fedeed",
+    "slow": "6cb923f518e4792de3ca6b5f9331360e124e9975698c6eecc334532e6976f8fc"
+  }
+}

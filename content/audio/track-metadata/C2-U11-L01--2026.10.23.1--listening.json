@@ -1,0 +1,85 @@
+{
+  "id": "C2-U11-L01--2026.10.23.1--listening",
+  "lesson_id": "C2-U11-L01",
+  "content_version": "2026.10.23.1",
+  "level": "C2",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Editorka: Tady se třikrát vracejí kroky. Autorka: Pokaždé ale znamenají něco jiného: nejprve rušení, potom blízkost a nakonec moje vlastní jednání. Editorka: Dobře, motiv zachovejme. Slovo zajímavý však nahradíme konkrétním detailem.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Editorka: Tady se třikrát vracejí kroky.",
+        "Autorka: Pokaždé ale znamenají něco jiného: nejprve rušení, potom blízkost a nakonec moje vlastní jednání.",
+        "Editorka: Dobře, motiv zachovejme.",
+        "Slovo zajímavý však nahradíme konkrétním detailem."
+      ]
+    }
+  ],
+  "text_sha256": "1f67e27e3921219358b827020c886625db77b0a619987a4097ef92bf88d65a44",
+  "source_file": "content/lessons/C2/C2-U11-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U11-L01--2026.10.22.1--listening--1f67e27e39--normal.mp3",
+  "slow_file": "content/audio/files/C2-U11-L01--2026.10.22.1--listening--1f67e27e39--slow.mp3",
+  "duration_seconds": 22.024308390022675,
+  "slow_duration_seconds": 24.474013605442178,
+  "cues": [
+    {
+      "text": "Editorka: Tady se třikrát vracejí kroky. Autorka: Pokaždé ale znamenají něco jiného: nejprve rušení, potom blízkost a nakonec moje vlastní jednání. Editorka: Dobře, motiv zachovejme. Slovo zajímavý však nahradíme konkrétním detailem.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Editorka: Tady se třikrát vracejí kroky.",
+        "Autorka: Pokaždé ale znamenají něco jiného: nejprve rušení, potom blízkost a nakonec moje vlastní jednání.",
+        "Editorka: Dobře, motiv zachovejme.",
+        "Slovo zajímavý však nahradíme konkrétním detailem."
+      ],
+      "start": 0.0,
+      "end": 21.844308390022675,
+      "sentences": [
+        {
+          "text": "Editorka: Tady se třikrát vracejí kroky.",
+          "start": 0.0,
+          "end": 3.7035827664399092,
+          "slow_start": 0.0,
+          "slow_end": 4.237641723356009
+        },
+        {
+          "text": "Autorka: Pokaždé ale znamenají něco jiného: nejprve rušení, potom blízkost a nakonec moje vlastní jednání.",
+          "start": 3.8835827664399094,
+          "end": 13.891383219954648,
+          "slow_start": 4.4176417233560095,
+          "slow_end": 15.493560090702948
+        },
+        {
+          "text": "Editorka: Dobře, motiv zachovejme.",
+          "start": 14.07138321995465,
+          "end": 17.078367346938776,
+          "slow_start": 15.673560090702948,
+          "slow_end": 19.08689342403628
+        },
+        {
+          "text": "Slovo zajímavý však nahradíme konkrétním detailem.",
+          "start": 17.258367346938776,
+          "end": 21.844308390022675,
+          "slow_start": 19.26689342403628,
+          "slow_end": 24.294013605442178
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 24.294013605442178
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "40e9c1ac95d86ce9a10cb53cbb2205291b50f88aaae571531f7307233c063a88",
+    "slow": "5f36acc2c9a90c0fcc91f8b07b9d0aef55f74d4c10202cc7f20b62f147cae8d5"
+  },
+  "reused_from_track_id": "C2-U11-L01--2026.10.22.1--listening"
+}

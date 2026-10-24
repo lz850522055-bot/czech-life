@@ -1,0 +1,68 @@
+{
+  "id": "B1-U05-L01--2026.10.22.1--exercises",
+  "lesson_id": "B1-U05-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Kdybych měla auto, zvolila bych byt za městem. Teď ale jezdím tramvají.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "B1-U05-L01-E03",
+      "parts": [
+        "Kdybych měla auto, zvolila bych byt za městem.",
+        "Teď ale jezdím tramvají."
+      ]
+    }
+  ],
+  "text_sha256": "17fafbb75fbe681225c5cedd1c188536d83248868f6e14b58ce861dcbe1cf2f5",
+  "source_file": "content/lessons/B1/B1-U05-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U05-L01--2026.10.22.1--exercises--17fafbb75f--normal.mp3",
+  "slow_file": "content/audio/files/B1-U05-L01--2026.10.22.1--exercises--17fafbb75f--slow.mp3",
+  "duration_seconds": 6.408798185941043,
+  "slow_duration_seconds": 7.46530612244898,
+  "cues": [
+    {
+      "text": "Kdybych měla auto, zvolila bych byt za městem. Teď ale jezdím tramvají.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "B1-U05-L01-E03",
+      "parts": [
+        "Kdybych měla auto, zvolila bych byt za městem.",
+        "Teď ale jezdím tramvají."
+      ],
+      "start": 0.0,
+      "end": 6.228798185941043,
+      "sentences": [
+        {
+          "text": "Kdybych měla auto, zvolila bych byt za městem.",
+          "start": 0.0,
+          "end": 4.0751020408163265,
+          "slow_start": 0.0,
+          "slow_end": 4.6788208616780045
+        },
+        {
+          "text": "Teď ale jezdím tramvají.",
+          "start": 4.255102040816326,
+          "end": 6.228798185941043,
+          "slow_start": 4.858820861678004,
+          "slow_end": 7.285306122448979
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 7.285306122448979
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "0e3e19a58b1ce4151540e8a1d87dc503468db33175851d89a313bb485a9463d7",
+    "slow": "f259a06a553770ae9db9d9f22c5ef8e7e1b5143ab430115c153c94186d27f8aa"
+  }
+}

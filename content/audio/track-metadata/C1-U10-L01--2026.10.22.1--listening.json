@@ -1,0 +1,75 @@
+{
+  "id": "C1-U10-L01--2026.10.22.1--listening",
+  "lesson_id": "C1-U10-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Letošní zpráva počítá celý víkend, loňská jen sobotu. Dokud období nesjednotíme, nemůžeme změnu celkového čísla označit za změnu návštěvnosti. Zkušenost prodejců je další podklad, ale odpovídá na jinou otázku.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Letošní zpráva počítá celý víkend, loňská jen sobotu.",
+        "Dokud období nesjednotíme, nemůžeme změnu celkového čísla označit za změnu návštěvnosti.",
+        "Zkušenost prodejců je další podklad, ale odpovídá na jinou otázku."
+      ]
+    }
+  ],
+  "text_sha256": "2e9c5dd2a10ac932e1ad102d7dd2dd5ef973cb45e84ceea1f6a442847f57d9b3",
+  "source_file": "content/lessons/C1/C1-U10-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U10-L01--2026.10.22.1--listening--2e9c5dd2a1--normal.mp3",
+  "slow_file": "content/audio/files/C1-U10-L01--2026.10.22.1--listening--2e9c5dd2a1--slow.mp3",
+  "duration_seconds": 19.33655328798186,
+  "slow_duration_seconds": 22.180997732426302,
+  "cues": [
+    {
+      "text": "Letošní zpráva počítá celý víkend, loňská jen sobotu. Dokud období nesjednotíme, nemůžeme změnu celkového čísla označit za změnu návštěvnosti. Zkušenost prodejců je další podklad, ale odpovídá na jinou otázku.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Letošní zpráva počítá celý víkend, loňská jen sobotu.",
+        "Dokud období nesjednotíme, nemůžeme změnu celkového čísla označit za změnu návštěvnosti.",
+        "Zkušenost prodejců je další podklad, ale odpovídá na jinou otázku."
+      ],
+      "start": 0.0,
+      "end": 19.156553287981858,
+      "sentences": [
+        {
+          "text": "Letošní zpráva počítá celý víkend, loňská jen sobotu.",
+          "start": 0.0,
+          "end": 4.9806802721088435,
+          "slow_start": 0.0,
+          "slow_end": 5.630839002267574
+        },
+        {
+          "text": "Dokud období nesjednotíme, nemůžeme změnu celkového čísla označit za změnu návštěvnosti.",
+          "start": 5.160680272108843,
+          "end": 13.032244897959183,
+          "slow_start": 5.810839002267573,
+          "slow_end": 15.098820861678005
+        },
+        {
+          "text": "Zkušenost prodejců je další podklad, ale odpovídá na jinou otázku.",
+          "start": 13.212244897959184,
+          "end": 19.156553287981858,
+          "slow_start": 15.278820861678005,
+          "slow_end": 22.000997732426303
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 22.000997732426303
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "19a5f04e2477f7ec2ccf26f72eaf588dca3742134969fd111d5fb8a754077a04",
+    "slow": "96883829568225492ea2c2fd6f32c15e316295da4a2b1403a4c26f1c2ec78e93"
+  }
+}

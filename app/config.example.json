@@ -1,0 +1,22 @@
+{
+  "host": "127.0.0.1",
+  "port": 8765,
+  "publicOrigin": "",
+  "dataDir": "data",
+  "uploadsDir": "uploads",
+  "backupDir": "backups",
+  "logsDir": "logs",
+  "cacheDir": "cache",
+  "contentDir": "content",
+  "sessionDays": 14,
+  "ai": {
+    "enabled": false,
+    "endpoint": "",
+    "model": "",
+    "keyEnv": "CZ_AI_API_KEY",
+    "dailyRequestLimit": 20,
+    "inputPricePerMillion": null,
+    "outputPricePerMillion": null,
+    "currency": "USD"
+  }
+}

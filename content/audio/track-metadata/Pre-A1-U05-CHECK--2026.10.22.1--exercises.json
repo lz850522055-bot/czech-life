@@ -1,0 +1,59 @@
+{
+  "id": "Pre-A1-U05-CHECK--2026.10.22.1--exercises",
+  "lesson_id": "Pre-A1-U05-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "Pre-A1",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Pošta je za obchodem.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "Pre-A1-U05-CHECK-E01",
+      "parts": [
+        "Pošta je za obchodem."
+      ]
+    }
+  ],
+  "text_sha256": "b8617a45e2e341dc6fb887deacaac900538558a4b17c5c41d9785e5fc5c1cd6f",
+  "source_file": "content/assessments/Pre-A1-U05.json",
+  "status": "generated",
+  "file": "content/audio/files/Pre-A1-U05-CHECK--2026.10.22.1--exercises--b8617a45e2--normal.mp3",
+  "slow_file": "content/audio/files/Pre-A1-U05-CHECK--2026.10.22.1--exercises--b8617a45e2--slow.mp3",
+  "duration_seconds": 1.7473469387755103,
+  "slow_duration_seconds": 1.8750566893424037,
+  "cues": [
+    {
+      "text": "Pošta je za obchodem.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "Pre-A1-U05-CHECK-E01",
+      "parts": [
+        "Pošta je za obchodem."
+      ],
+      "start": 0.0,
+      "end": 1.5673469387755101,
+      "sentences": [
+        {
+          "text": "Pošta je za obchodem.",
+          "start": 0.0,
+          "end": 1.5673469387755101,
+          "slow_start": 0.0,
+          "slow_end": 1.6950566893424037
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.6950566893424037
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "8dc4edef5e58ac61f7e8883a27d57c586839681a5102ac2521a2d90769c3b341",
+    "slow": "18490ecf32d829306c3c8a23a086aa281bd4d7afac4095a352472ca0945b03d6"
+  }
+}

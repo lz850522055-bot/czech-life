@@ -1,0 +1,219 @@
+{
+  "unseen_text": [
+    {
+      "cs": "Městské kino mění od listopadu začátek večerních projekcí z osmi na půl osmé. Změna má být vyzkoušena po dobu šesti týdnů. O trvalém zavedení se rozhodne podle návštěvnosti.",
+      "zh": "影院十一月起晚场由八点改七点半，试行六周，再按上座情况决定是否长期采用。",
+      "note_zh": ""
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "新时间比旧时间如何？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "晚半小时"
+        },
+        {
+          "id": "b",
+          "text": "早半小时"
+        },
+        {
+          "id": "c",
+          "text": "不变"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "půl osmé=7:30，方向不可反。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U10-CHECK-E01",
+      "knowledge_points": [
+        "reported-information",
+        "listening-selective"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "填试行的周数，捷语词。",
+      "stimulus_cs": "Zkušební doba je ___ týdnů.",
+      "answer": "šest",
+      "accepted_answers": [
+        "šest"
+      ],
+      "explanation_zh": "六周是试行长度。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U10-CHECK-E02",
+      "knowledge_points": [
+        "reported-information",
+        "listening-selective"
+      ]
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "用中文写准确提醒，说明时间方向和试行性质。",
+      "stimulus_cs": "",
+      "answer": "影院晚场从八点提前到七点半，十一月开始试行六周，是否长期采用要看上座情况。",
+      "accepted_answers": [],
+      "explanation_zh": "不是永久提前，不能遗漏试行。",
+      "rubric": [
+        "提前方向",
+        "时点时长",
+        "长期状态未定"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U10-CHECK-E03",
+      "knowledge_points": [
+        "reported-information",
+        "listening-selective"
+      ]
+    }
+  ],
+  "id": "B1-U10-CHECK",
+  "kind": "unit",
+  "level": "B1",
+  "unit_id": "B1-U10",
+  "title_zh": "新闻访谈与听力策略：换场景检验",
+  "version": "2026.10.22.1",
+  "rubric": [
+    "关键信息准确且没有添加原文没有的信息",
+    "能使用本单元规律完成新情境",
+    "输出能让对方采取下一步行动"
+  ],
+  "remediation": [
+    {
+      "condition_zh": "理解遗漏或把推测说成事实",
+      "lesson_ids": [
+        "B1-U10-L01"
+      ],
+      "action_zh": "对照逐段译文，重新提取人物、限制和下一步。"
+    },
+    {
+      "condition_zh": "表达需要提示或形式反复出错",
+      "lesson_ids": [
+        "B1-U10-L01"
+      ],
+      "action_zh": "复看规律卡后更换人物、时间与限制条件，延后独立重做。"
+    }
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "B1-U10-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U10-CHECK--2026.10.22.1--text--d2b87ef29c--normal.mp3",
+      "slow_file": "audio/files/B1-U10-CHECK--2026.10.22.1--text--d2b87ef29c--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U10-CHECK--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Městské kino mění od listopadu začátek večerních projekcí z osmi na půl osmé. Změna má být vyzkoušena po dobu šesti týdnů. O trvalém zavedení se rozhodne podle návštěvnosti.",
+      "duration_seconds": 15.841950113378685,
+      "slow_duration_seconds": 17.85047619047619,
+      "sha256": "1e634895b9b9ea3afafa1a9a68072a11e0628359b7d69021e4039eda0e4688d9",
+      "slow_sha256": "e85269eba227fcbda7cdf942bdcdd24361ecbea96535b5cc15350ee5f64b87b0"
+    },
+    {
+      "lesson_id": "B1-U10-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U10-CHECK--2026.10.22.1--text--d2b87ef29c--normal.mp3",
+      "slow_file": "audio/files/B1-U10-CHECK--2026.10.22.1--text--d2b87ef29c--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U10-CHECK--2026.10.22.1--text--p0",
+      "asset_id": "B1-U10-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Městské kino mění od listopadu začátek večerních projekcí z osmi na půl osmé. Změna má být vyzkoušena po dobu šesti týdnů. O trvalém zavedení se rozhodne podle návštěvnosti.",
+      "start": 0,
+      "end": 15.661950113378685,
+      "slow_start": 0,
+      "slow_end": 17.67047619047619
+    },
+    {
+      "lesson_id": "B1-U10-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U10-CHECK--2026.10.22.1--text--d2b87ef29c--normal.mp3",
+      "slow_file": "audio/files/B1-U10-CHECK--2026.10.22.1--text--d2b87ef29c--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U10-CHECK--2026.10.22.1--text--s0",
+      "asset_id": "B1-U10-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Městské kino mění od listopadu začátek večerních projekcí z osmi na půl osmé.",
+      "start": 0,
+      "end": 7.047256235827664,
+      "slow_start": 0,
+      "slow_end": 8.045714285714286
+    },
+    {
+      "lesson_id": "B1-U10-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U10-CHECK--2026.10.22.1--text--d2b87ef29c--normal.mp3",
+      "slow_file": "audio/files/B1-U10-CHECK--2026.10.22.1--text--d2b87ef29c--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U10-CHECK--2026.10.22.1--text--s1",
+      "asset_id": "B1-U10-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Změna má být vyzkoušena po dobu šesti týdnů.",
+      "start": 7.227256235827665,
+      "end": 11.279138321995465,
+      "slow_start": 8.225714285714286,
+      "slow_end": 12.707165532879818
+    },
+    {
+      "lesson_id": "B1-U10-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U10-CHECK--2026.10.22.1--text--d2b87ef29c--normal.mp3",
+      "slow_file": "audio/files/B1-U10-CHECK--2026.10.22.1--text--d2b87ef29c--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U10-CHECK--2026.10.22.1--text--s2",
+      "asset_id": "B1-U10-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "O trvalém zavedení se rozhodne podle návštěvnosti.",
+      "start": 11.459138321995464,
+      "end": 15.661950113378685,
+      "slow_start": 12.887165532879818,
+      "slow_end": 17.67047619047619
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "A1-U03-L01--2026.10.22.1--listening",
+  "lesson_id": "A1-U03-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A1",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Eva ráno pracuje. Odpoledne čte a večer vaří. Petr večer nepracuje.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Eva ráno pracuje.",
+        "Odpoledne čte a večer vaří.",
+        "Petr večer nepracuje."
+      ]
+    }
+  ],
+  "text_sha256": "13143f7f0aed9a14a1cad4004c538d4c12297f737215880fd7a1e48fbbfb9f05",
+  "source_file": "content/lessons/A1/A1-U03-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U03-L01--2026.10.22.1--listening--13143f7f0a--normal.mp3",
+  "slow_file": "content/audio/files/A1-U03-L01--2026.10.22.1--listening--13143f7f0a--slow.mp3",
+  "duration_seconds": 6.890657596371882,
+  "slow_duration_seconds": 7.726575963718821,
+  "cues": [
+    {
+      "text": "Eva ráno pracuje. Odpoledne čte a večer vaří. Petr večer nepracuje.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Eva ráno pracuje.",
+        "Odpoledne čte a večer vaří.",
+        "Petr večer nepracuje."
+      ],
+      "start": 0.0,
+      "end": 6.710657596371882,
+      "sentences": [
+        {
+          "text": "Eva ráno pracuje.",
+          "start": 0.0,
+          "end": 1.6718367346938776,
+          "slow_start": 0.0,
+          "slow_end": 1.9040362811791383
+        },
+        {
+          "text": "Odpoledne čte a večer vaří.",
+          "start": 1.8518367346938776,
+          "end": 4.522131519274376,
+          "slow_start": 2.0840362811791384,
+          "slow_end": 5.079410430839002
+        },
+        {
+          "text": "Petr večer nepracuje.",
+          "start": 4.702131519274376,
+          "end": 6.710657596371882,
+          "slow_start": 5.259410430839003,
+          "slow_end": 7.546575963718821
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 7.546575963718821
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "53fe508b59566488cd14352cfa7e887abcde592df03de098a9f0bf269e348a6a",
+    "slow": "d0888007e02cf0d761cfd64c8b0113ebc2d3f51877c50e36a9941aafe4fb624f"
+  }
+}

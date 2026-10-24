@@ -1,0 +1,219 @@
+{
+  "unseen_text": [
+    {
+      "cs": "Marek do práce obvykle jezdí na kole. Dnes však jde pěšky, protože kolo nechal v servisu. Zítra si pro něj pojede autobusem a domů už pojede na kole.",
+      "zh": "马雷克通常骑车上班，今天车在维修而步行。明天坐公交去取车，再骑车回家。",
+      "note_zh": ""
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "今天怎样上班？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "骑车"
+        },
+        {
+          "id": "b",
+          "text": "步行"
+        },
+        {
+          "id": "c",
+          "text": "公交"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "dnes jde pěšky 明确今天。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U03-CHECK-E01",
+      "knowledge_points": [
+        "motion-direction",
+        "motion-prefixes"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "填惯常乘交通工具去：Marek obvykle ___ na kole.",
+      "stimulus_cs": "Marek obvykle ___ na kole.",
+      "answer": "jezdí",
+      "accepted_answers": [
+        "jezdí"
+      ],
+      "explanation_zh": "习惯用 jezdí，骑车属于 jet/jezdit。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "B1-U03-CHECK-E02",
+      "knowledge_points": [
+        "motion-direction",
+        "motion-prefixes"
+      ]
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "用第一人称说明三天的交通变化。",
+      "stimulus_cs": "",
+      "answer": "Obvykle jezdím na kole. Dnes jdu pěšky, protože mám kolo v servisu. Zítra tam pojedu autobusem a domů pojedu na kole.",
+      "accepted_answers": [],
+      "explanation_zh": "检查未来 pojedu 与当前 jdu。",
+      "rubric": [
+        "三段时间清楚",
+        "方式准确",
+        "第一人称一致"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "error_category": "fluency",
+      "id": "B1-U03-CHECK-E03",
+      "knowledge_points": [
+        "motion-direction",
+        "motion-prefixes"
+      ]
+    }
+  ],
+  "id": "B1-U03-CHECK",
+  "kind": "unit",
+  "level": "B1",
+  "unit_id": "B1-U03",
+  "title_zh": "运动动词和前缀：换场景检验",
+  "version": "2026.10.22.1",
+  "rubric": [
+    "关键信息准确且没有添加原文没有的信息",
+    "能使用本单元规律完成新情境",
+    "输出能让对方采取下一步行动"
+  ],
+  "remediation": [
+    {
+      "condition_zh": "理解遗漏或把推测说成事实",
+      "lesson_ids": [
+        "B1-U03-L01"
+      ],
+      "action_zh": "对照逐段译文，重新提取人物、限制和下一步。"
+    },
+    {
+      "condition_zh": "表达需要提示或形式反复出错",
+      "lesson_ids": [
+        "B1-U03-L01"
+      ],
+      "action_zh": "复看规律卡后更换人物、时间与限制条件，延后独立重做。"
+    }
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "B1-U03-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U03-CHECK--2026.10.22.1--text--984884df2b--normal.mp3",
+      "slow_file": "audio/files/B1-U03-CHECK--2026.10.22.1--text--984884df2b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U03-CHECK--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Marek do práce obvykle jezdí na kole. Dnes však jde pěšky, protože kolo nechal v servisu. Zítra si pro něj pojede autobusem a domů už pojede na kole.",
+      "duration_seconds": 13.043945578231293,
+      "slow_duration_seconds": 14.553242630385487,
+      "sha256": "33660e6b0e5db4a277807acfe38286fa0cb61e0340d8584ea282e7c2677fff5f",
+      "slow_sha256": "ba8486f037d6bdf06bfa80b904e55cf0fe944d537aeb6e77154609b771c37c23"
+    },
+    {
+      "lesson_id": "B1-U03-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U03-CHECK--2026.10.22.1--text--984884df2b--normal.mp3",
+      "slow_file": "audio/files/B1-U03-CHECK--2026.10.22.1--text--984884df2b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U03-CHECK--2026.10.22.1--text--p0",
+      "asset_id": "B1-U03-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Marek do práce obvykle jezdí na kole. Dnes však jde pěšky, protože kolo nechal v servisu. Zítra si pro něj pojede autobusem a domů už pojede na kole.",
+      "start": 0,
+      "end": 12.863945578231293,
+      "slow_start": 0,
+      "slow_end": 14.373242630385487
+    },
+    {
+      "lesson_id": "B1-U03-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U03-CHECK--2026.10.22.1--text--984884df2b--normal.mp3",
+      "slow_file": "audio/files/B1-U03-CHECK--2026.10.22.1--text--984884df2b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U03-CHECK--2026.10.22.1--text--s0",
+      "asset_id": "B1-U03-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Marek do práce obvykle jezdí na kole.",
+      "start": 0,
+      "end": 3.2043537414965986,
+      "slow_start": 0,
+      "slow_end": 3.610702947845805
+    },
+    {
+      "lesson_id": "B1-U03-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U03-CHECK--2026.10.22.1--text--984884df2b--normal.mp3",
+      "slow_file": "audio/files/B1-U03-CHECK--2026.10.22.1--text--984884df2b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U03-CHECK--2026.10.22.1--text--s1",
+      "asset_id": "B1-U03-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Dnes však jde pěšky, protože kolo nechal v servisu.",
+      "start": 3.3843537414965987,
+      "end": 7.703265306122449,
+      "slow_start": 3.790702947845805,
+      "slow_end": 8.643673469387755
+    },
+    {
+      "lesson_id": "B1-U03-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U03-CHECK--2026.10.22.1--text--984884df2b--normal.mp3",
+      "slow_file": "audio/files/B1-U03-CHECK--2026.10.22.1--text--984884df2b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U03-CHECK--2026.10.22.1--text--s2",
+      "asset_id": "B1-U03-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Zítra si pro něj pojede autobusem a domů už pojede na kole.",
+      "start": 7.883265306122449,
+      "end": 12.863945578231293,
+      "slow_start": 8.823673469387755,
+      "slow_end": 14.373242630385487
+    }
+  ]
+}

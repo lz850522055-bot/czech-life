@@ -1,0 +1,19 @@
+{
+  "name": "czech-life",
+  "version": "0.1.0-alpha.0",
+  "private": true,
+  "type": "module",
+  "description": "Learn Czech. Explore Prague. Build a life.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node scripts/start.mjs",
+    "assets:fetch": "node scripts/fetch-assets.mjs",
+    "assets:verify": "node scripts/fetch-assets.mjs --verify",
+    "test": "node scripts/test.mjs",
+    "test:all": "node scripts/test.mjs --all",
+    "test:smoke": "node scripts/smoke.mjs"
+  }
+}

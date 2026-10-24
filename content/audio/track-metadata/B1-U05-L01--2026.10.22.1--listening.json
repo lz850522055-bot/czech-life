@@ -1,0 +1,93 @@
+{
+  "id": "B1-U05-L01--2026.10.22.1--listening",
+  "lesson_id": "B1-U05-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Kdybych měla auto, asi bych zvolila byt za městem. Teď ale jezdím do práce tramvají. Mohli bychom se na oba byty podívat v pátek? Pokud majitel potvrdí termín, vezmu si odpoledne volno. Nechci platit zálohu dřív, než byt uvidím.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Kdybych měla auto, asi bych zvolila byt za městem.",
+        "Teď ale jezdím do práce tramvají.",
+        "Mohli bychom se na oba byty podívat v pátek?",
+        "Pokud majitel potvrdí termín, vezmu si odpoledne volno.",
+        "Nechci platit zálohu dřív, než byt uvidím."
+      ]
+    }
+  ],
+  "text_sha256": "6e192eac2ad430c417864d62888a01076dbae34a79f44643ab2028fef7e6d8ac",
+  "source_file": "content/lessons/B1/B1-U05-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U05-L01--2026.10.22.1--listening--6e192eac2a--normal.mp3",
+  "slow_file": "content/audio/files/B1-U05-L01--2026.10.22.1--listening--6e192eac2a--slow.mp3",
+  "duration_seconds": 20.358321995464852,
+  "slow_duration_seconds": 23.086666666666666,
+  "cues": [
+    {
+      "text": "Kdybych měla auto, asi bych zvolila byt za městem. Teď ale jezdím do práce tramvají. Mohli bychom se na oba byty podívat v pátek? Pokud majitel potvrdí termín, vezmu si odpoledne volno. Nechci platit zálohu dřív, než byt uvidím.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Kdybych měla auto, asi bych zvolila byt za městem.",
+        "Teď ale jezdím do práce tramvají.",
+        "Mohli bychom se na oba byty podívat v pátek?",
+        "Pokud majitel potvrdí termín, vezmu si odpoledne volno.",
+        "Nechci platit zálohu dřív, než byt uvidím."
+      ],
+      "start": 0.0,
+      "end": 20.178321995464852,
+      "sentences": [
+        {
+          "text": "Kdybych měla auto, asi bych zvolila byt za městem.",
+          "start": 0.0,
+          "end": 4.365351473922902,
+          "slow_start": 0.0,
+          "slow_end": 5.038730158730159
+        },
+        {
+          "text": "Teď ale jezdím do práce tramvají.",
+          "start": 4.545351473922903,
+          "end": 7.227256235827665,
+          "slow_start": 5.218730158730159,
+          "slow_end": 8.31859410430839
+        },
+        {
+          "text": "Mohli bychom se na oba byty podívat v pátek?",
+          "start": 7.407256235827664,
+          "end": 10.936689342403628,
+          "slow_start": 8.49859410430839,
+          "slow_end": 12.562086167800453
+        },
+        {
+          "text": "Pokud majitel potvrdí termín, vezmu si odpoledne volno.",
+          "start": 11.116689342403628,
+          "end": 15.888390022675736,
+          "slow_start": 12.742086167800453,
+          "slow_end": 18.210385487528345
+        },
+        {
+          "text": "Nechci platit zálohu dřív, než byt uvidím.",
+          "start": 16.068390022675736,
+          "end": 20.178321995464852,
+          "slow_start": 18.390385487528345,
+          "slow_end": 22.906666666666666
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 22.906666666666666
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "16c5c43262d7791da7674efc9b227deb08b2ef6658cdbe3be050cfd0aab47c2a",
+    "slow": "017c8b336c17bf1c22a20d0792bf3f77ee188ed0aca6f140a7a5c18bbc002f58"
+  }
+}

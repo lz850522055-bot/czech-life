@@ -1,0 +1,104 @@
+{
+  "id": "A1-U01-CHECK--2026.10.22.1--text",
+  "lesson_id": "A1-U01-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "A1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Ahoj, jsem Eva. Jsem z Ostravy. Teď jsem v Brně.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Ahoj, jsem Eva.",
+        "Jsem z Ostravy.",
+        "Teď jsem v Brně."
+      ]
+    },
+    {
+      "text": "To je moje kamarádka Anna.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "To je moje kamarádka Anna."
+      ]
+    }
+  ],
+  "text_sha256": "8d1c2e9b58c513a6da62f734148f554b769d17da05b8b2e1efa56a27068f6879",
+  "source_file": "content/assessments/A1-U01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U01-CHECK--2026.10.22.1--text--8d1c2e9b58--normal.mp3",
+  "slow_file": "content/audio/files/A1-U01-CHECK--2026.10.22.1--text--8d1c2e9b58--slow.mp3",
+  "duration_seconds": 7.453786848072562,
+  "slow_duration_seconds": 8.463854875283447,
+  "cues": [
+    {
+      "text": "Ahoj, jsem Eva. Jsem z Ostravy. Teď jsem v Brně.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Ahoj, jsem Eva.",
+        "Jsem z Ostravy.",
+        "Teď jsem v Brně."
+      ],
+      "start": 0.0,
+      "end": 4.957551020408164,
+      "sentences": [
+        {
+          "text": "Ahoj, jsem Eva.",
+          "start": 0.0,
+          "end": 1.555736961451247,
+          "slow_start": 0.0,
+          "slow_end": 1.799546485260771
+        },
+        {
+          "text": "Jsem z Ostravy.",
+          "start": 1.7357369614512472,
+          "end": 3.245034013605442,
+          "slow_start": 1.979546485260771,
+          "slow_end": 3.73265306122449
+        },
+        {
+          "text": "Teď jsem v Brně.",
+          "start": 3.4250340136054422,
+          "end": 4.957551020408164,
+          "slow_start": 3.9126530612244896,
+          "slow_end": 5.723809523809524
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 5.723809523809524
+    },
+    {
+      "text": "To je moje kamarádka Anna.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "To je moje kamarádka Anna."
+      ],
+      "start": 5.137551020408163,
+      "end": 7.273786848072563,
+      "sentences": [
+        {
+          "text": "To je moje kamarádka Anna.",
+          "start": 5.137551020408163,
+          "end": 7.273786848072563,
+          "slow_start": 5.903809523809524,
+          "slow_end": 8.283854875283447
+        }
+      ],
+      "slow_start": 5.903809523809524,
+      "slow_end": 8.283854875283447
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "a8881ffc8c209b534f74536bffdeb64bda9ed38df2196c20f40040c97346f145",
+    "slow": "2466f96390e76c74788a7082b1c93b147f63e9b3e97148834612a819195afe61"
+  }
+}

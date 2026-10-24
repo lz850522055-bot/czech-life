@@ -1,0 +1,68 @@
+{
+  "id": "C1-U04-L01--2026.10.22.1--exercises",
+  "lesson_id": "C1-U04-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Úplný záznam neznamená, že známe každé datum. Uvedeme zdroj údaje, případně že údaj neznáme.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "C1-U04-L01-E06",
+      "parts": [
+        "Úplný záznam neznamená, že známe každé datum.",
+        "Uvedeme zdroj údaje, případně že údaj neznáme."
+      ]
+    }
+  ],
+  "text_sha256": "ae24a727b3a006615dcd33765a679ccaef1a7df3267ae1350a7731bc5ec78d43",
+  "source_file": "content/lessons/C1/C1-U04-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U04-L01--2026.10.22.1--exercises--ae24a727b3--normal.mp3",
+  "slow_file": "content/audio/files/C1-U04-L01--2026.10.22.1--exercises--ae24a727b3--slow.mp3",
+  "duration_seconds": 8.928163265306122,
+  "slow_duration_seconds": 10.170430839002268,
+  "cues": [
+    {
+      "text": "Úplný záznam neznamená, že známe každé datum. Uvedeme zdroj údaje, případně že údaj neznáme.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "C1-U04-L01-E06",
+      "parts": [
+        "Úplný záznam neznamená, že známe každé datum.",
+        "Uvedeme zdroj údaje, případně že údaj neznáme."
+      ],
+      "start": 0.0,
+      "end": 8.748163265306122,
+      "sentences": [
+        {
+          "text": "Úplný záznam neznamená, že známe každé datum.",
+          "start": 0.0,
+          "end": 4.458231292517007,
+          "slow_start": 0.0,
+          "slow_end": 5.166439909297052
+        },
+        {
+          "text": "Uvedeme zdroj údaje, případně že údaj neznáme.",
+          "start": 4.638231292517006,
+          "end": 8.748163265306122,
+          "slow_start": 5.346439909297052,
+          "slow_end": 9.990430839002267
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 9.990430839002267
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "b716af978c7f83cb35eb63d89157713b0d2c0f3ecfde24ebad63e1e1a2936d65",
+    "slow": "f0a496ec819b05470e889a2197e8c1a381d6601411996a15340dbf39382a59b5"
+  }
+}

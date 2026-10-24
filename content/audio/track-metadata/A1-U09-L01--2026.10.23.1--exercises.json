@@ -1,0 +1,60 @@
+{
+  "id": "A1-U09-L01--2026.10.23.1--exercises",
+  "lesson_id": "A1-U09-L01",
+  "content_version": "2026.10.23.1",
+  "level": "A1",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Vystupte na třetí zastávce.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "A1-U09-L01-E01",
+      "parts": [
+        "Vystupte na třetí zastávce."
+      ]
+    }
+  ],
+  "text_sha256": "aabd4f08d7a615b9150ab156f6d76a737b7fc34f1e44f1e7fb1d1be0feaca364",
+  "source_file": "content/lessons/A1/A1-U09-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U09-L01--2026.10.22.1--exercises--aabd4f08d7--normal.mp3",
+  "slow_file": "content/audio/files/A1-U09-L01--2026.10.22.1--exercises--aabd4f08d7--slow.mp3",
+  "duration_seconds": 2.6529251700680274,
+  "slow_duration_seconds": 3.001224489795918,
+  "cues": [
+    {
+      "text": "Vystupte na třetí zastávce.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "A1-U09-L01-E01",
+      "parts": [
+        "Vystupte na třetí zastávce."
+      ],
+      "start": 0.0,
+      "end": 2.4729251700680273,
+      "sentences": [
+        {
+          "text": "Vystupte na třetí zastávce.",
+          "start": 0.0,
+          "end": 2.4729251700680273,
+          "slow_start": 0.0,
+          "slow_end": 2.8212244897959184
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.8212244897959184
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "04b3a0cf3a5c6991ba89990ea042c3c36f4ab6aff3be464085e54dc01e42669f",
+    "slow": "1ee462866f918a99e766d4dc9fe7a177b34b7f203a9efcca8b80407fcc59efe3"
+  },
+  "reused_from_track_id": "A1-U09-L01--2026.10.22.1--exercises"
+}

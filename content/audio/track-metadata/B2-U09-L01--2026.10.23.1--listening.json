@@ -1,0 +1,85 @@
+{
+  "id": "B2-U09-L01--2026.10.23.1--listening",
+  "lesson_id": "B2-U09-L01",
+  "content_version": "2026.10.23.1",
+  "level": "B2",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Knihovna nabízí dvě hodiny v úterý včetně vybavení. Studio nabízí čtyři hodiny ve čtvrtek; úklid je navíc. Skříň pro dlouhodobé zákazníky nelze zatím slíbit i vám. Pokud potřebujete jen dvě hodiny, porovnejte celkovou cenu rezervace, ne pouze přepočtenou sazbu.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Knihovna nabízí dvě hodiny v úterý včetně vybavení.",
+        "Studio nabízí čtyři hodiny ve čtvrtek; úklid je navíc.",
+        "Skříň pro dlouhodobé zákazníky nelze zatím slíbit i vám.",
+        "Pokud potřebujete jen dvě hodiny, porovnejte celkovou cenu rezervace, ne pouze přepočtenou sazbu."
+      ]
+    }
+  ],
+  "text_sha256": "633bfd88551ef2293a6b1cb562e3c2b52334a72de258cc0a25192f46989a806d",
+  "source_file": "content/lessons/B2/B2-U09-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U09-L01--2026.10.22.1--listening--633bfd8855--normal.mp3",
+  "slow_file": "content/audio/files/B2-U09-L01--2026.10.22.1--listening--633bfd8855--slow.mp3",
+  "duration_seconds": 23.6497052154195,
+  "slow_duration_seconds": 26.563809523809525,
+  "cues": [
+    {
+      "text": "Knihovna nabízí dvě hodiny v úterý včetně vybavení. Studio nabízí čtyři hodiny ve čtvrtek; úklid je navíc. Skříň pro dlouhodobé zákazníky nelze zatím slíbit i vám. Pokud potřebujete jen dvě hodiny, porovnejte celkovou cenu rezervace, ne pouze přepočtenou sazbu.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Knihovna nabízí dvě hodiny v úterý včetně vybavení.",
+        "Studio nabízí čtyři hodiny ve čtvrtek; úklid je navíc.",
+        "Skříň pro dlouhodobé zákazníky nelze zatím slíbit i vám.",
+        "Pokud potřebujete jen dvě hodiny, porovnejte celkovou cenu rezervace, ne pouze přepočtenou sazbu."
+      ],
+      "start": 0.0,
+      "end": 23.469705215419502,
+      "sentences": [
+        {
+          "text": "Knihovna nabízí dvě hodiny v úterý včetně vybavení.",
+          "start": 0.0,
+          "end": 4.539501133786848,
+          "slow_start": 0.0,
+          "slow_end": 5.154829931972789
+        },
+        {
+          "text": "Studio nabízí čtyři hodiny ve čtvrtek; úklid je navíc.",
+          "start": 4.719501133786848,
+          "end": 9.746621315192744,
+          "slow_start": 5.334829931972789,
+          "slow_end": 10.896009070294784
+        },
+        {
+          "text": "Skříň pro dlouhodobé zákazníky nelze zatím slíbit i vám.",
+          "start": 9.926621315192744,
+          "end": 14.91891156462585,
+          "slow_start": 11.076009070294784,
+          "slow_end": 16.683628117913834
+        },
+        {
+          "text": "Pokud potřebujete jen dvě hodiny, porovnejte celkovou cenu rezervace, ne pouze přepočtenou sazbu.",
+          "start": 15.098911564625851,
+          "end": 23.469705215419502,
+          "slow_start": 16.863628117913834,
+          "slow_end": 26.383809523809525
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 26.383809523809525
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "ddb24e5da9090ac65eab1b55eb76014463e0a793911dbb0926746eac9d65bfd1",
+    "slow": "7bdd43c0ecdc21f01f0e5185d5b357091e4966620e3361d6eb5d05e6f41842ef"
+  },
+  "reused_from_track_id": "B2-U09-L01--2026.10.22.1--listening"
+}

@@ -1,0 +1,305 @@
+{
+  "id": "C2-U01-CHECK",
+  "kind": "unit",
+  "level": "C2",
+  "unit_id": "C2-U01",
+  "title_zh": "在打断、省略和改口中跟住话题：新情境检验",
+  "version": "2026.10.22.1",
+  "unseen_text": [
+    {
+      "cs": "Lenka: Ty balíky zítra? Pavel: Menší ano, ty velké až potom. Lenka: Po schválení? Pavel: Po zabalení. Schválené už jsou. Jana: A posíláš je ty? Pavel: Objednám odvoz, dopravce je musí nejdřív potvrdit.",
+      "zh": "小包明天，大包包装后；已批准但未包装；帕维尔只预约提货，承运方仍须确认。"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "大包仍等待什么？",
+      "stimulus_cs": "",
+      "answer": "b",
+      "explanation_zh": "Po zabalení 对错误猜测作修正。",
+      "skill_ids": [
+        "reading"
+      ],
+      "knowledge_points": [
+        "c2-ellipsis-repair",
+        "c2-commitment-in-repair"
+      ],
+      "error_category": "comprehension",
+      "options": [
+        {
+          "id": "a",
+          "text": "批准"
+        },
+        {
+          "id": "b",
+          "text": "包装"
+        },
+        {
+          "id": "c",
+          "text": "所有人签字"
+        }
+      ],
+      "scoring_basis": "封闭题以答案核对；解析说明本题边界。",
+      "id": "C2-U01-CHECK-E01"
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "写三句物流状态，不加不存在的确认。",
+      "stimulus_cs": "",
+      "answer": "Menší balíky jsou plánovány na zítřek. Velké čekají na zabalení, nikoli na schválení. Pavel objedná odvoz; potvrzení dopravce zatím chybí.",
+      "explanation_zh": "保留不同阶段。",
+      "skill_ids": [
+        "writing"
+      ],
+      "knowledge_points": [
+        "c2-ellipsis-repair",
+        "c2-commitment-in-repair"
+      ],
+      "error_category": "comprehension",
+      "rubric": [
+        "回应具体任务，信息不失真",
+        "逻辑有衔接，能说明证据与限制",
+        "语法与搭配基本准确，语域适合对象",
+        "能自主组织语言而非照读范文"
+      ],
+      "scoring_basis": "开放表达：示范不是唯一答案；依量规自评或人工评阅，未接受人工评阅时不自动判定能力达标。",
+      "id": "C2-U01-CHECK-E02"
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "你要通知收件人，先向帕维尔问最关键一句。",
+      "stimulus_cs": "",
+      "answer": "Kdy dostaneme potvrzení dopravce, abych mohl uvést skutečný termín odeslání?",
+      "explanation_zh": "承运确认比重复已批准更关键。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "knowledge_points": [
+        "c2-ellipsis-repair",
+        "c2-commitment-in-repair"
+      ],
+      "error_category": "comprehension",
+      "rubric": [
+        "回应具体任务，信息不失真",
+        "逻辑有衔接，能说明证据与限制",
+        "语法与搭配基本准确，语域适合对象",
+        "能自主组织语言而非照读范文"
+      ],
+      "scoring_basis": "开放表达：示范不是唯一答案；依量规自评或人工评阅，未接受人工评阅时不自动判定能力达标。",
+      "id": "C2-U01-CHECK-E03"
+    }
+  ],
+  "rubric": [
+    "理解未见材料中的主张及限定",
+    "主动表达时准确转述不同立场",
+    "区分事实、推断与建议",
+    "能针对误解调整解释方式"
+  ],
+  "remediation": [
+    {
+      "condition_zh": "误把可能性说成事实，或遗漏反方条件",
+      "lesson_ids": [
+        "C2-U01-L01"
+      ],
+      "action_zh": "重做信息定位与转述，标出每个判断的来源和语气词。"
+    },
+    {
+      "condition_zh": "表达卡住或只有单句结论",
+      "lesson_ids": [
+        "C2-U01-L01"
+      ],
+      "action_zh": "先列论点—依据—限制—行动四点，再换对象重录一次。"
+    }
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "C2-U01-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U01-CHECK--2026.10.22.1--text--ab450fef70--normal.mp3",
+      "slow_file": "audio/files/C2-U01-CHECK--2026.10.22.1--text--ab450fef70--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U01-CHECK--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Lenka: Ty balíky zítra? Pavel: Menší ano, ty velké až potom. Lenka: Po schválení? Pavel: Po zabalení. Schválené už jsou. Jana: A posíláš je ty? Pavel: Objednám odvoz, dopravce je musí nejdřív potvrdit.",
+      "duration_seconds": 19.626984126984127,
+      "slow_duration_seconds": 22.42498866213152,
+      "sha256": "6a10e0333f3e6ad257eff0873dc4a038d1398dd713076cee522a070cf8ae690e",
+      "slow_sha256": "41d0483065539a023899e4a84bdeda0322a4e0203e1a08c96ff2b4074de06af5"
+    },
+    {
+      "lesson_id": "C2-U01-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U01-CHECK--2026.10.22.1--text--ab450fef70--normal.mp3",
+      "slow_file": "audio/files/C2-U01-CHECK--2026.10.22.1--text--ab450fef70--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U01-CHECK--2026.10.22.1--text--p0",
+      "asset_id": "C2-U01-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Lenka: Ty balíky zítra? Pavel: Menší ano, ty velké až potom. Lenka: Po schválení? Pavel: Po zabalení. Schválené už jsou. Jana: A posíláš je ty? Pavel: Objednám odvoz, dopravce je musí nejdřív potvrdit.",
+      "start": 0,
+      "end": 19.446984126984127,
+      "slow_start": 0,
+      "slow_end": 22.24498866213152
+    },
+    {
+      "lesson_id": "C2-U01-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U01-CHECK--2026.10.22.1--text--ab450fef70--normal.mp3",
+      "slow_file": "audio/files/C2-U01-CHECK--2026.10.22.1--text--ab450fef70--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U01-CHECK--2026.10.22.1--text--s0",
+      "asset_id": "C2-U01-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Lenka: Ty balíky zítra?",
+      "start": 0,
+      "end": 2.2639455782312927,
+      "slow_start": 0,
+      "slow_end": 2.507755102040816
+    },
+    {
+      "lesson_id": "C2-U01-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U01-CHECK--2026.10.22.1--text--ab450fef70--normal.mp3",
+      "slow_file": "audio/files/C2-U01-CHECK--2026.10.22.1--text--ab450fef70--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U01-CHECK--2026.10.22.1--text--s1",
+      "asset_id": "C2-U01-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Pavel: Menší ano, ty velké až potom.",
+      "start": 2.4439455782312924,
+      "end": 6.077868480725623,
+      "slow_start": 2.6877551020408164,
+      "slow_end": 6.8789569160997734
+    },
+    {
+      "lesson_id": "C2-U01-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U01-CHECK--2026.10.22.1--text--ab450fef70--normal.mp3",
+      "slow_file": "audio/files/C2-U01-CHECK--2026.10.22.1--text--ab450fef70--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U01-CHECK--2026.10.22.1--text--s2",
+      "asset_id": "C2-U01-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Lenka: Po schválení?",
+      "start": 6.257868480725624,
+      "end": 8.127074829931972,
+      "slow_start": 7.058956916099773,
+      "slow_end": 9.230022675736961
+    },
+    {
+      "lesson_id": "C2-U01-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U01-CHECK--2026.10.22.1--text--ab450fef70--normal.mp3",
+      "slow_file": "audio/files/C2-U01-CHECK--2026.10.22.1--text--ab450fef70--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U01-CHECK--2026.10.22.1--text--s3",
+      "asset_id": "C2-U01-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 3,
+      "paragraph_index": 0,
+      "sentence_index": 3,
+      "text": "Pavel: Po zabalení.",
+      "start": 8.307074829931972,
+      "end": 10.036961451247166,
+      "slow_start": 9.410022675736961,
+      "slow_end": 11.325668934240364
+    },
+    {
+      "lesson_id": "C2-U01-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U01-CHECK--2026.10.22.1--text--ab450fef70--normal.mp3",
+      "slow_file": "audio/files/C2-U01-CHECK--2026.10.22.1--text--ab450fef70--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U01-CHECK--2026.10.22.1--text--s4",
+      "asset_id": "C2-U01-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 4,
+      "paragraph_index": 0,
+      "sentence_index": 4,
+      "text": "Schválené už jsou.",
+      "start": 10.216961451247165,
+      "end": 11.703038548752835,
+      "slow_start": 11.505668934240363,
+      "slow_end": 13.29360544217687
+    },
+    {
+      "lesson_id": "C2-U01-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U01-CHECK--2026.10.22.1--text--ab450fef70--normal.mp3",
+      "slow_file": "audio/files/C2-U01-CHECK--2026.10.22.1--text--ab450fef70--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U01-CHECK--2026.10.22.1--text--s5",
+      "asset_id": "C2-U01-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 5,
+      "paragraph_index": 0,
+      "sentence_index": 5,
+      "text": "Jana: A posíláš je ty?",
+      "start": 11.883038548752834,
+      "end": 14.216643990929706,
+      "slow_start": 13.47360544217687,
+      "slow_end": 16.155510204081633
+    },
+    {
+      "lesson_id": "C2-U01-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U01-CHECK--2026.10.22.1--text--ab450fef70--normal.mp3",
+      "slow_file": "audio/files/C2-U01-CHECK--2026.10.22.1--text--ab450fef70--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U01-CHECK--2026.10.22.1--text--s6",
+      "asset_id": "C2-U01-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 6,
+      "paragraph_index": 0,
+      "sentence_index": 6,
+      "text": "Pavel: Objednám odvoz, dopravce je musí nejdřív potvrdit.",
+      "start": 14.396643990929705,
+      "end": 19.446984126984127,
+      "slow_start": 16.335510204081633,
+      "slow_end": 22.24498866213152
+    }
+  ]
+}

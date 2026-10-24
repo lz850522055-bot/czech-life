@@ -1,0 +1,116 @@
+{
+  "id": "Pre-A1-U03-L01--2026.10.23.1--listening",
+  "lesson_id": "Pre-A1-U03-L01",
+  "content_version": "2026.10.23.1",
+  "level": "Pre-A1",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Prosím čtyři čaje.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Prosím čtyři čaje."
+      ]
+    },
+    {
+      "text": "Tři, nebo čtyři?",
+      "index": 1,
+      "role": "listening",
+      "parts": [
+        "Tři, nebo čtyři?"
+      ]
+    },
+    {
+      "text": "Čtyři, děkuju.",
+      "index": 2,
+      "role": "listening",
+      "parts": [
+        "Čtyři, děkuju."
+      ]
+    }
+  ],
+  "text_sha256": "20db1950adf6692c6830eb645a86c0a31063e1f4afd32b242152a61df2f2532f",
+  "source_file": "content/lessons/Pre-A1/Pre-A1-U03-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/Pre-A1-U03-L01--2026.10.22.1--listening--20db1950ad--normal.mp3",
+  "slow_file": "content/audio/files/Pre-A1-U03-L01--2026.10.22.1--listening--20db1950ad--slow.mp3",
+  "duration_seconds": 5.462630385487528,
+  "slow_duration_seconds": 5.950249433106576,
+  "cues": [
+    {
+      "text": "Prosím čtyři čaje.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Prosím čtyři čaje."
+      ],
+      "start": 0.0,
+      "end": 1.787936507936508,
+      "sentences": [
+        {
+          "text": "Prosím čtyři čaje.",
+          "start": 0.0,
+          "end": 1.787936507936508,
+          "slow_start": 0.0,
+          "slow_end": 1.9388662131519274
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.9388662131519274
+    },
+    {
+      "text": "Tři, nebo čtyři?",
+      "index": 1,
+      "role": "listening",
+      "parts": [
+        "Tři, nebo čtyři?"
+      ],
+      "start": 1.9679365079365079,
+      "end": 3.6397732426303855,
+      "sentences": [
+        {
+          "text": "Tři, nebo čtyři?",
+          "start": 1.9679365079365079,
+          "end": 3.6397732426303855,
+          "slow_start": 2.1188662131519274,
+          "slow_end": 3.9068027210884355
+        }
+      ],
+      "slow_start": 2.1188662131519274,
+      "slow_end": 3.9068027210884355
+    },
+    {
+      "text": "Čtyři, děkuju.",
+      "index": 2,
+      "role": "listening",
+      "parts": [
+        "Čtyři, děkuju."
+      ],
+      "start": 3.8197732426303856,
+      "end": 5.282630385487528,
+      "sentences": [
+        {
+          "text": "Čtyři, děkuju.",
+          "start": 3.8197732426303856,
+          "end": 5.282630385487528,
+          "slow_start": 4.086802721088436,
+          "slow_end": 5.770249433106576
+        }
+      ],
+      "slow_start": 4.086802721088436,
+      "slow_end": 5.770249433106576
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "d1ae9d650f7ce6160d7149159fb3f72f70d2797538a421e439ff941353fa6d96",
+    "slow": "55352796f88c87c26665e7b95ae1b32d53ae17f66868e44d75f314a7643d76f2"
+  },
+  "reused_from_track_id": "Pre-A1-U03-L01--2026.10.22.1--listening"
+}

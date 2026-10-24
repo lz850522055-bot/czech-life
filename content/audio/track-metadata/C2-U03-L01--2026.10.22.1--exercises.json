@@ -1,0 +1,59 @@
+{
+  "id": "C2-U03-L01--2026.10.22.1--exercises",
+  "lesson_id": "C2-U03-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C2",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Změna bude trvalá, protože nikdo nebude mít sílu vyplnit žádost o její zrušení.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "C2-U03-L01-E06",
+      "parts": [
+        "Změna bude trvalá, protože nikdo nebude mít sílu vyplnit žádost o její zrušení."
+      ]
+    }
+  ],
+  "text_sha256": "f78fbb8a80b3760812acc98a26665fcd2e56e95d47fb40343f5e04a15ab2edf7",
+  "source_file": "content/lessons/C2/C2-U03-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U03-L01--2026.10.22.1--exercises--f78fbb8a80--normal.mp3",
+  "slow_file": "content/audio/files/C2-U03-L01--2026.10.22.1--exercises--f78fbb8a80--slow.mp3",
+  "duration_seconds": 7.482675736961451,
+  "slow_duration_seconds": 8.330204081632653,
+  "cues": [
+    {
+      "text": "Změna bude trvalá, protože nikdo nebude mít sílu vyplnit žádost o její zrušení.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "C2-U03-L01-E06",
+      "parts": [
+        "Změna bude trvalá, protože nikdo nebude mít sílu vyplnit žádost o její zrušení."
+      ],
+      "start": 0.0,
+      "end": 7.302675736961452,
+      "sentences": [
+        {
+          "text": "Změna bude trvalá, protože nikdo nebude mít sílu vyplnit žádost o její zrušení.",
+          "start": 0.0,
+          "end": 7.302675736961452,
+          "slow_start": 0.0,
+          "slow_end": 8.150204081632653
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 8.150204081632653
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "890adfbe16de7a0ab7c9d6eec5216afbd5ba136df2ce6085d1670c6a4c707c2e",
+    "slow": "927190473417620b13bfdc3e88d9b994e32816935c537713fd7058152f8a4bae"
+  }
+}

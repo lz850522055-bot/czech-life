@@ -1,0 +1,173 @@
+{
+  "id": "C1-U03-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "C1-U03-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Děkuji za podnět.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Děkuji za podnět."
+      ]
+    },
+    {
+      "text": "Technik vznesl námitku.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Technik vznesl námitku."
+      ]
+    },
+    {
+      "text": "Připouštíme jiný postup.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Připouštíme jiný postup."
+      ]
+    },
+    {
+      "text": "Kapacita týmu je omezená.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Kapacita týmu je omezená."
+      ]
+    },
+    {
+      "text": "Domněnku musíme ověřit.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Domněnku musíme ověřit."
+      ]
+    }
+  ],
+  "text_sha256": "fa3e3b32c230975a2eda945b604091d19c0b51c42e7bd357565bd404c9468308",
+  "source_file": "content/lessons/C1/C1-U03-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U03-L01--2026.10.22.1--vocabulary--fa3e3b32c2--normal.mp3",
+  "slow_file": "content/audio/files/C1-U03-L01--2026.10.22.1--vocabulary--fa3e3b32c2--slow.mp3",
+  "duration_seconds": 11.778548752834467,
+  "slow_duration_seconds": 13.136916099773243,
+  "cues": [
+    {
+      "text": "Děkuji za podnět.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Děkuji za podnět."
+      ],
+      "start": 0.0,
+      "end": 1.6486167800453515,
+      "sentences": [
+        {
+          "text": "Děkuji za podnět.",
+          "start": 0.0,
+          "end": 1.6486167800453515,
+          "slow_start": 0.0,
+          "slow_end": 1.822766439909297
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.822766439909297
+    },
+    {
+      "text": "Technik vznesl námitku.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Technik vznesl námitku."
+      ],
+      "start": 1.8286167800453514,
+      "end": 4.139002267573696,
+      "sentences": [
+        {
+          "text": "Technik vznesl námitku.",
+          "start": 1.8286167800453514,
+          "end": 4.139002267573696,
+          "slow_start": 2.0027664399092973,
+          "slow_end": 4.556961451247165
+        }
+      ],
+      "slow_start": 2.0027664399092973,
+      "slow_end": 4.556961451247165
+    },
+    {
+      "text": "Připouštíme jiný postup.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Připouštíme jiný postup."
+      ],
+      "start": 4.319002267573696,
+      "end": 6.4320181405895696,
+      "sentences": [
+        {
+          "text": "Připouštíme jiný postup.",
+          "start": 4.319002267573696,
+          "end": 6.4320181405895696,
+          "slow_start": 4.736961451247166,
+          "slow_end": 7.151836734693878
+        }
+      ],
+      "slow_start": 4.736961451247166,
+      "slow_end": 7.151836734693878
+    },
+    {
+      "text": "Kapacita týmu je omezená.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Kapacita týmu je omezená."
+      ],
+      "start": 6.612018140589569,
+      "end": 9.050113378684808,
+      "sentences": [
+        {
+          "text": "Kapacita týmu je omezená.",
+          "start": 6.612018140589569,
+          "end": 9.050113378684808,
+          "slow_start": 7.331836734693877,
+          "slow_end": 10.002131519274377
+        }
+      ],
+      "slow_start": 7.331836734693877,
+      "slow_end": 10.002131519274377
+    },
+    {
+      "text": "Domněnku musíme ověřit.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Domněnku musíme ověřit."
+      ],
+      "start": 9.230113378684807,
+      "end": 11.598548752834468,
+      "sentences": [
+        {
+          "text": "Domněnku musíme ověřit.",
+          "start": 9.230113378684807,
+          "end": 11.598548752834468,
+          "slow_start": 10.182131519274376,
+          "slow_end": 12.956916099773242
+        }
+      ],
+      "slow_start": 10.182131519274376,
+      "slow_end": 12.956916099773242
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "583be9e0f80c82b7745acee2ff1633f24dc708e21a1dda7c2b0a43818f5690e7",
+    "slow": "ba3d098bed66dd85d392258ce85bb43e283700f44436704fd0957f30316aadae"
+  }
+}

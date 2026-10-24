@@ -1,0 +1,84 @@
+{
+  "id": "C2-U05-CHECK--2026.10.22.1--text",
+  "lesson_id": "C2-U05-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "C2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Výrobce uvádí rychlejší sestavení výrobku v dílně. Servis hlásí více času stráveného opravami po dodání. Zákazníci oceňují nižší cenu, ale část z nich se do hodnocení nezapojila. Oba časové údaje se týkají jiných fází a nejsou měřeny stejným způsobem.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Výrobce uvádí rychlejší sestavení výrobku v dílně.",
+        "Servis hlásí více času stráveného opravami po dodání.",
+        "Zákazníci oceňují nižší cenu, ale část z nich se do hodnocení nezapojila.",
+        "Oba časové údaje se týkají jiných fází a nejsou měřeny stejným způsobem."
+      ]
+    }
+  ],
+  "text_sha256": "db64ad019368085fa7c50fcb936248e0fca320a1935dc36f82220435141fc9f2",
+  "source_file": "content/assessments/C2-U05.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U05-CHECK--2026.10.22.1--text--db64ad0193--normal.mp3",
+  "slow_file": "content/audio/files/C2-U05-CHECK--2026.10.22.1--text--db64ad0193--slow.mp3",
+  "duration_seconds": 23.13886621315193,
+  "slow_duration_seconds": 25.576961451247165,
+  "cues": [
+    {
+      "text": "Výrobce uvádí rychlejší sestavení výrobku v dílně. Servis hlásí více času stráveného opravami po dodání. Zákazníci oceňují nižší cenu, ale část z nich se do hodnocení nezapojila. Oba časové údaje se týkají jiných fází a nejsou měřeny stejným způsobem.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Výrobce uvádí rychlejší sestavení výrobku v dílně.",
+        "Servis hlásí více času stráveného opravami po dodání.",
+        "Zákazníci oceňují nižší cenu, ale část z nich se do hodnocení nezapojila.",
+        "Oba časové údaje se týkají jiných fází a nejsou měřeny stejným způsobem."
+      ],
+      "start": 0.0,
+      "end": 22.95886621315193,
+      "sentences": [
+        {
+          "text": "Výrobce uvádí rychlejší sestavení výrobku v dílně.",
+          "start": 0.0,
+          "end": 4.620770975056689,
+          "slow_start": 0.0,
+          "slow_end": 5.061950113378685
+        },
+        {
+          "text": "Servis hlásí více času stráveného opravami po dodání.",
+          "start": 4.80077097505669,
+          "end": 9.444761904761904,
+          "slow_start": 5.241950113378685,
+          "slow_end": 10.466439909297053
+        },
+        {
+          "text": "Zákazníci oceňují nižší cenu, ale část z nich se do hodnocení nezapojila.",
+          "start": 9.624761904761904,
+          "end": 16.207619047619048,
+          "slow_start": 10.646439909297053,
+          "slow_end": 17.844625850340137
+        },
+        {
+          "text": "Oba časové údaje se týkají jiných fází a nejsou měřeny stejným způsobem.",
+          "start": 16.387619047619047,
+          "end": 22.95886621315193,
+          "slow_start": 18.024625850340136,
+          "slow_end": 25.396961451247165
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 25.396961451247165
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "f2b25c3c24961cfd897a54c68e5098e6e9c71b7e5004d77284af101bbb6290bb",
+    "slow": "f0930c5d6f5eca9fdebc9cf478e8cbaa771c9a5afc3f8a8bcaebe2f23e35ae52"
+  }
+}

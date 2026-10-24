@@ -1,0 +1,145 @@
+{
+  "id": "Pre-A1-U03-L01--2026.10.23.1--vocabulary",
+  "lesson_id": "Pre-A1-U03-L01",
+  "content_version": "2026.10.23.1",
+  "level": "Pre-A1",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Tady je řeka.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Tady je řeka."
+      ]
+    },
+    {
+      "text": "To je první řada.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "To je první řada."
+      ]
+    },
+    {
+      "text": "Prosím tři čaje.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Prosím tři čaje."
+      ]
+    },
+    {
+      "text": "Bolí mě krk.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Bolí mě krk."
+      ]
+    }
+  ],
+  "text_sha256": "77ea8511314103d645b22cbe1d3b6d09d532069f667ed889a21bf28815e069b0",
+  "source_file": "content/lessons/Pre-A1/Pre-A1-U03-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/Pre-A1-U03-L01--2026.10.22.1--vocabulary--77ea851131--normal.mp3",
+  "slow_file": "content/audio/files/Pre-A1-U03-L01--2026.10.22.1--vocabulary--77ea851131--slow.mp3",
+  "duration_seconds": 6.466938775510204,
+  "slow_duration_seconds": 7.233197278911565,
+  "cues": [
+    {
+      "text": "Tady je řeka.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Tady je řeka."
+      ],
+      "start": 0.0,
+      "end": 1.18421768707483,
+      "sentences": [
+        {
+          "text": "Tady je řeka.",
+          "start": 0.0,
+          "end": 1.18421768707483,
+          "slow_start": 0.0,
+          "slow_end": 1.3815873015873017
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.3815873015873017
+    },
+    {
+      "text": "To je první řada.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "To je první řada."
+      ],
+      "start": 1.36421768707483,
+      "end": 3.0708843537414965,
+      "sentences": [
+        {
+          "text": "To je první řada.",
+          "start": 1.36421768707483,
+          "end": 3.0708843537414965,
+          "slow_start": 1.5615873015873016,
+          "slow_end": 3.407573696145125
+        }
+      ],
+      "slow_start": 1.5615873015873016,
+      "slow_end": 3.407573696145125
+    },
+    {
+      "text": "Prosím tři čaje.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Prosím tři čaje."
+      ],
+      "start": 3.2508843537414966,
+      "end": 4.783401360544218,
+      "sentences": [
+        {
+          "text": "Prosím tři čaje.",
+          "start": 3.2508843537414966,
+          "end": 4.783401360544218,
+          "slow_start": 3.5875736961451246,
+          "slow_end": 5.259410430839003
+        }
+      ],
+      "slow_start": 3.5875736961451246,
+      "slow_end": 5.259410430839003
+    },
+    {
+      "text": "Bolí mě krk.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Bolí mě krk."
+      ],
+      "start": 4.963401360544218,
+      "end": 6.286938775510204,
+      "sentences": [
+        {
+          "text": "Bolí mě krk.",
+          "start": 4.963401360544218,
+          "end": 6.286938775510204,
+          "slow_start": 5.439410430839002,
+          "slow_end": 7.053197278911565
+        }
+      ],
+      "slow_start": 5.439410430839002,
+      "slow_end": 7.053197278911565
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "1bb860261b8872557095731545ddb8b0b4a3ac4108060b5fcabc5e0b869891a1",
+    "slow": "c298afded5489207579783a48263647160cc871c23beddd4dbe758f39c4cb482"
+  },
+  "reused_from_track_id": "Pre-A1-U03-L01--2026.10.22.1--vocabulary"
+}

@@ -1,0 +1,144 @@
+{
+  "id": "B1-U10-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "B1-U10-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Budova je dočasně uzavřena.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Budova je dočasně uzavřena."
+      ]
+    },
+    {
+      "text": "Služby nabízí menší pobočka.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Služby nabízí menší pobočka."
+      ]
+    },
+    {
+      "text": "Termín není zaručený.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Termín není zaručený."
+      ]
+    },
+    {
+      "text": "Adresu zveřejní později.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Adresu zveřejní později."
+      ]
+    }
+  ],
+  "text_sha256": "2fd0827dbf78138cfc7ce9c4a815a0ad0f4394c86ecbe70109a05a0fd7a71485",
+  "source_file": "content/lessons/B1/B1-U10-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U10-L01--2026.10.22.1--vocabulary--2fd0827dbf--normal.mp3",
+  "slow_file": "content/audio/files/B1-U10-L01--2026.10.22.1--vocabulary--2fd0827dbf--slow.mp3",
+  "duration_seconds": 10.402721088435374,
+  "slow_duration_seconds": 11.830748299319728,
+  "cues": [
+    {
+      "text": "Budova je dočasně uzavřena.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Budova je dočasně uzavřena."
+      ],
+      "start": 0.0,
+      "end": 2.3103854875283445,
+      "sentences": [
+        {
+          "text": "Budova je dočasně uzavřena.",
+          "start": 0.0,
+          "end": 2.3103854875283445,
+          "slow_start": 0.0,
+          "slow_end": 2.693514739229025
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.693514739229025
+    },
+    {
+      "text": "Služby nabízí menší pobočka.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Služby nabízí menší pobočka."
+      ],
+      "start": 2.4903854875283447,
+      "end": 5.671519274376418,
+      "sentences": [
+        {
+          "text": "Služby nabízí menší pobočka.",
+          "start": 2.4903854875283447,
+          "end": 5.671519274376418,
+          "slow_start": 2.873514739229025,
+          "slow_end": 6.4261678004535145
+        }
+      ],
+      "slow_start": 2.873514739229025,
+      "slow_end": 6.4261678004535145
+    },
+    {
+      "text": "Termín není zaručený.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Termín není zaručený."
+      ],
+      "start": 5.851519274376417,
+      "end": 7.860045351473923,
+      "sentences": [
+        {
+          "text": "Termín není zaručený.",
+          "start": 5.851519274376417,
+          "end": 7.860045351473923,
+          "slow_start": 6.606167800453515,
+          "slow_end": 8.939773242630386
+        }
+      ],
+      "slow_start": 6.606167800453515,
+      "slow_end": 8.939773242630386
+    },
+    {
+      "text": "Adresu zveřejní později.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Adresu zveřejní později."
+      ],
+      "start": 8.040045351473923,
+      "end": 10.222721088435375,
+      "sentences": [
+        {
+          "text": "Adresu zveřejní později.",
+          "start": 8.040045351473923,
+          "end": 10.222721088435375,
+          "slow_start": 9.119773242630385,
+          "slow_end": 11.650748299319728
+        }
+      ],
+      "slow_start": 9.119773242630385,
+      "slow_end": 11.650748299319728
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "d27ae06d020ebd7afcbc464e40cd68a82c8547dba7baa75be75f332cbd45e292",
+    "slow": "b8f5cb4c99d5516cde96fe52354c80bce5f0c00ab6ee18283702c534ead22fd8"
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "id": "A2-U01-CHECK",
+  "kind": "unit",
+  "level": "A2",
+  "unit_id": "A2-U01",
+  "title_zh": "讲昨天的事，安排明天的事：换情境独立完成",
+  "version": "2026.10.22.1",
+  "unseen_text": [
+    {
+      "cs": "Minulou sobotu jsme jeli do Brna. Jana zůstala doma. Příští sobotu budeme všichni pracovat.",
+      "zh": "上周六我们去了布尔诺，雅娜留在家，下周六我们所有人都要工作。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "谁没有去Brno？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jana"
+        },
+        {
+          "id": "b",
+          "text": "全部人"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "Jana zůstala doma。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "A2-U01-CHECK-E01",
+      "knowledge_points": [
+        "past-tense",
+        "future-tense"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "填第三人称复数将来。",
+      "stimulus_cs": "Oni ___ pracovat.",
+      "answer": "budou",
+      "accepted_answers": [
+        "budou"
+      ],
+      "explanation_zh": "第三人称复数budou。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "A2-U01-CHECK-E02",
+      "knowledge_points": [
+        "past-tense",
+        "future-tense"
+      ]
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "给没参加旅行的人写两句过去和下周安排。",
+      "stimulus_cs": "",
+      "answer": "Byli jsme v Brně. Příští sobotu budeme pracovat.",
+      "accepted_answers": [],
+      "explanation_zh": "保留参与者边界。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A2-U01-CHECK-E03",
+      "knowledge_points": [
+        "past-tense",
+        "future-tense"
+      ]
+    }
+  ],
+  "rubric": [
+    "能提取新材料中的关键事实，不靠背诵原文",
+    "能根据变化的条件组织一句或一段表达",
+    "能指出不确定之处并请求澄清"
+  ],
+  "remediation": [
+    {
+      "condition_zh": "目标规律使用不稳定或未能提取关键信息",
+      "lesson_ids": [
+        "A2-U01-L01"
+      ],
+      "action_zh": "返回规律卡，对照两例；隔一次其他练习后重做未见情境。"
+    }
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "A2-U01-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U01-CHECK--2026.10.22.1--text--05114b215e--normal.mp3",
+      "slow_file": "audio/files/A2-U01-CHECK--2026.10.22.1--text--05114b215e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U01-CHECK--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Minulou sobotu jsme jeli do Brna. Jana zůstala doma. Příští sobotu budeme všichni pracovat.",
+      "duration_seconds": 7.900725623582766,
+      "slow_duration_seconds": 8.968843537414966,
+      "sha256": "7defc7696e53db3b4877d3671df175a9956cdb86be9b45b7fe6c85348f9001bc",
+      "slow_sha256": "23a8dbec7f2a1b516cbf026b5e3df951a87a0bcd2ccf9bdc5ea538c93ff3887e"
+    },
+    {
+      "lesson_id": "A2-U01-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U01-CHECK--2026.10.22.1--text--05114b215e--normal.mp3",
+      "slow_file": "audio/files/A2-U01-CHECK--2026.10.22.1--text--05114b215e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U01-CHECK--2026.10.22.1--text--p0",
+      "asset_id": "A2-U01-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Minulou sobotu jsme jeli do Brna. Jana zůstala doma. Příští sobotu budeme všichni pracovat.",
+      "start": 0,
+      "end": 7.720725623582767,
+      "slow_start": 0,
+      "slow_end": 8.788843537414966
+    },
+    {
+      "lesson_id": "A2-U01-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U01-CHECK--2026.10.22.1--text--05114b215e--normal.mp3",
+      "slow_file": "audio/files/A2-U01-CHECK--2026.10.22.1--text--05114b215e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U01-CHECK--2026.10.22.1--text--s0",
+      "asset_id": "A2-U01-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Minulou sobotu jsme jeli do Brna.",
+      "start": 0,
+      "end": 2.6122448979591835,
+      "slow_start": 0,
+      "slow_end": 2.8792743764172335
+    },
+    {
+      "lesson_id": "A2-U01-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U01-CHECK--2026.10.22.1--text--05114b215e--normal.mp3",
+      "slow_file": "audio/files/A2-U01-CHECK--2026.10.22.1--text--05114b215e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U01-CHECK--2026.10.22.1--text--s1",
+      "asset_id": "A2-U01-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Jana zůstala doma.",
+      "start": 2.7922448979591836,
+      "end": 4.359591836734694,
+      "slow_start": 3.0592743764172337,
+      "slow_end": 4.847210884353742
+    },
+    {
+      "lesson_id": "A2-U01-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U01-CHECK--2026.10.22.1--text--05114b215e--normal.mp3",
+      "slow_file": "audio/files/A2-U01-CHECK--2026.10.22.1--text--05114b215e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U01-CHECK--2026.10.22.1--text--s2",
+      "asset_id": "A2-U01-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Příští sobotu budeme všichni pracovat.",
+      "start": 4.539591836734694,
+      "end": 7.720725623582767,
+      "slow_start": 5.0272108843537415,
+      "slow_end": 8.788843537414966
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "id": "A2-U05-CHECK",
+  "kind": "unit",
+  "level": "A2",
+  "unit_id": "A2-U05",
+  "title_zh": "一瓶、一包、一箱：把数量核对清楚：换情境独立完成",
+  "version": "2026.10.22.1",
+  "unseen_text": [
+    {
+      "cs": "Jedna krabice obsahuje deset sáčků. Jeden sáček váží dvě stě gramů. Objednali jsme tři krabice.",
+      "zh": "一箱十袋，一袋两百克，订单三箱。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt_zh": "总重量，填公斤数字。",
+      "stimulus_cs": "",
+      "answer": "6",
+      "accepted_answers": [
+        "6"
+      ],
+      "explanation_zh": "3×10×200克=6000克。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "comprehension",
+      "id": "A2-U05-CHECK-E01",
+      "knowledge_points": [
+        "quantity-genitive",
+        "numeral-case"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "共多少袋？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "三十"
+        },
+        {
+          "id": "b",
+          "text": "十三"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "3×10=30。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "A2-U05-CHECK-E02",
+      "knowledge_points": [
+        "quantity-genitive",
+        "numeral-case"
+      ]
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "确认箱价是否包括配送。",
+      "stimulus_cs": "",
+      "answer": "Je doprava v ceně?",
+      "accepted_answers": [],
+      "explanation_zh": "不要默认含运费。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A2-U05-CHECK-E03",
+      "knowledge_points": [
+        "quantity-genitive",
+        "numeral-case"
+      ]
+    }
+  ],
+  "rubric": [
+    "能提取新材料中的关键事实，不靠背诵原文",
+    "能根据变化的条件组织一句或一段表达",
+    "能指出不确定之处并请求澄清"
+  ],
+  "remediation": [
+    {
+      "condition_zh": "目标规律使用不稳定或未能提取关键信息",
+      "lesson_ids": [
+        "A2-U05-L01"
+      ],
+      "action_zh": "返回规律卡，对照两例；隔一次其他练习后重做未见情境。"
+    }
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "A2-U05-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U05-CHECK--2026.10.22.1--text--7196e21619--normal.mp3",
+      "slow_file": "audio/files/A2-U05-CHECK--2026.10.22.1--text--7196e21619--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U05-CHECK--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Jedna krabice obsahuje deset sáčků. Jeden sáček váží dvě stě gramů. Objednali jsme tři krabice.",
+      "duration_seconds": 9.119773242630385,
+      "slow_duration_seconds": 10.269160997732426,
+      "sha256": "97fd6cda748e55ab2ca978f0625394e1ce7625c5819875a05652f158b0d45630",
+      "slow_sha256": "3c176cd07fc71d034bccfc03e27610e66d1ecd611f5fc5c007fd0b990976c09c"
+    },
+    {
+      "lesson_id": "A2-U05-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U05-CHECK--2026.10.22.1--text--7196e21619--normal.mp3",
+      "slow_file": "audio/files/A2-U05-CHECK--2026.10.22.1--text--7196e21619--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U05-CHECK--2026.10.22.1--text--p0",
+      "asset_id": "A2-U05-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Jedna krabice obsahuje deset sáčků. Jeden sáček váží dvě stě gramů. Objednali jsme tři krabice.",
+      "start": 0,
+      "end": 8.939773242630386,
+      "slow_start": 0,
+      "slow_end": 10.089160997732426
+    },
+    {
+      "lesson_id": "A2-U05-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U05-CHECK--2026.10.22.1--text--7196e21619--normal.mp3",
+      "slow_file": "audio/files/A2-U05-CHECK--2026.10.22.1--text--7196e21619--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U05-CHECK--2026.10.22.1--text--s0",
+      "asset_id": "A2-U05-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Jedna krabice obsahuje deset sáčků.",
+      "start": 0,
+      "end": 3.2275736961451247,
+      "slow_start": 0,
+      "slow_end": 3.633922902494331
+    },
+    {
+      "lesson_id": "A2-U05-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U05-CHECK--2026.10.22.1--text--7196e21619--normal.mp3",
+      "slow_file": "audio/files/A2-U05-CHECK--2026.10.22.1--text--7196e21619--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U05-CHECK--2026.10.22.1--text--s1",
+      "asset_id": "A2-U05-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Jeden sáček váží dvě stě gramů.",
+      "start": 3.407573696145125,
+      "end": 6.519047619047619,
+      "slow_start": 3.813922902494331,
+      "slow_end": 7.308526077097506
+    },
+    {
+      "lesson_id": "A2-U05-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U05-CHECK--2026.10.22.1--text--7196e21619--normal.mp3",
+      "slow_file": "audio/files/A2-U05-CHECK--2026.10.22.1--text--7196e21619--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U05-CHECK--2026.10.22.1--text--s2",
+      "asset_id": "A2-U05-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Objednali jsme tři krabice.",
+      "start": 6.699047619047619,
+      "end": 8.939773242630386,
+      "slow_start": 7.4885260770975055,
+      "slow_end": 10.089160997732426
+    }
+  ]
+}

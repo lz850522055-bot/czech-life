@@ -1,0 +1,68 @@
+{
+  "id": "C2-U04-L01--2026.10.22.1--exercises",
+  "lesson_id": "C2-U04-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C2",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Neříkám, že oznámení obsahuje nepravdu. Neříká nám však dost o praktickém důsledku změny.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "C2-U04-L01-E06",
+      "parts": [
+        "Neříkám, že oznámení obsahuje nepravdu.",
+        "Neříká nám však dost o praktickém důsledku změny."
+      ]
+    }
+  ],
+  "text_sha256": "7519de39dc0b52e09251dc3095a99885409035ce54ebe8a59eb4f614afc4d47f",
+  "source_file": "content/lessons/C2/C2-U04-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U04-L01--2026.10.22.1--exercises--7519de39dc--normal.mp3",
+  "slow_file": "content/audio/files/C2-U04-L01--2026.10.22.1--exercises--7519de39dc--slow.mp3",
+  "duration_seconds": 8.278004535147392,
+  "slow_duration_seconds": 9.206802721088435,
+  "cues": [
+    {
+      "text": "Neříkám, že oznámení obsahuje nepravdu. Neříká nám však dost o praktickém důsledku změny.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "C2-U04-L01-E06",
+      "parts": [
+        "Neříkám, že oznámení obsahuje nepravdu.",
+        "Neříká nám však dost o praktickém důsledku změny."
+      ],
+      "start": 0.0,
+      "end": 8.098004535147393,
+      "sentences": [
+        {
+          "text": "Neříkám, že oznámení obsahuje nepravdu.",
+          "start": 0.0,
+          "end": 3.7035827664399092,
+          "slow_start": 0.0,
+          "slow_end": 4.028662131519274
+        },
+        {
+          "text": "Neříká nám však dost o praktickém důsledku změny.",
+          "start": 3.8835827664399094,
+          "end": 8.098004535147393,
+          "slow_start": 4.208662131519274,
+          "slow_end": 9.026802721088435
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 9.026802721088435
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "a9c438cfe72cf038b0b4a1fc56896ac1b2a583265245cd2cab7aad5b72e13c1a",
+    "slow": "9dd2e5c57f4f86fd3bf2a20b6e35f550273f08eedda2118e6ce6cf81b4bca0e9"
+  }
+}

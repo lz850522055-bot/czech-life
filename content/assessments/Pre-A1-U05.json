@@ -1,0 +1,281 @@
+{
+  "id": "Pre-A1-U05-CHECK",
+  "kind": "unit",
+  "level": "Pre-A1",
+  "unit_id": "Pre-A1-U05",
+  "title_zh": "听到的和写下的，为什么不完全一样：换情境独立完成",
+  "version": "2026.10.22.1",
+  "unseen_text": [
+    {
+      "cs": "Kde je pošta? Je za obchodem.",
+      "zh": "邮局在哪里？在商店后面。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "cs": "Prosím vás, mluvte pomaleji.",
+      "zh": "请说慢一些。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "邮局在哪里？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "商店后面"
+        },
+        {
+          "id": "b",
+          "text": "药房里面"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "za obchodem表示商店后面。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "listening"
+      ],
+      "error_category": "comprehension",
+      "audio_text_cs": "Pošta je za obchodem.",
+      "id": "Pre-A1-U05-CHECK-E01",
+      "knowledge_points": [
+        "voicing-final",
+        "phrase-listening"
+      ]
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "将Kde je pošta?读成一个连贯问题。",
+      "stimulus_cs": "",
+      "answer": "Kde je pošta?",
+      "accepted_answers": [],
+      "explanation_zh": "不逐字母停顿。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "Pre-A1-U05-CHECK-E02",
+      "knowledge_points": [
+        "voicing-final",
+        "phrase-listening"
+      ]
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "你只听清pošta，要求重说位置。",
+      "stimulus_cs": "",
+      "answer": "Ještě jednou, prosím. Kde je pošta?",
+      "accepted_answers": [],
+      "explanation_zh": "明确重问地点。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "Pre-A1-U05-CHECK-E03",
+      "knowledge_points": [
+        "voicing-final",
+        "phrase-listening"
+      ]
+    }
+  ],
+  "rubric": [
+    "能提取新材料中的关键事实，不靠背诵原文",
+    "能根据变化的条件组织一句或一段表达",
+    "能指出不确定之处并请求澄清"
+  ],
+  "remediation": [
+    {
+      "condition_zh": "目标规律使用不稳定或未能提取关键信息",
+      "lesson_ids": [
+        "Pre-A1-U05-L01"
+      ],
+      "action_zh": "返回规律卡，对照两例；隔一次其他练习后重做未见情境。"
+    }
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "Pre-A1-U05-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U05-CHECK--2026.10.22.1--text--fcd7ce1ed4--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U05-CHECK--2026.10.22.1--text--fcd7ce1ed4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U05-CHECK--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Kde je pošta? Je za obchodem. Prosím vás, mluvte pomaleji.",
+      "duration_seconds": 5.857369614512471,
+      "slow_duration_seconds": 6.472698412698413,
+      "sha256": "5656eaea9ac2060e67826e0d7328b4b32738c3f219cb38cda0d0471ccea86c3a",
+      "slow_sha256": "e6238f6a15e6aca1fbd54449ee3a9ace4713a1e84f99e6cec1a255762ec96811"
+    },
+    {
+      "lesson_id": "Pre-A1-U05-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U05-CHECK--2026.10.22.1--text--fcd7ce1ed4--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U05-CHECK--2026.10.22.1--text--fcd7ce1ed4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U05-CHECK--2026.10.22.1--text--p0",
+      "asset_id": "Pre-A1-U05-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Kde je pošta? Je za obchodem.",
+      "start": 0,
+      "end": 2.6877551020408164,
+      "slow_start": 0,
+      "slow_end": 2.919954648526077
+    },
+    {
+      "lesson_id": "Pre-A1-U05-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U05-CHECK--2026.10.22.1--text--fcd7ce1ed4--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U05-CHECK--2026.10.22.1--text--fcd7ce1ed4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U05-CHECK--2026.10.22.1--text--s0",
+      "asset_id": "Pre-A1-U05-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Kde je pošta?",
+      "start": 0,
+      "end": 1.2654875283446712,
+      "slow_start": 0,
+      "slow_end": 1.3931972789115645
+    },
+    {
+      "lesson_id": "Pre-A1-U05-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U05-CHECK--2026.10.22.1--text--fcd7ce1ed4--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U05-CHECK--2026.10.22.1--text--fcd7ce1ed4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U05-CHECK--2026.10.22.1--text--s1",
+      "asset_id": "Pre-A1-U05-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Je za obchodem.",
+      "start": 1.445487528344671,
+      "end": 2.6877551020408164,
+      "slow_start": 1.5731972789115647,
+      "slow_end": 2.919954648526077
+    },
+    {
+      "lesson_id": "Pre-A1-U05-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U05-CHECK--2026.10.22.1--text--fcd7ce1ed4--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U05-CHECK--2026.10.22.1--text--fcd7ce1ed4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U05-CHECK--2026.10.22.1--text--p1",
+      "asset_id": "Pre-A1-U05-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Prosím vás, mluvte pomaleji.",
+      "start": 2.8677551020408165,
+      "end": 5.677369614512472,
+      "slow_start": 3.099954648526077,
+      "slow_end": 6.292698412698413
+    },
+    {
+      "lesson_id": "Pre-A1-U05-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U05-CHECK--2026.10.22.1--text--fcd7ce1ed4--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U05-CHECK--2026.10.22.1--text--fcd7ce1ed4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U05-CHECK--2026.10.22.1--text--s2",
+      "asset_id": "Pre-A1-U05-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 1,
+      "sentence_index": 0,
+      "text": "Prosím vás, mluvte pomaleji.",
+      "start": 2.8677551020408165,
+      "end": 5.677369614512472,
+      "slow_start": 3.099954648526077,
+      "slow_end": 6.292698412698413
+    },
+    {
+      "lesson_id": "Pre-A1-U05-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U05-CHECK--2026.10.22.1--exercises--b8617a45e2--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U05-CHECK--2026.10.22.1--exercises--b8617a45e2--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U05-CHECK--2026.10.22.1--exercises",
+      "role": "exercises-full",
+      "index": 0,
+      "text": "Pošta je za obchodem.",
+      "duration_seconds": 1.7473469387755103,
+      "slow_duration_seconds": 1.8750566893424037,
+      "sha256": "8dc4edef5e58ac61f7e8883a27d57c586839681a5102ac2521a2d90769c3b341",
+      "slow_sha256": "18490ecf32d829306c3c8a23a086aa281bd4d7afac4095a352472ca0945b03d6"
+    },
+    {
+      "lesson_id": "Pre-A1-U05-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U05-CHECK--2026.10.22.1--exercises--b8617a45e2--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U05-CHECK--2026.10.22.1--exercises--b8617a45e2--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U05-CHECK--2026.10.22.1--exercises--p0",
+      "asset_id": "Pre-A1-U05-CHECK--2026.10.22.1--exercises",
+      "role": "exercise",
+      "index": 0,
+      "exercise_id": "Pre-A1-U05-CHECK-E01",
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Pošta je za obchodem.",
+      "start": 0,
+      "end": 1.5673469387755101,
+      "slow_start": 0,
+      "slow_end": 1.6950566893424037
+    }
+  ]
+}

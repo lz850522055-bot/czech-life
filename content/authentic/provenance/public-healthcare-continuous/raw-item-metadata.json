@@ -1,0 +1,255 @@
+{
+  "id" : "8cc95ecb-680f-4454-b041-58a787a5ca5f",
+  "uuid" : "8cc95ecb-680f-4454-b041-58a787a5ca5f",
+  "name" : "ParCzech4Speech 1.0",
+  "handle" : "11234/1-5946",
+  "metadata" : {
+    "dc.contributor.author" : [ {
+      "value" : "Stankov, Vladislav",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    }, {
+      "value" : "Kopp, Matyáš",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 1
+    }, {
+      "value" : "Bojar, Ondřej",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 2
+    } ],
+    "dc.date.accessioned" : [ {
+      "value" : "2025-09-26T19:47:48Z",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.date.available" : [ {
+      "value" : "2025-09-26T19:47:48Z",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.date.issued" : [ {
+      "value" : "2025-06-27",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.description" : [ {
+      "value" : "We introduce ParCzech4Speech 1.0, a processed version of the ParCzech 4.0 corpus, targeted at speech modeling tasks with the largest variant containing 2,695 hours of aligned speech from 587 speakers. We combined the sound recordings of the Czech parliamentary speeches with the official transcripts. The recordings were processed with WhisperX and Wav2Vec 2.0 to extract automated audio-text alignment. \n\nThe dataset is offered in three flexible variants: \n(1) sentence-segmented for automatic speech recognition and speech synthesis tasks with clean boundaries, \n(2) unsegmented preserving original utterance flow across sentences, and \n(3) a raw-alignment for further custom refinement for other possible tasks.\n\nNote: This release contains alignment data and text segments (official and recognized transcripts). The source audio must be obtained separately from the AudioPSP 24.01 corpus , using the 'filePath' column to locate the corresponding audio file and the 'start'/ 'end' timestamps to extract specific segments.\n\nThe official transcripts are available in ParCzech 4.0 corpus (http://hdl.handle.net/11234/1-5360).\nThe original audio files are available in AudioPSP 24.01 corpus (http://hdl.handle.net/11234/1-5404).\n\nNote: All three variants are provided in both .tsv (tab-separated values) and .parquet (columnar binary) formats. The data content is identical across formats.",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.identifier.uri" : [ {
+      "value" : "http://hdl.handle.net/11234/1-5946",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.language.iso" : [ {
+      "value" : "ces",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.publisher" : [ {
+      "value" : "Charles University, Faculty of Mathematics and Physics, Institute of Formal and Applied Linguistics (UFAL)",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.relation.isreferencedby" : [ {
+      "value" : "https://link.springer.com/chapter/10.1007/978-3-032-02548-7_25",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.rights" : [ {
+      "value" : "Creative Commons - Attribution 4.0 International (CC BY 4.0)",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.rights.label" : [ {
+      "value" : "PUB",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.rights.uri" : [ {
+      "value" : "http://creativecommons.org/licenses/by/4.0/",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.subject" : [ {
+      "value" : "Speech corpus",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    }, {
+      "value" : "Czech",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 1
+    }, {
+      "value" : "Text-speech alignment",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 2
+    } ],
+    "dc.title" : [ {
+      "value" : "ParCzech4Speech 1.0",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.type" : [ {
+      "value" : "corpus",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "local.contact.person" : [ {
+      "value" : "Vladislav;Stankov;vladislav.stankov@ufal.mff.cuni.cz;Charles University, Faculty of Mathematics and Physics, Institute of Formal and Applied Linguistics (UFAL)",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    }, {
+      "value" : "Ondřej;Bojar;ondrej.bojar@ufal.mff.cuni.cz;Charles University, Faculty of Mathematics and Physics, Institute of Formal and Applied Linguistics (UFAL)",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 1
+    }, {
+      "value" : "Matyáš;Kopp;kopp@ufal.mff.cuni.cz;Charles University, Faculty of Mathematics and Physics, Institute of Formal and Applied Linguistics (UFAL)",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 2
+    }, {
+      "value" : "Ondřej;Bojar;;Charles University, Faculty of Mathematics and Physics, Institute of Formal and Applied Linguistics (UFAL)",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 3
+    } ],
+    "local.files.count" : [ {
+      "value" : "7",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "local.files.size" : [ {
+      "value" : "3125981472",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "local.has.files" : [ {
+      "value" : "yes",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "local.language.name" : [ {
+      "value" : "Czech",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "local.size.info" : [ {
+      "value" : "2695;hours",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "local.sponsor" : [ {
+      "value" : "nationalFunds; MPO 60273/24/21300/21000;NPO (EC NextGenEU RRF);CEDMO 2.0 NPO;",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    }, {
+      "value" : "nationalFunds; CZ.02.01.01/00/23_020/0008518;MŠMT OP JAK Mezisektorová spolupráce; Jazykověda, umělá inteligence a jazykové a řečové technologie: od výzkumu k aplikacím;",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 1
+    } ],
+    "metashare.ResourceInfo#ContentInfo.mediaType" : [ {
+      "value" : "text",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ]
+  },
+  "inArchive" : true,
+  "discoverable" : true,
+  "withdrawn" : false,
+  "lastModified" : "2026-08-13T12:38:45.674+00:00",
+  "entityType" : null,
+  "type" : "item",
+  "_links" : {
+    "accessStatus" : {
+      "href" : "https://lindat.mff.cuni.cz/repository/server/api/core/items/8cc95ecb-680f-4454-b041-58a787a5ca5f/accessStatus"
+    },
+    "bundles" : {
+      "href" : "https://lindat.mff.cuni.cz/repository/server/api/core/items/8cc95ecb-680f-4454-b041-58a787a5ca5f/bundles"
+    },
+    "identifiers" : {
+      "href" : "https://lindat.mff.cuni.cz/repository/server/api/core/items/8cc95ecb-680f-4454-b041-58a787a5ca5f/identifiers"
+    },
+    "mappedCollections" : {
+      "href" : "https://lindat.mff.cuni.cz/repository/server/api/core/items/8cc95ecb-680f-4454-b041-58a787a5ca5f/mappedCollections"
+    },
+    "owningCollection" : {
+      "href" : "https://lindat.mff.cuni.cz/repository/server/api/core/items/8cc95ecb-680f-4454-b041-58a787a5ca5f/owningCollection"
+    },
+    "relationships" : {
+      "href" : "https://lindat.mff.cuni.cz/repository/server/api/core/items/8cc95ecb-680f-4454-b041-58a787a5ca5f/relationships"
+    },
+    "version" : {
+      "href" : "https://lindat.mff.cuni.cz/repository/server/api/core/items/8cc95ecb-680f-4454-b041-58a787a5ca5f/version"
+    },
+    "templateItemOf" : {
+      "href" : "https://lindat.mff.cuni.cz/repository/server/api/core/items/8cc95ecb-680f-4454-b041-58a787a5ca5f/templateItemOf"
+    },
+    "thumbnail" : {
+      "href" : "https://lindat.mff.cuni.cz/repository/server/api/core/items/8cc95ecb-680f-4454-b041-58a787a5ca5f/thumbnail"
+    },
+    "self" : {
+      "href" : "https://lindat.mff.cuni.cz/repository/server/api/core/items/8cc95ecb-680f-4454-b041-58a787a5ca5f"
+    }
+  }
+}

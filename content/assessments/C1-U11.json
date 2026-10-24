@@ -1,0 +1,221 @@
+{
+  "id": "C1-U11-CHECK",
+  "kind": "unit",
+  "level": "C1",
+  "unit_id": "C1-U11",
+  "title_zh": "听懂自然口语，写得适合场合：新情境检验",
+  "version": "2026.10.22.1",
+  "unseen_text": [
+    {
+      "cs": "Neformální zápis: Hele, ty nový pravidla jsme chtěli zavést v lednu. Teda jen vyzkoušet, ne rovnou natrvalo. A možná až v únoru, podle školení.",
+      "zh": "风格化聊天：原想一月上新规则，准确说只是试验非永久，或要等培训后到二月。"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "摘要必须保留哪两项？",
+      "stimulus_cs": "",
+      "answer": "a",
+      "explanation_zh": "自我修正是核心内容。",
+      "skill_ids": [
+        "reading"
+      ],
+      "knowledge_points": [
+        "c1-register-variants",
+        "c1-speech-editing"
+      ],
+      "error_category": "comprehension",
+      "options": [
+        {
+          "id": "a",
+          "text": "试行性质和日期未定"
+        },
+        {
+          "id": "b",
+          "text": "只保留一月"
+        },
+        {
+          "id": "c",
+          "text": "删除所有条件"
+        }
+      ],
+      "scoring_basis": "封闭题以答案核对；解析说明本题边界。",
+      "id": "C1-U11-CHECK-E01"
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "写规范工作记录。",
+      "stimulus_cs": "",
+      "answer": "Nová pravidla se mají nejprve vyzkoušet. Zahájení je předběžně plánováno na leden nebo únor podle termínu školení; trvalé zavedení zatím schváleno není.",
+      "explanation_zh": "还原规范形式并保持模态。",
+      "skill_ids": [
+        "writing"
+      ],
+      "knowledge_points": [
+        "c1-register-variants",
+        "c1-speech-editing"
+      ],
+      "error_category": "comprehension",
+      "rubric": [
+        "回应具体任务，信息不失真",
+        "逻辑有衔接，能说明证据与限制",
+        "语法与搭配基本准确，语域适合对象",
+        "能自主组织语言而非照读范文"
+      ],
+      "scoring_basis": "开放表达：示范不是唯一答案；依量规自评或人工评阅，未接受人工评阅时不自动判定能力达标。",
+      "id": "C1-U11-CHECK-E02"
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "说明“ty nový pravidla”在本练习的作用。",
+      "stimulus_cs": "",
+      "answer": "Jde o stylizovanou neformální podobu, kterou máme rozpoznat. Pro formální text volíme tato nová pravidla.",
+      "explanation_zh": "识别目标，不声称所有地区这样说。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "knowledge_points": [
+        "c1-register-variants",
+        "c1-speech-editing"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "回应具体任务，信息不失真",
+        "逻辑有衔接，能说明证据与限制",
+        "语法与搭配基本准确，语域适合对象",
+        "能自主组织语言而非照读范文"
+      ],
+      "scoring_basis": "开放表达：示范不是唯一答案；依量规自评或人工评阅，未接受人工评阅时不自动判定能力达标。",
+      "id": "C1-U11-CHECK-E03"
+    }
+  ],
+  "rubric": [
+    "理解未见材料中的主张及限定",
+    "主动表达时准确转述不同立场",
+    "区分事实、推断与建议",
+    "能针对误解调整解释方式"
+  ],
+  "remediation": [
+    {
+      "condition_zh": "误把可能性说成事实，或遗漏反方条件",
+      "lesson_ids": [
+        "C1-U11-L01"
+      ],
+      "action_zh": "重做信息定位与转述，标出每个判断的来源和语气词。"
+    },
+    {
+      "condition_zh": "表达卡住或只有单句结论",
+      "lesson_ids": [
+        "C1-U11-L01"
+      ],
+      "action_zh": "先列论点—依据—限制—行动四点，再换对象重录一次。"
+    }
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "C1-U11-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U11-CHECK--2026.10.22.1--text--177379d6e4--normal.mp3",
+      "slow_file": "audio/files/C1-U11-CHECK--2026.10.22.1--text--177379d6e4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U11-CHECK--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Neformální zápis: Hele, ty nový pravidla jsme chtěli zavést v lednu. Teda jen vyzkoušet, ne rovnou natrvalo. A možná až v únoru, podle školení.",
+      "duration_seconds": 12.951065759637189,
+      "slow_duration_seconds": 14.86671201814059,
+      "sha256": "135019af0b5a99b602df25d6c5a9be723485cd327057c5f40c2cb72efbbd5cfe",
+      "slow_sha256": "5e607f4c13386798aa57d2d7e3f11679f2ed60e80a2d48c5a8a6110bacdf9275"
+    },
+    {
+      "lesson_id": "C1-U11-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U11-CHECK--2026.10.22.1--text--177379d6e4--normal.mp3",
+      "slow_file": "audio/files/C1-U11-CHECK--2026.10.22.1--text--177379d6e4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U11-CHECK--2026.10.22.1--text--p0",
+      "asset_id": "C1-U11-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Neformální zápis: Hele, ty nový pravidla jsme chtěli zavést v lednu. Teda jen vyzkoušet, ne rovnou natrvalo. A možná až v únoru, podle školení.",
+      "start": 0,
+      "end": 12.771065759637189,
+      "slow_start": 0,
+      "slow_end": 14.68671201814059
+    },
+    {
+      "lesson_id": "C1-U11-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U11-CHECK--2026.10.22.1--text--177379d6e4--normal.mp3",
+      "slow_file": "audio/files/C1-U11-CHECK--2026.10.22.1--text--177379d6e4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U11-CHECK--2026.10.22.1--text--s0",
+      "asset_id": "C1-U11-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Neformální zápis: Hele, ty nový pravidla jsme chtěli zavést v lednu.",
+      "start": 0,
+      "end": 5.851428571428571,
+      "slow_start": 0,
+      "slow_end": 6.907936507936508
+    },
+    {
+      "lesson_id": "C1-U11-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U11-CHECK--2026.10.22.1--text--177379d6e4--normal.mp3",
+      "slow_file": "audio/files/C1-U11-CHECK--2026.10.22.1--text--177379d6e4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U11-CHECK--2026.10.22.1--text--s1",
+      "asset_id": "C1-U11-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Teda jen vyzkoušet, ne rovnou natrvalo.",
+      "start": 6.031428571428571,
+      "end": 9.456371882086168,
+      "slow_start": 7.087936507936508,
+      "slow_end": 10.930839002267573
+    },
+    {
+      "lesson_id": "C1-U11-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U11-CHECK--2026.10.22.1--text--177379d6e4--normal.mp3",
+      "slow_file": "audio/files/C1-U11-CHECK--2026.10.22.1--text--177379d6e4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U11-CHECK--2026.10.22.1--text--s2",
+      "asset_id": "C1-U11-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "A možná až v únoru, podle školení.",
+      "start": 9.636371882086168,
+      "end": 12.771065759637189,
+      "slow_start": 11.110839002267573,
+      "slow_end": 14.68671201814059
+    }
+  ]
+}

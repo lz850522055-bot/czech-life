@@ -1,0 +1,68 @@
+{
+  "id": "C2-U05-L01--2026.10.22.1--exercises",
+  "lesson_id": "C2-U05-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C2",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Výsledky se mohou lišit bez lži. Neznamená to však, že jsou všechny závěry stejně dobře podloženy.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "C2-U05-L01-E06",
+      "parts": [
+        "Výsledky se mohou lišit bez lži.",
+        "Neznamená to však, že jsou všechny závěry stejně dobře podloženy."
+      ]
+    }
+  ],
+  "text_sha256": "6261957e5a6b1580be7a388f6fd4953f6d7a301b5710f36ddc9e4a6e8832bfbd",
+  "source_file": "content/lessons/C2/C2-U05-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U05-L01--2026.10.22.1--exercises--6261957e5a--normal.mp3",
+  "slow_file": "content/audio/files/C2-U05-L01--2026.10.22.1--exercises--6261957e5a--slow.mp3",
+  "duration_seconds": 8.695963718820861,
+  "slow_duration_seconds": 9.810521541950113,
+  "cues": [
+    {
+      "text": "Výsledky se mohou lišit bez lži. Neznamená to však, že jsou všechny závěry stejně dobře podloženy.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "C2-U05-L01-E06",
+      "parts": [
+        "Výsledky se mohou lišit bez lži.",
+        "Neznamená to však, že jsou všechny závěry stejně dobře podloženy."
+      ],
+      "start": 0.0,
+      "end": 8.515963718820862,
+      "sentences": [
+        {
+          "text": "Výsledky se mohou lišit bez lži.",
+          "start": 0.0,
+          "end": 2.786394557823129,
+          "slow_start": 0.0,
+          "slow_end": 3.1811337868480725
+        },
+        {
+          "text": "Neznamená to však, že jsou všechny závěry stejně dobře podloženy.",
+          "start": 2.966394557823129,
+          "end": 8.515963718820862,
+          "slow_start": 3.3611337868480726,
+          "slow_end": 9.630521541950113
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 9.630521541950113
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "cb8d1b745d8b39ec41b7633af9e7af070b100c8337625a777a7d7fc37c3c7ae9",
+    "slow": "075ba9d588f3a931cea72010a849fcf337247c1689d72c5f424b1a29a4da3cd4"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "Pre-A1-U01-L01--2026.10.22.1--exercises",
+  "lesson_id": "Pre-A1-U01-L01",
+  "content_version": "2026.10.22.1",
+  "level": "Pre-A1",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "čaj",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "Pre-A1-U01-L01-E02",
+      "parts": [
+        "čaj"
+      ]
+    }
+  ],
+  "text_sha256": "091e280ceee83b47e68a5575f6919db61bfde4f0e285c4c963ef029eeba64a36",
+  "source_file": "content/lessons/Pre-A1/Pre-A1-U01-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/Pre-A1-U01-L01--2026.10.22.1--exercises--091e280cee--normal.mp3",
+  "slow_file": "content/audio/files/Pre-A1-U01-L01--2026.10.22.1--exercises--091e280cee--slow.mp3",
+  "duration_seconds": 0.8301587301587302,
+  "slow_duration_seconds": 0.9114285714285715,
+  "cues": [
+    {
+      "text": "čaj",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "Pre-A1-U01-L01-E02",
+      "parts": [
+        "čaj"
+      ],
+      "start": 0.0,
+      "end": 0.6501587301587302,
+      "sentences": [
+        {
+          "text": "čaj",
+          "start": 0.0,
+          "end": 0.6501587301587302,
+          "slow_start": 0.0,
+          "slow_end": 0.7314285714285714
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 0.7314285714285714
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "6134285584891b9a26c8a61df663353a1c75c00f0f92c157033d467316d9c2d2",
+    "slow": "8dcd3950cf0bc643f0f09f93b408dafbbecbdf6441eb49517fecfef9f308fe25"
+  }
+}

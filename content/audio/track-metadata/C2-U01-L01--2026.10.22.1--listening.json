@@ -1,0 +1,102 @@
+{
+  "id": "C2-U01-L01--2026.10.22.1--listening",
+  "lesson_id": "C2-U01-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C2",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Marek: Tak Tereza vedoucího zajistí. Tereza: Ne, já se jen zeptám. Eva: A cedule vyřadíme. Adam: Vyhodíme? Eva: Z programu, ne do koše. Jsou půjčené.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Marek: Tak Tereza vedoucího zajistí.",
+        "Tereza: Ne, já se jen zeptám.",
+        "Eva: A cedule vyřadíme.",
+        "Adam: Vyhodíme?",
+        "Eva: Z programu, ne do koše.",
+        "Jsou půjčené."
+      ]
+    }
+  ],
+  "text_sha256": "daa20603cbfe48d97d280413437b737217a67552f00365c8dee37bf1dad4a369",
+  "source_file": "content/lessons/C2/C2-U01-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U01-L01--2026.10.22.1--listening--daa20603cb--normal.mp3",
+  "slow_file": "content/audio/files/C2-U01-L01--2026.10.22.1--listening--daa20603cb--slow.mp3",
+  "duration_seconds": 15.046802721088435,
+  "slow_duration_seconds": 16.765079365079366,
+  "cues": [
+    {
+      "text": "Marek: Tak Tereza vedoucího zajistí. Tereza: Ne, já se jen zeptám. Eva: A cedule vyřadíme. Adam: Vyhodíme? Eva: Z programu, ne do koše. Jsou půjčené.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Marek: Tak Tereza vedoucího zajistí.",
+        "Tereza: Ne, já se jen zeptám.",
+        "Eva: A cedule vyřadíme.",
+        "Adam: Vyhodíme?",
+        "Eva: Z programu, ne do koše.",
+        "Jsou půjčené."
+      ],
+      "start": 0.0,
+      "end": 14.866802721088435,
+      "sentences": [
+        {
+          "text": "Marek: Tak Tereza vedoucího zajistí.",
+          "start": 0.0,
+          "end": 3.076643990929705,
+          "slow_start": 0.0,
+          "slow_end": 3.3901133786848074
+        },
+        {
+          "text": "Tereza: Ne, já se jen zeptám.",
+          "start": 3.2566439909297054,
+          "end": 6.135918367346939,
+          "slow_start": 3.570113378684807,
+          "slow_end": 6.739637188208617
+        },
+        {
+          "text": "Eva: A cedule vyřadíme.",
+          "start": 6.315918367346939,
+          "end": 8.568253968253968,
+          "slow_start": 6.9196371882086165,
+          "slow_end": 9.485442176870748
+        },
+        {
+          "text": "Adam: Vyhodíme?",
+          "start": 8.748253968253968,
+          "end": 10.350430839002268,
+          "slow_start": 9.665442176870748,
+          "slow_end": 11.592698412698413
+        },
+        {
+          "text": "Eva: Z programu, ne do koše.",
+          "start": 10.530430839002268,
+          "end": 13.24716553287982,
+          "slow_start": 11.772698412698412,
+          "slow_end": 14.802902494331066
+        },
+        {
+          "text": "Jsou půjčené.",
+          "start": 13.427165532879819,
+          "end": 14.866802721088435,
+          "slow_start": 14.982902494331066,
+          "slow_end": 16.585079365079366
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 16.585079365079366
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "40652ad515eb8d582c979fbe2b3c02c2f3cc86b015453bbb2c3e17b691c6907e",
+    "slow": "ebe879ac97cbdf0f929be8e1ee356e6f384b23915fb7dcc00680646edcb3fa33"
+  }
+}

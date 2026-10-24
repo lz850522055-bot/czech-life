@@ -1,0 +1,202 @@
+{
+  "id": "A2-U09-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "A2-U09-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "To je hlavní výhoda.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "To je hlavní výhoda."
+      ]
+    },
+    {
+      "text": "Máme dvě možnosti.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Máme dvě možnosti."
+      ]
+    },
+    {
+      "text": "Ta varianta je levnější.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Ta varianta je levnější."
+      ]
+    },
+    {
+      "text": "Je místo dostupné?",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Je místo dostupné?"
+      ]
+    },
+    {
+      "text": "Je tam hluk.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Je tam hluk."
+      ]
+    },
+    {
+      "text": "Náklady jsou vyšší.",
+      "index": 5,
+      "role": "vocabulary",
+      "parts": [
+        "Náklady jsou vyšší."
+      ]
+    }
+  ],
+  "text_sha256": "1aac19cc31184edf70d97b5248731c849ee8b7be9caf5b1aad5b58cbe4fecdb2",
+  "source_file": "content/lessons/A2/A2-U09-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U09-L01--2026.10.22.1--vocabulary--1aac19cc31--normal.mp3",
+  "slow_file": "content/audio/files/A2-U09-L01--2026.10.22.1--vocabulary--1aac19cc31--slow.mp3",
+  "duration_seconds": 11.006530612244898,
+  "slow_duration_seconds": 12.550657596371883,
+  "cues": [
+    {
+      "text": "To je hlavní výhoda.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "To je hlavní výhoda."
+      ],
+      "start": 0.0,
+      "end": 1.6602267573696146,
+      "sentences": [
+        {
+          "text": "To je hlavní výhoda.",
+          "start": 0.0,
+          "end": 1.6602267573696146,
+          "slow_start": 0.0,
+          "slow_end": 1.8924263038548752
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.8924263038548752
+    },
+    {
+      "text": "Máme dvě možnosti.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Máme dvě možnosti."
+      ],
+      "start": 1.8402267573696145,
+      "end": 3.570113378684807,
+      "sentences": [
+        {
+          "text": "Máme dvě možnosti.",
+          "start": 1.8402267573696145,
+          "end": 3.570113378684807,
+          "slow_start": 2.072426303854875,
+          "slow_end": 4.127392290249433
+        }
+      ],
+      "slow_start": 2.072426303854875,
+      "slow_end": 4.127392290249433
+    },
+    {
+      "text": "Ta varianta je levnější.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Ta varianta je levnější."
+      ],
+      "start": 3.7501133786848073,
+      "end": 5.839909297052154,
+      "sentences": [
+        {
+          "text": "Ta varianta je levnější.",
+          "start": 3.7501133786848073,
+          "end": 5.839909297052154,
+          "slow_start": 4.3073922902494335,
+          "slow_end": 6.6177777777777775
+        }
+      ],
+      "slow_start": 4.3073922902494335,
+      "slow_end": 6.6177777777777775
+    },
+    {
+      "text": "Je místo dostupné?",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Je místo dostupné?"
+      ],
+      "start": 6.019909297052155,
+      "end": 7.587256235827664,
+      "sentences": [
+        {
+          "text": "Je místo dostupné?",
+          "start": 6.019909297052155,
+          "end": 7.587256235827664,
+          "slow_start": 6.797777777777778,
+          "slow_end": 8.562494331065759
+        }
+      ],
+      "slow_start": 6.797777777777778,
+      "slow_end": 8.562494331065759
+    },
+    {
+      "text": "Je tam hluk.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Je tam hluk."
+      ],
+      "start": 7.767256235827665,
+      "end": 8.939863945578232,
+      "sentences": [
+        {
+          "text": "Je tam hluk.",
+          "start": 7.767256235827665,
+          "end": 8.939863945578232,
+          "slow_start": 8.74249433106576,
+          "slow_end": 10.112471655328799
+        }
+      ],
+      "slow_start": 8.74249433106576,
+      "slow_end": 10.112471655328799
+    },
+    {
+      "text": "Náklady jsou vyšší.",
+      "index": 5,
+      "role": "vocabulary",
+      "parts": [
+        "Náklady jsou vyšší."
+      ],
+      "start": 9.119863945578231,
+      "end": 10.826530612244898,
+      "sentences": [
+        {
+          "text": "Náklady jsou vyšší.",
+          "start": 9.119863945578231,
+          "end": 10.826530612244898,
+          "slow_start": 10.292471655328798,
+          "slow_end": 12.370657596371881
+        }
+      ],
+      "slow_start": 10.292471655328798,
+      "slow_end": 12.370657596371881
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "0392d920b4745c279209febd968223b501bb094d89774971cd9be5ab80add55e",
+    "slow": "1b2487a0bcc2db2f39e21e457bfc1139ceebd536771a5d8372f31f5604c39b2c"
+  }
+}

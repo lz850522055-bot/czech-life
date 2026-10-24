@@ -1,0 +1,288 @@
+{
+  "id": "Pre-A1-U05-L01--2026.10.23.1--text",
+  "lesson_id": "Pre-A1-U05-L01",
+  "content_version": "2026.10.23.1",
+  "level": "Pre-A1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Led. Let.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Led.",
+        "Let."
+      ]
+    },
+    {
+      "text": "Ledu je málo.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Ledu je málo."
+      ]
+    },
+    {
+      "text": "V obchodě.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "V obchodě."
+      ]
+    },
+    {
+      "text": "S Petrem. Z Prahy.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "S Petrem.",
+        "Z Prahy."
+      ]
+    },
+    {
+      "text": "Prosím vás, kde je obchod?",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Prosím vás, kde je obchod?"
+      ]
+    },
+    {
+      "text": "Tady, hned vedle.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Tady, hned vedle."
+      ]
+    },
+    {
+      "text": "Už rozumím. Děkuju.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Už rozumím.",
+        "Děkuju."
+      ]
+    },
+    {
+      "text": "Ještě jednou, prosím, trochu pomaleji.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Ještě jednou, prosím, trochu pomaleji."
+      ]
+    }
+  ],
+  "text_sha256": "3dac8123fe7d4bb82a9ef1fa1626aa982c6ec3ae034b9c84f4ba6230042810a1",
+  "source_file": "content/lessons/Pre-A1/Pre-A1-U05-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/Pre-A1-U05-L01--2026.10.22.1--text--3dac8123fe--normal.mp3",
+  "slow_file": "content/audio/files/Pre-A1-U05-L01--2026.10.22.1--text--3dac8123fe--slow.mp3",
+  "duration_seconds": 16.65501133786848,
+  "slow_duration_seconds": 18.75641723356009,
+  "cues": [
+    {
+      "text": "Led. Let.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Led.",
+        "Let."
+      ],
+      "start": 0.0,
+      "end": 1.7357369614512472,
+      "sentences": [
+        {
+          "text": "Led.",
+          "start": 0.0,
+          "end": 0.7778684807256235,
+          "slow_start": 0.0,
+          "slow_end": 0.9171882086167801
+        },
+        {
+          "text": "Let.",
+          "start": 0.9578684807256236,
+          "end": 1.7357369614512472,
+          "slow_start": 1.0971882086167801,
+          "slow_end": 2.0027664399092973
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.0027664399092973
+    },
+    {
+      "text": "Ledu je málo.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Ledu je málo."
+      ],
+      "start": 1.9157369614512472,
+      "end": 3.2044444444444444,
+      "sentences": [
+        {
+          "text": "Ledu je málo.",
+          "start": 1.9157369614512472,
+          "end": 3.2044444444444444,
+          "slow_start": 2.182766439909297,
+          "slow_end": 3.680453514739229
+        }
+      ],
+      "slow_start": 2.182766439909297,
+      "slow_end": 3.680453514739229
+    },
+    {
+      "text": "V obchodě.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "V obchodě."
+      ],
+      "start": 3.3844444444444446,
+      "end": 4.313242630385488,
+      "sentences": [
+        {
+          "text": "V obchodě.",
+          "start": 3.3844444444444446,
+          "end": 4.313242630385488,
+          "slow_start": 3.860453514739229,
+          "slow_end": 4.975011337868481
+        }
+      ],
+      "slow_start": 3.860453514739229,
+      "slow_end": 4.975011337868481
+    },
+    {
+      "text": "S Petrem. Z Prahy.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "S Petrem.",
+        "Z Prahy."
+      ],
+      "start": 4.493242630385487,
+      "end": 6.484399092970522,
+      "sentences": [
+        {
+          "text": "S Petrem.",
+          "start": 4.493242630385487,
+          "end": 5.387210884353742,
+          "slow_start": 5.155011337868481,
+          "slow_end": 6.22312925170068
+        },
+        {
+          "text": "Z Prahy.",
+          "start": 5.567210884353742,
+          "end": 6.484399092970522,
+          "slow_start": 6.403129251700681,
+          "slow_end": 7.413197278911564
+        }
+      ],
+      "slow_start": 5.155011337868481,
+      "slow_end": 7.413197278911564
+    },
+    {
+      "text": "Prosím vás, kde je obchod?",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Prosím vás, kde je obchod?"
+      ],
+      "start": 6.6643990929705215,
+      "end": 9.056054421768707,
+      "sentences": [
+        {
+          "text": "Prosím vás, kde je obchod?",
+          "start": 6.6643990929705215,
+          "end": 9.056054421768707,
+          "slow_start": 7.593197278911565,
+          "slow_end": 10.2518820861678
+        }
+      ],
+      "slow_start": 7.593197278911565,
+      "slow_end": 10.2518820861678
+    },
+    {
+      "text": "Tady, hned vedle.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Tady, hned vedle."
+      ],
+      "start": 9.236054421768708,
+      "end": 10.722131519274376,
+      "sentences": [
+        {
+          "text": "Tady, hned vedle.",
+          "start": 9.236054421768708,
+          "end": 10.722131519274376,
+          "slow_start": 10.4318820861678,
+          "slow_end": 12.103718820861678
+        }
+      ],
+      "slow_start": 10.4318820861678,
+      "slow_end": 12.103718820861678
+    },
+    {
+      "text": "Už rozumím. Děkuju.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Už rozumím.",
+        "Děkuju."
+      ],
+      "start": 10.902131519274377,
+      "end": 13.067437641723355,
+      "sentences": [
+        {
+          "text": "Už rozumím.",
+          "start": 10.902131519274377,
+          "end": 12.074739229024944,
+          "slow_start": 12.283718820861678,
+          "slow_end": 13.653696145124716
+        },
+        {
+          "text": "Děkuju.",
+          "start": 12.254739229024944,
+          "end": 13.067437641723355,
+          "slow_start": 13.833696145124717,
+          "slow_end": 14.750884353741496
+        }
+      ],
+      "slow_start": 12.283718820861678,
+      "slow_end": 14.750884353741496
+    },
+    {
+      "text": "Ještě jednou, prosím, trochu pomaleji.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Ještě jednou, prosím, trochu pomaleji."
+      ],
+      "start": 13.247437641723357,
+      "end": 16.47501133786848,
+      "sentences": [
+        {
+          "text": "Ještě jednou, prosím, trochu pomaleji.",
+          "start": 13.247437641723357,
+          "end": 16.47501133786848,
+          "slow_start": 14.930884353741497,
+          "slow_end": 18.57641723356009
+        }
+      ],
+      "slow_start": 14.930884353741497,
+      "slow_end": 18.57641723356009
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "c3ec8b57c06fd0719b5e0248b05a234a5c4a03e8a9d756be5119a7826e3789a2",
+    "slow": "18e4d89104aa301d1ac3a9cc9eab459e412e4feef6e67876b2016d04b44d4fcb"
+  },
+  "reused_from_track_id": "Pre-A1-U05-L01--2026.10.22.1--text"
+}

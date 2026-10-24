@@ -1,0 +1,67 @@
+{
+  "id": "A2-U03-L01--2026.10.23.1--contrasts",
+  "lesson_id": "A2-U03-L01",
+  "content_version": "2026.10.23.1",
+  "level": "A2",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Janě. Janou.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "Janě.",
+        "Janou."
+      ]
+    }
+  ],
+  "text_sha256": "a0e667d26eac2f19efa65b6f96484fd950f581a9929160c58389757932eb85d5",
+  "source_file": "content/lessons/A2/A2-U03-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U03-L01--2026.10.22.1--contrasts--a0e667d26e--normal.mp3",
+  "slow_file": "content/audio/files/A2-U03-L01--2026.10.22.1--contrasts--a0e667d26e--slow.mp3",
+  "duration_seconds": 1.822857142857143,
+  "slow_duration_seconds": 2.0202267573696147,
+  "cues": [
+    {
+      "text": "Janě. Janou.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "Janě.",
+        "Janou."
+      ],
+      "start": 0.0,
+      "end": 1.6428571428571428,
+      "sentences": [
+        {
+          "text": "Janě.",
+          "start": 0.0,
+          "end": 0.6733786848072563,
+          "slow_start": 0.0,
+          "slow_end": 0.7198185941043084
+        },
+        {
+          "text": "Janou.",
+          "start": 0.8533786848072562,
+          "end": 1.6428571428571428,
+          "slow_start": 0.8998185941043084,
+          "slow_end": 1.8402267573696145
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.8402267573696145
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "80a26790c29860ae108373785b869f6c84a0486a1ae5840221252e4c2500549a",
+    "slow": "d3ba34caf6d199be0ac0086cb42fc0e3080d2dd90313fc13f5e87a6748c6738c"
+  },
+  "reused_from_track_id": "A2-U03-L01--2026.10.22.1--contrasts"
+}

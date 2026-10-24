@@ -1,0 +1,75 @@
+{
+  "id": "C1-U07-L01--2026.10.22.1--listening",
+  "lesson_id": "C1-U07-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Opravu bychom měli dokončit odpoledne, ale přesný čas závisí na závěrečné kontrole. Prosím, nepište zatím návštěvníkům, že bude výtah ve dvě určitě fungovat. Jakmile čas potvrdíme, pošleme aktualizaci.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Opravu bychom měli dokončit odpoledne, ale přesný čas závisí na závěrečné kontrole.",
+        "Prosím, nepište zatím návštěvníkům, že bude výtah ve dvě určitě fungovat.",
+        "Jakmile čas potvrdíme, pošleme aktualizaci."
+      ]
+    }
+  ],
+  "text_sha256": "c8e9b7093eb12f85a886080814571ef988e25cd9184f9222323cef1831684c81",
+  "source_file": "content/lessons/C1/C1-U07-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U07-L01--2026.10.22.1--listening--c8e9b7093e--normal.mp3",
+  "slow_file": "content/audio/files/C1-U07-L01--2026.10.22.1--listening--c8e9b7093e--slow.mp3",
+  "duration_seconds": 18.291655328798186,
+  "slow_duration_seconds": 20.4859410430839,
+  "cues": [
+    {
+      "text": "Opravu bychom měli dokončit odpoledne, ale přesný čas závisí na závěrečné kontrole. Prosím, nepište zatím návštěvníkům, že bude výtah ve dvě určitě fungovat. Jakmile čas potvrdíme, pošleme aktualizaci.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Opravu bychom měli dokončit odpoledne, ale přesný čas závisí na závěrečné kontrole.",
+        "Prosím, nepište zatím návštěvníkům, že bude výtah ve dvě určitě fungovat.",
+        "Jakmile čas potvrdíme, pošleme aktualizaci."
+      ],
+      "start": 0.0,
+      "end": 18.111655328798186,
+      "sentences": [
+        {
+          "text": "Opravu bychom měli dokončit odpoledne, ale přesný čas závisí na závěrečné kontrole.",
+          "start": 0.0,
+          "end": 7.337505668934241,
+          "slow_start": 0.0,
+          "slow_end": 8.289523809523809
+        },
+        {
+          "text": "Prosím, nepište zatím návštěvníkům, že bude výtah ve dvě určitě fungovat.",
+          "start": 7.51750566893424,
+          "end": 14.007482993197279,
+          "slow_start": 8.46952380952381,
+          "slow_end": 15.702539682539683
+        },
+        {
+          "text": "Jakmile čas potvrdíme, pošleme aktualizaci.",
+          "start": 14.187482993197278,
+          "end": 18.111655328798186,
+          "slow_start": 15.882539682539683,
+          "slow_end": 20.3059410430839
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 20.3059410430839
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "28fc0614a8909f8f12475357735bea5e016b730d3850979153b1d93c02e6e942",
+    "slow": "e3893909d06ab4e17b97b6d2104b813ba3642438fc34aaf46b07d70320255ec7"
+  }
+}

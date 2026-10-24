@@ -1,0 +1,471 @@
+{
+  "version": 1,
+  "engine": "local Piper Czech",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "sample_rate": 22050,
+  "quality_scope": "script, phoneme input, bytes, full decode, non-silence and timing; not a native auditory certification",
+  "items": [
+    {
+      "id": "field-b2b06097b40e32fc",
+      "phonemes": [
+        "aː",
+        "a"
+      ],
+      "script_sha256": "995cf0492c70727a5758a8bf047c7f21a7c8f63d7209faa13d8d695d9ea55e40",
+      "normal_seconds": 1.2488,
+      "normal_sha256": "77d3322faa0806bd5c70a7ed33b3cb7483a74515482657959b7abc48cd47e99a",
+      "normal_bytes": 10701,
+      "slow_seconds": 1.4462,
+      "slow_sha256": "4dcc59e47139c4f1ca83f8ce810b93d364b92c0afcc3c8e20bf3d3c067af2977",
+      "slow_bytes": 12373
+    },
+    {
+      "id": "field-b33862ac6db0e813",
+      "phonemes": [
+        "a",
+        "a",
+        "aː"
+      ],
+      "script_sha256": "9d432c9815974a8dc8947205553c94f6eabc0f1343176e0aa4c6b358c999c136",
+      "normal_seconds": 1.9287,
+      "normal_sha256": "4611ee4d68cdc7b39fc5d1f28c6dcdd3a331f0a6843d41e2b3b5e9f7e8d37d37",
+      "normal_bytes": 16135,
+      "slow_seconds": 2.1725,
+      "slow_sha256": "f2f356359dcdee172582113c66c0cb3036d8f66eac99e23fa0ab9693f8e3451e",
+      "slow_bytes": 18225
+    },
+    {
+      "id": "field-c59ed2113a82e497",
+      "phonemes": [
+        "o",
+        "u",
+        "ɛ"
+      ],
+      "script_sha256": "66c6ef6812219515eeaf14038a52dbd4869b919a38dbb4e58440169378547b7d",
+      "normal_seconds": 1.8474,
+      "normal_sha256": "cb0c4d8ad3040361ac1b097fc5dda6addada3df1ed737f2c770c411a737c31e8",
+      "normal_bytes": 15508,
+      "slow_seconds": 2.0564,
+      "slow_sha256": "134d2fae06a0020855220adb5cdff7867c136aaaa31010dee245b2c33bf6905c",
+      "slow_bytes": 17180
+    },
+    {
+      "id": "field-1a597152e965ddee",
+      "phonemes": [
+        "ɛ",
+        "u",
+        "o"
+      ],
+      "script_sha256": "c51a66313fb3e07724a5efd650b1f9264711d938d2402684dff7a3c8b9365a57",
+      "normal_seconds": 1.859,
+      "normal_sha256": "08bf7cc197a5a00f98107f9a0c0fd3044ee37bd99debd155f0dd3a24381e0b31",
+      "normal_bytes": 15717,
+      "slow_seconds": 1.9519,
+      "slow_sha256": "969c0c0b79cadc6036722352a4f4c5b95d95dd4304994dbec760202bb402a21a",
+      "slow_bytes": 16344
+    },
+    {
+      "id": "field-ee1c3dcea43dc954",
+      "phonemes": [
+        "iː",
+        "ɪ",
+        "iː"
+      ],
+      "script_sha256": "d24e37208dc51fc4f5400792d4732c85d41841ff0c6ceece526b824635d92670",
+      "normal_seconds": 2.2654,
+      "normal_sha256": "7b0f10828610b7b09a69fdd0a159fad03c047970f315a0986c506eb78b941c58",
+      "normal_bytes": 18852,
+      "slow_seconds": 2.4976,
+      "slow_sha256": "2c3a88565d5a1c8c7220649a2358a49eb6442a8309586a5b9eed42e797eafed0",
+      "slow_bytes": 20733
+    },
+    {
+      "id": "field-42486f66a97c20d2",
+      "phonemes": [
+        "ɪ",
+        "iː"
+      ],
+      "script_sha256": "51e4b6fa608a7b41232bbe0a4f2c48d91c063a7cfd102b4d6cc565b0d931276f",
+      "normal_seconds": 1.3649,
+      "normal_sha256": "8fc25015ae88a517d8fd835e3e170c4b05c55853e5305ca69a24fd334fb0c5c4",
+      "normal_bytes": 11746,
+      "slow_seconds": 1.539,
+      "slow_sha256": "dd2decc3669b9c820ef193616496821a1ace36edfeef945d08b4667f09049762",
+      "slow_bytes": 13000
+    },
+    {
+      "id": "field-e9b814b4f7d2b77b",
+      "text": "Máma.",
+      "script_sha256": "7fd809aa78ed236169597aeeefa3d94e8b2e5ad7a161e342975487bf866f0f2d",
+      "normal_seconds": 0.7198,
+      "normal_sha256": "31c0f4a638b60de28403338c324b852b7300159ce3d1ce28c4d5100c39f70c07",
+      "normal_bytes": 6522,
+      "slow_seconds": 0.8591,
+      "slow_sha256": "02d9d96600ea3b9ba53680cc198e7e1329fb1c8797bb85c49beb48cc4b92daf7",
+      "slow_bytes": 7567
+    },
+    {
+      "id": "field-558aecb259dd6ed2",
+      "text": "Voda.",
+      "script_sha256": "a84d4bd25f42d8f6be4ccc4773b2510003bed527c472da0a9dccd4169a1ba424",
+      "normal_seconds": 0.7082,
+      "normal_sha256": "fd591687267d3f8ff0c7e8d757dec55f09fb4c5c3893a0f984280e9f7455ac6d",
+      "normal_bytes": 6522,
+      "slow_seconds": 0.8011,
+      "slow_sha256": "e30a0a5207f74b14df9c202e5095fbbcd3520a521d840f2eb44dbb085dc20170",
+      "slow_bytes": 7149
+    },
+    {
+      "id": "field-e57a36e00a35ae4e",
+      "text": "Čaj.",
+      "script_sha256": "c4ad46ea272b079cc8e8083598d15f3e08506d5b54e6d3c17aea9c84424d12c0",
+      "normal_seconds": 0.6734,
+      "normal_sha256": "8bf596334a519d99593bfe461bd1a23cf84073c1e81cc9a85c3eb1d85e7a3311",
+      "normal_bytes": 6104,
+      "slow_seconds": 0.7779,
+      "slow_sha256": "dc7058ae22291a67e7d0d23931ee53b4564532e0fdd4bebf768b86600f89c01a",
+      "slow_bytes": 6940
+    },
+    {
+      "id": "field-55c2074a381662cc",
+      "text": "Cena.",
+      "script_sha256": "e8e55964ee0a821ff8241e0da9eeda2f7f253de2b830f0d7ecc6638dd6839df2",
+      "normal_seconds": 0.6153,
+      "normal_sha256": "c05882434650ea0a7eac79bd848b165e854c4fcb5065486c6722925e99886023",
+      "normal_bytes": 5686,
+      "slow_seconds": 0.743,
+      "slow_sha256": "2c7dc97044dc6d8bab7cb9edd9d668ab8a48f1307c394570a6b9a3ad90e47a1a",
+      "slow_bytes": 6731
+    },
+    {
+      "id": "field-9c2e72472a70c66d",
+      "text": "Řeka.",
+      "script_sha256": "a0ddb5652035bc18e4a4e8c5e466740fc9bb08c3f6e8222b1839f8d619ebb1a7",
+      "normal_seconds": 0.8011,
+      "normal_sha256": "e138139fb8dd12002100e06f9ee455a8016c942e9a7718763766c6e5951fdb0f",
+      "normal_bytes": 7149,
+      "slow_seconds": 0.9288,
+      "slow_sha256": "4f86df2682270d1da4f6edb22f4d6ccb3983573b36dbb1b52b97045dd7973515",
+      "slow_bytes": 8194
+    },
+    {
+      "id": "field-7bf72ef421bef43f",
+      "text": "Ruka.",
+      "script_sha256": "a5111e2eacd001b93395a703b978dded4c8238e3352ee9bbca9a322a7bd08f79",
+      "normal_seconds": 0.7895,
+      "normal_sha256": "d3ba18bc909a3f09d31ae28893ec9b0e1b7e4605ca676ea450a25efe242da5ca",
+      "normal_bytes": 7149,
+      "slow_seconds": 0.894,
+      "slow_sha256": "62a3a10cf03a41b5068903b692850c88881776e2e0d716df747704e32cdca38c",
+      "slow_bytes": 7985
+    },
+    {
+      "id": "field-2da6cd48f13d54f7",
+      "text": "Malá.",
+      "script_sha256": "5775995cd175b3f19a59f93387ae30977f710a90d4af60df3e9a4e11c7e7634f",
+      "normal_seconds": 0.7663,
+      "normal_sha256": "993045eaa66f5fb5ca8faa135adbf687c95d43343967727e7392651f79efb097",
+      "normal_bytes": 6940,
+      "slow_seconds": 0.8127,
+      "slow_sha256": "fc85f55daa7f81977c86bf2d0c94995537c3de11d35cfd4b006f6890a6cbda10",
+      "slow_bytes": 7358
+    },
+    {
+      "id": "field-6abbdb5138ded5d6",
+      "text": "Kamarád.",
+      "script_sha256": "fdc345e87bc322a92ac5b23d96338a7eea4ae52340c3581dcf283c48a5dbb6a6",
+      "normal_seconds": 0.9056,
+      "normal_sha256": "ed1de83a4d06d51d1aeba3a58730d1f9a7dc3e99655c1bdeb74b9a6bab9a46c3",
+      "normal_bytes": 7985,
+      "slow_seconds": 1.1262,
+      "slow_sha256": "f55fb470221752326e465afca09db31bfa83a7cc5356d586303d118709548287",
+      "slow_bytes": 9866
+    },
+    {
+      "id": "field-26a41edba94fd360",
+      "text": "Vodu, prosím.",
+      "script_sha256": "caa543aee6da77ed2bc4af1b629f7971f2f5a7f543a777b567bcb96c25235845",
+      "normal_seconds": 1.4629,
+      "normal_sha256": "9f985fe18c1f7da6f64eb725fccbcbffec0714fa8aafa54cc9ee35a493f5b1fc",
+      "normal_bytes": 12373,
+      "slow_seconds": 1.637,
+      "slow_sha256": "9425c605a1e1245ae9fde9152c5d76521965ce1a63d499dfedd357ea88f56da4",
+      "slow_bytes": 13836
+    },
+    {
+      "id": "field-955d7a63a1be82b1",
+      "text": "Kávu, prosím.",
+      "script_sha256": "a1d8ad0f48852fed0789c5e544164a837ddb64be37fd3bb35b9fa0300367ea48",
+      "normal_seconds": 1.4861,
+      "normal_sha256": "d0a7c00695aac9ab8a860bea6e181291c8306ef7b3bc89cebb629bba5acff253",
+      "normal_bytes": 12582,
+      "slow_seconds": 1.5906,
+      "slow_sha256": "ed7d90951f3cc2fc663b94c034853d5c20285b20f3d07aa8e992a9a3f89ddb85",
+      "slow_bytes": 13418
+    },
+    {
+      "id": "field-e1629815bba39f47",
+      "text": "Prosím, ještě jednou.",
+      "script_sha256": "e5cb1afa5c0a8bec7c926f4b0565e30217bd0f56f05c056f3151f686813f7252",
+      "normal_seconds": 2.055,
+      "normal_sha256": "05e7f83f6fb861e8ecbcc58008b8dcc739eb7f652488d36321b056bdd10cd759",
+      "normal_bytes": 17180,
+      "slow_seconds": 2.4033,
+      "slow_sha256": "b1d25a771070f73dad67635dc7a314fdb731d47d96be6a78186ae34fda976509",
+      "slow_bytes": 19897
+    },
+    {
+      "id": "field-56f30f76c2ee6989",
+      "text": "Kávu, nebo čaj?",
+      "script_sha256": "5b3e63a4f2d9572fb0a36d4e9a89555d043c2511cbe27a4d3f3ed8610e993f43",
+      "normal_seconds": 1.7067,
+      "normal_sha256": "1420f7e1a00d67dc9f4a82a34c1f9dd0857102a4c150a40d0dcefd2b6aba83ad",
+      "normal_bytes": 14463,
+      "slow_seconds": 1.8924,
+      "slow_sha256": "975457b9625effbfa771e6098e2d09dfed45f104905304de884810485ebb8a3b",
+      "slow_bytes": 15926
+    },
+    {
+      "id": "field-a12c0865a7c15a61",
+      "text": "Prosím, napište to.",
+      "script_sha256": "64cb7e033c9badca446761d45a2c24fcf653d77e437caf05ca213aaa4f0c8d13",
+      "normal_seconds": 2.0434,
+      "normal_sha256": "d4790caa8094730ae06e42e8926be0471822728efcb04089b2e801547b8e4dbb",
+      "normal_bytes": 17180,
+      "slow_seconds": 2.2639,
+      "slow_sha256": "a5c8981ad644b9e5779e0a010225b50e2c5de81d09c4d46f91f725b48f403654",
+      "slow_bytes": 18852
+    },
+    {
+      "id": "field-ab6c142bdb55a7a4",
+      "text": "Jmenuju se Petr.",
+      "script_sha256": "f4fb40112502139db1d97ed42bc63a0e04adbe61187bb15172743f23ea669f8d",
+      "normal_seconds": 1.637,
+      "normal_sha256": "547822c14b8d74c9350de73766e9d6f89f336edc1aac2425522de5b75f9d34fb",
+      "normal_bytes": 13836,
+      "slow_seconds": 1.8344,
+      "slow_sha256": "34f078fd0111c2a438496513affaa2a2cb9a87900712a8d6f7675f57b8dc649a",
+      "slow_bytes": 15508
+    },
+    {
+      "id": "field-59075221ebe99430",
+      "text": "Těší mě. Jmenuju se Eva.",
+      "script_sha256": "6d2de0c682c31a5fa3ef8b5dedd5354d386d018ac864f31dedf745e183781a6d",
+      "normal_seconds": 2.5542,
+      "normal_sha256": "080993d5d1f000ce14374d836751bcda41fc15fc1f53c2b3c45e571d37ae9489",
+      "normal_bytes": 21150,
+      "slow_seconds": 2.9605,
+      "slow_sha256": "7f4ff9e7c53264c70e5895a40ba3280b70f932e31224b9f3cddc7daff6c31f61",
+      "slow_bytes": 24494
+    },
+    {
+      "id": "field-4ee45a3509e02c01",
+      "text": "Jeden hrnek stojí šedesát korun.",
+      "script_sha256": "24644b5a6ecba22e28207d4907e08069a85cb4b64ab87c0c69bfcfe5c0063119",
+      "normal_seconds": 3.0302,
+      "normal_sha256": "2c45b42a2339a4c0237789ce7372379ec3f6723a5d8691023365b9b782684d84",
+      "normal_bytes": 24912,
+      "slow_seconds": 3.4482,
+      "slow_sha256": "fd2c594c99dbd9e0d95b2b9e79c3d06ad18957c3cdf14da4c22b3a0179cac0fa",
+      "slow_bytes": 28256
+    },
+    {
+      "id": "field-9ef8e0b647deaa59",
+      "text": "Jeden hrnek stojí čtyřicet pět korun.",
+      "script_sha256": "0b7780f7f871d83a6421e1753d8cdcc4ad2a987916636b34c00371188bb04485",
+      "normal_seconds": 3.2856,
+      "normal_sha256": "ea7325f3bd34e55e305ee06400378fceac79d79042d30b6be11e817036bbb804",
+      "normal_bytes": 27002,
+      "slow_seconds": 3.8197,
+      "slow_sha256": "32f6df19e4044a61e21a8c342ac319514c74cfadcc3dbdba4f392083a2f7a1d6",
+      "slow_bytes": 31390
+    },
+    {
+      "id": "field-e55305a36ac79ae5",
+      "text": "Dobrý den. Čaj, prosím.",
+      "script_sha256": "123bdcb3c22b275ef8fb80d74134b6dc91ae0ae0e3ffbc121bcc851e881b4fb4",
+      "normal_seconds": 2.5194,
+      "normal_sha256": "50ec6af60840106a4ac9842f6fe919be2bc893d805fde690eb367611e2084c02",
+      "normal_bytes": 20941,
+      "slow_seconds": 2.8677,
+      "slow_sha256": "40035c5546de9e3d9a6522f449a68a9c711c3356c8d38c6f3405827d1ab51bc8",
+      "slow_bytes": 23658
+    },
+    {
+      "id": "field-3624eaa65115d796",
+      "text": "Dobrý den. Vodu, prosím.",
+      "script_sha256": "47e7186990cd561dc5ebb2b34cf5cbba08dfb107e01eabde1b40f4b2092b6ce1",
+      "normal_seconds": 2.4961,
+      "normal_sha256": "afdf41eecb145068c206ef9a7ee3ce35acf91efca701fd94f68441d93eb74860",
+      "normal_bytes": 20733,
+      "slow_seconds": 2.8561,
+      "slow_sha256": "f65b7f431988a77abbc51c5a88ea0e44568f21c117e29f53ad1b01b74a6cd8b4",
+      "slow_bytes": 23658
+    },
+    {
+      "id": "field-df659088c49b6e07",
+      "text": "Kde je výdejní místo?",
+      "script_sha256": "280b32acdcddef84d6d1b389e2fe28b00407d44bdb7a04543fa21442178fedc5",
+      "normal_seconds": 1.8576,
+      "normal_sha256": "6ff273cb5ec1dda7894100a7dfe318b2f3054d4d0eabb3aef406b4da68109da2",
+      "normal_bytes": 15717,
+      "slow_seconds": 2.0898,
+      "slow_sha256": "7bfa83aabbdecc0a683240b24850062311a48cd16707b1dea28c7f976ef5c473",
+      "slow_bytes": 17389
+    },
+    {
+      "id": "field-532c60d172376513",
+      "text": "Je v Mostecké ulici.",
+      "script_sha256": "e519fa2e6be074c70dcd140ebad481de4d5baba133fb3806cb9cd46e95d90e67",
+      "normal_seconds": 2.0085,
+      "normal_sha256": "b850cde8befbd1b16200698df9b14a22c04503baaad15d83f63e1182f8ca1824",
+      "normal_bytes": 16762,
+      "slow_seconds": 2.2756,
+      "slow_sha256": "ea6ff4a1ca34af4cc8e6d1555113e3b0c5a5cd712180b4f4f5d538d72c3c4a69",
+      "slow_bytes": 19061
+    },
+    {
+      "id": "field-787383f11dfbc498",
+      "text": "Jdu do Mostecké ulice.",
+      "script_sha256": "fe68ba7f7970c3fbc38a138efefe683fb881c8ee0818134f9d2cfe19d3c70cc3",
+      "normal_seconds": 2.1246,
+      "normal_sha256": "a9b254e7056c5efe0dc176d836c0a87e5f4ce045cc15494bd2017556ab232450",
+      "normal_bytes": 17807,
+      "slow_seconds": 2.4497,
+      "slow_sha256": "46718f7070e9e411680f33523de5d6f30e0f1c690c74a6daead0fc14005458e5",
+      "slow_bytes": 20315
+    },
+    {
+      "id": "field-022a7aa40e082fdc",
+      "text": "Pro koho? Pro Janu.",
+      "script_sha256": "5cccb58cadaabfc27640699d6e74b47ae5c9072453468ae5c785fd69bb9aa1ea",
+      "normal_seconds": 1.6254,
+      "normal_sha256": "013393cc183423009132b188121e8e28221dea57abfba569b4e16fd069511cff",
+      "normal_bytes": 13836,
+      "slow_seconds": 1.8228,
+      "slow_sha256": "463c626e05f46e95d062e1ad41b742d0ee711574b76498d0ccd5e26c9302d5b7",
+      "slow_bytes": 15299
+    },
+    {
+      "id": "field-549c85ca4612e041",
+      "text": "Vyzvedávám balíček.",
+      "script_sha256": "50a4ef80e1a08e7db70793e4024cf91dd5a3fe2450c393674fb289ac88e62694",
+      "normal_seconds": 1.9969,
+      "normal_sha256": "10c87e31000f6231f05834e5eece2cc2f562a82fe05358e433cbcbda3a1a4341",
+      "normal_bytes": 16762,
+      "slow_seconds": 2.2756,
+      "slow_sha256": "b2402af304a3ee939bbf52900cc8d7db0fc684bac4082b33c4795daeec5d0f2c",
+      "slow_bytes": 19061
+    },
+    {
+      "id": "field-71ad79d0033aa587",
+      "text": "Číslo dvacet čtyři.",
+      "script_sha256": "ad81df0dd7ae0e7d1c073ef0b91d9a4788fc94a6b1b3d8b66ec284f286e81de1",
+      "normal_seconds": 1.7299,
+      "normal_sha256": "36530e172f8bcf79a3e3ba18ba1bc8970d467d2a2dde662ab379ab5550c78052",
+      "normal_bytes": 14672,
+      "slow_seconds": 1.9156,
+      "slow_sha256": "397562c5591256b3a5173179b6b8ea767dc6db369b2381373831352ee6bec910",
+      "slow_bytes": 16135
+    },
+    {
+      "id": "field-a6ace1b448991f50",
+      "text": "Číslo čtyřicet dva.",
+      "script_sha256": "a192575051d3caa8c849e41678904cf18f811a58d7d401c7dad769de6ad5988d",
+      "normal_seconds": 1.6138,
+      "normal_sha256": "d250fe7fd6244433831b4126af8f6ed321d093e0885d909c46e031fa47b81624",
+      "normal_bytes": 13627,
+      "slow_seconds": 1.8576,
+      "slow_sha256": "16f0630d3022d5cfc9027971d763f3b05f1e6b7ea2345f62a6ec312a9ad9eb14",
+      "slow_bytes": 15717
+    },
+    {
+      "id": "field-72637e0397b33392",
+      "text": "Pro koho je balíček?",
+      "script_sha256": "c48e043bc7a84ef92f48344523d2806d979ccbc85595cf4bf2340c517c3ec199",
+      "normal_seconds": 1.7647,
+      "normal_sha256": "ca9046da995a41d78138a7e7276da0937ee994ab78736cd71a14a02015c2a415",
+      "normal_bytes": 14881,
+      "slow_seconds": 1.9273,
+      "slow_sha256": "e0fad133074d3871787a4be5dffe69dce26ed3c95d66909aa4965e1aa96549ed",
+      "slow_bytes": 16135
+    },
+    {
+      "id": "field-0f42a659f55acf3a",
+      "text": "Tento balíček je pro Janu.",
+      "script_sha256": "82f4b1f8971e408323bf1f26490697f88ee8b62526a60853ab7b0b48dd949229",
+      "normal_seconds": 2.1362,
+      "normal_sha256": "d7964a1e19728b8f0a52c35de39e15a4ec5fad25c7d7dd50a98a0b71a564c42e",
+      "normal_bytes": 17807,
+      "slow_seconds": 2.5078,
+      "slow_sha256": "2ac1097e0b9dea1853c9915a02468c01b3dab738c10f71a1e33c7545d9a5c8b5",
+      "slow_bytes": 20733
+    },
+    {
+      "id": "field-fcc12219c1876d27",
+      "text": "Číslo dvacet čtyři, nebo čtyřicet dva?",
+      "script_sha256": "85613e7f3b447aba2299644e6b0d13d73cf8add08cfe738d88576e2024ef30c1",
+      "normal_seconds": 3.3088,
+      "normal_sha256": "b784e86b843088306d144ef2ad19db866854cc860e55f625cd4d08dbe71a3ea2",
+      "normal_bytes": 27211,
+      "slow_seconds": 3.7965,
+      "slow_sha256": "0c1d67a4aec53d737486d4747020a381cefe32d5b712ef19e89ea86911f07854",
+      "slow_bytes": 31181
+    },
+    {
+      "id": "field-a7b21fa6b78f2770",
+      "text": "Na štítku je dvacet čtyři.",
+      "script_sha256": "29cfacb09f968dccd166c782719032acfecd9067504db7bf35c7fed521712929",
+      "normal_seconds": 2.055,
+      "normal_sha256": "6d1156c6e4ed6806b124b120d3422b3fe9d2cf45c6abfe0b13f7982b6ae97550",
+      "normal_bytes": 17180,
+      "slow_seconds": 2.3568,
+      "slow_sha256": "4a3cb878a6ddce97d5a1a4f6baae38c7f43525534da4a102b0c27ce029647783",
+      "slow_bytes": 19688
+    },
+    {
+      "id": "field-e4345e37e73ed7da",
+      "text": "Jsem na Malostranském náměstí.",
+      "script_sha256": "43572373b5e83ac6cd5a922850a086402e24125802d7bb2f0be03fa054d5d291",
+      "normal_seconds": 3.0186,
+      "normal_sha256": "72bf0cd7621a42e964311355fd88f0e9d70c9698bde68fe4e61f77b14d439c44",
+      "normal_bytes": 24912,
+      "slow_seconds": 3.4366,
+      "slow_sha256": "eff3af099f26983dd1e82cf99c980e65df584e150caa9e4b522b25af6d4fc125",
+      "slow_bytes": 28256
+    },
+    {
+      "id": "field-26b03edf39d728be",
+      "text": "Jdu na Malostranské náměstí.",
+      "script_sha256": "b543f1e015441d133138c6035a411203842ceb0ed1dc0748cca944a4a32ef1fe",
+      "normal_seconds": 2.589,
+      "normal_sha256": "2ff5d3fa5bbe04a1c7add351563cf4e9f1492e6f8026e00df1c1c08c8f575cf7",
+      "normal_bytes": 21568,
+      "slow_seconds": 3.0534,
+      "slow_sha256": "26bf33cb3ca6769ee094498835336f9abb0bde3a7549914b602e2a1fc8228da7",
+      "slow_bytes": 25121
+    },
+    {
+      "id": "field-dd121e198985d1c5",
+      "text": "Je to číslo čtyřicet dva?",
+      "script_sha256": "06fe728fbc1a88fe5c99d46abac6669a09f2d68a42c19f02f0d49b95aab2b6d9",
+      "normal_seconds": 2.0434,
+      "normal_sha256": "09f97fb8e57e265239c6bcd5d531de2f6ba70703687e4ee2ce4f7c1201300b52",
+      "normal_bytes": 17180,
+      "slow_seconds": 2.3452,
+      "slow_sha256": "24169964ab904583a8b27b1c3b38af340016df74f711db6d7854c8763d21bddf",
+      "slow_bytes": 19479
+    },
+    {
+      "id": "field-49ab765945dcdd5a",
+      "text": "Podívejte se na štítek.",
+      "script_sha256": "cc28950de1b0d1e69d9c54fd1de391a64144810964c8510c188f8af1e4aee454",
+      "normal_seconds": 1.904,
+      "normal_sha256": "efc76757fa0b4f7f95c3cdf234ffde44e1b84cc0003e869e923080587e55e38f",
+      "normal_bytes": 15926,
+      "slow_seconds": 2.1595,
+      "slow_sha256": "15ab6869e39fb67f72e27a9230dc0083cc8141e794f6c33c2c057f76ae11b17a",
+      "slow_bytes": 18016
+    }
+  ]
+}

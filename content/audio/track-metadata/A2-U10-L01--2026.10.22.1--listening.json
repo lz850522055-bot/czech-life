@@ -1,0 +1,75 @@
+{
+  "id": "A2-U10-L01--2026.10.22.1--listening",
+  "lesson_id": "A2-U10-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Přijďte v deset. Pokud nemůžete přijít, pošlete zprávu. Mohli byste také přinést dvě židle?",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Přijďte v deset.",
+        "Pokud nemůžete přijít, pošlete zprávu.",
+        "Mohli byste také přinést dvě židle?"
+      ]
+    }
+  ],
+  "text_sha256": "3651e3269ec7c901400f82240094737183b40f4ffa4231b87614114ea99c1605",
+  "source_file": "content/lessons/A2/A2-U10-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U10-L01--2026.10.22.1--listening--3651e3269e--normal.mp3",
+  "slow_file": "content/audio/files/A2-U10-L01--2026.10.22.1--listening--3651e3269e--slow.mp3",
+  "duration_seconds": 8.214195011337868,
+  "slow_duration_seconds": 9.189433106575963,
+  "cues": [
+    {
+      "text": "Přijďte v deset. Pokud nemůžete přijít, pošlete zprávu. Mohli byste také přinést dvě židle?",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Přijďte v deset.",
+        "Pokud nemůžete přijít, pošlete zprávu.",
+        "Mohli byste také přinést dvě židle?"
+      ],
+      "start": 0.0,
+      "end": 8.034195011337868,
+      "sentences": [
+        {
+          "text": "Přijďte v deset.",
+          "start": 0.0,
+          "end": 1.2770975056689342,
+          "slow_start": 0.0,
+          "slow_end": 1.4280272108843537
+        },
+        {
+          "text": "Pokud nemůžete přijít, pošlete zprávu.",
+          "start": 1.4570975056689341,
+          "end": 4.986530612244898,
+          "slow_start": 1.6080272108843536,
+          "slow_end": 5.729569160997732
+        },
+        {
+          "text": "Mohli byste také přinést dvě židle?",
+          "start": 5.166530612244898,
+          "end": 8.034195011337868,
+          "slow_start": 5.909569160997733,
+          "slow_end": 9.009433106575964
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 9.009433106575964
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "fd88b15312d390204f09b83527e3e134275a085cc5adc9822a20ffd3532068ac",
+    "slow": "9996ec40fffe9cec8f822c5f25245bfed5c41a9f755c1bc89aa288f4e8d621fd"
+  }
+}

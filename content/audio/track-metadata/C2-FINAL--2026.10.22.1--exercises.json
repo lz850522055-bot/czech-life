@@ -1,0 +1,225 @@
+{
+  "id": "C2-FINAL--2026.10.22.1--exercises",
+  "lesson_id": "C2-FINAL",
+  "content_version": "2026.10.22.1",
+  "level": "C2",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Předsedkyně: U P tedy ponecháme postup dál. Člen poroty: Myslíte výběr? Předsedkyně: Ne, účast v rozhovoru, nic víc. A u R bych tu první otázku vypustila. Zapisovatel: Takže R už neřešíme. Předsedkyně: Právě naopak. Jen nechci otázku, která předem tvrdí, že autor neumí plánovat. Potřebujeme zjistit, co má připravené a co chce teprve ověřit. Člen poroty: To jsme přece říkali i u P. Předsedkyně: Ano, stejný princip, ne nutně stejná slova. Zapisovatel: Dobře, opravím zápis podle nahrávky. Člen poroty: Pozor, poslední část se nenahrála. Ověřme ji spolu teď, jinak do zápisu zase vložíme jen něčí vzpomínku.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "C2-FINAL-E03",
+      "parts": [
+        "Předsedkyně: U P tedy ponecháme postup dál.",
+        "Člen poroty: Myslíte výběr?",
+        "Předsedkyně: Ne, účast v rozhovoru, nic víc.",
+        "A u R bych tu první otázku vypustila.",
+        "Zapisovatel: Takže R už neřešíme.",
+        "Předsedkyně: Právě naopak.",
+        "Jen nechci otázku, která předem tvrdí, že autor neumí plánovat.",
+        "Potřebujeme zjistit, co má připravené a co chce teprve ověřit.",
+        "Člen poroty: To jsme přece říkali i u P.",
+        "Předsedkyně: Ano, stejný princip, ne nutně stejná slova.",
+        "Zapisovatel: Dobře, opravím zápis podle nahrávky.",
+        "Člen poroty: Pozor, poslední část se nenahrála.",
+        "Ověřme ji spolu teď, jinak do zápisu zase vložíme jen něčí vzpomínku."
+      ]
+    },
+    {
+      "text": "Autorka: Kratší verze mi nevadí, pokud zůstane ten obrat, kdy vypravěč začne pochybovat sám o sobě. Pošlete mi ji ale prosím celou. Teď říkám, že takový postup připadá v úvahu, ne že souhlasím s každým zkrácením. Kdybyste ponechali jen první větu, vznikl by úplně jiný hlas.",
+      "index": 1,
+      "role": "exercise",
+      "exercise_id": "C2-FINAL-E04",
+      "parts": [
+        "Autorka: Kratší verze mi nevadí, pokud zůstane ten obrat, kdy vypravěč začne pochybovat sám o sobě.",
+        "Pošlete mi ji ale prosím celou.",
+        "Teď říkám, že takový postup připadá v úvahu, ne že souhlasím s každým zkrácením.",
+        "Kdybyste ponechali jen první větu, vznikl by úplně jiný hlas."
+      ]
+    }
+  ],
+  "text_sha256": "7acf0f3fe3f39f471ed7d19b60732202a4ada2080ec8d6fbc635c97a9d550aca",
+  "source_file": "content/assessments/C2-FINAL.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-FINAL--2026.10.22.1--exercises--7acf0f3fe3--normal.mp3",
+  "slow_file": "content/audio/files/C2-FINAL--2026.10.22.1--exercises--7acf0f3fe3--slow.mp3",
+  "duration_seconds": 83.34299319727891,
+  "slow_duration_seconds": 94.03578231292516,
+  "cues": [
+    {
+      "text": "Předsedkyně: U P tedy ponecháme postup dál. Člen poroty: Myslíte výběr? Předsedkyně: Ne, účast v rozhovoru, nic víc. A u R bych tu první otázku vypustila. Zapisovatel: Takže R už neřešíme. Předsedkyně: Právě naopak. Jen nechci otázku, která předem tvrdí, že autor neumí plánovat. Potřebujeme zjistit, co má připravené a co chce teprve ověřit. Člen poroty: To jsme přece říkali i u P. Předsedkyně: Ano, stejný princip, ne nutně stejná slova. Zapisovatel: Dobře, opravím zápis podle nahrávky. Člen poroty: Pozor, poslední část se nenahrála. Ověřme ji spolu teď, jinak do zápisu zase vložíme jen něčí vzpomínku.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "C2-FINAL-E03",
+      "parts": [
+        "Předsedkyně: U P tedy ponecháme postup dál.",
+        "Člen poroty: Myslíte výběr?",
+        "Předsedkyně: Ne, účast v rozhovoru, nic víc.",
+        "A u R bych tu první otázku vypustila.",
+        "Zapisovatel: Takže R už neřešíme.",
+        "Předsedkyně: Právě naopak.",
+        "Jen nechci otázku, která předem tvrdí, že autor neumí plánovat.",
+        "Potřebujeme zjistit, co má připravené a co chce teprve ověřit.",
+        "Člen poroty: To jsme přece říkali i u P.",
+        "Předsedkyně: Ano, stejný princip, ne nutně stejná slova.",
+        "Zapisovatel: Dobře, opravím zápis podle nahrávky.",
+        "Člen poroty: Pozor, poslední část se nenahrála.",
+        "Ověřme ji spolu teď, jinak do zápisu zase vložíme jen něčí vzpomínku."
+      ],
+      "start": 0.0,
+      "end": 57.95755102040816,
+      "sentences": [
+        {
+          "text": "Předsedkyně: U P tedy ponecháme postup dál.",
+          "start": 0.0,
+          "end": 4.051882086167801,
+          "slow_start": 0.0,
+          "slow_end": 4.423401360544218
+        },
+        {
+          "text": "Člen poroty: Myslíte výběr?",
+          "start": 4.231882086167801,
+          "end": 6.98344671201814,
+          "slow_start": 4.6034013605442174,
+          "slow_end": 7.807755102040816
+        },
+        {
+          "text": "Předsedkyně: Ne, účast v rozhovoru, nic víc.",
+          "start": 7.163446712018141,
+          "end": 11.51718820861678,
+          "slow_start": 7.987755102040817,
+          "slow_end": 12.945215419501134
+        },
+        {
+          "text": "A u R bych tu první otázku vypustila.",
+          "start": 11.69718820861678,
+          "end": 15.052471655328798,
+          "slow_start": 13.125215419501133,
+          "slow_end": 17.037777777777777
+        },
+        {
+          "text": "Zapisovatel: Takže R už neřešíme.",
+          "start": 15.232471655328798,
+          "end": 18.401995464852607,
+          "slow_start": 17.217777777777776,
+          "slow_end": 20.89814058956916
+        },
+        {
+          "text": "Předsedkyně: Právě naopak.",
+          "start": 18.581995464852607,
+          "end": 21.020090702947847,
+          "slow_start": 21.078140589569163,
+          "slow_end": 23.806485260770977
+        },
+        {
+          "text": "Jen nechci otázku, která předem tvrdí, že autor neumí plánovat.",
+          "start": 21.200090702947847,
+          "end": 27.295328798185942,
+          "slow_start": 23.986485260770976,
+          "slow_end": 30.778321995464854
+        },
+        {
+          "text": "Potřebujeme zjistit, co má připravené a co chce teprve ověřit.",
+          "start": 27.47532879818594,
+          "end": 32.71142857142857,
+          "slow_start": 30.958321995464853,
+          "slow_end": 37.007120181405895
+        },
+        {
+          "text": "Člen poroty: To jsme přece říkali i u P.",
+          "start": 32.89142857142857,
+          "end": 36.59501133786848,
+          "slow_start": 37.187120181405895,
+          "slow_end": 41.285442176870745
+        },
+        {
+          "text": "Předsedkyně: Ano, stejný princip, ne nutně stejná slova.",
+          "start": 36.77501133786848,
+          "end": 42.17365079365079,
+          "slow_start": 41.465442176870745,
+          "slow_end": 47.50263038548753
+        },
+        {
+          "text": "Zapisovatel: Dobře, opravím zápis podle nahrávky.",
+          "start": 42.35365079365079,
+          "end": 46.92798185941043,
+          "slow_start": 47.68263038548753,
+          "slow_end": 52.918730158730156
+        },
+        {
+          "text": "Člen poroty: Pozor, poslední část se nenahrála.",
+          "start": 47.10798185941043,
+          "end": 51.55460317460317,
+          "slow_start": 53.098730158730156,
+          "slow_end": 58.26517006802721
+        },
+        {
+          "text": "Ověřme ji spolu teď, jinak do zápisu zase vložíme jen něčí vzpomínku.",
+          "start": 51.73460317460317,
+          "end": 57.95755102040816,
+          "slow_start": 58.44517006802721,
+          "slow_end": 65.59691609977324
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 65.59691609977324
+    },
+    {
+      "text": "Autorka: Kratší verze mi nevadí, pokud zůstane ten obrat, kdy vypravěč začne pochybovat sám o sobě. Pošlete mi ji ale prosím celou. Teď říkám, že takový postup připadá v úvahu, ne že souhlasím s každým zkrácením. Kdybyste ponechali jen první větu, vznikl by úplně jiný hlas.",
+      "index": 1,
+      "role": "exercise",
+      "exercise_id": "C2-FINAL-E04",
+      "parts": [
+        "Autorka: Kratší verze mi nevadí, pokud zůstane ten obrat, kdy vypravěč začne pochybovat sám o sobě.",
+        "Pošlete mi ji ale prosím celou.",
+        "Teď říkám, že takový postup připadá v úvahu, ne že souhlasím s každým zkrácením.",
+        "Kdybyste ponechali jen první větu, vznikl by úplně jiný hlas."
+      ],
+      "start": 58.13755102040816,
+      "end": 83.16299319727891,
+      "sentences": [
+        {
+          "text": "Autorka: Kratší verze mi nevadí, pokud zůstane ten obrat, kdy vypravěč začne pochybovat sám o sobě.",
+          "start": 58.13755102040816,
+          "end": 66.97274376417234,
+          "slow_start": 65.77691609977325,
+          "slow_end": 75.79632653061225
+        },
+        {
+          "text": "Pošlete mi ji ale prosím celou.",
+          "start": 67.15274376417234,
+          "end": 69.86947845804988,
+          "slow_start": 75.97632653061224,
+          "slow_end": 79.1922902494331
+        },
+        {
+          "text": "Teď říkám, že takový postup připadá v úvahu, ne že souhlasím s každým zkrácením.",
+          "start": 70.04947845804989,
+          "end": 77.28249433106576,
+          "slow_start": 79.3722902494331,
+          "slow_end": 87.26707482993197
+        },
+        {
+          "text": "Kdybyste ponechali jen první větu, vznikl by úplně jiný hlas.",
+          "start": 77.46249433106576,
+          "end": 83.16299319727891,
+          "slow_start": 87.44707482993198,
+          "slow_end": 93.85578231292517
+        }
+      ],
+      "slow_start": 65.77691609977325,
+      "slow_end": 93.85578231292517
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "7c02c55ce4cbb1a3ce81f9734af16aaf90f1f5ac257975d408112d1878f45caf",
+    "slow": "1dc54246a947d8e9a5b1d2080c5e67abab16d9170bb45cd3516b49150ec3f137"
+  }
+}

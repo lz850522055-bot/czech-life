@@ -1,0 +1,75 @@
+{
+  "id": "B2-U10-CHECK--2026.10.22.1--text",
+  "lesson_id": "B2-U10-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "B2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Kurz začne i tehdy, když přijdou jen čtyři lidé. Kdyby se přihlásilo více než dvanáct účastníků, skupina by se rozdělila. Přihlášeno je zatím devět lidí.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Kurz začne i tehdy, když přijdou jen čtyři lidé.",
+        "Kdyby se přihlásilo více než dvanáct účastníků, skupina by se rozdělila.",
+        "Přihlášeno je zatím devět lidí."
+      ]
+    }
+  ],
+  "text_sha256": "f77df12a1ac52168f736084ce24ecda335b035e0f5294ee0d87899b7d064b401",
+  "source_file": "content/assessments/B2-U10.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U10-CHECK--2026.10.22.1--text--f77df12a1a--normal.mp3",
+  "slow_file": "content/audio/files/B2-U10-CHECK--2026.10.22.1--text--f77df12a1a--slow.mp3",
+  "duration_seconds": 13.519954648526078,
+  "slow_duration_seconds": 15.377551020408163,
+  "cues": [
+    {
+      "text": "Kurz začne i tehdy, když přijdou jen čtyři lidé. Kdyby se přihlásilo více než dvanáct účastníků, skupina by se rozdělila. Přihlášeno je zatím devět lidí.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Kurz začne i tehdy, když přijdou jen čtyři lidé.",
+        "Kdyby se přihlásilo více než dvanáct účastníků, skupina by se rozdělila.",
+        "Přihlášeno je zatím devět lidí."
+      ],
+      "start": 0.0,
+      "end": 13.339954648526078,
+      "sentences": [
+        {
+          "text": "Kurz začne i tehdy, když přijdou jen čtyři lidé.",
+          "start": 0.0,
+          "end": 3.912562358276644,
+          "slow_start": 0.0,
+          "slow_end": 4.504671201814059
+        },
+        {
+          "text": "Kdyby se přihlásilo více než dvanáct účastníků, skupina by se rozdělila.",
+          "start": 4.092562358276644,
+          "end": 10.454829931972789,
+          "slow_start": 4.684671201814059,
+          "slow_end": 11.964126984126985
+        },
+        {
+          "text": "Přihlášeno je zatím devět lidí.",
+          "start": 10.634829931972789,
+          "end": 13.339954648526078,
+          "slow_start": 12.144126984126984,
+          "slow_end": 15.197551020408163
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 15.197551020408163
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "1c163b6dcbc3ef2f37d96446deb5ff58320b4be52eff7885d2d4e3e54e0e91cc",
+    "slow": "e148977a03757081fa2cebee788fdf019d1997cd021e2480897fc05d465ebdc6"
+  }
+}

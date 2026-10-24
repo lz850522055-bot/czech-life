@@ -1,0 +1,144 @@
+{
+  "id": "Pre-A1-U06-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "Pre-A1-U06-L01",
+  "content_version": "2026.10.22.1",
+  "level": "Pre-A1",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Ano, prosím.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Ano, prosím."
+      ]
+    },
+    {
+      "text": "Ne, děkuju.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Ne, děkuju."
+      ]
+    },
+    {
+      "text": "Zelený čaj, prosím.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Zelený čaj, prosím."
+      ]
+    },
+    {
+      "text": "Čaj bez cukru.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Čaj bez cukru."
+      ]
+    }
+  ],
+  "text_sha256": "ae6f29889d4de2f93ba825ab1a0b3110453dd8f017661a9effb9f8276e1e742a",
+  "source_file": "content/lessons/Pre-A1/Pre-A1-U06-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/Pre-A1-U06-L01--2026.10.22.1--vocabulary--ae6f29889d--normal.mp3",
+  "slow_file": "content/audio/files/Pre-A1-U06-L01--2026.10.22.1--vocabulary--ae6f29889d--slow.mp3",
+  "duration_seconds": 6.768798185941043,
+  "slow_duration_seconds": 7.755646258503401,
+  "cues": [
+    {
+      "text": "Ano, prosím.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Ano, prosím."
+      ],
+      "start": 0.0,
+      "end": 1.4164172335600906,
+      "sentences": [
+        {
+          "text": "Ano, prosím.",
+          "start": 0.0,
+          "end": 1.4164172335600906,
+          "slow_start": 0.0,
+          "slow_end": 1.6021768707482993
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.6021768707482993
+    },
+    {
+      "text": "Ne, děkuju.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Ne, děkuju."
+      ],
+      "start": 1.5964172335600908,
+      "end": 2.7690249433106575,
+      "sentences": [
+        {
+          "text": "Ne, děkuju.",
+          "start": 1.5964172335600908,
+          "end": 2.7690249433106575,
+          "slow_start": 1.7821768707482992,
+          "slow_end": 3.186984126984127
+        }
+      ],
+      "slow_start": 1.7821768707482992,
+      "slow_end": 3.186984126984127
+    },
+    {
+      "text": "Zelený čaj, prosím.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Zelený čaj, prosím."
+      ],
+      "start": 2.9490249433106577,
+      "end": 5.073650793650794,
+      "sentences": [
+        {
+          "text": "Zelený čaj, prosím.",
+          "start": 2.9490249433106577,
+          "end": 5.073650793650794,
+          "slow_start": 3.366984126984127,
+          "slow_end": 5.816689342403628
+        }
+      ],
+      "slow_start": 3.366984126984127,
+      "slow_end": 5.816689342403628
+    },
+    {
+      "text": "Čaj bez cukru.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Čaj bez cukru."
+      ],
+      "start": 5.2536507936507935,
+      "end": 6.588798185941043,
+      "sentences": [
+        {
+          "text": "Čaj bez cukru.",
+          "start": 5.2536507936507935,
+          "end": 6.588798185941043,
+          "slow_start": 5.996689342403628,
+          "slow_end": 7.575646258503402
+        }
+      ],
+      "slow_start": 5.996689342403628,
+      "slow_end": 7.575646258503402
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "6e7fedcf592dab895d5a1f820a610e122c539f8efadee258cefc1c0e6d3a95a9",
+    "slow": "5f9124c20422c1ddc34af53bbd4e687902c251f2e58e6015135a81068d5fdc08"
+  }
+}

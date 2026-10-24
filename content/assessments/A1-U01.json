@@ -1,0 +1,257 @@
+{
+  "id": "A1-U01-CHECK",
+  "kind": "unit",
+  "level": "A1",
+  "unit_id": "A1-U01",
+  "title_zh": "第一次见面：把自己介绍清楚：换情境独立完成",
+  "version": "2026.10.22.1",
+  "unseen_text": [
+    {
+      "cs": "Ahoj, jsem Eva. Jsem z Ostravy. Teď jsem v Brně.",
+      "zh": "你好，我是伊娃。我来自俄斯特拉发，现在在布尔诺。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "cs": "To je moje kamarádka Anna.",
+      "zh": "这是我的朋友安娜。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "Eva来自哪里？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ostrava"
+        },
+        {
+          "id": "b",
+          "text": "Brno"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "z表示来处，v表示所在。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "A1-U01-CHECK-E01",
+      "knowledge_points": [
+        "byt-present",
+        "formal-address"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "补全“她们是朋友”。",
+      "stimulus_cs": "Ony ___ kamarádky.",
+      "answer": "jsou",
+      "accepted_answers": [
+        "jsou"
+      ],
+      "explanation_zh": "第三人称复数用jsou。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "A1-U01-CHECK-E02",
+      "knowledge_points": [
+        "byt-present",
+        "formal-address"
+      ]
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "以正式方式向Anna介绍你自己。",
+      "stimulus_cs": "",
+      "answer": "Dobrý den, jsem Li. Těší mě.",
+      "accepted_answers": [],
+      "explanation_zh": "选适当礼貌语域。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A1-U01-CHECK-E03",
+      "knowledge_points": [
+        "byt-present",
+        "formal-address"
+      ]
+    }
+  ],
+  "rubric": [
+    "能提取新材料中的关键事实，不靠背诵原文",
+    "能根据变化的条件组织一句或一段表达",
+    "能指出不确定之处并请求澄清"
+  ],
+  "remediation": [
+    {
+      "condition_zh": "目标规律使用不稳定或未能提取关键信息",
+      "lesson_ids": [
+        "A1-U01-L01"
+      ],
+      "action_zh": "返回规律卡，对照两例；隔一次其他练习后重做未见情境。"
+    }
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "A1-U01-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U01-CHECK--2026.10.22.1--text--8d1c2e9b58--normal.mp3",
+      "slow_file": "audio/files/A1-U01-CHECK--2026.10.22.1--text--8d1c2e9b58--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U01-CHECK--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Ahoj, jsem Eva. Jsem z Ostravy. Teď jsem v Brně. To je moje kamarádka Anna.",
+      "duration_seconds": 7.453786848072562,
+      "slow_duration_seconds": 8.463854875283447,
+      "sha256": "a8881ffc8c209b534f74536bffdeb64bda9ed38df2196c20f40040c97346f145",
+      "slow_sha256": "2466f96390e76c74788a7082b1c93b147f63e9b3e97148834612a819195afe61"
+    },
+    {
+      "lesson_id": "A1-U01-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U01-CHECK--2026.10.22.1--text--8d1c2e9b58--normal.mp3",
+      "slow_file": "audio/files/A1-U01-CHECK--2026.10.22.1--text--8d1c2e9b58--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U01-CHECK--2026.10.22.1--text--p0",
+      "asset_id": "A1-U01-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Ahoj, jsem Eva. Jsem z Ostravy. Teď jsem v Brně.",
+      "start": 0,
+      "end": 4.957551020408164,
+      "slow_start": 0,
+      "slow_end": 5.723809523809524
+    },
+    {
+      "lesson_id": "A1-U01-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U01-CHECK--2026.10.22.1--text--8d1c2e9b58--normal.mp3",
+      "slow_file": "audio/files/A1-U01-CHECK--2026.10.22.1--text--8d1c2e9b58--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U01-CHECK--2026.10.22.1--text--s0",
+      "asset_id": "A1-U01-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Ahoj, jsem Eva.",
+      "start": 0,
+      "end": 1.555736961451247,
+      "slow_start": 0,
+      "slow_end": 1.799546485260771
+    },
+    {
+      "lesson_id": "A1-U01-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U01-CHECK--2026.10.22.1--text--8d1c2e9b58--normal.mp3",
+      "slow_file": "audio/files/A1-U01-CHECK--2026.10.22.1--text--8d1c2e9b58--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U01-CHECK--2026.10.22.1--text--s1",
+      "asset_id": "A1-U01-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Jsem z Ostravy.",
+      "start": 1.7357369614512472,
+      "end": 3.245034013605442,
+      "slow_start": 1.979546485260771,
+      "slow_end": 3.73265306122449
+    },
+    {
+      "lesson_id": "A1-U01-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U01-CHECK--2026.10.22.1--text--8d1c2e9b58--normal.mp3",
+      "slow_file": "audio/files/A1-U01-CHECK--2026.10.22.1--text--8d1c2e9b58--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U01-CHECK--2026.10.22.1--text--s2",
+      "asset_id": "A1-U01-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Teď jsem v Brně.",
+      "start": 3.4250340136054422,
+      "end": 4.957551020408164,
+      "slow_start": 3.9126530612244896,
+      "slow_end": 5.723809523809524
+    },
+    {
+      "lesson_id": "A1-U01-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U01-CHECK--2026.10.22.1--text--8d1c2e9b58--normal.mp3",
+      "slow_file": "audio/files/A1-U01-CHECK--2026.10.22.1--text--8d1c2e9b58--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U01-CHECK--2026.10.22.1--text--p1",
+      "asset_id": "A1-U01-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "To je moje kamarádka Anna.",
+      "start": 5.137551020408163,
+      "end": 7.273786848072563,
+      "slow_start": 5.903809523809524,
+      "slow_end": 8.283854875283447
+    },
+    {
+      "lesson_id": "A1-U01-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U01-CHECK--2026.10.22.1--text--8d1c2e9b58--normal.mp3",
+      "slow_file": "audio/files/A1-U01-CHECK--2026.10.22.1--text--8d1c2e9b58--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U01-CHECK--2026.10.22.1--text--s3",
+      "asset_id": "A1-U01-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 3,
+      "paragraph_index": 1,
+      "sentence_index": 0,
+      "text": "To je moje kamarádka Anna.",
+      "start": 5.137551020408163,
+      "end": 7.273786848072563,
+      "slow_start": 5.903809523809524,
+      "slow_end": 8.283854875283447
+    }
+  ]
+}

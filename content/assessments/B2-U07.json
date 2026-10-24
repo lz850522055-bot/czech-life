@@ -1,0 +1,219 @@
+{
+  "unseen_text": [
+    {
+      "cs": "Sportovní centrum uvádí, že návštěvnost vzrostla ze sta na sto padesát vstupů týdně. Současně prodloužilo otevírací dobu. Počet jedinečných návštěvníků nesleduje.",
+      "zh": "体育中心每周进场次数100到150，同时延长开放时间；不统计独立访客人数。",
+      "note_zh": ""
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "能够确定什么？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "独立访客增加50人"
+        },
+        {
+          "id": "b",
+          "text": "进场次数增50%，独立人数未知"
+        },
+        {
+          "id": "c",
+          "text": "人均来得更少"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "次数与人数不同，分母为100次。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U07-CHECK-E01",
+      "knowledge_points": [
+        "evidence-modality",
+        "quantifier-scope"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "补名词“进场次数”。",
+      "stimulus_cs": "Sledují počet ___, nikoli jedinečných návštěvníků.",
+      "answer": "vstupů",
+      "accepted_answers": [
+        "vstupů"
+      ],
+      "explanation_zh": "名词第二格复数。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "B2-U07-CHECK-E02",
+      "knowledge_points": [
+        "evidence-modality",
+        "quantifier-scope"
+      ]
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "给中文朋友解释此增长的准确口径。",
+      "stimulus_cs": "",
+      "answer": "每周进场次数从100到150，增长50%；但不代表独立访客人数增长50%，也不能脱离延长营业时间判断效率提高。",
+      "accepted_answers": [],
+      "explanation_zh": "既保留增长又限制推断。",
+      "rubric": [
+        "次数人数",
+        "百分比",
+        "营业时长"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U07-CHECK-E03",
+      "knowledge_points": [
+        "evidence-modality",
+        "quantifier-scope"
+      ]
+    }
+  ],
+  "id": "B2-U07-CHECK",
+  "kind": "unit",
+  "level": "B2",
+  "unit_id": "B2-U07",
+  "title_zh": "新闻评论与证据判断：换场景检验",
+  "version": "2026.10.22.1",
+  "rubric": [
+    "关键信息准确且没有添加原文没有的信息",
+    "能使用本单元规律完成新情境",
+    "输出能让对方采取下一步行动"
+  ],
+  "remediation": [
+    {
+      "condition_zh": "理解遗漏或把推测说成事实",
+      "lesson_ids": [
+        "B2-U07-L01"
+      ],
+      "action_zh": "对照逐段译文，重新提取人物、限制和下一步。"
+    },
+    {
+      "condition_zh": "表达需要提示或形式反复出错",
+      "lesson_ids": [
+        "B2-U07-L01"
+      ],
+      "action_zh": "复看规律卡后更换人物、时间与限制条件，延后独立重做。"
+    }
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "B2-U07-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U07-CHECK--2026.10.22.1--text--d0e8b07db5--normal.mp3",
+      "slow_file": "audio/files/B2-U07-CHECK--2026.10.22.1--text--d0e8b07db5--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U07-CHECK--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Sportovní centrum uvádí, že návštěvnost vzrostla ze sta na sto padesát vstupů týdně. Současně prodloužilo otevírací dobu. Počet jedinečných návštěvníků nesleduje.",
+      "duration_seconds": 14.739002267573696,
+      "slow_duration_seconds": 16.73591836734694,
+      "sha256": "0b2cb0e39bb9a86ef325f25f92d939ae7c596e47e76a3cdf90c2a86cf551f7b2",
+      "slow_sha256": "83a9d6c07d76388b5e4971b687ce8b6ce48e6f747ed31fb9371a6cf6b44380a5"
+    },
+    {
+      "lesson_id": "B2-U07-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U07-CHECK--2026.10.22.1--text--d0e8b07db5--normal.mp3",
+      "slow_file": "audio/files/B2-U07-CHECK--2026.10.22.1--text--d0e8b07db5--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U07-CHECK--2026.10.22.1--text--p0",
+      "asset_id": "B2-U07-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Sportovní centrum uvádí, že návštěvnost vzrostla ze sta na sto padesát vstupů týdně. Současně prodloužilo otevírací dobu. Počet jedinečných návštěvníků nesleduje.",
+      "start": 0,
+      "end": 14.559002267573696,
+      "slow_start": 0,
+      "slow_end": 16.555918367346937
+    },
+    {
+      "lesson_id": "B2-U07-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U07-CHECK--2026.10.22.1--text--d0e8b07db5--normal.mp3",
+      "slow_file": "audio/files/B2-U07-CHECK--2026.10.22.1--text--d0e8b07db5--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U07-CHECK--2026.10.22.1--text--s0",
+      "asset_id": "B2-U07-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Sportovní centrum uvádí, že návštěvnost vzrostla ze sta na sto padesát vstupů týdně.",
+      "start": 0,
+      "end": 7.233015873015873,
+      "slow_start": 0,
+      "slow_end": 8.440453514739229
+    },
+    {
+      "lesson_id": "B2-U07-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U07-CHECK--2026.10.22.1--text--d0e8b07db5--normal.mp3",
+      "slow_file": "audio/files/B2-U07-CHECK--2026.10.22.1--text--d0e8b07db5--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U07-CHECK--2026.10.22.1--text--s1",
+      "asset_id": "B2-U07-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Současně prodloužilo otevírací dobu.",
+      "start": 7.413015873015873,
+      "end": 10.663809523809524,
+      "slow_start": 8.620453514739228,
+      "slow_end": 12.196326530612245
+    },
+    {
+      "lesson_id": "B2-U07-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U07-CHECK--2026.10.22.1--text--d0e8b07db5--normal.mp3",
+      "slow_file": "audio/files/B2-U07-CHECK--2026.10.22.1--text--d0e8b07db5--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U07-CHECK--2026.10.22.1--text--s2",
+      "asset_id": "B2-U07-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Počet jedinečných návštěvníků nesleduje.",
+      "start": 10.843809523809524,
+      "end": 14.559002267573696,
+      "slow_start": 12.376326530612245,
+      "slow_end": 16.555918367346937
+    }
+  ]
+}

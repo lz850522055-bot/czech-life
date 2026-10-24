@@ -1,0 +1,474 @@
+{
+  "id": "C1-U02-L01--2026.10.22.1--text",
+  "lesson_id": "C1-U02-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Výbor bytového domu obdržel návrh, podle něhož by se plochá střecha, která nyní slouží pouze technické údržbě, mohla změnit v zahradu přístupnou obyvatelům. Dopis obsahoval tolik vedlejších vět, že někteří čtenáři přehlédli základní sdělení: o stavbě se ještě nerozhodlo. Předmětem hlasování bylo pouze objednání posudku. Právě rozdíl mezi přípravou rozhodnutí a rozhodnutím samotným se však při rychlém čtení snadno ztratil.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Výbor bytového domu obdržel návrh, podle něhož by se plochá střecha, která nyní slouží pouze technické údržbě, mohla změnit v zahradu přístupnou obyvatelům.",
+        "Dopis obsahoval tolik vedlejších vět, že někteří čtenáři přehlédli základní sdělení: o stavbě se ještě nerozhodlo.",
+        "Předmětem hlasování bylo pouze objednání posudku.",
+        "Právě rozdíl mezi přípravou rozhodnutí a rozhodnutím samotným se však při rychlém čtení snadno ztratil."
+      ]
+    },
+    {
+      "text": "První odstavec uváděl, že pokud odborník potvrdí dostatečnou nosnost a pokud se podaří vyřešit přístup tak, aby nebylo narušeno soukromí obyvatel nejvyššího patra, bude možné připravit podrobnější projekt. Dvě podmínky měly stejnou váhu, zatímco účelová věta vysvětlovala požadovaný způsob řešení přístupu. Kdo si zapamatoval jen slova bude možné připravit projekt, mohl mylně nabýt dojmu, že technické překážky jsou již odstraněny.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "První odstavec uváděl, že pokud odborník potvrdí dostatečnou nosnost a pokud se podaří vyřešit přístup tak, aby nebylo narušeno soukromí obyvatel nejvyššího patra, bude možné připravit podrobnější projekt.",
+        "Dvě podmínky měly stejnou váhu, zatímco účelová věta vysvětlovala požadovaný způsob řešení přístupu.",
+        "Kdo si zapamatoval jen slova bude možné připravit projekt, mohl mylně nabýt dojmu, že technické překážky jsou již odstraněny."
+      ]
+    },
+    {
+      "text": "Druhý odstavec začínal větou: Tato možnost však nezahrnuje automatické schválení výdajů. Zájmeno tato odkazovalo k přípravě projektu, nikoli k samotné zahradě. Jeden z vlastníků přesto tvrdil, že výbor už schválil finanční závazek. Nebyl to problém slovní zásoby; všechna slova znal. Selhala návaznost mezi větami. Ukazovací výrazy jako tento, uvedený nebo takový šetří opakování, avšak při více možných předchůdcích mohou zvyšovat nejasnost.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Druhý odstavec začínal větou: Tato možnost však nezahrnuje automatické schválení výdajů.",
+        "Zájmeno tato odkazovalo k přípravě projektu, nikoli k samotné zahradě.",
+        "Jeden z vlastníků přesto tvrdil, že výbor už schválil finanční závazek.",
+        "Nebyl to problém slovní zásoby; všechna slova znal.",
+        "Selhala návaznost mezi větami.",
+        "Ukazovací výrazy jako tento, uvedený nebo takový šetří opakování, avšak při více možných předchůdcích mohou zvyšovat nejasnost."
+      ]
+    },
+    {
+      "text": "Při společném čtení proto předsedkyně navrhla jednoduchý postup. Nejprve podtrhnout určitá slovesa, potom ke každému přiřadit podmět a nakonec určit, která část vyjadřuje příčinu, podmínku, účel nebo přípustku. Větu Přestože se část obyvatel obává zvýšeného hluku, posudek lze objednat převedli do dvou kratších vět. Někteří obyvatelé mají obavy z hluku. Tyto obavy však samy o sobě nebrání objednání posudku. Obsah zůstal zachován, pouze se změnil způsob jeho rozložení.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Při společném čtení proto předsedkyně navrhla jednoduchý postup.",
+        "Nejprve podtrhnout určitá slovesa, potom ke každému přiřadit podmět a nakonec určit, která část vyjadřuje příčinu, podmínku, účel nebo přípustku.",
+        "Větu Přestože se část obyvatel obává zvýšeného hluku, posudek lze objednat převedli do dvou kratších vět.",
+        "Někteří obyvatelé mají obavy z hluku.",
+        "Tyto obavy však samy o sobě nebrání objednání posudku.",
+        "Obsah zůstal zachován, pouze se změnil způsob jeho rozložení."
+      ]
+    },
+    {
+      "text": "Ne každá dlouhá věta je špatná a ne každá krátká je srozumitelná. Jestliže se související informace rozsekají bez spojovacích výrazů, čtenář musí vztahy domýšlet. V odborném textu může být naopak výhodné soustředit hlavní tvrzení a jeho omezení do jednoho celku. Potíž vzniká tehdy, když vložená vysvětlení oddělí podmět od přísudku natolik, že si čtenář musí začátek opakovaně vybavovat. Úprava má proto respektovat logiku, nikoli jen počet slov.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Ne každá dlouhá věta je špatná a ne každá krátká je srozumitelná.",
+        "Jestliže se související informace rozsekají bez spojovacích výrazů, čtenář musí vztahy domýšlet.",
+        "V odborném textu může být naopak výhodné soustředit hlavní tvrzení a jeho omezení do jednoho celku.",
+        "Potíž vzniká tehdy, když vložená vysvětlení oddělí podmět od přísudku natolik, že si čtenář musí začátek opakovaně vybavovat.",
+        "Úprava má proto respektovat logiku, nikoli jen počet slov."
+      ]
+    },
+    {
+      "text": "Výsledná zpráva pro obyvatele byla uspořádána do tří kroků: nejprve ověření technických podmínek, poté projednání návrhu a teprve následně rozhodnutí o případné realizaci. U každého kroku stálo, kdo za něj odpovídá a co ještě není jisté. Výbor tím nezískal větší pravomoci ani lepší střechu. Získal však text, podle něhož mohli lidé poznat, co se skutečně navrhuje, a položit otázku k příslušnému místu argumentu. Srozumitelnost se zde stala podmínkou účasti, nikoli jen otázkou pěkného stylu.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Výsledná zpráva pro obyvatele byla uspořádána do tří kroků: nejprve ověření technických podmínek, poté projednání návrhu a teprve následně rozhodnutí o případné realizaci.",
+        "U každého kroku stálo, kdo za něj odpovídá a co ještě není jisté.",
+        "Výbor tím nezískal větší pravomoci ani lepší střechu.",
+        "Získal však text, podle něhož mohli lidé poznat, co se skutečně navrhuje, a položit otázku k příslušnému místu argumentu.",
+        "Srozumitelnost se zde stala podmínkou účasti, nikoli jen otázkou pěkného stylu."
+      ]
+    },
+    {
+      "text": "Jeden čtenář navrhl všechny spojky odstranit, aby oznámení působilo příměji. Po takové úpravě ovšem nebylo poznat, zda se další krok uskuteční bez ohledu na výsledek posudku, nebo pouze při jeho příznivém závěru. Tým proto vrátil podmínkové výrazy a zvýraznil pořadí jednotlivých rozhodnutí. Při zkracování se osvědčila kontrolní otázka: mohl by někdo podle nové verze začít jednat dříve, než to původní text dovoloval? Jestliže ano, nešlo už jen o stylistickou úpravu, nýbrž o změnu pravidla, kterou musí někdo výslovně schválit.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Jeden čtenář navrhl všechny spojky odstranit, aby oznámení působilo příměji.",
+        "Po takové úpravě ovšem nebylo poznat, zda se další krok uskuteční bez ohledu na výsledek posudku, nebo pouze při jeho příznivém závěru.",
+        "Tým proto vrátil podmínkové výrazy a zvýraznil pořadí jednotlivých rozhodnutí.",
+        "Při zkracování se osvědčila kontrolní otázka: mohl by někdo podle nové verze začít jednat dříve, než to původní text dovoloval?",
+        "Jestliže ano, nešlo už jen o stylistickou úpravu, nýbrž o změnu pravidla, kterou musí někdo výslovně schválit."
+      ]
+    }
+  ],
+  "text_sha256": "35896bb0b58dbd1b587f15c4c74bc0c8f4e621e7b70068a5e71e9fde26b9ff73",
+  "source_file": "content/lessons/C1/C1-U02-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U02-L01--2026.10.22.1--text--35896bb0b5--normal.mp3",
+  "slow_file": "content/audio/files/C1-U02-L01--2026.10.22.1--text--35896bb0b5--slow.mp3",
+  "duration_seconds": 295.1968253968254,
+  "slow_duration_seconds": 331.87274376417236,
+  "cues": [
+    {
+      "text": "Výbor bytového domu obdržel návrh, podle něhož by se plochá střecha, která nyní slouží pouze technické údržbě, mohla změnit v zahradu přístupnou obyvatelům. Dopis obsahoval tolik vedlejších vět, že někteří čtenáři přehlédli základní sdělení: o stavbě se ještě nerozhodlo. Předmětem hlasování bylo pouze objednání posudku. Právě rozdíl mezi přípravou rozhodnutí a rozhodnutím samotným se však při rychlém čtení snadno ztratil.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Výbor bytového domu obdržel návrh, podle něhož by se plochá střecha, která nyní slouží pouze technické údržbě, mohla změnit v zahradu přístupnou obyvatelům.",
+        "Dopis obsahoval tolik vedlejších vět, že někteří čtenáři přehlédli základní sdělení: o stavbě se ještě nerozhodlo.",
+        "Předmětem hlasování bylo pouze objednání posudku.",
+        "Právě rozdíl mezi přípravou rozhodnutí a rozhodnutím samotným se však při rychlém čtení snadno ztratil."
+      ],
+      "start": 0.0,
+      "end": 38.458185941043084,
+      "sentences": [
+        {
+          "text": "Výbor bytového domu obdržel návrh, podle něhož by se plochá střecha, která nyní slouží pouze technické údržbě, mohla změnit v zahradu přístupnou obyvatelům.",
+          "start": 0.0,
+          "end": 14.489251700680272,
+          "slow_start": 0.0,
+          "slow_end": 16.31201814058957
+        },
+        {
+          "text": "Dopis obsahoval tolik vedlejších vět, že někteří čtenáři přehlédli základní sdělení: o stavbě se ještě nerozhodlo.",
+          "start": 14.669251700680272,
+          "end": 24.4912925170068,
+          "slow_start": 16.49201814058957,
+          "slow_end": 27.56793650793651
+        },
+        {
+          "text": "Předmětem hlasování bylo pouze objednání posudku.",
+          "start": 24.6712925170068,
+          "end": 29.19918367346939,
+          "slow_start": 27.747936507936508,
+          "slow_end": 32.89115646258504
+        },
+        {
+          "text": "Právě rozdíl mezi přípravou rozhodnutí a rozhodnutím samotným se však při rychlém čtení snadno ztratil.",
+          "start": 29.379183673469388,
+          "end": 38.458185941043084,
+          "slow_start": 33.07115646258504,
+          "slow_end": 43.42725623582766
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 43.42725623582766
+    },
+    {
+      "text": "První odstavec uváděl, že pokud odborník potvrdí dostatečnou nosnost a pokud se podaří vyřešit přístup tak, aby nebylo narušeno soukromí obyvatel nejvyššího patra, bude možné připravit podrobnější projekt. Dvě podmínky měly stejnou váhu, zatímco účelová věta vysvětlovala požadovaný způsob řešení přístupu. Kdo si zapamatoval jen slova bude možné připravit projekt, mohl mylně nabýt dojmu, že technické překážky jsou již odstraněny.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "První odstavec uváděl, že pokud odborník potvrdí dostatečnou nosnost a pokud se podaří vyřešit přístup tak, aby nebylo narušeno soukromí obyvatel nejvyššího patra, bude možné připravit podrobnější projekt.",
+        "Dvě podmínky měly stejnou váhu, zatímco účelová věta vysvětlovala požadovaný způsob řešení přístupu.",
+        "Kdo si zapamatoval jen slova bude možné připravit projekt, mohl mylně nabýt dojmu, že technické překážky jsou již odstraněny."
+      ],
+      "start": 38.63818594104308,
+      "end": 76.3707029478458,
+      "sentences": [
+        {
+          "text": "První odstavec uváděl, že pokud odborník potvrdí dostatečnou nosnost a pokud se podaří vyřešit přístup tak, aby nebylo narušeno soukromí obyvatel nejvyššího patra, bude možné připravit podrobnější projekt.",
+          "start": 38.63818594104308,
+          "end": 56.192471655328795,
+          "slow_start": 43.60725623582766,
+          "slow_end": 63.48353741496599
+        },
+        {
+          "text": "Dvě podmínky měly stejnou váhu, zatímco účelová věta vysvětlovala požadovaný způsob řešení přístupu.",
+          "start": 56.372471655328795,
+          "end": 66.03197278911564,
+          "slow_start": 63.66353741496599,
+          "slow_end": 74.14734693877551
+        },
+        {
+          "text": "Kdo si zapamatoval jen slova bude možné připravit projekt, mohl mylně nabýt dojmu, že technické překážky jsou již odstraněny.",
+          "start": 66.21197278911565,
+          "end": 76.3707029478458,
+          "slow_start": 74.3273469387755,
+          "slow_end": 85.83283446712018
+        }
+      ],
+      "slow_start": 43.60725623582766,
+      "slow_end": 85.83283446712018
+    },
+    {
+      "text": "Druhý odstavec začínal větou: Tato možnost však nezahrnuje automatické schválení výdajů. Zájmeno tato odkazovalo k přípravě projektu, nikoli k samotné zahradě. Jeden z vlastníků přesto tvrdil, že výbor už schválil finanční závazek. Nebyl to problém slovní zásoby; všechna slova znal. Selhala návaznost mezi větami. Ukazovací výrazy jako tento, uvedený nebo takový šetří opakování, avšak při více možných předchůdcích mohou zvyšovat nejasnost.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Druhý odstavec začínal větou: Tato možnost však nezahrnuje automatické schválení výdajů.",
+        "Zájmeno tato odkazovalo k přípravě projektu, nikoli k samotné zahradě.",
+        "Jeden z vlastníků přesto tvrdil, že výbor už schválil finanční závazek.",
+        "Nebyl to problém slovní zásoby; všechna slova znal.",
+        "Selhala návaznost mezi větami.",
+        "Ukazovací výrazy jako tento, uvedený nebo takový šetří opakování, avšak při více možných předchůdcích mohou zvyšovat nejasnost."
+      ],
+      "start": 76.5507029478458,
+      "end": 117.28453514739229,
+      "sentences": [
+        {
+          "text": "Druhý odstavec začínal větou: Tato možnost však nezahrnuje automatické schválení výdajů.",
+          "start": 76.5507029478458,
+          "end": 84.49192743764172,
+          "slow_start": 86.01283446712019,
+          "slow_end": 94.91768707482993
+        },
+        {
+          "text": "Zájmeno tato odkazovalo k přípravě projektu, nikoli k samotné zahradě.",
+          "start": 84.67192743764173,
+          "end": 90.66267573696145,
+          "slow_start": 95.09768707482993,
+          "slow_end": 101.88952380952381
+        },
+        {
+          "text": "Jeden z vlastníků přesto tvrdil, že výbor už schválil finanční závazek.",
+          "start": 90.84267573696145,
+          "end": 97.46036281179138,
+          "slow_start": 102.06952380952382,
+          "slow_end": 109.51151927437641
+        },
+        {
+          "text": "Nebyl to problém slovní zásoby; všechna slova znal.",
+          "start": 97.64036281179138,
+          "end": 102.35401360544218,
+          "slow_start": 109.69151927437642,
+          "slow_end": 115.06693877551021
+        },
+        {
+          "text": "Selhala návaznost mezi větami.",
+          "start": 102.53401360544218,
+          "end": 105.30879818594104,
+          "slow_start": 115.2469387755102,
+          "slow_end": 118.49773242630386
+        },
+        {
+          "text": "Ukazovací výrazy jako tento, uvedený nebo takový šetří opakování, avšak při více možných předchůdcích mohou zvyšovat nejasnost.",
+          "start": 105.48879818594105,
+          "end": 117.28453514739229,
+          "slow_start": 118.67773242630385,
+          "slow_end": 132.1685260770975
+        }
+      ],
+      "slow_start": 86.01283446712019,
+      "slow_end": 132.1685260770975
+    },
+    {
+      "text": "Při společném čtení proto předsedkyně navrhla jednoduchý postup. Nejprve podtrhnout určitá slovesa, potom ke každému přiřadit podmět a nakonec určit, která část vyjadřuje příčinu, podmínku, účel nebo přípustku. Větu Přestože se část obyvatel obává zvýšeného hluku, posudek lze objednat převedli do dvou kratších vět. Někteří obyvatelé mají obavy z hluku. Tyto obavy však samy o sobě nebrání objednání posudku. Obsah zůstal zachován, pouze se změnil způsob jeho rozložení.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Při společném čtení proto předsedkyně navrhla jednoduchý postup.",
+        "Nejprve podtrhnout určitá slovesa, potom ke každému přiřadit podmět a nakonec určit, která část vyjadřuje příčinu, podmínku, účel nebo přípustku.",
+        "Větu Přestože se část obyvatel obává zvýšeného hluku, posudek lze objednat převedli do dvou kratších vět.",
+        "Někteří obyvatelé mají obavy z hluku.",
+        "Tyto obavy však samy o sobě nebrání objednání posudku.",
+        "Obsah zůstal zachován, pouze se změnil způsob jeho rozložení."
+      ],
+      "start": 117.4645351473923,
+      "end": 162.1225396825397,
+      "sentences": [
+        {
+          "text": "Při společném čtení proto předsedkyně navrhla jednoduchý postup.",
+          "start": 117.4645351473923,
+          "end": 122.54970521541951,
+          "slow_start": 132.34852607709752,
+          "slow_end": 138.0954648526077
+        },
+        {
+          "text": "Nejprve podtrhnout určitá slovesa, potom ke každému přiřadit podmět a nakonec určit, která část vyjadřuje příčinu, podmínku, účel nebo přípustku.",
+          "start": 122.7297052154195,
+          "end": 136.32498866213152,
+          "slow_start": 138.2754648526077,
+          "slow_end": 153.12462585034012
+        },
+        {
+          "text": "Větu Přestože se část obyvatel obává zvýšeného hluku, posudek lze objednat převedli do dvou kratších vět.",
+          "start": 136.50498866213152,
+          "end": 146.6521088435374,
+          "slow_start": 153.30462585034013,
+          "slow_end": 164.4966439909297
+        },
+        {
+          "text": "Někteří obyvatelé mají obavy z hluku.",
+          "start": 146.8321088435374,
+          "end": 150.57052154195011,
+          "slow_start": 164.6766439909297,
+          "slow_end": 168.84462585034012
+        },
+        {
+          "text": "Tyto obavy však samy o sobě nebrání objednání posudku.",
+          "start": 150.75052154195012,
+          "end": 156.14916099773242,
+          "slow_start": 169.02462585034013,
+          "slow_end": 174.9108843537415
+        },
+        {
+          "text": "Obsah zůstal zachován, pouze se změnil způsob jeho rozložení.",
+          "start": 156.32916099773243,
+          "end": 162.1225396825397,
+          "slow_start": 175.0908843537415,
+          "slow_end": 181.6273015873016
+        }
+      ],
+      "slow_start": 132.34852607709752,
+      "slow_end": 181.6273015873016
+    },
+    {
+      "text": "Ne každá dlouhá věta je špatná a ne každá krátká je srozumitelná. Jestliže se související informace rozsekají bez spojovacích výrazů, čtenář musí vztahy domýšlet. V odborném textu může být naopak výhodné soustředit hlavní tvrzení a jeho omezení do jednoho celku. Potíž vzniká tehdy, když vložená vysvětlení oddělí podmět od přísudku natolik, že si čtenář musí začátek opakovaně vybavovat. Úprava má proto respektovat logiku, nikoli jen počet slov.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Ne každá dlouhá věta je špatná a ne každá krátká je srozumitelná.",
+        "Jestliže se související informace rozsekají bez spojovacích výrazů, čtenář musí vztahy domýšlet.",
+        "V odborném textu může být naopak výhodné soustředit hlavní tvrzení a jeho omezení do jednoho celku.",
+        "Potíž vzniká tehdy, když vložená vysvětlení oddělí podmět od přísudku natolik, že si čtenář musí začátek opakovaně vybavovat.",
+        "Úprava má proto respektovat logiku, nikoli jen počet slov."
+      ],
+      "start": 162.30253968253967,
+      "end": 202.70544217687075,
+      "sentences": [
+        {
+          "text": "Ne každá dlouhá věta je špatná a ne každá krátká je srozumitelná.",
+          "start": 162.30253968253967,
+          "end": 168.0146485260771,
+          "slow_start": 181.8073015873016,
+          "slow_end": 188.1115192743764
+        },
+        {
+          "text": "Jestliže se související informace rozsekají bez spojovacích výrazů, čtenář musí vztahy domýšlet.",
+          "start": 168.1946485260771,
+          "end": 176.99501133786848,
+          "slow_start": 188.2915192743764,
+          "slow_end": 198.02068027210885
+        },
+        {
+          "text": "V odborném textu může být naopak výhodné soustředit hlavní tvrzení a jeho omezení do jednoho celku.",
+          "start": 177.17501133786848,
+          "end": 185.53419501133786,
+          "slow_start": 198.20068027210885,
+          "slow_end": 207.58154195011338
+        },
+        {
+          "text": "Potíž vzniká tehdy, když vložená vysvětlení oddělí podmět od přísudku natolik, že si čtenář musí začátek opakovaně vybavovat.",
+          "start": 185.71419501133786,
+          "end": 197.0803628117914,
+          "slow_start": 207.76154195011338,
+          "slow_end": 220.59056689342404
+        },
+        {
+          "text": "Úprava má proto respektovat logiku, nikoli jen počet slov.",
+          "start": 197.2603628117914,
+          "end": 202.70544217687075,
+          "slow_start": 220.77056689342405,
+          "slow_end": 227.08639455782313
+        }
+      ],
+      "slow_start": 181.8073015873016,
+      "slow_end": 227.08639455782313
+    },
+    {
+      "text": "Výsledná zpráva pro obyvatele byla uspořádána do tří kroků: nejprve ověření technických podmínek, poté projednání návrhu a teprve následně rozhodnutí o případné realizaci. U každého kroku stálo, kdo za něj odpovídá a co ještě není jisté. Výbor tím nezískal větší pravomoci ani lepší střechu. Získal však text, podle něhož mohli lidé poznat, co se skutečně navrhuje, a položit otázku k příslušnému místu argumentu. Srozumitelnost se zde stala podmínkou účasti, nikoli jen otázkou pěkného stylu.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Výsledná zpráva pro obyvatele byla uspořádána do tří kroků: nejprve ověření technických podmínek, poté projednání návrhu a teprve následně rozhodnutí o případné realizaci.",
+        "U každého kroku stálo, kdo za něj odpovídá a co ještě není jisté.",
+        "Výbor tím nezískal větší pravomoci ani lepší střechu.",
+        "Získal však text, podle něhož mohli lidé poznat, co se skutečně navrhuje, a položit otázku k příslušnému místu argumentu.",
+        "Srozumitelnost se zde stala podmínkou účasti, nikoli jen otázkou pěkného stylu."
+      ],
+      "start": 202.88544217687075,
+      "end": 247.6885260770975,
+      "sentences": [
+        {
+          "text": "Výsledná zpráva pro obyvatele byla uspořádána do tří kroků: nejprve ověření technických podmínek, poté projednání návrhu a teprve následně rozhodnutí o případné realizaci.",
+          "start": 202.88544217687075,
+          "end": 218.09451247165532,
+          "slow_start": 227.26639455782313,
+          "slow_end": 244.32145124716553
+        },
+        {
+          "text": "U každého kroku stálo, kdo za něj odpovídá a co ještě není jisté.",
+          "start": 218.27451247165533,
+          "end": 224.19560090702947,
+          "slow_start": 244.50145124716553,
+          "slow_end": 251.25845804988663
+        },
+        {
+          "text": "Výbor tím nezískal větší pravomoci ani lepší střechu.",
+          "start": 224.37560090702948,
+          "end": 229.61170068027212,
+          "slow_start": 251.43845804988663,
+          "slow_end": 257.4175963718821
+        },
+        {
+          "text": "Získal však text, podle něhož mohli lidé poznat, co se skutečně navrhuje, a položit otázku k příslušnému místu argumentu.",
+          "start": 229.7917006802721,
+          "end": 240.41482993197278,
+          "slow_start": 257.5975963718821,
+          "slow_end": 269.63714285714286
+        },
+        {
+          "text": "Srozumitelnost se zde stala podmínkou účasti, nikoli jen otázkou pěkného stylu.",
+          "start": 240.59482993197278,
+          "end": 247.6885260770975,
+          "slow_start": 269.81714285714287,
+          "slow_end": 277.76997732426304
+        }
+      ],
+      "slow_start": 227.26639455782313,
+      "slow_end": 277.76997732426304
+    },
+    {
+      "text": "Jeden čtenář navrhl všechny spojky odstranit, aby oznámení působilo příměji. Po takové úpravě ovšem nebylo poznat, zda se další krok uskuteční bez ohledu na výsledek posudku, nebo pouze při jeho příznivém závěru. Tým proto vrátil podmínkové výrazy a zvýraznil pořadí jednotlivých rozhodnutí. Při zkracování se osvědčila kontrolní otázka: mohl by někdo podle nové verze začít jednat dříve, než to původní text dovoloval? Jestliže ano, nešlo už jen o stylistickou úpravu, nýbrž o změnu pravidla, kterou musí někdo výslovně schválit.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Jeden čtenář navrhl všechny spojky odstranit, aby oznámení působilo příměji.",
+        "Po takové úpravě ovšem nebylo poznat, zda se další krok uskuteční bez ohledu na výsledek posudku, nebo pouze při jeho příznivém závěru.",
+        "Tým proto vrátil podmínkové výrazy a zvýraznil pořadí jednotlivých rozhodnutí.",
+        "Při zkracování se osvědčila kontrolní otázka: mohl by někdo podle nové verze začít jednat dříve, než to původní text dovoloval?",
+        "Jestliže ano, nešlo už jen o stylistickou úpravu, nýbrž o změnu pravidla, kterou musí někdo výslovně schválit."
+      ],
+      "start": 247.8685260770975,
+      "end": 295.0168253968254,
+      "sentences": [
+        {
+          "text": "Jeden čtenář navrhl všechny spojky odstranit, aby oznámení působilo příměji.",
+          "start": 247.8685260770975,
+          "end": 254.776462585034,
+          "slow_start": 277.94997732426305,
+          "slow_end": 285.96086167800456
+        },
+        {
+          "text": "Po takové úpravě ovšem nebylo poznat, zda se další krok uskuteční bez ohledu na výsledek posudku, nebo pouze při jeho příznivém závěru.",
+          "start": 254.95646258503402,
+          "end": 266.1949206349206,
+          "slow_start": 286.1408616780045,
+          "slow_end": 298.9698866213152
+        },
+        {
+          "text": "Tým proto vrátil podmínkové výrazy a zvýraznil pořadí jednotlivých rozhodnutí.",
+          "start": 266.3749206349206,
+          "end": 273.41056689342406,
+          "slow_start": 299.1498866213152,
+          "slow_end": 306.98662131519274
+        },
+        {
+          "text": "Při zkracování se osvědčila kontrolní otázka: mohl by někdo podle nové verze začít jednat dříve, než to původní text dovoloval?",
+          "start": 273.590566893424,
+          "end": 284.89868480725625,
+          "slow_start": 307.16662131519274,
+          "slow_end": 320.1581859410431
+        },
+        {
+          "text": "Jestliže ano, nešlo už jen o stylistickou úpravu, nýbrž o změnu pravidla, kterou musí někdo výslovně schválit.",
+          "start": 285.07868480725625,
+          "end": 295.0168253968254,
+          "slow_start": 320.3381859410431,
+          "slow_end": 331.69274376417235
+        }
+      ],
+      "slow_start": 277.94997732426305,
+      "slow_end": 331.69274376417235
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "961f608d64001894fcef65f1c5c88e87a81a02706a71d95b165b0ab27e690f3b",
+    "slow": "af8ddf52626bc660234585eb3e23b5c7ca7c67732f9fc0a63c9c572f35ecff21"
+  }
+}

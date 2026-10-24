@@ -1,0 +1,593 @@
+{
+  "id": "C2-U03-L01--2026.10.22.1--text",
+  "lesson_id": "C2-U03-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Úřad se rozhodl odstranit zbytečné kroky ze svého provozu. Založil proto komisi, která měla nejprve určit, co je krok, co znamená zbytečný a zda odstranění nevyžaduje samostatný schvalovací postup. Předseda na úvod ocenil mimořádnou pružnost kolegů: už za pouhé tři měsíce se podařilo dohodnout termín prvního zasedání. Přítomní tuto poznámku přijali vážně, neboť z předchozích porad věděli, že dohoda o termínu může být považována za samostatný výsledek hodný zápisu a někdy i poděkování celému pracovnímu týmu.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Úřad se rozhodl odstranit zbytečné kroky ze svého provozu.",
+        "Založil proto komisi, která měla nejprve určit, co je krok, co znamená zbytečný a zda odstranění nevyžaduje samostatný schvalovací postup.",
+        "Předseda na úvod ocenil mimořádnou pružnost kolegů: už za pouhé tři měsíce se podařilo dohodnout termín prvního zasedání.",
+        "Přítomní tuto poznámku přijali vážně, neboť z předchozích porad věděli, že dohoda o termínu může být považována za samostatný výsledek hodný zápisu a někdy i poděkování celému pracovnímu týmu."
+      ]
+    },
+    {
+      "text": "Nejmladší člen navrhl, aby lidé místo čtyř podobných formulářů vyplňovali jeden. Návrh vzbudil opatrné nadšení. Vedoucí evidence se zeptala, kam se v novém formuláři zaznamená skutečnost, že původní tři nebyly vyplněny. Nikdo si netroufl odpovědět, že nikam. Taková odpověď by totiž mohla působit dojmem, že organizace nemá o nevyplněných formulářích přehled. Po krátké debatě vznikl návrh přiložit k jednotnému formuláři stručné potvrzení o úspoře administrativy. Pro větší srozumitelnost mělo být vyhotoveno ve dvou stejnopisech.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Nejmladší člen navrhl, aby lidé místo čtyř podobných formulářů vyplňovali jeden.",
+        "Návrh vzbudil opatrné nadšení.",
+        "Vedoucí evidence se zeptala, kam se v novém formuláři zaznamená skutečnost, že původní tři nebyly vyplněny.",
+        "Nikdo si netroufl odpovědět, že nikam.",
+        "Taková odpověď by totiž mohla působit dojmem, že organizace nemá o nevyplněných formulářích přehled.",
+        "Po krátké debatě vznikl návrh přiložit k jednotnému formuláři stručné potvrzení o úspoře administrativy.",
+        "Pro větší srozumitelnost mělo být vyhotoveno ve dvou stejnopisech."
+      ]
+    },
+    {
+      "text": "Předseda shrnul, že se jednoduchost podařilo posunout na vyšší úroveň. Dříve lidé nevěděli, proč vyplňují čtyři listy; nyní budou přesně vědět, proč jich vyplňují šest. Tento argument nebyl úplně nesmyslný: vysvětlení skutečně může zlepšit porozumění i tam, kde se počet úkonů nezmenší. Právě malý kousek rozumné úvahy však umožnil přehlédnout, že původní cíl byl jiný. Komise začala zaměňovat srozumitelnost pravidel za snížení zátěže a obě věci označovala stejným slovem zjednodušení.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Předseda shrnul, že se jednoduchost podařilo posunout na vyšší úroveň.",
+        "Dříve lidé nevěděli, proč vyplňují čtyři listy; nyní budou přesně vědět, proč jich vyplňují šest.",
+        "Tento argument nebyl úplně nesmyslný: vysvětlení skutečně může zlepšit porozumění i tam, kde se počet úkonů nezmenší.",
+        "Právě malý kousek rozumné úvahy však umožnil přehlédnout, že původní cíl byl jiný.",
+        "Komise začala zaměňovat srozumitelnost pravidel za snížení zátěže a obě věci označovala stejným slovem zjednodušení."
+      ]
+    },
+    {
+      "text": "V koutě seděla zapisovatelka, která už zažila několik předchozích reforem. Když se jí někdo zeptal na názor, odpověděla, že tentokrát bude změna jistě trvalá, protože nikdo nebude mít sílu vyplnit žádost o její zrušení. Místností proběhl smích. Nebylo však zřejmé, zda se všichni smějí stejnému významu. Někdo slyšel kritiku složitého postupu, jiný jen vtipnou poznámku zkušené kolegyně a předseda možná dokonce ujištění, že komise vytvořila stabilní řešení. Smích sám o sobě nedokazoval sdílenou interpretaci.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "V koutě seděla zapisovatelka, která už zažila několik předchozích reforem.",
+        "Když se jí někdo zeptal na názor, odpověděla, že tentokrát bude změna jistě trvalá, protože nikdo nebude mít sílu vyplnit žádost o její zrušení.",
+        "Místností proběhl smích.",
+        "Nebylo však zřejmé, zda se všichni smějí stejnému významu.",
+        "Někdo slyšel kritiku složitého postupu, jiný jen vtipnou poznámku zkušené kolegyně a předseda možná dokonce ujištění, že komise vytvořila stabilní řešení.",
+        "Smích sám o sobě nedokazoval sdílenou interpretaci."
+      ]
+    },
+    {
+      "text": "Vypravěč přitom nikde přímo nenapsal, že úředníci jsou hloupí. Jeho odstup vznikal z nepoměru mezi oslavným jazykem a popsaným účinkem. Výrazy mimořádná pružnost a vyšší úroveň zněly ve světle událostí jinak, než by zněly v běžné pochvalné zprávě. Čtenář musel propojit jednotlivé odstavce a všimnout si, že každé opatření proti složitosti vytváří další složitost. Kdyby z textu vytrhl jedinou pochvalnou větu, mohl by její ironickou funkci přehlédnout nebo ji naopak bezdůvodně přisoudit větě, která by jinde byla míněna vážně.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Vypravěč přitom nikde přímo nenapsal, že úředníci jsou hloupí.",
+        "Jeho odstup vznikal z nepoměru mezi oslavným jazykem a popsaným účinkem.",
+        "Výrazy mimořádná pružnost a vyšší úroveň zněly ve světle událostí jinak, než by zněly v běžné pochvalné zprávě.",
+        "Čtenář musel propojit jednotlivé odstavce a všimnout si, že každé opatření proti složitosti vytváří další složitost.",
+        "Kdyby z textu vytrhl jedinou pochvalnou větu, mohl by její ironickou funkci přehlédnout nebo ji naopak bezdůvodně přisoudit větě, která by jinde byla míněna vážně."
+      ]
+    },
+    {
+      "text": "Nejmladší člen nakonec požádal o zkušební den, během něhož by se staré formuláře prostě nepoužívaly. Tentokrát nastalo skutečné ticho. Návrh neobsahoval žádný nový dokument, a tím nebylo zřejmé, který útvar by jej měl spravovat. Zapisovatelka poznamenala, že by možná stačilo zjistit, zda se bez formulářů něco podstatného ztratí. Předseda slíbil, že se touto otázkou budou vážně zabývat. Nejprve však potřeboval, aby byla předložena řádnou cestou. Kruh se uzavřel, aniž by jej musel vypravěč výslovně pojmenovat.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Nejmladší člen nakonec požádal o zkušební den, během něhož by se staré formuláře prostě nepoužívaly.",
+        "Tentokrát nastalo skutečné ticho.",
+        "Návrh neobsahoval žádný nový dokument, a tím nebylo zřejmé, který útvar by jej měl spravovat.",
+        "Zapisovatelka poznamenala, že by možná stačilo zjistit, zda se bez formulářů něco podstatného ztratí.",
+        "Předseda slíbil, že se touto otázkou budou vážně zabývat.",
+        "Nejprve však potřeboval, aby byla předložena řádnou cestou.",
+        "Kruh se uzavřel, aniž by jej musel vypravěč výslovně pojmenovat."
+      ]
+    },
+    {
+      "text": "Při společném čtení někdo označil text za útok na každé pravidlo. Jiný čtenář upozornil, že se nevysmívá evidenci jako takové, nýbrž neschopnosti ověřit její účel. Tento rozdíl je pro interpretaci zásadní. Satira často pracuje se zveličením, aby určitou tendenci zviditelnila; nemusí tím tvrdit, že popsaný mechanismus vždy ovládá všechny instituce. Závěr o skutečném světě vyžaduje vlastní důkazy. Literární přesvědčivost není statistická reprezentativnost a humorný obraz není automaticky zpráva o konkrétním úřadu.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Při společném čtení někdo označil text za útok na každé pravidlo.",
+        "Jiný čtenář upozornil, že se nevysmívá evidenci jako takové, nýbrž neschopnosti ověřit její účel.",
+        "Tento rozdíl je pro interpretaci zásadní.",
+        "Satira často pracuje se zveličením, aby určitou tendenci zviditelnila; nemusí tím tvrdit, že popsaný mechanismus vždy ovládá všechny instituce.",
+        "Závěr o skutečném světě vyžaduje vlastní důkazy.",
+        "Literární přesvědčivost není statistická reprezentativnost a humorný obraz není automaticky zpráva o konkrétním úřadu."
+      ]
+    },
+    {
+      "text": "Kdo chce takový humor převést jinému publiku, nemusí za každou cenu zachovat stejné jednotlivé slovo. Musí však uchovat napětí mezi deklarovaným cílem a skutečným výsledkem. Příliš přímé vysvětlení každého vtipu by odstranilo prostor pro čtenářovo odhalení, zatímco doslovný překlad bez potřebného kontextu by mohl kritiku změnit v pochvalu. Přiměřený převod proto někdy doplní jedinou okolnost a jindy ponechá zdánlivě klidný tón. Smyslem je umožnit podobný interpretační pohyb, nikoli přikázat, v kterém místě se má člověk smát.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Kdo chce takový humor převést jinému publiku, nemusí za každou cenu zachovat stejné jednotlivé slovo.",
+        "Musí však uchovat napětí mezi deklarovaným cílem a skutečným výsledkem.",
+        "Příliš přímé vysvětlení každého vtipu by odstranilo prostor pro čtenářovo odhalení, zatímco doslovný překlad bez potřebného kontextu by mohl kritiku změnit v pochvalu.",
+        "Přiměřený převod proto někdy doplní jedinou okolnost a jindy ponechá zdánlivě klidný tón.",
+        "Smyslem je umožnit podobný interpretační pohyb, nikoli přikázat, v kterém místě se má člověk smát."
+      ]
+    }
+  ],
+  "text_sha256": "73bd6565d0d80a9789527ab0b480f69c9c3fb0876bb9e22c63761a358efd5b23",
+  "source_file": "content/lessons/C2/C2-U03-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U03-L01--2026.10.22.1--text--73bd6565d0--normal.mp3",
+  "slow_file": "content/audio/files/C2-U03-L01--2026.10.22.1--text--73bd6565d0--slow.mp3",
+  "duration_seconds": 371.5387301587302,
+  "slow_duration_seconds": 419.29056689342406,
+  "cues": [
+    {
+      "text": "Úřad se rozhodl odstranit zbytečné kroky ze svého provozu. Založil proto komisi, která měla nejprve určit, co je krok, co znamená zbytečný a zda odstranění nevyžaduje samostatný schvalovací postup. Předseda na úvod ocenil mimořádnou pružnost kolegů: už za pouhé tři měsíce se podařilo dohodnout termín prvního zasedání. Přítomní tuto poznámku přijali vážně, neboť z předchozích porad věděli, že dohoda o termínu může být považována za samostatný výsledek hodný zápisu a někdy i poděkování celému pracovnímu týmu.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Úřad se rozhodl odstranit zbytečné kroky ze svého provozu.",
+        "Založil proto komisi, která měla nejprve určit, co je krok, co znamená zbytečný a zda odstranění nevyžaduje samostatný schvalovací postup.",
+        "Předseda na úvod ocenil mimořádnou pružnost kolegů: už za pouhé tři měsíce se podařilo dohodnout termín prvního zasedání.",
+        "Přítomní tuto poznámku přijali vážně, neboť z předchozích porad věděli, že dohoda o termínu může být považována za samostatný výsledek hodný zápisu a někdy i poděkování celému pracovnímu týmu."
+      ],
+      "start": 0.0,
+      "end": 46.03950113378685,
+      "sentences": [
+        {
+          "text": "Úřad se rozhodl odstranit zbytečné kroky ze svého provozu.",
+          "start": 0.0,
+          "end": 4.992290249433107,
+          "slow_start": 0.0,
+          "slow_end": 5.630839002267574
+        },
+        {
+          "text": "Založil proto komisi, která měla nejprve určit, co je krok, co znamená zbytečný a zda odstranění nevyžaduje samostatný schvalovací postup.",
+          "start": 5.1722902494331064,
+          "end": 17.502086167800453,
+          "slow_start": 5.810839002267573,
+          "slow_end": 19.568662131519275
+        },
+        {
+          "text": "Předseda na úvod ocenil mimořádnou pružnost kolegů: už za pouhé tři měsíce se podařilo dohodnout termín prvního zasedání.",
+          "start": 17.682086167800453,
+          "end": 28.56063492063492,
+          "slow_start": 19.748662131519275,
+          "slow_end": 32.26421768707483
+        },
+        {
+          "text": "Přítomní tuto poznámku přijali vážně, neboť z předchozích porad věděli, že dohoda o termínu může být považována za samostatný výsledek hodný zápisu a někdy i poděkování celému pracovnímu týmu.",
+          "start": 28.74063492063492,
+          "end": 46.03950113378685,
+          "slow_start": 32.44421768707483,
+          "slow_end": 51.63551020408163
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 51.63551020408163
+    },
+    {
+      "text": "Nejmladší člen navrhl, aby lidé místo čtyř podobných formulářů vyplňovali jeden. Návrh vzbudil opatrné nadšení. Vedoucí evidence se zeptala, kam se v novém formuláři zaznamená skutečnost, že původní tři nebyly vyplněny. Nikdo si netroufl odpovědět, že nikam. Taková odpověď by totiž mohla působit dojmem, že organizace nemá o nevyplněných formulářích přehled. Po krátké debatě vznikl návrh přiložit k jednotnému formuláři stručné potvrzení o úspoře administrativy. Pro větší srozumitelnost mělo být vyhotoveno ve dvou stejnopisech.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Nejmladší člen navrhl, aby lidé místo čtyř podobných formulářů vyplňovali jeden.",
+        "Návrh vzbudil opatrné nadšení.",
+        "Vedoucí evidence se zeptala, kam se v novém formuláři zaznamená skutečnost, že původní tři nebyly vyplněny.",
+        "Nikdo si netroufl odpovědět, že nikam.",
+        "Taková odpověď by totiž mohla působit dojmem, že organizace nemá o nevyplněných formulářích přehled.",
+        "Po krátké debatě vznikl návrh přiložit k jednotnému formuláři stručné potvrzení o úspoře administrativy.",
+        "Pro větší srozumitelnost mělo být vyhotoveno ve dvou stejnopisech."
+      ],
+      "start": 46.21950113378685,
+      "end": 93.60009070294785,
+      "sentences": [
+        {
+          "text": "Nejmladší člen navrhl, aby lidé místo čtyř podobných formulářů vyplňovali jeden.",
+          "start": 46.21950113378685,
+          "end": 53.197097505668935,
+          "slow_start": 51.81551020408163,
+          "slow_end": 59.67546485260771
+        },
+        {
+          "text": "Návrh vzbudil opatrné nadšení.",
+          "start": 53.377097505668935,
+          "end": 56.36086167800453,
+          "slow_start": 59.85546485260771,
+          "slow_end": 63.29201814058957
+        },
+        {
+          "text": "Vedoucí evidence se zeptala, kam se v novém formuláři zaznamená skutečnost, že původní tři nebyly vyplněny.",
+          "start": 56.54086167800453,
+          "end": 65.53859410430839,
+          "slow_start": 63.47201814058957,
+          "slow_end": 73.8281179138322
+        },
+        {
+          "text": "Nikdo si netroufl odpovědět, že nikam.",
+          "start": 65.7185941043084,
+          "end": 69.14353741496599,
+          "slow_start": 74.0081179138322,
+          "slow_end": 77.94390022675736
+        },
+        {
+          "text": "Taková odpověď by totiž mohla působit dojmem, že organizace nemá o nevyplněných formulářích přehled.",
+          "start": 69.32353741496598,
+          "end": 78.18195011337869,
+          "slow_start": 78.12390022675737,
+          "slow_end": 87.9459410430839
+        },
+        {
+          "text": "Po krátké debatě vznikl návrh přiložit k jednotnému formuláři stručné potvrzení o úspoře administrativy.",
+          "start": 78.36195011337868,
+          "end": 87.98662131519275,
+          "slow_start": 88.1259410430839,
+          "slow_end": 98.88839002267574
+        },
+        {
+          "text": "Pro větší srozumitelnost mělo být vyhotoveno ve dvou stejnopisech.",
+          "start": 88.16662131519274,
+          "end": 93.60009070294785,
+          "slow_start": 99.06839002267574,
+          "slow_end": 105.34938775510204
+        }
+      ],
+      "slow_start": 51.81551020408163,
+      "slow_end": 105.34938775510204
+    },
+    {
+      "text": "Předseda shrnul, že se jednoduchost podařilo posunout na vyšší úroveň. Dříve lidé nevěděli, proč vyplňují čtyři listy; nyní budou přesně vědět, proč jich vyplňují šest. Tento argument nebyl úplně nesmyslný: vysvětlení skutečně může zlepšit porozumění i tam, kde se počet úkonů nezmenší. Právě malý kousek rozumné úvahy však umožnil přehlédnout, že původní cíl byl jiný. Komise začala zaměňovat srozumitelnost pravidel za snížení zátěže a obě věci označovala stejným slovem zjednodušení.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Předseda shrnul, že se jednoduchost podařilo posunout na vyšší úroveň.",
+        "Dříve lidé nevěděli, proč vyplňují čtyři listy; nyní budou přesně vědět, proč jich vyplňují šest.",
+        "Tento argument nebyl úplně nesmyslný: vysvětlení skutečně může zlepšit porozumění i tam, kde se počet úkonů nezmenší.",
+        "Právě malý kousek rozumné úvahy však umožnil přehlédnout, že původní cíl byl jiný.",
+        "Komise začala zaměňovat srozumitelnost pravidel za snížení zátěže a obě věci označovala stejným slovem zjednodušení."
+      ],
+      "start": 93.78009070294785,
+      "end": 138.24648526077098,
+      "sentences": [
+        {
+          "text": "Předseda shrnul, že se jednoduchost podařilo posunout na vyšší úroveň.",
+          "start": 93.78009070294785,
+          "end": 99.78244897959183,
+          "slow_start": 105.52938775510204,
+          "slow_end": 112.30961451247165
+        },
+        {
+          "text": "Dříve lidé nevěděli, proč vyplňují čtyři listy; nyní budou přesně vědět, proč jich vyplňují šest.",
+          "start": 99.96244897959184,
+          "end": 108.69315192743764,
+          "slow_start": 112.48961451247166,
+          "slow_end": 122.10267573696144
+        },
+        {
+          "text": "Tento argument nebyl úplně nesmyslný: vysvětlení skutečně může zlepšit porozumění i tam, kde se počet úkonů nezmenší.",
+          "start": 108.87315192743765,
+          "end": 119.75170068027211,
+          "slow_start": 122.28267573696145,
+          "slow_end": 134.82145124716553
+        },
+        {
+          "text": "Právě malý kousek rozumné úvahy však umožnil přehlédnout, že původní cíl byl jiný.",
+          "start": 119.93170068027212,
+          "end": 127.5362358276644,
+          "slow_start": 135.00145124716553,
+          "slow_end": 143.59283446712018
+        },
+        {
+          "text": "Komise začala zaměňovat srozumitelnost pravidel za snížení zátěže a obě věci označovala stejným slovem zjednodušení.",
+          "start": 127.7162358276644,
+          "end": 138.24648526077098,
+          "slow_start": 143.7728344671202,
+          "slow_end": 155.6730612244898
+        }
+      ],
+      "slow_start": 105.52938775510204,
+      "slow_end": 155.6730612244898
+    },
+    {
+      "text": "V koutě seděla zapisovatelka, která už zažila několik předchozích reforem. Když se jí někdo zeptal na názor, odpověděla, že tentokrát bude změna jistě trvalá, protože nikdo nebude mít sílu vyplnit žádost o její zrušení. Místností proběhl smích. Nebylo však zřejmé, zda se všichni smějí stejnému významu. Někdo slyšel kritiku složitého postupu, jiný jen vtipnou poznámku zkušené kolegyně a předseda možná dokonce ujištění, že komise vytvořila stabilní řešení. Smích sám o sobě nedokazoval sdílenou interpretaci.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "V koutě seděla zapisovatelka, která už zažila několik předchozích reforem.",
+        "Když se jí někdo zeptal na názor, odpověděla, že tentokrát bude změna jistě trvalá, protože nikdo nebude mít sílu vyplnit žádost o její zrušení.",
+        "Místností proběhl smích.",
+        "Nebylo však zřejmé, zda se všichni smějí stejnému významu.",
+        "Někdo slyšel kritiku složitého postupu, jiný jen vtipnou poznámku zkušené kolegyně a předseda možná dokonce ujištění, že komise vytvořila stabilní řešení.",
+        "Smích sám o sobě nedokazoval sdílenou interpretaci."
+      ],
+      "start": 138.426485260771,
+      "end": 184.31514739229024,
+      "sentences": [
+        {
+          "text": "V koutě seděla zapisovatelka, která už zažila několik předchozích reforem.",
+          "start": 138.426485260771,
+          "end": 144.5681632653061,
+          "slow_start": 155.8530612244898,
+          "slow_end": 162.7609977324263
+        },
+        {
+          "text": "Když se jí někdo zeptal na názor, odpověděla, že tentokrát bude změna jistě trvalá, protože nikdo nebude mít sílu vyplnit žádost o její zrušení.",
+          "start": 144.74816326530612,
+          "end": 157.4146485260771,
+          "slow_start": 162.9409977324263,
+          "slow_end": 177.4882993197279
+        },
+        {
+          "text": "Místností proběhl smích.",
+          "start": 157.5946485260771,
+          "end": 160.1720634920635,
+          "slow_start": 177.66829931972788,
+          "slow_end": 180.53596371882085
+        },
+        {
+          "text": "Nebylo však zřejmé, zda se všichni smějí stejnému významu.",
+          "start": 160.35206349206348,
+          "end": 165.37918367346938,
+          "slow_start": 180.71596371882086,
+          "slow_end": 186.49773242630386
+        },
+        {
+          "text": "Někdo slyšel kritiku složitého postupu, jiný jen vtipnou poznámku zkušené kolegyně a předseda možná dokonce ujištění, že komise vytvořila stabilní řešení.",
+          "start": 165.5591836734694,
+          "end": 179.51437641723356,
+          "slow_start": 186.67773242630386,
+          "slow_end": 202.6530612244898
+        },
+        {
+          "text": "Smích sám o sobě nedokazoval sdílenou interpretaci.",
+          "start": 179.69437641723357,
+          "end": 184.31514739229024,
+          "slow_start": 202.8330612244898,
+          "slow_end": 208.15043083900227
+        }
+      ],
+      "slow_start": 155.8530612244898,
+      "slow_end": 208.15043083900227
+    },
+    {
+      "text": "Vypravěč přitom nikde přímo nenapsal, že úředníci jsou hloupí. Jeho odstup vznikal z nepoměru mezi oslavným jazykem a popsaným účinkem. Výrazy mimořádná pružnost a vyšší úroveň zněly ve světle událostí jinak, než by zněly v běžné pochvalné zprávě. Čtenář musel propojit jednotlivé odstavce a všimnout si, že každé opatření proti složitosti vytváří další složitost. Kdyby z textu vytrhl jedinou pochvalnou větu, mohl by její ironickou funkci přehlédnout nebo ji naopak bezdůvodně přisoudit větě, která by jinde byla míněna vážně.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Vypravěč přitom nikde přímo nenapsal, že úředníci jsou hloupí.",
+        "Jeho odstup vznikal z nepoměru mezi oslavným jazykem a popsaným účinkem.",
+        "Výrazy mimořádná pružnost a vyšší úroveň zněly ve světle událostí jinak, než by zněly v běžné pochvalné zprávě.",
+        "Čtenář musel propojit jednotlivé odstavce a všimnout si, že každé opatření proti složitosti vytváří další složitost.",
+        "Kdyby z textu vytrhl jedinou pochvalnou větu, mohl by její ironickou funkci přehlédnout nebo ji naopak bezdůvodně přisoudit větě, která by jinde byla míněna vážně."
+      ],
+      "start": 184.49514739229025,
+      "end": 231.51573696145124,
+      "sentences": [
+        {
+          "text": "Vypravěč přitom nikde přímo nenapsal, že úředníci jsou hloupí.",
+          "start": 184.49514739229025,
+          "end": 189.54548752834467,
+          "slow_start": 208.33043083900228,
+          "slow_end": 214.08897959183673
+        },
+        {
+          "text": "Jeho odstup vznikal z nepoměru mezi oslavným jazykem a popsaným účinkem.",
+          "start": 189.72548752834467,
+          "end": 196.67986394557823,
+          "slow_start": 214.26897959183674,
+          "slow_end": 222.314693877551
+        },
+        {
+          "text": "Výrazy mimořádná pružnost a vyšší úroveň zněly ve světle událostí jinak, než by zněly v běžné pochvalné zprávě.",
+          "start": 196.85986394557824,
+          "end": 206.6354648526077,
+          "slow_start": 222.49469387755101,
+          "slow_end": 233.54739229024943
+        },
+        {
+          "text": "Čtenář musel propojit jednotlivé odstavce a všimnout si, že každé opatření proti složitosti vytváří další složitost.",
+          "start": 206.8154648526077,
+          "end": 217.3805442176871,
+          "slow_start": 233.72739229024944,
+          "slow_end": 245.47668934240363
+        },
+        {
+          "text": "Kdyby z textu vytrhl jedinou pochvalnou větu, mohl by její ironickou funkci přehlédnout nebo ji naopak bezdůvodně přisoudit větě, která by jinde byla míněna vážně.",
+          "start": 217.56054421768707,
+          "end": 231.51573696145124,
+          "slow_start": 245.65668934240364,
+          "slow_end": 261.5043083900227
+        }
+      ],
+      "slow_start": 208.33043083900228,
+      "slow_end": 261.5043083900227
+    },
+    {
+      "text": "Nejmladší člen nakonec požádal o zkušební den, během něhož by se staré formuláře prostě nepoužívaly. Tentokrát nastalo skutečné ticho. Návrh neobsahoval žádný nový dokument, a tím nebylo zřejmé, který útvar by jej měl spravovat. Zapisovatelka poznamenala, že by možná stačilo zjistit, zda se bez formulářů něco podstatného ztratí. Předseda slíbil, že se touto otázkou budou vážně zabývat. Nejprve však potřeboval, aby byla předložena řádnou cestou. Kruh se uzavřel, aniž by jej musel vypravěč výslovně pojmenovat.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Nejmladší člen nakonec požádal o zkušební den, během něhož by se staré formuláře prostě nepoužívaly.",
+        "Tentokrát nastalo skutečné ticho.",
+        "Návrh neobsahoval žádný nový dokument, a tím nebylo zřejmé, který útvar by jej měl spravovat.",
+        "Zapisovatelka poznamenala, že by možná stačilo zjistit, zda se bez formulářů něco podstatného ztratí.",
+        "Předseda slíbil, že se touto otázkou budou vážně zabývat.",
+        "Nejprve však potřeboval, aby byla předložena řádnou cestou.",
+        "Kruh se uzavřel, aniž by jej musel vypravěč výslovně pojmenovat."
+      ],
+      "start": 231.69573696145125,
+      "end": 276.8007709750567,
+      "sentences": [
+        {
+          "text": "Nejmladší člen nakonec požádal o zkušební den, během něhož by se staré formuláře prostě nepoužívaly.",
+          "start": 231.69573696145125,
+          "end": 240.36839002267573,
+          "slow_start": 261.6843083900227,
+          "slow_end": 271.41346938775513
+        },
+        {
+          "text": "Tentokrát nastalo skutečné ticho.",
+          "start": 240.54839002267573,
+          "end": 243.49732426303854,
+          "slow_start": 271.5934693877551,
+          "slow_end": 274.9835827664399
+        },
+        {
+          "text": "Návrh neobsahoval žádný nový dokument, a tím nebylo zřejmé, který útvar by jej měl spravovat.",
+          "start": 243.67732426303854,
+          "end": 251.7694784580499,
+          "slow_start": 275.1635827664399,
+          "slow_end": 284.0568253968254
+        },
+        {
+          "text": "Zapisovatelka poznamenala, že by možná stačilo zjistit, zda se bez formulářů něco podstatného ztratí.",
+          "start": 251.9494784580499,
+          "end": 260.44798185941045,
+          "slow_start": 284.2368253968254,
+          "slow_end": 293.7918367346939
+        },
+        {
+          "text": "Předseda slíbil, že se touto otázkou budou vážně zabývat.",
+          "start": 260.62798185941045,
+          "end": 265.6551020408163,
+          "slow_start": 293.97183673469385,
+          "slow_end": 299.6491156462585
+        },
+        {
+          "text": "Nejprve však potřeboval, aby byla předložena řádnou cestou.",
+          "start": 265.8351020408163,
+          "end": 270.97832199546485,
+          "slow_start": 299.8291156462585,
+          "slow_end": 305.78503401360547
+        },
+        {
+          "text": "Kruh se uzavřel, aniž by jej musel vypravěč výslovně pojmenovat.",
+          "start": 271.15832199546486,
+          "end": 276.8007709750567,
+          "slow_start": 305.9650340136054,
+          "slow_end": 312.3853514739229
+        }
+      ],
+      "slow_start": 261.6843083900227,
+      "slow_end": 312.3853514739229
+    },
+    {
+      "text": "Při společném čtení někdo označil text za útok na každé pravidlo. Jiný čtenář upozornil, že se nevysmívá evidenci jako takové, nýbrž neschopnosti ověřit její účel. Tento rozdíl je pro interpretaci zásadní. Satira často pracuje se zveličením, aby určitou tendenci zviditelnila; nemusí tím tvrdit, že popsaný mechanismus vždy ovládá všechny instituce. Závěr o skutečném světě vyžaduje vlastní důkazy. Literární přesvědčivost není statistická reprezentativnost a humorný obraz není automaticky zpráva o konkrétním úřadu.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Při společném čtení někdo označil text za útok na každé pravidlo.",
+        "Jiný čtenář upozornil, že se nevysmívá evidenci jako takové, nýbrž neschopnosti ověřit její účel.",
+        "Tento rozdíl je pro interpretaci zásadní.",
+        "Satira často pracuje se zveličením, aby určitou tendenci zviditelnila; nemusí tím tvrdit, že popsaný mechanismus vždy ovládá všechny instituce.",
+        "Závěr o skutečném světě vyžaduje vlastní důkazy.",
+        "Literární přesvědčivost není statistická reprezentativnost a humorný obraz není automaticky zpráva o konkrétním úřadu."
+      ],
+      "start": 276.9807709750567,
+      "end": 323.8678911564626,
+      "sentences": [
+        {
+          "text": "Při společném čtení někdo označil text za útok na každé pravidlo.",
+          "start": 276.9807709750567,
+          "end": 282.22848072562357,
+          "slow_start": 312.56535147392293,
+          "slow_end": 318.44
+        },
+        {
+          "text": "Jiný čtenář upozornil, že se nevysmívá evidenci jako takové, nýbrž neschopnosti ověřit její účel.",
+          "start": 282.4084807256236,
+          "end": 291.75451247165535,
+          "slow_start": 318.62,
+          "slow_end": 329.1850793650794
+        },
+        {
+          "text": "Tento rozdíl je pro interpretaci zásadní.",
+          "start": 291.93451247165535,
+          "end": 295.452335600907,
+          "slow_start": 329.36507936507934,
+          "slow_end": 333.4401814058957
+        },
+        {
+          "text": "Satira často pracuje se zveličením, aby určitou tendenci zviditelnila; nemusí tím tvrdit, že popsaný mechanismus vždy ovládá všechny instituce.",
+          "start": 295.632335600907,
+          "end": 308.4845804988662,
+          "slow_start": 333.62018140589566,
+          "slow_end": 348.109433106576
+        },
+        {
+          "text": "Závěr o skutečném světě vyžaduje vlastní důkazy.",
+          "start": 308.6645804988662,
+          "end": 312.937052154195,
+          "slow_start": 348.289433106576,
+          "slow_end": 353.21206349206346
+        },
+        {
+          "text": "Literární přesvědčivost není statistická reprezentativnost a humorný obraz není automaticky zpráva o konkrétním úřadu.",
+          "start": 313.117052154195,
+          "end": 323.8678911564626,
+          "slow_start": 353.39206349206347,
+          "slow_end": 365.40839002267575
+        }
+      ],
+      "slow_start": 312.56535147392293,
+      "slow_end": 365.40839002267575
+    },
+    {
+      "text": "Kdo chce takový humor převést jinému publiku, nemusí za každou cenu zachovat stejné jednotlivé slovo. Musí však uchovat napětí mezi deklarovaným cílem a skutečným výsledkem. Příliš přímé vysvětlení každého vtipu by odstranilo prostor pro čtenářovo odhalení, zatímco doslovný překlad bez potřebného kontextu by mohl kritiku změnit v pochvalu. Přiměřený převod proto někdy doplní jedinou okolnost a jindy ponechá zdánlivě klidný tón. Smyslem je umožnit podobný interpretační pohyb, nikoli přikázat, v kterém místě se má člověk smát.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Kdo chce takový humor převést jinému publiku, nemusí za každou cenu zachovat stejné jednotlivé slovo.",
+        "Musí však uchovat napětí mezi deklarovaným cílem a skutečným výsledkem.",
+        "Příliš přímé vysvětlení každého vtipu by odstranilo prostor pro čtenářovo odhalení, zatímco doslovný překlad bez potřebného kontextu by mohl kritiku změnit v pochvalu.",
+        "Přiměřený převod proto někdy doplní jedinou okolnost a jindy ponechá zdánlivě klidný tón.",
+        "Smyslem je umožnit podobný interpretační pohyb, nikoli přikázat, v kterém místě se má člověk smát."
+      ],
+      "start": 324.0478911564626,
+      "end": 371.35873015873017,
+      "sentences": [
+        {
+          "text": "Kdo chce takový humor převést jinému publiku, nemusí za každou cenu zachovat stejné jednotlivé slovo.",
+          "start": 324.0478911564626,
+          "end": 333.23138321995464,
+          "slow_start": 365.58839002267575,
+          "slow_end": 375.94448979591834
+        },
+        {
+          "text": "Musí však uchovat napětí mezi deklarovaným cílem a skutečným výsledkem.",
+          "start": 333.41138321995464,
+          "end": 339.93619047619046,
+          "slow_start": 376.12448979591835,
+          "slow_end": 383.4039455782313
+        },
+        {
+          "text": "Příliš přímé vysvětlení každého vtipu by odstranilo prostor pro čtenářovo odhalení, zatímco doslovný překlad bez potřebného kontextu by mohl kritiku změnit v pochvalu.",
+          "start": 340.11619047619047,
+          "end": 355.12789115646257,
+          "slow_start": 383.5839455782313,
+          "slow_end": 400.5345124716553
+        },
+        {
+          "text": "Přiměřený převod proto někdy doplní jedinou okolnost a jindy ponechá zdánlivě klidný tón.",
+          "start": 355.3078911564626,
+          "end": 362.6221768707483,
+          "slow_start": 400.7145124716553,
+          "slow_end": 409.17818594104307
+        },
+        {
+          "text": "Smyslem je umožnit podobný interpretační pohyb, nikoli přikázat, v kterém místě se má člověk smát.",
+          "start": 362.8021768707483,
+          "end": 371.35873015873017,
+          "slow_start": 409.3581859410431,
+          "slow_end": 419.11056689342405
+        }
+      ],
+      "slow_start": 365.58839002267575,
+      "slow_end": 419.11056689342405
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "6caf71024e565644db6a91515b0e4761baf6c1b25d7f538b7d2a9a72e595f14e",
+    "slow": "f31c51a775f3514d5f96efab063761dd170c52f714e6458f36d7206d0c75fc29"
+  }
+}

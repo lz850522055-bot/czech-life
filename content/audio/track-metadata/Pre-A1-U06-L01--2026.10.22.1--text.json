@@ -1,0 +1,345 @@
+{
+  "id": "Pre-A1-U06-L01--2026.10.22.1--text",
+  "lesson_id": "Pre-A1-U06-L01",
+  "content_version": "2026.10.22.1",
+  "level": "Pre-A1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Dobrý den.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Dobrý den."
+      ]
+    },
+    {
+      "text": "Dobrý den. Co si přejete?",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Dobrý den.",
+        "Co si přejete?"
+      ]
+    },
+    {
+      "text": "Čaj, prosím.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Čaj, prosím."
+      ]
+    },
+    {
+      "text": "Černý, nebo zelený?",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Černý, nebo zelený?"
+      ]
+    },
+    {
+      "text": "Zelený, prosím.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Zelený, prosím."
+      ]
+    },
+    {
+      "text": "S cukrem?",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "S cukrem?"
+      ]
+    },
+    {
+      "text": "Ne, děkuju. Bez cukru.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Ne, děkuju.",
+        "Bez cukru."
+      ]
+    },
+    {
+      "text": "Tady máte.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Tady máte."
+      ]
+    },
+    {
+      "text": "Děkuju. Na shledanou.",
+      "index": 8,
+      "role": "text",
+      "parts": [
+        "Děkuju.",
+        "Na shledanou."
+      ]
+    },
+    {
+      "text": "Na shledanou.",
+      "index": 9,
+      "role": "text",
+      "parts": [
+        "Na shledanou."
+      ]
+    }
+  ],
+  "text_sha256": "12ab643461a0562bdf6f86c56ad2e48cb0ae68d16f9ef29b5af1a8666e19bfb1",
+  "source_file": "content/lessons/Pre-A1/Pre-A1-U06-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/Pre-A1-U06-L01--2026.10.22.1--text--12ab643461--normal.mp3",
+  "slow_file": "content/audio/files/Pre-A1-U06-L01--2026.10.22.1--text--12ab643461--slow.mp3",
+  "duration_seconds": 18.31532879818594,
+  "slow_duration_seconds": 20.660544217687075,
+  "cues": [
+    {
+      "text": "Dobrý den.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Dobrý den."
+      ],
+      "start": 0.0,
+      "end": 1.0797278911564625,
+      "sentences": [
+        {
+          "text": "Dobrý den.",
+          "start": 0.0,
+          "end": 1.0797278911564625,
+          "slow_start": 0.0,
+          "slow_end": 1.195827664399093
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.195827664399093
+    },
+    {
+      "text": "Dobrý den. Co si přejete?",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Dobrý den.",
+        "Co si přejete?"
+      ],
+      "start": 1.2597278911564627,
+      "end": 3.8081632653061224,
+      "sentences": [
+        {
+          "text": "Dobrý den.",
+          "start": 1.2597278911564627,
+          "end": 2.3278458049886623,
+          "slow_start": 1.375827664399093,
+          "slow_end": 2.6297052154195013
+        },
+        {
+          "text": "Co si přejete?",
+          "start": 2.507845804988662,
+          "end": 3.8081632653061224,
+          "slow_start": 2.809705215419501,
+          "slow_end": 4.237732426303855
+        }
+      ],
+      "slow_start": 1.375827664399093,
+      "slow_end": 4.237732426303855
+    },
+    {
+      "text": "Čaj, prosím.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Čaj, prosím."
+      ],
+      "start": 3.9881632653061225,
+      "end": 5.358140589569161,
+      "sentences": [
+        {
+          "text": "Čaj, prosím.",
+          "start": 3.9881632653061225,
+          "end": 5.358140589569161,
+          "slow_start": 4.417732426303854,
+          "slow_end": 6.008299319727891
+        }
+      ],
+      "slow_start": 4.417732426303854,
+      "slow_end": 6.008299319727891
+    },
+    {
+      "text": "Černý, nebo zelený?",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Černý, nebo zelený?"
+      ],
+      "start": 5.538140589569161,
+      "end": 7.395736961451247,
+      "sentences": [
+        {
+          "text": "Černý, nebo zelený?",
+          "start": 5.538140589569161,
+          "end": 7.395736961451247,
+          "slow_start": 6.188299319727891,
+          "slow_end": 8.312925170068027
+        }
+      ],
+      "slow_start": 6.188299319727891,
+      "slow_end": 8.312925170068027
+    },
+    {
+      "text": "Zelený, prosím.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Zelený, prosím."
+      ],
+      "start": 7.5757369614512475,
+      "end": 9.259183673469387,
+      "sentences": [
+        {
+          "text": "Zelený, prosím.",
+          "start": 7.5757369614512475,
+          "end": 9.259183673469387,
+          "slow_start": 8.492925170068027,
+          "slow_end": 10.466621315192743
+        }
+      ],
+      "slow_start": 8.492925170068027,
+      "slow_end": 10.466621315192743
+    },
+    {
+      "text": "S cukrem?",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "S cukrem?"
+      ],
+      "start": 9.439183673469389,
+      "end": 10.391201814058958,
+      "sentences": [
+        {
+          "text": "S cukrem?",
+          "start": 9.439183673469389,
+          "end": 10.391201814058958,
+          "slow_start": 10.646621315192744,
+          "slow_end": 11.772789115646258
+        }
+      ],
+      "slow_start": 10.646621315192744,
+      "slow_end": 11.772789115646258
+    },
+    {
+      "text": "Ne, děkuju. Bez cukru.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Ne, děkuju.",
+        "Bez cukru."
+      ],
+      "start": 10.571201814058957,
+      "end": 13.13124716553288,
+      "sentences": [
+        {
+          "text": "Ne, děkuju.",
+          "start": 10.571201814058957,
+          "end": 11.836689342403629,
+          "slow_start": 11.952789115646258,
+          "slow_end": 13.392426303854876
+        },
+        {
+          "text": "Bez cukru.",
+          "start": 12.016689342403629,
+          "end": 13.13124716553288,
+          "slow_start": 13.572426303854876,
+          "slow_end": 14.884353741496598
+        }
+      ],
+      "slow_start": 11.952789115646258,
+      "slow_end": 14.884353741496598
+    },
+    {
+      "text": "Tady máte.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Tady máte."
+      ],
+      "start": 13.31124716553288,
+      "end": 14.37936507936508,
+      "sentences": [
+        {
+          "text": "Tady máte.",
+          "start": 13.31124716553288,
+          "end": 14.37936507936508,
+          "slow_start": 15.064353741496598,
+          "slow_end": 16.318231292517005
+        }
+      ],
+      "slow_start": 15.064353741496598,
+      "slow_end": 16.318231292517005
+    },
+    {
+      "text": "Děkuju. Na shledanou.",
+      "index": 8,
+      "role": "text",
+      "parts": [
+        "Děkuju.",
+        "Na shledanou."
+      ],
+      "start": 14.55936507936508,
+      "end": 16.77111111111111,
+      "sentences": [
+        {
+          "text": "Děkuju.",
+          "start": 14.55936507936508,
+          "end": 15.406893424036282,
+          "slow_start": 16.49823129251701,
+          "slow_end": 17.415419501133787
+        },
+        {
+          "text": "Na shledanou.",
+          "start": 15.586893424036282,
+          "end": 16.77111111111111,
+          "slow_start": 17.595419501133787,
+          "slow_end": 18.965396825396827
+        }
+      ],
+      "slow_start": 16.49823129251701,
+      "slow_end": 18.965396825396827
+    },
+    {
+      "text": "Na shledanou.",
+      "index": 9,
+      "role": "text",
+      "parts": [
+        "Na shledanou."
+      ],
+      "start": 16.95111111111111,
+      "end": 18.13532879818594,
+      "sentences": [
+        {
+          "text": "Na shledanou.",
+          "start": 16.95111111111111,
+          "end": 18.13532879818594,
+          "slow_start": 19.145396825396826,
+          "slow_end": 20.480544217687076
+        }
+      ],
+      "slow_start": 19.145396825396826,
+      "slow_end": 20.480544217687076
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "d8bc9fbdbdf6d4672f25601961c6ab6306ea28edb9582b798bd116f8c1bc689f",
+    "slow": "0d8f66e7fc284dcd8445b7739a9db37d3c5f6ee91af6c98bf33be38b0201137b"
+  }
+}

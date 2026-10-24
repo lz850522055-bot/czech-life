@@ -1,0 +1,57 @@
+{
+  "id": "B1-U03-L01--2026.10.22.1--contrasts",
+  "lesson_id": "B1-U03-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "přijel. přišel.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "přijel. přišel."
+      ]
+    }
+  ],
+  "text_sha256": "21479587ee7fc705ff7e00d58eef862705c63fd99e12932de3f8e39afe491495",
+  "source_file": "content/lessons/B1/B1-U03-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U03-L01--2026.10.22.1--contrasts--21479587ee--normal.mp3",
+  "slow_file": "content/audio/files/B1-U03-L01--2026.10.22.1--contrasts--21479587ee--slow.mp3",
+  "duration_seconds": 1.666077097505669,
+  "slow_duration_seconds": 1.8634467120181406,
+  "cues": [
+    {
+      "text": "přijel. přišel.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "přijel. přišel."
+      ],
+      "start": 0.0,
+      "end": 1.486077097505669,
+      "sentences": [
+        {
+          "text": "přijel. přišel.",
+          "start": 0.0,
+          "end": 1.486077097505669,
+          "slow_start": 0.0,
+          "slow_end": 1.6834467120181407
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.6834467120181407
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "9fc035cc285f7d6499341dd9d61808a2ca87e3e7e6c4b0f4ab16461c0c9d095d",
+    "slow": "71f3bb63293ccef09cdba9304279d30e197d24cd9e6c187b989eb6cf8d1c4b54"
+  }
+}

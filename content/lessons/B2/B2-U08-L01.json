@@ -1,0 +1,1511 @@
+{
+  "id": "B2-U08-L01",
+  "level": "B2",
+  "unit_id": "B2-U08",
+  "order": 54,
+  "version": "2026.10.23.1",
+  "title_zh": "客户与工作文书",
+  "title_cs": "Profesní zpráva bez zbytečného napětí",
+  "prerequisites": [
+    "B2-U07-L01"
+  ],
+  "can_do": [
+    "写事实充分、语气坚定的跟进函",
+    "区分问题说明、责任确认、请求与时限",
+    "按收件人所需组织附件和证据"
+  ],
+  "scene": "客户与工作文书",
+  "skills": [
+    "listening",
+    "speaking",
+    "reading",
+    "writing",
+    "interaction",
+    "mediation"
+  ],
+  "knowledge_points": [
+    "professional-evidence",
+    "formal-request-deadline"
+  ],
+  "intro_zh": "专业文书要让对方可回应，也让双方以后能核对。以下是虚构项目往来练习，不是法律通知模板；语气坚定不靠未经核实的指控。",
+  "lesson_text": [
+    {
+      "id": "s01",
+      "cs": "Naše organizace objednala výrobu informačních panelů pro veřejnou výstavu. Podle potvrzeného návrhu měly obsahovat aktuální mapu a tři jazykové verze textu. Při převzetí jsme zjistili, že na dvou panelech zůstala starší mapa a u jednoho chyběla česká úprava názvu. Výstava měla začít za týden. Potřebovali jsme napsat zprávu, která přesně oddělí doložené rozdíly od odhadů jejich příčiny a umožní dodavateli navrhnout opravu.",
+      "zh": "组织订展览说明板，确认稿含新地图和三语。接收时发现两块使用旧地图，另一块缺少已确认的捷语标题修订；展览一周后开。需写清可证差异，不猜原因，并请供应商提修复。",
+      "note_zh": ""
+    },
+    {
+      "id": "s02",
+      "cs": "První reakce kolegy byla ostrá: chtěl napsat, že dodavatel naši zakázku odbyl. Takovou motivaci jsme ale nemohli prokázat. Mohlo dojít k záměně souborů nebo k chybě při předání podkladů. V konečné verzi jsme proto uvedli číslo zakázky, datum schválení návrhu a označení dotčených panelů. Fotografie a schválené soubory jsme přiložili odděleně a jasně pojmenovali, aby příjemce nemusel zdlouhavě hledat rozdíly.",
+      "zh": "同事想指责商家敷衍，但动机不可证，可能文件混淆或交接错误。最终写订单号、批准稿日期、受影响板编号，分别附清晰命名照片和确认文件，便于核对。",
+      "note_zh": ""
+    },
+    {
+      "id": "s03",
+      "cs": "Hlavní požadavek zněl: „Prosíme o návrh způsobu nápravy a o potvrzení, zda lze opravené panely doručit do středy.“ Neprohlašovali jsme, že už víme, jaké technické řešení je nejlepší. Pro nás byla zásadní správnost obsahu a použití před zahájením výstavy. Dodavateli jsme zároveň nabídli možnost krátkého telefonátu, pokud by potřeboval upřesnit rozdíl mezi schválenou a dodanou verzí.",
+      "zh": "核心请求是请提补救方式并确认修正版能否周三前送达，不假装已知最佳工艺。关键是内容正确、开幕前可用；若需解释版本差异可电话。",
+      "note_zh": ""
+    },
+    {
+      "id": "s04",
+      "cs": "Zpráva obsahovala také rozumně formulovanou lhůtu pro odpověď. Požádali jsme o reakci do následujícího poledne a vysvětlili souvislost s instalací. Tato lhůta byla naším organizačním požadavkem, nikoli tvrzením o zákonné povinnosti. Pokud by ji dodavatel nemohl splnit, měl nám co nejdříve sdělit reálný termín. Chtěli jsme mít informace pro rozhodnutí, ne pouze vyvolat dojem naléhavosti mnoha vykřičníky.",
+      "zh": "我们请求次日中午前答复，说明与布展有关。这是组织需求，不宣称法律期限；若做不到，希望尽快告知现实时间。目的是获得决策信息，而非堆叹号制造急迫。",
+      "note_zh": ""
+    },
+    {
+      "id": "s05",
+      "cs": "Dodavatel uznal záměnu mapových souborů a navrhl nové přelepy. U názvu požádal o kontrolu, protože v jednom z podkladů našel obě varianty. Tuto část jsme neodmítli jen proto, že chyba přišla z jeho strany. Porovnali jsme historii schválení a zjistili, že poslední potvrzená verze skutečně nebyla v odeslané složce. Odpovědnost za jednotlivé rozdíly tedy nebyla totožná a naše další zpráva to otevřeně rozlišila.",
+      "zh": "供应商承认地图文件混淆、建议贴新层；标题需核，因为资料有两版。我们没因一部分错在对方就否认该问题，查历史发现最终确认版没在发送文件夹，故两类差异责任不同，后续应分开。",
+      "note_zh": ""
+    },
+    {
+      "id": "s06",
+      "cs": "Závěrečná dohoda určovala, kdo dodá správný název, kdo připraví přelepy, kdy proběhne kontrola a kdo potvrdí převzetí. Krátké písemné shrnutí po telefonátu pomohlo oběma stranám ověřit, že mluví o stejné verzi. Profesní tón zde nebyl otázkou zdvořilých frází navíc. Spočíval v přesné evidenci, přiměřeném požadavku, ochotě opravit vlastní údaj a v jasném vymezení dalšího postupu.",
+      "zh": "最终约定谁给正确标题、谁做贴层、何时检查、谁确认接收。电话后短书面总结使双方核对版本。专业不仅礼貌词，而是准确证据、合理请求、能纠正己方信息和明确下一步。",
+      "note_zh": ""
+    }
+  ],
+  "grammar": [
+    {
+      "id": "professional-evidence",
+      "rule_zh": "把观察到的差异和你猜的原因分两句，没证据的原因先不写成事实。",
+      "detail_zh": "Bylo zjištěno, že…/Při převzetí jsme zjistili… 可报事实；Domníváme se, že… 标推测，但必要时直接问原因更好。oproti schválené verzi 表与确认版相比；týká se + 第二格指范围。",
+      "examples": [
+        {
+          "cs": "Rozdíl se týká dvou panelů.",
+          "zh": "差异涉及两块板。",
+          "note_zh": ""
+        },
+        {
+          "cs": "Příčinu záměny zatím neznáme.",
+          "zh": "混淆原因尚不知。",
+          "note_zh": ""
+        }
+      ],
+      "pitfalls": [
+        "错误存在不自动证明对方故意敷衍。"
+      ],
+      "exceptions": [
+        "文书能留证据但不能替代适用合同与法律判断。"
+      ],
+      "term": "事实与推测的文书区分"
+    },
+    {
+      "id": "formal-request-deadline",
+      "rule_zh": "说清要求、期限和原因，同时给对方报告现实情况的路径。",
+      "detail_zh": "Žádáme o sdělení, zda…；Prosíme o reakci do… z důvodu…；Pokud termín nelze dodržet, sdělte…。“若做不到请说明”不是取消要求，而是避免无声失败。正式称呼用第五格，例如 Vážený pane Nováku。",
+      "examples": [
+        {
+          "cs": "Prosíme o odpověď do zítřejšího poledne.",
+          "zh": "请明天中午前答复。",
+          "note_zh": ""
+        }
+      ],
+      "pitfalls": [
+        "未经依据不要把自定期限称法定期限。"
+      ],
+      "exceptions": [
+        "紧急情境可更直接，但仍保留可核对对象与行动。"
+      ],
+      "term": "正式请求与时限"
+    }
+  ],
+  "vocabulary": [
+    {
+      "lemma": "náprava",
+      "pos": "名词，阴性",
+      "forms": "nápravy; nápravu",
+      "meaning_zh": "补救、纠正",
+      "collocation": "způsob nápravy",
+      "example_cs": "Prosíme o návrh způsobu nápravy.",
+      "example_zh": "请提出补救方式。",
+      "confusion_zh": "不限定只有退款。"
+    },
+    {
+      "lemma": "zakázka",
+      "pos": "名词，阴性",
+      "forms": "zakázky; zakázku",
+      "meaning_zh": "承接订单、项目单",
+      "collocation": "číslo zakázky",
+      "example_cs": "Uveďte číslo zakázky.",
+      "example_zh": "注明项目订单号。",
+      "confusion_zh": "不是所有任务都合同项目。"
+    },
+    {
+      "lemma": "záměna",
+      "pos": "名词，阴性",
+      "forms": "záměny; záměnu",
+      "meaning_zh": "混淆、互换",
+      "collocation": "záměna souborů",
+      "example_cs": "Došlo k záměně souborů.",
+      "example_zh": "文件混淆了。",
+      "confusion_zh": "未说明是否故意。"
+    },
+    {
+      "lemma": "dotčený",
+      "pos": "形容词",
+      "forms": "dotčená; dotčené",
+      "meaning_zh": "受影响的、涉及的",
+      "collocation": "dotčené panely",
+      "example_cs": "Označili jsme dotčené panely.",
+      "example_zh": "标明涉事板。",
+      "confusion_zh": "也可表示受冒犯，要看语境。"
+    }
+  ],
+  "listening": {
+    "script": [
+      {
+        "cs": "U mapy chybu uznáváme a připravíme nový přelep. U názvu ale potřebujeme potvrdit poslední schválenou variantu. Jakmile ji obdržíme, pošleme náhled ke kontrole. Teprve po vašem potvrzení zadáme výrobu. Termín doručení upřesníme spolu s náhledem.",
+        "zh": "地图错误承认，会做贴层；标题需确认最终版。收到后发预览检查，确认后再生产，送达时间与预览一起说明。",
+        "note_zh": ""
+      }
+    ],
+    "focus_zh": "区分承认范围、用户需补材料、预览批准与生产的先后。",
+    "source": "original"
+  },
+  "pronunciation": {
+    "focus_zh": "在 u mapy / u názvu 两个对比组上清楚停顿；不要漏 teprve 的先决含义。",
+    "contrast": [
+      {
+        "a": "náhled",
+        "b": "návrh",
+        "note_zh": "预览与方案不是同一个词，接近处需仔细听。"
+      }
+    ],
+    "task_zh": "先听一句，再按意义块跟读；录下自然语速版本，对照长短元音、句中停顿和关键词。不要追求机械加速。"
+  },
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "最初不写“敷衍”的理由？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "没有可核实动机证据"
+        },
+        {
+          "id": "b",
+          "text": "错误不重要"
+        },
+        {
+          "id": "c",
+          "text": "对方一定无责任"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "承认差异与不猜动机可并存。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U08-L01-E01",
+      "knowledge_points": [
+        "professional-evidence",
+        "formal-request-deadline"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "最终查明标题问题怎样？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "完全已证对方责任"
+        },
+        {
+          "id": "b",
+          "text": "最终确认稿未发到文件夹，责任需分开"
+        },
+        {
+          "id": "c",
+          "text": "标题无须修"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "新的事实应修正原先整体归责。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U08-L01-E02",
+      "knowledge_points": [
+        "professional-evidence",
+        "formal-request-deadline"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "听：什么时候开始生产？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "收到任意旧稿立刻"
+        },
+        {
+          "id": "b",
+          "text": "用户确认预览后"
+        },
+        {
+          "id": "c",
+          "text": "无需预览"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "teprve po vašem potvrzení。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "listening"
+      ],
+      "error_category": "comprehension",
+      "audio_text_cs": "Pošleme náhled ke kontrole. Teprve po vašem potvrzení zadáme výrobu.",
+      "id": "B2-U08-L01-E03",
+      "knowledge_points": [
+        "professional-evidence",
+        "formal-request-deadline"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "用第五格称呼 Novák。",
+      "stimulus_cs": "Vážený pane ___,",
+      "answer": "Nováku",
+      "accepted_answers": [
+        "Nováku"
+      ],
+      "explanation_zh": "正式称呼用呼格。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "B2-U08-L01-E04",
+      "knowledge_points": [
+        "professional-evidence",
+        "formal-request-deadline"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "补“与已确认版相比”的词。",
+      "stimulus_cs": "___ schválené verzi jsou na mapě rozdíly.",
+      "answer": "Oproti",
+      "accepted_answers": [
+        "Oproti"
+      ],
+      "explanation_zh": "oproti+第三格，verzi。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "collocation",
+      "id": "B2-U08-L01-E05",
+      "knowledge_points": [
+        "professional-evidence",
+        "formal-request-deadline"
+      ]
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "把无依据动机断言改成已知差异，题目限定地图。",
+      "stimulus_cs": "Dodavatel naši zakázku úmyslně odbyl.",
+      "answer": "Na dvou panelech je starší mapa.",
+      "accepted_answers": [],
+      "explanation_zh": "只保留可核查事实，不凭文风推故意。",
+      "scoring_basis": "开放改写：保留独立作答，按量规逐项自评或交教师评阅。示范句不是唯一答案，不以字符串相同与否自动判定正确。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U08-L01-E06",
+      "knowledge_points": [
+        "professional-evidence",
+        "formal-request-deadline"
+      ],
+      "rubric": [
+        "指出两块板上仍为旧地图",
+        "不添加供应商故意敷衍的动机",
+        "用具体事实替代泛化指责"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt_zh": "先确认版本，再生产。",
+      "stimulus_cs": "zadáme výrobu. / Teprve po potvrzení náhledu",
+      "options": [
+        "zadáme výrobu.",
+        "Teprve po potvrzení náhledu"
+      ],
+      "answer": "Teprve po potvrzení náhledu zadáme výrobu.",
+      "accepted_answers": [
+        "Teprve po potvrzení náhledu zadáme výrobu."
+      ],
+      "explanation_zh": "明确触发点。",
+      "scoring_basis": "本题限定句首及语境；不据一个参考语序否定捷语所有语序变体。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "word_order",
+      "id": "B2-U08-L01-E07",
+      "knowledge_points": [
+        "professional-evidence",
+        "formal-request-deadline"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "要求次日中午回复在本故事是什么？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "已核实法定期限"
+        },
+        {
+          "id": "b",
+          "text": "组织安排请求"
+        },
+        {
+          "id": "c",
+          "text": "法院判决"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "文本没有法律依据，不能伪称法定。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U08-L01-E08",
+      "knowledge_points": [
+        "professional-evidence",
+        "formal-request-deadline"
+      ]
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "电话里说明两项差异并邀请核对版本，不提前归责。",
+      "stimulus_cs": "",
+      "answer": "Na dvou panelech je starší mapa a u jednoho názvu se verze liší. Poslali jsme fotografie i schválené soubory. Navrhuji nejprve ověřit, kterou verzi jste při výrobě použili, a potom domluvit nápravu.",
+      "accepted_answers": [],
+      "explanation_zh": "以证据流程推进。",
+      "rubric": [
+        "两差异",
+        "附件证据",
+        "核验后定责"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "error_category": "fluency",
+      "id": "B2-U08-L01-E09",
+      "knowledge_points": [
+        "professional-evidence",
+        "formal-request-deadline"
+      ]
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "写150–220词正式跟进邮件：问题、证据、请求、期限、失败时回复路径。",
+      "stimulus_cs": "",
+      "answer": "Vážený pane Nováku, při převzetí zakázky 36 jsme zjistili rozdíly oproti návrhu potvrzenému 8. května. Na panelech A a B je starší mapa; u panelu C potřebujeme společně ověřit poslední verzi názvu. Fotografie a schválené podklady přikládáme odděleně. Prosíme o návrh způsobu nápravy a o informaci, zda lze opravené panely doručit do středy. Vzhledem k přípravě instalace bychom odpověď potřebovali do zítřejšího poledne. Pokud tento čas není reálný, sdělte nám prosím nejbližší možný termín a chybějící podklady. Rádi rozdíly projdeme při krátkém telefonátu.",
+      "accepted_answers": [],
+      "explanation_zh": "示范展示所有功能；实际写作需按任务范围展开，无自动法律效果。",
+      "rubric": [
+        "事实推断分开",
+        "请求与期限完整",
+        "尊称与附件清楚"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U08-L01-E10",
+      "knowledge_points": [
+        "professional-evidence",
+        "formal-request-deadline"
+      ]
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "发现己方漏发最终稿，修正自己的说法同时继续追地图问题。",
+      "stimulus_cs": "",
+      "answer": "Po kontrole jsme zjistili, že poslední verze názvu nebyla v odeslané složce. Tento podklad doplníme. Rozdíl v mapách však zůstává, proto prosíme o potvrzení navržené opravy.",
+      "accepted_answers": [],
+      "explanation_zh": "承认自己的具体错误不抹掉其他已证问题。",
+      "rubric": [
+        "修正依据",
+        "分别处理责任",
+        "下一步清楚"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "error_category": "fluency",
+      "id": "B2-U08-L01-E11",
+      "knowledge_points": [
+        "professional-evidence",
+        "formal-request-deadline"
+      ]
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "中文向团队转述最终各方任务，避免“对方全错”说法。",
+      "stimulus_cs": "",
+      "answer": "我们补最终标题，供应商做地图修正层并发预览；我们确认预览后对方生产。地图混稿已承认，标题资料漏发属不同问题，送达时间还需确认。",
+      "accepted_answers": [],
+      "explanation_zh": "保存分项责任和未定日期。",
+      "rubric": [
+        "分工",
+        "责任边界",
+        "时序状态"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U08-L01-E12",
+      "knowledge_points": [
+        "professional-evidence",
+        "formal-request-deadline"
+      ]
+    }
+  ],
+  "transfer_task": {
+    "prompt_zh": "改成网站文案验收，列截图、已确认文字版本、两处差异和修正确认步骤。",
+    "model_answer_cs": "Ve zveřejněné verzi chybí schválený odstavec a odkaz vede na starou stránku. Přikládáme snímky a potvrzený text. Prosíme o opravu, náhled ke kontrole a potvrzení termínu nasazení.",
+    "rubric": [
+      "证据具体",
+      "版本清楚",
+      "上线需确认"
+    ]
+  },
+  "review_links": [
+    "B2-U07-L01"
+  ],
+  "sources": [
+    {
+      "source_id": "LANG01",
+      "url": "https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions",
+      "scope": "按实际能做的任务编排能力，不把CEFR说成官方捷语语法课表",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    },
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?id=850",
+      "scope": "正式信函称呼、呼格与结束语",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    },
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?id=420",
+      "scope": "被动分词与形容词、动作和结果状态的表达倾向",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    },
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?id=620",
+      "scope": "动词与名词的格搭配、díky/kvůli的语用边界",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    }
+  ],
+  "content_status": "authored_crosschecked_not_native_reviewed",
+  "quality_notes": [
+    "原创课文和练习；规则按所列来源交叉核查，未获得捷语母语教师逐句审校。",
+    "本课级别属于教材编排判断，不代表官方能力认证。",
+    "听力为原创可合成脚本；真人多说话人、地区口音与录音自然度尚待现场核验。"
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "B2-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--normal.mp3",
+      "slow_file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U08-L01--2026.10.23.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Naše organizace objednala výrobu informačních panelů pro veřejnou výstavu. Podle potvrzeného návrhu měly obsahovat aktuální mapu a tři jazykové verze textu. Při převzetí jsme zjistili, že na dvou panelech zůstala starší mapa a u jednoho chyběla česká úprava názvu. Výstava měla začít za týden. Potřebovali jsme napsat zprávu, která přesně oddělí doložené rozdíly od odhadů jejich příčiny a umožní dodavateli navrhnout opravu. První reakce kolegy byla ostrá: chtěl napsat, že dodavatel naši zakázku odbyl. Takovou motivaci jsme ale nemohli prokázat. Mohlo dojít k záměně souborů nebo k chybě při předání podkladů. V konečné verzi jsme proto uvedli číslo zakázky, datum schválení návrhu a označení dotčených panelů. Fotografie a schválené soubory jsme přiložili odděleně a jasně pojmenovali, aby příjemce nemusel zdlouhavě hledat rozdíly. Hlavní požadavek zněl: „Prosíme o návrh způsobu nápravy a o potvrzení, zda lze opravené panely doručit do středy.“ Neprohlašovali jsme, že už víme, jaké technické řešení je nejlepší. Pro nás byla zásadní správnost obsahu a použití před zahájením výstavy. Dodavateli jsme zároveň nabídli možnost krátkého telefonátu, pokud by potřeboval upřesnit rozdíl mezi schválenou a dodanou verzí. Zpráva obsahovala také rozumně formulovanou lhůtu pro odpověď. Požádali jsme o reakci do následujícího poledne a vysvětlili souvislost s instalací. Tato lhůta byla naším organizačním požadavkem, nikoli tvrzením o zákonné povinnosti. Pokud by ji dodavatel nemohl splnit, měl nám co nejdříve sdělit reálný termín. Chtěli jsme mít informace pro rozhodnutí, ne pouze vyvolat dojem naléhavosti mnoha vykřičníky. Dodavatel uznal záměnu mapových souborů a navrhl nové přelepy. U názvu požádal o kontrolu, protože v jednom z podkladů našel obě varianty. Tuto část jsme neodmítli jen proto, že chyba přišla z jeho strany. Porovnali jsme historii schválení a zjistili, že poslední potvrzená verze skutečně nebyla v odeslané složce. Odpovědnost za jednotlivé rozdíly tedy nebyla totožná a naše další zpráva to otevřeně rozlišila. Závěrečná dohoda určovala, kdo dodá správný název, kdo připraví přelepy, kdy proběhne kontrola a kdo potvrdí převzetí. Krátké písemné shrnutí po telefonátu pomohlo oběma stranám ověřit, že mluví o stejné verzi. Profesní tón zde nebyl otázkou zdvořilých frází navíc. Spočíval v přesné evidenci, přiměřeném požadavku, ochotě opravit vlastní údaj a v jasném vymezení dalšího postupu.",
+      "duration_seconds": 217.17750566893423,
+      "slow_duration_seconds": 244.99501133786848,
+      "sha256": "0c664b2515bf6feaeb5275b4e7163b1ddea7ec4b010df522ca178d1df854a17a",
+      "slow_sha256": "efe86460260587619062f51764f54fb47c65a6166b37cd5a5abcea637eac8046"
+    },
+    {
+      "lesson_id": "B2-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--normal.mp3",
+      "slow_file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U08-L01--2026.10.23.1--text--p0",
+      "asset_id": "B2-U08-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Naše organizace objednala výrobu informačních panelů pro veřejnou výstavu. Podle potvrzeného návrhu měly obsahovat aktuální mapu a tři jazykové verze textu. Při převzetí jsme zjistili, že na dvou panelech zůstala starší mapa a u jednoho chyběla česká úprava názvu. Výstava měla začít za týden. Potřebovali jsme napsat zprávu, která přesně oddělí doložené rozdíly od odhadů jejich příčiny a umožní dodavateli navrhnout opravu.",
+      "start": 0,
+      "end": 36.76897959183673,
+      "slow_start": 0,
+      "slow_end": 41.71482993197279
+    },
+    {
+      "lesson_id": "B2-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--normal.mp3",
+      "slow_file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U08-L01--2026.10.23.1--text--s0",
+      "asset_id": "B2-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Naše organizace objednala výrobu informačních panelů pro veřejnou výstavu.",
+      "start": 0,
+      "end": 6.141678004535147,
+      "slow_start": 0,
+      "slow_end": 6.965986394557823
+    },
+    {
+      "lesson_id": "B2-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--normal.mp3",
+      "slow_file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U08-L01--2026.10.23.1--text--s1",
+      "asset_id": "B2-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Podle potvrzeného návrhu měly obsahovat aktuální mapu a tři jazykové verze textu.",
+      "start": 6.321678004535148,
+      "end": 13.519863945578232,
+      "slow_start": 7.1459863945578235,
+      "slow_end": 15.400680272108843
+    },
+    {
+      "lesson_id": "B2-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--normal.mp3",
+      "slow_file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U08-L01--2026.10.23.1--text--s2",
+      "asset_id": "B2-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Při převzetí jsme zjistili, že na dvou panelech zůstala starší mapa a u jednoho chyběla česká úprava názvu.",
+      "start": 13.699863945578231,
+      "end": 22.465396825396827,
+      "slow_start": 15.580680272108843,
+      "slow_end": 25.588480725623583
+    },
+    {
+      "lesson_id": "B2-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--normal.mp3",
+      "slow_file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U08-L01--2026.10.23.1--text--s3",
+      "asset_id": "B2-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 3,
+      "paragraph_index": 0,
+      "sentence_index": 3,
+      "text": "Výstava měla začít za týden.",
+      "start": 22.645396825396826,
+      "end": 25.15315192743764,
+      "slow_start": 25.768480725623583,
+      "slow_end": 28.682585034013606
+    },
+    {
+      "lesson_id": "B2-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--normal.mp3",
+      "slow_file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U08-L01--2026.10.23.1--text--s4",
+      "asset_id": "B2-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 4,
+      "paragraph_index": 0,
+      "sentence_index": 4,
+      "text": "Potřebovali jsme napsat zprávu, která přesně oddělí doložené rozdíly od odhadů jejich příčiny a umožní dodavateli navrhnout opravu.",
+      "start": 25.33315192743764,
+      "end": 36.76897959183673,
+      "slow_start": 28.862585034013605,
+      "slow_end": 41.71482993197279
+    },
+    {
+      "lesson_id": "B2-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--normal.mp3",
+      "slow_file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U08-L01--2026.10.23.1--text--p1",
+      "asset_id": "B2-U08-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "První reakce kolegy byla ostrá: chtěl napsat, že dodavatel naši zakázku odbyl. Takovou motivaci jsme ale nemohli prokázat. Mohlo dojít k záměně souborů nebo k chybě při předání podkladů. V konečné verzi jsme proto uvedli číslo zakázky, datum schválení návrhu a označení dotčených panelů. Fotografie a schválené soubory jsme přiložili odděleně a jasně pojmenovali, aby příjemce nemusel zdlouhavě hledat rozdíly.",
+      "start": 36.94897959183673,
+      "end": 73.24195011337868,
+      "slow_start": 41.89482993197279,
+      "slow_end": 82.85501133786848
+    },
+    {
+      "lesson_id": "B2-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--normal.mp3",
+      "slow_file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U08-L01--2026.10.23.1--text--s5",
+      "asset_id": "B2-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 5,
+      "paragraph_index": 1,
+      "sentence_index": 0,
+      "text": "První reakce kolegy byla ostrá: chtěl napsat, že dodavatel naši zakázku odbyl.",
+      "start": 36.94897959183673,
+      "end": 44.14716553287982,
+      "slow_start": 41.89482993197279,
+      "slow_end": 50.137913832199544
+    },
+    {
+      "lesson_id": "B2-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--normal.mp3",
+      "slow_file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U08-L01--2026.10.23.1--text--s6",
+      "asset_id": "B2-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 6,
+      "paragraph_index": 1,
+      "sentence_index": 1,
+      "text": "Takovou motivaci jsme ale nemohli prokázat.",
+      "start": 44.32716553287982,
+      "end": 48.088798185941044,
+      "slow_start": 50.317913832199544,
+      "slow_end": 54.53233560090703
+    },
+    {
+      "lesson_id": "B2-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--normal.mp3",
+      "slow_file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U08-L01--2026.10.23.1--text--s7",
+      "asset_id": "B2-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 7,
+      "paragraph_index": 1,
+      "sentence_index": 2,
+      "text": "Mohlo dojít k záměně souborů nebo k chybě při předání podkladů.",
+      "start": 48.268798185941044,
+      "end": 53.783537414965984,
+      "slow_start": 54.71233560090703,
+      "slow_end": 60.97011337868481
+    },
+    {
+      "lesson_id": "B2-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--normal.mp3",
+      "slow_file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U08-L01--2026.10.23.1--text--s8",
+      "asset_id": "B2-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 8,
+      "paragraph_index": 1,
+      "sentence_index": 3,
+      "text": "V konečné verzi jsme proto uvedli číslo zakázky, datum schválení návrhu a označení dotčených panelů.",
+      "start": 53.963537414965984,
+      "end": 62.53170068027211,
+      "slow_start": 61.15011337868481,
+      "slow_end": 70.7631746031746
+    },
+    {
+      "lesson_id": "B2-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--normal.mp3",
+      "slow_file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U08-L01--2026.10.23.1--text--s9",
+      "asset_id": "B2-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 9,
+      "paragraph_index": 1,
+      "sentence_index": 4,
+      "text": "Fotografie a schválené soubory jsme přiložili odděleně a jasně pojmenovali, aby příjemce nemusel zdlouhavě hledat rozdíly.",
+      "start": 62.71170068027211,
+      "end": 73.24195011337868,
+      "slow_start": 70.9431746031746,
+      "slow_end": 82.85501133786848
+    },
+    {
+      "lesson_id": "B2-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--normal.mp3",
+      "slow_file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U08-L01--2026.10.23.1--text--p2",
+      "asset_id": "B2-U08-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Hlavní požadavek zněl: „Prosíme o návrh způsobu nápravy a o potvrzení, zda lze opravené panely doručit do středy.“ Neprohlašovali jsme, že už víme, jaké technické řešení je nejlepší. Pro nás byla zásadní správnost obsahu a použití před zahájením výstavy. Dodavateli jsme zároveň nabídli možnost krátkého telefonátu, pokud by potřeboval upřesnit rozdíl mezi schválenou a dodanou verzí.",
+      "start": 73.42195011337868,
+      "end": 108.96603174603175,
+      "slow_start": 83.03501133786848,
+      "slow_end": 123.19986394557823
+    },
+    {
+      "lesson_id": "B2-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--normal.mp3",
+      "slow_file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U08-L01--2026.10.23.1--text--s10",
+      "asset_id": "B2-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 10,
+      "paragraph_index": 2,
+      "sentence_index": 0,
+      "text": "Hlavní požadavek zněl: „Prosíme o návrh způsobu nápravy a o potvrzení, zda lze opravené panely doručit do středy.“",
+      "start": 73.42195011337868,
+      "end": 83.82448979591837,
+      "slow_start": 83.03501133786848,
+      "slow_end": 94.56371882086168
+    },
+    {
+      "lesson_id": "B2-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--normal.mp3",
+      "slow_file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U08-L01--2026.10.23.1--text--s11",
+      "asset_id": "B2-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 11,
+      "paragraph_index": 2,
+      "sentence_index": 1,
+      "text": "Neprohlašovali jsme, že už víme, jaké technické řešení je nejlepší.",
+      "start": 84.00448979591837,
+      "end": 89.85591836734694,
+      "slow_start": 94.74371882086167,
+      "slow_end": 101.37301587301587
+    },
+    {
+      "lesson_id": "B2-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--normal.mp3",
+      "slow_file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U08-L01--2026.10.23.1--text--s12",
+      "asset_id": "B2-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 12,
+      "paragraph_index": 2,
+      "sentence_index": 2,
+      "text": "Pro nás byla zásadní správnost obsahu a použití před zahájením výstavy.",
+      "start": 90.03591836734694,
+      "end": 96.83936507936508,
+      "slow_start": 101.55301587301587,
+      "slow_end": 109.13433106575964
+    },
+    {
+      "lesson_id": "B2-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--normal.mp3",
+      "slow_file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U08-L01--2026.10.23.1--text--s13",
+      "asset_id": "B2-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 13,
+      "paragraph_index": 2,
+      "sentence_index": 3,
+      "text": "Dodavateli jsme zároveň nabídli možnost krátkého telefonátu, pokud by potřeboval upřesnit rozdíl mezi schválenou a dodanou verzí.",
+      "start": 97.01936507936507,
+      "end": 108.96603174603175,
+      "slow_start": 109.31433106575963,
+      "slow_end": 123.19986394557823
+    },
+    {
+      "lesson_id": "B2-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--normal.mp3",
+      "slow_file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U08-L01--2026.10.23.1--text--p3",
+      "asset_id": "B2-U08-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Zpráva obsahovala také rozumně formulovanou lhůtu pro odpověď. Požádali jsme o reakci do následujícího poledne a vysvětlili souvislost s instalací. Tato lhůta byla naším organizačním požadavkem, nikoli tvrzením o zákonné povinnosti. Pokud by ji dodavatel nemohl splnit, měl nám co nejdříve sdělit reálný termín. Chtěli jsme mít informace pro rozhodnutí, ne pouze vyvolat dojem naléhavosti mnoha vykřičníky.",
+      "start": 109.14603174603175,
+      "end": 145.07909297052154,
+      "slow_start": 123.37986394557824,
+      "slow_end": 163.9336961451247
+    },
+    {
+      "lesson_id": "B2-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--normal.mp3",
+      "slow_file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U08-L01--2026.10.23.1--text--s14",
+      "asset_id": "B2-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 14,
+      "paragraph_index": 3,
+      "sentence_index": 0,
+      "text": "Zpráva obsahovala také rozumně formulovanou lhůtu pro odpověď.",
+      "start": 109.14603174603175,
+      "end": 114.74204081632654,
+      "slow_start": 123.37986394557824,
+      "slow_end": 129.5795918367347
+    },
+    {
+      "lesson_id": "B2-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--normal.mp3",
+      "slow_file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U08-L01--2026.10.23.1--text--s15",
+      "asset_id": "B2-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 15,
+      "paragraph_index": 3,
+      "sentence_index": 1,
+      "text": "Požádali jsme o reakci do následujícího poledne a vysvětlili souvislost s instalací.",
+      "start": 114.92204081632653,
+      "end": 122.03895691609978,
+      "slow_start": 129.7595918367347,
+      "slow_end": 138.02589569160997
+    },
+    {
+      "lesson_id": "B2-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--normal.mp3",
+      "slow_file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U08-L01--2026.10.23.1--text--s16",
+      "asset_id": "B2-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 16,
+      "paragraph_index": 3,
+      "sentence_index": 2,
+      "text": "Tato lhůta byla naším organizačním požadavkem, nikoli tvrzením o zákonné povinnosti.",
+      "start": 122.21895691609977,
+      "end": 129.98603174603176,
+      "slow_start": 138.20589569160998,
+      "slow_end": 146.8669387755102
+    },
+    {
+      "lesson_id": "B2-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--normal.mp3",
+      "slow_file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U08-L01--2026.10.23.1--text--s17",
+      "asset_id": "B2-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 17,
+      "paragraph_index": 3,
+      "sentence_index": 3,
+      "text": "Pokud by ji dodavatel nemohl splnit, měl nám co nejdříve sdělit reálný termín.",
+      "start": 130.16603174603173,
+      "end": 137.06235827664398,
+      "slow_start": 147.0469387755102,
+      "slow_end": 154.95333333333335
+    },
+    {
+      "lesson_id": "B2-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--normal.mp3",
+      "slow_file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U08-L01--2026.10.23.1--text--s18",
+      "asset_id": "B2-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 18,
+      "paragraph_index": 3,
+      "sentence_index": 4,
+      "text": "Chtěli jsme mít informace pro rozhodnutí, ne pouze vyvolat dojem naléhavosti mnoha vykřičníky.",
+      "start": 137.24235827664398,
+      "end": 145.07909297052154,
+      "slow_start": 155.13333333333333,
+      "slow_end": 163.9336961451247
+    },
+    {
+      "lesson_id": "B2-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--normal.mp3",
+      "slow_file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U08-L01--2026.10.23.1--text--p4",
+      "asset_id": "B2-U08-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 4,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Dodavatel uznal záměnu mapových souborů a navrhl nové přelepy. U názvu požádal o kontrolu, protože v jednom z podkladů našel obě varianty. Tuto část jsme neodmítli jen proto, že chyba přišla z jeho strany. Porovnali jsme historii schválení a zjistili, že poslední potvrzená verze skutečně nebyla v odeslané složce. Odpovědnost za jednotlivé rozdíly tedy nebyla totožná a naše další zpráva to otevřeně rozlišila.",
+      "start": 145.25909297052155,
+      "end": 182.32993197278913,
+      "slow_start": 164.11369614512472,
+      "slow_end": 205.54988662131518
+    },
+    {
+      "lesson_id": "B2-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--normal.mp3",
+      "slow_file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U08-L01--2026.10.23.1--text--s19",
+      "asset_id": "B2-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 19,
+      "paragraph_index": 4,
+      "sentence_index": 0,
+      "text": "Dodavatel uznal záměnu mapových souborů a navrhl nové přelepy.",
+      "start": 145.25909297052155,
+      "end": 151.0524716553288,
+      "slow_start": 164.11369614512472,
+      "slow_end": 170.63850340136054
+    },
+    {
+      "lesson_id": "B2-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--normal.mp3",
+      "slow_file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U08-L01--2026.10.23.1--text--s20",
+      "asset_id": "B2-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 20,
+      "paragraph_index": 4,
+      "sentence_index": 1,
+      "text": "U názvu požádal o kontrolu, protože v jednom z podkladů našel obě varianty.",
+      "start": 151.2324716553288,
+      "end": 158.02430839002267,
+      "slow_start": 170.81850340136054,
+      "slow_end": 178.55074829931974
+    },
+    {
+      "lesson_id": "B2-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--normal.mp3",
+      "slow_file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U08-L01--2026.10.23.1--text--s21",
+      "asset_id": "B2-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 21,
+      "paragraph_index": 4,
+      "sentence_index": 2,
+      "text": "Tuto část jsme neodmítli jen proto, že chyba přišla z jeho strany.",
+      "start": 158.20430839002267,
+      "end": 163.77709750566893,
+      "slow_start": 178.7307482993197,
+      "slow_end": 184.95369614512472
+    },
+    {
+      "lesson_id": "B2-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--normal.mp3",
+      "slow_file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U08-L01--2026.10.23.1--text--s22",
+      "asset_id": "B2-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 22,
+      "paragraph_index": 4,
+      "sentence_index": 3,
+      "text": "Porovnali jsme historii schválení a zjistili, že poslední potvrzená verze skutečně nebyla v odeslané složce.",
+      "start": 163.95709750566894,
+      "end": 173.53532879818593,
+      "slow_start": 185.13369614512473,
+      "slow_end": 195.7219954648526
+    },
+    {
+      "lesson_id": "B2-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--normal.mp3",
+      "slow_file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U08-L01--2026.10.23.1--text--s23",
+      "asset_id": "B2-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 23,
+      "paragraph_index": 4,
+      "sentence_index": 4,
+      "text": "Odpovědnost za jednotlivé rozdíly tedy nebyla totožná a naše další zpráva to otevřeně rozlišila.",
+      "start": 173.71532879818594,
+      "end": 182.32993197278913,
+      "slow_start": 195.9019954648526,
+      "slow_end": 205.54988662131518
+    },
+    {
+      "lesson_id": "B2-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--normal.mp3",
+      "slow_file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U08-L01--2026.10.23.1--text--p5",
+      "asset_id": "B2-U08-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 5,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Závěrečná dohoda určovala, kdo dodá správný název, kdo připraví přelepy, kdy proběhne kontrola a kdo potvrdí převzetí. Krátké písemné shrnutí po telefonátu pomohlo oběma stranám ověřit, že mluví o stejné verzi. Profesní tón zde nebyl otázkou zdvořilých frází navíc. Spočíval v přesné evidenci, přiměřeném požadavku, ochotě opravit vlastní údaj a v jasném vymezení dalšího postupu.",
+      "start": 182.5099319727891,
+      "end": 216.99750566893425,
+      "slow_start": 205.7298866213152,
+      "slow_end": 244.81501133786847
+    },
+    {
+      "lesson_id": "B2-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--normal.mp3",
+      "slow_file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U08-L01--2026.10.23.1--text--s24",
+      "asset_id": "B2-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 24,
+      "paragraph_index": 5,
+      "sentence_index": 0,
+      "text": "Závěrečná dohoda určovala, kdo dodá správný název, kdo připraví přelepy, kdy proběhne kontrola a kdo potvrdí převzetí.",
+      "start": 182.5099319727891,
+      "end": 192.3784126984127,
+      "slow_start": 205.7298866213152,
+      "slow_end": 216.8754648526077
+    },
+    {
+      "lesson_id": "B2-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--normal.mp3",
+      "slow_file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U08-L01--2026.10.23.1--text--s25",
+      "asset_id": "B2-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 25,
+      "paragraph_index": 5,
+      "sentence_index": 1,
+      "text": "Krátké písemné shrnutí po telefonátu pomohlo oběma stranám ověřit, že mluví o stejné verzi.",
+      "start": 192.5584126984127,
+      "end": 200.6621768707483,
+      "slow_start": 217.0554648526077,
+      "slow_end": 226.32022675736962
+    },
+    {
+      "lesson_id": "B2-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--normal.mp3",
+      "slow_file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U08-L01--2026.10.23.1--text--s26",
+      "asset_id": "B2-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 26,
+      "paragraph_index": 5,
+      "sentence_index": 2,
+      "text": "Profesní tón zde nebyl otázkou zdvořilých frází navíc.",
+      "start": 200.8421768707483,
+      "end": 206.39174603174604,
+      "slow_start": 226.5002267573696,
+      "slow_end": 232.80444444444444
+    },
+    {
+      "lesson_id": "B2-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--normal.mp3",
+      "slow_file": "audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U08-L01--2026.10.23.1--text--s27",
+      "asset_id": "B2-U08-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 27,
+      "paragraph_index": 5,
+      "sentence_index": 3,
+      "text": "Spočíval v přesné evidenci, přiměřeném požadavku, ochotě opravit vlastní údaj a v jasném vymezení dalšího postupu.",
+      "start": 206.57174603174604,
+      "end": 216.99750566893425,
+      "slow_start": 232.98444444444445,
+      "slow_end": 244.81501133786847
+    },
+    {
+      "lesson_id": "B2-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U08-L01--2026.10.22.1--listening--e5c2207cc2--normal.mp3",
+      "slow_file": "audio/files/B2-U08-L01--2026.10.22.1--listening--e5c2207cc2--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U08-L01--2026.10.23.1--listening",
+      "role": "listening-full",
+      "index": 0,
+      "text": "U mapy chybu uznáváme a připravíme nový přelep. U názvu ale potřebujeme potvrdit poslední schválenou variantu. Jakmile ji obdržíme, pošleme náhled ke kontrole. Teprve po vašem potvrzení zadáme výrobu. Termín doručení upřesníme spolu s náhledem.",
+      "duration_seconds": 22.09981859410431,
+      "slow_duration_seconds": 24.816553287981858,
+      "sha256": "95b3af4359b2b25d462181ee89c6605e2b18a039a49176c945d63dbcd7c820f8",
+      "slow_sha256": "5ba6867d721cbb8c2d298695bf0676603a05627658687dba14366a0233619543"
+    },
+    {
+      "lesson_id": "B2-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U08-L01--2026.10.22.1--listening--e5c2207cc2--normal.mp3",
+      "slow_file": "audio/files/B2-U08-L01--2026.10.22.1--listening--e5c2207cc2--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U08-L01--2026.10.23.1--listening--p0",
+      "asset_id": "B2-U08-L01--2026.10.23.1--listening",
+      "role": "listening",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "U mapy chybu uznáváme a připravíme nový přelep. U názvu ale potřebujeme potvrdit poslední schválenou variantu. Jakmile ji obdržíme, pošleme náhled ke kontrole. Teprve po vašem potvrzení zadáme výrobu. Termín doručení upřesníme spolu s náhledem.",
+      "start": 0,
+      "end": 21.91981859410431,
+      "slow_start": 0,
+      "slow_end": 24.636553287981858
+    },
+    {
+      "lesson_id": "B2-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U08-L01--2026.10.22.1--vocabulary--32f3829c6c--normal.mp3",
+      "slow_file": "audio/files/B2-U08-L01--2026.10.22.1--vocabulary--32f3829c6c--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U08-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary-full",
+      "index": 0,
+      "text": "Prosíme o návrh způsobu nápravy. Uveďte číslo zakázky. Došlo k záměně souborů. Označili jsme dotčené panely.",
+      "duration_seconds": 10.739410430839003,
+      "slow_duration_seconds": 12.097777777777777,
+      "sha256": "5401f46515ced326efa7fe8fb125ffa8c4b253876e13a8ae7b328e21b78d9a4f",
+      "slow_sha256": "ad816fb27702126a9501ee800971f9d2da9d1063ee3f2f1b2d9d8efe0547066e"
+    },
+    {
+      "lesson_id": "B2-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U08-L01--2026.10.22.1--vocabulary--32f3829c6c--normal.mp3",
+      "slow_file": "audio/files/B2-U08-L01--2026.10.22.1--vocabulary--32f3829c6c--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U08-L01--2026.10.23.1--vocabulary--p0",
+      "asset_id": "B2-U08-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Prosíme o návrh způsobu nápravy.",
+      "start": 0,
+      "end": 3.1346938775510202,
+      "slow_start": 0,
+      "slow_end": 3.5874829931972787
+    },
+    {
+      "lesson_id": "B2-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U08-L01--2026.10.22.1--vocabulary--32f3829c6c--normal.mp3",
+      "slow_file": "audio/files/B2-U08-L01--2026.10.22.1--vocabulary--32f3829c6c--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U08-L01--2026.10.23.1--vocabulary--p1",
+      "asset_id": "B2-U08-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Uveďte číslo zakázky.",
+      "start": 3.3146938775510204,
+      "end": 5.381269841269841,
+      "slow_start": 3.767482993197279,
+      "slow_end": 6.147528344671202
+    },
+    {
+      "lesson_id": "B2-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U08-L01--2026.10.22.1--vocabulary--32f3829c6c--normal.mp3",
+      "slow_file": "audio/files/B2-U08-L01--2026.10.22.1--vocabulary--32f3829c6c--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U08-L01--2026.10.23.1--vocabulary--p2",
+      "asset_id": "B2-U08-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Došlo k záměně souborů.",
+      "start": 5.561269841269842,
+      "end": 7.84843537414966,
+      "slow_start": 6.327528344671202,
+      "slow_end": 9.009433106575964
+    },
+    {
+      "lesson_id": "B2-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U08-L01--2026.10.22.1--vocabulary--32f3829c6c--normal.mp3",
+      "slow_file": "audio/files/B2-U08-L01--2026.10.22.1--vocabulary--32f3829c6c--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U08-L01--2026.10.23.1--vocabulary--p3",
+      "asset_id": "B2-U08-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Označili jsme dotčené panely.",
+      "start": 8.02843537414966,
+      "end": 10.559410430839002,
+      "slow_start": 9.189433106575963,
+      "slow_end": 11.917777777777777
+    },
+    {
+      "lesson_id": "B2-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U08-L01--2026.10.22.1--exercises--dfef2228b6--normal.mp3",
+      "slow_file": "audio/files/B2-U08-L01--2026.10.22.1--exercises--dfef2228b6--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U08-L01--2026.10.23.1--exercises",
+      "role": "exercises-full",
+      "index": 0,
+      "text": "Pošleme náhled ke kontrole. Teprve po vašem potvrzení zadáme výrobu.",
+      "duration_seconds": 6.118548752834467,
+      "slow_duration_seconds": 7.117006802721089,
+      "sha256": "bc4b0854d71e3b4a6812c221917df36c2e882ddb7146441160c062b5706d7f1d",
+      "slow_sha256": "e8585bd99cb78ed2a47670adf1ad79ea5c5a15ea8f790558770c3f0f59c165f1"
+    },
+    {
+      "lesson_id": "B2-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U08-L01--2026.10.22.1--exercises--dfef2228b6--normal.mp3",
+      "slow_file": "audio/files/B2-U08-L01--2026.10.22.1--exercises--dfef2228b6--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U08-L01--2026.10.23.1--exercises--p0",
+      "asset_id": "B2-U08-L01--2026.10.23.1--exercises",
+      "role": "exercise",
+      "index": 0,
+      "exercise_id": "B2-U08-L01-E03",
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Pošleme náhled ke kontrole. Teprve po vašem potvrzení zadáme výrobu.",
+      "start": 0,
+      "end": 5.938548752834467,
+      "slow_start": 0,
+      "slow_end": 6.937006802721088
+    },
+    {
+      "lesson_id": "B2-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U08-L01--2026.10.22.1--contrasts--e0a5d1c3bb--normal.mp3",
+      "slow_file": "audio/files/B2-U08-L01--2026.10.22.1--contrasts--e0a5d1c3bb--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U08-L01--2026.10.23.1--contrasts",
+      "role": "contrasts-full",
+      "index": 0,
+      "text": "náhled. návrh.",
+      "duration_seconds": 1.8286167800453514,
+      "slow_duration_seconds": 1.991156462585034,
+      "sha256": "e5ca2488a7c97a6fe71c9cec7341a1cb216f0adaf3efbed20b1fc9875e15d17f",
+      "slow_sha256": "7d172db607ad9d4e858e2b0de1b5816dde93c1814f948f1388d51d701f013e65"
+    },
+    {
+      "lesson_id": "B2-U08-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U08-L01--2026.10.22.1--contrasts--e0a5d1c3bb--normal.mp3",
+      "slow_file": "audio/files/B2-U08-L01--2026.10.22.1--contrasts--e0a5d1c3bb--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U08-L01--2026.10.23.1--contrasts--p0",
+      "asset_id": "B2-U08-L01--2026.10.23.1--contrasts",
+      "role": "contrast",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "náhled. návrh.",
+      "start": 0,
+      "end": 1.6486167800453515,
+      "slow_start": 0,
+      "slow_end": 1.811156462585034
+    }
+  ]
+}

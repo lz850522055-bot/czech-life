@@ -1,0 +1,78 @@
+{
+  "id": "C1-U01-L01--2026.10.23.1--exercises",
+  "lesson_id": "C1-U01-L01",
+  "content_version": "2026.10.23.1",
+  "level": "C1",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Otevření podpoříme, pokud zůstanou některé prostory přístupné bez nákupu. Nežádáme, aby celý provoz hradilo město. Chceme však vědět, kdo splnění podmínky zkontroluje.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "C1-U01-L01-E06",
+      "parts": [
+        "Otevření podpoříme, pokud zůstanou některé prostory přístupné bez nákupu.",
+        "Nežádáme, aby celý provoz hradilo město.",
+        "Chceme však vědět, kdo splnění podmínky zkontroluje."
+      ]
+    }
+  ],
+  "text_sha256": "8ff5dc2c44e291608be3e9f97c3391c94a41bac697b8fba7ae375b62379ac4e4",
+  "source_file": "content/lessons/C1/C1-U01-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U01-L01--2026.10.22.1--exercises--8ff5dc2c44--normal.mp3",
+  "slow_file": "content/audio/files/C1-U01-L01--2026.10.22.1--exercises--8ff5dc2c44--slow.mp3",
+  "duration_seconds": 15.505260770975056,
+  "slow_duration_seconds": 17.792426303854874,
+  "cues": [
+    {
+      "text": "Otevření podpoříme, pokud zůstanou některé prostory přístupné bez nákupu. Nežádáme, aby celý provoz hradilo město. Chceme však vědět, kdo splnění podmínky zkontroluje.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "C1-U01-L01-E06",
+      "parts": [
+        "Otevření podpoříme, pokud zůstanou některé prostory přístupné bez nákupu.",
+        "Nežádáme, aby celý provoz hradilo město.",
+        "Chceme však vědět, kdo splnění podmínky zkontroluje."
+      ],
+      "start": 0.0,
+      "end": 15.325260770975056,
+      "sentences": [
+        {
+          "text": "Otevření podpoříme, pokud zůstanou některé prostory přístupné bez nákupu.",
+          "start": 0.0,
+          "end": 6.698956916099773,
+          "slow_start": 0.0,
+          "slow_end": 7.500045351473923
+        },
+        {
+          "text": "Nežádáme, aby celý provoz hradilo město.",
+          "start": 6.8789569160997734,
+          "end": 10.861179138321996,
+          "slow_start": 7.680045351473923,
+          "slow_end": 12.451746031746032
+        },
+        {
+          "text": "Chceme však vědět, kdo splnění podmínky zkontroluje.",
+          "start": 11.041179138321995,
+          "end": 15.325260770975056,
+          "slow_start": 12.631746031746031,
+          "slow_end": 17.612426303854875
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 17.612426303854875
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "a25f362cc96f0a5c0d1e108d44e002ddbe63b10c435391ba4ec7c431cf373d2a",
+    "slow": "8644d1ce4e9cdf48a8c9febf61307fe2154919598764a3c603510932b4de244b"
+  },
+  "reused_from_track_id": "C1-U01-L01--2026.10.22.1--exercises"
+}

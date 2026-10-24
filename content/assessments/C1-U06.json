@@ -1,0 +1,242 @@
+{
+  "id": "C1-U06-CHECK",
+  "kind": "unit",
+  "level": "C1",
+  "unit_id": "C1-U06",
+  "title_zh": "写一份能作决定的提案：新情境检验",
+  "version": "2026.10.22.1",
+  "unseen_text": [
+    {
+      "cs": "Sportovní spolek zvažuje nový rezervační systém. Oslovil pouze pravidelné hráče, kteří změnu většinou vítají. Správce navrhuje okamžitý přechod všech týmů. Jiná členka žádá nejprve zkoušku s možností telefonické rezervace pro lidi bez internetu.",
+      "zh": "体育社团只问了固定球员，管理员提议全员立即切换预约系统；另一成员要求先试用并保留无网络者电话渠道。"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "关键证据缺口是什么？",
+      "stimulus_cs": "",
+      "answer": "a",
+      "explanation_zh": "资料不足以支持所有人适用。",
+      "skill_ids": [
+        "reading"
+      ],
+      "knowledge_points": [
+        "c1-report-evidence",
+        "c1-passive-accountability"
+      ],
+      "error_category": "comprehension",
+      "options": [
+        {
+          "id": "a",
+          "text": "未覆盖不同使用条件的人"
+        },
+        {
+          "id": "b",
+          "text": "无人表示支持"
+        },
+        {
+          "id": "c",
+          "text": "新系统无法工作"
+        }
+      ],
+      "scoring_basis": "封闭题以答案核对；解析说明本题边界。",
+      "id": "C1-U06-CHECK-E01"
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "写三句试行建议，说明责任和检查对象。",
+      "stimulus_cs": "",
+      "answer": "Navrhuji zkoušku s jedním týmem. Správce bude sledovat úspěšné i nezdařené rezervace. Telefonická možnost zůstane zachována do vyhodnocení.",
+      "explanation_zh": "不预设失败，保留可访问性。",
+      "skill_ids": [
+        "writing"
+      ],
+      "knowledge_points": [
+        "c1-report-evidence",
+        "c1-passive-accountability"
+      ],
+      "error_category": "comprehension",
+      "rubric": [
+        "回应具体任务，信息不失真",
+        "逻辑有衔接，能说明证据与限制",
+        "语法与搭配基本准确，语域适合对象",
+        "能自主组织语言而非照读范文"
+      ],
+      "scoring_basis": "开放表达：示范不是唯一答案；依量规自评或人工评阅，未接受人工评阅时不自动判定能力达标。",
+      "id": "C1-U06-CHECK-E02"
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "回应“保留电话太麻烦”。",
+      "stimulus_cs": "",
+      "answer": "Jak velkou dodatečnou práci telefon představuje? Porovnejme ji s počtem lidí, kteří by jinak nemohli rezervovat.",
+      "explanation_zh": "将主观抱怨转换为可比较成本与影响。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "knowledge_points": [
+        "c1-report-evidence",
+        "c1-passive-accountability"
+      ],
+      "error_category": "comprehension",
+      "rubric": [
+        "回应具体任务，信息不失真",
+        "逻辑有衔接，能说明证据与限制",
+        "语法与搭配基本准确，语域适合对象",
+        "能自主组织语言而非照读范文"
+      ],
+      "scoring_basis": "开放表达：示范不是唯一答案；依量规自评或人工评阅，未接受人工评阅时不自动判定能力达标。",
+      "id": "C1-U06-CHECK-E03"
+    }
+  ],
+  "rubric": [
+    "理解未见材料中的主张及限定",
+    "主动表达时准确转述不同立场",
+    "区分事实、推断与建议",
+    "能针对误解调整解释方式"
+  ],
+  "remediation": [
+    {
+      "condition_zh": "误把可能性说成事实，或遗漏反方条件",
+      "lesson_ids": [
+        "C1-U06-L01"
+      ],
+      "action_zh": "重做信息定位与转述，标出每个判断的来源和语气词。"
+    },
+    {
+      "condition_zh": "表达卡住或只有单句结论",
+      "lesson_ids": [
+        "C1-U06-L01"
+      ],
+      "action_zh": "先列论点—依据—限制—行动四点，再换对象重录一次。"
+    }
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "C1-U06-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U06-CHECK--2026.10.22.1--text--df1116d762--normal.mp3",
+      "slow_file": "audio/files/C1-U06-CHECK--2026.10.22.1--text--df1116d762--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U06-CHECK--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Sportovní spolek zvažuje nový rezervační systém. Oslovil pouze pravidelné hráče, kteří změnu většinou vítají. Správce navrhuje okamžitý přechod všech týmů. Jiná členka žádá nejprve zkoušku s možností telefonické rezervace pro lidi bez internetu.",
+      "duration_seconds": 22.314557823129253,
+      "slow_duration_seconds": 25.100952380952382,
+      "sha256": "98966f8eade44b8687b69ca4fbf8029c6412739881517d30a39f786c63cfc387",
+      "slow_sha256": "39d4a70398f5bc5d2e7909031da1f4324a4f6dad04feba7e5b3b075bcfde438c"
+    },
+    {
+      "lesson_id": "C1-U06-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U06-CHECK--2026.10.22.1--text--df1116d762--normal.mp3",
+      "slow_file": "audio/files/C1-U06-CHECK--2026.10.22.1--text--df1116d762--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U06-CHECK--2026.10.22.1--text--p0",
+      "asset_id": "C1-U06-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Sportovní spolek zvažuje nový rezervační systém. Oslovil pouze pravidelné hráče, kteří změnu většinou vítají. Správce navrhuje okamžitý přechod všech týmů. Jiná členka žádá nejprve zkoušku s možností telefonické rezervace pro lidi bez internetu.",
+      "start": 0,
+      "end": 22.134557823129253,
+      "slow_start": 0,
+      "slow_end": 24.920952380952382
+    },
+    {
+      "lesson_id": "C1-U06-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U06-CHECK--2026.10.22.1--text--df1116d762--normal.mp3",
+      "slow_file": "audio/files/C1-U06-CHECK--2026.10.22.1--text--df1116d762--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U06-CHECK--2026.10.22.1--text--s0",
+      "asset_id": "C1-U06-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Sportovní spolek zvažuje nový rezervační systém.",
+      "start": 0,
+      "end": 4.31891156462585,
+      "slow_start": 0,
+      "slow_end": 4.818140589569161
+    },
+    {
+      "lesson_id": "C1-U06-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U06-CHECK--2026.10.22.1--text--df1116d762--normal.mp3",
+      "slow_file": "audio/files/C1-U06-CHECK--2026.10.22.1--text--df1116d762--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U06-CHECK--2026.10.22.1--text--s1",
+      "asset_id": "C1-U06-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Oslovil pouze pravidelné hráče, kteří změnu většinou vítají.",
+      "start": 4.498911564625851,
+      "end": 10.048480725623582,
+      "slow_start": 4.998140589569161,
+      "slow_end": 11.22108843537415
+    },
+    {
+      "lesson_id": "C1-U06-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U06-CHECK--2026.10.22.1--text--df1116d762--normal.mp3",
+      "slow_file": "audio/files/C1-U06-CHECK--2026.10.22.1--text--df1116d762--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U06-CHECK--2026.10.22.1--text--s2",
+      "asset_id": "C1-U06-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Správce navrhuje okamžitý přechod všech týmů.",
+      "start": 10.228480725623582,
+      "end": 14.26875283446712,
+      "slow_start": 11.401088435374149,
+      "slow_end": 15.859319727891156
+    },
+    {
+      "lesson_id": "C1-U06-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U06-CHECK--2026.10.22.1--text--df1116d762--normal.mp3",
+      "slow_file": "audio/files/C1-U06-CHECK--2026.10.22.1--text--df1116d762--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U06-CHECK--2026.10.22.1--text--s3",
+      "asset_id": "C1-U06-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 3,
+      "paragraph_index": 0,
+      "sentence_index": 3,
+      "text": "Jiná členka žádá nejprve zkoušku s možností telefonické rezervace pro lidi bez internetu.",
+      "start": 14.44875283446712,
+      "end": 22.134557823129253,
+      "slow_start": 16.039319727891158,
+      "slow_end": 24.920952380952382
+    }
+  ]
+}

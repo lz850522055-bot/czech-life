@@ -1,0 +1,1549 @@
+{
+  "id": "B2-U04-L01",
+  "level": "B2",
+  "unit_id": "B2-U04",
+  "order": 50,
+  "version": "2026.10.23.1",
+  "title_zh": "正式与日常语体",
+  "title_cs": "Stejná informace, jiný vztah",
+  "prerequisites": [
+    "B2-U03-L01"
+  ],
+  "can_do": [
+    "根据关系、目的和媒介选择表达",
+    "把口语消息改为正式但清楚的邮件",
+    "辨认标准语、常见口语与不适合正式文本的形式"
+  ],
+  "scene": "正式与日常语体",
+  "skills": [
+    "listening",
+    "speaking",
+    "reading",
+    "writing",
+    "interaction",
+    "mediation"
+  ],
+  "knowledge_points": [
+    "register-consistency",
+    "style-preserves-content"
+  ],
+  "intro_zh": "正式不是越长越好，熟悉也不等于可以省掉关键信息。同样的延期消息，要随对象调整称呼、语气和结构。",
+  "lesson_text": [
+    {
+      "id": "s01",
+      "cs": "V pátek jsme zjistili, že nestihneme dokončit podklady pro společný projekt. Obsah informace byl jednoduchý: potřebujeme jeden pracovní den navíc. Způsob sdělení se však lišil podle adresáta. Kolegovi, s nímž denně pracujeme, stačila krátká zpráva s jasným důvodem. Novému partnerovi jsme museli připomenout, kterého úkolu se změna týká, a výslovně požádat o souhlas s novým termínem.",
+      "zh": "周五发现资料需多一个工作日。事实简单，但传达因对象不同：熟悉同事可简短说明原因，新合作方需明确哪项工作并请求同意新时间。",
+      "note_zh": ""
+    },
+    {
+      "id": "s02",
+      "cs": "Kolegovi jsem napsal: „Ahoj, chybí nám ještě potvrzení od dodavatele. Můžeme ti podklady poslat v úterý místo pondělí? Jakmile odpověď dorazí, dám ti vědět.“ Věta byla neformální, ale nebyla neurčitá. Obsahovala problém, návrh i další krok. Přátelský tón tedy není omluvou pro to, abychom napsali pouze „nějak to pošleme později“ a nechali příjemce hádat, co to znamená.",
+      "zh": "给同事写：“嗨，还缺供应商确认。资料能周二而非周一给你吗？收到回复就告诉你。”非正式但清楚，含问题、提议、下一步。友好语气不等于可以只说“以后找机会发”。",
+      "note_zh": ""
+    },
+    {
+      "id": "s03",
+      "cs": "Partnerovi jsem zvolil jinou podobu: „Vážená paní Nováková, při dokončování podkladů k návrhu spolupráce čekáme na potvrzení jednoho technického údaje. Rádi bychom Vás proto požádali o posunutí termínu na úterý. Ostatní dohodnuté podmínky zůstávají beze změny. Prosím o informaci, zda je pro Vás nový termín přijatelný.“ Formálnost zde spočívala v přesnosti, respektu a úplném kontextu, nikoli ve zbytečně složitých výrazech.",
+      "zh": "给伙伴改正式称呼，说明合作方案资料等待一项技术信息确认，请求推至周二，其他约定不变，并问新时间是否接受。正式体现在准确尊重完整背景，不是堆复杂词。",
+      "note_zh": ""
+    },
+    {
+      "id": "s04",
+      "cs": "Při úpravě jsme rozlišovali také jazykové variety. V soukromé řeči můžeme slyšet tvary jako dobrej nebo bysme. Je užitečné jim rozumět, ale v pečlivě psaném pracovním e-mailu zvolíme dobrý a bychom. Neplatí přitom, že každé neformální vyjádření je nespisovné. Také jednoduchá věta „Děkuji za zprávu“ je standardní a hodí se do mnoha různých vztahů.",
+      "zh": "修改时区分变体。私人谈话可听到 dobrej、bysme，值得理解，但谨慎工作邮件写 dobrý、bychom。不能把所有非正式表达当不规范；“谢谢消息”简单且标准，适用多关系。",
+      "note_zh": ""
+    },
+    {
+      "id": "s05",
+      "cs": "Další rozdíl se týkal oslovování. S kolegou si tykáme, zatímco novému partnerovi vykáme. Smíšená zpráva, která začíná „Vážená paní“ a pokračuje „můžeš mi to poslat“, by bez zvláštního kontextu působila nesourodě. U neznámého člověka je bezpečnější vztah nepředjímat. Přechod k tykání má vycházet ze skutečné dohody, nikoli z domněnky, že mladší adresát si to automaticky přeje.",
+      "zh": "我们与同事互称你，与新伙伴敬称。开头“尊敬的女士”，随后用 můžeš 会不协调。对陌生人不预设关系；改称你应来自双方约定，不因对方年轻就自行判断。",
+      "note_zh": ""
+    },
+    {
+      "id": "s06",
+      "cs": "V obou verzích jsme zachovali stejné skutečnosti. Změna stylu nesměla proměnit žádost v oznámení ani čekání na informaci ve výmluvu na údajnou chybu dodavatele. Dobrá stylistická úprava mění způsob podání, ne odpovědnost nebo míru jistoty. Před odesláním jsme se proto ptali nejen „Zní to hezky?“, ale hlavně „Rozumí příjemce situaci a ví, na co má odpovědět?“",
+      "zh": "两版保留同事实。风格变化不可把请求改成已决定通知，也不可把等信息改成指控供应商犯错。润色改变表达方式，不改责任和确定程度。发前应问收件人是否懂情况、知道要答什么。",
+      "note_zh": ""
+    }
+  ],
+  "grammar": [
+    {
+      "id": "register-consistency",
+      "rule_zh": "先确定关系，再让称呼、人称和语气一致。",
+      "detail_zh": "tykání 用 ty/ti/tě 与第二人称单数；vykání 用 vy/vám/vás、第二人称复数，但对一个人过去分词按实际单数性别：Byla jste / Byl jste。正式信函 Vážená paní…；熟人可 Ahoj。正式程度受媒介与关系影响，Dobrý den 在工作邮件可得体。",
+      "examples": [
+        {
+          "cs": "Můžeš mi poslat podklady?",
+          "zh": "你能给我发资料吗？",
+          "note_zh": ""
+        },
+        {
+          "cs": "Můžete mi prosím poslat podklady?",
+          "zh": "您能给我发资料吗？",
+          "note_zh": ""
+        }
+      ],
+      "pitfalls": [
+        "敬称不能中途无依据切成你。"
+      ],
+      "exceptions": [
+        "具体关系由参与者决定，年龄本身不自动授权称你。"
+      ],
+      "term": "语域与称谓一致"
+    },
+    {
+      "id": "style-preserves-content",
+      "rule_zh": "换风格只改表达，不改事实和承诺。",
+      "detail_zh": "请求 posunutí termínu 与宣布 termín se posouvá 不同；Rádi bychom Vás požádali 仍等待同意。口语、标准语、非标准口语是不同维度，不把简洁等同粗鲁，也不把长句当正式的必要条件。",
+      "examples": [
+        {
+          "cs": "Prosím o souhlas s novým termínem.",
+          "zh": "请同意新的日期。",
+          "note_zh": ""
+        },
+        {
+          "cs": "Nový termín byl potvrzen.",
+          "zh": "新的日期已确认。",
+          "note_zh": ""
+        }
+      ],
+      "pitfalls": [
+        "不要通过润色把尚未获批写成已确认。"
+      ],
+      "exceptions": [
+        "引用对方口语可保留原形式，但自己的正式叙述应注明引用。"
+      ],
+      "term": "语体转换与事实保真"
+    }
+  ],
+  "vocabulary": [
+    {
+      "lemma": "adresát",
+      "pos": "名词，阳性有生",
+      "forms": "adresáta; adresáti",
+      "meaning_zh": "收件人、受众",
+      "collocation": "vztah k adresátovi",
+      "example_cs": "Zvažte vztah k adresátovi.",
+      "example_zh": "考虑与收件人关系。",
+      "confusion_zh": "不是发送者。"
+    },
+    {
+      "lemma": "přijatelný",
+      "pos": "形容词",
+      "forms": "přijatelná; přijatelné",
+      "meaning_zh": "可接受的",
+      "collocation": "přijatelný termín",
+      "example_cs": "Je termín pro Vás přijatelný?",
+      "example_zh": "该时间您能接受吗？",
+      "confusion_zh": "不是已接受。"
+    },
+    {
+      "lemma": "posunutí",
+      "pos": "名词，中性",
+      "forms": "posunutí",
+      "meaning_zh": "移动、推迟或提前",
+      "collocation": "posunutí termínu",
+      "example_cs": "Žádáme o posunutí termínu.",
+      "example_zh": "请求调整日期。",
+      "confusion_zh": "方向须具体说明，不总是延后。"
+    },
+    {
+      "lemma": "nesourodý",
+      "pos": "形容词",
+      "forms": "nesourodá; nesourodé",
+      "meaning_zh": "不协调的",
+      "collocation": "nesourodý styl",
+      "example_cs": "Smíšené oslovování působí nesourodě.",
+      "example_zh": "混称呼显得不协调。",
+      "confusion_zh": "不等于内容必然错误。"
+    }
+  ],
+  "listening": {
+    "script": [
+      {
+        "cs": "Ahoj, můžeme to přesunout na úterý? Ještě čekáme na jeden údaj. Jakmile ho dostanu, pošlu ti podklady. — Dobrý den, rádi bychom požádali o přesunutí termínu na úterý. Čekáme na potvrzení jednoho údaje. Prosím o sdělení, zda s navrženou změnou souhlasíte.",
+        "zh": "熟人版：能改周二吗，等一项数据，收到即发。正式版：请求推到周二，等数据确认，请告知是否同意。",
+        "note_zh": ""
+      }
+    ],
+    "focus_zh": "两版本事实相同，但两者都仍是请求，不能听成已决定。",
+    "source": "original"
+  },
+  "pronunciation": {
+    "focus_zh": "称呼后短停顿；礼貌并非所有音节拖长。把请求的核心 úterý 和 souhlasíte 清晰标出。",
+    "contrast": [
+      {
+        "a": "můžeš",
+        "b": "můžete",
+        "note_zh": "第二人称单数与敬称/复数不同。"
+      }
+    ],
+    "task_zh": "先听一句，再按意义块跟读；录下自然语速版本，对照长短元音、句中停顿和关键词。不要追求机械加速。"
+  },
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "正式版是否已获延期同意？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "是"
+        },
+        {
+          "id": "b",
+          "text": "否，仍在征求同意"
+        },
+        {
+          "id": "c",
+          "text": "已取消项目"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "zda… přijatelný 是询问可接受性。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U04-L01-E01",
+      "knowledge_points": [
+        "register-consistency",
+        "style-preserves-content"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "哪项说明正确？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "所有非正式都不规范"
+        },
+        {
+          "id": "b",
+          "text": "简洁也可以标准且礼貌"
+        },
+        {
+          "id": "c",
+          "text": "正式必须使用最长词"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "风格与规范性不是一条轴。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U04-L01-E02",
+      "knowledge_points": [
+        "register-consistency",
+        "style-preserves-content"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "听：两版共同待定事项？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "是否同意周二"
+        },
+        {
+          "id": "b",
+          "text": "任务已全部完成"
+        },
+        {
+          "id": "c",
+          "text": "对方生日"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "两版均请求调整。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "listening"
+      ],
+      "error_category": "comprehension",
+      "audio_text_cs": "Můžeme to přesunout na úterý? Prosím o sdělení, zda s navrženou změnou souhlasíte.",
+      "id": "B2-U04-L01-E03",
+      "knowledge_points": [
+        "register-consistency",
+        "style-preserves-content"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "把口语 bysme 改为正式标准形式。",
+      "stimulus_cs": "Rádi ___ požádali o změnu.",
+      "answer": "bychom",
+      "accepted_answers": [
+        "bychom"
+      ],
+      "explanation_zh": "正式使用 bychom。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "B2-U04-L01-E04",
+      "knowledge_points": [
+        "register-consistency",
+        "style-preserves-content"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "对单一女性敬称，填过去式。",
+      "stimulus_cs": "___ jste včera na schůzce?",
+      "answer": "Byla",
+      "accepted_answers": [
+        "Byla"
+      ],
+      "explanation_zh": "敬称助动词 jste，但分词按单一女性。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "B2-U04-L01-E05",
+      "knowledge_points": [
+        "register-consistency",
+        "style-preserves-content"
+      ]
+    },
+    {
+      "type": "correct",
+      "prompt_zh": "保持正式敬称，只改人称。",
+      "stimulus_cs": "Vážená paní, můžeš mi poslat podklady?",
+      "answer": "Vážená paní, můžete mi poslat podklady?",
+      "accepted_answers": [
+        "Vážená paní, můžete mi poslat podklady?"
+      ],
+      "explanation_zh": "称呼和后文同一关系。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "B2-U04-L01-E06",
+      "knowledge_points": [
+        "register-consistency",
+        "style-preserves-content"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt_zh": "先解释等待信息，再提出请求。",
+      "stimulus_cs": "proto prosíme o posunutí termínu. / Čekáme na potvrzení údaje,",
+      "options": [
+        "proto prosíme o posunutí termínu.",
+        "Čekáme na potvrzení údaje,"
+      ],
+      "answer": "Čekáme na potvrzení údaje, proto prosíme o posunutí termínu.",
+      "accepted_answers": [
+        "Čekáme na potvrzení údaje, proto prosíme o posunutí termínu."
+      ],
+      "explanation_zh": "理由连接请求，不改为已决定。",
+      "scoring_basis": "本题限定句首及语境；不据一个参考语序否定捷语所有语序变体。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "word_order",
+      "id": "B2-U04-L01-E07",
+      "knowledge_points": [
+        "register-consistency",
+        "style-preserves-content"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "哪种改写改变了承诺状态？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "把 Ahoj 改 Dobrý den"
+        },
+        {
+          "id": "b",
+          "text": "把请求延期改成已确认延期"
+        },
+        {
+          "id": "c",
+          "text": "把长句拆成两句"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "事实保真是语体改写底线。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U04-L01-E08",
+      "knowledge_points": [
+        "register-consistency",
+        "style-preserves-content"
+      ]
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "分别给熟悉同事和新客户口头表达相同延期请求。",
+      "stimulus_cs": "",
+      "answer": "Kolegovi: Můžeme podklady poslat v úterý? Ještě čekáme na údaj. Partnerovi: Bylo by možné posunout termín na úterý? Při dokončování potřebujeme ověřit jeden údaj.",
+      "accepted_answers": [],
+      "explanation_zh": "两个版本不改变理由、日期和未定状态。",
+      "rubric": [
+        "关系不同",
+        "事实相同",
+        "请求未冒充批准"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "error_category": "fluency",
+      "id": "B2-U04-L01-E09",
+      "knowledge_points": [
+        "register-consistency",
+        "style-preserves-content"
+      ]
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "把“Čau, nestíháme, dáme to nějak příští týden”改为可执行正式邮件。",
+      "stimulus_cs": "",
+      "answer": "Dobrý den, při dokončování podkladů potřebujeme doplnit jeden údaj. Rádi bychom Vás požádali o posunutí termínu na úterý. Prosím o potvrzení, zda Vám tento termín vyhovuje. Pokud ne, navrhněte prosím jiný postup. Děkuji.",
+      "accepted_answers": [],
+      "explanation_zh": "题目允许补充明确提议，但不得声称对方已答应。",
+      "rubric": [
+        "明确时间提议",
+        "清楚请求",
+        "人称语域一致"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U04-L01-E10",
+      "knowledge_points": [
+        "register-consistency",
+        "style-preserves-content"
+      ]
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "对方突然称你，你希望先保持敬称，礼貌表达。",
+      "stimulus_cs": "",
+      "answer": "Děkuji, zatím bych raději zůstal u vykání, pokud Vám to nevadí. O samotném návrhu samozřejmě můžeme dál mluvit otevřeně.",
+      "accepted_answers": [],
+      "explanation_zh": "表达个人边界，不推断对方恶意。",
+      "rubric": [
+        "清楚偏好",
+        "礼貌无攻击",
+        "工作继续"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "error_category": "fluency",
+      "id": "B2-U04-L01-E11",
+      "knowledge_points": [
+        "register-consistency",
+        "style-preserves-content"
+      ]
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "用中文解释“formal”并不要求甩锅或增加承诺。",
+      "stimulus_cs": "",
+      "answer": "正式版应补齐背景、称呼和具体请求，但不能把等数据写成供应商犯错，也不能把申请推期写成对方已批准。风格变化不能改事实。",
+      "accepted_answers": [],
+      "explanation_zh": "保留同事实不同说法原则。",
+      "rubric": [
+        "两风险",
+        "普通语言",
+        "不夸张礼仪规则"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U04-L01-E12",
+      "knowledge_points": [
+        "register-consistency",
+        "style-preserves-content"
+      ]
+    }
+  ],
+  "transfer_task": {
+    "prompt_zh": "为一条取消约会消息写熟人版与正式版；理由、日期和替代提议完全一致。",
+    "model_answer_cs": "Ahoj, v pátek nemohu přijít. Můžeme se setkat v pondělí? — Dobrý den, omlouvám se, v pátek se nemohu dostavit. Bylo by možné domluvit náhradní termín na pondělí?",
+    "rubric": [
+      "同事实",
+      "不同关系",
+      "替代仍待同意"
+    ]
+  },
+  "review_links": [
+    "B2-U03-L01"
+  ],
+  "sources": [
+    {
+      "source_id": "LANG01",
+      "url": "https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions",
+      "scope": "按实际能做的任务编排能力，不把CEFR说成官方捷语语法课表",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    },
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?id=850",
+      "scope": "正式信函称呼、呼格与结束语",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    },
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?id=575",
+      "scope": "条件式的人称形式、礼貌用途及过去条件式限制",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    }
+  ],
+  "content_status": "authored_crosschecked_not_native_reviewed",
+  "quality_notes": [
+    "原创课文和练习；规则按所列来源交叉核查，未获得捷语母语教师逐句审校。",
+    "本课级别属于教材编排判断，不代表官方能力认证。",
+    "听力为原创可合成脚本；真人多说话人、地区口音与录音自然度尚待现场核验。"
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "V pátek jsme zjistili, že nestihneme dokončit podklady pro společný projekt. Obsah informace byl jednoduchý: potřebujeme jeden pracovní den navíc. Způsob sdělení se však lišil podle adresáta. Kolegovi, s nímž denně pracujeme, stačila krátká zpráva s jasným důvodem. Novému partnerovi jsme museli připomenout, kterého úkolu se změna týká, a výslovně požádat o souhlas s novým termínem. Kolegovi jsem napsal: „Ahoj, chybí nám ještě potvrzení od dodavatele. Můžeme ti podklady poslat v úterý místo pondělí? Jakmile odpověď dorazí, dám ti vědět.“ Věta byla neformální, ale nebyla neurčitá. Obsahovala problém, návrh i další krok. Přátelský tón tedy není omluvou pro to, abychom napsali pouze „nějak to pošleme později“ a nechali příjemce hádat, co to znamená. Partnerovi jsem zvolil jinou podobu: „Vážená paní Nováková, při dokončování podkladů k návrhu spolupráce čekáme na potvrzení jednoho technického údaje. Rádi bychom Vás proto požádali o posunutí termínu na úterý. Ostatní dohodnuté podmínky zůstávají beze změny. Prosím o informaci, zda je pro Vás nový termín přijatelný.“ Formálnost zde spočívala v přesnosti, respektu a úplném kontextu, nikoli ve zbytečně složitých výrazech. Při úpravě jsme rozlišovali také jazykové variety. V soukromé řeči můžeme slyšet tvary jako dobrej nebo bysme. Je užitečné jim rozumět, ale v pečlivě psaném pracovním e-mailu zvolíme dobrý a bychom. Neplatí přitom, že každé neformální vyjádření je nespisovné. Také jednoduchá věta „Děkuji za zprávu“ je standardní a hodí se do mnoha různých vztahů. Další rozdíl se týkal oslovování. S kolegou si tykáme, zatímco novému partnerovi vykáme. Smíšená zpráva, která začíná „Vážená paní“ a pokračuje „můžeš mi to poslat“, by bez zvláštního kontextu působila nesourodě. U neznámého člověka je bezpečnější vztah nepředjímat. Přechod k tykání má vycházet ze skutečné dohody, nikoli z domněnky, že mladší adresát si to automaticky přeje. V obou verzích jsme zachovali stejné skutečnosti. Změna stylu nesměla proměnit žádost v oznámení ani čekání na informaci ve výmluvu na údajnou chybu dodavatele. Dobrá stylistická úprava mění způsob podání, ne odpovědnost nebo míru jistoty. Před odesláním jsme se proto ptali nejen „Zní to hezky?“, ale hlavně „Rozumí příjemce situaci a ví, na co má odpovědět?“",
+      "duration_seconds": 203.96544217687074,
+      "slow_duration_seconds": 229.58866213151927,
+      "sha256": "c5df526100253f188cbc180bbd9ad4562df603a09878c0c759aa1ff3eef24d29",
+      "slow_sha256": "3c5f6b7eeb57f800f4ebe97a2a3355ec2c3ce78da9c9a93a9f080b1f24a1b0e2"
+    },
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--text--p0",
+      "asset_id": "B2-U04-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "V pátek jsme zjistili, že nestihneme dokončit podklady pro společný projekt. Obsah informace byl jednoduchý: potřebujeme jeden pracovní den navíc. Způsob sdělení se však lišil podle adresáta. Kolegovi, s nímž denně pracujeme, stačila krátká zpráva s jasným důvodem. Novému partnerovi jsme museli připomenout, kterého úkolu se změna týká, a výslovně požádat o souhlas s novým termínem.",
+      "start": 0,
+      "end": 34.655963718820864,
+      "slow_start": 0,
+      "slow_end": 38.6962358276644
+    },
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--text--s0",
+      "asset_id": "B2-U04-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "V pátek jsme zjistili, že nestihneme dokončit podklady pro společný projekt.",
+      "start": 0,
+      "end": 5.909478458049887,
+      "slow_start": 0,
+      "slow_end": 6.466757369614513
+    },
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--text--s1",
+      "asset_id": "B2-U04-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Obsah informace byl jednoduchý: potřebujeme jeden pracovní den navíc.",
+      "start": 6.089478458049887,
+      "end": 12.463356009070294,
+      "slow_start": 6.646757369614512,
+      "slow_end": 13.879773242630385
+    },
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--text--s2",
+      "asset_id": "B2-U04-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Způsob sdělení se však lišil podle adresáta.",
+      "start": 12.643356009070295,
+      "end": 16.98548752834467,
+      "slow_start": 14.059773242630385,
+      "slow_end": 19.00562358276644
+    },
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--text--s3",
+      "asset_id": "B2-U04-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 3,
+      "paragraph_index": 0,
+      "sentence_index": 3,
+      "text": "Kolegovi, s nímž denně pracujeme, stačila krátká zpráva s jasným důvodem.",
+      "start": 17.16548752834467,
+      "end": 23.759954648526076,
+      "slow_start": 19.18562358276644,
+      "slow_end": 26.766938775510205
+    },
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--text--s4",
+      "asset_id": "B2-U04-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 4,
+      "paragraph_index": 0,
+      "sentence_index": 4,
+      "text": "Novému partnerovi jsme museli připomenout, kterého úkolu se změna týká, a výslovně požádat o souhlas s novým termínem.",
+      "start": 23.939954648526076,
+      "end": 34.655963718820864,
+      "slow_start": 26.946938775510205,
+      "slow_end": 38.6962358276644
+    },
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--text--p1",
+      "asset_id": "B2-U04-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Kolegovi jsem napsal: „Ahoj, chybí nám ještě potvrzení od dodavatele. Můžeme ti podklady poslat v úterý místo pondělí? Jakmile odpověď dorazí, dám ti vědět.“ Věta byla neformální, ale nebyla neurčitá. Obsahovala problém, návrh i další krok. Přátelský tón tedy není omluvou pro to, abychom napsali pouze „nějak to pošleme později“ a nechali příjemce hádat, co to znamená.",
+      "start": 34.835963718820864,
+      "end": 68.68507936507936,
+      "slow_start": 38.8762358276644,
+      "slow_end": 76.8701133786848
+    },
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--text--s5",
+      "asset_id": "B2-U04-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 5,
+      "paragraph_index": 1,
+      "sentence_index": 0,
+      "text": "Kolegovi jsem napsal: „Ahoj, chybí nám ještě potvrzení od dodavatele.",
+      "start": 34.835963718820864,
+      "end": 40.72222222222222,
+      "slow_start": 38.8762358276644,
+      "slow_end": 45.551972789115645
+    },
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--text--s6",
+      "asset_id": "B2-U04-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 6,
+      "paragraph_index": 1,
+      "sentence_index": 1,
+      "text": "Můžeme ti podklady poslat v úterý místo pondělí?",
+      "start": 40.90222222222222,
+      "end": 45.1514739229025,
+      "slow_start": 45.731972789115645,
+      "slow_end": 50.4572335600907
+    },
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--text--s7",
+      "asset_id": "B2-U04-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 7,
+      "paragraph_index": 1,
+      "sentence_index": 2,
+      "text": "Jakmile odpověď dorazí, dám ti vědět.“",
+      "start": 45.3314739229025,
+      "end": 48.814467120181405,
+      "slow_start": 50.637233560090706,
+      "slow_end": 54.573015873015876
+    },
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--text--s8",
+      "asset_id": "B2-U04-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 8,
+      "paragraph_index": 1,
+      "sentence_index": 3,
+      "text": "Věta byla neformální, ale nebyla neurčitá.",
+      "start": 48.994467120181405,
+      "end": 53.29015873015873,
+      "slow_start": 54.753015873015876,
+      "slow_end": 59.6756462585034
+    },
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--text--s9",
+      "asset_id": "B2-U04-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 9,
+      "paragraph_index": 1,
+      "sentence_index": 4,
+      "text": "Obsahovala problém, návrh i další krok.",
+      "start": 53.47015873015873,
+      "end": 57.12730158730159,
+      "slow_start": 59.8556462585034,
+      "slow_end": 63.91913832199546
+    },
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--text--s10",
+      "asset_id": "B2-U04-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 10,
+      "paragraph_index": 1,
+      "sentence_index": 5,
+      "text": "Přátelský tón tedy není omluvou pro to, abychom napsali pouze „nějak to pošleme později“ a nechali příjemce hádat, co to znamená.",
+      "start": 57.30730158730159,
+      "end": 68.68507936507936,
+      "slow_start": 64.09913832199547,
+      "slow_end": 76.8701133786848
+    },
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--text--p2",
+      "asset_id": "B2-U04-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Partnerovi jsem zvolil jinou podobu: „Vážená paní Nováková, při dokončování podkladů k návrhu spolupráce čekáme na potvrzení jednoho technického údaje. Rádi bychom Vás proto požádali o posunutí termínu na úterý. Ostatní dohodnuté podmínky zůstávají beze změny. Prosím o informaci, zda je pro Vás nový termín přijatelný.“ Formálnost zde spočívala v přesnosti, respektu a úplném kontextu, nikoli ve zbytečně složitých výrazech.",
+      "start": 68.86507936507937,
+      "end": 107.71224489795918,
+      "slow_start": 77.05011337868481,
+      "slow_end": 121.02888888888889
+    },
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--text--s11",
+      "asset_id": "B2-U04-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 11,
+      "paragraph_index": 2,
+      "sentence_index": 0,
+      "text": "Partnerovi jsem zvolil jinou podobu: „Vážená paní Nováková, při dokončování podkladů k návrhu spolupráce čekáme na potvrzení jednoho technického údaje.",
+      "start": 68.86507936507937,
+      "end": 82.5184126984127,
+      "slow_start": 77.05011337868481,
+      "slow_end": 92.67714285714285
+    },
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--text--s12",
+      "asset_id": "B2-U04-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 12,
+      "paragraph_index": 2,
+      "sentence_index": 1,
+      "text": "Rádi bychom Vás proto požádali o posunutí termínu na úterý.",
+      "start": 82.6984126984127,
+      "end": 88.12027210884354,
+      "slow_start": 92.85714285714286,
+      "slow_end": 99.23102040816326
+    },
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--text--s13",
+      "asset_id": "B2-U04-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 13,
+      "paragraph_index": 2,
+      "sentence_index": 2,
+      "text": "Ostatní dohodnuté podmínky zůstávají beze změny.",
+      "start": 88.30027210884354,
+      "end": 92.56113378684807,
+      "slow_start": 99.41102040816327,
+      "slow_end": 104.15950113378685
+    },
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--text--s14",
+      "asset_id": "B2-U04-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 14,
+      "paragraph_index": 2,
+      "sentence_index": 3,
+      "text": "Prosím o informaci, zda je pro Vás nový termín přijatelný.“",
+      "start": 92.74113378684807,
+      "end": 98.09333333333333,
+      "slow_start": 104.33950113378685,
+      "slow_end": 110.41151927437642
+    },
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--text--s15",
+      "asset_id": "B2-U04-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 15,
+      "paragraph_index": 2,
+      "sentence_index": 4,
+      "text": "Formálnost zde spočívala v přesnosti, respektu a úplném kontextu, nikoli ve zbytečně složitých výrazech.",
+      "start": 98.27333333333333,
+      "end": 107.71224489795918,
+      "slow_start": 110.59151927437642,
+      "slow_end": 121.02888888888889
+    },
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--text--p3",
+      "asset_id": "B2-U04-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Při úpravě jsme rozlišovali také jazykové variety. V soukromé řeči můžeme slyšet tvary jako dobrej nebo bysme. Je užitečné jim rozumět, ale v pečlivě psaném pracovním e-mailu zvolíme dobrý a bychom. Neplatí přitom, že každé neformální vyjádření je nespisovné. Také jednoduchá věta „Děkuji za zprávu“ je standardní a hodí se do mnoha různých vztahů.",
+      "start": 107.89224489795919,
+      "end": 137.70684807256237,
+      "slow_start": 121.2088888888889,
+      "slow_end": 154.95927437641723
+    },
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--text--s16",
+      "asset_id": "B2-U04-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 16,
+      "paragraph_index": 3,
+      "sentence_index": 0,
+      "text": "Při úpravě jsme rozlišovali také jazykové variety.",
+      "start": 107.89224489795919,
+      "end": 112.0021768707483,
+      "slow_start": 121.2088888888889,
+      "slow_end": 125.980589569161
+    },
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--text--s17",
+      "asset_id": "B2-U04-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 17,
+      "paragraph_index": 3,
+      "sentence_index": 1,
+      "text": "V soukromé řeči můžeme slyšet tvary jako dobrej nebo bysme.",
+      "start": 112.1821768707483,
+      "end": 116.95387755102041,
+      "slow_start": 126.160589569161,
+      "slow_end": 131.66371882086167
+    },
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--text--s18",
+      "asset_id": "B2-U04-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 18,
+      "paragraph_index": 3,
+      "sentence_index": 2,
+      "text": "Je užitečné jim rozumět, ale v pečlivě psaném pracovním e-mailu zvolíme dobrý a bychom.",
+      "start": 117.1338775510204,
+      "end": 125.06349206349206,
+      "slow_start": 131.84371882086168,
+      "slow_end": 140.84145124716554
+    },
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--text--s19",
+      "asset_id": "B2-U04-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 19,
+      "paragraph_index": 3,
+      "sentence_index": 3,
+      "text": "Neplatí přitom, že každé neformální vyjádření je nespisovné.",
+      "start": 125.24349206349207,
+      "end": 130.61891156462585,
+      "slow_start": 141.02145124716554,
+      "slow_end": 146.97736961451247
+    },
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--text--s20",
+      "asset_id": "B2-U04-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 20,
+      "paragraph_index": 3,
+      "sentence_index": 4,
+      "text": "Také jednoduchá věta „Děkuji za zprávu“ je standardní a hodí se do mnoha různých vztahů.",
+      "start": 130.79891156462585,
+      "end": 137.70684807256237,
+      "slow_start": 147.15736961451248,
+      "slow_end": 154.95927437641723
+    },
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--text--p4",
+      "asset_id": "B2-U04-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 4,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Další rozdíl se týkal oslovování. S kolegou si tykáme, zatímco novému partnerovi vykáme. Smíšená zpráva, která začíná „Vážená paní“ a pokračuje „můžeš mi to poslat“, by bez zvláštního kontextu působila nesourodě. U neznámého člověka je bezpečnější vztah nepředjímat. Přechod k tykání má vycházet ze skutečné dohody, nikoli z domněnky, že mladší adresát si to automaticky přeje.",
+      "start": 137.88684807256234,
+      "end": 170.7897052154195,
+      "slow_start": 155.13927437641723,
+      "slow_end": 192.18689342403627
+    },
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--text--s21",
+      "asset_id": "B2-U04-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 21,
+      "paragraph_index": 4,
+      "sentence_index": 0,
+      "text": "Další rozdíl se týkal oslovování.",
+      "start": 137.88684807256234,
+      "end": 141.16086167800452,
+      "slow_start": 155.13927437641723,
+      "slow_end": 158.84285714285716
+    },
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--text--s22",
+      "asset_id": "B2-U04-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 22,
+      "paragraph_index": 4,
+      "sentence_index": 1,
+      "text": "S kolegou si tykáme, zatímco novému partnerovi vykáme.",
+      "start": 141.34086167800453,
+      "end": 145.8107029478458,
+      "slow_start": 159.02285714285713,
+      "slow_end": 164.2473469387755
+    },
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--text--s23",
+      "asset_id": "B2-U04-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 23,
+      "paragraph_index": 4,
+      "sentence_index": 2,
+      "text": "Smíšená zpráva, která začíná „Vážená paní“ a pokračuje „můžeš mi to poslat“, by bez zvláštního kontextu působila nesourodě.",
+      "start": 145.99070294784582,
+      "end": 156.86925170068028,
+      "slow_start": 164.42734693877551,
+      "slow_end": 176.6178231292517
+    },
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--text--s24",
+      "asset_id": "B2-U04-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 24,
+      "paragraph_index": 4,
+      "sentence_index": 3,
+      "text": "U neznámého člověka je bezpečnější vztah nepředjímat.",
+      "start": 157.04925170068026,
+      "end": 161.44943310657595,
+      "slow_start": 176.7978231292517,
+      "slow_end": 181.81333333333333
+    },
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--text--s25",
+      "asset_id": "B2-U04-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 25,
+      "paragraph_index": 4,
+      "sentence_index": 4,
+      "text": "Přechod k tykání má vycházet ze skutečné dohody, nikoli z domněnky, že mladší adresát si to automaticky přeje.",
+      "start": 161.62943310657596,
+      "end": 170.7897052154195,
+      "slow_start": 181.99333333333334,
+      "slow_end": 192.18689342403627
+    },
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--text--p5",
+      "asset_id": "B2-U04-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 5,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "V obou verzích jsme zachovali stejné skutečnosti. Změna stylu nesměla proměnit žádost v oznámení ani čekání na informaci ve výmluvu na údajnou chybu dodavatele. Dobrá stylistická úprava mění způsob podání, ne odpovědnost nebo míru jistoty. Před odesláním jsme se proto ptali nejen „Zní to hezky?“, ale hlavně „Rozumí příjemce situaci a ví, na co má odpovědět?“",
+      "start": 170.9697052154195,
+      "end": 203.78544217687076,
+      "slow_start": 192.36689342403628,
+      "slow_end": 229.40866213151926
+    },
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--text--s26",
+      "asset_id": "B2-U04-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 26,
+      "paragraph_index": 5,
+      "sentence_index": 0,
+      "text": "V obou verzích jsme zachovali stejné skutečnosti.",
+      "start": 170.9697052154195,
+      "end": 175.09124716553288,
+      "slow_start": 192.36689342403628,
+      "slow_end": 197.02249433106576
+    },
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--text--s27",
+      "asset_id": "B2-U04-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 27,
+      "paragraph_index": 5,
+      "sentence_index": 1,
+      "text": "Změna stylu nesměla proměnit žádost v oznámení ani čekání na informaci ve výmluvu na údajnou chybu dodavatele.",
+      "start": 175.27124716553288,
+      "end": 185.40675736961452,
+      "slow_start": 197.20249433106576,
+      "slow_end": 208.87052154195013
+    },
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--text--s28",
+      "asset_id": "B2-U04-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 28,
+      "paragraph_index": 5,
+      "sentence_index": 2,
+      "text": "Dobrá stylistická úprava mění způsob podání, ne odpovědnost nebo míru jistoty.",
+      "start": 185.5867573696145,
+      "end": 193.34222222222223,
+      "slow_start": 209.0505215419501,
+      "slow_end": 217.9089342403628
+    },
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.23.1--text--4515fa8ca7--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--text--s29",
+      "asset_id": "B2-U04-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 29,
+      "paragraph_index": 5,
+      "sentence_index": 3,
+      "text": "Před odesláním jsme se proto ptali nejen „Zní to hezky?“, ale hlavně „Rozumí příjemce situaci a ví, na co má odpovědět?“",
+      "start": 193.5222222222222,
+      "end": 203.78544217687076,
+      "slow_start": 218.08893424036282,
+      "slow_end": 229.40866213151926
+    },
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.22.1--listening--480deb8907--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.22.1--listening--480deb8907--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--listening",
+      "role": "listening-full",
+      "index": 0,
+      "text": "Ahoj, můžeme to přesunout na úterý? Ještě čekáme na jeden údaj. Jakmile ho dostanu, pošlu ti podklady. — Dobrý den, rádi bychom požádali o přesunutí termínu na úterý. Čekáme na potvrzení jednoho údaje. Prosím o sdělení, zda s navrženou změnou souhlasíte.",
+      "duration_seconds": 23.40013605442177,
+      "slow_duration_seconds": 26.325850340136054,
+      "sha256": "b3d63f62582be6b9716b08d255153dd8ff65097c730b4d2b52c6f40b44e4f56f",
+      "slow_sha256": "f5f87925ba863da824cc91d73b2a5abb0279c1fc6645aef974cc972928ade1ea"
+    },
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.22.1--listening--480deb8907--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.22.1--listening--480deb8907--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--listening--p0",
+      "asset_id": "B2-U04-L01--2026.10.23.1--listening",
+      "role": "listening",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Ahoj, můžeme to přesunout na úterý? Ještě čekáme na jeden údaj. Jakmile ho dostanu, pošlu ti podklady. — Dobrý den, rádi bychom požádali o přesunutí termínu na úterý. Čekáme na potvrzení jednoho údaje. Prosím o sdělení, zda s navrženou změnou souhlasíte.",
+      "start": 0,
+      "end": 23.22013605442177,
+      "slow_start": 0,
+      "slow_end": 26.145850340136054
+    },
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.22.1--vocabulary--f77d44c69e--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.22.1--vocabulary--f77d44c69e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary-full",
+      "index": 0,
+      "text": "Zvažte vztah k adresátovi. Je termín pro Vás přijatelný? Žádáme o posunutí termínu. Smíšené oslovování působí nesourodě.",
+      "duration_seconds": 12.202267573696146,
+      "slow_duration_seconds": 13.746394557823129,
+      "sha256": "c13a3963622613fc68c0a6b5b93b0ceacca1a5d72986dfe0859045ad59d08a9e",
+      "slow_sha256": "87b985c077643513e8f57cdaed4f1accb6d87c75e35c6677f2e8062067eea2ae"
+    },
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.22.1--vocabulary--f77d44c69e--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.22.1--vocabulary--f77d44c69e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--vocabulary--p0",
+      "asset_id": "B2-U04-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Zvažte vztah k adresátovi.",
+      "start": 0,
+      "end": 2.414875283446712,
+      "slow_start": 0,
+      "slow_end": 2.705124716553288
+    },
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.22.1--vocabulary--f77d44c69e--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.22.1--vocabulary--f77d44c69e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--vocabulary--p1",
+      "asset_id": "B2-U04-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Je termín pro Vás přijatelný?",
+      "start": 2.594875283446712,
+      "end": 5.1722902494331064,
+      "slow_start": 2.885124716553288,
+      "slow_end": 5.892108843537415
+    },
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.22.1--vocabulary--f77d44c69e--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.22.1--vocabulary--f77d44c69e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--vocabulary--p2",
+      "asset_id": "B2-U04-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Žádáme o posunutí termínu.",
+      "start": 5.352290249433106,
+      "end": 8.11546485260771,
+      "slow_start": 6.072108843537415,
+      "slow_end": 9.160362811791384
+    },
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.22.1--vocabulary--f77d44c69e--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.22.1--vocabulary--f77d44c69e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--vocabulary--p3",
+      "asset_id": "B2-U04-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Smíšené oslovování působí nesourodě.",
+      "start": 8.29546485260771,
+      "end": 12.022267573696146,
+      "slow_start": 9.340362811791383,
+      "slow_end": 13.566394557823129
+    },
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.22.1--exercises--9b563e9c6d--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.22.1--exercises--9b563e9c6d--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--exercises",
+      "role": "exercises-full",
+      "index": 0,
+      "text": "Můžeme to přesunout na úterý? Prosím o sdělení, zda s navrženou změnou souhlasíte.",
+      "duration_seconds": 8.19673469387755,
+      "slow_duration_seconds": 9.346122448979592,
+      "sha256": "9eaedb7cacd80f12058eaf620a047571b6e4bc9d838e6c2c7bc858f6a2c54c94",
+      "slow_sha256": "b15462b860d606cdfce540550d9bdee7fc2797abc24d8812ccb19259246bd473"
+    },
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.22.1--exercises--9b563e9c6d--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.22.1--exercises--9b563e9c6d--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--exercises--p0",
+      "asset_id": "B2-U04-L01--2026.10.23.1--exercises",
+      "role": "exercise",
+      "index": 0,
+      "exercise_id": "B2-U04-L01-E03",
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Můžeme to přesunout na úterý? Prosím o sdělení, zda s navrženou změnou souhlasíte.",
+      "start": 0,
+      "end": 8.01673469387755,
+      "slow_start": 0,
+      "slow_end": 9.166122448979593
+    },
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.22.1--contrasts--4c806bf92b--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.22.1--contrasts--4c806bf92b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--contrasts",
+      "role": "contrasts-full",
+      "index": 0,
+      "text": "můžeš. můžete.",
+      "duration_seconds": 1.7705668934240364,
+      "slow_duration_seconds": 1.9679365079365079,
+      "sha256": "46a1532fd0ad08f62dc88aa73739bffbdf6ef347f442237b9fd0170ea6aa3d18",
+      "slow_sha256": "3242be901897a07a52458e86479cbb73b4a8ae84bd009f472e7733f21b0ff955"
+    },
+    {
+      "lesson_id": "B2-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U04-L01--2026.10.22.1--contrasts--4c806bf92b--normal.mp3",
+      "slow_file": "audio/files/B2-U04-L01--2026.10.22.1--contrasts--4c806bf92b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U04-L01--2026.10.23.1--contrasts--p0",
+      "asset_id": "B2-U04-L01--2026.10.23.1--contrasts",
+      "role": "contrast",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "můžeš. můžete.",
+      "start": 0,
+      "end": 1.5905668934240362,
+      "slow_start": 0,
+      "slow_end": 1.787936507936508
+    }
+  ]
+}

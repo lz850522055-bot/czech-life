@@ -1,0 +1,173 @@
+{
+  "id": "C1-U04-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "C1-U04-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Předlohu pečlivě uložíme.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Předlohu pečlivě uložíme."
+      ]
+    },
+    {
+      "text": "Tento údaj není ověřený.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Tento údaj není ověřený."
+      ]
+    },
+    {
+      "text": "Spolek vede evidenci snímků.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Spolek vede evidenci snímků."
+      ]
+    },
+    {
+      "text": "Nejprve vymezíme pojem.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Nejprve vymezíme pojem."
+      ]
+    },
+    {
+      "text": "Oprávnění ověřte zvlášť.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Oprávnění ověřte zvlášť."
+      ]
+    }
+  ],
+  "text_sha256": "782cb24b04c7e80610b2f0221ff66a778a696e62e9e829ddc4ae99bc6e4caaf0",
+  "source_file": "content/lessons/C1/C1-U04-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U04-L01--2026.10.22.1--vocabulary--782cb24b04--normal.mp3",
+  "slow_file": "content/audio/files/C1-U04-L01--2026.10.22.1--vocabulary--782cb24b04--slow.mp3",
+  "duration_seconds": 12.951156462585034,
+  "slow_duration_seconds": 14.530113378684808,
+  "cues": [
+    {
+      "text": "Předlohu pečlivě uložíme.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Předlohu pečlivě uložíme."
+      ],
+      "start": 0.0,
+      "end": 2.078185941043084,
+      "sentences": [
+        {
+          "text": "Předlohu pečlivě uložíme.",
+          "start": 0.0,
+          "end": 2.078185941043084,
+          "slow_start": 0.0,
+          "slow_end": 2.36843537414966
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.36843537414966
+    },
+    {
+      "text": "Tento údaj není ověřený.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Tento údaj není ověřený."
+      ],
+      "start": 2.258185941043084,
+      "end": 4.858820861678004,
+      "sentences": [
+        {
+          "text": "Tento údaj není ověřený.",
+          "start": 2.258185941043084,
+          "end": 4.858820861678004,
+          "slow_start": 2.5484353741496597,
+          "slow_end": 5.485759637188209
+        }
+      ],
+      "slow_start": 2.5484353741496597,
+      "slow_end": 5.485759637188209
+    },
+    {
+      "text": "Spolek vede evidenci snímků.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Spolek vede evidenci snímků."
+      ],
+      "start": 5.038820861678005,
+      "end": 7.7903854875283445,
+      "sentences": [
+        {
+          "text": "Spolek vede evidenci snímků.",
+          "start": 5.038820861678005,
+          "end": 7.7903854875283445,
+          "slow_start": 5.665759637188208,
+          "slow_end": 8.777233560090703
+        }
+      ],
+      "slow_start": 5.665759637188208,
+      "slow_end": 8.777233560090703
+    },
+    {
+      "text": "Nejprve vymezíme pojem.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Nejprve vymezíme pojem."
+      ],
+      "start": 7.970385487528345,
+      "end": 10.048571428571428,
+      "sentences": [
+        {
+          "text": "Nejprve vymezíme pojem.",
+          "start": 7.970385487528345,
+          "end": 10.048571428571428,
+          "slow_start": 8.957233560090703,
+          "slow_end": 11.23278911564626
+        }
+      ],
+      "slow_start": 8.957233560090703,
+      "slow_end": 11.23278911564626
+    },
+    {
+      "text": "Oprávnění ověřte zvlášť.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Oprávnění ověřte zvlášť."
+      ],
+      "start": 10.228571428571428,
+      "end": 12.771156462585035,
+      "sentences": [
+        {
+          "text": "Oprávnění ověřte zvlášť.",
+          "start": 10.228571428571428,
+          "end": 12.771156462585035,
+          "slow_start": 11.412789115646259,
+          "slow_end": 14.350113378684807
+        }
+      ],
+      "slow_start": 11.412789115646259,
+      "slow_end": 14.350113378684807
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "5402dcd09e15d5a70cab2ba07ba530cfd9bbd342555a04fc0d5305e4425c8b73",
+    "slow": "3f14b1b32a5bb4db767f64c768db71548b725c02ae446e13cf920001430cef90"
+  }
+}

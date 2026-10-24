@@ -1,0 +1,144 @@
+{
+  "id": "B2-U13-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "B2-U13-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B2",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Odpověď lze přiřadit studentovi.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Odpověď lze přiřadit studentovi."
+      ]
+    },
+    {
+      "text": "Učitel má dostat pouze souhrn.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Učitel má dostat pouze souhrn."
+      ]
+    },
+    {
+      "text": "Cílem je zprostředkování porozumění.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Cílem je zprostředkování porozumění."
+      ]
+    },
+    {
+      "text": "Rodiče vyjádřili obavu.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Rodiče vyjádřili obavu."
+      ]
+    }
+  ],
+  "text_sha256": "e4e22a795b95c9bef49de4e10dee80000971d9b8d3896200fc224a5cd6eb0275",
+  "source_file": "content/lessons/B2/B2-U13-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U13-L01--2026.10.22.1--vocabulary--e4e22a795b--normal.mp3",
+  "slow_file": "content/audio/files/B2-U13-L01--2026.10.22.1--vocabulary--e4e22a795b--slow.mp3",
+  "duration_seconds": 12.271927437641724,
+  "slow_duration_seconds": 13.82766439909297,
+  "cues": [
+    {
+      "text": "Odpověď lze přiřadit studentovi.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Odpověď lze přiřadit studentovi."
+      ],
+      "start": 0.0,
+      "end": 3.030204081632653,
+      "sentences": [
+        {
+          "text": "Odpověď lze přiřadit studentovi.",
+          "start": 0.0,
+          "end": 3.030204081632653,
+          "slow_start": 0.0,
+          "slow_end": 3.436553287981859
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 3.436553287981859
+    },
+    {
+      "text": "Učitel má dostat pouze souhrn.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Učitel má dostat pouze souhrn."
+      ],
+      "start": 3.210204081632653,
+      "end": 6.263628117913832,
+      "sentences": [
+        {
+          "text": "Učitel má dostat pouze souhrn.",
+          "start": 3.210204081632653,
+          "end": 6.263628117913832,
+          "slow_start": 3.6165532879818594,
+          "slow_end": 7.041496598639456
+        }
+      ],
+      "slow_start": 3.6165532879818594,
+      "slow_end": 7.041496598639456
+    },
+    {
+      "text": "Cílem je zprostředkování porozumění.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Cílem je zprostředkování porozumění."
+      ],
+      "start": 6.443628117913832,
+      "end": 9.752471655328797,
+      "sentences": [
+        {
+          "text": "Cílem je zprostředkování porozumění.",
+          "start": 6.443628117913832,
+          "end": 9.752471655328797,
+          "slow_start": 7.2214965986394555,
+          "slow_end": 10.98312925170068
+        }
+      ],
+      "slow_start": 7.2214965986394555,
+      "slow_end": 10.98312925170068
+    },
+    {
+      "text": "Rodiče vyjádřili obavu.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Rodiče vyjádřili obavu."
+      ],
+      "start": 9.932471655328799,
+      "end": 12.091927437641724,
+      "sentences": [
+        {
+          "text": "Rodiče vyjádřili obavu.",
+          "start": 9.932471655328799,
+          "end": 12.091927437641724,
+          "slow_start": 11.16312925170068,
+          "slow_end": 13.647664399092971
+        }
+      ],
+      "slow_start": 11.16312925170068,
+      "slow_end": 13.647664399092971
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "84aa0ddb2bbadc348147b359051b955e4ebda0d2a7229e9bce952531a2d8b552",
+    "slow": "9e1124d2256d255a6716f9e3dfbe2dbc72bd8bf91c2aa1affa2cb3921c029694"
+  }
+}

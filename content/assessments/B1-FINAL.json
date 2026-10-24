@@ -1,0 +1,1045 @@
+{
+  "id": "B1-FINAL",
+  "kind": "level",
+  "level": "B1",
+  "title_zh": "B1 独立生活任务：自行车课程临时变化",
+  "version": "2026.10.23.1",
+  "unseen_text": [
+    {
+      "cs": "Městské centrum pořádá kurz základní péče o jízdní kolo. Přihlásili jste se na sobotu dopoledne. Původní e-mail uváděl začátek v devět a setkání před hlavním vchodem. V pátek jste dostali novou zprávu: kvůli opravě nádvoří se vstup přesouvá do boční ulice. Začátek se však nemění. Účastníci mají přijet s vlastním kolem; běžné nářadí bude k dispozici.",
+      "zh": "城市中心办自行车基础保养课。你报周六上午，初邮件九点正门见。周五新消息因庭院维修改侧街入口，但开始不变。参与者带自车，一般工具提供。",
+      "note_zh": ""
+    },
+    {
+      "cs": "V ceně kurzu není náhradní materiál. Pokud technik zjistí, že je potřeba vyměnit součástku, nejprve účastníkovi vysvětlí možnosti a cenu. Kurz není služba, při níž člověk odevzdá kolo a vyzvedne si ho hotové. Účastníci se pod dohledem učí jednoduchým úkonům. Závažnější závady mohou vyžadovat samostatnou návštěvu servisu.",
+      "zh": "费用不含替换材料。如需换件，技术员先说明选项与价格。课程不是交车后取修好车的服务，而是指导下学简单操作，严重故障可能另去维修。",
+      "note_zh": ""
+    },
+    {
+      "cs": "Kamarádka Tereza chce přijít také, ale zatím nemá potvrzené místo. Viděla na webu, že se uvolnily dvě registrace. Neví, zda informace ještě platí. Požádala vás, abyste zavolali organizátorovi a zjistili, jak se může přihlásit. Současně potřebuje vědět, zda se může zúčastnit bez vlastního kola, protože její kolo je nyní v opravně.",
+      "zh": "特蕾莎想来也没确认名额。网页说释放两名额，不知还有效，请你问如何报名。她的车在维修，需问能否不带车。",
+      "note_zh": ""
+    },
+    {
+      "cs": "Vy už jste zaplatili a máte potvrzení. Nechcete měnit vlastní registraci, pouze ověřit podmínky pro kamarádku. Po telefonátu jí musíte předat přesné informace a napsat organizátorovi krátké potvrzení toho, na čem jste se skutečně domluvili. Neznámé údaje označte jako otázky, nikoli jako hotovou odpověď.",
+      "zh": "你自己已付并获确认，不改本人报名，只核朋友条件。电话后准确转达并给组织者简短确认，未知列问题，不能编答案。",
+      "note_zh": ""
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "新通知改变了什么？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "入口，开始时间仍九点"
+        },
+        {
+          "id": "b",
+          "text": "时间改十点，入口不变"
+        },
+        {
+          "id": "c",
+          "text": "课程取消"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "因维修换入口，未换时间。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-FINAL-E01",
+      "knowledge_points": [
+        "narrative-sequence",
+        "valency-patterns",
+        "repair-clarification",
+        "integrated-scope"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "课程费用含哪项？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "全部替换材料"
+        },
+        {
+          "id": "b",
+          "text": "一般工具使用，材料另算"
+        },
+        {
+          "id": "c",
+          "text": "严重故障包修"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "文本提供普通工具，材料不含；不是包维修服务。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-FINAL-E02",
+      "knowledge_points": [
+        "narrative-sequence",
+        "valency-patterns",
+        "repair-clarification",
+        "integrated-scope"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "听电话：Tereza 可参加的条件是什么？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "直接不报名到场"
+        },
+        {
+          "id": "b",
+          "text": "今天六点前报名并等确认；可借示范车"
+        },
+        {
+          "id": "c",
+          "text": "只要付款就全额保修"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "报名截止和等待确认都必须保留。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "listening"
+      ],
+      "error_category": "comprehension",
+      "audio_text_cs": "Jedno místo je ještě volné. Tereza se musí přihlásit dnes do šesti a počkat na potvrzení. Vlastní kolo není nutné, může použít ukázkové kolo.",
+      "id": "B1-FINAL-E03",
+      "knowledge_points": [
+        "narrative-sequence",
+        "valency-patterns",
+        "repair-clarification",
+        "integrated-scope"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "用正确介词：等待确认。",
+      "stimulus_cs": "čekat ___ potvrzení",
+      "answer": "na",
+      "accepted_answers": [
+        "na"
+      ],
+      "explanation_zh": "čekat na + 第四格。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "collocation",
+      "id": "B1-FINAL-E04",
+      "knowledge_points": [
+        "narrative-sequence",
+        "valency-patterns",
+        "repair-clarification",
+        "integrated-scope"
+      ]
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "用60–90秒向朋友解释你的原计划、新入口、保持不变项、材料费用和下一步。",
+      "stimulus_cs": "",
+      "answer": "V sobotu mám kurz od devíti. Kvůli opravě nádvoří půjdeme bočním vchodem, čas se nemění. Nářadí je v ceně, náhradní materiál ne. Ty se potřebuješ nejdřív přihlásit a počkat na potvrzení.",
+      "accepted_answers": [],
+      "explanation_zh": "独立录音后核对是否漏时间方向或费用。",
+      "rubric": [
+        "变化和不变分开",
+        "费用准确",
+        "下一步明确"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "error_category": "fluency",
+      "id": "B1-FINAL-E05",
+      "knowledge_points": [
+        "narrative-sequence",
+        "valency-patterns",
+        "repair-clarification",
+        "integrated-scope"
+      ]
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "模拟致电：核报名名额、无自车能否上课、是否影响你自己的已确认名额。",
+      "stimulus_cs": "",
+      "answer": "Dobrý den, mám potvrzenou vlastní registraci a nechci ji měnit. Kamarádka by se chtěla přidat. Je ještě volné místo? Může přijít bez vlastního kola? Jak má postupovat, aby dostala potvrzení?",
+      "accepted_answers": [],
+      "explanation_zh": "提问三缺口，不假定网页信息仍有效。",
+      "rubric": [
+        "四项核心信息",
+        "礼貌提问",
+        "不误改本人报名"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "error_category": "fluency",
+      "id": "B1-FINAL-E06",
+      "knowledge_points": [
+        "narrative-sequence",
+        "valency-patterns",
+        "repair-clarification",
+        "integrated-scope"
+      ]
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "按听力新增信息，给组织者写80–120词确认消息，明确Tereza尚待报名确认。",
+      "stimulus_cs": "",
+      "answer": "Dobrý den, děkuji za dnešní telefonické informace o sobotním kurzu. Rozumím, že je nyní volné jedno místo a Tereza se musí přihlásit dnes do šesti hodin. Potom musí počkat na potvrzení; místo zatím rezervované nemá. Její kolo je v opravně, takže využije ukázkové kolo, pokud bude její registrace potvrzena. Moje původní registrace zůstává beze změny. Kurz začíná v devět a vstup je z boční ulice. Běžné nářadí je k dispozici, náhradní materiál se platí zvlášť. Tyto informace Tereze předám. Prosím o opravu, pokud jsem některý bod pochopil nepřesně. Děkuji za pomoc.",
+      "accepted_answers": [],
+      "explanation_zh": "照听力保留剩一位，不用阅读里旧两位。",
+      "rubric": [
+        "最新信息覆盖旧名额",
+        "期限与待确认",
+        "本人状态"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-FINAL-E07",
+      "knowledge_points": [
+        "narrative-sequence",
+        "valency-patterns",
+        "repair-clarification",
+        "integrated-scope"
+      ]
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "用中文给Tereza转达：场地、时间、报名、车辆、材料费，注明以电话新信息为准。",
+      "stimulus_cs": "",
+      "answer": "还是周六九点，从侧街入口进。电话确认现在只剩一个名额，你要今天六点前报名并等确认；没车可用示范车。普通工具提供，换件材料另算，不能当成包修。",
+      "accepted_answers": [],
+      "explanation_zh": "整合阅读与新听力，不重复过期两位信息。",
+      "rubric": [
+        "五项准确",
+        "来源时序",
+        "不添保障"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-FINAL-E08",
+      "knowledge_points": [
+        "narrative-sequence",
+        "valency-patterns",
+        "repair-clarification",
+        "integrated-scope"
+      ]
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "Tereza说“我去就行了吧”，纠正尚需报名确认，并给最短动作。",
+      "stimulus_cs": "",
+      "answer": "Ještě ne. Nejdřív se dnes do šesti přihlas a počkej na potvrzení. Teprve pak bude místo jisté. Kolo si půjčit můžeš, ale to samo o sobě nenahrazuje registraci.",
+      "accepted_answers": [],
+      "explanation_zh": "借车许可与名额确认分开。",
+      "rubric": [
+        "纠正误会",
+        "具体行动",
+        "两个条件"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "error_category": "fluency",
+      "id": "B1-FINAL-E09",
+      "knowledge_points": [
+        "narrative-sequence",
+        "valency-patterns",
+        "repair-clarification",
+        "integrated-scope"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "听新变更：组织者说什么仍没确认？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "是否可借示范车"
+        },
+        {
+          "id": "b",
+          "text": "Tereza的名额"
+        },
+        {
+          "id": "c",
+          "text": "本人已付款"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "可以借车不代表名额已经保留。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "listening"
+      ],
+      "error_category": "comprehension",
+      "audio_text_cs": "Ukázkové kolo zapůjčit můžeme, ale místo pro Terezu zatím rezervované není. Čekáme na její přihlášku.",
+      "id": "B1-FINAL-E10",
+      "knowledge_points": [
+        "narrative-sequence",
+        "valency-patterns",
+        "repair-clarification",
+        "integrated-scope"
+      ]
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "发现自己上一条写成“材料都免费”，写纠正消息并解释你为什么改。",
+      "stimulus_cs": "",
+      "answer": "Opravuji svou předchozí zprávu: v ceně je běžné nářadí, nikoli náhradní materiál. Pokud bude potřeba součástku vyměnit, technik nejprve sdělí cenu. Předchozí formulace byla nepřesná.",
+      "accepted_answers": [],
+      "explanation_zh": "指出原错与正确证据，不悄悄换说法。",
+      "rubric": [
+        "承认具体错误",
+        "含不含清楚",
+        "先报价条件"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-FINAL-E11",
+      "knowledge_points": [
+        "narrative-sequence",
+        "valency-patterns",
+        "repair-clarification",
+        "integrated-scope"
+      ]
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "隔一段时间不看材料，换成烹饪课场景重新说报名、工具与食材不全包的区别。",
+      "stimulus_cs": "",
+      "answer": "Mám potvrzené místo v kurzu vaření. Pomůcky jsou k dispozici, ale některé suroviny se platí zvlášť. Kamarád se musí přihlásit a počkat na potvrzení, i když si vlastní vybavení nemusí nosit.",
+      "accepted_answers": [],
+      "explanation_zh": "这是迁移任务，只要逻辑对应无需复制名词形式。",
+      "rubric": [
+        "不同场景",
+        "条件保留",
+        "独立性记录"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "error_category": "fluency",
+      "id": "B1-FINAL-E12",
+      "knowledge_points": [
+        "narrative-sequence",
+        "valency-patterns",
+        "repair-clarification",
+        "integrated-scope"
+      ]
+    }
+  ],
+  "rubric": [
+    "信息准确：人数、方向、时点、范围、否定和条件不歪曲；遗漏关键条件需补练。",
+    "任务完成：能把对方带到可执行下一步，而不是只表达态度。",
+    "语言控制：格、时体、语序和衔接足以维持意义，错误是否迫使听众猜测须记录。",
+    "互动修复：能主动追问、澄清、复述确认，不会时不假装听懂。",
+    "独立性：标注是否查看范文、重听次数、是否借助外部提示；这些证据与题目对错分开保存。"
+  ],
+  "performance_descriptors": {
+    "listening": {
+      "independent": "不看文字提取关键变化、否定、条件和说话人立场。",
+      "developing": "重听后理解主旨，但数字、指代或条件仍需提示。",
+      "needs_review": "只凭熟悉关键词猜测，无法复述关键行动。"
+    },
+    "speaking": {
+      "independent": "形成连贯说明并给理由，出现停顿也能换说法继续。",
+      "developing": "能表达主线，但需题词或漏关键限制。",
+      "needs_review": "依赖照读范文，尚无独立输出证据。"
+    },
+    "reading": {
+      "independent": "正确区分已确认、估计、例外和材料未说的内容。",
+      "developing": "大意正确，但把计划或他人说法当确认事实。",
+      "needs_review": "主要依赖逐字翻译，逻辑关系未建立。"
+    },
+    "writing": {
+      "independent": "读者可从文本识别对象、请求、理由、期限和待确认项。",
+      "developing": "主要信息可理解，个别指代、词形或结构需要修改。",
+      "needs_review": "必须依靠范文，或错误改变时间、数量、责任。"
+    },
+    "interaction": {
+      "independent": "能跟进新信息并修复误解，明确自己的承诺范围。",
+      "developing": "可回答预设问题，但新条件下容易重复原话。",
+      "needs_review": "只读单句脚本，不能澄清对方真正含义。"
+    },
+    "mediation": {
+      "independent": "按受众挑信息，保留立场、条件、未知且不添加动机。",
+      "developing": "大意保留，但容易漏限制或混淆自己的推论。",
+      "needs_review": "逐词搬运而使受众仍不知如何行动。"
+    }
+  },
+  "remediation": [
+    {
+      "condition_zh": "把时间变化、旧消息与新消息混淆",
+      "lesson_ids": [
+        "B1-U01-L01",
+        "B1-U10-L01"
+      ],
+      "action_zh": "用两列记录旧/新信息，听后不看文本口述差异。"
+    },
+    {
+      "condition_zh": "提问或确认时格与小词反复卡住",
+      "lesson_ids": [
+        "B1-U06-L01",
+        "B1-U07-L01"
+      ],
+      "action_zh": "先练完整搭配，再换人物和对象独立录音。"
+    },
+    {
+      "condition_zh": "只点头不问缺口，或把许可当确认",
+      "lesson_ids": [
+        "B1-U09-L01",
+        "B1-U12-L01"
+      ],
+      "action_zh": "练三种澄清问题及复述确认，分别保存口语与书面证据。"
+    },
+    {
+      "condition_zh": "消息缺行动、期限或未确认标识",
+      "lesson_ids": [
+        "B1-U11-L01",
+        "B1-U14-L01"
+      ],
+      "action_zh": "按收件人重写短函，延后用未见材料复测。"
+    }
+  ],
+  "typical_performance_note": "以上是本系统任务量规，不是官方考试成绩或CEFR认证。开放题由学习者逐项自评、教师评阅或明确标识的可选AI反馈；不得用关键词命中生成精确口语/发音分数。",
+  "sources": [
+    {
+      "source_id": "LANG01",
+      "url": "https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions",
+      "scope": "六级能力框架；本评测原创设计，非官方试题",
+      "verification": "2026-10-22核查框架入口；测评未通过标准化效度研究"
+    }
+  ],
+  "content_status": "authored_crosschecked_not_native_reviewed",
+  "audio_refs": [
+    {
+      "lesson_id": "B1-FINAL",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--normal.mp3",
+      "slow_file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-FINAL--2026.10.23.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Městské centrum pořádá kurz základní péče o jízdní kolo. Přihlásili jste se na sobotu dopoledne. Původní e-mail uváděl začátek v devět a setkání před hlavním vchodem. V pátek jste dostali novou zprávu: kvůli opravě nádvoří se vstup přesouvá do boční ulice. Začátek se však nemění. Účastníci mají přijet s vlastním kolem; běžné nářadí bude k dispozici. V ceně kurzu není náhradní materiál. Pokud technik zjistí, že je potřeba vyměnit součástku, nejprve účastníkovi vysvětlí možnosti a cenu. Kurz není služba, při níž člověk odevzdá kolo a vyzvedne si ho hotové. Účastníci se pod dohledem učí jednoduchým úkonům. Závažnější závady mohou vyžadovat samostatnou návštěvu servisu. Kamarádka Tereza chce přijít také, ale zatím nemá potvrzené místo. Viděla na webu, že se uvolnily dvě registrace. Neví, zda informace ještě platí. Požádala vás, abyste zavolali organizátorovi a zjistili, jak se může přihlásit. Současně potřebuje vědět, zda se může zúčastnit bez vlastního kola, protože její kolo je nyní v opravně. Vy už jste zaplatili a máte potvrzení. Nechcete měnit vlastní registraci, pouze ověřit podmínky pro kamarádku. Po telefonátu jí musíte předat přesné informace a napsat organizátorovi krátké potvrzení toho, na čem jste se skutečně domluvili. Neznámé údaje označte jako otázky, nikoli jako hotovou odpověď.",
+      "duration_seconds": 119.66494331065759,
+      "slow_duration_seconds": 134.78113378684807,
+      "sha256": "975fb61edbcaa15ed90492b7bd47806d7a4cb8a76666043ebe7395384f3ca383",
+      "slow_sha256": "d5723dab89c8be2ed9ea0637d4646c720184597d612a5777acdf652730fe59c4"
+    },
+    {
+      "lesson_id": "B1-FINAL",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--normal.mp3",
+      "slow_file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-FINAL--2026.10.23.1--text--p0",
+      "asset_id": "B1-FINAL--2026.10.23.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Městské centrum pořádá kurz základní péče o jízdní kolo. Přihlásili jste se na sobotu dopoledne. Původní e-mail uváděl začátek v devět a setkání před hlavním vchodem. V pátek jste dostali novou zprávu: kvůli opravě nádvoří se vstup přesouvá do boční ulice. Začátek se však nemění. Účastníci mají přijet s vlastním kolem; běžné nářadí bude k dispozici.",
+      "start": 0,
+      "end": 32.51396825396825,
+      "slow_start": 0,
+      "slow_end": 37.250839002267575
+    },
+    {
+      "lesson_id": "B1-FINAL",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--normal.mp3",
+      "slow_file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-FINAL--2026.10.23.1--text--s0",
+      "asset_id": "B1-FINAL--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Městské centrum pořádá kurz základní péče o jízdní kolo.",
+      "start": 0,
+      "end": 5.793378684807256,
+      "slow_start": 0,
+      "slow_end": 6.606077097505669
+    },
+    {
+      "lesson_id": "B1-FINAL",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--normal.mp3",
+      "slow_file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-FINAL--2026.10.23.1--text--s1",
+      "asset_id": "B1-FINAL--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Přihlásili jste se na sobotu dopoledne.",
+      "start": 5.9733786848072565,
+      "end": 8.957142857142857,
+      "slow_start": 6.786077097505669,
+      "slow_end": 10.234240362811791
+    },
+    {
+      "lesson_id": "B1-FINAL",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--normal.mp3",
+      "slow_file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-FINAL--2026.10.23.1--text--s2",
+      "asset_id": "B1-FINAL--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Původní e-mail uváděl začátek v devět a setkání před hlavním vchodem.",
+      "start": 9.137142857142857,
+      "end": 15.37170068027211,
+      "slow_start": 10.41424036281179,
+      "slow_end": 17.577596371882088
+    },
+    {
+      "lesson_id": "B1-FINAL",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--normal.mp3",
+      "slow_file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-FINAL--2026.10.23.1--text--s3",
+      "asset_id": "B1-FINAL--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 3,
+      "paragraph_index": 0,
+      "sentence_index": 3,
+      "text": "V pátek jste dostali novou zprávu: kvůli opravě nádvoří se vstup přesouvá do boční ulice.",
+      "start": 15.55170068027211,
+      "end": 23.492925170068027,
+      "slow_start": 17.757596371882087,
+      "slow_end": 26.9875283446712
+    },
+    {
+      "lesson_id": "B1-FINAL",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--normal.mp3",
+      "slow_file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-FINAL--2026.10.23.1--text--s4",
+      "asset_id": "B1-FINAL--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 4,
+      "paragraph_index": 0,
+      "sentence_index": 4,
+      "text": "Začátek se však nemění.",
+      "start": 23.672925170068027,
+      "end": 25.83238095238095,
+      "slow_start": 27.1675283446712,
+      "slow_end": 29.65206349206349
+    },
+    {
+      "lesson_id": "B1-FINAL",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--normal.mp3",
+      "slow_file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-FINAL--2026.10.23.1--text--s5",
+      "asset_id": "B1-FINAL--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 5,
+      "paragraph_index": 0,
+      "sentence_index": 5,
+      "text": "Účastníci mají přijet s vlastním kolem; běžné nářadí bude k dispozici.",
+      "start": 26.01238095238095,
+      "end": 32.51396825396825,
+      "slow_start": 29.832063492063494,
+      "slow_end": 37.250839002267575
+    },
+    {
+      "lesson_id": "B1-FINAL",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--normal.mp3",
+      "slow_file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-FINAL--2026.10.23.1--text--p1",
+      "asset_id": "B1-FINAL--2026.10.23.1--text",
+      "role": "text",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "V ceně kurzu není náhradní materiál. Pokud technik zjistí, že je potřeba vyměnit součástku, nejprve účastníkovi vysvětlí možnosti a cenu. Kurz není služba, při níž člověk odevzdá kolo a vyzvedne si ho hotové. Účastníci se pod dohledem učí jednoduchým úkonům. Závažnější závady mohou vyžadovat samostatnou návštěvu servisu.",
+      "start": 32.69396825396825,
+      "end": 62.20671201814059,
+      "slow_start": 37.430839002267575,
+      "slow_end": 70.51945578231293
+    },
+    {
+      "lesson_id": "B1-FINAL",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--normal.mp3",
+      "slow_file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-FINAL--2026.10.23.1--text--s6",
+      "asset_id": "B1-FINAL--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 6,
+      "paragraph_index": 1,
+      "sentence_index": 0,
+      "text": "V ceně kurzu není náhradní materiál.",
+      "start": 32.69396825396825,
+      "end": 36.15374149659864,
+      "slow_start": 37.430839002267575,
+      "slow_end": 41.27374149659864
+    },
+    {
+      "lesson_id": "B1-FINAL",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--normal.mp3",
+      "slow_file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-FINAL--2026.10.23.1--text--s7",
+      "asset_id": "B1-FINAL--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 7,
+      "paragraph_index": 1,
+      "sentence_index": 1,
+      "text": "Pokud technik zjistí, že je potřeba vyměnit součástku, nejprve účastníkovi vysvětlí možnosti a cenu.",
+      "start": 36.33374149659864,
+      "end": 45.41274376417233,
+      "slow_start": 41.45374149659864,
+      "slow_end": 51.821451247165534
+    },
+    {
+      "lesson_id": "B1-FINAL",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--normal.mp3",
+      "slow_file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-FINAL--2026.10.23.1--text--s8",
+      "asset_id": "B1-FINAL--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 8,
+      "paragraph_index": 1,
+      "sentence_index": 2,
+      "text": "Kurz není služba, při níž člověk odevzdá kolo a vyzvedne si ho hotové.",
+      "start": 45.59274376417233,
+      "end": 51.560272108843535,
+      "slow_start": 52.001451247165534,
+      "slow_end": 58.85133786848073
+    },
+    {
+      "lesson_id": "B1-FINAL",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--normal.mp3",
+      "slow_file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-FINAL--2026.10.23.1--text--s9",
+      "asset_id": "B1-FINAL--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 9,
+      "paragraph_index": 1,
+      "sentence_index": 3,
+      "text": "Účastníci se pod dohledem učí jednoduchým úkonům.",
+      "start": 51.740272108843534,
+      "end": 56.175283446712015,
+      "slow_start": 59.031337868480726,
+      "slow_end": 63.86108843537415
+    },
+    {
+      "lesson_id": "B1-FINAL",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--normal.mp3",
+      "slow_file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-FINAL--2026.10.23.1--text--s10",
+      "asset_id": "B1-FINAL--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 10,
+      "paragraph_index": 1,
+      "sentence_index": 4,
+      "text": "Závažnější závady mohou vyžadovat samostatnou návštěvu servisu.",
+      "start": 56.355283446712015,
+      "end": 62.20671201814059,
+      "slow_start": 64.04108843537415,
+      "slow_end": 70.51945578231293
+    },
+    {
+      "lesson_id": "B1-FINAL",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--normal.mp3",
+      "slow_file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-FINAL--2026.10.23.1--text--p2",
+      "asset_id": "B1-FINAL--2026.10.23.1--text",
+      "role": "text",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Kamarádka Tereza chce přijít také, ale zatím nemá potvrzené místo. Viděla na webu, že se uvolnily dvě registrace. Neví, zda informace ještě platí. Požádala vás, abyste zavolali organizátorovi a zjistili, jak se může přihlásit. Současně potřebuje vědět, zda se může zúčastnit bez vlastního kola, protože její kolo je nyní v opravně.",
+      "start": 62.38671201814059,
+      "end": 91.84140589569161,
+      "slow_start": 70.69945578231292,
+      "slow_end": 103.67197278911564
+    },
+    {
+      "lesson_id": "B1-FINAL",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--normal.mp3",
+      "slow_file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-FINAL--2026.10.23.1--text--s11",
+      "asset_id": "B1-FINAL--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 11,
+      "paragraph_index": 2,
+      "sentence_index": 0,
+      "text": "Kamarádka Tereza chce přijít také, ale zatím nemá potvrzené místo.",
+      "start": 62.38671201814059,
+      "end": 68.37746031746032,
+      "slow_start": 70.69945578231292,
+      "slow_end": 77.42163265306122
+    },
+    {
+      "lesson_id": "B1-FINAL",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--normal.mp3",
+      "slow_file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-FINAL--2026.10.23.1--text--s12",
+      "asset_id": "B1-FINAL--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 12,
+      "paragraph_index": 2,
+      "sentence_index": 1,
+      "text": "Viděla na webu, že se uvolnily dvě registrace.",
+      "start": 68.55746031746031,
+      "end": 72.56290249433107,
+      "slow_start": 77.60163265306123,
+      "slow_end": 81.99020408163265
+    },
+    {
+      "lesson_id": "B1-FINAL",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--normal.mp3",
+      "slow_file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-FINAL--2026.10.23.1--text--s13",
+      "asset_id": "B1-FINAL--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 13,
+      "paragraph_index": 2,
+      "sentence_index": 2,
+      "text": "Neví, zda informace ještě platí.",
+      "start": 72.74290249433106,
+      "end": 75.66861678004535,
+      "slow_start": 82.17020408163265,
+      "slow_end": 85.49065759637188
+    },
+    {
+      "lesson_id": "B1-FINAL",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--normal.mp3",
+      "slow_file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-FINAL--2026.10.23.1--text--s14",
+      "asset_id": "B1-FINAL--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 14,
+      "paragraph_index": 2,
+      "sentence_index": 3,
+      "text": "Požádala vás, abyste zavolali organizátorovi a zjistili, jak se může přihlásit.",
+      "start": 75.84861678004535,
+      "end": 82.68689342403628,
+      "slow_start": 85.67065759637188,
+      "slow_end": 93.36807256235828
+    },
+    {
+      "lesson_id": "B1-FINAL",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--normal.mp3",
+      "slow_file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-FINAL--2026.10.23.1--text--s15",
+      "asset_id": "B1-FINAL--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 15,
+      "paragraph_index": 2,
+      "sentence_index": 4,
+      "text": "Současně potřebuje vědět, zda se může zúčastnit bez vlastního kola, protože její kolo je nyní v opravně.",
+      "start": 82.86689342403628,
+      "end": 91.84140589569161,
+      "slow_start": 93.54807256235827,
+      "slow_end": 103.67197278911564
+    },
+    {
+      "lesson_id": "B1-FINAL",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--normal.mp3",
+      "slow_file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-FINAL--2026.10.23.1--text--p3",
+      "asset_id": "B1-FINAL--2026.10.23.1--text",
+      "role": "text",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Vy už jste zaplatili a máte potvrzení. Nechcete měnit vlastní registraci, pouze ověřit podmínky pro kamarádku. Po telefonátu jí musíte předat přesné informace a napsat organizátorovi krátké potvrzení toho, na čem jste se skutečně domluvili. Neznámé údaje označte jako otázky, nikoli jako hotovou odpověď.",
+      "start": 92.02140589569161,
+      "end": 119.4849433106576,
+      "slow_start": 103.85197278911565,
+      "slow_end": 134.60113378684807
+    },
+    {
+      "lesson_id": "B1-FINAL",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--normal.mp3",
+      "slow_file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-FINAL--2026.10.23.1--text--s16",
+      "asset_id": "B1-FINAL--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 16,
+      "paragraph_index": 3,
+      "sentence_index": 0,
+      "text": "Vy už jste zaplatili a máte potvrzení.",
+      "start": 92.02140589569161,
+      "end": 95.43473922902494,
+      "slow_start": 103.85197278911565,
+      "slow_end": 107.71809523809524
+    },
+    {
+      "lesson_id": "B1-FINAL",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--normal.mp3",
+      "slow_file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-FINAL--2026.10.23.1--text--s17",
+      "asset_id": "B1-FINAL--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 17,
+      "paragraph_index": 3,
+      "sentence_index": 1,
+      "text": "Nechcete měnit vlastní registraci, pouze ověřit podmínky pro kamarádku.",
+      "start": 95.61473922902495,
+      "end": 101.86090702947845,
+      "slow_start": 107.89809523809524,
+      "slow_end": 114.817641723356
+    },
+    {
+      "lesson_id": "B1-FINAL",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--normal.mp3",
+      "slow_file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-FINAL--2026.10.23.1--text--s18",
+      "asset_id": "B1-FINAL--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 18,
+      "paragraph_index": 3,
+      "sentence_index": 2,
+      "text": "Po telefonátu jí musíte předat přesné informace a napsat organizátorovi krátké potvrzení toho, na čem jste se skutečně domluvili.",
+      "start": 102.04090702947846,
+      "end": 113.34902494331065,
+      "slow_start": 114.99764172335601,
+      "slow_end": 127.88471655328799
+    },
+    {
+      "lesson_id": "B1-FINAL",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--normal.mp3",
+      "slow_file": "audio/files/B1-FINAL--2026.10.22.1--text--0e34210a60--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-FINAL--2026.10.23.1--text--s19",
+      "asset_id": "B1-FINAL--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 19,
+      "paragraph_index": 3,
+      "sentence_index": 3,
+      "text": "Neznámé údaje označte jako otázky, nikoli jako hotovou odpověď.",
+      "start": 113.52902494331066,
+      "end": 119.4849433106576,
+      "slow_start": 128.06471655328798,
+      "slow_end": 134.60113378684807
+    },
+    {
+      "lesson_id": "B1-FINAL",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-FINAL--2026.10.22.1--exercises--4193a0ac9a--normal.mp3",
+      "slow_file": "audio/files/B1-FINAL--2026.10.22.1--exercises--4193a0ac9a--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-FINAL--2026.10.23.1--exercises",
+      "role": "exercises-full",
+      "index": 0,
+      "text": "Jedno místo je ještě volné. Tereza se musí přihlásit dnes do šesti a počkat na potvrzení. Vlastní kolo není nutné, může použít ukázkové kolo. Ukázkové kolo zapůjčit můžeme, ale místo pro Terezu zatím rezervované není. Čekáme na její přihlášku.",
+      "duration_seconds": 22.320408163265306,
+      "slow_duration_seconds": 24.94426303854875,
+      "sha256": "c26c01245c450520272a330206f5c2f86e90bf0b20c889e78e80a3f9eceaf6b5",
+      "slow_sha256": "7306b63c0005a647ecda4c192ecf232feefa47f7dc91e31043a991f635ecfc16"
+    },
+    {
+      "lesson_id": "B1-FINAL",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-FINAL--2026.10.22.1--exercises--4193a0ac9a--normal.mp3",
+      "slow_file": "audio/files/B1-FINAL--2026.10.22.1--exercises--4193a0ac9a--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-FINAL--2026.10.23.1--exercises--p0",
+      "asset_id": "B1-FINAL--2026.10.23.1--exercises",
+      "role": "exercise",
+      "index": 0,
+      "exercise_id": "B1-FINAL-E03",
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Jedno místo je ještě volné. Tereza se musí přihlásit dnes do šesti a počkat na potvrzení. Vlastní kolo není nutné, může použít ukázkové kolo.",
+      "start": 0,
+      "end": 12.620136054421769,
+      "slow_start": 0,
+      "slow_end": 14.082993197278912
+    },
+    {
+      "lesson_id": "B1-FINAL",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-FINAL--2026.10.22.1--exercises--4193a0ac9a--normal.mp3",
+      "slow_file": "audio/files/B1-FINAL--2026.10.22.1--exercises--4193a0ac9a--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-FINAL--2026.10.23.1--exercises--p1",
+      "asset_id": "B1-FINAL--2026.10.23.1--exercises",
+      "role": "exercise",
+      "index": 1,
+      "exercise_id": "B1-FINAL-E10",
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Ukázkové kolo zapůjčit můžeme, ale místo pro Terezu zatím rezervované není. Čekáme na její přihlášku.",
+      "start": 12.800136054421769,
+      "end": 22.140408163265306,
+      "slow_start": 14.262993197278911,
+      "slow_end": 24.76426303854875
+    }
+  ]
+}

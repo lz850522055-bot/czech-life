@@ -1,0 +1,76 @@
+{
+  "id": "A1-U07-L01--2026.10.23.1--listening",
+  "lesson_id": "A1-U07-L01",
+  "content_version": "2026.10.23.1",
+  "level": "A1",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Eva má jednu sestru. Její sestra je učitelka. Eva ráda běhá, ale její sestra raději čte.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Eva má jednu sestru.",
+        "Její sestra je učitelka.",
+        "Eva ráda běhá, ale její sestra raději čte."
+      ]
+    }
+  ],
+  "text_sha256": "34200c0750623b10f1296cc42ed85a4dd6be25750e7bf56286afd5d715e9f75d",
+  "source_file": "content/lessons/A1/A1-U07-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U07-L01--2026.10.22.1--listening--34200c0750--normal.mp3",
+  "slow_file": "content/audio/files/A1-U07-L01--2026.10.22.1--listening--34200c0750--slow.mp3",
+  "duration_seconds": 8.574104308390023,
+  "slow_duration_seconds": 9.491292517006803,
+  "cues": [
+    {
+      "text": "Eva má jednu sestru. Její sestra je učitelka. Eva ráda běhá, ale její sestra raději čte.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Eva má jednu sestru.",
+        "Její sestra je učitelka.",
+        "Eva ráda běhá, ale její sestra raději čte."
+      ],
+      "start": 0.0,
+      "end": 8.394104308390023,
+      "sentences": [
+        {
+          "text": "Eva má jednu sestru.",
+          "start": 0.0,
+          "end": 1.9736961451247166,
+          "slow_start": 0.0,
+          "slow_end": 2.1710657596371883
+        },
+        {
+          "text": "Její sestra je učitelka.",
+          "start": 2.1536961451247167,
+          "end": 4.336371882086167,
+          "slow_start": 2.351065759637188,
+          "slow_end": 4.765941043083901
+        },
+        {
+          "text": "Eva ráda běhá, ale její sestra raději čte.",
+          "start": 4.516371882086168,
+          "end": 8.394104308390023,
+          "slow_start": 4.9459410430839,
+          "slow_end": 9.311292517006803
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 9.311292517006803
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "100198062c56745c72d4d432485ebf46e822b446912eda0fe27692917343b6c1",
+    "slow": "e44a0a0a0458b4083a1c14940f76fc0e36a3ff176690d9add60caaf492e6dc0a"
+  },
+  "reused_from_track_id": "A1-U07-L01--2026.10.22.1--listening"
+}

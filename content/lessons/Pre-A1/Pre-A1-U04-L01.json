@@ -1,0 +1,1281 @@
+{
+  "id": "Pre-A1-U04-L01",
+  "level": "Pre-A1",
+  "unit_id": "Pre-A1-U04",
+  "order": 4,
+  "version": "2026.10.23.1",
+  "title_zh": "看懂di、ti、ni和ě的提示",
+  "title_cs": "Měkké a tvrdé souhlásky",
+  "prerequisites": [
+    "Pre-A1-U03-L01"
+  ],
+  "can_do": [
+    "识别di/ti/ni的常见软化",
+    "区分i/y的拼写作用",
+    "读常见ě组合"
+  ],
+  "scene": "发音起步",
+  "skills": [
+    "listening",
+    "speaking",
+    "reading",
+    "writing",
+    "interaction",
+    "mediation"
+  ],
+  "knowledge_points": [
+    "soft-dtn",
+    "letter-e-caron"
+  ],
+  "intro_zh": "你在消息里看到díky，却按普通d来念。本课先理解字母组合如何提示舌位，再认识拼写不能只靠听。",
+  "lesson_text": [
+    {
+      "id": "s01",
+      "cs": "Díky. Dítě. Nic.",
+      "zh": "谢谢。孩子。没有什么。",
+      "note_zh": "本族词中di/ti/ni常提示软辅音。"
+    },
+    {
+      "id": "s02",
+      "cs": "Dým. Ty. Nyní.",
+      "zh": "烟。你。现在。",
+      "note_zh": "dy/ty/ny中的辅音保持硬读。"
+    },
+    {
+      "id": "s03",
+      "cs": "Děkuju. Těší mě.",
+      "zh": "谢谢。很高兴认识您。",
+      "note_zh": "dě、tě、mě各有固定拼读规律。"
+    },
+    {
+      "id": "s04",
+      "cs": "Běží. Pět. Věc.",
+      "zh": "他/她在跑。五。事情/物品。",
+      "note_zh": "bě、pě、vě分别有j过渡。"
+    },
+    {
+      "id": "s05",
+      "cs": "Město.",
+      "zh": "城市。",
+      "note_zh": "mě通常读出m后接ň的组合。"
+    },
+    {
+      "id": "s06",
+      "cs": "To je nové město.",
+      "zh": "这是一座新的城市。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s07",
+      "cs": "Díky, už rozumím.",
+      "zh": "谢谢，我现在懂了。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s08",
+      "cs": "Napište to, prosím.",
+      "zh": "请把它写下来。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "soft-dtn",
+      "rule_zh": "本族词里的di、ti、ni通常让前面的辅音变软。",
+      "detail_zh": "di/dí读ď加i/í，ti/tí读ť加i/í，ni/ní读ň加i/í；dy/ty/ny不发生这组软化。i与y本身通常不是两套不同元音，拼写差别常提示前辅音或词形关系。",
+      "examples": [
+        {
+          "cs": "díky",
+          "zh": "谢谢",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        },
+        {
+          "cs": "dým",
+          "zh": "烟",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        },
+        {
+          "cs": "nic",
+          "zh": "没有什么",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        }
+      ],
+      "pitfalls": [
+        "为了i/y硬造两种完全不同元音。"
+      ],
+      "exceptions": [
+        "外来词如diktát、titul可能硬读，不能把本族词规则硬套所有词。"
+      ],
+      "term": "软硬辅音与i/y"
+    },
+    {
+      "id": "letter-e-caron",
+      "rule_zh": "ě要连着前一个辅音看，不能单独读成一种新元音。",
+      "detail_zh": "dě/tě/ně读软辅音加e；bě/pě/vě通常读b/p/v加je；mě通常读mňe。词例děkuju、pět、věc、město先作为完整声音块练。",
+      "examples": [
+        {
+          "cs": "pět",
+          "zh": "五",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        },
+        {
+          "cs": "město",
+          "zh": "城市",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        }
+      ],
+      "pitfalls": [
+        "把mě只念成me，或把ě当长é。"
+      ],
+      "exceptions": [
+        "ě的拼写受词源和构词规则影响；本课只建立常用组合。"
+      ],
+      "term": "字母ě"
+    }
+  ],
+  "vocabulary": [
+    {
+      "lemma": "dítě",
+      "pos": "名词，中性",
+      "forms": "dítěte; děti",
+      "meaning_zh": "孩子",
+      "collocation": "malé dítě",
+      "example_cs": "To je dítě.",
+      "example_zh": "这是个孩子。",
+      "confusion_zh": "单数中性，复数变化特殊。"
+    },
+    {
+      "lemma": "díky",
+      "pos": "礼貌用语/介词",
+      "forms": "děkuju（近义礼貌用语）",
+      "meaning_zh": "谢谢；多亏",
+      "collocation": "Díky za pomoc.",
+      "example_cs": "Díky za pomoc.",
+      "example_zh": "谢谢帮助。",
+      "confusion_zh": "dí发软音，í长。"
+    },
+    {
+      "lemma": "město",
+      "pos": "名词，中性",
+      "forms": "města; města",
+      "meaning_zh": "城市",
+      "collocation": "velké město",
+      "example_cs": "Praha je město.",
+      "example_zh": "布拉格是一座城市。",
+      "confusion_zh": "mě通常读mňe。"
+    },
+    {
+      "lemma": "věc",
+      "pos": "名词，阴性",
+      "forms": "věci; věci",
+      "meaning_zh": "事情；物品",
+      "collocation": "jedna věc",
+      "example_cs": "To je důležitá věc.",
+      "example_zh": "这是一件重要的事。",
+      "confusion_zh": "不因辅音结尾就一定是阳性。"
+    }
+  ],
+  "listening": {
+    "script": [
+      {
+        "cs": "Díky za pomoc.",
+        "zh": "谢谢帮助。",
+        "note_zh": "先理解整句意图，再回看本课规律。"
+      },
+      {
+        "cs": "To je moje dítě.",
+        "zh": "这是我的孩子。",
+        "note_zh": "先理解整句意图，再回看本课规律。"
+      },
+      {
+        "cs": "Pět minut, prosím.",
+        "zh": "请给五分钟。",
+        "note_zh": "先理解整句意图，再回看本课规律。"
+      }
+    ],
+    "focus_zh": "先不看文本听出任务关键信息；第二遍核对词形、数字与否定；最后对照中文。",
+    "source": "original"
+  },
+  "pronunciation": {
+    "focus_zh": "发ď/ť/ň时舌面抬向硬腭；不是普通d/t/n后硬加一个完整j音节。město用连续的mň起始。",
+    "contrast": [
+      {
+        "a": "díky",
+        "b": "dým",
+        "note_zh": "注意开头辅音软硬和元音长度，两项同时检查。"
+      }
+    ],
+    "task_zh": "录下děkuju、pět、město、nic；对照声音检查软化。"
+  },
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "di在本族词díky中的通常读法是？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "软ď加长í"
+        },
+        {
+          "id": "b",
+          "text": "硬d加短i"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "í是长元音，同时提示前面的d软读。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "pronunciation",
+      "id": "Pre-A1-U04-L01-E01",
+      "knowledge_points": [
+        "soft-dtn",
+        "letter-e-caron"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "听到的是哪个词？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "pět"
+        },
+        {
+          "id": "b",
+          "text": "byt"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "pět有pje的组合。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "listening"
+      ],
+      "error_category": "pronunciation",
+      "audio_text_cs": "pět",
+      "id": "Pre-A1-U04-L01-E02",
+      "knowledge_points": [
+        "soft-dtn",
+        "letter-e-caron"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "抄写“城市”，不能漏小钩。",
+      "stimulus_cs": "",
+      "answer": "město",
+      "accepted_answers": [
+        "město"
+      ],
+      "explanation_zh": "ě影响前面的声音组合。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "spelling",
+      "id": "Pre-A1-U04-L01-E03",
+      "knowledge_points": [
+        "soft-dtn",
+        "letter-e-caron"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "哪句关于i/y正确？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "二者任何时候发音完全不同"
+        },
+        {
+          "id": "b",
+          "text": "通常同类元音，但可提示前辅音软硬及词形"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "不能把拼写差别简单等同两种元音。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "Pre-A1-U04-L01-E04",
+      "knowledge_points": [
+        "soft-dtn",
+        "letter-e-caron"
+      ]
+    },
+    {
+      "type": "correct",
+      "prompt_zh": "修正“谢谢”中的漏号。",
+      "stimulus_cs": "Diky.",
+      "answer": "Díky.",
+      "accepted_answers": [
+        "Díky."
+      ],
+      "explanation_zh": "í应为长音符。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "spelling",
+      "id": "Pre-A1-U04-L01-E05",
+      "knowledge_points": [
+        "soft-dtn",
+        "letter-e-caron"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "mě通常如何理解？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "m后接ň和e"
+        },
+        {
+          "id": "b",
+          "text": "只有一个长e"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "město的开头不是单纯me。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "pronunciation",
+      "id": "Pre-A1-U04-L01-E06",
+      "knowledge_points": [
+        "soft-dtn",
+        "letter-e-caron"
+      ]
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "读dítě、dým，说明自己听见的辅音差别。",
+      "stimulus_cs": "",
+      "answer": "Dítě. Dým.",
+      "accepted_answers": [],
+      "explanation_zh": "分别比较ď与d，不追求快。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "Pre-A1-U04-L01-E07",
+      "knowledge_points": [
+        "soft-dtn",
+        "letter-e-caron"
+      ]
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "你听到了一个词，但不确定i还是y，请对方写下来。",
+      "stimulus_cs": "",
+      "answer": "Napište to, prosím.",
+      "accepted_answers": [],
+      "explanation_zh": "不能听出的拼写用书写确认。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "Pre-A1-U04-L01-E08",
+      "knowledge_points": [
+        "soft-dtn",
+        "letter-e-caron"
+      ]
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "写下dě、tě、ně、bě、pě、vě、mě，每组旁边举一个词。优先使用本课词；ně可用新词někdo（某人）。",
+      "stimulus_cs": "",
+      "answer": "děkuju, těší, někdo, běží, pět, věc, město",
+      "accepted_answers": [],
+      "explanation_zh": "例词可查字典；někdo是“某人”。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "Pre-A1-U04-L01-E09",
+      "knowledge_points": [
+        "soft-dtn",
+        "letter-e-caron"
+      ]
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "用中文提醒朋友：为什么不能把di的规则套到所有外来词。",
+      "stimulus_cs": "",
+      "answer": "本族词里的di/dí通常让d软读，但diktát、titul等外来词可能保留硬辅音。遇到外来词先核对词典读音，不能见到i就一律软化。",
+      "accepted_answers": [],
+      "explanation_zh": "规则有适用边界，要核对外来词。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "Pre-A1-U04-L01-E10",
+      "knowledge_points": [
+        "soft-dtn",
+        "letter-e-caron"
+      ]
+    }
+  ],
+  "transfer_task": {
+    "prompt_zh": "新遇到带ě的词，先标出前一个辅音，提出自己的读法，再听音频验证。",
+    "model_answer_cs": "Město. Věc. Pět.",
+    "rubric": [
+      "任务信息完整",
+      "用目标规律表达",
+      "独立完成并回听/回看"
+    ]
+  },
+  "review_links": [
+    "Pre-A1-U03-L01"
+  ],
+  "sources": [
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?id=103",
+      "scope": "本课涉及的声音/词形/语法规则；编排与例句为原创",
+      "verification": "官方来源用于相关规则交叉核查；具体查核范围见content/sources/foundation-verification.md；本课例句为原创，未逐句母语审校。"
+    }
+  ],
+  "content_status": "authored_crosschecked_not_native_reviewed",
+  "quality_notes": [
+    "课程及题目原创；自动检查结构、唯一ID与答案。",
+    "已对照所列官方发音、数词、条件式、物主词等章节核查相应规则；其余内容做内部语言一致性复核，未逐句外部审校。",
+    "CEFR级别为教学编排，不构成官方达标或考试认证。"
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "Pre-A1-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U04-L01--2026.10.23.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Díky. Dítě. Nic. Dým. Ty. Nyní. Děkuju. Těší mě. Běží. Pět. Věc. Město. To je nové město. Díky, už rozumím. Napište to, prosím.",
+      "duration_seconds": 17.22408163265306,
+      "slow_duration_seconds": 19.46480725623583,
+      "sha256": "e627604e744338ed7525aad5255ccc45163a6c6fb9ba861cdfe14278befada2a",
+      "slow_sha256": "2a2d5b6d4a54bd687f31c7a64c2737f9c9017c5a545722981a11aaa3a730ce6d"
+    },
+    {
+      "lesson_id": "Pre-A1-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U04-L01--2026.10.23.1--text--p0",
+      "asset_id": "Pre-A1-U04-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Díky. Dítě. Nic.",
+      "start": 0,
+      "end": 2.6239455782312926,
+      "slow_start": 0,
+      "slow_end": 2.9838548752834466
+    },
+    {
+      "lesson_id": "Pre-A1-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U04-L01--2026.10.23.1--text--s0",
+      "asset_id": "Pre-A1-U04-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Díky.",
+      "start": 0,
+      "end": 0.7198185941043084,
+      "slow_start": 0,
+      "slow_end": 0.893968253968254
+    },
+    {
+      "lesson_id": "Pre-A1-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U04-L01--2026.10.23.1--text--s1",
+      "asset_id": "Pre-A1-U04-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Dítě.",
+      "start": 0.8998185941043084,
+      "end": 1.6312471655328797,
+      "slow_start": 1.073968253968254,
+      "slow_end": 1.8866666666666667
+    },
+    {
+      "lesson_id": "Pre-A1-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U04-L01--2026.10.23.1--text--s2",
+      "asset_id": "Pre-A1-U04-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Nic.",
+      "start": 1.81124716553288,
+      "end": 2.6239455782312926,
+      "slow_start": 2.066666666666667,
+      "slow_end": 2.9838548752834466
+    },
+    {
+      "lesson_id": "Pre-A1-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U04-L01--2026.10.23.1--text--p1",
+      "asset_id": "Pre-A1-U04-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Dým. Ty. Nyní.",
+      "start": 2.8039455782312923,
+      "end": 5.114421768707483,
+      "slow_start": 3.1638548752834468,
+      "slow_end": 5.776190476190476
+    },
+    {
+      "lesson_id": "Pre-A1-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U04-L01--2026.10.23.1--text--s3",
+      "asset_id": "Pre-A1-U04-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 3,
+      "paragraph_index": 1,
+      "sentence_index": 0,
+      "text": "Dým.",
+      "start": 2.8039455782312923,
+      "end": 3.430884353741497,
+      "slow_start": 3.1638548752834468,
+      "slow_end": 3.8836734693877553
+    },
+    {
+      "lesson_id": "Pre-A1-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U04-L01--2026.10.23.1--text--s4",
+      "asset_id": "Pre-A1-U04-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 4,
+      "paragraph_index": 1,
+      "sentence_index": 1,
+      "text": "Ty.",
+      "start": 3.6108843537414965,
+      "end": 4.202993197278912,
+      "slow_start": 4.063673469387755,
+      "slow_end": 4.737052154195012
+    },
+    {
+      "lesson_id": "Pre-A1-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U04-L01--2026.10.23.1--text--s5",
+      "asset_id": "Pre-A1-U04-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 5,
+      "paragraph_index": 1,
+      "sentence_index": 2,
+      "text": "Nyní.",
+      "start": 4.382993197278911,
+      "end": 5.114421768707483,
+      "slow_start": 4.917052154195011,
+      "slow_end": 5.776190476190476
+    },
+    {
+      "lesson_id": "Pre-A1-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U04-L01--2026.10.23.1--text--p2",
+      "asset_id": "Pre-A1-U04-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Děkuju. Těší mě.",
+      "start": 5.294421768707483,
+      "end": 7.355238095238096,
+      "slow_start": 5.956190476190476,
+      "slow_end": 8.318866213151928
+    },
+    {
+      "lesson_id": "Pre-A1-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U04-L01--2026.10.23.1--text--s6",
+      "asset_id": "Pre-A1-U04-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 6,
+      "paragraph_index": 2,
+      "sentence_index": 0,
+      "text": "Děkuju.",
+      "start": 5.294421768707483,
+      "end": 6.130340136054421,
+      "slow_start": 5.956190476190476,
+      "slow_end": 6.8965986394557826
+    },
+    {
+      "lesson_id": "Pre-A1-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U04-L01--2026.10.23.1--text--s7",
+      "asset_id": "Pre-A1-U04-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 7,
+      "paragraph_index": 2,
+      "sentence_index": 1,
+      "text": "Těší mě.",
+      "start": 6.310340136054422,
+      "end": 7.355238095238096,
+      "slow_start": 7.076598639455782,
+      "slow_end": 8.318866213151928
+    },
+    {
+      "lesson_id": "Pre-A1-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U04-L01--2026.10.23.1--text--p3",
+      "asset_id": "Pre-A1-U04-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Běží. Pět. Věc.",
+      "start": 7.535238095238095,
+      "end": 10.298503401360545,
+      "slow_start": 8.498866213151928,
+      "slow_end": 11.656870748299319
+    },
+    {
+      "lesson_id": "Pre-A1-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U04-L01--2026.10.23.1--text--s8",
+      "asset_id": "Pre-A1-U04-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 8,
+      "paragraph_index": 3,
+      "sentence_index": 0,
+      "text": "Běží.",
+      "start": 7.535238095238095,
+      "end": 8.39437641723356,
+      "slow_start": 8.498866213151928,
+      "slow_end": 9.485714285714286
+    },
+    {
+      "lesson_id": "Pre-A1-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U04-L01--2026.10.23.1--text--s9",
+      "asset_id": "Pre-A1-U04-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 9,
+      "paragraph_index": 3,
+      "sentence_index": 1,
+      "text": "Pět.",
+      "start": 8.57437641723356,
+      "end": 9.22453514739229,
+      "slow_start": 9.665714285714285,
+      "slow_end": 10.37392290249433
+    },
+    {
+      "lesson_id": "Pre-A1-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U04-L01--2026.10.23.1--text--s10",
+      "asset_id": "Pre-A1-U04-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 10,
+      "paragraph_index": 3,
+      "sentence_index": 2,
+      "text": "Věc.",
+      "start": 9.40453514739229,
+      "end": 10.298503401360545,
+      "slow_start": 10.553922902494332,
+      "slow_end": 11.656870748299319
+    },
+    {
+      "lesson_id": "Pre-A1-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U04-L01--2026.10.23.1--text--p4",
+      "asset_id": "Pre-A1-U04-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 4,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Město.",
+      "start": 10.478503401360545,
+      "end": 11.442131519274376,
+      "slow_start": 11.83687074829932,
+      "slow_end": 12.939818594104308
+    },
+    {
+      "lesson_id": "Pre-A1-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U04-L01--2026.10.23.1--text--s11",
+      "asset_id": "Pre-A1-U04-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 11,
+      "paragraph_index": 4,
+      "sentence_index": 0,
+      "text": "Město.",
+      "start": 10.478503401360545,
+      "end": 11.442131519274376,
+      "slow_start": 11.83687074829932,
+      "slow_end": 12.939818594104308
+    },
+    {
+      "lesson_id": "Pre-A1-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U04-L01--2026.10.23.1--text--p5",
+      "asset_id": "Pre-A1-U04-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 5,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "To je nové město.",
+      "start": 11.622131519274376,
+      "end": 13.143038548752834,
+      "slow_start": 13.119818594104308,
+      "slow_end": 14.814875283446712
+    },
+    {
+      "lesson_id": "Pre-A1-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U04-L01--2026.10.23.1--text--s12",
+      "asset_id": "Pre-A1-U04-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 12,
+      "paragraph_index": 5,
+      "sentence_index": 0,
+      "text": "To je nové město.",
+      "start": 11.622131519274376,
+      "end": 13.143038548752834,
+      "slow_start": 13.119818594104308,
+      "slow_end": 14.814875283446712
+    },
+    {
+      "lesson_id": "Pre-A1-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U04-L01--2026.10.23.1--text--p6",
+      "asset_id": "Pre-A1-U04-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 6,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Díky, už rozumím.",
+      "start": 13.323038548752834,
+      "end": 15.018095238095238,
+      "slow_start": 14.994875283446712,
+      "slow_end": 16.980181405895692
+    },
+    {
+      "lesson_id": "Pre-A1-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U04-L01--2026.10.23.1--text--s13",
+      "asset_id": "Pre-A1-U04-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 13,
+      "paragraph_index": 6,
+      "sentence_index": 0,
+      "text": "Díky, už rozumím.",
+      "start": 13.323038548752834,
+      "end": 15.018095238095238,
+      "slow_start": 14.994875283446712,
+      "slow_end": 16.980181405895692
+    },
+    {
+      "lesson_id": "Pre-A1-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U04-L01--2026.10.23.1--text--p7",
+      "asset_id": "Pre-A1-U04-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 7,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Napište to, prosím.",
+      "start": 15.198095238095238,
+      "end": 17.04408163265306,
+      "slow_start": 17.160181405895692,
+      "slow_end": 19.284807256235826
+    },
+    {
+      "lesson_id": "Pre-A1-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U04-L01--2026.10.23.1--text--s14",
+      "asset_id": "Pre-A1-U04-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 14,
+      "paragraph_index": 7,
+      "sentence_index": 0,
+      "text": "Napište to, prosím.",
+      "start": 15.198095238095238,
+      "end": 17.04408163265306,
+      "slow_start": 17.160181405895692,
+      "slow_end": 19.284807256235826
+    },
+    {
+      "lesson_id": "Pre-A1-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--listening--7ed4a5f9aa--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--listening--7ed4a5f9aa--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U04-L01--2026.10.23.1--listening",
+      "role": "listening-full",
+      "index": 0,
+      "text": "Díky za pomoc. To je moje dítě. Pět minut, prosím.",
+      "duration_seconds": 5.27687074829932,
+      "slow_duration_seconds": 5.961859410430839,
+      "sha256": "015b39f0f0b3c594f937226af828e6847392d5251c346e521ccb3bdda4ffda01",
+      "slow_sha256": "dbec46ce181a9f4502276722386567953ecd6b3e78ed7f64a956dfee8bbcca27"
+    },
+    {
+      "lesson_id": "Pre-A1-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--listening--7ed4a5f9aa--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--listening--7ed4a5f9aa--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U04-L01--2026.10.23.1--listening--p0",
+      "asset_id": "Pre-A1-U04-L01--2026.10.23.1--listening",
+      "role": "listening",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Díky za pomoc.",
+      "start": 0,
+      "end": 1.5673469387755101,
+      "slow_start": 0,
+      "slow_end": 1.7414965986394557
+    },
+    {
+      "lesson_id": "Pre-A1-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--listening--7ed4a5f9aa--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--listening--7ed4a5f9aa--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U04-L01--2026.10.23.1--listening--p1",
+      "asset_id": "Pre-A1-U04-L01--2026.10.23.1--listening",
+      "role": "listening",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "To je moje dítě.",
+      "start": 1.7473469387755103,
+      "end": 3.0128344671201814,
+      "slow_start": 1.9214965986394559,
+      "slow_end": 3.4191836734693877
+    },
+    {
+      "lesson_id": "Pre-A1-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--listening--7ed4a5f9aa--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--listening--7ed4a5f9aa--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U04-L01--2026.10.23.1--listening--p2",
+      "asset_id": "Pre-A1-U04-L01--2026.10.23.1--listening",
+      "role": "listening",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Pět minut, prosím.",
+      "start": 3.1928344671201816,
+      "end": 5.096870748299319,
+      "slow_start": 3.599183673469388,
+      "slow_end": 5.781859410430839
+    },
+    {
+      "lesson_id": "Pre-A1-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--vocabulary--a2a411cec8--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--vocabulary--a2a411cec8--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U04-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary-full",
+      "index": 0,
+      "text": "To je dítě. Díky za pomoc. Praha je město. To je důležitá věc.",
+      "duration_seconds": 6.5482086167800455,
+      "slow_duration_seconds": 7.488616780045351,
+      "sha256": "c12b60c555ab27bfcd6c03b8d2983ddc81a8f5fac3dc15af9b1db78453332905",
+      "slow_sha256": "0f48c229b544cbe034e42c339e82592725b48a5e701e89b45e43ffe48b2734a6"
+    },
+    {
+      "lesson_id": "Pre-A1-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--vocabulary--a2a411cec8--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--vocabulary--a2a411cec8--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U04-L01--2026.10.23.1--vocabulary--p0",
+      "asset_id": "Pre-A1-U04-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "To je dítě.",
+      "start": 0,
+      "end": 0.9984580498866213,
+      "slow_start": 0,
+      "slow_end": 1.1377777777777778
+    },
+    {
+      "lesson_id": "Pre-A1-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--vocabulary--a2a411cec8--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--vocabulary--a2a411cec8--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U04-L01--2026.10.23.1--vocabulary--p1",
+      "asset_id": "Pre-A1-U04-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Díky za pomoc.",
+      "start": 1.1784580498866213,
+      "end": 2.7225850340136053,
+      "slow_start": 1.3177777777777777,
+      "slow_end": 3.128934240362812
+    },
+    {
+      "lesson_id": "Pre-A1-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--vocabulary--a2a411cec8--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--vocabulary--a2a411cec8--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U04-L01--2026.10.23.1--vocabulary--p2",
+      "asset_id": "Pre-A1-U04-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Praha je město.",
+      "start": 2.9025850340136055,
+      "end": 4.388662131519275,
+      "slow_start": 3.3089342403628117,
+      "slow_end": 4.969160997732426
+    },
+    {
+      "lesson_id": "Pre-A1-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--vocabulary--a2a411cec8--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--vocabulary--a2a411cec8--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U04-L01--2026.10.23.1--vocabulary--p3",
+      "asset_id": "Pre-A1-U04-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "To je důležitá věc.",
+      "start": 4.568662131519274,
+      "end": 6.368208616780046,
+      "slow_start": 5.149160997732427,
+      "slow_end": 7.308616780045352
+    },
+    {
+      "lesson_id": "Pre-A1-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--exercises--de231626fb--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--exercises--de231626fb--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U04-L01--2026.10.23.1--exercises",
+      "role": "exercises-full",
+      "index": 0,
+      "text": "pět",
+      "duration_seconds": 0.8765986394557823,
+      "slow_duration_seconds": 0.9114285714285715,
+      "sha256": "a5b4b17e88d3df7754c9b750a26f8522598cbf4b2a98043e4e7219d79f8189c9",
+      "slow_sha256": "4c351f504d63f70bbc7de177614526c247ed40a7d640a986965f2e0d92a10d36"
+    },
+    {
+      "lesson_id": "Pre-A1-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--exercises--de231626fb--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--exercises--de231626fb--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U04-L01--2026.10.23.1--exercises--p0",
+      "asset_id": "Pre-A1-U04-L01--2026.10.23.1--exercises",
+      "role": "exercise",
+      "index": 0,
+      "exercise_id": "Pre-A1-U04-L01-E02",
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "pět",
+      "start": 0,
+      "end": 0.6965986394557823,
+      "slow_start": 0,
+      "slow_end": 0.7314285714285714
+    },
+    {
+      "lesson_id": "Pre-A1-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--contrasts--9a7808b918--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--contrasts--9a7808b918--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U04-L01--2026.10.23.1--contrasts",
+      "role": "contrasts-full",
+      "index": 0,
+      "text": "díky. dým.",
+      "duration_seconds": 1.2481179138321996,
+      "slow_duration_seconds": 1.3293877551020408,
+      "sha256": "88b3b1e9e1c284508e9497ac4c5e0fd195555470a94f041f00e51ad3fc6ffb97",
+      "slow_sha256": "6519e57c1970c5dff2fc7f92fc9ea4e4d5c8e59ed04e1e80351f77a507a6c030"
+    },
+    {
+      "lesson_id": "Pre-A1-U04-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--contrasts--9a7808b918--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U04-L01--2026.10.22.1--contrasts--9a7808b918--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U04-L01--2026.10.23.1--contrasts--p0",
+      "asset_id": "Pre-A1-U04-L01--2026.10.23.1--contrasts",
+      "role": "contrast",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "díky. dým.",
+      "start": 0,
+      "end": 1.0681179138321995,
+      "slow_start": 0,
+      "slow_end": 1.1493877551020408
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "id": "A1-U07-L01--2026.10.22.1--text",
+  "lesson_id": "A1-U07-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "To je moje rodina. Na fotografii je moje sestra, její manžel a jejich dcera.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "To je moje rodina.",
+        "Na fotografii je moje sestra, její manžel a jejich dcera."
+      ]
+    },
+    {
+      "text": "Sestra se jmenuje Lin. Pracuje v obchodě a má ráda svou práci.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Sestra se jmenuje Lin.",
+        "Pracuje v obchodě a má ráda svou práci."
+      ]
+    },
+    {
+      "text": "Její manžel je kuchař. Rád vaří, ale doma někdy vaří i sestra.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Její manžel je kuchař.",
+        "Rád vaří, ale doma někdy vaří i sestra."
+      ]
+    },
+    {
+      "text": "Jejich dcera chodí do školy. Ráda čte a kreslí.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Jejich dcera chodí do školy.",
+        "Ráda čte a kreslí."
+      ]
+    },
+    {
+      "text": "Já bydlím sám. Ve volném čase rád chodím ven a poslouchám hudbu.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Já bydlím sám.",
+        "Ve volném čase rád chodím ven a poslouchám hudbu."
+      ]
+    },
+    {
+      "text": "Můj kamarád Pavel má rád sport. Každou sobotu hraje fotbal.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Můj kamarád Pavel má rád sport.",
+        "Každou sobotu hraje fotbal."
+      ]
+    },
+    {
+      "text": "Nemám moc času na sport, ale rád se s ním procházím.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Nemám moc času na sport, ale rád se s ním procházím."
+      ]
+    },
+    {
+      "text": "A co vy? Máte sourozence? Co rádi děláte o víkendu?",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "A co vy?",
+        "Máte sourozence?",
+        "Co rádi děláte o víkendu?"
+      ]
+    },
+    {
+      "text": "O osobních věcech mluvíme jen tehdy, když chceme.",
+      "index": 8,
+      "role": "text",
+      "parts": [
+        "O osobních věcech mluvíme jen tehdy, když chceme."
+      ]
+    }
+  ],
+  "text_sha256": "a21d6289409ae452e5630dc214f38f705b0735a90615f6eb03124e50d8cc020d",
+  "source_file": "content/lessons/A1/A1-U07-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U07-L01--2026.10.22.1--text--a21d628940--normal.mp3",
+  "slow_file": "content/audio/files/A1-U07-L01--2026.10.22.1--text--a21d628940--slow.mp3",
+  "duration_seconds": 51.14852607709751,
+  "slow_duration_seconds": 57.208934240362815,
+  "cues": [
+    {
+      "text": "To je moje rodina. Na fotografii je moje sestra, její manžel a jejich dcera.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "To je moje rodina.",
+        "Na fotografii je moje sestra, její manžel a jejich dcera."
+      ],
+      "start": 0.0,
+      "end": 6.5422675736961455,
+      "sentences": [
+        {
+          "text": "To je moje rodina.",
+          "start": 0.0,
+          "end": 1.3467573696145125,
+          "slow_start": 0.0,
+          "slow_end": 1.3699773242630386
+        },
+        {
+          "text": "Na fotografii je moje sestra, její manžel a jejich dcera.",
+          "start": 1.5267573696145125,
+          "end": 6.5422675736961455,
+          "slow_start": 1.5499773242630386,
+          "slow_end": 6.98344671201814
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 6.98344671201814
+    },
+    {
+      "text": "Sestra se jmenuje Lin. Pracuje v obchodě a má ráda svou práci.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Sestra se jmenuje Lin.",
+        "Pracuje v obchodě a má ráda svou práci."
+      ],
+      "start": 6.722267573696145,
+      "end": 12.405396825396826,
+      "sentences": [
+        {
+          "text": "Sestra se jmenuje Lin.",
+          "start": 6.722267573696145,
+          "end": 8.707573696145126,
+          "slow_start": 7.163446712018141,
+          "slow_end": 9.334512471655328
+        },
+        {
+          "text": "Pracuje v obchodě a má ráda svou práci.",
+          "start": 8.887573696145125,
+          "end": 12.405396825396826,
+          "slow_start": 9.514512471655328,
+          "slow_end": 13.461904761904762
+        }
+      ],
+      "slow_start": 7.163446712018141,
+      "slow_end": 13.461904761904762
+    },
+    {
+      "text": "Její manžel je kuchař. Rád vaří, ale doma někdy vaří i sestra.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Její manžel je kuchař.",
+        "Rád vaří, ale doma někdy vaří i sestra."
+      ],
+      "start": 12.585396825396826,
+      "end": 18.698095238095238,
+      "sentences": [
+        {
+          "text": "Její manžel je kuchař.",
+          "start": 12.585396825396826,
+          "end": 14.814512471655329,
+          "slow_start": 13.641904761904762,
+          "slow_end": 16.14965986394558
+        },
+        {
+          "text": "Rád vaří, ale doma někdy vaří i sestra.",
+          "start": 14.994512471655328,
+          "end": 18.698095238095238,
+          "slow_start": 16.32965986394558,
+          "slow_end": 20.555691609977323
+        }
+      ],
+      "slow_start": 13.641904761904762,
+      "slow_end": 20.555691609977323
+    },
+    {
+      "text": "Jejich dcera chodí do školy. Ráda čte a kreslí.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Jejich dcera chodí do školy.",
+        "Ráda čte a kreslí."
+      ],
+      "start": 18.878095238095238,
+      "end": 23.318956916099772,
+      "sentences": [
+        {
+          "text": "Jejich dcera chodí do školy.",
+          "start": 18.878095238095238,
+          "end": 21.153650793650794,
+          "slow_start": 20.735691609977323,
+          "slow_end": 23.40598639455782
+        },
+        {
+          "text": "Ráda čte a kreslí.",
+          "start": 21.333650793650794,
+          "end": 23.318956916099772,
+          "slow_start": 23.585986394557825,
+          "slow_end": 25.873151927437643
+        }
+      ],
+      "slow_start": 20.735691609977323,
+      "slow_end": 25.873151927437643
+    },
+    {
+      "text": "Já bydlím sám. Ve volném čase rád chodím ven a poslouchám hudbu.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Já bydlím sám.",
+        "Ve volném čase rád chodím ven a poslouchám hudbu."
+      ],
+      "start": 23.49895691609977,
+      "end": 29.832244897959185,
+      "sentences": [
+        {
+          "text": "Já bydlím sám.",
+          "start": 23.49895691609977,
+          "end": 25.112743764172336,
+          "slow_start": 26.053151927437643,
+          "slow_end": 27.852698412698413
+        },
+        {
+          "text": "Ve volném čase rád chodím ven a poslouchám hudbu.",
+          "start": 25.292743764172336,
+          "end": 29.832244897959185,
+          "slow_start": 28.032698412698412,
+          "slow_end": 33.094648526077094
+        }
+      ],
+      "slow_start": 26.053151927437643,
+      "slow_end": 33.094648526077094
+    },
+    {
+      "text": "Můj kamarád Pavel má rád sport. Každou sobotu hraje fotbal.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Můj kamarád Pavel má rád sport.",
+        "Každou sobotu hraje fotbal."
+      ],
+      "start": 30.012244897959185,
+      "end": 35.974013605442174,
+      "sentences": [
+        {
+          "text": "Můj kamarád Pavel má rád sport.",
+          "start": 30.012244897959185,
+          "end": 33.32108843537415,
+          "slow_start": 33.2746485260771,
+          "slow_end": 36.97823129251701
+        },
+        {
+          "text": "Každou sobotu hraje fotbal.",
+          "start": 33.50108843537415,
+          "end": 35.974013605442174,
+          "slow_start": 37.15823129251701,
+          "slow_end": 40.00267573696145
+        }
+      ],
+      "slow_start": 33.2746485260771,
+      "slow_end": 40.00267573696145
+    },
+    {
+      "text": "Nemám moc času na sport, ale rád se s ním procházím.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Nemám moc času na sport, ale rád se s ním procházím."
+      ],
+      "start": 36.154013605442174,
+      "end": 41.146303854875285,
+      "sentences": [
+        {
+          "text": "Nemám moc času na sport, ale rád se s ním procházím.",
+          "start": 36.154013605442174,
+          "end": 41.146303854875285,
+          "slow_start": 40.18267573696145,
+          "slow_end": 45.83673469387755
+        }
+      ],
+      "slow_start": 40.18267573696145,
+      "slow_end": 45.83673469387755
+    },
+    {
+      "text": "A co vy? Máte sourozence? Co rádi děláte o víkendu?",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "A co vy?",
+        "Máte sourozence?",
+        "Co rádi děláte o víkendu?"
+      ],
+      "start": 41.326303854875285,
+      "end": 46.53927437641723,
+      "sentences": [
+        {
+          "text": "A co vy?",
+          "start": 41.326303854875285,
+          "end": 42.26671201814059,
+          "slow_start": 46.01673469387755,
+          "slow_end": 47.061632653061224
+        },
+        {
+          "text": "Máte sourozence?",
+          "start": 42.44671201814059,
+          "end": 44.09532879818594,
+          "slow_start": 47.241632653061224,
+          "slow_end": 49.19210884353741
+        },
+        {
+          "text": "Co rádi děláte o víkendu?",
+          "start": 44.27532879818594,
+          "end": 46.53927437641723,
+          "slow_start": 49.37210884353742,
+          "slow_end": 51.972743764172336
+        }
+      ],
+      "slow_start": 46.01673469387755,
+      "slow_end": 51.972743764172336
+    },
+    {
+      "text": "O osobních věcech mluvíme jen tehdy, když chceme.",
+      "index": 8,
+      "role": "text",
+      "parts": [
+        "O osobních věcech mluvíme jen tehdy, když chceme."
+      ],
+      "start": 46.71927437641723,
+      "end": 50.96852607709751,
+      "sentences": [
+        {
+          "text": "O osobních věcech mluvíme jen tehdy, když chceme.",
+          "start": 46.71927437641723,
+          "end": 50.96852607709751,
+          "slow_start": 52.152743764172335,
+          "slow_end": 57.02893424036281
+        }
+      ],
+      "slow_start": 52.152743764172335,
+      "slow_end": 57.02893424036281
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "de2392b6c3d19f3020ffc37fa8ae32547bb31a881546a0eaf3b35eaef725f540",
+    "slow": "949c2fc777b768a84b0c8836a93040005163c4e723bf7996440897fcf2afb059"
+  }
+}

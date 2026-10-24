@@ -1,0 +1,75 @@
+{
+  "id": "A2-U03-L01--2026.10.22.1--listening",
+  "lesson_id": "A2-U03-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Eva dá knihu Janě. Potom mluví s Janou o knize. Bez té knihy nemůže dokončit úkol.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Eva dá knihu Janě.",
+        "Potom mluví s Janou o knize.",
+        "Bez té knihy nemůže dokončit úkol."
+      ]
+    }
+  ],
+  "text_sha256": "fc11611d875ef7919a8ed9cb6a9d537b8fa3a48315fc90245df7821bb36c27ce",
+  "source_file": "content/lessons/A2/A2-U03-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U03-L01--2026.10.22.1--listening--fc11611d87--normal.mp3",
+  "slow_file": "content/audio/files/A2-U03-L01--2026.10.22.1--listening--fc11611d87--slow.mp3",
+  "duration_seconds": 8.167755102040816,
+  "slow_duration_seconds": 9.154603174603174,
+  "cues": [
+    {
+      "text": "Eva dá knihu Janě. Potom mluví s Janou o knize. Bez té knihy nemůže dokončit úkol.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Eva dá knihu Janě.",
+        "Potom mluví s Janou o knize.",
+        "Bez té knihy nemůže dokončit úkol."
+      ],
+      "start": 0.0,
+      "end": 7.987755102040817,
+      "sentences": [
+        {
+          "text": "Eva dá knihu Janě.",
+          "start": 0.0,
+          "end": 1.7647165532879818,
+          "slow_start": 0.0,
+          "slow_end": 1.9853061224489796
+        },
+        {
+          "text": "Potom mluví s Janou o knize.",
+          "start": 1.9447165532879818,
+          "end": 4.487301587301587,
+          "slow_start": 2.1653061224489796,
+          "slow_end": 5.009750566893424
+        },
+        {
+          "text": "Bez té knihy nemůže dokončit úkol.",
+          "start": 4.667301587301587,
+          "end": 7.987755102040817,
+          "slow_start": 5.189750566893424,
+          "slow_end": 8.974603174603175
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 8.974603174603175
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "c77f3deea9277c7f39b5df03881709d5d8c71f1a8bd1707cc2ba0f96f59ae0ad",
+    "slow": "12fa77932416e97efcea14c1d7bf798ae2297e6de65dae924e2a1ae5fdad0e81"
+  }
+}

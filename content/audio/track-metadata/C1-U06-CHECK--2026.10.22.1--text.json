@@ -1,0 +1,84 @@
+{
+  "id": "C1-U06-CHECK--2026.10.22.1--text",
+  "lesson_id": "C1-U06-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Sportovní spolek zvažuje nový rezervační systém. Oslovil pouze pravidelné hráče, kteří změnu většinou vítají. Správce navrhuje okamžitý přechod všech týmů. Jiná členka žádá nejprve zkoušku s možností telefonické rezervace pro lidi bez internetu.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Sportovní spolek zvažuje nový rezervační systém.",
+        "Oslovil pouze pravidelné hráče, kteří změnu většinou vítají.",
+        "Správce navrhuje okamžitý přechod všech týmů.",
+        "Jiná členka žádá nejprve zkoušku s možností telefonické rezervace pro lidi bez internetu."
+      ]
+    }
+  ],
+  "text_sha256": "df1116d762227233501f3985b058aa9859813abe9f647da968ba1b6a506eafb0",
+  "source_file": "content/assessments/C1-U06.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U06-CHECK--2026.10.22.1--text--df1116d762--normal.mp3",
+  "slow_file": "content/audio/files/C1-U06-CHECK--2026.10.22.1--text--df1116d762--slow.mp3",
+  "duration_seconds": 22.314557823129253,
+  "slow_duration_seconds": 25.100952380952382,
+  "cues": [
+    {
+      "text": "Sportovní spolek zvažuje nový rezervační systém. Oslovil pouze pravidelné hráče, kteří změnu většinou vítají. Správce navrhuje okamžitý přechod všech týmů. Jiná členka žádá nejprve zkoušku s možností telefonické rezervace pro lidi bez internetu.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Sportovní spolek zvažuje nový rezervační systém.",
+        "Oslovil pouze pravidelné hráče, kteří změnu většinou vítají.",
+        "Správce navrhuje okamžitý přechod všech týmů.",
+        "Jiná členka žádá nejprve zkoušku s možností telefonické rezervace pro lidi bez internetu."
+      ],
+      "start": 0.0,
+      "end": 22.134557823129253,
+      "sentences": [
+        {
+          "text": "Sportovní spolek zvažuje nový rezervační systém.",
+          "start": 0.0,
+          "end": 4.31891156462585,
+          "slow_start": 0.0,
+          "slow_end": 4.818140589569161
+        },
+        {
+          "text": "Oslovil pouze pravidelné hráče, kteří změnu většinou vítají.",
+          "start": 4.498911564625851,
+          "end": 10.048480725623582,
+          "slow_start": 4.998140589569161,
+          "slow_end": 11.22108843537415
+        },
+        {
+          "text": "Správce navrhuje okamžitý přechod všech týmů.",
+          "start": 10.228480725623582,
+          "end": 14.26875283446712,
+          "slow_start": 11.401088435374149,
+          "slow_end": 15.859319727891156
+        },
+        {
+          "text": "Jiná členka žádá nejprve zkoušku s možností telefonické rezervace pro lidi bez internetu.",
+          "start": 14.44875283446712,
+          "end": 22.134557823129253,
+          "slow_start": 16.039319727891158,
+          "slow_end": 24.920952380952382
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 24.920952380952382
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "98966f8eade44b8687b69ca4fbf8029c6412739881517d30a39f786c63cfc387",
+    "slow": "39d4a70398f5bc5d2e7909031da1f4324a4f6dad04feba7e5b3b075bcfde438c"
+  }
+}

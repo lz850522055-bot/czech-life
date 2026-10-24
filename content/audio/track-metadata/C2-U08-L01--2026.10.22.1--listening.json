@@ -1,0 +1,84 @@
+{
+  "id": "C2-U08-L01--2026.10.22.1--listening",
+  "lesson_id": "C2-U08-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C2",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Čtenářka: Hodiny podle mě znamenají, že odmítá změnu. Čtenář: Jenže na konci přijme návrh spolku. Možná tedy nejde o úplné odmítnutí, spíš o vyjednávání, co si ponechá. Text jeho postoj neuzavírá jedním gestem.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Čtenářka: Hodiny podle mě znamenají, že odmítá změnu.",
+        "Čtenář: Jenže na konci přijme návrh spolku.",
+        "Možná tedy nejde o úplné odmítnutí, spíš o vyjednávání, co si ponechá.",
+        "Text jeho postoj neuzavírá jedním gestem."
+      ]
+    }
+  ],
+  "text_sha256": "abdb8bc4ee1e934fc282fc022b27adaaa1afb33dcdb0cda4514dd3af6f66bb4f",
+  "source_file": "content/lessons/C2/C2-U08-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U08-L01--2026.10.22.1--listening--abdb8bc4ee--normal.mp3",
+  "slow_file": "content/audio/files/C2-U08-L01--2026.10.22.1--listening--abdb8bc4ee--slow.mp3",
+  "duration_seconds": 19.89968253968254,
+  "slow_duration_seconds": 22.73251700680272,
+  "cues": [
+    {
+      "text": "Čtenářka: Hodiny podle mě znamenají, že odmítá změnu. Čtenář: Jenže na konci přijme návrh spolku. Možná tedy nejde o úplné odmítnutí, spíš o vyjednávání, co si ponechá. Text jeho postoj neuzavírá jedním gestem.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Čtenářka: Hodiny podle mě znamenají, že odmítá změnu.",
+        "Čtenář: Jenže na konci přijme návrh spolku.",
+        "Možná tedy nejde o úplné odmítnutí, spíš o vyjednávání, co si ponechá.",
+        "Text jeho postoj neuzavírá jedním gestem."
+      ],
+      "start": 0.0,
+      "end": 19.71968253968254,
+      "sentences": [
+        {
+          "text": "Čtenářka: Hodiny podle mě znamenají, že odmítá změnu.",
+          "start": 0.0,
+          "end": 4.760090702947846,
+          "slow_start": 0.0,
+          "slow_end": 5.5147392290249435
+        },
+        {
+          "text": "Čtenář: Jenže na konci přijme návrh spolku.",
+          "start": 4.940090702947846,
+          "end": 8.957142857142857,
+          "slow_start": 5.694739229024943,
+          "slow_end": 10.396780045351473
+        },
+        {
+          "text": "Možná tedy nejde o úplné odmítnutí, spíš o vyjednávání, co si ponechá.",
+          "start": 9.137142857142857,
+          "end": 15.638730158730159,
+          "slow_start": 10.576780045351473,
+          "slow_end": 17.902675736961452
+        },
+        {
+          "text": "Text jeho postoj neuzavírá jedním gestem.",
+          "start": 15.818730158730158,
+          "end": 19.71968253968254,
+          "slow_start": 18.082675736961452,
+          "slow_end": 22.55251700680272
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 22.55251700680272
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "8cc285d409647ddbf4d8e0ae68384c5e3ddf1aabe7fcf5582fd6bae2e35c41b7",
+    "slow": "9c2f7d9d7513cca6d82c7e37b8b7325f2a07e40d5f1b774a54ed19ca0c178d2c"
+  }
+}

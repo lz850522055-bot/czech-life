@@ -1,0 +1,15 @@
+name: Gameplay, language or data improvement
+description: Suggest a focused change or contribute local knowledge
+body:
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Player need and proposed change
+      description: Include original/proposed Czech wording or data sources when relevant.
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Evidence and acceptance
+      description: How can we check correctness, usefulness and redistribution permission?

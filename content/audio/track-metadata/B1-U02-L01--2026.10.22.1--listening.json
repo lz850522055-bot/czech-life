@@ -1,0 +1,93 @@
+{
+  "id": "B1-U02-L01--2026.10.22.1--listening",
+  "lesson_id": "B1-U02-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Petra: Už jsi poslal nabídku? Milan: Zatím ne. Dopoledne jsem ji připravoval, ale čekal jsem na cenu dopravy. Teď už cenu znám a nabídku dokončím do hodiny. Petra: Dobře, zákazníkovi tedy řeknu, že ji dostane odpoledne, ne že už odešla.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Petra: Už jsi poslal nabídku?",
+        "Milan: Zatím ne.",
+        "Dopoledne jsem ji připravoval, ale čekal jsem na cenu dopravy.",
+        "Teď už cenu znám a nabídku dokončím do hodiny.",
+        "Petra: Dobře, zákazníkovi tedy řeknu, že ji dostane odpoledne, ne že už odešla."
+      ]
+    }
+  ],
+  "text_sha256": "0f85e53979a2832f6c955d4677151c2ae4867911c87e12a16565b9efec5d900f",
+  "source_file": "content/lessons/B1/B1-U02-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U02-L01--2026.10.22.1--listening--0f85e53979--normal.mp3",
+  "slow_file": "content/audio/files/B1-U02-L01--2026.10.22.1--listening--0f85e53979--slow.mp3",
+  "duration_seconds": 22.18108843537415,
+  "slow_duration_seconds": 24.828163265306124,
+  "cues": [
+    {
+      "text": "Petra: Už jsi poslal nabídku? Milan: Zatím ne. Dopoledne jsem ji připravoval, ale čekal jsem na cenu dopravy. Teď už cenu znám a nabídku dokončím do hodiny. Petra: Dobře, zákazníkovi tedy řeknu, že ji dostane odpoledne, ne že už odešla.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Petra: Už jsi poslal nabídku?",
+        "Milan: Zatím ne.",
+        "Dopoledne jsem ji připravoval, ale čekal jsem na cenu dopravy.",
+        "Teď už cenu znám a nabídku dokončím do hodiny.",
+        "Petra: Dobře, zákazníkovi tedy řeknu, že ji dostane odpoledne, ne že už odešla."
+      ],
+      "start": 0.0,
+      "end": 22.00108843537415,
+      "sentences": [
+        {
+          "text": "Petra: Už jsi poslal nabídku?",
+          "start": 0.0,
+          "end": 2.9024943310657596,
+          "slow_start": 0.0,
+          "slow_end": 3.3901133786848074
+        },
+        {
+          "text": "Milan: Zatím ne.",
+          "start": 3.0824943310657598,
+          "end": 4.847210884353742,
+          "slow_start": 3.570113378684807,
+          "slow_end": 5.625079365079365
+        },
+        {
+          "text": "Dopoledne jsem ji připravoval, ale čekal jsem na cenu dopravy.",
+          "start": 5.0272108843537415,
+          "end": 10.44907029478458,
+          "slow_start": 5.805079365079365,
+          "slow_end": 11.877097505668933
+        },
+        {
+          "text": "Teď už cenu znám a nabídku dokončím do hodiny.",
+          "start": 10.629070294784581,
+          "end": 14.785442176870749,
+          "slow_start": 12.057097505668935,
+          "slow_end": 16.66625850340136
+        },
+        {
+          "text": "Petra: Dobře, zákazníkovi tedy řeknu, že ji dostane odpoledne, ne že už odešla.",
+          "start": 14.965442176870749,
+          "end": 22.00108843537415,
+          "slow_start": 16.846258503401362,
+          "slow_end": 24.648163265306124
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 24.648163265306124
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "faf8ee3ef489abc66ea879e09aa0dfa2b1bf3a974b90edf9ebeb069aade189ca",
+    "slow": "66bc13fbeb2fd128eb9cd18f66f71b7c4acd57ff70940f6d8e6bd12229763850"
+  }
+}

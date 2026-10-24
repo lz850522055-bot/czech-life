@@ -1,0 +1,144 @@
+{
+  "id": "B1-U12-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "B1-U12-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Potřebuji krátké zaškolení.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Potřebuji krátké zaškolení."
+      ]
+    },
+    {
+      "text": "Nářadí použijte po zaškolení.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Nářadí použijte po zaškolení."
+      ]
+    },
+    {
+      "text": "Materiál se platí zvlášť.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Materiál se platí zvlášť."
+      ]
+    },
+    {
+      "text": "Nejdřív proběhne konzultace.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Nejdřív proběhne konzultace."
+      ]
+    }
+  ],
+  "text_sha256": "2d3815a11b3fd3bab5b13519204abb718c3f7dd497c0d91897d3ff150b76a473",
+  "source_file": "content/lessons/B1/B1-U12-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U12-L01--2026.10.22.1--vocabulary--2d3815a11b--normal.mp3",
+  "slow_file": "content/audio/files/B1-U12-L01--2026.10.22.1--vocabulary--2d3815a11b--slow.mp3",
+  "duration_seconds": 11.018049886621315,
+  "slow_duration_seconds": 12.480907029478457,
+  "cues": [
+    {
+      "text": "Potřebuji krátké zaškolení.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Potřebuji krátké zaškolení."
+      ],
+      "start": 0.0,
+      "end": 2.5425850340136056,
+      "sentences": [
+        {
+          "text": "Potřebuji krátké zaškolení.",
+          "start": 0.0,
+          "end": 2.5425850340136056,
+          "slow_start": 0.0,
+          "slow_end": 2.8676643990929707
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.8676643990929707
+    },
+    {
+      "text": "Nářadí použijte po zaškolení.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Nářadí použijte po zaškolení."
+      ],
+      "start": 2.7225850340136053,
+      "end": 5.381269841269841,
+      "sentences": [
+        {
+          "text": "Nářadí použijte po zaškolení.",
+          "start": 2.7225850340136053,
+          "end": 5.381269841269841,
+          "slow_start": 3.0476643990929704,
+          "slow_end": 6.135918367346939
+        }
+      ],
+      "slow_start": 3.0476643990929704,
+      "slow_end": 6.135918367346939
+    },
+    {
+      "text": "Materiál se platí zvlášť.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Materiál se platí zvlášť."
+      ],
+      "start": 5.561269841269842,
+      "end": 8.034195011337868,
+      "sentences": [
+        {
+          "text": "Materiál se platí zvlášť.",
+          "start": 5.561269841269842,
+          "end": 8.034195011337868,
+          "slow_start": 6.315918367346939,
+          "slow_end": 9.195192743764173
+        }
+      ],
+      "slow_start": 6.315918367346939,
+      "slow_end": 9.195192743764173
+    },
+    {
+      "text": "Nejdřív proběhne konzultace.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Nejdřív proběhne konzultace."
+      ],
+      "start": 8.214195011337868,
+      "end": 10.838049886621315,
+      "sentences": [
+        {
+          "text": "Nejdřív proběhne konzultace.",
+          "start": 8.214195011337868,
+          "end": 10.838049886621315,
+          "slow_start": 9.375192743764172,
+          "slow_end": 12.300907029478457
+        }
+      ],
+      "slow_start": 9.375192743764172,
+      "slow_end": 12.300907029478457
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "5de87e0cd366b2a9c890c41bd0691dfbec0f1aabd610196fdf5eb2d75bd622d2",
+    "slow": "a9362999c48dcd6bcd8f90be5dfafaafd815fb550bf1c8db859edd7459ffba18"
+  }
+}

@@ -1,0 +1,350 @@
+{
+  "id": "A2-U01-L01--2026.10.22.1--text",
+  "lesson_id": "A2-U01-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Včera jsem měl volný den, a proto jsem chtěl vyřídit několik věcí ve městě. Ráno jsem vstal v osm a připravil jsem si snídani.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Včera jsem měl volný den, a proto jsem chtěl vyřídit několik věcí ve městě.",
+        "Ráno jsem vstal v osm a připravil jsem si snídani."
+      ]
+    },
+    {
+      "text": "Nejdřív jsem šel na poštu. Potřeboval jsem poslat malý balík, ale zapomněl jsem doma adresu. Musel jsem se vrátit.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Nejdřív jsem šel na poštu.",
+        "Potřeboval jsem poslat malý balík, ale zapomněl jsem doma adresu.",
+        "Musel jsem se vrátit."
+      ]
+    },
+    {
+      "text": "Potom jsem jel do knihovny. Moje kamarádka tam studovala. Chvíli jsme spolu mluvili a pak jsme si dali oběd.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Potom jsem jel do knihovny.",
+        "Moje kamarádka tam studovala.",
+        "Chvíli jsme spolu mluvili a pak jsme si dali oběd."
+      ]
+    },
+    {
+      "text": "Odpoledne pršelo, takže jsme nešli do parku. Zůstali jsme v kavárně a plánovali jsme další týden.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Odpoledne pršelo, takže jsme nešli do parku.",
+        "Zůstali jsme v kavárně a plánovali jsme další týden."
+      ]
+    },
+    {
+      "text": "Zítra budu pracovat doma. Dopoledne budu psát zprávy a odpoledne budu čekat na důležitý telefonát.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Zítra budu pracovat doma.",
+        "Dopoledne budu psát zprávy a odpoledne budu čekat na důležitý telefonát."
+      ]
+    },
+    {
+      "text": "Večer si koupím potraviny a potom uvařím večeři. Nechci mít zase prázdnou lednici.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Večer si koupím potraviny a potom uvařím večeři.",
+        "Nechci mít zase prázdnou lednici."
+      ]
+    },
+    {
+      "text": "Kamarádka bude celý den ve škole. Řekla, že mi napíše večer, až bude mít čas.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Kamarádka bude celý den ve škole.",
+        "Řekla, že mi napíše večer, až bude mít čas."
+      ]
+    },
+    {
+      "text": "Dnes si proto zapíšu všechny adresy a úkoly. Když mám jednoduchý seznam, méně věcí zapomínám a nemusím se zbytečně vracet domů.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Dnes si proto zapíšu všechny adresy a úkoly.",
+        "Když mám jednoduchý seznam, méně věcí zapomínám a nemusím se zbytečně vracet domů."
+      ]
+    }
+  ],
+  "text_sha256": "bad9b0d85f7fb4f051fed4b25edc721ffc19099f2c8ddb6dfea997d280969d7e",
+  "source_file": "content/lessons/A2/A2-U01-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U01-L01--2026.10.22.1--text--bad9b0d85f--normal.mp3",
+  "slow_file": "content/audio/files/A2-U01-L01--2026.10.22.1--text--bad9b0d85f--slow.mp3",
+  "duration_seconds": 77.23038548752834,
+  "slow_duration_seconds": 87.14530612244899,
+  "cues": [
+    {
+      "text": "Včera jsem měl volný den, a proto jsem chtěl vyřídit několik věcí ve městě. Ráno jsem vstal v osm a připravil jsem si snídani.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Včera jsem měl volný den, a proto jsem chtěl vyřídit několik věcí ve městě.",
+        "Ráno jsem vstal v osm a připravil jsem si snídani."
+      ],
+      "start": 0.0,
+      "end": 11.267528344671202,
+      "sentences": [
+        {
+          "text": "Včera jsem měl volný den, a proto jsem chtěl vyřídit několik věcí ve městě.",
+          "start": 0.0,
+          "end": 6.6873469387755105,
+          "slow_start": 0.0,
+          "slow_end": 7.569705215419501
+        },
+        {
+          "text": "Ráno jsem vstal v osm a připravil jsem si snídani.",
+          "start": 6.86734693877551,
+          "end": 11.267528344671202,
+          "slow_start": 7.749705215419501,
+          "slow_end": 12.834875283446712
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 12.834875283446712
+    },
+    {
+      "text": "Nejdřív jsem šel na poštu. Potřeboval jsem poslat malý balík, ale zapomněl jsem doma adresu. Musel jsem se vrátit.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Nejdřív jsem šel na poštu.",
+        "Potřeboval jsem poslat malý balík, ale zapomněl jsem doma adresu.",
+        "Musel jsem se vrátit."
+      ],
+      "start": 11.447528344671202,
+      "end": 22.45387755102041,
+      "sentences": [
+        {
+          "text": "Nejdřív jsem šel na poštu.",
+          "start": 11.447528344671202,
+          "end": 13.850793650793651,
+          "slow_start": 13.014875283446711,
+          "slow_end": 15.847709750566894
+        },
+        {
+          "text": "Potřeboval jsem poslat malý balík, ale zapomněl jsem doma adresu.",
+          "start": 14.030793650793651,
+          "end": 20.056371882086168,
+          "slow_start": 16.027709750566892,
+          "slow_end": 22.97047619047619
+        },
+        {
+          "text": "Musel jsem se vrátit.",
+          "start": 20.236371882086168,
+          "end": 22.45387755102041,
+          "slow_start": 23.15047619047619,
+          "slow_end": 25.63501133786848
+        }
+      ],
+      "slow_start": 13.014875283446711,
+      "slow_end": 25.63501133786848
+    },
+    {
+      "text": "Potom jsem jel do knihovny. Moje kamarádka tam studovala. Chvíli jsme spolu mluvili a pak jsme si dali oběd.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Potom jsem jel do knihovny.",
+        "Moje kamarádka tam studovala.",
+        "Chvíli jsme spolu mluvili a pak jsme si dali oběd."
+      ],
+      "start": 22.633877551020408,
+      "end": 32.33990929705215,
+      "sentences": [
+        {
+          "text": "Potom jsem jel do knihovny.",
+          "start": 22.633877551020408,
+          "end": 24.88621315192744,
+          "slow_start": 25.81501133786848,
+          "slow_end": 28.357596371882085
+        },
+        {
+          "text": "Moje kamarádka tam studovala.",
+          "start": 25.06621315192744,
+          "end": 27.701678004535147,
+          "slow_start": 28.537596371882085,
+          "slow_end": 31.509750566893423
+        },
+        {
+          "text": "Chvíli jsme spolu mluvili a pak jsme si dali oběd.",
+          "start": 27.881678004535146,
+          "end": 32.33990929705215,
+          "slow_start": 31.689750566893423,
+          "slow_end": 36.76331065759637
+        }
+      ],
+      "slow_start": 25.81501133786848,
+      "slow_end": 36.76331065759637
+    },
+    {
+      "text": "Odpoledne pršelo, takže jsme nešli do parku. Zůstali jsme v kavárně a plánovali jsme další týden.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Odpoledne pršelo, takže jsme nešli do parku.",
+        "Zůstali jsme v kavárně a plánovali jsme další týden."
+      ],
+      "start": 32.51990929705215,
+      "end": 40.67596371882086,
+      "sentences": [
+        {
+          "text": "Odpoledne pršelo, takže jsme nešli do parku.",
+          "start": 32.51990929705215,
+          "end": 36.107392290249436,
+          "slow_start": 36.94331065759637,
+          "slow_end": 41.006802721088434
+        },
+        {
+          "text": "Zůstali jsme v kavárně a plánovali jsme další týden.",
+          "start": 36.287392290249436,
+          "end": 40.67596371882086,
+          "slow_start": 41.18680272108843,
+          "slow_end": 46.08621315192744
+        }
+      ],
+      "slow_start": 36.94331065759637,
+      "slow_end": 46.08621315192744
+    },
+    {
+      "text": "Zítra budu pracovat doma. Dopoledne budu psát zprávy a odpoledne budu čekat na důležitý telefonát.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Zítra budu pracovat doma.",
+        "Dopoledne budu psát zprávy a odpoledne budu čekat na důležitý telefonát."
+      ],
+      "start": 40.85596371882086,
+      "end": 49.40675736961451,
+      "sentences": [
+        {
+          "text": "Zítra budu pracovat doma.",
+          "start": 40.85596371882086,
+          "end": 43.06185941043084,
+          "slow_start": 46.26621315192744,
+          "slow_end": 48.75074829931973
+        },
+        {
+          "text": "Dopoledne budu psát zprávy a odpoledne budu čekat na důležitý telefonát.",
+          "start": 43.24185941043084,
+          "end": 49.40675736961451,
+          "slow_start": 48.93074829931973,
+          "slow_end": 56.01283446712018
+        }
+      ],
+      "slow_start": 46.26621315192744,
+      "slow_end": 56.01283446712018
+    },
+    {
+      "text": "Večer si koupím potraviny a potom uvařím večeři. Nechci mít zase prázdnou lednici.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Večer si koupím potraviny a potom uvařím večeři.",
+        "Nechci mít zase prázdnou lednici."
+      ],
+      "start": 49.58675736961451,
+      "end": 57.26680272108843,
+      "sentences": [
+        {
+          "text": "Večer si koupím potraviny a potom uvařím večeři.",
+          "start": 49.58675736961451,
+          "end": 54.13786848072562,
+          "slow_start": 56.19283446712018,
+          "slow_end": 61.254784580498864
+        },
+        {
+          "text": "Nechci mít zase prázdnou lednici.",
+          "start": 54.31786848072562,
+          "end": 57.26680272108843,
+          "slow_start": 61.434784580498864,
+          "slow_end": 64.8132879818594
+        }
+      ],
+      "slow_start": 56.19283446712018,
+      "slow_end": 64.8132879818594
+    },
+    {
+      "text": "Kamarádka bude celý den ve škole. Řekla, že mi napíše večer, až bude mít čas.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Kamarádka bude celý den ve škole.",
+        "Řekla, že mi napíše večer, až bude mít čas."
+      ],
+      "start": 57.44680272108844,
+      "end": 65.13845804988662,
+      "sentences": [
+        {
+          "text": "Kamarádka bude celý den ve škole.",
+          "start": 57.44680272108844,
+          "end": 60.477006802721085,
+          "slow_start": 64.99328798185941,
+          "slow_end": 68.16281179138322
+        },
+        {
+          "text": "Řekla, že mi napíše večer, až bude mít čas.",
+          "start": 60.657006802721085,
+          "end": 65.13845804988662,
+          "slow_start": 68.34281179138323,
+          "slow_end": 73.53247165532879
+        }
+      ],
+      "slow_start": 64.99328798185941,
+      "slow_end": 73.53247165532879
+    },
+    {
+      "text": "Dnes si proto zapíšu všechny adresy a úkoly. Když mám jednoduchý seznam, méně věcí zapomínám a nemusím se zbytečně vracet domů.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Dnes si proto zapíšu všechny adresy a úkoly.",
+        "Když mám jednoduchý seznam, méně věcí zapomínám a nemusím se zbytečně vracet domů."
+      ],
+      "start": 65.31845804988662,
+      "end": 77.05038548752835,
+      "sentences": [
+        {
+          "text": "Dnes si proto zapíšu všechny adresy a úkoly.",
+          "start": 65.31845804988662,
+          "end": 69.56770975056689,
+          "slow_start": 73.7124716553288,
+          "slow_end": 78.60027210884354
+        },
+        {
+          "text": "Když mám jednoduchý seznam, méně věcí zapomínám a nemusím se zbytečně vracet domů.",
+          "start": 69.7477097505669,
+          "end": 77.05038548752835,
+          "slow_start": 78.78027210884353,
+          "slow_end": 86.96530612244898
+        }
+      ],
+      "slow_start": 73.7124716553288,
+      "slow_end": 86.96530612244898
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "daa631e77f54fee6a8ce848b44f60029e80480dcba2d4f060e2fb5396bd226eb",
+    "slow": "94e691ad009d928d747c6004902dd286aa2f73ba7c5e1d54882e13d7e91ca302"
+  }
+}

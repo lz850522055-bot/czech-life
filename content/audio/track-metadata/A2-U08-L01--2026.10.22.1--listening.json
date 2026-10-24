@@ -1,0 +1,75 @@
+{
+  "id": "A2-U08-L01--2026.10.22.1--listening",
+  "lesson_id": "A2-U08-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Tady Eva. Prosím vyřiďte Pavlovi, že přijdu v pátek ve dvě, ne ve tři. Adresa zůstává stejná.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Tady Eva.",
+        "Prosím vyřiďte Pavlovi, že přijdu v pátek ve dvě, ne ve tři.",
+        "Adresa zůstává stejná."
+      ]
+    }
+  ],
+  "text_sha256": "6e4ef0534382783e11f8373ae4fb2b1e3e65f52d45b5b53a893fdceb20230790",
+  "source_file": "content/lessons/A2/A2-U08-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U08-L01--2026.10.22.1--listening--6e4ef05343--normal.mp3",
+  "slow_file": "content/audio/files/A2-U08-L01--2026.10.22.1--listening--6e4ef05343--slow.mp3",
+  "duration_seconds": 8.82952380952381,
+  "slow_duration_seconds": 9.920861678004535,
+  "cues": [
+    {
+      "text": "Tady Eva. Prosím vyřiďte Pavlovi, že přijdu v pátek ve dvě, ne ve tři. Adresa zůstává stejná.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Tady Eva.",
+        "Prosím vyřiďte Pavlovi, že přijdu v pátek ve dvě, ne ve tři.",
+        "Adresa zůstává stejná."
+      ],
+      "start": 0.0,
+      "end": 8.64952380952381,
+      "sentences": [
+        {
+          "text": "Tady Eva.",
+          "start": 0.0,
+          "end": 1.1377777777777778,
+          "slow_start": 0.0,
+          "slow_end": 1.2190476190476192
+        },
+        {
+          "text": "Prosím vyřiďte Pavlovi, že přijdu v pátek ve dvě, ne ve tři.",
+          "start": 1.3177777777777777,
+          "end": 6.298458049886621,
+          "slow_start": 1.399047619047619,
+          "slow_end": 7.064716553287981
+        },
+        {
+          "text": "Adresa zůstává stejná.",
+          "start": 6.478458049886621,
+          "end": 8.64952380952381,
+          "slow_start": 7.244716553287982,
+          "slow_end": 9.740861678004535
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 9.740861678004535
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "ebad321d5883e2701d86b9475d9fc93f718cfacabd0873e4003ed766621af32b",
+    "slow": "b1356e03f52ab535021536b9eedf487e20ff78989345cc9d6c11f4694713cb02"
+  }
+}

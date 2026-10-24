@@ -1,0 +1,427 @@
+{
+  "id": "B2-U07-L01--2026.10.22.1--text",
+  "lesson_id": "B2-U07-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "V místním zpravodaji vyšel titulek: „Stížností na parkování přibylo na dvojnásobek.“ Čtenář mohl snadno získat dojem, že se dopravní situace během měsíce dramaticky zhoršila. V samotném článku však stálo, že počet zaznamenaných podnětů vzrostl z dvaceti na čtyřicet. Současně obec spustila jednoduchý internetový formulář, který dříve neexistoval. Obě změny nastaly ve stejném období, ale jejich vzájemný vztah ještě nebyl vyhodnocen.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "V místním zpravodaji vyšel titulek: „Stížností na parkování přibylo na dvojnásobek.“",
+        "Čtenář mohl snadno získat dojem, že se dopravní situace během měsíce dramaticky zhoršila.",
+        "V samotném článku však stálo, že počet zaznamenaných podnětů vzrostl z dvaceti na čtyřicet.",
+        "Současně obec spustila jednoduchý internetový formulář, který dříve neexistoval.",
+        "Obě změny nastaly ve stejném období, ale jejich vzájemný vztah ještě nebyl vyhodnocen."
+      ]
+    },
+    {
+      "text": "Novinář doplnil dva rozhovory s obyvateli. Jeden uvedl, že už téměř nemůže zaparkovat, druhý ocenil rychlejší reakci úřadu. Tyto výpovědi poskytují zkušenost a konkrétní příklad, nikoli reprezentativní měření všech domácností. Přesné citování jejich slov nezaručuje, že vybraní lidé představují celou obec. K posouzení obecného trendu bychom potřebovali vědět, jak byli respondenti vybráni a zda existují srovnatelná data z delšího období.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Novinář doplnil dva rozhovory s obyvateli.",
+        "Jeden uvedl, že už téměř nemůže zaparkovat, druhý ocenil rychlejší reakci úřadu.",
+        "Tyto výpovědi poskytují zkušenost a konkrétní příklad, nikoli reprezentativní měření všech domácností.",
+        "Přesné citování jejich slov nezaručuje, že vybraní lidé představují celou obec.",
+        "K posouzení obecného trendu bychom potřebovali vědět, jak byli respondenti vybráni a zda existují srovnatelná data z delšího období."
+      ]
+    },
+    {
+      "text": "V komentáři pod článkem někdo napsal, že formulář způsobil dopravní krizi. Takový závěr zaměňuje způsob zaznamenávání problému s jeho vznikem. Je možné, že se parkování zhoršilo, že lidé problém častěji hlásí, nebo že působí oba vlivy současně. Z dostupných údajů nelze určit jejich podíl. Stejně nepřesné by bylo prohlásit, že zvýšený počet podnětů určitě neznamená žádný skutečný problém.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "V komentáři pod článkem někdo napsal, že formulář způsobil dopravní krizi.",
+        "Takový závěr zaměňuje způsob zaznamenávání problému s jeho vznikem.",
+        "Je možné, že se parkování zhoršilo, že lidé problém častěji hlásí, nebo že působí oba vlivy současně.",
+        "Z dostupných údajů nelze určit jejich podíl.",
+        "Stejně nepřesné by bylo prohlásit, že zvýšený počet podnětů určitě neznamená žádný skutečný problém."
+      ]
+    },
+    {
+      "text": "Další odstavec uváděl, že s novým systémem souhlasí většina dotázaných. Teprve poznámka vysvětlovala, že odpovědělo třicet lidí z internetové skupiny a dvacet z nich systém podpořilo. Podíl dvaceti z třiceti tedy popisuje tuto skupinu odpovědí, nikoli automaticky všechny obyvatele. Lidé bez přístupu do skupiny se vyjádřit nemohli a někteří členové možná dotazník jednoduše ignorovali. Výběr účastníků může závěr výrazně ovlivnit.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Další odstavec uváděl, že s novým systémem souhlasí většina dotázaných.",
+        "Teprve poznámka vysvětlovala, že odpovědělo třicet lidí z internetové skupiny a dvacet z nich systém podpořilo.",
+        "Podíl dvaceti z třiceti tedy popisuje tuto skupinu odpovědí, nikoli automaticky všechny obyvatele.",
+        "Lidé bez přístupu do skupiny se vyjádřit nemohli a někteří členové možná dotazník jednoduše ignorovali.",
+        "Výběr účastníků může závěr výrazně ovlivnit."
+      ]
+    },
+    {
+      "text": "Při přípravě vlastního shrnutí jsem proto uvedl původní počty, změnu sběru dat a omezený rozsah ankety. Titulek jsem nahradil větou: „Obec eviduje více podnětů a zároveň usnadnila jejich podávání.“ Není tak nápadná, ale přesněji odděluje zjištění od výkladu. Pokud by se později objevilo měření obsazenosti parkovišť, mohli bychom závěr zpřesnit. Nová evidence by byla důvodem k úpravě stanoviska, nikoli k předstírání, že jsme odpověď znali od začátku.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Při přípravě vlastního shrnutí jsem proto uvedl původní počty, změnu sběru dat a omezený rozsah ankety.",
+        "Titulek jsem nahradil větou: „Obec eviduje více podnětů a zároveň usnadnila jejich podávání.“",
+        "Není tak nápadná, ale přesněji odděluje zjištění od výkladu.",
+        "Pokud by se později objevilo měření obsazenosti parkovišť, mohli bychom závěr zpřesnit.",
+        "Nová evidence by byla důvodem k úpravě stanoviska, nikoli k předstírání, že jsme odpověď znali od začátku."
+      ]
+    },
+    {
+      "text": "Kritické čtení neznamená odmítat každou zprávu. Znamená přesně určit, co materiál dokládá a co zůstává otevřené. U čísel se ptáme na jednotku, výchozí hodnotu, období a způsob měření. U tvrzení o příčině hledáme mechanismus a jiné možné vlivy. U slov většina nebo všichni kontrolujeme, o jaké skupině se mluví. Teprve potom formulujeme závěr, který odpovídá síle dostupných podkladů.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Kritické čtení neznamená odmítat každou zprávu.",
+        "Znamená přesně určit, co materiál dokládá a co zůstává otevřené.",
+        "U čísel se ptáme na jednotku, výchozí hodnotu, období a způsob měření.",
+        "U tvrzení o příčině hledáme mechanismus a jiné možné vlivy.",
+        "U slov většina nebo všichni kontrolujeme, o jaké skupině se mluví.",
+        "Teprve potom formulujeme závěr, který odpovídá síle dostupných podkladů."
+      ]
+    }
+  ],
+  "text_sha256": "d87915aa7fc1fd0be0b4c9ddc381f2c1f5962a37e878e664c9687f67c70bfda1",
+  "source_file": "content/lessons/B2/B2-U07-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U07-L01--2026.10.22.1--text--d87915aa7f--normal.mp3",
+  "slow_file": "content/audio/files/B2-U07-L01--2026.10.22.1--text--d87915aa7f--slow.mp3",
+  "duration_seconds": 230.198231292517,
+  "slow_duration_seconds": 259.4437641723356,
+  "cues": [
+    {
+      "text": "V místním zpravodaji vyšel titulek: „Stížností na parkování přibylo na dvojnásobek.“ Čtenář mohl snadno získat dojem, že se dopravní situace během měsíce dramaticky zhoršila. V samotném článku však stálo, že počet zaznamenaných podnětů vzrostl z dvaceti na čtyřicet. Současně obec spustila jednoduchý internetový formulář, který dříve neexistoval. Obě změny nastaly ve stejném období, ale jejich vzájemný vztah ještě nebyl vyhodnocen.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "V místním zpravodaji vyšel titulek: „Stížností na parkování přibylo na dvojnásobek.“",
+        "Čtenář mohl snadno získat dojem, že se dopravní situace během měsíce dramaticky zhoršila.",
+        "V samotném článku však stálo, že počet zaznamenaných podnětů vzrostl z dvaceti na čtyřicet.",
+        "Současně obec spustila jednoduchý internetový formulář, který dříve neexistoval.",
+        "Obě změny nastaly ve stejném období, ale jejich vzájemný vztah ještě nebyl vyhodnocen."
+      ],
+      "start": 0.0,
+      "end": 38.46403628117914,
+      "sentences": [
+        {
+          "text": "V místním zpravodaji vyšel titulek: „Stížností na parkování přibylo na dvojnásobek.“",
+          "start": 0.0,
+          "end": 7.163356009070295,
+          "slow_start": 0.0,
+          "slow_end": 8.243083900226758
+        },
+        {
+          "text": "Čtenář mohl snadno získat dojem, že se dopravní situace během měsíce dramaticky zhoršila.",
+          "start": 7.343356009070295,
+          "end": 15.261360544217688,
+          "slow_start": 8.423083900226757,
+          "slow_end": 17.467256235827666
+        },
+        {
+          "text": "V samotném článku však stálo, že počet zaznamenaných podnětů vzrostl z dvaceti na čtyřicet.",
+          "start": 15.441360544217687,
+          "end": 23.5102947845805,
+          "slow_start": 17.647256235827665,
+          "slow_end": 26.79591836734694
+        },
+        {
+          "text": "Současně obec spustila jednoduchý internetový formulář, který dříve neexistoval.",
+          "start": 23.690294784580498,
+          "end": 30.749160997732428,
+          "slow_start": 26.97591836734694,
+          "slow_end": 34.88231292517007
+        },
+        {
+          "text": "Obě změny nastaly ve stejném období, ale jejich vzájemný vztah ještě nebyl vyhodnocen.",
+          "start": 30.929160997732428,
+          "end": 38.46403628117914,
+          "slow_start": 35.06231292517007,
+          "slow_end": 43.502766439909294
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 43.502766439909294
+    },
+    {
+      "text": "Novinář doplnil dva rozhovory s obyvateli. Jeden uvedl, že už téměř nemůže zaparkovat, druhý ocenil rychlejší reakci úřadu. Tyto výpovědi poskytují zkušenost a konkrétní příklad, nikoli reprezentativní měření všech domácností. Přesné citování jejich slov nezaručuje, že vybraní lidé představují celou obec. K posouzení obecného trendu bychom potřebovali vědět, jak byli respondenti vybráni a zda existují srovnatelná data z delšího období.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Novinář doplnil dva rozhovory s obyvateli.",
+        "Jeden uvedl, že už téměř nemůže zaparkovat, druhý ocenil rychlejší reakci úřadu.",
+        "Tyto výpovědi poskytují zkušenost a konkrétní příklad, nikoli reprezentativní měření všech domácností.",
+        "Přesné citování jejich slov nezaručuje, že vybraní lidé představují celou obec.",
+        "K posouzení obecného trendu bychom potřebovali vědět, jak byli respondenti vybráni a zda existují srovnatelná data z delšího období."
+      ],
+      "start": 38.64403628117914,
+      "end": 77.94399092970522,
+      "sentences": [
+        {
+          "text": "Novinář doplnil dva rozhovory s obyvateli.",
+          "start": 38.64403628117914,
+          "end": 42.336009070294786,
+          "slow_start": 43.682766439909294,
+          "slow_end": 47.89718820861678
+        },
+        {
+          "text": "Jeden uvedl, že už téměř nemůže zaparkovat, druhý ocenil rychlejší reakci úřadu.",
+          "start": 42.516009070294785,
+          "end": 50.166984126984126,
+          "slow_start": 48.07718820861678,
+          "slow_end": 56.622131519274376
+        },
+        {
+          "text": "Tyto výpovědi poskytují zkušenost a konkrétní příklad, nikoli reprezentativní měření všech domácností.",
+          "start": 50.346984126984125,
+          "end": 59.158956916099775,
+          "slow_start": 56.802131519274376,
+          "slow_end": 66.6241723356009
+        },
+        {
+          "text": "Přesné citování jejich slov nezaručuje, že vybraní lidé představují celou obec.",
+          "start": 59.338956916099775,
+          "end": 66.28172335600907,
+          "slow_start": 66.80417233560091,
+          "slow_end": 74.57124716553288
+        },
+        {
+          "text": "K posouzení obecného trendu bychom potřebovali vědět, jak byli respondenti vybráni a zda existují srovnatelná data z delšího období.",
+          "start": 66.46172335600907,
+          "end": 77.94399092970522,
+          "slow_start": 74.75124716553287,
+          "slow_end": 87.58027210884353
+        }
+      ],
+      "slow_start": 43.682766439909294,
+      "slow_end": 87.58027210884353
+    },
+    {
+      "text": "V komentáři pod článkem někdo napsal, že formulář způsobil dopravní krizi. Takový závěr zaměňuje způsob zaznamenávání problému s jeho vznikem. Je možné, že se parkování zhoršilo, že lidé problém častěji hlásí, nebo že působí oba vlivy současně. Z dostupných údajů nelze určit jejich podíl. Stejně nepřesné by bylo prohlásit, že zvýšený počet podnětů určitě neznamená žádný skutečný problém.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "V komentáři pod článkem někdo napsal, že formulář způsobil dopravní krizi.",
+        "Takový závěr zaměňuje způsob zaznamenávání problému s jeho vznikem.",
+        "Je možné, že se parkování zhoršilo, že lidé problém častěji hlásí, nebo že působí oba vlivy současně.",
+        "Z dostupných údajů nelze určit jejich podíl.",
+        "Stejně nepřesné by bylo prohlásit, že zvýšený počet podnětů určitě neznamená žádný skutečný problém."
+      ],
+      "start": 78.12399092970522,
+      "end": 113.62748299319728,
+      "sentences": [
+        {
+          "text": "V komentáři pod článkem někdo napsal, že formulář způsobil dopravní krizi.",
+          "start": 78.12399092970522,
+          "end": 84.5675283446712,
+          "slow_start": 87.76027210884354,
+          "slow_end": 95.2487074829932
+        },
+        {
+          "text": "Takový závěr zaměňuje způsob zaznamenávání problému s jeho vznikem.",
+          "start": 84.7475283446712,
+          "end": 91.04013605442177,
+          "slow_start": 95.4287074829932,
+          "slow_end": 102.58045351473923
+        },
+        {
+          "text": "Je možné, že se parkování zhoršilo, že lidé problém častěji hlásí, nebo že působí oba vlivy současně.",
+          "start": 91.22013605442177,
+          "end": 100.68226757369615,
+          "slow_start": 102.76045351473923,
+          "slow_end": 113.59256235827664
+        },
+        {
+          "text": "Z dostupných údajů nelze určit jejich podíl.",
+          "start": 100.86226757369614,
+          "end": 104.75160997732426,
+          "slow_start": 113.77256235827664,
+          "slow_end": 118.1843537414966
+        },
+        {
+          "text": "Stejně nepřesné by bylo prohlásit, že zvýšený počet podnětů určitě neznamená žádný skutečný problém.",
+          "start": 104.93160997732426,
+          "end": 113.62748299319728,
+          "slow_start": 118.3643537414966,
+          "slow_end": 128.2560544217687
+        }
+      ],
+      "slow_start": 87.76027210884354,
+      "slow_end": 128.2560544217687
+    },
+    {
+      "text": "Další odstavec uváděl, že s novým systémem souhlasí většina dotázaných. Teprve poznámka vysvětlovala, že odpovědělo třicet lidí z internetové skupiny a dvacet z nich systém podpořilo. Podíl dvaceti z třiceti tedy popisuje tuto skupinu odpovědí, nikoli automaticky všechny obyvatele. Lidé bez přístupu do skupiny se vyjádřit nemohli a někteří členové možná dotazník jednoduše ignorovali. Výběr účastníků může závěr výrazně ovlivnit.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Další odstavec uváděl, že s novým systémem souhlasí většina dotázaných.",
+        "Teprve poznámka vysvětlovala, že odpovědělo třicet lidí z internetové skupiny a dvacet z nich systém podpořilo.",
+        "Podíl dvaceti z třiceti tedy popisuje tuto skupinu odpovědí, nikoli automaticky všechny obyvatele.",
+        "Lidé bez přístupu do skupiny se vyjádřit nemohli a někteří členové možná dotazník jednoduše ignorovali.",
+        "Výběr účastníků může závěr výrazně ovlivnit."
+      ],
+      "start": 113.80748299319728,
+      "end": 151.8071201814059,
+      "sentences": [
+        {
+          "text": "Další odstavec uváděl, že s novým systémem souhlasí většina dotázaných.",
+          "start": 113.80748299319728,
+          "end": 120.52965986394558,
+          "slow_start": 128.43605442176872,
+          "slow_end": 136.21473922902496
+        },
+        {
+          "text": "Teprve poznámka vysvětlovala, že odpovědělo třicet lidí z internetové skupiny a dvacet z nich systém podpořilo.",
+          "start": 120.70965986394557,
+          "end": 129.73061224489797,
+          "slow_start": 136.39473922902494,
+          "slow_end": 146.55346938775511
+        },
+        {
+          "text": "Podíl dvaceti z třiceti tedy popisuje tuto skupinu odpovědí, nikoli automaticky všechny obyvatele.",
+          "start": 129.91061224489795,
+          "end": 138.44394557823128,
+          "slow_start": 146.7334693877551,
+          "slow_end": 156.39297052154194
+        },
+        {
+          "text": "Lidé bez přístupu do skupiny se vyjádřit nemohli a někteří členové možná dotazník jednoduše ignorovali.",
+          "start": 138.6239455782313,
+          "end": 146.95990929705215,
+          "slow_start": 156.57297052154195,
+          "slow_end": 165.9190022675737
+        },
+        {
+          "text": "Výběr účastníků může závěr výrazně ovlivnit.",
+          "start": 147.13990929705216,
+          "end": 151.8071201814059,
+          "slow_start": 166.0990022675737,
+          "slow_end": 171.32349206349207
+        }
+      ],
+      "slow_start": 128.43605442176872,
+      "slow_end": 171.32349206349207
+    },
+    {
+      "text": "Při přípravě vlastního shrnutí jsem proto uvedl původní počty, změnu sběru dat a omezený rozsah ankety. Titulek jsem nahradil větou: „Obec eviduje více podnětů a zároveň usnadnila jejich podávání.“ Není tak nápadná, ale přesněji odděluje zjištění od výkladu. Pokud by se později objevilo měření obsazenosti parkovišť, mohli bychom závěr zpřesnit. Nová evidence by byla důvodem k úpravě stanoviska, nikoli k předstírání, že jsme odpověď znali od začátku.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Při přípravě vlastního shrnutí jsem proto uvedl původní počty, změnu sběru dat a omezený rozsah ankety.",
+        "Titulek jsem nahradil větou: „Obec eviduje více podnětů a zároveň usnadnila jejich podávání.“",
+        "Není tak nápadná, ale přesněji odděluje zjištění od výkladu.",
+        "Pokud by se později objevilo měření obsazenosti parkovišť, mohli bychom závěr zpřesnit.",
+        "Nová evidence by byla důvodem k úpravě stanoviska, nikoli k předstírání, že jsme odpověď znali od začátku."
+      ],
+      "start": 151.98712018140588,
+      "end": 194.44498866213152,
+      "sentences": [
+        {
+          "text": "Při přípravě vlastního shrnutí jsem proto uvedl původní počty, změnu sběru dat a omezený rozsah ankety.",
+          "start": 151.98712018140588,
+          "end": 161.68145124716554,
+          "slow_start": 171.50349206349208,
+          "slow_end": 182.44009070294786
+        },
+        {
+          "text": "Titulek jsem nahradil větou: „Obec eviduje více podnětů a zároveň usnadnila jejich podávání.“",
+          "start": 161.86145124716552,
+          "end": 170.77791383219954,
+          "slow_start": 182.62009070294783,
+          "slow_end": 192.7207709750567
+        },
+        {
+          "text": "Není tak nápadná, ale přesněji odděluje zjištění od výkladu.",
+          "start": 170.95791383219955,
+          "end": 176.29850340136053,
+          "slow_start": 192.9007709750567,
+          "slow_end": 198.82185941043085
+        },
+        {
+          "text": "Pokud by se později objevilo měření obsazenosti parkovišť, mohli bychom závěr zpřesnit.",
+          "start": 176.47850340136054,
+          "end": 184.54743764172335,
+          "slow_start": 199.00185941043082,
+          "slow_end": 208.23179138321996
+        },
+        {
+          "text": "Nová evidence by byla důvodem k úpravě stanoviska, nikoli k předstírání, že jsme odpověď znali od začátku.",
+          "start": 184.72743764172336,
+          "end": 194.44498866213152,
+          "slow_start": 208.41179138321996,
+          "slow_end": 219.42965986394557
+        }
+      ],
+      "slow_start": 171.50349206349208,
+      "slow_end": 219.42965986394557
+    },
+    {
+      "text": "Kritické čtení neznamená odmítat každou zprávu. Znamená přesně určit, co materiál dokládá a co zůstává otevřené. U čísel se ptáme na jednotku, výchozí hodnotu, období a způsob měření. U tvrzení o příčině hledáme mechanismus a jiné možné vlivy. U slov většina nebo všichni kontrolujeme, o jaké skupině se mluví. Teprve potom formulujeme závěr, který odpovídá síle dostupných podkladů.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Kritické čtení neznamená odmítat každou zprávu.",
+        "Znamená přesně určit, co materiál dokládá a co zůstává otevřené.",
+        "U čísel se ptáme na jednotku, výchozí hodnotu, období a způsob měření.",
+        "U tvrzení o příčině hledáme mechanismus a jiné možné vlivy.",
+        "U slov většina nebo všichni kontrolujeme, o jaké skupině se mluví.",
+        "Teprve potom formulujeme závěr, který odpovídá síle dostupných podkladů."
+      ],
+      "start": 194.62498866213153,
+      "end": 230.01823129251702,
+      "sentences": [
+        {
+          "text": "Kritické čtení neznamená odmítat každou zprávu.",
+          "start": 194.62498866213153,
+          "end": 199.00195011337868,
+          "slow_start": 219.60965986394558,
+          "slow_end": 224.68321995464854
+        },
+        {
+          "text": "Znamená přesně určit, co materiál dokládá a co zůstává otevřené.",
+          "start": 199.1819501133787,
+          "end": 205.45133786848072,
+          "slow_start": 224.8632199546485,
+          "slow_end": 231.6898866213152
+        },
+        {
+          "text": "U čísel se ptáme na jednotku, výchozí hodnotu, období a způsob měření.",
+          "start": 205.63133786848073,
+          "end": 212.37673469387755,
+          "slow_start": 231.8698866213152,
+          "slow_end": 239.4047619047619
+        },
+        {
+          "text": "U tvrzení o příčině hledáme mechanismus a jiné možné vlivy.",
+          "start": 212.55673469387756,
+          "end": 217.82766439909298,
+          "slow_start": 239.5847619047619,
+          "slow_end": 245.49424036281178
+        },
+        {
+          "text": "U slov většina nebo všichni kontrolujeme, o jaké skupině se mluví.",
+          "start": 218.00766439909296,
+          "end": 223.41791383219956,
+          "slow_start": 245.6742403628118,
+          "slow_end": 251.83913832199548
+        },
+        {
+          "text": "Teprve potom formulujeme závěr, který odpovídá síle dostupných podkladů.",
+          "start": 223.59791383219954,
+          "end": 230.01823129251702,
+          "slow_start": 252.01913832199546,
+          "slow_end": 259.2637641723356
+        }
+      ],
+      "slow_start": 219.60965986394558,
+      "slow_end": 259.2637641723356
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "f536996514e1468bf38fd470cc3d58a0db985e8a96b0153883200a7a7c5f9259",
+    "slow": "fff5424e14088e266eca4370154b2e305225a880e469707383d65ad1fd9640ad"
+  }
+}

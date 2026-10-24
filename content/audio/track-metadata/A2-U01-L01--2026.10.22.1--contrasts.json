@@ -1,0 +1,57 @@
+{
+  "id": "A2-U01-L01--2026.10.22.1--contrasts",
+  "lesson_id": "A2-U01-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "pracoval. pracovala.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "pracoval. pracovala."
+      ]
+    }
+  ],
+  "text_sha256": "31845bcd067f59d0cd3a75de461bc82162b4fd6bb20a2e9d771de46b59676863",
+  "source_file": "content/lessons/A2/A2-U01-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U01-L01--2026.10.22.1--contrasts--31845bcd06--normal.mp3",
+  "slow_file": "content/audio/files/A2-U01-L01--2026.10.22.1--contrasts--31845bcd06--slow.mp3",
+  "duration_seconds": 1.991156462585034,
+  "slow_duration_seconds": 2.258185941043084,
+  "cues": [
+    {
+      "text": "pracoval. pracovala.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "pracoval. pracovala."
+      ],
+      "start": 0.0,
+      "end": 1.811156462585034,
+      "sentences": [
+        {
+          "text": "pracoval. pracovala.",
+          "start": 0.0,
+          "end": 1.811156462585034,
+          "slow_start": 0.0,
+          "slow_end": 2.078185941043084
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.078185941043084
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "235915604e19e0b4a83de338f91441d60030b1005c32a842523bac828af0794e",
+    "slow": "89eceb1b4f424487099ec3165dc21936495d97343ba995f5c0ade36e31a3a336"
+  }
+}

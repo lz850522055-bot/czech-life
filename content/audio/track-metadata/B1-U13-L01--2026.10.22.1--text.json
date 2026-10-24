@@ -1,0 +1,279 @@
+{
+  "id": "B1-U13-L01--2026.10.22.1--text",
+  "lesson_id": "B1-U13-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Při přípravě malého bazaru jsem četl zprávy od prodávajících i kupujících. Všiml jsem si, že mnoho slov souvisí se stejnou činností, ale ve větě plní různé role. Nákup označuje činnost nebo její výsledek, nakupovat popisuje děj a nákupní seznam je seznam věcí, které chceme koupit. Nestačí tedy zapamatovat si jediný český výraz a používat ho všude místo čínského slova.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Při přípravě malého bazaru jsem četl zprávy od prodávajících i kupujících.",
+        "Všiml jsem si, že mnoho slov souvisí se stejnou činností, ale ve větě plní různé role.",
+        "Nákup označuje činnost nebo její výsledek, nakupovat popisuje děj a nákupní seznam je seznam věcí, které chceme koupit.",
+        "Nestačí tedy zapamatovat si jediný český výraz a používat ho všude místo čínského slova."
+      ]
+    },
+    {
+      "text": "U slova prodej jsme si zapsali další členy rodiny: prodávat, prodat, prodejce a prodejní cena. Prodejce je člověk nebo firma, která něco prodává. Prodejna je naopak místo. Kamarád omylem napsal, že prodejce je zavřený do pěti. V daném kontextu chtěl říct, že prodejna je zavřená. Jedna koncovka tak změnila osobu na místo a vyžadovala také jiný tvar přídavného jména.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "U slova prodej jsme si zapsali další členy rodiny: prodávat, prodat, prodejce a prodejní cena.",
+        "Prodejce je člověk nebo firma, která něco prodává.",
+        "Prodejna je naopak místo.",
+        "Kamarád omylem napsal, že prodejce je zavřený do pěti.",
+        "V daném kontextu chtěl říct, že prodejna je zavřená.",
+        "Jedna koncovka tak změnila osobu na místo a vyžadovala také jiný tvar přídavného jména."
+      ]
+    },
+    {
+      "text": "Důležité byly i celé kombinace. Můžeme podat žádost, uzavřít dohodu a zaplatit zálohu. Nelze vždy vzít první český překlad slovesa „dělat“ a spojit ho s jakýmkoli podstatným jménem. Zapsal jsem si proto u každého nového výrazu krátkou větu z našeho rozhovoru. Vedle významu jsem uvedl slovní druh, běžný tvar a situaci, ve které se výraz hodí.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Důležité byly i celé kombinace.",
+        "Můžeme podat žádost, uzavřít dohodu a zaplatit zálohu.",
+        "Nelze vždy vzít první český překlad slovesa „dělat“ a spojit ho s jakýmkoli podstatným jménem.",
+        "Zapsal jsem si proto u každého nového výrazu krátkou větu z našeho rozhovoru.",
+        "Vedle významu jsem uvedl slovní druh, běžný tvar a situaci, ve které se výraz hodí."
+      ]
+    },
+    {
+      "text": "Když jsme dostali zprávu, že určitý výrobek není dostupný, nevyvodil jsem hned, že se už nikdy nebude prodávat. Dostupnost může být dočasná a záviset na místě nebo termínu. Stejně tak levný neznamená automaticky výhodný. Slovo tedy poznávám nejen podle příbuzných tvarů, ale také podle toho, s čím se běžně spojuje a co v daném sdělení skutečně tvrdí.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Když jsme dostali zprávu, že určitý výrobek není dostupný, nevyvodil jsem hned, že se už nikdy nebude prodávat.",
+        "Dostupnost může být dočasná a záviset na místě nebo termínu.",
+        "Stejně tak levný neznamená automaticky výhodný.",
+        "Slovo tedy poznávám nejen podle příbuzných tvarů, ale také podle toho, s čím se běžně spojuje a co v daném sdělení skutečně tvrdí."
+      ]
+    }
+  ],
+  "text_sha256": "b2575dec2c06621626866472a4ce551f8d9443c3e4aa7a2f93a571af25e51a91",
+  "source_file": "content/lessons/B1/B1-U13-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--normal.mp3",
+  "slow_file": "content/audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--slow.mp3",
+  "duration_seconds": 128.76131519274375,
+  "slow_duration_seconds": 144.5508843537415,
+  "cues": [
+    {
+      "text": "Při přípravě malého bazaru jsem četl zprávy od prodávajících i kupujících. Všiml jsem si, že mnoho slov souvisí se stejnou činností, ale ve větě plní různé role. Nákup označuje činnost nebo její výsledek, nakupovat popisuje děj a nákupní seznam je seznam věcí, které chceme koupit. Nestačí tedy zapamatovat si jediný český výraz a používat ho všude místo čínského slova.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Při přípravě malého bazaru jsem četl zprávy od prodávajících i kupujících.",
+        "Všiml jsem si, že mnoho slov souvisí se stejnou činností, ale ve větě plní různé role.",
+        "Nákup označuje činnost nebo její výsledek, nakupovat popisuje děj a nákupní seznam je seznam věcí, které chceme koupit.",
+        "Nestačí tedy zapamatovat si jediný český výraz a používat ho všude místo čínského slova."
+      ],
+      "start": 0.0,
+      "end": 33.34979591836735,
+      "sentences": [
+        {
+          "text": "Při přípravě malého bazaru jsem četl zprávy od prodávajících i kupujících.",
+          "start": 0.0,
+          "end": 6.5712471655328795,
+          "slow_start": 0.0,
+          "slow_end": 7.22140589569161
+        },
+        {
+          "text": "Všiml jsem si, že mnoho slov souvisí se stejnou činností, ale ve větě plní různé role.",
+          "start": 6.75124716553288,
+          "end": 14.73891156462585,
+          "slow_start": 7.40140589569161,
+          "slow_end": 16.271428571428572
+        },
+        {
+          "text": "Nákup označuje činnost nebo její výsledek, nakupovat popisuje děj a nákupní seznam je seznam věcí, které chceme koupit.",
+          "start": 14.91891156462585,
+          "end": 25.286621315192743,
+          "slow_start": 16.451428571428572,
+          "slow_end": 28.096235827664398
+        },
+        {
+          "text": "Nestačí tedy zapamatovat si jediný český výraz a používat ho všude místo čínského slova.",
+          "start": 25.466621315192743,
+          "end": 33.34979591836735,
+          "slow_start": 28.2762358276644,
+          "slow_end": 37.07659863945578
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 37.07659863945578
+    },
+    {
+      "text": "U slova prodej jsme si zapsali další členy rodiny: prodávat, prodat, prodejce a prodejní cena. Prodejce je člověk nebo firma, která něco prodává. Prodejna je naopak místo. Kamarád omylem napsal, že prodejce je zavřený do pěti. V daném kontextu chtěl říct, že prodejna je zavřená. Jedna koncovka tak změnila osobu na místo a vyžadovala také jiný tvar přídavného jména.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "U slova prodej jsme si zapsali další členy rodiny: prodávat, prodat, prodejce a prodejní cena.",
+        "Prodejce je člověk nebo firma, která něco prodává.",
+        "Prodejna je naopak místo.",
+        "Kamarád omylem napsal, že prodejce je zavřený do pěti.",
+        "V daném kontextu chtěl říct, že prodejna je zavřená.",
+        "Jedna koncovka tak změnila osobu na místo a vyžadovala také jiný tvar přídavného jména."
+      ],
+      "start": 33.52979591836735,
+      "end": 65.98571428571428,
+      "sentences": [
+        {
+          "text": "U slova prodej jsme si zapsali další členy rodiny: prodávat, prodat, prodejce a prodejní cena.",
+          "start": 33.52979591836735,
+          "end": 41.44780045351474,
+          "slow_start": 37.25659863945578,
+          "slow_end": 46.38204081632653
+        },
+        {
+          "text": "Prodejce je člověk nebo firma, která něco prodává.",
+          "start": 41.62780045351474,
+          "end": 45.80739229024943,
+          "slow_start": 46.56204081632653,
+          "slow_end": 51.310521541950116
+        },
+        {
+          "text": "Prodejna je naopak místo.",
+          "start": 45.98739229024943,
+          "end": 48.27455782312925,
+          "slow_start": 51.490521541950116,
+          "slow_end": 54.160816326530615
+        },
+        {
+          "text": "Kamarád omylem napsal, že prodejce je zavřený do pěti.",
+          "start": 48.45455782312925,
+          "end": 53.12176870748299,
+          "slow_start": 54.340816326530614,
+          "slow_end": 59.68140589569161
+        },
+        {
+          "text": "V daném kontextu chtěl říct, že prodejna je zavřená.",
+          "start": 53.30176870748299,
+          "end": 57.77160997732426,
+          "slow_start": 59.86140589569161,
+          "slow_end": 64.83047619047619
+        },
+        {
+          "text": "Jedna koncovka tak změnila osobu na místo a vyžadovala také jiný tvar přídavného jména.",
+          "start": 57.95160997732426,
+          "end": 65.98571428571428,
+          "slow_start": 65.0104761904762,
+          "slow_end": 73.78761904761905
+        }
+      ],
+      "slow_start": 37.25659863945578,
+      "slow_end": 73.78761904761905
+    },
+    {
+      "text": "Důležité byly i celé kombinace. Můžeme podat žádost, uzavřít dohodu a zaplatit zálohu. Nelze vždy vzít první český překlad slovesa „dělat“ a spojit ho s jakýmkoli podstatným jménem. Zapsal jsem si proto u každého nového výrazu krátkou větu z našeho rozhovoru. Vedle významu jsem uvedl slovní druh, běžný tvar a situaci, ve které se výraz hodí.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Důležité byly i celé kombinace.",
+        "Můžeme podat žádost, uzavřít dohodu a zaplatit zálohu.",
+        "Nelze vždy vzít první český překlad slovesa „dělat“ a spojit ho s jakýmkoli podstatným jménem.",
+        "Zapsal jsem si proto u každého nového výrazu krátkou větu z našeho rozhovoru.",
+        "Vedle významu jsem uvedl slovní druh, běžný tvar a situaci, ve které se výraz hodí."
+      ],
+      "start": 66.16571428571429,
+      "end": 96.7814058956916,
+      "sentences": [
+        {
+          "text": "Důležité byly i celé kombinace.",
+          "start": 66.16571428571429,
+          "end": 69.05659863945579,
+          "slow_start": 73.96761904761905,
+          "slow_end": 77.17197278911564
+        },
+        {
+          "text": "Můžeme podat žádost, uzavřít dohodu a zaplatit zálohu.",
+          "start": 69.23659863945578,
+          "end": 74.22888888888889,
+          "slow_start": 77.35197278911565,
+          "slow_end": 83.15696145124717
+        },
+        {
+          "text": "Nelze vždy vzít první český překlad slovesa „dělat“ a spojit ho s jakýmkoli podstatným jménem.",
+          "start": 74.4088888888889,
+          "end": 82.51265306122448,
+          "slow_start": 83.33696145124716,
+          "slow_end": 92.34630385487529
+        },
+        {
+          "text": "Zapsal jsem si proto u každého nového výrazu krátkou větu z našeho rozhovoru.",
+          "start": 82.69265306122449,
+          "end": 88.96204081632654,
+          "slow_start": 92.52630385487528,
+          "slow_end": 99.66643990929705
+        },
+        {
+          "text": "Vedle významu jsem uvedl slovní druh, běžný tvar a situaci, ve které se výraz hodí.",
+          "start": 89.14204081632653,
+          "end": 96.7814058956916,
+          "slow_start": 99.84643990929705,
+          "slow_end": 108.71646258503401
+        }
+      ],
+      "slow_start": 73.96761904761905,
+      "slow_end": 108.71646258503401
+    },
+    {
+      "text": "Když jsme dostali zprávu, že určitý výrobek není dostupný, nevyvodil jsem hned, že se už nikdy nebude prodávat. Dostupnost může být dočasná a záviset na místě nebo termínu. Stejně tak levný neznamená automaticky výhodný. Slovo tedy poznávám nejen podle příbuzných tvarů, ale také podle toho, s čím se běžně spojuje a co v daném sdělení skutečně tvrdí.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Když jsme dostali zprávu, že určitý výrobek není dostupný, nevyvodil jsem hned, že se už nikdy nebude prodávat.",
+        "Dostupnost může být dočasná a záviset na místě nebo termínu.",
+        "Stejně tak levný neznamená automaticky výhodný.",
+        "Slovo tedy poznávám nejen podle příbuzných tvarů, ale také podle toho, s čím se běžně spojuje a co v daném sdělení skutečně tvrdí."
+      ],
+      "start": 96.96140589569161,
+      "end": 128.58131519274377,
+      "sentences": [
+        {
+          "text": "Když jsme dostali zprávu, že určitý výrobek není dostupný, nevyvodil jsem hned, že se už nikdy nebude prodávat.",
+          "start": 96.96140589569161,
+          "end": 106.64412698412698,
+          "slow_start": 108.89646258503402,
+          "slow_end": 120.13492063492063
+        },
+        {
+          "text": "Dostupnost může být dočasná a záviset na místě nebo termínu.",
+          "start": 106.82412698412699,
+          "end": 112.37369614512471,
+          "slow_start": 120.31492063492064,
+          "slow_end": 126.54947845804989
+        },
+        {
+          "text": "Stejně tak levný neznamená automaticky výhodný.",
+          "start": 112.55369614512472,
+          "end": 116.53591836734694,
+          "slow_start": 126.72947845804988,
+          "slow_end": 131.19931972789115
+        },
+        {
+          "text": "Slovo tedy poznávám nejen podle příbuzných tvarů, ale také podle toho, s čím se běžně spojuje a co v daném sdělení skutečně tvrdí.",
+          "start": 116.71591836734694,
+          "end": 128.58131519274377,
+          "slow_start": 131.37931972789116,
+          "slow_end": 144.3708843537415
+        }
+      ],
+      "slow_start": 108.89646258503402,
+      "slow_end": 144.3708843537415
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "2e0b5a554f3f39ffeebc530f87c63d9d34c580c7f8470ce68d1ffb2a15f05995",
+    "slow": "f82e623a622c48397790f48a4f2823a0396d49f069dff69f8e5e5df50f04a70a"
+  }
+}

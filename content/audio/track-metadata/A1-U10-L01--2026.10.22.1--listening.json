@@ -1,0 +1,66 @@
+{
+  "id": "A1-U10-L01--2026.10.22.1--listening",
+  "lesson_id": "A1-U10-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A1",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Není mi zima, ale jsem unavená. Potřebuju si sednout a napít se vody.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Není mi zima, ale jsem unavená.",
+        "Potřebuju si sednout a napít se vody."
+      ]
+    }
+  ],
+  "text_sha256": "b0b1db9b6086a25640f3ce813a0f80500f535adbb12bc91290daabd409d90c36",
+  "source_file": "content/lessons/A1/A1-U10-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U10-L01--2026.10.22.1--listening--b0b1db9b60--normal.mp3",
+  "slow_file": "content/audio/files/A1-U10-L01--2026.10.22.1--listening--b0b1db9b60--slow.mp3",
+  "duration_seconds": 6.501678004535147,
+  "slow_duration_seconds": 7.349206349206349,
+  "cues": [
+    {
+      "text": "Není mi zima, ale jsem unavená. Potřebuju si sednout a napít se vody.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Není mi zima, ale jsem unavená.",
+        "Potřebuju si sednout a napít se vody."
+      ],
+      "start": 0.0,
+      "end": 6.321678004535148,
+      "sentences": [
+        {
+          "text": "Není mi zima, ale jsem unavená.",
+          "start": 0.0,
+          "end": 2.972154195011338,
+          "slow_start": 0.0,
+          "slow_end": 3.378503401360544
+        },
+        {
+          "text": "Potřebuju si sednout a napít se vody.",
+          "start": 3.152154195011338,
+          "end": 6.321678004535148,
+          "slow_start": 3.5585034013605443,
+          "slow_end": 7.169206349206349
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 7.169206349206349
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "f55edb777d70bb8e8312fe8c198ad56c4660a9e2a79b07107557401ac99ac208",
+    "slow": "9fab98a88fb612fed2c39e2435259b47cb7792fa11d8e981d90b5db69413d2ee"
+  }
+}

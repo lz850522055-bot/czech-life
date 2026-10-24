@@ -1,0 +1,1358 @@
+{
+  "id": "B1-U03-L01",
+  "level": "B1",
+  "unit_id": "B1-U03",
+  "order": 35,
+  "version": "2026.10.22.1",
+  "title_zh": "运动动词和前缀",
+  "title_cs": "Jak se dostat na správné místo",
+  "prerequisites": [
+    "B1-U02-L01"
+  ],
+  "can_do": [
+    "区分步行、乘车及惯常往返",
+    "用前缀解释到达、离开、穿过与进入",
+    "转述路线并确认终点"
+  ],
+  "scene": "城市出行与运动动词",
+  "skills": [
+    "listening",
+    "speaking",
+    "reading",
+    "writing",
+    "interaction",
+    "mediation"
+  ],
+  "knowledge_points": [
+    "motion-direction",
+    "motion-prefixes"
+  ],
+  "intro_zh": "捷语的“去”要先判断怎么去、是否正在朝一个方向去，再说明跨过什么边界。把运动动词当作路线工具，比孤立背一个中文“去”更有效。",
+  "lesson_text": [
+    {
+      "id": "s01",
+      "cs": "Každý čtvrtek chodím do jazykové kavárny, ale dnes tam jedu tramvají, protože nesu těžkou tašku s knihami. Obvykle jezdím jen dvě zastávky a zbytek cesty jdu pěšky. Kamarád Pavel mě požádal, abych mu vysvětlil cestu od nádraží. Ve městě je poprvé a některé ulice mají podobné názvy. Nechtěl jsem ho poslat ke špatnému vchodu.",
+      "zh": "我每周四都去语言咖啡馆，今天因为提着沉书袋而坐电车。通常只坐两站，其余步行。帕维尔第一次来城里，有些街名相似，他请我解释车站过来的路线，我不想把他带错入口。",
+      "note_zh": ""
+    },
+    {
+      "id": "s02",
+      "cs": "Řekl jsem mu: „Od nádraží jeď tramvají směrem k parku. Vystup na třetí zastávce, přejdi ulici na přechodu a pokračuj rovně. Potom projdi průchodem mezi lékárnou a knihkupectvím. Kavárna je ve dvoře. Nechoď do hlavní budovy, vstup je z pravé strany.“ Pavel si pokyny zopakoval a ověřil si, zda má přejít ulici hned po vystoupení.",
+      "zh": "我说：“从车站坐电车向公园方向走，第三站下车，在人行横道过街，然后直走。穿过药店和书店之间的通道，咖啡馆在院里。别进主楼，入口在右边。”他复述指引，并确认是不是下车后立刻过街。",
+      "note_zh": ""
+    },
+    {
+      "id": "s03",
+      "cs": "Za chvíli mi zavolal, že už přijel, ale stojí na opačné straně parku. Zjistili jsme, že nastoupil do správné linky, jen jel opačným směrem. Nemusel se vracet až na nádraží. Stačilo přejít na druhou zastávku a jet dvě stanice zpátky. Počkal jsem na něj u vchodu, aby už nemusel hledat sám.",
+      "zh": "过了一会儿，他打来说到了，却在公园另一侧。我们发现他坐对了线路但坐反方向。不必回到火车站，只需走到另一边站点往回坐两站。我在入口等他，免得他再独自找。",
+      "note_zh": ""
+    },
+    {
+      "id": "s04",
+      "cs": "Když Pavel přišel, všiml si rozdílu mezi přijel a přišel. Do čtvrti přijel dopravním prostředkem, poslední část ale ušel pěšky. Večer jsme z kavárny odešli společně. Já jsem odjel domů autobusem a Pavel šel na návštěvu ke známým. Příště už bude vědět, že číslo linky nestačí: musí si ověřit také směr, zastávku a přesné místo setkání. Pavel si nakonec uložil do telefonu přesný název zastávky i adresu kavárny, aby je mohl znovu zkontrolovat.",
+      "zh": "帕维尔走到时注意到 přijel 与 přišel 的区别：他乘交通工具到这个街区，最后一段步行。晚上我们一起离开咖啡馆，我坐公交回家，他步行去朋友家做客。下次他会确认线路方向、站点及准确碰面位置，而不只是线路号。 帕维尔最后把准确站名和咖啡馆地址存入手机，以便再次核查。",
+      "note_zh": ""
+    }
+  ],
+  "grammar": [
+    {
+      "id": "motion-direction",
+      "rule_zh": "先区分步行或乘车，再区分具体单向行程和惯常往返。",
+      "detail_zh": "jít/chodit 表示步行；jet/jezdit 表示乘交通工具。jdu/jedu 常用于当前或安排中的具体单向行程；chodím/jezdím 可用于习惯、反复、无单一方向。两组基础动词都是未完成体，不可把 jít 当完成体、chodit 当未完成体来记。未来常用 půjdu/pojedu；惯常未来可说 budu chodit/jezdit。",
+      "examples": [
+        {
+          "cs": "Teď jdu na poštu.",
+          "zh": "我现在正步行去邮局。",
+          "note_zh": ""
+        },
+        {
+          "cs": "Každý týden jezdím do Brna.",
+          "zh": "我每周乘交通工具去布尔诺。",
+          "note_zh": ""
+        }
+      ],
+      "pitfalls": [
+        "jet 不表示所有“去”；步行不使用 jet。",
+        "směr 与号码都要核对。"
+      ],
+      "exceptions": [
+        "中文“去学校”可能强调习惯入学，不只物理行走，需看语境。"
+      ],
+      "term": "定向与非定向运动动词"
+    },
+    {
+      "id": "motion-prefixes",
+      "rule_zh": "前缀像路线箭头：到、离开、跨过、穿过。",
+      "detail_zh": "přijít/přijet 到达，odejít/odjet 离开，přejít 跨到另一边，projít 穿过某处，vejít 进入。常见配套未完成体有 přicházet/přijíždět、odcházet/odjíždět。前缀也会改变词义，不能随便给所有动词加同一前缀。projít + 工具格可表示经过路径：projít průchodem。",
+      "examples": [
+        {
+          "cs": "Přejděte ulici.",
+          "zh": "请过街。",
+          "note_zh": ""
+        },
+        {
+          "cs": "Projděte průchodem.",
+          "zh": "请穿过通道。",
+          "note_zh": ""
+        }
+      ],
+      "pitfalls": [
+        "přejít ulici 的 ulici 为第四格；průchodem 为第七格。"
+      ],
+      "exceptions": [
+        "přejít 可有转话题等抽象用法，此课只练实际路线。"
+      ],
+      "term": "运动前缀与路径格"
+    }
+  ],
+  "vocabulary": [
+    {
+      "lemma": "průchod",
+      "pos": "名词，阳性无生",
+      "forms": "průchodem; v průchodu",
+      "meaning_zh": "通道",
+      "collocation": "projít průchodem",
+      "example_cs": "Projděte tímto průchodem.",
+      "example_zh": "请穿过这个通道。",
+      "confusion_zh": "přechod 是人行横道。"
+    },
+    {
+      "lemma": "přechod",
+      "pos": "名词，阳性无生",
+      "forms": "na přechodu",
+      "meaning_zh": "人行横道；过渡",
+      "collocation": "přejít na přechodu",
+      "example_cs": "Ulici přejděte na přechodu.",
+      "example_zh": "请走人行横道过街。",
+      "confusion_zh": "不要与 průchod 混。"
+    },
+    {
+      "lemma": "vystoupit",
+      "pos": "动词，完成体",
+      "forms": "vystoupím; vystupte",
+      "meaning_zh": "下车",
+      "collocation": "vystoupit z tramvaje",
+      "example_cs": "Vystupte na třetí zastávce.",
+      "example_zh": "请第三站下车。",
+      "confusion_zh": "nastoupit 是上车。"
+    },
+    {
+      "lemma": "opačný",
+      "pos": "形容词",
+      "forms": "opačným směrem",
+      "meaning_zh": "相反的",
+      "collocation": "jet opačným směrem",
+      "example_cs": "Jedeme opačným směrem.",
+      "example_zh": "我们方向坐反了。",
+      "confusion_zh": "不是下一站。"
+    },
+    {
+      "lemma": "vchod",
+      "pos": "名词，阳性无生",
+      "forms": "u vchodu; vchodem",
+      "meaning_zh": "入口",
+      "collocation": "čekat u vchodu",
+      "example_cs": "Počkám u hlavního vchodu.",
+      "example_zh": "我在主入口等。",
+      "confusion_zh": "východ 是出口，也可指东方。"
+    }
+  ],
+  "listening": {
+    "script": [
+      {
+        "cs": "Z nádraží nejezděte autobusem. Je to blízko, můžete jít pěšky. Přejděte most a za ním odbočte doleva. Dům najdete vedle pekárny. Vejděte bočním vchodem; hlavní vchod je během opravy zavřený. Až přijdete, zavolejte mi.",
+        "zh": "从车站不用坐公交，很近，可以步行。过桥后向左拐，房子在面包店旁。走侧门进，维修期间主入口关闭。到了给我打电话。",
+        "note_zh": ""
+      }
+    ],
+    "focus_zh": "抓步行、桥后左转与侧门三项，不把 vedle pekárny 当作要进面包店。",
+    "source": "original"
+  },
+  "pronunciation": {
+    "focus_zh": "把 přijel / přišel 分开读：j 与 š 不同；ř 保持舌尖颤擦，先慢分音节再连起来。",
+    "contrast": [
+      {
+        "a": "přijel",
+        "b": "přišel",
+        "note_zh": "乘车到与步行到，注意中间辅音。"
+      }
+    ],
+    "task_zh": "先听一句，再按意义块跟读；录下自然语速版本，对照长短元音、句中停顿和关键词。不要追求机械加速。"
+  },
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "帕维尔出错的关键是什么？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "坐了错误线路"
+        },
+        {
+          "id": "b",
+          "text": "同一线路方向相反"
+        },
+        {
+          "id": "c",
+          "text": "咖啡馆当天关闭"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "文本明确线路号正确而方向反了。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U03-L01-E01",
+      "knowledge_points": [
+        "motion-direction",
+        "motion-prefixes"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "下列哪句表达惯常乘车往返？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "Teď jdu domů."
+        },
+        {
+          "id": "b",
+          "text": "Každý týden jezdím do Brna."
+        },
+        {
+          "id": "c",
+          "text": "Právě jsem přišel."
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "každý týden 与 jezdím 匹配。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U03-L01-E02",
+      "knowledge_points": [
+        "motion-direction",
+        "motion-prefixes"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "只听指路：应从哪边进入？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "主入口"
+        },
+        {
+          "id": "b",
+          "text": "侧门"
+        },
+        {
+          "id": "c",
+          "text": "面包店"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "boční vchod 是侧门；主门维修。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "listening"
+      ],
+      "error_category": "comprehension",
+      "audio_text_cs": "Vejděte bočním vchodem. Hlavní vchod je během opravy zavřený.",
+      "id": "B1-U03-L01-E03",
+      "knowledge_points": [
+        "motion-direction",
+        "motion-prefixes"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "我明天步行去：填 jít 的常见未来第一人称。",
+      "stimulus_cs": "Zítra ___ pěšky.",
+      "answer": "půjdu",
+      "accepted_answers": [
+        "půjdu"
+      ],
+      "explanation_zh": "jít 的常见未来用 půjdu。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "B1-U03-L01-E04",
+      "knowledge_points": [
+        "motion-direction",
+        "motion-prefixes"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "路径“穿过通道”，填 průchod 的形式。",
+      "stimulus_cs": "Projděte ___.",
+      "answer": "průchodem",
+      "accepted_answers": [
+        "průchodem"
+      ],
+      "explanation_zh": "经过的路线可用工具格。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "B1-U03-L01-E05",
+      "knowledge_points": [
+        "motion-direction",
+        "motion-prefixes"
+      ]
+    },
+    {
+      "type": "correct",
+      "prompt_zh": "只改交通方式：我正步行回家。",
+      "stimulus_cs": "Teď jedu pěšky domů.",
+      "answer": "Teď jdu pěšky domů.",
+      "accepted_answers": [
+        "Teď jdu pěšky domů."
+      ],
+      "explanation_zh": "pěšky 与 jdu 对应；jedu 指乘交通工具。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "B1-U03-L01-E06",
+      "knowledge_points": [
+        "motion-direction",
+        "motion-prefixes"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt_zh": "以 Na třetí zastávce 开头排列指令。",
+      "stimulus_cs": "vystupte / Na třetí zastávce / a přejděte ulici.",
+      "options": [
+        "vystupte",
+        "Na třetí zastávce",
+        "a přejděte ulici."
+      ],
+      "answer": "Na třetí zastávce vystupte a přejděte ulici.",
+      "accepted_answers": [
+        "Na třetí zastávce vystupte a přejděte ulici."
+      ],
+      "explanation_zh": "先下车再过街；意义单位保留。",
+      "scoring_basis": "本题限定句首及语境；不据一个参考语序否定捷语所有语序变体。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "word_order",
+      "id": "B1-U03-L01-E07",
+      "knowledge_points": [
+        "motion-direction",
+        "motion-prefixes"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "jít 与 chodit 的基础关系是哪项？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "完成体与未完成体"
+        },
+        {
+          "id": "b",
+          "text": "都是未完成体，但定向/习惯等用法不同"
+        },
+        {
+          "id": "c",
+          "text": "过去式与未来式"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "把这组误认体对会导致后续前缀学习混乱。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U03-L01-E08",
+      "knowledge_points": [
+        "motion-direction",
+        "motion-prefixes"
+      ]
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "用五条路线指令引导朋友从车站走到院内入口。",
+      "stimulus_cs": "",
+      "answer": "Jděte rovně, přejděte ulici na přechodu a odbočte doprava. Potom projděte průchodem. Vejděte do dvora a počkejte u bočního vchodu.",
+      "accepted_answers": [],
+      "explanation_zh": "听众应能知道每步后到哪里。",
+      "rubric": [
+        "方式明确",
+        "边界动作清楚",
+        "终点具体"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "error_category": "fluency",
+      "id": "B1-U03-L01-E09",
+      "knowledge_points": [
+        "motion-direction",
+        "motion-prefixes"
+      ]
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "写一段碰面消息：你每周走路去，今天坐公交，六点到，在侧门等。",
+      "stimulus_cs": "",
+      "answer": "Obvykle tam chodím pěšky, ale dnes jedu autobusem. Přijedu v šest. Počkej prosím u bočního vchodu.",
+      "accepted_answers": [],
+      "explanation_zh": "惯常与今天的行程使用不同形式。",
+      "rubric": [
+        "时间地点完整",
+        "惯常与当前区分",
+        "称呼一致"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U03-L01-E10",
+      "knowledge_points": [
+        "motion-direction",
+        "motion-prefixes"
+      ]
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "朋友说坐对线路却远离目的地，请询问方向并给两步解决办法。",
+      "stimulus_cs": "",
+      "answer": "Jakým směrem jedeš? Pokud jedeš k řece, vystup na příští zastávce. Přejdi na opačnou stranu a jeď dvě zastávky zpátky.",
+      "accepted_answers": [],
+      "explanation_zh": "先核实，不凭线路号就断言没问题。",
+      "rubric": [
+        "提出澄清问题",
+        "方案可执行",
+        "不增加未知站名"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "error_category": "fluency",
+      "id": "B1-U03-L01-E11",
+      "knowledge_points": [
+        "motion-direction",
+        "motion-prefixes"
+      ]
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "中文解释 přijel 和 přišel 在本课为什么都可描述“到了”。",
+      "stimulus_cs": "",
+      "answer": "přijel 强调乘交通工具到达，přišel 强调步行到达。帕维尔先坐电车到街区，再走到咖啡馆，所以两句可以对应不同路段。",
+      "accepted_answers": [],
+      "explanation_zh": "保留两段路线，不能说一个正确另一个错误。",
+      "rubric": [
+        "方式区分",
+        "具体语境",
+        "不误讲为完成体差别"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U03-L01-E12",
+      "knowledge_points": [
+        "motion-direction",
+        "motion-prefixes"
+      ]
+    }
+  ],
+  "transfer_task": {
+    "prompt_zh": "换成医院园区：门诊在后楼、车辆停前门、最后步行过院子。给出完整路线。",
+    "model_answer_cs": "Autem přijeďte k hlavní bráně. Tam zaparkujte a projděte dvorem k zadní budově. Do ordinace vejděte bočním vchodem.",
+    "rubric": [
+      "至少两种运动方式",
+      "边界正确",
+      "明确入口"
+    ]
+  },
+  "review_links": [
+    "B1-U02-L01"
+  ],
+  "sources": [
+    {
+      "source_id": "LANG01",
+      "url": "https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions",
+      "scope": "按实际能做的任务编排能力，不把CEFR说成官方捷语语法课表",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    },
+    {
+      "source_id": "LANG05",
+      "url": "https://www.czechency.org/slovnik/VID",
+      "scope": "体的形式、过程与整体视角、未来及阶段动词的搭配",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    },
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?id=620",
+      "scope": "动词与名词的格搭配、díky/kvůli的语用边界",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    }
+  ],
+  "content_status": "authored_crosschecked_not_native_reviewed",
+  "quality_notes": [
+    "原创课文和练习；规则按所列来源交叉核查，未获得捷语母语教师逐句审校。",
+    "本课级别属于教材编排判断，不代表官方能力认证。",
+    "听力为原创可合成脚本；真人多说话人、地区口音与录音自然度尚待现场核验。"
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "B1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--normal.mp3",
+      "slow_file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U03-L01--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Každý čtvrtek chodím do jazykové kavárny, ale dnes tam jedu tramvají, protože nesu těžkou tašku s knihami. Obvykle jezdím jen dvě zastávky a zbytek cesty jdu pěšky. Kamarád Pavel mě požádal, abych mu vysvětlil cestu od nádraží. Ve městě je poprvé a některé ulice mají podobné názvy. Nechtěl jsem ho poslat ke špatnému vchodu. Řekl jsem mu: „Od nádraží jeď tramvají směrem k parku. Vystup na třetí zastávce, přejdi ulici na přechodu a pokračuj rovně. Potom projdi průchodem mezi lékárnou a knihkupectvím. Kavárna je ve dvoře. Nechoď do hlavní budovy, vstup je z pravé strany.“ Pavel si pokyny zopakoval a ověřil si, zda má přejít ulici hned po vystoupení. Za chvíli mi zavolal, že už přijel, ale stojí na opačné straně parku. Zjistili jsme, že nastoupil do správné linky, jen jel opačným směrem. Nemusel se vracet až na nádraží. Stačilo přejít na druhou zastávku a jet dvě stanice zpátky. Počkal jsem na něj u vchodu, aby už nemusel hledat sám. Když Pavel přišel, všiml si rozdílu mezi přijel a přišel. Do čtvrti přijel dopravním prostředkem, poslední část ale ušel pěšky. Večer jsme z kavárny odešli společně. Já jsem odjel domů autobusem a Pavel šel na návštěvu ke známým. Příště už bude vědět, že číslo linky nestačí: musí si ověřit také směr, zastávku a přesné místo setkání. Pavel si nakonec uložil do telefonu přesný název zastávky i adresu kavárny, aby je mohl znovu zkontrolovat.",
+      "duration_seconds": 125.53968253968254,
+      "slow_duration_seconds": 141.80526077097505,
+      "sha256": "e0bf1660397394abdbabb2fdc1fc49c7655b50726192fae2d9ac4be64c6908ee",
+      "slow_sha256": "6aa46c6e7d02573870c44db9ca7f516074b091f2b82e0b108c29d202f4210ac9"
+    },
+    {
+      "lesson_id": "B1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--normal.mp3",
+      "slow_file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U03-L01--2026.10.22.1--text--p0",
+      "asset_id": "B1-U03-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Každý čtvrtek chodím do jazykové kavárny, ale dnes tam jedu tramvají, protože nesu těžkou tašku s knihami. Obvykle jezdím jen dvě zastávky a zbytek cesty jdu pěšky. Kamarád Pavel mě požádal, abych mu vysvětlil cestu od nádraží. Ve městě je poprvé a některé ulice mají podobné názvy. Nechtěl jsem ho poslat ke špatnému vchodu.",
+      "start": 0,
+      "end": 28.68843537414966,
+      "slow_start": 0,
+      "slow_end": 32.519727891156464
+    },
+    {
+      "lesson_id": "B1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--normal.mp3",
+      "slow_file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U03-L01--2026.10.22.1--text--s0",
+      "asset_id": "B1-U03-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Každý čtvrtek chodím do jazykové kavárny, ale dnes tam jedu tramvají, protože nesu těžkou tašku s knihami.",
+      "start": 0,
+      "end": 8.997732426303855,
+      "slow_start": 0,
+      "slow_end": 10.332879818594105
+    },
+    {
+      "lesson_id": "B1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--normal.mp3",
+      "slow_file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U03-L01--2026.10.22.1--text--s1",
+      "asset_id": "B1-U03-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Obvykle jezdím jen dvě zastávky a zbytek cesty jdu pěšky.",
+      "start": 9.177732426303855,
+      "end": 14.35578231292517,
+      "slow_start": 10.512879818594104,
+      "slow_end": 16.364308390022675
+    },
+    {
+      "lesson_id": "B1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--normal.mp3",
+      "slow_file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U03-L01--2026.10.22.1--text--s2",
+      "asset_id": "B1-U03-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Kamarád Pavel mě požádal, abych mu vysvětlil cestu od nádraží.",
+      "start": 14.53578231292517,
+      "end": 20.03891156462585,
+      "slow_start": 16.544308390022675,
+      "slow_end": 22.70920634920635
+    },
+    {
+      "lesson_id": "B1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--normal.mp3",
+      "slow_file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U03-L01--2026.10.22.1--text--s3",
+      "asset_id": "B1-U03-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 3,
+      "paragraph_index": 0,
+      "sentence_index": 3,
+      "text": "Ve městě je poprvé a některé ulice mají podobné názvy.",
+      "start": 20.21891156462585,
+      "end": 24.95578231292517,
+      "slow_start": 22.88920634920635,
+      "slow_end": 28.380725623582766
+    },
+    {
+      "lesson_id": "B1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--normal.mp3",
+      "slow_file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U03-L01--2026.10.22.1--text--s4",
+      "asset_id": "B1-U03-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 4,
+      "paragraph_index": 0,
+      "sentence_index": 4,
+      "text": "Nechtěl jsem ho poslat ke špatnému vchodu.",
+      "start": 25.13578231292517,
+      "end": 28.68843537414966,
+      "slow_start": 28.560725623582766,
+      "slow_end": 32.519727891156464
+    },
+    {
+      "lesson_id": "B1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--normal.mp3",
+      "slow_file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U03-L01--2026.10.22.1--text--p1",
+      "asset_id": "B1-U03-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Řekl jsem mu: „Od nádraží jeď tramvají směrem k parku. Vystup na třetí zastávce, přejdi ulici na přechodu a pokračuj rovně. Potom projdi průchodem mezi lékárnou a knihkupectvím. Kavárna je ve dvoře. Nechoď do hlavní budovy, vstup je z pravé strany.“ Pavel si pokyny zopakoval a ověřil si, zda má přejít ulici hned po vystoupení.",
+      "start": 28.86843537414966,
+      "end": 58.18965986394558,
+      "slow_start": 32.69972789115646,
+      "slow_end": 65.24852607709751
+    },
+    {
+      "lesson_id": "B1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--normal.mp3",
+      "slow_file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U03-L01--2026.10.22.1--text--s5",
+      "asset_id": "B1-U03-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 5,
+      "paragraph_index": 1,
+      "sentence_index": 0,
+      "text": "Řekl jsem mu: „Od nádraží jeď tramvají směrem k parku.",
+      "start": 28.86843537414966,
+      "end": 33.849115646258504,
+      "slow_start": 32.69972789115646,
+      "slow_end": 38.237687074829935
+    },
+    {
+      "lesson_id": "B1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--normal.mp3",
+      "slow_file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U03-L01--2026.10.22.1--text--s6",
+      "asset_id": "B1-U03-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 6,
+      "paragraph_index": 1,
+      "sentence_index": 1,
+      "text": "Vystup na třetí zastávce, přejdi ulici na přechodu a pokračuj rovně.",
+      "start": 34.029115646258504,
+      "end": 40.112743764172336,
+      "slow_start": 38.417687074829935,
+      "slow_end": 45.04698412698413
+    },
+    {
+      "lesson_id": "B1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--normal.mp3",
+      "slow_file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U03-L01--2026.10.22.1--text--s7",
+      "asset_id": "B1-U03-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 7,
+      "paragraph_index": 1,
+      "sentence_index": 2,
+      "text": "Potom projdi průchodem mezi lékárnou a knihkupectvím.",
+      "start": 40.292743764172336,
+      "end": 45.099274376417235,
+      "slow_start": 45.22698412698413,
+      "slow_end": 50.66045351473923
+    },
+    {
+      "lesson_id": "B1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--normal.mp3",
+      "slow_file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U03-L01--2026.10.22.1--text--s8",
+      "asset_id": "B1-U03-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 8,
+      "paragraph_index": 1,
+      "sentence_index": 3,
+      "text": "Kavárna je ve dvoře.",
+      "start": 45.279274376417234,
+      "end": 47.05560090702948,
+      "slow_start": 50.84045351473923,
+      "slow_end": 52.767709750566894
+    },
+    {
+      "lesson_id": "B1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--normal.mp3",
+      "slow_file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U03-L01--2026.10.22.1--text--s9",
+      "asset_id": "B1-U03-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 9,
+      "paragraph_index": 1,
+      "sentence_index": 4,
+      "text": "Nechoď do hlavní budovy, vstup je z pravé strany.“",
+      "start": 47.23560090702948,
+      "end": 51.27587301587302,
+      "slow_start": 52.947709750566894,
+      "slow_end": 57.46399092970522
+    },
+    {
+      "lesson_id": "B1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--normal.mp3",
+      "slow_file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U03-L01--2026.10.22.1--text--s10",
+      "asset_id": "B1-U03-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 10,
+      "paragraph_index": 1,
+      "sentence_index": 5,
+      "text": "Pavel si pokyny zopakoval a ověřil si, zda má přejít ulici hned po vystoupení.",
+      "start": 51.45587301587302,
+      "end": 58.18965986394558,
+      "slow_start": 57.64399092970522,
+      "slow_end": 65.24852607709751
+    },
+    {
+      "lesson_id": "B1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--normal.mp3",
+      "slow_file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U03-L01--2026.10.22.1--text--p2",
+      "asset_id": "B1-U03-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Za chvíli mi zavolal, že už přijel, ale stojí na opačné straně parku. Zjistili jsme, že nastoupil do správné linky, jen jel opačným směrem. Nemusel se vracet až na nádraží. Stačilo přejít na druhou zastávku a jet dvě stanice zpátky. Počkal jsem na něj u vchodu, aby už nemusel hledat sám.",
+      "start": 58.36965986394558,
+      "end": 84.31814058956915,
+      "slow_start": 65.4285260770975,
+      "slow_end": 95.04575963718821
+    },
+    {
+      "lesson_id": "B1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--normal.mp3",
+      "slow_file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U03-L01--2026.10.22.1--text--s11",
+      "asset_id": "B1-U03-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 11,
+      "paragraph_index": 2,
+      "sentence_index": 0,
+      "text": "Za chvíli mi zavolal, že už přijel, ale stojí na opačné straně parku.",
+      "start": 58.36965986394558,
+      "end": 64.23269841269841,
+      "slow_start": 65.4285260770975,
+      "slow_end": 72.1855328798186
+    },
+    {
+      "lesson_id": "B1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--normal.mp3",
+      "slow_file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U03-L01--2026.10.22.1--text--s12",
+      "asset_id": "B1-U03-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 12,
+      "paragraph_index": 2,
+      "sentence_index": 1,
+      "text": "Zjistili jsme, že nastoupil do správné linky, jen jel opačným směrem.",
+      "start": 64.41269841269842,
+      "end": 70.42666666666666,
+      "slow_start": 72.36553287981859,
+      "slow_end": 79.1457596371882
+    },
+    {
+      "lesson_id": "B1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--normal.mp3",
+      "slow_file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U03-L01--2026.10.22.1--text--s13",
+      "asset_id": "B1-U03-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 13,
+      "paragraph_index": 2,
+      "sentence_index": 2,
+      "text": "Nemusel se vracet až na nádraží.",
+      "start": 70.60666666666667,
+      "end": 73.7065306122449,
+      "slow_start": 79.32575963718821,
+      "slow_end": 82.82036281179138
+    },
+    {
+      "lesson_id": "B1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--normal.mp3",
+      "slow_file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U03-L01--2026.10.22.1--text--s14",
+      "asset_id": "B1-U03-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 14,
+      "paragraph_index": 2,
+      "sentence_index": 3,
+      "text": "Stačilo přejít na druhou zastávku a jet dvě stanice zpátky.",
+      "start": 73.8865306122449,
+      "end": 79.1342403628118,
+      "slow_start": 83.00036281179138,
+      "slow_end": 88.95628117913832
+    },
+    {
+      "lesson_id": "B1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--normal.mp3",
+      "slow_file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U03-L01--2026.10.22.1--text--s15",
+      "asset_id": "B1-U03-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 15,
+      "paragraph_index": 2,
+      "sentence_index": 4,
+      "text": "Počkal jsem na něj u vchodu, aby už nemusel hledat sám.",
+      "start": 79.31424036281179,
+      "end": 84.31814058956915,
+      "slow_start": 89.13628117913832,
+      "slow_end": 95.04575963718821
+    },
+    {
+      "lesson_id": "B1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--normal.mp3",
+      "slow_file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U03-L01--2026.10.22.1--text--p3",
+      "asset_id": "B1-U03-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Když Pavel přišel, všiml si rozdílu mezi přijel a přišel. Do čtvrti přijel dopravním prostředkem, poslední část ale ušel pěšky. Večer jsme z kavárny odešli společně. Já jsem odjel domů autobusem a Pavel šel na návštěvu ke známým. Příště už bude vědět, že číslo linky nestačí: musí si ověřit také směr, zastávku a přesné místo setkání. Pavel si nakonec uložil do telefonu přesný název zastávky i adresu kavárny, aby je mohl znovu zkontrolovat.",
+      "start": 84.49814058956916,
+      "end": 125.35968253968254,
+      "slow_start": 95.2257596371882,
+      "slow_end": 141.62526077097505
+    },
+    {
+      "lesson_id": "B1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--normal.mp3",
+      "slow_file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U03-L01--2026.10.22.1--text--s16",
+      "asset_id": "B1-U03-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 16,
+      "paragraph_index": 3,
+      "sentence_index": 0,
+      "text": "Když Pavel přišel, všiml si rozdílu mezi přijel a přišel.",
+      "start": 84.49814058956916,
+      "end": 89.92,
+      "slow_start": 95.2257596371882,
+      "slow_end": 101.18167800453514
+    },
+    {
+      "lesson_id": "B1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--normal.mp3",
+      "slow_file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U03-L01--2026.10.22.1--text--s17",
+      "asset_id": "B1-U03-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 17,
+      "paragraph_index": 3,
+      "sentence_index": 1,
+      "text": "Do čtvrti přijel dopravním prostředkem, poslední část ale ušel pěšky.",
+      "start": 90.1,
+      "end": 96.23006802721089,
+      "slow_start": 101.36167800453515,
+      "slow_end": 108.30444444444444
+    },
+    {
+      "lesson_id": "B1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--normal.mp3",
+      "slow_file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U03-L01--2026.10.22.1--text--s18",
+      "asset_id": "B1-U03-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 18,
+      "paragraph_index": 3,
+      "sentence_index": 2,
+      "text": "Večer jsme z kavárny odešli společně.",
+      "start": 96.41006802721088,
+      "end": 99.84662131519275,
+      "slow_start": 108.48444444444445,
+      "slow_end": 112.33895691609978
+    },
+    {
+      "lesson_id": "B1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--normal.mp3",
+      "slow_file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U03-L01--2026.10.22.1--text--s19",
+      "asset_id": "B1-U03-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 19,
+      "paragraph_index": 3,
+      "sentence_index": 3,
+      "text": "Já jsem odjel domů autobusem a Pavel šel na návštěvu ke známým.",
+      "start": 100.02662131519274,
+      "end": 105.93609977324263,
+      "slow_start": 112.51895691609977,
+      "slow_end": 119.17147392290249
+    },
+    {
+      "lesson_id": "B1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--normal.mp3",
+      "slow_file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U03-L01--2026.10.22.1--text--s20",
+      "asset_id": "B1-U03-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 20,
+      "paragraph_index": 3,
+      "sentence_index": 4,
+      "text": "Příště už bude vědět, že číslo linky nestačí: musí si ověřit také směr, zastávku a přesné místo setkání.",
+      "start": 106.11609977324262,
+      "end": 115.69433106575964,
+      "slow_start": 119.3514739229025,
+      "slow_end": 130.29968253968255
+    },
+    {
+      "lesson_id": "B1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--normal.mp3",
+      "slow_file": "audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U03-L01--2026.10.22.1--text--s21",
+      "asset_id": "B1-U03-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 21,
+      "paragraph_index": 3,
+      "sentence_index": 5,
+      "text": "Pavel si nakonec uložil do telefonu přesný název zastávky i adresu kavárny, aby je mohl znovu zkontrolovat.",
+      "start": 115.87433106575963,
+      "end": 125.35968253968254,
+      "slow_start": 130.47968253968253,
+      "slow_end": 141.62526077097505
+    },
+    {
+      "lesson_id": "B1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U03-L01--2026.10.22.1--listening--1c2cca1e00--normal.mp3",
+      "slow_file": "audio/files/B1-U03-L01--2026.10.22.1--listening--1c2cca1e00--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U03-L01--2026.10.22.1--listening",
+      "role": "listening-full",
+      "index": 0,
+      "text": "Z nádraží nejezděte autobusem. Je to blízko, můžete jít pěšky. Přejděte most a za ním odbočte doleva. Dům najdete vedle pekárny. Vejděte bočním vchodem; hlavní vchod je během opravy zavřený. Až přijdete, zavolejte mi.",
+      "duration_seconds": 19.702403628117914,
+      "slow_duration_seconds": 21.67609977324263,
+      "sha256": "8f672ea6aceed2087e73ce203405ddc289b833e043b741c9d8a0642b685d5953",
+      "slow_sha256": "34815666b5ee66882bc39be9bec86a171d4e025df2851d46d1e935bf20df46b2"
+    },
+    {
+      "lesson_id": "B1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U03-L01--2026.10.22.1--listening--1c2cca1e00--normal.mp3",
+      "slow_file": "audio/files/B1-U03-L01--2026.10.22.1--listening--1c2cca1e00--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U03-L01--2026.10.22.1--listening--p0",
+      "asset_id": "B1-U03-L01--2026.10.22.1--listening",
+      "role": "listening",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Z nádraží nejezděte autobusem. Je to blízko, můžete jít pěšky. Přejděte most a za ním odbočte doleva. Dům najdete vedle pekárny. Vejděte bočním vchodem; hlavní vchod je během opravy zavřený. Až přijdete, zavolejte mi.",
+      "start": 0,
+      "end": 19.522403628117914,
+      "slow_start": 0,
+      "slow_end": 21.49609977324263
+    },
+    {
+      "lesson_id": "B1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U03-L01--2026.10.22.1--vocabulary--b5918b6ce4--normal.mp3",
+      "slow_file": "audio/files/B1-U03-L01--2026.10.22.1--vocabulary--b5918b6ce4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U03-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary-full",
+      "index": 0,
+      "text": "Projděte tímto průchodem. Ulici přejděte na přechodu. Vystupte na třetí zastávce. Jedeme opačným směrem. Počkám u hlavního vchodu.",
+      "duration_seconds": 12.347437641723356,
+      "slow_duration_seconds": 13.752244897959184,
+      "sha256": "07299fa663f6348e44b595f6a6e89af60b94f61a928f0fa12ae07b7e40062142",
+      "slow_sha256": "ef99c7aa3f8bae4a43b56ad6805b74850a3d051cca10544e76926670458633e1"
+    },
+    {
+      "lesson_id": "B1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U03-L01--2026.10.22.1--vocabulary--b5918b6ce4--normal.mp3",
+      "slow_file": "audio/files/B1-U03-L01--2026.10.22.1--vocabulary--b5918b6ce4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U03-L01--2026.10.22.1--vocabulary--p0",
+      "asset_id": "B1-U03-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Projděte tímto průchodem.",
+      "start": 0,
+      "end": 2.3103854875283445,
+      "slow_start": 0,
+      "slow_end": 2.5658049886621317
+    },
+    {
+      "lesson_id": "B1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U03-L01--2026.10.22.1--vocabulary--b5918b6ce4--normal.mp3",
+      "slow_file": "audio/files/B1-U03-L01--2026.10.22.1--vocabulary--b5918b6ce4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U03-L01--2026.10.22.1--vocabulary--p1",
+      "asset_id": "B1-U03-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Ulici přejděte na přechodu.",
+      "start": 2.4903854875283447,
+      "end": 4.777551020408163,
+      "slow_start": 2.7458049886621314,
+      "slow_end": 5.253560090702948
+    },
+    {
+      "lesson_id": "B1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U03-L01--2026.10.22.1--vocabulary--b5918b6ce4--normal.mp3",
+      "slow_file": "audio/files/B1-U03-L01--2026.10.22.1--vocabulary--b5918b6ce4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U03-L01--2026.10.22.1--vocabulary--p2",
+      "asset_id": "B1-U03-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Vystupte na třetí zastávce.",
+      "start": 4.957551020408164,
+      "end": 7.46530612244898,
+      "slow_start": 5.433560090702948,
+      "slow_end": 8.208344671201814
+    },
+    {
+      "lesson_id": "B1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U03-L01--2026.10.22.1--vocabulary--b5918b6ce4--normal.mp3",
+      "slow_file": "audio/files/B1-U03-L01--2026.10.22.1--vocabulary--b5918b6ce4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U03-L01--2026.10.22.1--vocabulary--p3",
+      "asset_id": "B1-U03-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Jedeme opačným směrem.",
+      "start": 7.64530612244898,
+      "end": 9.723492063492063,
+      "slow_start": 8.388344671201814,
+      "slow_end": 10.849659863945579
+    },
+    {
+      "lesson_id": "B1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U03-L01--2026.10.22.1--vocabulary--b5918b6ce4--normal.mp3",
+      "slow_file": "audio/files/B1-U03-L01--2026.10.22.1--vocabulary--b5918b6ce4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U03-L01--2026.10.22.1--vocabulary--p4",
+      "asset_id": "B1-U03-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 4,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Počkám u hlavního vchodu.",
+      "start": 9.903492063492063,
+      "end": 12.167437641723357,
+      "slow_start": 11.029659863945579,
+      "slow_end": 13.572244897959184
+    },
+    {
+      "lesson_id": "B1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U03-L01--2026.10.22.1--exercises--7b047efc15--normal.mp3",
+      "slow_file": "audio/files/B1-U03-L01--2026.10.22.1--exercises--7b047efc15--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U03-L01--2026.10.22.1--exercises",
+      "role": "exercises-full",
+      "index": 0,
+      "text": "Vejděte bočním vchodem. Hlavní vchod je během opravy zavřený.",
+      "duration_seconds": 5.491609977324263,
+      "slow_duration_seconds": 6.037278911564626,
+      "sha256": "5c678faaded9993675cde7050e000a0f651be0a0152448d3a93faeff4d8e61d2",
+      "slow_sha256": "1f87432a633643acf3ffe390a7d1cf36da4a031a5a19b1f3c823d2e223181a36"
+    },
+    {
+      "lesson_id": "B1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U03-L01--2026.10.22.1--exercises--7b047efc15--normal.mp3",
+      "slow_file": "audio/files/B1-U03-L01--2026.10.22.1--exercises--7b047efc15--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U03-L01--2026.10.22.1--exercises--p0",
+      "asset_id": "B1-U03-L01--2026.10.22.1--exercises",
+      "role": "exercise",
+      "index": 0,
+      "exercise_id": "B1-U03-L01-E03",
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Vejděte bočním vchodem. Hlavní vchod je během opravy zavřený.",
+      "start": 0,
+      "end": 5.311609977324263,
+      "slow_start": 0,
+      "slow_end": 5.8572789115646255
+    },
+    {
+      "lesson_id": "B1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U03-L01--2026.10.22.1--contrasts--21479587ee--normal.mp3",
+      "slow_file": "audio/files/B1-U03-L01--2026.10.22.1--contrasts--21479587ee--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U03-L01--2026.10.22.1--contrasts",
+      "role": "contrasts-full",
+      "index": 0,
+      "text": "přijel. přišel.",
+      "duration_seconds": 1.666077097505669,
+      "slow_duration_seconds": 1.8634467120181406,
+      "sha256": "9fc035cc285f7d6499341dd9d61808a2ca87e3e7e6c4b0f4ab16461c0c9d095d",
+      "slow_sha256": "71f3bb63293ccef09cdba9304279d30e197d24cd9e6c187b989eb6cf8d1c4b54"
+    },
+    {
+      "lesson_id": "B1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U03-L01--2026.10.22.1--contrasts--21479587ee--normal.mp3",
+      "slow_file": "audio/files/B1-U03-L01--2026.10.22.1--contrasts--21479587ee--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U03-L01--2026.10.22.1--contrasts--p0",
+      "asset_id": "B1-U03-L01--2026.10.22.1--contrasts",
+      "role": "contrast",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "přijel. přišel.",
+      "start": 0,
+      "end": 1.486077097505669,
+      "slow_start": 0,
+      "slow_end": 1.6834467120181407
+    }
+  ]
+}

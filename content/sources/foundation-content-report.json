@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-22",
+  "scope": [
+    "Pre-A1",
+    "A1",
+    "A2"
+  ],
+  "counts": {
+    "Pre-A1": {
+      "lessons": 6,
+      "lesson_exercises": 60,
+      "assessments": 7,
+      "assessment_exercises": 26,
+      "main_text_cs_words": 159,
+      "min_main_text_words": 20,
+      "max_main_text_words": 38,
+      "vocabulary_entries": 24
+    },
+    "A1": {
+      "lessons": 12,
+      "lesson_exercises": 120,
+      "assessments": 13,
+      "assessment_exercises": 44,
+      "main_text_cs_words": 1048,
+      "min_main_text_words": 83,
+      "max_main_text_words": 98,
+      "vocabulary_entries": 72
+    },
+    "A2": {
+      "lessons": 14,
+      "lesson_exercises": 144,
+      "assessments": 15,
+      "assessment_exercises": 52,
+      "main_text_cs_words": 2130,
+      "min_main_text_words": 142,
+      "max_main_text_words": 184,
+      "vocabulary_entries": 84
+    }
+  },
+  "checks": {
+    "document_ids_unique": true,
+    "exercise_ids_unique": true,
+    "all_answers_and_explanations_present": true,
+    "choice_answers_in_options": true,
+    "open_tasks_have_rubrics": true,
+    "lesson_texts_not_identical": true,
+    "all_lesson_exercise_count_at_least_10": true,
+    "all_vocabulary_have_forms_context_translation": true
+  },
+  "known_gaps": [
+    "尚无母语教师逐句审校",
+    "未逐词外部核验所有例句与词形",
+    "本子任务未制作真人音频或口型位图"
+  ],
+  "totals": {
+    "lessons": 32,
+    "assessments": 35,
+    "lesson_exercises": 324,
+    "assessment_exercises": 122,
+    "all_exercises": 446
+  }
+}

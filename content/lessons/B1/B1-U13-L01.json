@@ -1,0 +1,1260 @@
+{
+  "id": "B1-U13-L01",
+  "level": "B1",
+  "unit_id": "B1-U13",
+  "order": 45,
+  "version": "2026.10.22.1",
+  "title_zh": "词族搭配与构词",
+  "title_cs": "Slovo v rodině a ve větě",
+  "prerequisites": [
+    "B1-U12-L01"
+  ],
+  "can_do": [
+    "通过词根和词缀推测词性与意义并核查",
+    "把词放进常用搭配学习",
+    "识别派生词不完全等义的边界"
+  ],
+  "scene": "词族、搭配与构词",
+  "skills": [
+    "listening",
+    "speaking",
+    "reading",
+    "writing",
+    "interaction",
+    "mediation"
+  ],
+  "knowledge_points": [
+    "word-family",
+    "collocation-building"
+  ],
+  "intro_zh": "词族能减少记忆负担，但不是看到相同字母就硬猜意思。今天把“购买、销售、可用性”放进一场真实沟通，练先推测再核实。",
+  "lesson_text": [
+    {
+      "id": "s01",
+      "cs": "Při přípravě malého bazaru jsem četl zprávy od prodávajících i kupujících. Všiml jsem si, že mnoho slov souvisí se stejnou činností, ale ve větě plní různé role. Nákup označuje činnost nebo její výsledek, nakupovat popisuje děj a nákupní seznam je seznam věcí, které chceme koupit. Nestačí tedy zapamatovat si jediný český výraz a používat ho všude místo čínského slova.",
+      "zh": "准备小集市时，我读买卖双方消息，发现同一活动相关的词在句中角色不同。nákup 是购买活动或其结果，nakupovat 是动词，nákupní seznam 是购物清单。不能记一个捷语词后在所有中文对应位置乱用。",
+      "note_zh": ""
+    },
+    {
+      "id": "s02",
+      "cs": "U slova prodej jsme si zapsali další členy rodiny: prodávat, prodat, prodejce a prodejní cena. Prodejce je člověk nebo firma, která něco prodává. Prodejna je naopak místo. Kamarád omylem napsal, že prodejce je zavřený do pěti. V daném kontextu chtěl říct, že prodejna je zavřená. Jedna koncovka tak změnila osobu na místo a vyžadovala také jiný tvar přídavného jména.",
+      "zh": "围绕 prodej 又记 prodávat、prodat、prodejce、prodejní cena。prodejce 是卖方，prodejna 是店面。朋友误写卖方关门到五点；实际想说店面关闭。词尾改变角色，也改变形容词一致形式。",
+      "note_zh": ""
+    },
+    {
+      "id": "s03",
+      "cs": "Důležité byly i celé kombinace. Můžeme podat žádost, uzavřít dohodu a zaplatit zálohu. Nelze vždy vzít první český překlad slovesa „dělat“ a spojit ho s jakýmkoli podstatným jménem. Zapsal jsem si proto u každého nového výrazu krátkou větu z našeho rozhovoru. Vedle významu jsem uvedl slovní druh, běžný tvar a situaci, ve které se výraz hodí.",
+      "zh": "完整搭配也重要：提交申请、达成协议、付订金分别用 podat žádost、uzavřít dohodu、zaplatit zálohu。不能把“做”的第一个译词接所有名词。我给每个新表达记一条语境句、词性、常见形式和适用场景。",
+      "note_zh": ""
+    },
+    {
+      "id": "s04",
+      "cs": "Když jsme dostali zprávu, že určitý výrobek není dostupný, nevyvodil jsem hned, že se už nikdy nebude prodávat. Dostupnost může být dočasná a záviset na místě nebo termínu. Stejně tak levný neznamená automaticky výhodný. Slovo tedy poznávám nejen podle příbuzných tvarů, ale také podle toho, s čím se běžně spojuje a co v daném sdělení skutečně tvrdí.",
+      "zh": "收到某产品不可提供时，我没推断永久停售。可用性可能随地点时间变化；便宜也不自动划算。认识词不仅看词族，还看常搭什么、当下到底表达了什么。",
+      "note_zh": ""
+    }
+  ],
+  "grammar": [
+    {
+      "id": "word-family",
+      "rule_zh": "相同词根帮你认亲属，词尾和搭配帮你分角色。",
+      "detail_zh": "prodej 销售、prodejce 卖方、prodejna 店面、prodejní 销售用的。常见 -ní 可形成形容词或动名词，需按具体词形判断；-ost 常见抽象性质名词：dostupný → dostupnost。不可用一个后缀推导所有词。",
+      "examples": [
+        {
+          "cs": "Prodejna je otevřená.",
+          "zh": "店面开着。",
+          "note_zh": ""
+        },
+        {
+          "cs": "Prodejce odpověděl.",
+          "zh": "卖家回复了。",
+          "note_zh": ""
+        }
+      ],
+      "pitfalls": [
+        "prodejce/prodejna 不是同义词。"
+      ],
+      "exceptions": [
+        "派生常伴词干或音变，遇到新词需查词典而非自由造词。"
+      ],
+      "term": "词根、派生和词性"
+    },
+    {
+      "id": "collocation-building",
+      "rule_zh": "记“这个词通常怎么用”，比只记一个中文意思稳定。",
+      "detail_zh": "podat žádost、uzavřít dohodu、zaplatit zálohu 是常见搭配。把词条扩成短句，并记必要格。využít možnost 是利用机会；použít nástroj 是使用工具，边界依义项。每次学习附一条可听例句和易混点。",
+      "examples": [
+        {
+          "cs": "Podali jsme žádost.",
+          "zh": "我们提交了申请。",
+          "note_zh": ""
+        },
+        {
+          "cs": "Uzavřeli jsme dohodu.",
+          "zh": "我们达成协议。",
+          "note_zh": ""
+        }
+      ],
+      "pitfalls": [
+        "不要把 dělat 万能化。"
+      ],
+      "exceptions": [
+        "搭配有多种自然表达，参考答案不是排除所有同义说法。"
+      ],
+      "term": "搭配与词汇网络"
+    }
+  ],
+  "vocabulary": [
+    {
+      "lemma": "prodejce",
+      "pos": "名词，阳性有生",
+      "forms": "prodejci; prodejcem",
+      "meaning_zh": "卖方",
+      "collocation": "kontaktovat prodejce",
+      "example_cs": "Prodejce potvrdil termín.",
+      "example_zh": "卖家确认时间。",
+      "confusion_zh": "prodejna 是店。"
+    },
+    {
+      "lemma": "prodejna",
+      "pos": "名词，阴性",
+      "forms": "prodejny; v prodejně",
+      "meaning_zh": "店面",
+      "collocation": "kamenná prodejna",
+      "example_cs": "V prodejně je několik zákazníků.",
+      "example_zh": "店里有几个客人。",
+      "confusion_zh": "不是卖家的身份。"
+    },
+    {
+      "lemma": "dostupnost",
+      "pos": "名词，阴性",
+      "forms": "dostupnosti",
+      "meaning_zh": "可获取性、可用性",
+      "collocation": "ověřit dostupnost",
+      "example_cs": "Ověřte dostupnost výrobku.",
+      "example_zh": "核实产品是否可提供。",
+      "confusion_zh": "当前没货不代表永久停售。"
+    },
+    {
+      "lemma": "výhodný",
+      "pos": "形容词",
+      "forms": "výhodná; výhodné",
+      "meaning_zh": "划算的、有利的",
+      "collocation": "výhodná nabídka",
+      "example_cs": "Nabídka nemusí být výhodná.",
+      "example_zh": "报价未必划算。",
+      "confusion_zh": "levný 只强调便宜。"
+    }
+  ],
+  "listening": {
+    "script": [
+      {
+        "cs": "Prodejce nám odpověděl, že zboží je dostupné jen v internetovém obchodě. Kamenná prodejna ho nemá. Cena je nižší, ale doprava se platí zvlášť. Než nabídku označíme za výhodnou, musíme spočítat celkové náklady.",
+        "zh": "卖家回复只网店有货，实体店没有。价格低但运费另付；称划算前需算总成本。",
+        "note_zh": ""
+      }
+    ],
+    "focus_zh": "听出人、地点、性质与成本，不只围绕相似词根猜。",
+    "source": "original"
+  },
+  "pronunciation": {
+    "focus_zh": "prodejce / prodejna 在词尾处放慢核对；dostupný 的长 ý 与 dostupnost 结尾辅音群清楚说出。",
+    "contrast": [
+      {
+        "a": "prodejce",
+        "b": "prodejna",
+        "note_zh": "相同开头，不同词尾对应不同角色。"
+      }
+    ],
+    "task_zh": "先听一句，再按意义块跟读；录下自然语速版本，对照长短元音、句中停顿和关键词。不要追求机械加速。"
+  },
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "哪个词表示销售地点？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "prodejce"
+        },
+        {
+          "id": "b",
+          "text": "prodejna"
+        },
+        {
+          "id": "c",
+          "text": "prodávat"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "-na 在本词表示店，不能泛化为所有同后缀词。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U13-L01-E01",
+      "knowledge_points": [
+        "word-family",
+        "collocation-building"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "“不可用”是否证明永久停售？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "是"
+        },
+        {
+          "id": "b",
+          "text": "否，需要看时间地点"
+        },
+        {
+          "id": "c",
+          "text": "意味着免费"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "需要具体范围和条件。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U13-L01-E02",
+      "knowledge_points": [
+        "word-family",
+        "collocation-building"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "听：商品在哪里有？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "实体店"
+        },
+        {
+          "id": "b",
+          "text": "仅网店"
+        },
+        {
+          "id": "c",
+          "text": "两边都没货"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "jen v internetovém obchodě 限定范围。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "listening"
+      ],
+      "error_category": "comprehension",
+      "audio_text_cs": "Zboží je dostupné jen v internetovém obchodě. Kamenná prodejna ho nemá.",
+      "id": "B1-U13-L01-E03",
+      "knowledge_points": [
+        "word-family",
+        "collocation-building"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "填写“提交申请”的动词不定式。",
+      "stimulus_cs": "___ žádost",
+      "answer": "podat",
+      "accepted_answers": [
+        "podat"
+      ],
+      "explanation_zh": "搭配 podat žádost。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "collocation",
+      "id": "B1-U13-L01-E04",
+      "knowledge_points": [
+        "word-family",
+        "collocation-building"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "从 dostupný 得到抽象名词。",
+      "stimulus_cs": "ověřit ___ výrobku",
+      "answer": "dostupnost",
+      "accepted_answers": [
+        "dostupnost"
+      ],
+      "explanation_zh": "dostupnost 表可用性。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "meaning",
+      "id": "B1-U13-L01-E05",
+      "knowledge_points": [
+        "word-family",
+        "collocation-building"
+      ]
+    },
+    {
+      "type": "correct",
+      "prompt_zh": "只修正店面的性一致。",
+      "stimulus_cs": "Prodejna je otevřený.",
+      "answer": "Prodejna je otevřená.",
+      "accepted_answers": [
+        "Prodejna je otevřená."
+      ],
+      "explanation_zh": "prodejna 阴性单数。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "B1-U13-L01-E06",
+      "knowledge_points": [
+        "word-family",
+        "collocation-building"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt_zh": "先说明价格，再补另计费用。",
+      "stimulus_cs": "ale doprava se platí zvlášť. / Cena je nižší,",
+      "options": [
+        "ale doprava se platí zvlášť.",
+        "Cena je nižší,"
+      ],
+      "answer": "Cena je nižší, ale doprava se platí zvlášť.",
+      "accepted_answers": [
+        "Cena je nižší, ale doprava se platí zvlášť."
+      ],
+      "explanation_zh": "价格低不自动等于总成本更低。",
+      "scoring_basis": "本题限定句首及语境；不据一个参考语序否定捷语所有语序变体。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "word_order",
+      "id": "B1-U13-L01-E07",
+      "knowledge_points": [
+        "word-family",
+        "collocation-building"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "哪个搭配表示达成协议？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "uzavřít dohodu"
+        },
+        {
+          "id": "b",
+          "text": "zavřít člověka"
+        },
+        {
+          "id": "c",
+          "text": "dělat prodejna"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "uzavřít dohodu 是常见搭配。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U13-L01-E08",
+      "knowledge_points": [
+        "word-family",
+        "collocation-building"
+      ]
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "围绕工作或学习选一个词族，至少三词各说一句并指出词性。",
+      "stimulus_cs": "",
+      "answer": "Studuji češtinu. Studium vyžaduje pravidelnou práci. Studijní plán mi pomáhá vybrat další téma.",
+      "accepted_answers": [],
+      "explanation_zh": "词族要落在句里，不只列清单。",
+      "rubric": [
+        "三角色",
+        "完整语境句",
+        "不随意造词"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "error_category": "fluency",
+      "id": "B1-U13-L01-E09",
+      "knowledge_points": [
+        "word-family",
+        "collocation-building"
+      ]
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "为 dostupnost 写个人词条：意义、句子、搭配、易混点。",
+      "stimulus_cs": "",
+      "answer": "Dostupnost znamená, zda lze věc získat nebo službu využít. Ověřím dostupnost pokoje na pátek. Nedostupnost v jednom termínu neznamená trvalé uzavření hotelu.",
+      "accepted_answers": [],
+      "explanation_zh": "兼顾词义范围与错误推断。",
+      "rubric": [
+        "意义清楚",
+        "有语境句",
+        "有边界"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U13-L01-E10",
+      "knowledge_points": [
+        "word-family",
+        "collocation-building"
+      ]
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "对方因价格低说一定划算，询问漏算的费用。",
+      "stimulus_cs": "",
+      "answer": "Cena je opravdu nižší. Je ale v ceně doprava? A potřebujeme platit ještě další poplatky? Teprve potom můžeme porovnat celkové náklady.",
+      "accepted_answers": [],
+      "explanation_zh": "语言与逻辑一起校准比较。",
+      "rubric": [
+        "承接事实",
+        "追问费用",
+        "不提前下结论"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "error_category": "fluency",
+      "id": "B1-U13-L01-E11",
+      "knowledge_points": [
+        "word-family",
+        "collocation-building"
+      ]
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "用中文解释 prodejce/prodejna/prodejní cena，并各给短捷语。",
+      "stimulus_cs": "",
+      "answer": "prodejce 是卖方，Prodejce odpověděl；prodejna 是店面，Prodejna je otevřená；prodejní cena 是销售价格。它们同词族但在句中角色不同。",
+      "accepted_answers": [],
+      "explanation_zh": "不要合并成一个“卖”。",
+      "rubric": [
+        "三词区分",
+        "例句自然",
+        "性一致"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U13-L01-E12",
+      "knowledge_points": [
+        "word-family",
+        "collocation-building"
+      ]
+    }
+  ],
+  "transfer_task": {
+    "prompt_zh": "把词族迁移到 doprava/dopravce/dopravní：写三句用于查询配送。",
+    "model_answer_cs": "Doprava trvá dva dny. Dopravce nám pošle zprávu. Dopravní podmínky si ověříme před objednáním.",
+    "rubric": [
+      "三角色",
+      "搭配可用",
+      "不把模式绝对化"
+    ]
+  },
+  "review_links": [
+    "B1-U12-L01"
+  ],
+  "sources": [
+    {
+      "source_id": "LANG01",
+      "url": "https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions",
+      "scope": "按实际能做的任务编排能力，不把CEFR说成官方捷语语法课表",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    },
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?id=620",
+      "scope": "动词与名词的格搭配、díky/kvůli的语用边界",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    },
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?id=600",
+      "scope": "主语与谓语的性数及有生性一致",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    }
+  ],
+  "content_status": "authored_crosschecked_not_native_reviewed",
+  "quality_notes": [
+    "原创课文和练习；规则按所列来源交叉核查，未获得捷语母语教师逐句审校。",
+    "本课级别属于教材编排判断，不代表官方能力认证。",
+    "听力为原创可合成脚本；真人多说话人、地区口音与录音自然度尚待现场核验。"
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "B1-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--normal.mp3",
+      "slow_file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U13-L01--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Při přípravě malého bazaru jsem četl zprávy od prodávajících i kupujících. Všiml jsem si, že mnoho slov souvisí se stejnou činností, ale ve větě plní různé role. Nákup označuje činnost nebo její výsledek, nakupovat popisuje děj a nákupní seznam je seznam věcí, které chceme koupit. Nestačí tedy zapamatovat si jediný český výraz a používat ho všude místo čínského slova. U slova prodej jsme si zapsali další členy rodiny: prodávat, prodat, prodejce a prodejní cena. Prodejce je člověk nebo firma, která něco prodává. Prodejna je naopak místo. Kamarád omylem napsal, že prodejce je zavřený do pěti. V daném kontextu chtěl říct, že prodejna je zavřená. Jedna koncovka tak změnila osobu na místo a vyžadovala také jiný tvar přídavného jména. Důležité byly i celé kombinace. Můžeme podat žádost, uzavřít dohodu a zaplatit zálohu. Nelze vždy vzít první český překlad slovesa „dělat“ a spojit ho s jakýmkoli podstatným jménem. Zapsal jsem si proto u každého nového výrazu krátkou větu z našeho rozhovoru. Vedle významu jsem uvedl slovní druh, běžný tvar a situaci, ve které se výraz hodí. Když jsme dostali zprávu, že určitý výrobek není dostupný, nevyvodil jsem hned, že se už nikdy nebude prodávat. Dostupnost může být dočasná a záviset na místě nebo termínu. Stejně tak levný neznamená automaticky výhodný. Slovo tedy poznávám nejen podle příbuzných tvarů, ale také podle toho, s čím se běžně spojuje a co v daném sdělení skutečně tvrdí.",
+      "duration_seconds": 128.76131519274375,
+      "slow_duration_seconds": 144.5508843537415,
+      "sha256": "2e0b5a554f3f39ffeebc530f87c63d9d34c580c7f8470ce68d1ffb2a15f05995",
+      "slow_sha256": "f82e623a622c48397790f48a4f2823a0396d49f069dff69f8e5e5df50f04a70a"
+    },
+    {
+      "lesson_id": "B1-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--normal.mp3",
+      "slow_file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U13-L01--2026.10.22.1--text--p0",
+      "asset_id": "B1-U13-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Při přípravě malého bazaru jsem četl zprávy od prodávajících i kupujících. Všiml jsem si, že mnoho slov souvisí se stejnou činností, ale ve větě plní různé role. Nákup označuje činnost nebo její výsledek, nakupovat popisuje děj a nákupní seznam je seznam věcí, které chceme koupit. Nestačí tedy zapamatovat si jediný český výraz a používat ho všude místo čínského slova.",
+      "start": 0,
+      "end": 33.34979591836735,
+      "slow_start": 0,
+      "slow_end": 37.07659863945578
+    },
+    {
+      "lesson_id": "B1-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--normal.mp3",
+      "slow_file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U13-L01--2026.10.22.1--text--s0",
+      "asset_id": "B1-U13-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Při přípravě malého bazaru jsem četl zprávy od prodávajících i kupujících.",
+      "start": 0,
+      "end": 6.5712471655328795,
+      "slow_start": 0,
+      "slow_end": 7.22140589569161
+    },
+    {
+      "lesson_id": "B1-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--normal.mp3",
+      "slow_file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U13-L01--2026.10.22.1--text--s1",
+      "asset_id": "B1-U13-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Všiml jsem si, že mnoho slov souvisí se stejnou činností, ale ve větě plní různé role.",
+      "start": 6.75124716553288,
+      "end": 14.73891156462585,
+      "slow_start": 7.40140589569161,
+      "slow_end": 16.271428571428572
+    },
+    {
+      "lesson_id": "B1-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--normal.mp3",
+      "slow_file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U13-L01--2026.10.22.1--text--s2",
+      "asset_id": "B1-U13-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Nákup označuje činnost nebo její výsledek, nakupovat popisuje děj a nákupní seznam je seznam věcí, které chceme koupit.",
+      "start": 14.91891156462585,
+      "end": 25.286621315192743,
+      "slow_start": 16.451428571428572,
+      "slow_end": 28.096235827664398
+    },
+    {
+      "lesson_id": "B1-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--normal.mp3",
+      "slow_file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U13-L01--2026.10.22.1--text--s3",
+      "asset_id": "B1-U13-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 3,
+      "paragraph_index": 0,
+      "sentence_index": 3,
+      "text": "Nestačí tedy zapamatovat si jediný český výraz a používat ho všude místo čínského slova.",
+      "start": 25.466621315192743,
+      "end": 33.34979591836735,
+      "slow_start": 28.2762358276644,
+      "slow_end": 37.07659863945578
+    },
+    {
+      "lesson_id": "B1-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--normal.mp3",
+      "slow_file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U13-L01--2026.10.22.1--text--p1",
+      "asset_id": "B1-U13-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "U slova prodej jsme si zapsali další členy rodiny: prodávat, prodat, prodejce a prodejní cena. Prodejce je člověk nebo firma, která něco prodává. Prodejna je naopak místo. Kamarád omylem napsal, že prodejce je zavřený do pěti. V daném kontextu chtěl říct, že prodejna je zavřená. Jedna koncovka tak změnila osobu na místo a vyžadovala také jiný tvar přídavného jména.",
+      "start": 33.52979591836735,
+      "end": 65.98571428571428,
+      "slow_start": 37.25659863945578,
+      "slow_end": 73.78761904761905
+    },
+    {
+      "lesson_id": "B1-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--normal.mp3",
+      "slow_file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U13-L01--2026.10.22.1--text--s4",
+      "asset_id": "B1-U13-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 4,
+      "paragraph_index": 1,
+      "sentence_index": 0,
+      "text": "U slova prodej jsme si zapsali další členy rodiny: prodávat, prodat, prodejce a prodejní cena.",
+      "start": 33.52979591836735,
+      "end": 41.44780045351474,
+      "slow_start": 37.25659863945578,
+      "slow_end": 46.38204081632653
+    },
+    {
+      "lesson_id": "B1-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--normal.mp3",
+      "slow_file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U13-L01--2026.10.22.1--text--s5",
+      "asset_id": "B1-U13-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 5,
+      "paragraph_index": 1,
+      "sentence_index": 1,
+      "text": "Prodejce je člověk nebo firma, která něco prodává.",
+      "start": 41.62780045351474,
+      "end": 45.80739229024943,
+      "slow_start": 46.56204081632653,
+      "slow_end": 51.310521541950116
+    },
+    {
+      "lesson_id": "B1-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--normal.mp3",
+      "slow_file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U13-L01--2026.10.22.1--text--s6",
+      "asset_id": "B1-U13-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 6,
+      "paragraph_index": 1,
+      "sentence_index": 2,
+      "text": "Prodejna je naopak místo.",
+      "start": 45.98739229024943,
+      "end": 48.27455782312925,
+      "slow_start": 51.490521541950116,
+      "slow_end": 54.160816326530615
+    },
+    {
+      "lesson_id": "B1-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--normal.mp3",
+      "slow_file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U13-L01--2026.10.22.1--text--s7",
+      "asset_id": "B1-U13-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 7,
+      "paragraph_index": 1,
+      "sentence_index": 3,
+      "text": "Kamarád omylem napsal, že prodejce je zavřený do pěti.",
+      "start": 48.45455782312925,
+      "end": 53.12176870748299,
+      "slow_start": 54.340816326530614,
+      "slow_end": 59.68140589569161
+    },
+    {
+      "lesson_id": "B1-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--normal.mp3",
+      "slow_file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U13-L01--2026.10.22.1--text--s8",
+      "asset_id": "B1-U13-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 8,
+      "paragraph_index": 1,
+      "sentence_index": 4,
+      "text": "V daném kontextu chtěl říct, že prodejna je zavřená.",
+      "start": 53.30176870748299,
+      "end": 57.77160997732426,
+      "slow_start": 59.86140589569161,
+      "slow_end": 64.83047619047619
+    },
+    {
+      "lesson_id": "B1-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--normal.mp3",
+      "slow_file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U13-L01--2026.10.22.1--text--s9",
+      "asset_id": "B1-U13-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 9,
+      "paragraph_index": 1,
+      "sentence_index": 5,
+      "text": "Jedna koncovka tak změnila osobu na místo a vyžadovala také jiný tvar přídavného jména.",
+      "start": 57.95160997732426,
+      "end": 65.98571428571428,
+      "slow_start": 65.0104761904762,
+      "slow_end": 73.78761904761905
+    },
+    {
+      "lesson_id": "B1-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--normal.mp3",
+      "slow_file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U13-L01--2026.10.22.1--text--p2",
+      "asset_id": "B1-U13-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Důležité byly i celé kombinace. Můžeme podat žádost, uzavřít dohodu a zaplatit zálohu. Nelze vždy vzít první český překlad slovesa „dělat“ a spojit ho s jakýmkoli podstatným jménem. Zapsal jsem si proto u každého nového výrazu krátkou větu z našeho rozhovoru. Vedle významu jsem uvedl slovní druh, běžný tvar a situaci, ve které se výraz hodí.",
+      "start": 66.16571428571429,
+      "end": 96.7814058956916,
+      "slow_start": 73.96761904761905,
+      "slow_end": 108.71646258503401
+    },
+    {
+      "lesson_id": "B1-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--normal.mp3",
+      "slow_file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U13-L01--2026.10.22.1--text--s10",
+      "asset_id": "B1-U13-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 10,
+      "paragraph_index": 2,
+      "sentence_index": 0,
+      "text": "Důležité byly i celé kombinace.",
+      "start": 66.16571428571429,
+      "end": 69.05659863945579,
+      "slow_start": 73.96761904761905,
+      "slow_end": 77.17197278911564
+    },
+    {
+      "lesson_id": "B1-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--normal.mp3",
+      "slow_file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U13-L01--2026.10.22.1--text--s11",
+      "asset_id": "B1-U13-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 11,
+      "paragraph_index": 2,
+      "sentence_index": 1,
+      "text": "Můžeme podat žádost, uzavřít dohodu a zaplatit zálohu.",
+      "start": 69.23659863945578,
+      "end": 74.22888888888889,
+      "slow_start": 77.35197278911565,
+      "slow_end": 83.15696145124717
+    },
+    {
+      "lesson_id": "B1-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--normal.mp3",
+      "slow_file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U13-L01--2026.10.22.1--text--s12",
+      "asset_id": "B1-U13-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 12,
+      "paragraph_index": 2,
+      "sentence_index": 2,
+      "text": "Nelze vždy vzít první český překlad slovesa „dělat“ a spojit ho s jakýmkoli podstatným jménem.",
+      "start": 74.4088888888889,
+      "end": 82.51265306122448,
+      "slow_start": 83.33696145124716,
+      "slow_end": 92.34630385487529
+    },
+    {
+      "lesson_id": "B1-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--normal.mp3",
+      "slow_file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U13-L01--2026.10.22.1--text--s13",
+      "asset_id": "B1-U13-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 13,
+      "paragraph_index": 2,
+      "sentence_index": 3,
+      "text": "Zapsal jsem si proto u každého nového výrazu krátkou větu z našeho rozhovoru.",
+      "start": 82.69265306122449,
+      "end": 88.96204081632654,
+      "slow_start": 92.52630385487528,
+      "slow_end": 99.66643990929705
+    },
+    {
+      "lesson_id": "B1-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--normal.mp3",
+      "slow_file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U13-L01--2026.10.22.1--text--s14",
+      "asset_id": "B1-U13-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 14,
+      "paragraph_index": 2,
+      "sentence_index": 4,
+      "text": "Vedle významu jsem uvedl slovní druh, běžný tvar a situaci, ve které se výraz hodí.",
+      "start": 89.14204081632653,
+      "end": 96.7814058956916,
+      "slow_start": 99.84643990929705,
+      "slow_end": 108.71646258503401
+    },
+    {
+      "lesson_id": "B1-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--normal.mp3",
+      "slow_file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U13-L01--2026.10.22.1--text--p3",
+      "asset_id": "B1-U13-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Když jsme dostali zprávu, že určitý výrobek není dostupný, nevyvodil jsem hned, že se už nikdy nebude prodávat. Dostupnost může být dočasná a záviset na místě nebo termínu. Stejně tak levný neznamená automaticky výhodný. Slovo tedy poznávám nejen podle příbuzných tvarů, ale také podle toho, s čím se běžně spojuje a co v daném sdělení skutečně tvrdí.",
+      "start": 96.96140589569161,
+      "end": 128.58131519274377,
+      "slow_start": 108.89646258503402,
+      "slow_end": 144.3708843537415
+    },
+    {
+      "lesson_id": "B1-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--normal.mp3",
+      "slow_file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U13-L01--2026.10.22.1--text--s15",
+      "asset_id": "B1-U13-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 15,
+      "paragraph_index": 3,
+      "sentence_index": 0,
+      "text": "Když jsme dostali zprávu, že určitý výrobek není dostupný, nevyvodil jsem hned, že se už nikdy nebude prodávat.",
+      "start": 96.96140589569161,
+      "end": 106.64412698412698,
+      "slow_start": 108.89646258503402,
+      "slow_end": 120.13492063492063
+    },
+    {
+      "lesson_id": "B1-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--normal.mp3",
+      "slow_file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U13-L01--2026.10.22.1--text--s16",
+      "asset_id": "B1-U13-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 16,
+      "paragraph_index": 3,
+      "sentence_index": 1,
+      "text": "Dostupnost může být dočasná a záviset na místě nebo termínu.",
+      "start": 106.82412698412699,
+      "end": 112.37369614512471,
+      "slow_start": 120.31492063492064,
+      "slow_end": 126.54947845804989
+    },
+    {
+      "lesson_id": "B1-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--normal.mp3",
+      "slow_file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U13-L01--2026.10.22.1--text--s17",
+      "asset_id": "B1-U13-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 17,
+      "paragraph_index": 3,
+      "sentence_index": 2,
+      "text": "Stejně tak levný neznamená automaticky výhodný.",
+      "start": 112.55369614512472,
+      "end": 116.53591836734694,
+      "slow_start": 126.72947845804988,
+      "slow_end": 131.19931972789115
+    },
+    {
+      "lesson_id": "B1-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--normal.mp3",
+      "slow_file": "audio/files/B1-U13-L01--2026.10.22.1--text--b2575dec2c--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U13-L01--2026.10.22.1--text--s18",
+      "asset_id": "B1-U13-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 18,
+      "paragraph_index": 3,
+      "sentence_index": 3,
+      "text": "Slovo tedy poznávám nejen podle příbuzných tvarů, ale také podle toho, s čím se běžně spojuje a co v daném sdělení skutečně tvrdí.",
+      "start": 116.71591836734694,
+      "end": 128.58131519274377,
+      "slow_start": 131.37931972789116,
+      "slow_end": 144.3708843537415
+    },
+    {
+      "lesson_id": "B1-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U13-L01--2026.10.22.1--listening--9ced2f7089--normal.mp3",
+      "slow_file": "audio/files/B1-U13-L01--2026.10.22.1--listening--9ced2f7089--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U13-L01--2026.10.22.1--listening",
+      "role": "listening-full",
+      "index": 0,
+      "text": "Prodejce nám odpověděl, že zboží je dostupné jen v internetovém obchodě. Kamenná prodejna ho nemá. Cena je nižší, ale doprava se platí zvlášť. Než nabídku označíme za výhodnou, musíme spočítat celkové náklady.",
+      "duration_seconds": 19.145034013605443,
+      "slow_duration_seconds": 21.7340589569161,
+      "sha256": "198780b264e022cfaf7a9a46a3b52d1994d6ce99428b7762cdadee13be7f079c",
+      "slow_sha256": "40a25a4a32a13349984cdf04fcf2ff23d08a740bb9c48232cea789c28dc090de"
+    },
+    {
+      "lesson_id": "B1-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U13-L01--2026.10.22.1--listening--9ced2f7089--normal.mp3",
+      "slow_file": "audio/files/B1-U13-L01--2026.10.22.1--listening--9ced2f7089--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U13-L01--2026.10.22.1--listening--p0",
+      "asset_id": "B1-U13-L01--2026.10.22.1--listening",
+      "role": "listening",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Prodejce nám odpověděl, že zboží je dostupné jen v internetovém obchodě. Kamenná prodejna ho nemá. Cena je nižší, ale doprava se platí zvlášť. Než nabídku označíme za výhodnou, musíme spočítat celkové náklady.",
+      "start": 0,
+      "end": 18.965034013605443,
+      "slow_start": 0,
+      "slow_end": 21.5540589569161
+    },
+    {
+      "lesson_id": "B1-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U13-L01--2026.10.22.1--vocabulary--cbbd36f2d2--normal.mp3",
+      "slow_file": "audio/files/B1-U13-L01--2026.10.22.1--vocabulary--cbbd36f2d2--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U13-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary-full",
+      "index": 0,
+      "text": "Prodejce potvrdil termín. V prodejně je několik zákazníků. Ověřte dostupnost výrobku. Nabídka nemusí být výhodná.",
+      "duration_seconds": 11.064489795918368,
+      "slow_duration_seconds": 12.457687074829932,
+      "sha256": "f4dad18733d5e3e3565ddf7196f26af73ace9d8e8149122aa4621aebf89d7f9c",
+      "slow_sha256": "c39e01dec1e8c6ddf0ffecfbe4bcae42fb03ef9441273cc144edec643a8fa0d1"
+    },
+    {
+      "lesson_id": "B1-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U13-L01--2026.10.22.1--vocabulary--cbbd36f2d2--normal.mp3",
+      "slow_file": "audio/files/B1-U13-L01--2026.10.22.1--vocabulary--cbbd36f2d2--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U13-L01--2026.10.22.1--vocabulary--p0",
+      "asset_id": "B1-U13-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Prodejce potvrdil termín.",
+      "start": 0,
+      "end": 2.182675736961451,
+      "slow_start": 0,
+      "slow_end": 2.5193650793650795
+    },
+    {
+      "lesson_id": "B1-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U13-L01--2026.10.22.1--vocabulary--cbbd36f2d2--normal.mp3",
+      "slow_file": "audio/files/B1-U13-L01--2026.10.22.1--vocabulary--cbbd36f2d2--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U13-L01--2026.10.22.1--vocabulary--p1",
+      "asset_id": "B1-U13-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "V prodejně je několik zákazníků.",
+      "start": 2.3626757369614513,
+      "end": 5.102630385487529,
+      "slow_start": 2.699365079365079,
+      "slow_end": 5.845668934240363
+    },
+    {
+      "lesson_id": "B1-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U13-L01--2026.10.22.1--vocabulary--cbbd36f2d2--normal.mp3",
+      "slow_file": "audio/files/B1-U13-L01--2026.10.22.1--vocabulary--cbbd36f2d2--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U13-L01--2026.10.22.1--vocabulary--p2",
+      "asset_id": "B1-U13-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Ověřte dostupnost výrobku.",
+      "start": 5.282630385487528,
+      "end": 7.84843537414966,
+      "slow_start": 6.025668934240363,
+      "slow_end": 8.91655328798186
+    },
+    {
+      "lesson_id": "B1-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U13-L01--2026.10.22.1--vocabulary--cbbd36f2d2--normal.mp3",
+      "slow_file": "audio/files/B1-U13-L01--2026.10.22.1--vocabulary--cbbd36f2d2--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U13-L01--2026.10.22.1--vocabulary--p3",
+      "asset_id": "B1-U13-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Nabídka nemusí být výhodná.",
+      "start": 8.02843537414966,
+      "end": 10.884489795918368,
+      "slow_start": 9.096553287981859,
+      "slow_end": 12.277687074829933
+    },
+    {
+      "lesson_id": "B1-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U13-L01--2026.10.22.1--exercises--8bbe7bbced--normal.mp3",
+      "slow_file": "audio/files/B1-U13-L01--2026.10.22.1--exercises--8bbe7bbced--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U13-L01--2026.10.22.1--exercises",
+      "role": "exercises-full",
+      "index": 0,
+      "text": "Zboží je dostupné jen v internetovém obchodě. Kamenná prodejna ho nemá.",
+      "duration_seconds": 6.6177777777777775,
+      "slow_duration_seconds": 7.407256235827664,
+      "sha256": "dcc8ca6889b49b627451db343edfa70198a55fe7c899e235031366a541e61f8d",
+      "slow_sha256": "530eed975227dcffe85aee3f3ead7e50a6e0311ca0bcb1f2355e4d9059a89ebc"
+    },
+    {
+      "lesson_id": "B1-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U13-L01--2026.10.22.1--exercises--8bbe7bbced--normal.mp3",
+      "slow_file": "audio/files/B1-U13-L01--2026.10.22.1--exercises--8bbe7bbced--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U13-L01--2026.10.22.1--exercises--p0",
+      "asset_id": "B1-U13-L01--2026.10.22.1--exercises",
+      "role": "exercise",
+      "index": 0,
+      "exercise_id": "B1-U13-L01-E03",
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Zboží je dostupné jen v internetovém obchodě. Kamenná prodejna ho nemá.",
+      "start": 0,
+      "end": 6.437777777777778,
+      "slow_start": 0,
+      "slow_end": 7.227256235827665
+    },
+    {
+      "lesson_id": "B1-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U13-L01--2026.10.22.1--contrasts--8582d51c9e--normal.mp3",
+      "slow_file": "audio/files/B1-U13-L01--2026.10.22.1--contrasts--8582d51c9e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U13-L01--2026.10.22.1--contrasts",
+      "role": "contrasts-full",
+      "index": 0,
+      "text": "prodejce. prodejna.",
+      "duration_seconds": 1.6196371882086167,
+      "slow_duration_seconds": 1.8053968253968253,
+      "sha256": "725d32fb2fdf7d4bae22937445675d20332f1a0a1badd195242d59b0a7d60219",
+      "slow_sha256": "cbf4d3c0ee2b878d7b942fb19d712dd6c191a2c5d054d2b529a95ea9dea057de"
+    },
+    {
+      "lesson_id": "B1-U13-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U13-L01--2026.10.22.1--contrasts--8582d51c9e--normal.mp3",
+      "slow_file": "audio/files/B1-U13-L01--2026.10.22.1--contrasts--8582d51c9e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U13-L01--2026.10.22.1--contrasts--p0",
+      "asset_id": "B1-U13-L01--2026.10.22.1--contrasts",
+      "role": "contrast",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "prodejce. prodejna.",
+      "start": 0,
+      "end": 1.4396371882086167,
+      "slow_start": 0,
+      "slow_end": 1.6253968253968254
+    }
+  ]
+}

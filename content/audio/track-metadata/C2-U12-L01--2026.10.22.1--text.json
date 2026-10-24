@@ -1,0 +1,575 @@
+{
+  "id": "C2-U12-L01--2026.10.22.1--text",
+  "lesson_id": "C2-U12-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Kurátorský návrh: Výstava Hlasy města má zpřístupnit krátké zvukové vzpomínky lidí, kteří v různých částech města žijí nebo pracují. Nechceme vytvářet jeden jednotný příběh, nýbrž umožnit návštěvníkům porovnat odlišné zkušenosti téhož prostoru. Pro první verzi byly osloveny především místní spolky, které již s galerií spolupracují. Tato cesta usnadnila přípravu, zároveň však omezuje pestrost získaných hlasů. Název výstavy proto nesmí být vykládán jako tvrzení, že představuje všechny obyvatele nebo úplný obraz současného městského života.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Kurátorský návrh: Výstava Hlasy města má zpřístupnit krátké zvukové vzpomínky lidí, kteří v různých částech města žijí nebo pracují.",
+        "Nechceme vytvářet jeden jednotný příběh, nýbrž umožnit návštěvníkům porovnat odlišné zkušenosti téhož prostoru.",
+        "Pro první verzi byly osloveny především místní spolky, které již s galerií spolupracují.",
+        "Tato cesta usnadnila přípravu, zároveň však omezuje pestrost získaných hlasů.",
+        "Název výstavy proto nesmí být vykládán jako tvrzení, že představuje všechny obyvatele nebo úplný obraz současného městského života."
+      ]
+    },
+    {
+      "text": "Dopis účastnice: Když jsem vzpomínku nahrávala, rozuměla jsem tomu tak, že bude uložena v archivu a zájemce si ji poslechne na požádání. Teď jsem se dozvěděla, že úryvek může znít ve veřejném sále. Nejsem proti výstavě, ale v nahrávce jmenuji místo, podle něhož by mohl být poznán můj bývalý soused. Nechci, aby moje osobní vzpomínka působila jako veřejné obvinění někoho, kdo u rozhovoru nebyl. Prosím, abychom před použitím úryvku znovu projednali jeho rozsah a způsob uvedení.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Dopis účastnice: Když jsem vzpomínku nahrávala, rozuměla jsem tomu tak, že bude uložena v archivu a zájemce si ji poslechne na požádání.",
+        "Teď jsem se dozvěděla, že úryvek může znít ve veřejném sále.",
+        "Nejsem proti výstavě, ale v nahrávce jmenuji místo, podle něhož by mohl být poznán můj bývalý soused.",
+        "Nechci, aby moje osobní vzpomínka působila jako veřejné obvinění někoho, kdo u rozhovoru nebyl.",
+        "Prosím, abychom před použitím úryvku znovu projednali jeho rozsah a způsob uvedení."
+      ]
+    },
+    {
+      "text": "Technická poznámka: U některých záznamů byly odstraněny delší pauzy a části, které se netýkaly tématu. Přepis byl upraven do snadněji čitelné podoby, přičemž nebyl záměr měnit význam. Kontrola však odhalila případ, kdy po vystřižení mezivěty nebylo zřejmé, že mluvčí původní tvrzení následně omezil. Před zveřejněním je proto nutné porovnat každý použitý úryvek s celým okolním úsekem. Samotná shoda jednotlivých slov s přepisem nezaručuje zachování jejich vztahu ani skutečné míry jistoty, s níž byla vzpomínka vyslovena.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Technická poznámka: U některých záznamů byly odstraněny delší pauzy a části, které se netýkaly tématu.",
+        "Přepis byl upraven do snadněji čitelné podoby, přičemž nebyl záměr měnit význam.",
+        "Kontrola však odhalila případ, kdy po vystřižení mezivěty nebylo zřejmé, že mluvčí původní tvrzení následně omezil.",
+        "Před zveřejněním je proto nutné porovnat každý použitý úryvek s celým okolním úsekem.",
+        "Samotná shoda jednotlivých slov s přepisem nezaručuje zachování jejich vztahu ani skutečné míry jistoty, s níž byla vzpomínka vyslovena."
+      ]
+    },
+    {
+      "text": "Krátká vzpomínka z připravované výstavy: Naše ulice se prý od té doby úplně změnila. Když to říkám, vidím hlavně výlohy, které už nepoznávám. Jenže paní z rohu pořád staví ráno kbelík před dveře a stejný muž se mu každý den vyhne, jako by ho viděl poprvé. Možná se ulice mění méně než způsob, jakým si vybírám, čeho si všimnu. Nechci tím říci, že se nic neztratilo. Jen si nejsem jistý, zda všechno, co mi chybí, někdy existovalo přesně tak, jak o tom dnes vyprávím.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Krátká vzpomínka z připravované výstavy: Naše ulice se prý od té doby úplně změnila.",
+        "Když to říkám, vidím hlavně výlohy, které už nepoznávám.",
+        "Jenže paní z rohu pořád staví ráno kbelík před dveře a stejný muž se mu každý den vyhne, jako by ho viděl poprvé.",
+        "Možná se ulice mění méně než způsob, jakým si vybírám, čeho si všimnu.",
+        "Nechci tím říci, že se nic neztratilo.",
+        "Jen si nejsem jistý, zda všechno, co mi chybí, někdy existovalo přesně tak, jak o tom dnes vyprávím."
+      ]
+    },
+    {
+      "text": "Na přípravném setkání dramaturg navrhl použít z této vzpomínky jen první větu a obrazy nových výloh. V krátkém prostoru by podle něj jasněji vyznělo téma proměny. Jazyková redaktorka namítla, že by tak zmizela právě pochybnost, která dává řeči její osobitý charakter. Nešlo pouze o délku záznamu. Z váhavé osobní úvahy by vznikl rozhodný soud o městě. Dramaturg uznal rozdíl, ale upozornil na omezený čas návštěvníka. Skutečnou otázkou bylo, jak zachovat vnitřní pohyb myšlenky i v kratší podobě, nikoli která profese má automaticky poslední slovo.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Na přípravném setkání dramaturg navrhl použít z této vzpomínky jen první větu a obrazy nových výloh.",
+        "V krátkém prostoru by podle něj jasněji vyznělo téma proměny.",
+        "Jazyková redaktorka namítla, že by tak zmizela právě pochybnost, která dává řeči její osobitý charakter.",
+        "Nešlo pouze o délku záznamu.",
+        "Z váhavé osobní úvahy by vznikl rozhodný soud o městě.",
+        "Dramaturg uznal rozdíl, ale upozornil na omezený čas návštěvníka.",
+        "Skutečnou otázkou bylo, jak zachovat vnitřní pohyb myšlenky i v kratší podobě, nikoli která profese má automaticky poslední slovo."
+      ]
+    },
+    {
+      "text": "Koordinátorka navrhla dvě úrovně poslechu: krátký úryvek se zachovaným obratem a možnost navázat delší verzí. U každé nahrávky má být zřejmé, kdo mluví, v jakém kontextu vzpomínka vznikla a jak byla upravena. Účastnici, která upozornila na rozpoznatelného souseda, tým neodpověděl univerzální větou, že přece původně souhlasila. Nejprve porovnal původní dohodu s navrhovaným použitím a nabídl projednání konkrétního úryvku. Právní otázky by vyžadovaly odpovídající odborné posouzení; v této jazykové úloze je rozhodující nepředstírat shodu tam, kde účastníci popisují jiná očekávání.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Koordinátorka navrhla dvě úrovně poslechu: krátký úryvek se zachovaným obratem a možnost navázat delší verzí.",
+        "U každé nahrávky má být zřejmé, kdo mluví, v jakém kontextu vzpomínka vznikla a jak byla upravena.",
+        "Účastnici, která upozornila na rozpoznatelného souseda, tým neodpověděl univerzální větou, že přece původně souhlasila.",
+        "Nejprve porovnal původní dohodu s navrhovaným použitím a nabídl projednání konkrétního úryvku.",
+        "Právní otázky by vyžadovaly odpovídající odborné posouzení; v této jazykové úloze je rozhodující nepředstírat shodu tam, kde účastníci popisují jiná očekávání."
+      ]
+    },
+    {
+      "text": "Představení projektu veřejnosti potřebovalo jiný jazyk než interní poznámky. Nemělo slibovat autentický hlas každého člověka, protože výběr i střih jsou zprostředkováním. Mohlo však vysvětlit, jak projekt s touto skutečností zachází: zveřejňuje princip výběru, zachovává podstatné rozpory uvnitř vyprávění a dává účastníkům možnost upřesnit způsob uvedení jejich příspěvku. Takové vysvětlení nepovažuje návštěvníka za někoho, koho složitost musí odradit. Nabízí mu dost orientace, aby mohl slyšet osobní příběh a současně rozpoznat, že výstava není nezpracovaným otiskem celé společnosti.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Představení projektu veřejnosti potřebovalo jiný jazyk než interní poznámky.",
+        "Nemělo slibovat autentický hlas každého člověka, protože výběr i střih jsou zprostředkováním.",
+        "Mohlo však vysvětlit, jak projekt s touto skutečností zachází: zveřejňuje princip výběru, zachovává podstatné rozpory uvnitř vyprávění a dává účastníkům možnost upřesnit způsob uvedení jejich příspěvku.",
+        "Takové vysvětlení nepovažuje návštěvníka za někoho, koho složitost musí odradit.",
+        "Nabízí mu dost orientace, aby mohl slyšet osobní příběh a současně rozpoznat, že výstava není nezpracovaným otiskem celé společnosti."
+      ]
+    },
+    {
+      "text": "Závěrečný úkol nespočívá v obhajobě jediného správného uspořádání výstavy. Účastník má z podkladů sestavit doporučení, označit jeho hodnotové předpoklady a vysvětlit, co by jej přimělo změnit stanovisko. Musí zachytit nepřímý význam vzpomínky, přesně převyprávět námitku, reagovat na časový tlak a vytvořit dvě jazykové verze pro odlišné publikum. Potom své řešení sám reviduje: kde přidal jistotu, kterou zdroj neměl, kde zaměnil svůj úsudek za cizí hlas a kde naopak zbytečnou opatrností zakryl jasně doložený problém. Výsledkem je soubor pozorovatelných výkonů, nikoli slavnostní nálepka hotové jazykové dokonalosti.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Závěrečný úkol nespočívá v obhajobě jediného správného uspořádání výstavy.",
+        "Účastník má z podkladů sestavit doporučení, označit jeho hodnotové předpoklady a vysvětlit, co by jej přimělo změnit stanovisko.",
+        "Musí zachytit nepřímý význam vzpomínky, přesně převyprávět námitku, reagovat na časový tlak a vytvořit dvě jazykové verze pro odlišné publikum.",
+        "Potom své řešení sám reviduje: kde přidal jistotu, kterou zdroj neměl, kde zaměnil svůj úsudek za cizí hlas a kde naopak zbytečnou opatrností zakryl jasně doložený problém.",
+        "Výsledkem je soubor pozorovatelných výkonů, nikoli slavnostní nálepka hotové jazykové dokonalosti."
+      ]
+    }
+  ],
+  "text_sha256": "e81861a32e14d88bb2b3b82183a073fc9c1ef25d0bcea077f225ec99f779ff74",
+  "source_file": "content/lessons/C2/C2-U12-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--normal.mp3",
+  "slow_file": "content/audio/files/C2-U12-L01--2026.10.22.1--text--e81861a32e--slow.mp3",
+  "duration_seconds": 399.26326530612243,
+  "slow_duration_seconds": 451.62426303854875,
+  "cues": [
+    {
+      "text": "Kurátorský návrh: Výstava Hlasy města má zpřístupnit krátké zvukové vzpomínky lidí, kteří v různých částech města žijí nebo pracují. Nechceme vytvářet jeden jednotný příběh, nýbrž umožnit návštěvníkům porovnat odlišné zkušenosti téhož prostoru. Pro první verzi byly osloveny především místní spolky, které již s galerií spolupracují. Tato cesta usnadnila přípravu, zároveň však omezuje pestrost získaných hlasů. Název výstavy proto nesmí být vykládán jako tvrzení, že představuje všechny obyvatele nebo úplný obraz současného městského života.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Kurátorský návrh: Výstava Hlasy města má zpřístupnit krátké zvukové vzpomínky lidí, kteří v různých částech města žijí nebo pracují.",
+        "Nechceme vytvářet jeden jednotný příběh, nýbrž umožnit návštěvníkům porovnat odlišné zkušenosti téhož prostoru.",
+        "Pro první verzi byly osloveny především místní spolky, které již s galerií spolupracují.",
+        "Tato cesta usnadnila přípravu, zároveň však omezuje pestrost získaných hlasů.",
+        "Název výstavy proto nesmí být vykládán jako tvrzení, že představuje všechny obyvatele nebo úplný obraz současného městského života."
+      ],
+      "start": 0.0,
+      "end": 50.608072562358274,
+      "sentences": [
+        {
+          "text": "Kurátorský návrh: Výstava Hlasy města má zpřístupnit krátké zvukové vzpomínky lidí, kteří v různých částech města žijí nebo pracují.",
+          "start": 0.0,
+          "end": 12.236916099773243,
+          "slow_start": 0.0,
+          "slow_end": 13.978412698412699
+        },
+        {
+          "text": "Nechceme vytvářet jeden jednotný příběh, nýbrž umožnit návštěvníkům porovnat odlišné zkušenosti téhož prostoru.",
+          "start": 12.416916099773243,
+          "end": 22.134467120181405,
+          "slow_start": 14.158412698412699,
+          "slow_end": 25.51297052154195
+        },
+        {
+          "text": "Pro první verzi byly osloveny především místní spolky, které již s galerií spolupracují.",
+          "start": 22.314467120181405,
+          "end": 29.640362811791384,
+          "slow_start": 25.69297052154195,
+          "slow_end": 33.93605442176871
+        },
+        {
+          "text": "Tato cesta usnadnila přípravu, zároveň však omezuje pestrost získaných hlasů.",
+          "start": 29.820362811791384,
+          "end": 36.890839002267576,
+          "slow_start": 34.11605442176871,
+          "slow_end": 42.022448979591836
+        },
+        {
+          "text": "Název výstavy proto nesmí být vykládán jako tvrzení, že představuje všechny obyvatele nebo úplný obraz současného městského života.",
+          "start": 37.070839002267576,
+          "end": 50.608072562358274,
+          "slow_start": 42.202448979591836,
+          "slow_end": 57.52761904761905
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 57.52761904761905
+    },
+    {
+      "text": "Dopis účastnice: Když jsem vzpomínku nahrávala, rozuměla jsem tomu tak, že bude uložena v archivu a zájemce si ji poslechne na požádání. Teď jsem se dozvěděla, že úryvek může znít ve veřejném sále. Nejsem proti výstavě, ale v nahrávce jmenuji místo, podle něhož by mohl být poznán můj bývalý soused. Nechci, aby moje osobní vzpomínka působila jako veřejné obvinění někoho, kdo u rozhovoru nebyl. Prosím, abychom před použitím úryvku znovu projednali jeho rozsah a způsob uvedení.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Dopis účastnice: Když jsem vzpomínku nahrávala, rozuměla jsem tomu tak, že bude uložena v archivu a zájemce si ji poslechne na požádání.",
+        "Teď jsem se dozvěděla, že úryvek může znít ve veřejném sále.",
+        "Nejsem proti výstavě, ale v nahrávce jmenuji místo, podle něhož by mohl být poznán můj bývalý soused.",
+        "Nechci, aby moje osobní vzpomínka působila jako veřejné obvinění někoho, kdo u rozhovoru nebyl.",
+        "Prosím, abychom před použitím úryvku znovu projednali jeho rozsah a způsob uvedení."
+      ],
+      "start": 50.78807256235827,
+      "end": 94.82489795918367,
+      "sentences": [
+        {
+          "text": "Dopis účastnice: Když jsem vzpomínku nahrávala, rozuměla jsem tomu tak, že bude uložena v archivu a zájemce si ji poslechne na požádání.",
+          "start": 50.78807256235827,
+          "end": 63.384897959183675,
+          "slow_start": 57.70761904761905,
+          "slow_end": 72.56839002267574
+        },
+        {
+          "text": "Teď jsem se dozvěděla, že úryvek může znít ve veřejném sále.",
+          "start": 63.564897959183675,
+          "end": 68.9287074829932,
+          "slow_start": 72.74839002267574,
+          "slow_end": 78.8552380952381
+        },
+        {
+          "text": "Nejsem proti výstavě, ale v nahrávce jmenuji místo, podle něhož by mohl být poznán můj bývalý soused.",
+          "start": 69.1087074829932,
+          "end": 78.721768707483,
+          "slow_start": 79.0352380952381,
+          "slow_end": 89.76285714285714
+        },
+        {
+          "text": "Nechci, aby moje osobní vzpomínka působila jako veřejné obvinění někoho, kdo u rozhovoru nebyl.",
+          "start": 78.90176870748299,
+          "end": 87.3190022675737,
+          "slow_start": 89.94285714285714,
+          "slow_end": 99.18439909297052
+        },
+        {
+          "text": "Prosím, abychom před použitím úryvku znovu projednali jeho rozsah a způsob uvedení.",
+          "start": 87.4990022675737,
+          "end": 94.82489795918367,
+          "slow_start": 99.36439909297052,
+          "slow_end": 107.60748299319728
+        }
+      ],
+      "slow_start": 57.70761904761905,
+      "slow_end": 107.60748299319728
+    },
+    {
+      "text": "Technická poznámka: U některých záznamů byly odstraněny delší pauzy a části, které se netýkaly tématu. Přepis byl upraven do snadněji čitelné podoby, přičemž nebyl záměr měnit význam. Kontrola však odhalila případ, kdy po vystřižení mezivěty nebylo zřejmé, že mluvčí původní tvrzení následně omezil. Před zveřejněním je proto nutné porovnat každý použitý úryvek s celým okolním úsekem. Samotná shoda jednotlivých slov s přepisem nezaručuje zachování jejich vztahu ani skutečné míry jistoty, s níž byla vzpomínka vyslovena.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Technická poznámka: U některých záznamů byly odstraněny delší pauzy a části, které se netýkaly tématu.",
+        "Přepis byl upraven do snadněji čitelné podoby, přičemž nebyl záměr měnit význam.",
+        "Kontrola však odhalila případ, kdy po vystřižení mezivěty nebylo zřejmé, že mluvčí původní tvrzení následně omezil.",
+        "Před zveřejněním je proto nutné porovnat každý použitý úryvek s celým okolním úsekem.",
+        "Samotná shoda jednotlivých slov s přepisem nezaručuje zachování jejich vztahu ani skutečné míry jistoty, s níž byla vzpomínka vyslovena."
+      ],
+      "start": 95.00489795918368,
+      "end": 141.5726984126984,
+      "sentences": [
+        {
+          "text": "Technická poznámka: U některých záznamů byly odstraněny delší pauzy a části, které se netýkaly tématu.",
+          "start": 95.00489795918368,
+          "end": 104.66439909297053,
+          "slow_start": 107.78748299319727,
+          "slow_end": 118.7124716553288
+        },
+        {
+          "text": "Přepis byl upraven do snadněji čitelné podoby, přičemž nebyl záměr měnit význam.",
+          "start": 104.84439909297052,
+          "end": 111.9845351473923,
+          "slow_start": 118.8924716553288,
+          "slow_end": 127.01945578231293
+        },
+        {
+          "text": "Kontrola však odhalila případ, kdy po vystřižení mezivěty nebylo zřejmé, že mluvčí původní tvrzení následně omezil.",
+          "start": 112.16453514739229,
+          "end": 121.80081632653061,
+          "slow_start": 127.19945578231292,
+          "slow_end": 138.01995464852607
+        },
+        {
+          "text": "Před zveřejněním je proto nutné porovnat každý použitý úryvek s celým okolním úsekem.",
+          "start": 121.98081632653061,
+          "end": 129.63179138321996,
+          "slow_start": 138.19995464852607,
+          "slow_end": 146.81455782312926
+        },
+        {
+          "text": "Samotná shoda jednotlivých slov s přepisem nezaručuje zachování jejich vztahu ani skutečné míry jistoty, s níž byla vzpomínka vyslovena.",
+          "start": 129.81179138321994,
+          "end": 141.5726984126984,
+          "slow_start": 146.99455782312924,
+          "slow_end": 160.60145124716553
+        }
+      ],
+      "slow_start": 107.78748299319727,
+      "slow_end": 160.60145124716553
+    },
+    {
+      "text": "Krátká vzpomínka z připravované výstavy: Naše ulice se prý od té doby úplně změnila. Když to říkám, vidím hlavně výlohy, které už nepoznávám. Jenže paní z rohu pořád staví ráno kbelík před dveře a stejný muž se mu každý den vyhne, jako by ho viděl poprvé. Možná se ulice mění méně než způsob, jakým si vybírám, čeho si všimnu. Nechci tím říci, že se nic neztratilo. Jen si nejsem jistý, zda všechno, co mi chybí, někdy existovalo přesně tak, jak o tom dnes vyprávím.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Krátká vzpomínka z připravované výstavy: Naše ulice se prý od té doby úplně změnila.",
+        "Když to říkám, vidím hlavně výlohy, které už nepoznávám.",
+        "Jenže paní z rohu pořád staví ráno kbelík před dveře a stejný muž se mu každý den vyhne, jako by ho viděl poprvé.",
+        "Možná se ulice mění méně než způsob, jakým si vybírám, čeho si všimnu.",
+        "Nechci tím říci, že se nic neztratilo.",
+        "Jen si nejsem jistý, zda všechno, co mi chybí, někdy existovalo přesně tak, jak o tom dnes vyprávím."
+      ],
+      "start": 141.7526984126984,
+      "end": 183.61269841269842,
+      "sentences": [
+        {
+          "text": "Krátká vzpomínka z připravované výstavy: Naše ulice se prý od té doby úplně změnila.",
+          "start": 141.7526984126984,
+          "end": 149.5546031746032,
+          "slow_start": 160.78145124716553,
+          "slow_end": 169.38444444444445
+        },
+        {
+          "text": "Když to říkám, vidím hlavně výlohy, které už nepoznávám.",
+          "start": 149.73460317460317,
+          "end": 154.86621315192744,
+          "slow_start": 169.56444444444443,
+          "slow_end": 175.4274829931973
+        },
+        {
+          "text": "Jenže paní z rohu pořád staví ráno kbelík před dveře a stejný muž se mu každý den vyhne, jako by ho viděl poprvé.",
+          "start": 155.04621315192745,
+          "end": 164.64766439909297,
+          "slow_start": 175.60748299319727,
+          "slow_end": 186.42798185941044
+        },
+        {
+          "text": "Možná se ulice mění méně než způsob, jakým si vybírám, čeho si všimnu.",
+          "start": 164.82766439909298,
+          "end": 171.23637188208616,
+          "slow_start": 186.60798185941044,
+          "slow_end": 193.64362811791383
+        },
+        {
+          "text": "Nechci tím říci, že se nic neztratilo.",
+          "start": 171.41637188208617,
+          "end": 174.8877551020408,
+          "slow_start": 193.82362811791384,
+          "slow_end": 197.68975056689342
+        },
+        {
+          "text": "Jen si nejsem jistý, zda všechno, co mi chybí, někdy existovalo přesně tak, jak o tom dnes vyprávím.",
+          "start": 175.06775510204082,
+          "end": 183.61269841269842,
+          "slow_start": 197.86975056689343,
+          "slow_end": 207.62213151927438
+        }
+      ],
+      "slow_start": 160.78145124716553,
+      "slow_end": 207.62213151927438
+    },
+    {
+      "text": "Na přípravném setkání dramaturg navrhl použít z této vzpomínky jen první větu a obrazy nových výloh. V krátkém prostoru by podle něj jasněji vyznělo téma proměny. Jazyková redaktorka namítla, že by tak zmizela právě pochybnost, která dává řeči její osobitý charakter. Nešlo pouze o délku záznamu. Z váhavé osobní úvahy by vznikl rozhodný soud o městě. Dramaturg uznal rozdíl, ale upozornil na omezený čas návštěvníka. Skutečnou otázkou bylo, jak zachovat vnitřní pohyb myšlenky i v kratší podobě, nikoli která profese má automaticky poslední slovo.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Na přípravném setkání dramaturg navrhl použít z této vzpomínky jen první větu a obrazy nových výloh.",
+        "V krátkém prostoru by podle něj jasněji vyznělo téma proměny.",
+        "Jazyková redaktorka namítla, že by tak zmizela právě pochybnost, která dává řeči její osobitý charakter.",
+        "Nešlo pouze o délku záznamu.",
+        "Z váhavé osobní úvahy by vznikl rozhodný soud o městě.",
+        "Dramaturg uznal rozdíl, ale upozornil na omezený čas návštěvníka.",
+        "Skutečnou otázkou bylo, jak zachovat vnitřní pohyb myšlenky i v kratší podobě, nikoli která profese má automaticky poslední slovo."
+      ],
+      "start": 183.7926984126984,
+      "end": 233.44884353741497,
+      "sentences": [
+        {
+          "text": "Na přípravném setkání dramaturg navrhl použít z této vzpomínky jen první větu a obrazy nových výloh.",
+          "start": 183.7926984126984,
+          "end": 192.66272108843538,
+          "slow_start": 207.80213151927438,
+          "slow_end": 217.94925170068026
+        },
+        {
+          "text": "V krátkém prostoru by podle něj jasněji vyznělo téma proměny.",
+          "start": 192.84272108843538,
+          "end": 197.99755102040817,
+          "slow_start": 218.12925170068027,
+          "slow_end": 223.6439909297052
+        },
+        {
+          "text": "Jazyková redaktorka namítla, že by tak zmizela právě pochybnost, která dává řeči její osobitý charakter.",
+          "start": 198.17755102040817,
+          "end": 207.22172335600908,
+          "slow_start": 223.82399092970522,
+          "slow_end": 234.24975056689343
+        },
+        {
+          "text": "Nešlo pouze o délku záznamu.",
+          "start": 207.40172335600906,
+          "end": 210.0952380952381,
+          "slow_start": 234.42975056689343,
+          "slow_end": 237.3902947845805
+        },
+        {
+          "text": "Z váhavé osobní úvahy by vznikl rozhodný soud o městě.",
+          "start": 210.2752380952381,
+          "end": 215.32557823129252,
+          "slow_start": 237.5702947845805,
+          "slow_end": 243.27079365079365
+        },
+        {
+          "text": "Dramaturg uznal rozdíl, ale upozornil na omezený čas návštěvníka.",
+          "start": 215.5055782312925,
+          "end": 221.49632653061224,
+          "slow_start": 243.45079365079366,
+          "slow_end": 250.1613605442177
+        },
+        {
+          "text": "Skutečnou otázkou bylo, jak zachovat vnitřní pohyb myšlenky i v kratší podobě, nikoli která profese má automaticky poslední slovo.",
+          "start": 221.67632653061224,
+          "end": 233.44884353741497,
+          "slow_start": 250.34136054421768,
+          "slow_end": 263.5883446712018
+        }
+      ],
+      "slow_start": 207.80213151927438,
+      "slow_end": 263.5883446712018
+    },
+    {
+      "text": "Koordinátorka navrhla dvě úrovně poslechu: krátký úryvek se zachovaným obratem a možnost navázat delší verzí. U každé nahrávky má být zřejmé, kdo mluví, v jakém kontextu vzpomínka vznikla a jak byla upravena. Účastnici, která upozornila na rozpoznatelného souseda, tým neodpověděl univerzální větou, že přece původně souhlasila. Nejprve porovnal původní dohodu s navrhovaným použitím a nabídl projednání konkrétního úryvku. Právní otázky by vyžadovaly odpovídající odborné posouzení; v této jazykové úloze je rozhodující nepředstírat shodu tam, kde účastníci popisují jiná očekávání.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Koordinátorka navrhla dvě úrovně poslechu: krátký úryvek se zachovaným obratem a možnost navázat delší verzí.",
+        "U každé nahrávky má být zřejmé, kdo mluví, v jakém kontextu vzpomínka vznikla a jak byla upravena.",
+        "Účastnici, která upozornila na rozpoznatelného souseda, tým neodpověděl univerzální větou, že přece původně souhlasila.",
+        "Nejprve porovnal původní dohodu s navrhovaným použitím a nabídl projednání konkrétního úryvku.",
+        "Právní otázky by vyžadovaly odpovídající odborné posouzení; v této jazykové úloze je rozhodující nepředstírat shodu tam, kde účastníci popisují jiná očekávání."
+      ],
+      "start": 233.62884353741498,
+      "end": 287.56897959183675,
+      "sentences": [
+        {
+          "text": "Koordinátorka navrhla dvě úrovně poslechu: krátký úryvek se zachovaným obratem a možnost navázat delší verzí.",
+          "start": 233.62884353741498,
+          "end": 244.0778231292517,
+          "slow_start": 263.7683446712018,
+          "slow_end": 275.91238095238094
+        },
+        {
+          "text": "U každé nahrávky má být zřejmé, kdo mluví, v jakém kontextu vzpomínka vznikla a jak byla upravena.",
+          "start": 244.2578231292517,
+          "end": 252.68666666666667,
+          "slow_start": 276.09238095238095,
+          "slow_end": 285.56612244897957
+        },
+        {
+          "text": "Účastnici, která upozornila na rozpoznatelného souseda, tým neodpověděl univerzální větou, že přece původně souhlasila.",
+          "start": 252.86666666666667,
+          "end": 264.0122448979592,
+          "slow_start": 285.7461224489796,
+          "slow_end": 298.5170975056689
+        },
+        {
+          "text": "Nejprve porovnal původní dohodu s navrhovaným použitím a nabídl projednání konkrétního úryvku.",
+          "start": 264.1922448979592,
+          "end": 272.6791383219955,
+          "slow_start": 298.6970975056689,
+          "slow_end": 307.98507936507934
+        },
+        {
+          "text": "Právní otázky by vyžadovaly odpovídající odborné posouzení; v této jazykové úloze je rozhodující nepředstírat shodu tam, kde účastníci popisují jiná očekávání.",
+          "start": 272.8591383219955,
+          "end": 287.56897959183675,
+          "slow_start": 308.16507936507935,
+          "slow_end": 324.9182766439909
+        }
+      ],
+      "slow_start": 263.7683446712018,
+      "slow_end": 324.9182766439909
+    },
+    {
+      "text": "Představení projektu veřejnosti potřebovalo jiný jazyk než interní poznámky. Nemělo slibovat autentický hlas každého člověka, protože výběr i střih jsou zprostředkováním. Mohlo však vysvětlit, jak projekt s touto skutečností zachází: zveřejňuje princip výběru, zachovává podstatné rozpory uvnitř vyprávění a dává účastníkům možnost upřesnit způsob uvedení jejich příspěvku. Takové vysvětlení nepovažuje návštěvníka za někoho, koho složitost musí odradit. Nabízí mu dost orientace, aby mohl slyšet osobní příběh a současně rozpoznat, že výstava není nezpracovaným otiskem celé společnosti.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Představení projektu veřejnosti potřebovalo jiný jazyk než interní poznámky.",
+        "Nemělo slibovat autentický hlas každého člověka, protože výběr i střih jsou zprostředkováním.",
+        "Mohlo však vysvětlit, jak projekt s touto skutečností zachází: zveřejňuje princip výběru, zachovává podstatné rozpory uvnitř vyprávění a dává účastníkům možnost upřesnit způsob uvedení jejich příspěvku.",
+        "Takové vysvětlení nepovažuje návštěvníka za někoho, koho složitost musí odradit.",
+        "Nabízí mu dost orientace, aby mohl slyšet osobní příběh a současně rozpoznat, že výstava není nezpracovaným otiskem celé společnosti."
+      ],
+      "start": 287.74897959183676,
+      "end": 342.4321541950113,
+      "sentences": [
+        {
+          "text": "Představení projektu veřejnosti potřebovalo jiný jazyk než interní poznámky.",
+          "start": 287.74897959183676,
+          "end": 294.34344671201814,
+          "slow_start": 325.0982766439909,
+          "slow_end": 332.6099319727891
+        },
+        {
+          "text": "Nemělo slibovat autentický hlas každého člověka, protože výběr i střih jsou zprostředkováním.",
+          "start": 294.52344671201814,
+          "end": 302.8361904761905,
+          "slow_start": 332.78993197278913,
+          "slow_end": 341.9734240362812
+        },
+        {
+          "text": "Mohlo však vysvětlit, jak projekt s touto skutečností zachází: zveřejňuje princip výběru, zachovává podstatné rozpory uvnitř vyprávění a dává účastníkům možnost upřesnit způsob uvedení jejich příspěvku.",
+          "start": 303.0161904761905,
+          "end": 322.5093424036281,
+          "slow_start": 342.1534240362812,
+          "slow_end": 364.39814058956915
+        },
+        {
+          "text": "Takové vysvětlení nepovažuje návštěvníka za někoho, koho složitost musí odradit.",
+          "start": 322.68934240362813,
+          "end": 329.701768707483,
+          "slow_start": 364.57814058956916,
+          "slow_end": 372.5425850340136
+        },
+        {
+          "text": "Nabízí mu dost orientace, aby mohl slyšet osobní příběh a současně rozpoznat, že výstava není nezpracovaným otiskem celé společnosti.",
+          "start": 329.881768707483,
+          "end": 342.4321541950113,
+          "slow_start": 372.7225850340136,
+          "slow_end": 386.8287074829932
+        }
+      ],
+      "slow_start": 325.0982766439909,
+      "slow_end": 386.8287074829932
+    },
+    {
+      "text": "Závěrečný úkol nespočívá v obhajobě jediného správného uspořádání výstavy. Účastník má z podkladů sestavit doporučení, označit jeho hodnotové předpoklady a vysvětlit, co by jej přimělo změnit stanovisko. Musí zachytit nepřímý význam vzpomínky, přesně převyprávět námitku, reagovat na časový tlak a vytvořit dvě jazykové verze pro odlišné publikum. Potom své řešení sám reviduje: kde přidal jistotu, kterou zdroj neměl, kde zaměnil svůj úsudek za cizí hlas a kde naopak zbytečnou opatrností zakryl jasně doložený problém. Výsledkem je soubor pozorovatelných výkonů, nikoli slavnostní nálepka hotové jazykové dokonalosti.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Závěrečný úkol nespočívá v obhajobě jediného správného uspořádání výstavy.",
+        "Účastník má z podkladů sestavit doporučení, označit jeho hodnotové předpoklady a vysvětlit, co by jej přimělo změnit stanovisko.",
+        "Musí zachytit nepřímý význam vzpomínky, přesně převyprávět námitku, reagovat na časový tlak a vytvořit dvě jazykové verze pro odlišné publikum.",
+        "Potom své řešení sám reviduje: kde přidal jistotu, kterou zdroj neměl, kde zaměnil svůj úsudek za cizí hlas a kde naopak zbytečnou opatrností zakryl jasně doložený problém.",
+        "Výsledkem je soubor pozorovatelných výkonů, nikoli slavnostní nálepka hotové jazykové dokonalosti."
+      ],
+      "start": 342.6121541950113,
+      "end": 399.0832653061224,
+      "sentences": [
+        {
+          "text": "Závěrečný úkol nespočívá v obhajobě jediného správného uspořádání výstavy.",
+          "start": 342.6121541950113,
+          "end": 349.76390022675736,
+          "slow_start": 387.0087074829932,
+          "slow_end": 394.9963718820862
+        },
+        {
+          "text": "Účastník má z podkladů sestavit doporučení, označit jeho hodnotové předpoklady a vysvětlit, co by jej přimělo změnit stanovisko.",
+          "start": 349.94390022675736,
+          "end": 360.91532879818595,
+          "slow_start": 395.1763718820862,
+          "slow_end": 407.8312471655329
+        },
+        {
+          "text": "Musí zachytit nepřímý význam vzpomínky, přesně převyprávět námitku, reagovat na časový tlak a vytvořit dvě jazykové verze pro odlišné publikum.",
+          "start": 361.09532879818596,
+          "end": 374.57451247165534,
+          "slow_start": 408.0112471655329,
+          "slow_end": 423.53378684807257
+        },
+        {
+          "text": "Potom své řešení sám reviduje: kde přidal jistotu, kterou zdroj neměl, kde zaměnil svůj úsudek za cizí hlas a kde naopak zbytečnou opatrností zakryl jasně doložený problém.",
+          "start": 374.75451247165535,
+          "end": 389.9984126984127,
+          "slow_start": 423.7137868480726,
+          "slow_end": 441.00104308390024
+        },
+        {
+          "text": "Výsledkem je soubor pozorovatelných výkonů, nikoli slavnostní nálepka hotové jazykové dokonalosti.",
+          "start": 390.17841269841267,
+          "end": 399.0832653061224,
+          "slow_start": 441.18104308390025,
+          "slow_end": 451.44426303854874
+        }
+      ],
+      "slow_start": 387.0087074829932,
+      "slow_end": 451.44426303854874
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "0544c008a71a715bc18e859527277f375d5cf2f11530298593c04a0a3d3ad0cc",
+    "slow": "8d776c19e6c84472a1a9c57d7a56fc3ec1f4898840082ca47997badc3fb0a1fa"
+  }
+}

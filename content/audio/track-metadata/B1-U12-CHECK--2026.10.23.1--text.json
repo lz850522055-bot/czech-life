@@ -1,0 +1,85 @@
+{
+  "id": "B1-U12-CHECK--2026.10.23.1--text",
+  "lesson_id": "B1-U12-CHECK",
+  "content_version": "2026.10.23.1",
+  "level": "B1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "V opravně kol nejdřív technik zhodnotí závadu. Teprve potom zákazník schválí cenu. Předběžný odhad není závazné potvrzení opravy. Pokud se objeví další problém, technik znovu zavolá.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "V opravně kol nejdřív technik zhodnotí závadu.",
+        "Teprve potom zákazník schválí cenu.",
+        "Předběžný odhad není závazné potvrzení opravy.",
+        "Pokud se objeví další problém, technik znovu zavolá."
+      ]
+    }
+  ],
+  "text_sha256": "9705f545523f8a9e4944629397cf10c37424c1d90105f7e135eac65fab2d9458",
+  "source_file": "content/assessments/B1-U12.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U12-CHECK--2026.10.22.1--text--9705f54552--normal.mp3",
+  "slow_file": "content/audio/files/B1-U12-CHECK--2026.10.22.1--text--9705f54552--slow.mp3",
+  "duration_seconds": 16.950748299319727,
+  "slow_duration_seconds": 19.005714285714287,
+  "cues": [
+    {
+      "text": "V opravně kol nejdřív technik zhodnotí závadu. Teprve potom zákazník schválí cenu. Předběžný odhad není závazné potvrzení opravy. Pokud se objeví další problém, technik znovu zavolá.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "V opravně kol nejdřív technik zhodnotí závadu.",
+        "Teprve potom zákazník schválí cenu.",
+        "Předběžný odhad není závazné potvrzení opravy.",
+        "Pokud se objeví další problém, technik znovu zavolá."
+      ],
+      "start": 0.0,
+      "end": 16.770748299319727,
+      "sentences": [
+        {
+          "text": "V opravně kol nejdřív technik zhodnotí závadu.",
+          "start": 0.0,
+          "end": 3.924172335600907,
+          "slow_start": 0.0,
+          "slow_end": 4.446621315192743
+        },
+        {
+          "text": "Teprve potom zákazník schválí cenu.",
+          "start": 4.104172335600907,
+          "end": 7.3317460317460315,
+          "slow_start": 4.626621315192744,
+          "slow_end": 8.388253968253968
+        },
+        {
+          "text": "Předběžný odhad není závazné potvrzení opravy.",
+          "start": 7.511746031746032,
+          "end": 11.993197278911564,
+          "slow_start": 8.568253968253968,
+          "slow_end": 13.548934240362811
+        },
+        {
+          "text": "Pokud se objeví další problém, technik znovu zavolá.",
+          "start": 12.173197278911564,
+          "end": 16.770748299319727,
+          "slow_start": 13.728934240362811,
+          "slow_end": 18.825714285714287
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 18.825714285714287
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "3bb36c22e763fd9a73d748b34435d787ba18b8d1302e5ac848be394a3693712c",
+    "slow": "5e220c7d145e862e580ccd8f075fc649971a3f1916d3f59ad3aaa8f2284b7146"
+  },
+  "reused_from_track_id": "B1-U12-CHECK--2026.10.22.1--text"
+}

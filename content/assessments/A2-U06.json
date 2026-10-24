@@ -1,0 +1,208 @@
+{
+  "id": "A2-U06-CHECK",
+  "kind": "unit",
+  "level": "A2",
+  "unit_id": "A2-U06",
+  "title_zh": "在桌上、放到桌上：方向改变格：换情境独立完成",
+  "version": "2026.10.22.1",
+  "unseen_text": [
+    {
+      "cs": "Obraz visí nad stolem. Nový obraz pověsíme nad postel. Do práce jezdím vlakem.",
+      "zh": "画挂桌上方；新画挂床上方；我常坐火车上班。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt_zh": "填静态“床上方”。",
+      "stimulus_cs": "nad ___（postel）",
+      "answer": "postelí",
+      "accepted_answers": [
+        "postelí"
+      ],
+      "explanation_zh": "静态nad+7。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "A2-U06-CHECK-E01",
+      "knowledge_points": [
+        "spatial-cases",
+        "motion-once-habit"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "是否说明只乘一次火车？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "是"
+        },
+        {
+          "id": "b",
+          "text": "否，表达习惯"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "jezdím。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "A2-U06-CHECK-E02",
+      "knowledge_points": [
+        "spatial-cases",
+        "motion-once-habit"
+      ]
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "把新画挂好后描述它的位置。",
+      "stimulus_cs": "",
+      "answer": "Nový obraz visí nad postelí.",
+      "accepted_answers": [],
+      "explanation_zh": "从目标4格改静态7格。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A2-U06-CHECK-E03",
+      "knowledge_points": [
+        "spatial-cases",
+        "motion-once-habit"
+      ]
+    }
+  ],
+  "rubric": [
+    "能提取新材料中的关键事实，不靠背诵原文",
+    "能根据变化的条件组织一句或一段表达",
+    "能指出不确定之处并请求澄清"
+  ],
+  "remediation": [
+    {
+      "condition_zh": "目标规律使用不稳定或未能提取关键信息",
+      "lesson_ids": [
+        "A2-U06-L01"
+      ],
+      "action_zh": "返回规律卡，对照两例；隔一次其他练习后重做未见情境。"
+    }
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "A2-U06-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U06-CHECK--2026.10.22.1--text--c88470411b--normal.mp3",
+      "slow_file": "audio/files/A2-U06-CHECK--2026.10.22.1--text--c88470411b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U06-CHECK--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Obraz visí nad stolem. Nový obraz pověsíme nad postel. Do práce jezdím vlakem.",
+      "duration_seconds": 7.831065759637188,
+      "slow_duration_seconds": 8.79469387755102,
+      "sha256": "5584390e2f2102a97bace931099eff8b979b09143a6e70324b2f5acacb958cfc",
+      "slow_sha256": "06333fe1bb930f12b95a3749329216ce7cf1d2b6c4be77b60e73fbdcadfb8e18"
+    },
+    {
+      "lesson_id": "A2-U06-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U06-CHECK--2026.10.22.1--text--c88470411b--normal.mp3",
+      "slow_file": "audio/files/A2-U06-CHECK--2026.10.22.1--text--c88470411b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U06-CHECK--2026.10.22.1--text--p0",
+      "asset_id": "A2-U06-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Obraz visí nad stolem. Nový obraz pověsíme nad postel. Do práce jezdím vlakem.",
+      "start": 0,
+      "end": 7.651065759637188,
+      "slow_start": 0,
+      "slow_end": 8.614693877551021
+    },
+    {
+      "lesson_id": "A2-U06-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U06-CHECK--2026.10.22.1--text--c88470411b--normal.mp3",
+      "slow_file": "audio/files/A2-U06-CHECK--2026.10.22.1--text--c88470411b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U06-CHECK--2026.10.22.1--text--s0",
+      "asset_id": "A2-U06-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Obraz visí nad stolem.",
+      "start": 0,
+      "end": 2.159455782312925,
+      "slow_start": 0,
+      "slow_end": 2.449705215419501
+    },
+    {
+      "lesson_id": "A2-U06-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U06-CHECK--2026.10.22.1--text--c88470411b--normal.mp3",
+      "slow_file": "audio/files/A2-U06-CHECK--2026.10.22.1--text--c88470411b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U06-CHECK--2026.10.22.1--text--s1",
+      "asset_id": "A2-U06-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Nový obraz pověsíme nad postel.",
+      "start": 2.339455782312925,
+      "end": 5.45092970521542,
+      "slow_start": 2.6297052154195013,
+      "slow_end": 6.182358276643991
+    },
+    {
+      "lesson_id": "A2-U06-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U06-CHECK--2026.10.22.1--text--c88470411b--normal.mp3",
+      "slow_file": "audio/files/A2-U06-CHECK--2026.10.22.1--text--c88470411b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U06-CHECK--2026.10.22.1--text--s2",
+      "asset_id": "A2-U06-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Do práce jezdím vlakem.",
+      "start": 5.6309297052154195,
+      "end": 7.651065759637188,
+      "slow_start": 6.362358276643991,
+      "slow_end": 8.614693877551021
+    }
+  ]
+}

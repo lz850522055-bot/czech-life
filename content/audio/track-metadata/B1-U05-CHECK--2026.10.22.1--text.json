@@ -1,0 +1,75 @@
+{
+  "id": "B1-U05-CHECK--2026.10.22.1--text",
+  "lesson_id": "B1-U05-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Petr pracuje na směny. Říká: „Kdybych měl každý večer volno, chodil bych do kurzu v úterý. Pokud ale otevřou sobotní skupinu, přihlásím se hned.“",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Petr pracuje na směny.",
+        "Říká: „Kdybych měl každý večer volno, chodil bych do kurzu v úterý.",
+        "Pokud ale otevřou sobotní skupinu, přihlásím se hned.“"
+      ]
+    }
+  ],
+  "text_sha256": "c1287717831c22d072a230518fdf69fe61ae7ee8f066ff3a292ccab5e34ca577",
+  "source_file": "content/assessments/B1-U05.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U05-CHECK--2026.10.22.1--text--c128771783--normal.mp3",
+  "slow_file": "content/audio/files/B1-U05-CHECK--2026.10.22.1--text--c128771783--slow.mp3",
+  "duration_seconds": 13.659274376417233,
+  "slow_duration_seconds": 15.06408163265306,
+  "cues": [
+    {
+      "text": "Petr pracuje na směny. Říká: „Kdybych měl každý večer volno, chodil bych do kurzu v úterý. Pokud ale otevřou sobotní skupinu, přihlásím se hned.“",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Petr pracuje na směny.",
+        "Říká: „Kdybych měl každý večer volno, chodil bych do kurzu v úterý.",
+        "Pokud ale otevřou sobotní skupinu, přihlásím se hned.“"
+      ],
+      "start": 0.0,
+      "end": 13.479274376417234,
+      "sentences": [
+        {
+          "text": "Petr pracuje na směny.",
+          "start": 0.0,
+          "end": 1.9040362811791383,
+          "slow_start": 0.0,
+          "slow_end": 2.147845804988662
+        },
+        {
+          "text": "Říká: „Kdybych měl každý večer volno, chodil bych do kurzu v úterý.",
+          "start": 2.0840362811791384,
+          "end": 8.20249433106576,
+          "slow_start": 2.3278458049886623,
+          "slow_end": 9.026802721088435
+        },
+        {
+          "text": "Pokud ale otevřou sobotní skupinu, přihlásím se hned.“",
+          "start": 8.38249433106576,
+          "end": 13.479274376417234,
+          "slow_start": 9.206802721088435,
+          "slow_end": 14.88408163265306
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 14.88408163265306
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "7759351fd90a24f8532e7bc9e7c5b5b95d3200a2f65f84ac96d428dcb2a3acad",
+    "slow": "e938fcc71f63f10d5505c3dfef5305502a98883c3cb9ce97348d09fa1be2cf78"
+  }
+}

@@ -1,0 +1,604 @@
+[
+  {
+    "id": "Pre-A1-U01",
+    "level": "Pre-A1",
+    "title_zh": "声音与文字如何对应",
+    "predecessor": "",
+    "order": 1
+  },
+  {
+    "id": "Pre-A1-U02",
+    "level": "Pre-A1",
+    "title_zh": "长短元音与重音",
+    "predecessor": "Pre-A1-U01",
+    "order": 2
+  },
+  {
+    "id": "Pre-A1-U03",
+    "level": "Pre-A1",
+    "title_zh": "辅音发音位置与ř",
+    "predecessor": "Pre-A1-U02",
+    "order": 3
+  },
+  {
+    "id": "Pre-A1-U04",
+    "level": "Pre-A1",
+    "title_zh": "软硬辅音与拼写线索",
+    "predecessor": "Pre-A1-U03",
+    "order": 4
+  },
+  {
+    "id": "Pre-A1-U05",
+    "level": "Pre-A1",
+    "title_zh": "连读清浊与真实语速",
+    "predecessor": "Pre-A1-U04",
+    "order": 5
+  },
+  {
+    "id": "Pre-A1-U06",
+    "level": "Pre-A1",
+    "title_zh": "从听懂一个词到说出短句",
+    "predecessor": "Pre-A1-U05",
+    "order": 6
+  },
+  {
+    "id": "A1-U01",
+    "level": "A1",
+    "title_zh": "问候称呼与自我介绍",
+    "predecessor": "Pre-A1-U06",
+    "order": 7
+  },
+  {
+    "id": "A1-U02",
+    "level": "A1",
+    "title_zh": "名词性别和身边物品",
+    "predecessor": "A1-U01",
+    "order": 8
+  },
+  {
+    "id": "A1-U03",
+    "level": "A1",
+    "title_zh": "基本动词与人物行动",
+    "predecessor": "A1-U02",
+    "order": 9
+  },
+  {
+    "id": "A1-U04",
+    "level": "A1",
+    "title_zh": "问句否定与礼貌请求",
+    "predecessor": "A1-U03",
+    "order": 10
+  },
+  {
+    "id": "A1-U05",
+    "level": "A1",
+    "title_zh": "数字价格钱币和单位",
+    "predecessor": "A1-U04",
+    "order": 11
+  },
+  {
+    "id": "A1-U06",
+    "level": "A1",
+    "title_zh": "时间日期日常安排",
+    "predecessor": "A1-U05",
+    "order": 12
+  },
+  {
+    "id": "A1-U07",
+    "level": "A1",
+    "title_zh": "家庭工作与爱好",
+    "predecessor": "A1-U06",
+    "order": 13
+  },
+  {
+    "id": "A1-U08",
+    "level": "A1",
+    "title_zh": "购物点单和付款",
+    "predecessor": "A1-U07",
+    "order": 14
+  },
+  {
+    "id": "A1-U09",
+    "level": "A1",
+    "title_zh": "地点问路与公交",
+    "predecessor": "A1-U08",
+    "order": 15
+  },
+  {
+    "id": "A1-U10",
+    "level": "A1",
+    "title_zh": "需要喜欢和基本感受",
+    "predecessor": "A1-U09",
+    "order": 16
+  },
+  {
+    "id": "A1-U11",
+    "level": "A1",
+    "title_zh": "常见格搭配的入门",
+    "predecessor": "A1-U10",
+    "order": 17
+  },
+  {
+    "id": "A1-U12",
+    "level": "A1",
+    "title_zh": "一次独立办事综合任务",
+    "predecessor": "A1-U11",
+    "order": 18
+  },
+  {
+    "id": "A2-U01",
+    "level": "A2",
+    "title_zh": "过去经历与未来计划",
+    "predecessor": "A1-U12",
+    "order": 19
+  },
+  {
+    "id": "A2-U02",
+    "level": "A2",
+    "title_zh": "单复数与形容词一致",
+    "predecessor": "A2-U01",
+    "order": 20
+  },
+  {
+    "id": "A2-U03",
+    "level": "A2",
+    "title_zh": "七格用途逐步系统化",
+    "predecessor": "A2-U02",
+    "order": 21
+  },
+  {
+    "id": "A2-U04",
+    "level": "A2",
+    "title_zh": "代词所有权和指代",
+    "predecessor": "A2-U03",
+    "order": 22
+  },
+  {
+    "id": "A2-U05",
+    "level": "A2",
+    "title_zh": "数量计量与采购包装",
+    "predecessor": "A2-U04",
+    "order": 23
+  },
+  {
+    "id": "A2-U06",
+    "level": "A2",
+    "title_zh": "方位移动和介词",
+    "predecessor": "A2-U05",
+    "order": 24
+  },
+  {
+    "id": "A2-U07",
+    "level": "A2",
+    "title_zh": "生活预约租房与健康",
+    "predecessor": "A2-U06",
+    "order": 25
+  },
+  {
+    "id": "A2-U08",
+    "level": "A2",
+    "title_zh": "电话消息与沟通修复",
+    "predecessor": "A2-U07",
+    "order": 26
+  },
+  {
+    "id": "A2-U09",
+    "level": "A2",
+    "title_zh": "比较选择与程度",
+    "predecessor": "A2-U08",
+    "order": 27
+  },
+  {
+    "id": "A2-U10",
+    "level": "A2",
+    "title_zh": "请求命令和条件入门",
+    "predecessor": "A2-U09",
+    "order": 28
+  },
+  {
+    "id": "A2-U11",
+    "level": "A2",
+    "title_zh": "动词体的入门对照",
+    "predecessor": "A2-U10",
+    "order": 29
+  },
+  {
+    "id": "A2-U12",
+    "level": "A2",
+    "title_zh": "进货配送退换货",
+    "predecessor": "A2-U11",
+    "order": 30
+  },
+  {
+    "id": "A2-U13",
+    "level": "A2",
+    "title_zh": "阅读通知和短新闻",
+    "predecessor": "A2-U12",
+    "order": 31
+  },
+  {
+    "id": "A2-U14",
+    "level": "A2",
+    "title_zh": "生活与交易综合项目",
+    "predecessor": "A2-U13",
+    "order": 32
+  },
+  {
+    "id": "B1-U01",
+    "level": "B1",
+    "title_zh": "连贯叙述与事件顺序",
+    "predecessor": "A2-U14",
+    "order": 33
+  },
+  {
+    "id": "B1-U02",
+    "level": "B1",
+    "title_zh": "动词体与语境选择",
+    "predecessor": "B1-U01",
+    "order": 34
+  },
+  {
+    "id": "B1-U03",
+    "level": "B1",
+    "title_zh": "运动动词和前缀",
+    "predecessor": "B1-U02",
+    "order": 35
+  },
+  {
+    "id": "B1-U04",
+    "level": "B1",
+    "title_zh": "从句与逻辑关系",
+    "predecessor": "B1-U03",
+    "order": 36
+  },
+  {
+    "id": "B1-U05",
+    "level": "B1",
+    "title_zh": "条件愿望与建议",
+    "predecessor": "B1-U04",
+    "order": 37
+  },
+  {
+    "id": "B1-U06",
+    "level": "B1",
+    "title_zh": "反身及格支配深化",
+    "predecessor": "B1-U05",
+    "order": 38
+  },
+  {
+    "id": "B1-U07",
+    "level": "B1",
+    "title_zh": "语序和附着词位置",
+    "predecessor": "B1-U06",
+    "order": 39
+  },
+  {
+    "id": "B1-U08",
+    "level": "B1",
+    "title_zh": "表达观点同意与反对",
+    "predecessor": "B1-U07",
+    "order": 40
+  },
+  {
+    "id": "B1-U09",
+    "level": "B1",
+    "title_zh": "投诉协商与解决误会",
+    "predecessor": "B1-U08",
+    "order": 41
+  },
+  {
+    "id": "B1-U10",
+    "level": "B1",
+    "title_zh": "新闻访谈与听力策略",
+    "predecessor": "B1-U09",
+    "order": 42
+  },
+  {
+    "id": "B1-U11",
+    "level": "B1",
+    "title_zh": "工作邮件与说明文本",
+    "predecessor": "B1-U10",
+    "order": 43
+  },
+  {
+    "id": "B1-U12",
+    "level": "B1",
+    "title_zh": "陌生场景独立互动",
+    "predecessor": "B1-U11",
+    "order": 44
+  },
+  {
+    "id": "B1-U13",
+    "level": "B1",
+    "title_zh": "词族搭配与构词",
+    "predecessor": "B1-U12",
+    "order": 45
+  },
+  {
+    "id": "B1-U14",
+    "level": "B1",
+    "title_zh": "综合表达及补弱测评",
+    "predecessor": "B1-U13",
+    "order": 46
+  },
+  {
+    "id": "B2-U01",
+    "level": "B2",
+    "title_zh": "复杂论证与反驳",
+    "predecessor": "B1-U14",
+    "order": 47
+  },
+  {
+    "id": "B2-U02",
+    "level": "B2",
+    "title_zh": "谈判协商与分歧处理",
+    "predecessor": "B2-U01",
+    "order": 48
+  },
+  {
+    "id": "B2-U03",
+    "level": "B2",
+    "title_zh": "精细语法综合查漏",
+    "predecessor": "B2-U02",
+    "order": 49
+  },
+  {
+    "id": "B2-U04",
+    "level": "B2",
+    "title_zh": "正式与日常语体",
+    "predecessor": "B2-U03",
+    "order": 50
+  },
+  {
+    "id": "B2-U05",
+    "level": "B2",
+    "title_zh": "被动表达及信息组织",
+    "predecessor": "B2-U04",
+    "order": 51
+  },
+  {
+    "id": "B2-U06",
+    "level": "B2",
+    "title_zh": "自然速度多说话人理解",
+    "predecessor": "B2-U05",
+    "order": 52
+  },
+  {
+    "id": "B2-U07",
+    "level": "B2",
+    "title_zh": "新闻评论与证据判断",
+    "predecessor": "B2-U06",
+    "order": 53
+  },
+  {
+    "id": "B2-U08",
+    "level": "B2",
+    "title_zh": "客户与工作文书",
+    "predecessor": "B2-U07",
+    "order": 54
+  },
+  {
+    "id": "B2-U09",
+    "level": "B2",
+    "title_zh": "比较多源信息并摘要",
+    "predecessor": "B2-U08",
+    "order": 55
+  },
+  {
+    "id": "B2-U10",
+    "level": "B2",
+    "title_zh": "复杂条件及假设推理",
+    "predecessor": "B2-U09",
+    "order": 56
+  },
+  {
+    "id": "B2-U11",
+    "level": "B2",
+    "title_zh": "文化语用与委婉表达",
+    "predecessor": "B2-U10",
+    "order": 57
+  },
+  {
+    "id": "B2-U12",
+    "level": "B2",
+    "title_zh": "长篇观点写作及修改",
+    "predecessor": "B2-U11",
+    "order": 58
+  },
+  {
+    "id": "B2-U13",
+    "level": "B2",
+    "title_zh": "跨场景解释与转述",
+    "predecessor": "B2-U12",
+    "order": 59
+  },
+  {
+    "id": "B2-U14",
+    "level": "B2",
+    "title_zh": "独立解决复杂事务",
+    "predecessor": "B2-U13",
+    "order": 60
+  },
+  {
+    "id": "C1-U01",
+    "level": "C1",
+    "title_zh": "抽象议题与复杂语篇",
+    "predecessor": "B2-U14",
+    "order": 61
+  },
+  {
+    "id": "C1-U02",
+    "level": "C1",
+    "title_zh": "长句结构与篇章衔接",
+    "predecessor": "C1-U01",
+    "order": 62
+  },
+  {
+    "id": "C1-U03",
+    "level": "C1",
+    "title_zh": "隐含立场和语用推断",
+    "predecessor": "C1-U02",
+    "order": 63
+  },
+  {
+    "id": "C1-U04",
+    "level": "C1",
+    "title_zh": "专业交流与术语释义",
+    "predecessor": "C1-U03",
+    "order": 64
+  },
+  {
+    "id": "C1-U05",
+    "level": "C1",
+    "title_zh": "长篇听力与笔记综合",
+    "predecessor": "C1-U04",
+    "order": 65
+  },
+  {
+    "id": "C1-U06",
+    "level": "C1",
+    "title_zh": "正式报告及提案写作",
+    "predecessor": "C1-U05",
+    "order": 66
+  },
+  {
+    "id": "C1-U07",
+    "level": "C1",
+    "title_zh": "风格改写和受众适配",
+    "predecessor": "C1-U06",
+    "order": 67
+  },
+  {
+    "id": "C1-U08",
+    "level": "C1",
+    "title_zh": "复杂争论与精确回应",
+    "predecessor": "C1-U07",
+    "order": 68
+  },
+  {
+    "id": "C1-U09",
+    "level": "C1",
+    "title_zh": "文化典故与社会背景",
+    "predecessor": "C1-U08",
+    "order": 69
+  },
+  {
+    "id": "C1-U10",
+    "level": "C1",
+    "title_zh": "跨源资料综合与引证",
+    "predecessor": "C1-U09",
+    "order": 70
+  },
+  {
+    "id": "C1-U11",
+    "level": "C1",
+    "title_zh": "自然口语与标准语差异",
+    "predecessor": "C1-U10",
+    "order": 71
+  },
+  {
+    "id": "C1-U12",
+    "level": "C1",
+    "title_zh": "精确词义搭配与修辞",
+    "predecessor": "C1-U11",
+    "order": 72
+  },
+  {
+    "id": "C1-U13",
+    "level": "C1",
+    "title_zh": "综合表达自检修订",
+    "predecessor": "C1-U12",
+    "order": 73
+  },
+  {
+    "id": "C1-U14",
+    "level": "C1",
+    "title_zh": "高阶互动与转述项目",
+    "predecessor": "C1-U13",
+    "order": 74
+  },
+  {
+    "id": "C2-U01",
+    "level": "C2",
+    "title_zh": "快语速省略与口音适应",
+    "predecessor": "C1-U14",
+    "order": 75
+  },
+  {
+    "id": "C2-U02",
+    "level": "C2",
+    "title_zh": "细微语义语气和歧义",
+    "predecessor": "C2-U01",
+    "order": 76
+  },
+  {
+    "id": "C2-U03",
+    "level": "C2",
+    "title_zh": "幽默反讽隐喻与暗示",
+    "predecessor": "C2-U02",
+    "order": 77
+  },
+  {
+    "id": "C2-U04",
+    "level": "C2",
+    "title_zh": "复杂文体及批判性阅读",
+    "predecessor": "C2-U03",
+    "order": 78
+  },
+  {
+    "id": "C2-U05",
+    "level": "C2",
+    "title_zh": "跨文本综合与矛盾辨析",
+    "predecessor": "C2-U04",
+    "order": 79
+  },
+  {
+    "id": "C2-U06",
+    "level": "C2",
+    "title_zh": "高度精确且自然的表达",
+    "predecessor": "C2-U05",
+    "order": 80
+  },
+  {
+    "id": "C2-U07",
+    "level": "C2",
+    "title_zh": "即兴讨论与灵活澄清",
+    "predecessor": "C2-U06",
+    "order": 81
+  },
+  {
+    "id": "C2-U08",
+    "level": "C2",
+    "title_zh": "文学及公共论述鉴赏",
+    "predecessor": "C2-U07",
+    "order": 82
+  },
+  {
+    "id": "C2-U09",
+    "level": "C2",
+    "title_zh": "复杂专业内容向外行解释",
+    "predecessor": "C2-U08",
+    "order": 83
+  },
+  {
+    "id": "C2-U10",
+    "level": "C2",
+    "title_zh": "跨文化调解与语用选择",
+    "predecessor": "C2-U09",
+    "order": 84
+  },
+  {
+    "id": "C2-U11",
+    "level": "C2",
+    "title_zh": "自主编辑与表达风格",
+    "predecessor": "C2-U10",
+    "order": 85
+  },
+  {
+    "id": "C2-U12",
+    "level": "C2",
+    "title_zh": "多场景综合能力测评",
+    "predecessor": "C2-U11",
+    "order": 86
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "id": "A1-U12-CHECK--2026.10.22.1--exercises",
+  "lesson_id": "A1-U12-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "A1",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Kód je devět, tři, jedna.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "A1-U12-CHECK-E01",
+      "parts": [
+        "Kód je devět, tři, jedna."
+      ]
+    }
+  ],
+  "text_sha256": "8a82c9416ffbb099a56fd0c031eec28796ab4788fa314a613a72260189ef2887",
+  "source_file": "content/assessments/A1-U12.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U12-CHECK--2026.10.22.1--exercises--8a82c9416f--normal.mp3",
+  "slow_file": "content/audio/files/A1-U12-CHECK--2026.10.22.1--exercises--8a82c9416f--slow.mp3",
+  "duration_seconds": 2.4439455782312924,
+  "slow_duration_seconds": 2.7690249433106575,
+  "cues": [
+    {
+      "text": "Kód je devět, tři, jedna.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "A1-U12-CHECK-E01",
+      "parts": [
+        "Kód je devět, tři, jedna."
+      ],
+      "start": 0.0,
+      "end": 2.2639455782312927,
+      "sentences": [
+        {
+          "text": "Kód je devět, tři, jedna.",
+          "start": 0.0,
+          "end": 2.2639455782312927,
+          "slow_start": 0.0,
+          "slow_end": 2.589024943310658
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.589024943310658
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "5384b5cea20e7e3bb4fa7b3dc20fa8a9d8660480a7c3f4fce6043a952a7b2d6f",
+    "slow": "f2fff1aa8066081eae82f28f405f324d0ebf786d76a724a3f5aef6bacfd4afe9"
+  }
+}

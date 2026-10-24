@@ -1,0 +1,75 @@
+{
+  "id": "A2-U02-CHECK--2026.10.22.1--text",
+  "lesson_id": "A2-U02-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Na stole jsou čtyři staré knihy. U dveří stojí dva mladí muži. Dvě malá auta jsou venku.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Na stole jsou čtyři staré knihy.",
+        "U dveří stojí dva mladí muži.",
+        "Dvě malá auta jsou venku."
+      ]
+    }
+  ],
+  "text_sha256": "9b09d5f932fcab6ac861703badd63da7348f593c6f6536e5adb4332b247db89f",
+  "source_file": "content/assessments/A2-U02.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U02-CHECK--2026.10.22.1--text--9b09d5f932--normal.mp3",
+  "slow_file": "content/audio/files/A2-U02-CHECK--2026.10.22.1--text--9b09d5f932--slow.mp3",
+  "duration_seconds": 8.516054421768708,
+  "slow_duration_seconds": 9.560952380952381,
+  "cues": [
+    {
+      "text": "Na stole jsou čtyři staré knihy. U dveří stojí dva mladí muži. Dvě malá auta jsou venku.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Na stole jsou čtyři staré knihy.",
+        "U dveří stojí dva mladí muži.",
+        "Dvě malá auta jsou venku."
+      ],
+      "start": 0.0,
+      "end": 8.336054421768708,
+      "sentences": [
+        {
+          "text": "Na stole jsou čtyři staré knihy.",
+          "start": 0.0,
+          "end": 2.693514739229025,
+          "slow_start": 0.0,
+          "slow_end": 3.053424036281179
+        },
+        {
+          "text": "U dveří stojí dva mladí muži.",
+          "start": 2.873514739229025,
+          "end": 5.671519274376418,
+          "slow_start": 3.2334240362811792,
+          "slow_end": 6.391337868480726
+        },
+        {
+          "text": "Dvě malá auta jsou venku.",
+          "start": 5.851519274376417,
+          "end": 8.336054421768708,
+          "slow_start": 6.571337868480725,
+          "slow_end": 9.380952380952381
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 9.380952380952381
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "c83ea08544c21c5b1173df9c4a99b4f756a45513934bb85509ca623fe23e9595",
+    "slow": "9690d4633d5e9c803438f51d97435c68de115a5f85159d6b26e192b73e723d00"
+  }
+}

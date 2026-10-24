@@ -1,0 +1,60 @@
+{
+  "id": "B2-U12-L01--2026.10.23.1--exercises",
+  "lesson_id": "B2-U12-L01",
+  "content_version": "2026.10.23.1",
+  "level": "B2",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Autor: Vycházím jen ze své zkušenosti, nemám podklady pro všechny pracovníky.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "B2-U12-L01-E03",
+      "parts": [
+        "Autor: Vycházím jen ze své zkušenosti, nemám podklady pro všechny pracovníky."
+      ]
+    }
+  ],
+  "text_sha256": "6d2bd9180cffd62eaff415d862bda139cfc5d3d078f6199d4b4c5a176b7df148",
+  "source_file": "content/lessons/B2/B2-U12-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U12-L01--2026.10.22.1--exercises--6d2bd9180c--normal.mp3",
+  "slow_file": "content/audio/files/B2-U12-L01--2026.10.22.1--exercises--6d2bd9180c--slow.mp3",
+  "duration_seconds": 7.447845804988662,
+  "slow_duration_seconds": 8.306984126984126,
+  "cues": [
+    {
+      "text": "Autor: Vycházím jen ze své zkušenosti, nemám podklady pro všechny pracovníky.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "B2-U12-L01-E03",
+      "parts": [
+        "Autor: Vycházím jen ze své zkušenosti, nemám podklady pro všechny pracovníky."
+      ],
+      "start": 0.0,
+      "end": 7.267845804988662,
+      "sentences": [
+        {
+          "text": "Autor: Vycházím jen ze své zkušenosti, nemám podklady pro všechny pracovníky.",
+          "start": 0.0,
+          "end": 7.267845804988662,
+          "slow_start": 0.0,
+          "slow_end": 8.126984126984127
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 8.126984126984127
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "c65a6907ad68e9085bb7fe90a66d86ec6c7295751d77e7fc6eb9b953e0dfd6a5",
+    "slow": "f02b9cb4b4f2a4e352baee9048d42f8d88e0d9df44a61405a40d6f972449e8d8"
+  },
+  "reused_from_track_id": "B2-U12-L01--2026.10.22.1--exercises"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "C1-U04-CHECK--2026.10.22.1--text",
+  "lesson_id": "C1-U04-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Ve školním projektu znamená anonymní odpověď takovou odpověď, u níž organizátor nezná jméno autora. Žáci ale píší i své jedinečné zkušenosti. Učitel upozorňuje, že někdy lze autora poznat podle popisu, přestože jméno chybí.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Ve školním projektu znamená anonymní odpověď takovou odpověď, u níž organizátor nezná jméno autora.",
+        "Žáci ale píší i své jedinečné zkušenosti.",
+        "Učitel upozorňuje, že někdy lze autora poznat podle popisu, přestože jméno chybí."
+      ]
+    }
+  ],
+  "text_sha256": "5c5571b8a435cc7cb69127bcf1dbdcb1b651b904296f40d2ed2d83d2200e5069",
+  "source_file": "content/assessments/C1-U04.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U04-CHECK--2026.10.22.1--text--5c5571b8a4--normal.mp3",
+  "slow_file": "content/audio/files/C1-U04-CHECK--2026.10.22.1--text--5c5571b8a4--slow.mp3",
+  "duration_seconds": 20.683310657596373,
+  "slow_duration_seconds": 23.51614512471655,
+  "cues": [
+    {
+      "text": "Ve školním projektu znamená anonymní odpověď takovou odpověď, u níž organizátor nezná jméno autora. Žáci ale píší i své jedinečné zkušenosti. Učitel upozorňuje, že někdy lze autora poznat podle popisu, přestože jméno chybí.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Ve školním projektu znamená anonymní odpověď takovou odpověď, u níž organizátor nezná jméno autora.",
+        "Žáci ale píší i své jedinečné zkušenosti.",
+        "Učitel upozorňuje, že někdy lze autora poznat podle popisu, přestože jméno chybí."
+      ],
+      "start": 0.0,
+      "end": 20.503310657596373,
+      "sentences": [
+        {
+          "text": "Ve školním projektu znamená anonymní odpověď takovou odpověď, u níž organizátor nezná jméno autora.",
+          "start": 0.0,
+          "end": 8.498503401360544,
+          "slow_start": 0.0,
+          "slow_end": 9.822040816326531
+        },
+        {
+          "text": "Žáci ale píší i své jedinečné zkušenosti.",
+          "start": 8.678503401360544,
+          "end": 12.741995464852607,
+          "slow_start": 10.00204081632653,
+          "slow_end": 14.564761904761905
+        },
+        {
+          "text": "Učitel upozorňuje, že někdy lze autora poznat podle popisu, přestože jméno chybí.",
+          "start": 12.921995464852607,
+          "end": 20.503310657596373,
+          "slow_start": 14.744761904761905,
+          "slow_end": 23.336145124716552
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 23.336145124716552
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "73dbd3212494d6070c7515363a0e2b1a1b916963063b40f1aa186607cb6a372e",
+    "slow": "51094212b72ca3c363c477d6d14fcaae1e49413c5d20920d453522add150a72d"
+  }
+}

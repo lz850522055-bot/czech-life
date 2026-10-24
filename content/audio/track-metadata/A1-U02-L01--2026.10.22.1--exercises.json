@@ -1,0 +1,59 @@
+{
+  "id": "A1-U02-L01--2026.10.22.1--exercises",
+  "lesson_id": "A1-U02-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A1",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Ta kniha je nová.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "A1-U02-L01-E01",
+      "parts": [
+        "Ta kniha je nová."
+      ]
+    }
+  ],
+  "text_sha256": "8624fd89d42ea8b0633b7345ffb5483e3b4969fe94af0f5ef4981b1fca8778d0",
+  "source_file": "content/lessons/A1/A1-U02-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U02-L01--2026.10.22.1--exercises--8624fd89d4--normal.mp3",
+  "slow_file": "content/audio/files/A1-U02-L01--2026.10.22.1--exercises--8624fd89d4--slow.mp3",
+  "duration_seconds": 1.6544671201814058,
+  "slow_duration_seconds": 1.9214965986394559,
+  "cues": [
+    {
+      "text": "Ta kniha je nová.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "A1-U02-L01-E01",
+      "parts": [
+        "Ta kniha je nová."
+      ],
+      "start": 0.0,
+      "end": 1.474467120181406,
+      "sentences": [
+        {
+          "text": "Ta kniha je nová.",
+          "start": 0.0,
+          "end": 1.474467120181406,
+          "slow_start": 0.0,
+          "slow_end": 1.7414965986394557
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.7414965986394557
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "c3b6406ce24e7c53b7603402c55515882e2f3f61076ad72c357625d3f4b6b43b",
+    "slow": "750e6b9f4e0bcf1daf445dbffa973e05cabc7a6c101309b473a2c24bb30d5c38"
+  }
+}

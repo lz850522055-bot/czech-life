@@ -1,0 +1,59 @@
+{
+  "id": "B2-U07-L01--2026.10.22.1--exercises",
+  "lesson_id": "B2-U07-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B2",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Víme, že přibylo zaznamenaných podnětů, neznáme ale přesný vývoj skutečných problémů.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "B2-U07-L01-E03",
+      "parts": [
+        "Víme, že přibylo zaznamenaných podnětů, neznáme ale přesný vývoj skutečných problémů."
+      ]
+    }
+  ],
+  "text_sha256": "c8cf3db768e629c79bfd292ae03544aee80e2a6e51a0e21b31ae577a84243b2b",
+  "source_file": "content/lessons/B2/B2-U07-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U07-L01--2026.10.22.1--exercises--c8cf3db768--normal.mp3",
+  "slow_file": "content/audio/files/B2-U07-L01--2026.10.22.1--exercises--c8cf3db768--slow.mp3",
+  "duration_seconds": 7.621995464852608,
+  "slow_duration_seconds": 8.574013605442177,
+  "cues": [
+    {
+      "text": "Víme, že přibylo zaznamenaných podnětů, neznáme ale přesný vývoj skutečných problémů.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "B2-U07-L01-E03",
+      "parts": [
+        "Víme, že přibylo zaznamenaných podnětů, neznáme ale přesný vývoj skutečných problémů."
+      ],
+      "start": 0.0,
+      "end": 7.441995464852607,
+      "sentences": [
+        {
+          "text": "Víme, že přibylo zaznamenaných podnětů, neznáme ale přesný vývoj skutečných problémů.",
+          "start": 0.0,
+          "end": 7.441995464852607,
+          "slow_start": 0.0,
+          "slow_end": 8.394013605442177
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 8.394013605442177
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "54ccf07eb8ddeaf1b3681c70034b8a9dfa1f6b94067f2229c11a474e8cc17c77",
+    "slow": "fa02c604b389208f2497d549482ee188336d93362fa8a5de7325f01815e2586b"
+  }
+}

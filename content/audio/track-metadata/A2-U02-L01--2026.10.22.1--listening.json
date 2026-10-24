@@ -1,0 +1,66 @@
+{
+  "id": "A2-U02-L01--2026.10.22.1--listening",
+  "lesson_id": "A2-U02-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Do kanceláře přišly dvě nové kolegyně. Přinesly tři malé krabice a dvě nová rádia.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Do kanceláře přišly dvě nové kolegyně.",
+        "Přinesly tři malé krabice a dvě nová rádia."
+      ]
+    }
+  ],
+  "text_sha256": "7b3a3f9fada49fd3c9aebc88008091b5e6ccc2bf75727a0b52addbaae34fbb84",
+  "source_file": "content/lessons/A2/A2-U02-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U02-L01--2026.10.22.1--listening--7b3a3f9fad--normal.mp3",
+  "slow_file": "content/audio/files/A2-U02-L01--2026.10.22.1--listening--7b3a3f9fad--slow.mp3",
+  "duration_seconds": 7.58140589569161,
+  "slow_duration_seconds": 8.452154195011337,
+  "cues": [
+    {
+      "text": "Do kanceláře přišly dvě nové kolegyně. Přinesly tři malé krabice a dvě nová rádia.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Do kanceláře přišly dvě nové kolegyně.",
+        "Přinesly tři malé krabice a dvě nová rádia."
+      ],
+      "start": 0.0,
+      "end": 7.40140589569161,
+      "sentences": [
+        {
+          "text": "Do kanceláře přišly dvě nové kolegyně.",
+          "start": 0.0,
+          "end": 3.239183673469388,
+          "slow_start": 0.0,
+          "slow_end": 3.564263038548753
+        },
+        {
+          "text": "Přinesly tři malé krabice a dvě nová rádia.",
+          "start": 3.4191836734693877,
+          "end": 7.40140589569161,
+          "slow_start": 3.7442630385487528,
+          "slow_end": 8.272154195011337
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 8.272154195011337
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "794029daa0761c9f7eaffbff7e580b80bfa88db6c25231b3dc36dcca64a931ca",
+    "slow": "7b301b884f741f370735d608dfd534bbba8e9f83cf950635243f3bacf7397449"
+  }
+}

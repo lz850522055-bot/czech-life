@@ -1,0 +1,501 @@
+{
+  "id": "C1-U10-L01--2026.10.22.1--text",
+  "lesson_id": "C1-U10-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Závěrečná zpráva o sousedském festivalu uváděla, že akci navštívilo více lidí než v předchozím roce. Článek v místním zpravodaji přitom tvrdil, že zájem obyvatel klesá. Na první pohled se zdálo, že jeden z textů musí být chybný. Redaktorka, která měla připravit společný přehled, však nezačala hledáním viníka. Nejprve si poznamenala, jak každý zdroj vymezuje zájem, koho počítá a k jakému období se jeho tvrzení vztahuje.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Závěrečná zpráva o sousedském festivalu uváděla, že akci navštívilo více lidí než v předchozím roce.",
+        "Článek v místním zpravodaji přitom tvrdil, že zájem obyvatel klesá.",
+        "Na první pohled se zdálo, že jeden z textů musí být chybný.",
+        "Redaktorka, která měla připravit společný přehled, však nezačala hledáním viníka.",
+        "Nejprve si poznamenala, jak každý zdroj vymezuje zájem, koho počítá a k jakému období se jeho tvrzení vztahuje."
+      ]
+    },
+    {
+      "text": "Organizátoři měřili průchody hlavním vstupem během celého víkendu. Jeden člověk mohl projít několikrát a mezi návštěvníky byli i lidé z jiných obcí. Autor článku naproti tomu vycházel z rozhovorů s některými místními prodejci, kteří zaznamenali méně nákupů než loni. Tyto údaje mohly být pravdivé současně. Vyšší pohyb v areálu nevylučoval nižší tržby určité skupiny stánků. Problém vznikal ve chvíli, kdy se jeden ukazatel bez vysvětlení používal jako doklad celkového zájmu všech obyvatel.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Organizátoři měřili průchody hlavním vstupem během celého víkendu.",
+        "Jeden člověk mohl projít několikrát a mezi návštěvníky byli i lidé z jiných obcí.",
+        "Autor článku naproti tomu vycházel z rozhovorů s některými místními prodejci, kteří zaznamenali méně nákupů než loni.",
+        "Tyto údaje mohly být pravdivé současně.",
+        "Vyšší pohyb v areálu nevylučoval nižší tržby určité skupiny stánků.",
+        "Problém vznikal ve chvíli, kdy se jeden ukazatel bez vysvětlení používal jako doklad celkového zájmu všech obyvatel."
+      ]
+    },
+    {
+      "text": "Redaktorka si proto vytvořila pracovní přehled se sloupci zdroj, tvrzení, způsob zjištění a omezení. U oficiální zprávy neoznačila automaticky všechny údaje za spolehlivější jen proto, že působila formálně. U rozhovorů zase nezaměnila osobní zkušenost za bezcenný dojem. Ptala se, jakou část situace daný podklad skutečně zachycuje. Každý zdroj může mít zájem zdůraznit jiný výsledek; to je důvod ke kontrole argumentu, nikoli samo o sobě důkaz nepravdy.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Redaktorka si proto vytvořila pracovní přehled se sloupci zdroj, tvrzení, způsob zjištění a omezení.",
+        "U oficiální zprávy neoznačila automaticky všechny údaje za spolehlivější jen proto, že působila formálně.",
+        "U rozhovorů zase nezaměnila osobní zkušenost za bezcenný dojem.",
+        "Ptala se, jakou část situace daný podklad skutečně zachycuje.",
+        "Každý zdroj může mít zájem zdůraznit jiný výsledek; to je důvod ke kontrole argumentu, nikoli samo o sobě důkaz nepravdy."
+      ]
+    },
+    {
+      "text": "Dalším problémem bylo srovnání s minulým rokem. Tehdy se vstupy počítaly pouze v sobotu, zatímco letos zahrnovaly i neděli. Bez sjednocení období by nárůst vypovídal především o odlišném způsobu měření. Organizátoři po upozornění poskytli samostatný sobotní údaj. Ani ten však nebylo vhodné přenést na celý víkend bez dalšího vysvětlení. Správné porovnání neznamená vybrat dvě podobně vypadající čísla, ale zjistit, zda představují srovnatelnou činnost za srovnatelných podmínek.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Dalším problémem bylo srovnání s minulým rokem.",
+        "Tehdy se vstupy počítaly pouze v sobotu, zatímco letos zahrnovaly i neděli.",
+        "Bez sjednocení období by nárůst vypovídal především o odlišném způsobu měření.",
+        "Organizátoři po upozornění poskytli samostatný sobotní údaj.",
+        "Ani ten však nebylo vhodné přenést na celý víkend bez dalšího vysvětlení.",
+        "Správné porovnání neznamená vybrat dvě podobně vypadající čísla, ale zjistit, zda představují srovnatelnou činnost za srovnatelných podmínek."
+      ]
+    },
+    {
+      "text": "V připravovaném článku redaktorka použila několik úrovní vyjádření. U ověřeného rozdílu v metodě napsala, že původní údaje nebyly přímo srovnatelné. U zkušenosti prodejců uvedla, že oslovení prodejci hlásili slabší prodej. A tam, kde přímé podklady chyběly, ponechala otázku otevřenou: z dostupných materiálů nelze určit, zda se změnil zájem místních obyvatel jako celku. Taková věta nepůsobí jako rozhodný titulek, ale chrání čtenáře před závěrem, pro nějž zatím není dost údajů.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "V připravovaném článku redaktorka použila několik úrovní vyjádření.",
+        "U ověřeného rozdílu v metodě napsala, že původní údaje nebyly přímo srovnatelné.",
+        "U zkušenosti prodejců uvedla, že oslovení prodejci hlásili slabší prodej.",
+        "A tam, kde přímé podklady chyběly, ponechala otázku otevřenou: z dostupných materiálů nelze určit, zda se změnil zájem místních obyvatel jako celku.",
+        "Taková věta nepůsobí jako rozhodný titulek, ale chrání čtenáře před závěrem, pro nějž zatím není dost údajů."
+      ]
+    },
+    {
+      "text": "Souhrn zároveň nesměl zůstat jen seznamem cizích výroků. Redaktorka vysvětlila vztah mezi nimi a navrhla, co by bylo potřeba sledovat příště: jednotný způsob evidence vstupů, rozlišení opakovaných návštěv a dobrovolnou zpětnou vazbu různých skupin. Nešlo o slib dokonalého měření. Šlo o to, aby příští zpráva umožnila odpovědět na otázky, které si organizátoři skutečně kladou. Volba ukazatelů má následovat účel hodnocení, nikoli pouze to, co lze nejsnáze spočítat.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Souhrn zároveň nesměl zůstat jen seznamem cizích výroků.",
+        "Redaktorka vysvětlila vztah mezi nimi a navrhla, co by bylo potřeba sledovat příště: jednotný způsob evidence vstupů, rozlišení opakovaných návštěv a dobrovolnou zpětnou vazbu různých skupin.",
+        "Nešlo o slib dokonalého měření.",
+        "Šlo o to, aby příští zpráva umožnila odpovědět na otázky, které si organizátoři skutečně kladou.",
+        "Volba ukazatelů má následovat účel hodnocení, nikoli pouze to, co lze nejsnáze spočítat."
+      ]
+    },
+    {
+      "text": "Před vydáním dostaly obě strany možnost zkontrolovat, zda jsou jejich tvrzení převyprávěna přesně. Nemohly však rozhodovat o závěru redaktorky. Ověření citované informace se tak oddělilo od práva určovat interpretaci. V konečném textu bylo možné dohledat, odkud konkrétní výrok pochází, a čtenář současně viděl, jaký závěr z něj autorka vyvozuje. Právě spojení průhledného původu informací a samostatné, omezené interpretace odlišuje skutečnou syntézu od pouhého slepení odstavců.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Před vydáním dostaly obě strany možnost zkontrolovat, zda jsou jejich tvrzení převyprávěna přesně.",
+        "Nemohly však rozhodovat o závěru redaktorky.",
+        "Ověření citované informace se tak oddělilo od práva určovat interpretaci.",
+        "V konečném textu bylo možné dohledat, odkud konkrétní výrok pochází, a čtenář současně viděl, jaký závěr z něj autorka vyvozuje.",
+        "Právě spojení průhledného původu informací a samostatné, omezené interpretace odlišuje skutečnou syntézu od pouhého slepení odstavců."
+      ]
+    }
+  ],
+  "text_sha256": "7ab3ff001dbb5fb1baa7ff59397583c1a99bf2525ac60a7f719540b5b5b29018",
+  "source_file": "content/lessons/C1/C1-U10-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U10-L01--2026.10.22.1--text--7ab3ff001d--normal.mp3",
+  "slow_file": "content/audio/files/C1-U10-L01--2026.10.22.1--text--7ab3ff001d--slow.mp3",
+  "duration_seconds": 299.05727891156465,
+  "slow_duration_seconds": 338.577641723356,
+  "cues": [
+    {
+      "text": "Závěrečná zpráva o sousedském festivalu uváděla, že akci navštívilo více lidí než v předchozím roce. Článek v místním zpravodaji přitom tvrdil, že zájem obyvatel klesá. Na první pohled se zdálo, že jeden z textů musí být chybný. Redaktorka, která měla připravit společný přehled, však nezačala hledáním viníka. Nejprve si poznamenala, jak každý zdroj vymezuje zájem, koho počítá a k jakému období se jeho tvrzení vztahuje.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Závěrečná zpráva o sousedském festivalu uváděla, že akci navštívilo více lidí než v předchozím roce.",
+        "Článek v místním zpravodaji přitom tvrdil, že zájem obyvatel klesá.",
+        "Na první pohled se zdálo, že jeden z textů musí být chybný.",
+        "Redaktorka, která měla připravit společný přehled, však nezačala hledáním viníka.",
+        "Nejprve si poznamenala, jak každý zdroj vymezuje zájem, koho počítá a k jakému období se jeho tvrzení vztahuje."
+      ],
+      "start": 0.0,
+      "end": 37.02439909297052,
+      "sentences": [
+        {
+          "text": "Závěrečná zpráva o sousedském festivalu uváděla, že akci navštívilo více lidí než v předchozím roce.",
+          "start": 0.0,
+          "end": 8.962902494331066,
+          "slow_start": 0.0,
+          "slow_end": 10.541859410430838
+        },
+        {
+          "text": "Článek v místním zpravodaji přitom tvrdil, že zájem obyvatel klesá.",
+          "start": 9.142902494331066,
+          "end": 15.052380952380952,
+          "slow_start": 10.72185941043084,
+          "slow_end": 17.513696145124715
+        },
+        {
+          "text": "Na první pohled se zdálo, že jeden z textů musí být chybný.",
+          "start": 15.232380952380952,
+          "end": 20.49170068027211,
+          "slow_start": 17.693696145124715,
+          "slow_end": 23.754104308390023
+        },
+        {
+          "text": "Redaktorka, která měla připravit společný přehled, však nezačala hledáním viníka.",
+          "start": 20.67170068027211,
+          "end": 27.7421768707483,
+          "slow_start": 23.934104308390022,
+          "slow_end": 31.852108843537415
+        },
+        {
+          "text": "Nejprve si poznamenala, jak každý zdroj vymezuje zájem, koho počítá a k jakému období se jeho tvrzení vztahuje.",
+          "start": 27.9221768707483,
+          "end": 37.02439909297052,
+          "slow_start": 32.032108843537415,
+          "slow_end": 42.39981859410431
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 42.39981859410431
+    },
+    {
+      "text": "Organizátoři měřili průchody hlavním vstupem během celého víkendu. Jeden člověk mohl projít několikrát a mezi návštěvníky byli i lidé z jiných obcí. Autor článku naproti tomu vycházel z rozhovorů s některými místními prodejci, kteří zaznamenali méně nákupů než loni. Tyto údaje mohly být pravdivé současně. Vyšší pohyb v areálu nevylučoval nižší tržby určité skupiny stánků. Problém vznikal ve chvíli, kdy se jeden ukazatel bez vysvětlení používal jako doklad celkového zájmu všech obyvatel.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Organizátoři měřili průchody hlavním vstupem během celého víkendu.",
+        "Jeden člověk mohl projít několikrát a mezi návštěvníky byli i lidé z jiných obcí.",
+        "Autor článku naproti tomu vycházel z rozhovorů s některými místními prodejci, kteří zaznamenali méně nákupů než loni.",
+        "Tyto údaje mohly být pravdivé současně.",
+        "Vyšší pohyb v areálu nevylučoval nižší tržby určité skupiny stánků.",
+        "Problém vznikal ve chvíli, kdy se jeden ukazatel bez vysvětlení používal jako doklad celkového zájmu všech obyvatel."
+      ],
+      "start": 37.20439909297052,
+      "end": 81.59537414965986,
+      "sentences": [
+        {
+          "text": "Organizátoři měřili průchody hlavním vstupem během celého víkendu.",
+          "start": 37.20439909297052,
+          "end": 42.89328798185941,
+          "slow_start": 42.57981859410431,
+          "slow_end": 49.01174603174603
+        },
+        {
+          "text": "Jeden člověk mohl projít několikrát a mezi návštěvníky byli i lidé z jiných obcí.",
+          "start": 43.07328798185941,
+          "end": 50.108934240362814,
+          "slow_start": 49.19174603174603,
+          "slow_end": 57.21424036281179
+        },
+        {
+          "text": "Autor článku naproti tomu vycházel z rozhovorů s některými místními prodejci, kteří zaznamenali méně nákupů než loni.",
+          "start": 50.28893424036281,
+          "end": 60.92367346938776,
+          "slow_start": 57.39424036281179,
+          "slow_end": 69.38734693877551
+        },
+        {
+          "text": "Tyto údaje mohly být pravdivé současně.",
+          "start": 61.10367346938776,
+          "end": 64.44734693877551,
+          "slow_start": 69.56734693877551,
+          "slow_end": 73.340589569161
+        },
+        {
+          "text": "Vyšší pohyb v areálu nevylučoval nižší tržby určité skupiny stánků.",
+          "start": 64.62734693877552,
+          "end": 70.89673469387755,
+          "slow_start": 73.520589569161,
+          "slow_end": 80.59106575963719
+        },
+        {
+          "text": "Problém vznikal ve chvíli, kdy se jeden ukazatel bez vysvětlení používal jako doklad celkového zájmu všech obyvatel.",
+          "start": 71.07673469387755,
+          "end": 81.59537414965986,
+          "slow_start": 80.77106575963718,
+          "slow_end": 92.72934240362812
+        }
+      ],
+      "slow_start": 42.57981859410431,
+      "slow_end": 92.72934240362812
+    },
+    {
+      "text": "Redaktorka si proto vytvořila pracovní přehled se sloupci zdroj, tvrzení, způsob zjištění a omezení. U oficiální zprávy neoznačila automaticky všechny údaje za spolehlivější jen proto, že působila formálně. U rozhovorů zase nezaměnila osobní zkušenost za bezcenný dojem. Ptala se, jakou část situace daný podklad skutečně zachycuje. Každý zdroj může mít zájem zdůraznit jiný výsledek; to je důvod ke kontrole argumentu, nikoli samo o sobě důkaz nepravdy.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Redaktorka si proto vytvořila pracovní přehled se sloupci zdroj, tvrzení, způsob zjištění a omezení.",
+        "U oficiální zprávy neoznačila automaticky všechny údaje za spolehlivější jen proto, že působila formálně.",
+        "U rozhovorů zase nezaměnila osobní zkušenost za bezcenný dojem.",
+        "Ptala se, jakou část situace daný podklad skutečně zachycuje.",
+        "Každý zdroj může mít zájem zdůraznit jiný výsledek; to je důvod ke kontrole argumentu, nikoli samo o sobě důkaz nepravdy."
+      ],
+      "start": 81.77537414965987,
+      "end": 123.55986394557823,
+      "sentences": [
+        {
+          "text": "Redaktorka si proto vytvořila pracovní přehled se sloupci zdroj, tvrzení, způsob zjištění a omezení.",
+          "start": 81.77537414965987,
+          "end": 91.22589569160998,
+          "slow_start": 92.90934240362812,
+          "slow_end": 103.39315192743764
+        },
+        {
+          "text": "U oficiální zprávy neoznačila automaticky všechny údaje za spolehlivější jen proto, že působila formálně.",
+          "start": 91.40589569160997,
+          "end": 101.11183673469388,
+          "slow_start": 103.57315192743764,
+          "slow_end": 114.53297052154196
+        },
+        {
+          "text": "U rozhovorů zase nezaměnila osobní zkušenost za bezcenný dojem.",
+          "start": 101.29183673469387,
+          "end": 106.8762358276644,
+          "slow_start": 114.71297052154195,
+          "slow_end": 121.12167800453514
+        },
+        {
+          "text": "Ptala se, jakou část situace daný podklad skutečně zachycuje.",
+          "start": 107.0562358276644,
+          "end": 112.68707482993197,
+          "slow_start": 121.30167800453515,
+          "slow_end": 127.66394557823129
+        },
+        {
+          "text": "Každý zdroj může mít zájem zdůraznit jiný výsledek; to je důvod ke kontrole argumentu, nikoli samo o sobě důkaz nepravdy.",
+          "start": 112.86707482993198,
+          "end": 123.55986394557823,
+          "slow_start": 127.8439455782313,
+          "slow_end": 139.75578231292516
+        }
+      ],
+      "slow_start": 92.90934240362812,
+      "slow_end": 139.75578231292516
+    },
+    {
+      "text": "Dalším problémem bylo srovnání s minulým rokem. Tehdy se vstupy počítaly pouze v sobotu, zatímco letos zahrnovaly i neděli. Bez sjednocení období by nárůst vypovídal především o odlišném způsobu měření. Organizátoři po upozornění poskytli samostatný sobotní údaj. Ani ten však nebylo vhodné přenést na celý víkend bez dalšího vysvětlení. Správné porovnání neznamená vybrat dvě podobně vypadající čísla, ale zjistit, zda představují srovnatelnou činnost za srovnatelných podmínek.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Dalším problémem bylo srovnání s minulým rokem.",
+        "Tehdy se vstupy počítaly pouze v sobotu, zatímco letos zahrnovaly i neděli.",
+        "Bez sjednocení období by nárůst vypovídal především o odlišném způsobu měření.",
+        "Organizátoři po upozornění poskytli samostatný sobotní údaj.",
+        "Ani ten však nebylo vhodné přenést na celý víkend bez dalšího vysvětlení.",
+        "Správné porovnání neznamená vybrat dvě podobně vypadající čísla, ale zjistit, zda představují srovnatelnou činnost za srovnatelných podmínek."
+      ],
+      "start": 123.73986394557824,
+      "end": 165.82045351473923,
+      "sentences": [
+        {
+          "text": "Dalším problémem bylo srovnání s minulým rokem.",
+          "start": 123.73986394557824,
+          "end": 128.14004535147393,
+          "slow_start": 139.93578231292517,
+          "slow_end": 145.0209523809524
+        },
+        {
+          "text": "Tehdy se vstupy počítaly pouze v sobotu, zatímco letos zahrnovaly i neděli.",
+          "start": 128.32004535147394,
+          "end": 134.74036281179139,
+          "slow_start": 145.20095238095237,
+          "slow_end": 152.67777777777778
+        },
+        {
+          "text": "Bez sjednocení období by nárůst vypovídal především o odlišném způsobu měření.",
+          "start": 134.9203628117914,
+          "end": 142.1069387755102,
+          "slow_start": 152.85777777777778,
+          "slow_end": 160.8918820861678
+        },
+        {
+          "text": "Organizátoři po upozornění poskytli samostatný sobotní údaj.",
+          "start": 142.2869387755102,
+          "end": 147.60430839002268,
+          "slow_start": 161.0718820861678,
+          "slow_end": 167.1671201814059
+        },
+        {
+          "text": "Ani ten však nebylo vhodné přenést na celý víkend bez dalšího vysvětlení.",
+          "start": 147.7843083900227,
+          "end": 153.94920634920635,
+          "slow_start": 167.3471201814059,
+          "slow_end": 174.30149659863946
+        },
+        {
+          "text": "Správné porovnání neznamená vybrat dvě podobně vypadající čísla, ale zjistit, zda představují srovnatelnou činnost za srovnatelných podmínek.",
+          "start": 154.12920634920636,
+          "end": 165.82045351473923,
+          "slow_start": 174.48149659863947,
+          "slow_end": 187.87941043083902
+        }
+      ],
+      "slow_start": 139.93578231292517,
+      "slow_end": 187.87941043083902
+    },
+    {
+      "text": "V připravovaném článku redaktorka použila několik úrovní vyjádření. U ověřeného rozdílu v metodě napsala, že původní údaje nebyly přímo srovnatelné. U zkušenosti prodejců uvedla, že oslovení prodejci hlásili slabší prodej. A tam, kde přímé podklady chyběly, ponechala otázku otevřenou: z dostupných materiálů nelze určit, zda se změnil zájem místních obyvatel jako celku. Taková věta nepůsobí jako rozhodný titulek, ale chrání čtenáře před závěrem, pro nějž zatím není dost údajů.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "V připravovaném článku redaktorka použila několik úrovní vyjádření.",
+        "U ověřeného rozdílu v metodě napsala, že původní údaje nebyly přímo srovnatelné.",
+        "U zkušenosti prodejců uvedla, že oslovení prodejci hlásili slabší prodej.",
+        "A tam, kde přímé podklady chyběly, ponechala otázku otevřenou: z dostupných materiálů nelze určit, zda se změnil zájem místních obyvatel jako celku.",
+        "Taková věta nepůsobí jako rozhodný titulek, ale chrání čtenáře před závěrem, pro nějž zatím není dost údajů."
+      ],
+      "start": 166.00045351473923,
+      "end": 210.33913832199548,
+      "sentences": [
+        {
+          "text": "V připravovaném článku redaktorka použila několik úrovní vyjádření.",
+          "start": 166.00045351473923,
+          "end": 172.11891156462585,
+          "slow_start": 188.059410430839,
+          "slow_end": 194.97895691609978
+        },
+        {
+          "text": "U ověřeného rozdílu v metodě napsala, že původní údaje nebyly přímo srovnatelné.",
+          "start": 172.29891156462585,
+          "end": 179.6944671201814,
+          "slow_start": 195.15895691609978,
+          "slow_end": 203.70390022675738
+        },
+        {
+          "text": "U zkušenosti prodejců uvedla, že oslovení prodejci hlásili slabší prodej.",
+          "start": 179.8744671201814,
+          "end": 186.44571428571427,
+          "slow_start": 203.88390022675736,
+          "slow_end": 211.27945578231294
+        },
+        {
+          "text": "A tam, kde přímé podklady chyběly, ponechala otázku otevřenou: z dostupných materiálů nelze určit, zda se změnil zájem místních obyvatel jako celku.",
+          "start": 186.62571428571428,
+          "end": 200.56929705215418,
+          "slow_start": 211.45945578231292,
+          "slow_end": 227.05165532879818
+        },
+        {
+          "text": "Taková věta nepůsobí jako rozhodný titulek, ale chrání čtenáře před závěrem, pro nějž zatím není dost údajů.",
+          "start": 200.7492970521542,
+          "end": 210.33913832199548,
+          "slow_start": 227.23165532879818,
+          "slow_end": 237.79673469387754
+        }
+      ],
+      "slow_start": 188.059410430839,
+      "slow_end": 237.79673469387754
+    },
+    {
+      "text": "Souhrn zároveň nesměl zůstat jen seznamem cizích výroků. Redaktorka vysvětlila vztah mezi nimi a navrhla, co by bylo potřeba sledovat příště: jednotný způsob evidence vstupů, rozlišení opakovaných návštěv a dobrovolnou zpětnou vazbu různých skupin. Nešlo o slib dokonalého měření. Šlo o to, aby příští zpráva umožnila odpovědět na otázky, které si organizátoři skutečně kladou. Volba ukazatelů má následovat účel hodnocení, nikoli pouze to, co lze nejsnáze spočítat.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Souhrn zároveň nesměl zůstat jen seznamem cizích výroků.",
+        "Redaktorka vysvětlila vztah mezi nimi a navrhla, co by bylo potřeba sledovat příště: jednotný způsob evidence vstupů, rozlišení opakovaných návštěv a dobrovolnou zpětnou vazbu různých skupin.",
+        "Nešlo o slib dokonalého měření.",
+        "Šlo o to, aby příští zpráva umožnila odpovědět na otázky, které si organizátoři skutečně kladou.",
+        "Volba ukazatelů má následovat účel hodnocení, nikoli pouze to, co lze nejsnáze spočítat."
+      ],
+      "start": 210.51913832199546,
+      "end": 255.14807256235827,
+      "sentences": [
+        {
+          "text": "Souhrn zároveň nesměl zůstat jen seznamem cizích výroků.",
+          "start": 210.51913832199546,
+          "end": 216.08031746031747,
+          "slow_start": 237.97673469387755,
+          "slow_end": 244.16485260770975
+        },
+        {
+          "text": "Redaktorka vysvětlila vztah mezi nimi a navrhla, co by bylo potřeba sledovat příště: jednotný způsob evidence vstupů, rozlišení opakovaných návštěv a dobrovolnou zpětnou vazbu různých skupin.",
+          "start": 216.26031746031745,
+          "end": 233.59401360544217,
+          "slow_start": 244.34485260770975,
+          "slow_end": 264.07020408163265
+        },
+        {
+          "text": "Nešlo o slib dokonalého měření.",
+          "start": 233.77401360544218,
+          "end": 236.69972789115647,
+          "slow_start": 264.25020408163266,
+          "slow_end": 267.5474376417234
+        },
+        {
+          "text": "Šlo o to, aby příští zpráva umožnila odpovědět na otázky, které si organizátoři skutečně kladou.",
+          "start": 236.87972789115645,
+          "end": 246.0748299319728,
+          "slow_start": 267.7274376417234,
+          "slow_end": 278.1764172335601
+        },
+        {
+          "text": "Volba ukazatelů má následovat účel hodnocení, nikoli pouze to, co lze nejsnáze spočítat.",
+          "start": 246.25482993197278,
+          "end": 255.14807256235827,
+          "slow_start": 278.3564172335601,
+          "slow_end": 288.3642176870748
+        }
+      ],
+      "slow_start": 237.97673469387755,
+      "slow_end": 288.3642176870748
+    },
+    {
+      "text": "Před vydáním dostaly obě strany možnost zkontrolovat, zda jsou jejich tvrzení převyprávěna přesně. Nemohly však rozhodovat o závěru redaktorky. Ověření citované informace se tak oddělilo od práva určovat interpretaci. V konečném textu bylo možné dohledat, odkud konkrétní výrok pochází, a čtenář současně viděl, jaký závěr z něj autorka vyvozuje. Právě spojení průhledného původu informací a samostatné, omezené interpretace odlišuje skutečnou syntézu od pouhého slepení odstavců.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Před vydáním dostaly obě strany možnost zkontrolovat, zda jsou jejich tvrzení převyprávěna přesně.",
+        "Nemohly však rozhodovat o závěru redaktorky.",
+        "Ověření citované informace se tak oddělilo od práva určovat interpretaci.",
+        "V konečném textu bylo možné dohledat, odkud konkrétní výrok pochází, a čtenář současně viděl, jaký závěr z něj autorka vyvozuje.",
+        "Právě spojení průhledného původu informací a samostatné, omezené interpretace odlišuje skutečnou syntézu od pouhého slepení odstavců."
+      ],
+      "start": 255.32807256235827,
+      "end": 298.87727891156464,
+      "sentences": [
+        {
+          "text": "Před vydáním dostaly obě strany možnost zkontrolovat, zda jsou jejich tvrzení převyprávěna přesně.",
+          "start": 255.32807256235827,
+          "end": 263.90784580498865,
+          "slow_start": 288.5442176870748,
+          "slow_end": 298.3546485260771
+        },
+        {
+          "text": "Nemohly však rozhodovat o závěru redaktorky.",
+          "start": 264.08784580498866,
+          "end": 267.86108843537414,
+          "slow_start": 298.5346485260771,
+          "slow_end": 302.8419501133787
+        },
+        {
+          "text": "Ověření citované informace se tak oddělilo od práva určovat interpretaci.",
+          "start": 268.04108843537415,
+          "end": 274.94902494331063,
+          "slow_start": 303.0219501133787,
+          "slow_end": 310.9980045351474
+        },
+        {
+          "text": "V konečném textu bylo možné dohledat, odkud konkrétní výrok pochází, a čtenář současně viděl, jaký závěr z něj autorka vyvozuje.",
+          "start": 275.12902494331064,
+          "end": 286.5184126984127,
+          "slow_start": 311.1780045351474,
+          "slow_end": 324.49464852607707
+        },
+        {
+          "text": "Právě spojení průhledného původu informací a samostatné, omezené interpretace odlišuje skutečnou syntézu od pouhého slepení odstavců.",
+          "start": 286.6984126984127,
+          "end": 298.87727891156464,
+          "slow_start": 324.6746485260771,
+          "slow_end": 338.397641723356
+        }
+      ],
+      "slow_start": 288.5442176870748,
+      "slow_end": 338.397641723356
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "0528faad79fa761c77a854224beb9530568e3d71fe7fb5c1f4e0fc247e09ee79",
+    "slow": "efa94863998007ea9a21243764e29a0efb237a408d84dbfd9eee01fa21dc15ed"
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "id": "C2-U11-CHECK",
+  "kind": "unit",
+  "level": "C2",
+  "unit_id": "C2-U11",
+  "title_zh": "修掉表达障碍，留下作者的声音：新情境检验",
+  "version": "2026.10.23.1",
+  "unseen_text": [
+    {
+      "cs": "Autorka napsala: V čekárně se čas neposouval. Editor změnil větu na: Hodiny v čekárně nefungovaly. V dalším odstavci přitom původní text popisuje, jak autorka každou minutu sledovala pohyb ručičky.",
+      "zh": "“候诊室里时间不走”被改成“钟坏了”，下文却说她盯分针移动。"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "编辑误改了哪一层？",
+      "stimulus_cs": "",
+      "answer": "a",
+      "explanation_zh": "比喻心理感受非设备故障。",
+      "skill_ids": [
+        "reading"
+      ],
+      "knowledge_points": [
+        "c2-style-function",
+        "c2-information-focus"
+      ],
+      "error_category": "comprehension",
+      "options": [
+        {
+          "id": "a",
+          "text": "把主观时间感变成物理事实"
+        },
+        {
+          "id": "b",
+          "text": "只是删一个词"
+        },
+        {
+          "id": "c",
+          "text": "原文必然语法错"
+        }
+      ],
+      "scoring_basis": "封闭题以答案核对；解析说明本题边界。",
+      "id": "C2-U11-CHECK-E01"
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "写一版较直白但忠实的改写。",
+      "stimulus_cs": "",
+      "answer": "Čekání mi připadalo nekonečně dlouhé, přestože ručička hodin se pravidelně posouvala.",
+      "explanation_zh": "保感知与物理时间对比。",
+      "skill_ids": [
+        "writing"
+      ],
+      "knowledge_points": [
+        "c2-style-function",
+        "c2-information-focus"
+      ],
+      "error_category": "comprehension",
+      "rubric": [
+        "回应具体任务，信息不失真",
+        "逻辑有衔接，能说明证据与限制",
+        "语法与搭配基本准确，语域适合对象",
+        "能自主组织语言而非照读范文"
+      ],
+      "scoring_basis": "开放表达：示范不是唯一答案；依量规自评或人工评阅，未接受人工评阅时不自动判定能力达标。",
+      "id": "C2-U11-CHECK-E02"
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "说明下文怎样帮助判断首句的非字面义。",
+      "stimulus_cs": "",
+      "answer": "Pohyb ručičky ukazuje, že hodiny fungují. První věta proto nejspíš vyjadřuje prožitek čekání, nikoli technický stav hodin.",
+      "explanation_zh": "由文本关系判断，保“最可能”。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "knowledge_points": [
+        "c2-style-function",
+        "c2-information-focus"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "回应具体任务，信息不失真",
+        "逻辑有衔接，能说明证据与限制",
+        "语法与搭配基本准确，语域适合对象",
+        "能自主组织语言而非照读范文"
+      ],
+      "scoring_basis": "开放表达：示范不是唯一答案；依量规自评或人工评阅，未接受人工评阅时不自动判定能力达标。",
+      "id": "C2-U11-CHECK-E03"
+    }
+  ],
+  "rubric": [
+    "理解未见材料中的主张及限定",
+    "主动表达时准确转述不同立场",
+    "区分事实、推断与建议",
+    "能针对误解调整解释方式"
+  ],
+  "remediation": [
+    {
+      "condition_zh": "误把可能性说成事实，或遗漏反方条件",
+      "lesson_ids": [
+        "C2-U11-L01"
+      ],
+      "action_zh": "重做信息定位与转述，标出每个判断的来源和语气词。"
+    },
+    {
+      "condition_zh": "表达卡住或只有单句结论",
+      "lesson_ids": [
+        "C2-U11-L01"
+      ],
+      "action_zh": "先列论点—依据—限制—行动四点，再换对象重录一次。"
+    }
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "C2-U11-CHECK",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U11-CHECK--2026.10.22.1--text--146d3354d2--normal.mp3",
+      "slow_file": "audio/files/C2-U11-CHECK--2026.10.22.1--text--146d3354d2--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U11-CHECK--2026.10.23.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Autorka napsala: V čekárně se čas neposouval. Editor změnil větu na: Hodiny v čekárně nefungovaly. V dalším odstavci přitom původní text popisuje, jak autorka každou minutu sledovala pohyb ručičky.",
+      "duration_seconds": 17.95496598639456,
+      "slow_duration_seconds": 20.21891156462585,
+      "sha256": "001bb3b51858edf3436b9b7ce301b766965a14f1ce49020dcbaa76c8d5892696",
+      "slow_sha256": "873473e1585cdf19e0992618929d3213eecb535e2c18a74f7b23d3e4f25c565d"
+    },
+    {
+      "lesson_id": "C2-U11-CHECK",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U11-CHECK--2026.10.22.1--text--146d3354d2--normal.mp3",
+      "slow_file": "audio/files/C2-U11-CHECK--2026.10.22.1--text--146d3354d2--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U11-CHECK--2026.10.23.1--text--p0",
+      "asset_id": "C2-U11-CHECK--2026.10.23.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Autorka napsala: V čekárně se čas neposouval. Editor změnil větu na: Hodiny v čekárně nefungovaly. V dalším odstavci přitom původní text popisuje, jak autorka každou minutu sledovala pohyb ručičky.",
+      "start": 0,
+      "end": 17.77496598639456,
+      "slow_start": 0,
+      "slow_end": 20.03891156462585
+    },
+    {
+      "lesson_id": "C2-U11-CHECK",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U11-CHECK--2026.10.22.1--text--146d3354d2--normal.mp3",
+      "slow_file": "audio/files/C2-U11-CHECK--2026.10.22.1--text--146d3354d2--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U11-CHECK--2026.10.23.1--text--s0",
+      "asset_id": "C2-U11-CHECK--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Autorka napsala: V čekárně se čas neposouval.",
+      "start": 0,
+      "end": 3.947392290249433,
+      "slow_start": 0,
+      "slow_end": 4.423401360544218
+    },
+    {
+      "lesson_id": "C2-U11-CHECK",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U11-CHECK--2026.10.22.1--text--146d3354d2--normal.mp3",
+      "slow_file": "audio/files/C2-U11-CHECK--2026.10.22.1--text--146d3354d2--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U11-CHECK--2026.10.23.1--text--s1",
+      "asset_id": "C2-U11-CHECK--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Editor změnil větu na: Hodiny v čekárně nefungovaly.",
+      "start": 4.127392290249433,
+      "end": 8.806213151927437,
+      "slow_start": 4.6034013605442174,
+      "slow_end": 9.897551020408164
+    },
+    {
+      "lesson_id": "C2-U11-CHECK",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U11-CHECK--2026.10.22.1--text--146d3354d2--normal.mp3",
+      "slow_file": "audio/files/C2-U11-CHECK--2026.10.22.1--text--146d3354d2--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U11-CHECK--2026.10.23.1--text--s2",
+      "asset_id": "C2-U11-CHECK--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "V dalším odstavci přitom původní text popisuje, jak autorka každou minutu sledovala pohyb ručičky.",
+      "start": 8.986213151927437,
+      "end": 17.77496598639456,
+      "slow_start": 10.077551020408164,
+      "slow_end": 20.03891156462585
+    }
+  ]
+}

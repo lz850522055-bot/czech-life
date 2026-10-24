@@ -1,0 +1,84 @@
+{
+  "id": "B2-U02-CHECK--2026.10.22.1--text",
+  "lesson_id": "B2-U02-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "B2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Tiskárna nabízí levnější tisk při odběru dvou tisíc letáků. Organizátor potřebuje jen osm set. Dodání do pátku je možné pouze při schválení návrhu do úterního poledne. Doprava není zahrnuta.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Tiskárna nabízí levnější tisk při odběru dvou tisíc letáků.",
+        "Organizátor potřebuje jen osm set.",
+        "Dodání do pátku je možné pouze při schválení návrhu do úterního poledne.",
+        "Doprava není zahrnuta."
+      ]
+    }
+  ],
+  "text_sha256": "7db0f9553d3a873e144a32b1347fa7a8345b11a6c80a54bb39ab13b10d55fef4",
+  "source_file": "content/assessments/B2-U02.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U02-CHECK--2026.10.22.1--text--7db0f9553d--normal.mp3",
+  "slow_file": "content/audio/files/B2-U02-CHECK--2026.10.22.1--text--7db0f9553d--slow.mp3",
+  "duration_seconds": 17.87954648526077,
+  "slow_duration_seconds": 20.120272108843537,
+  "cues": [
+    {
+      "text": "Tiskárna nabízí levnější tisk při odběru dvou tisíc letáků. Organizátor potřebuje jen osm set. Dodání do pátku je možné pouze při schválení návrhu do úterního poledne. Doprava není zahrnuta.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Tiskárna nabízí levnější tisk při odběru dvou tisíc letáků.",
+        "Organizátor potřebuje jen osm set.",
+        "Dodání do pátku je možné pouze při schválení návrhu do úterního poledne.",
+        "Doprava není zahrnuta."
+      ],
+      "start": 0.0,
+      "end": 17.699546485260772,
+      "sentences": [
+        {
+          "text": "Tiskárna nabízí levnější tisk při odběru dvou tisíc letáků.",
+          "start": 0.0,
+          "end": 5.6656689342403626,
+          "slow_start": 0.0,
+          "slow_end": 6.431927437641724
+        },
+        {
+          "text": "Organizátor potřebuje jen osm set.",
+          "start": 5.845668934240363,
+          "end": 9.189342403628117,
+          "slow_start": 6.611927437641723,
+          "slow_end": 10.431609977324262
+        },
+        {
+          "text": "Dodání do pátku je možné pouze při schválení návrhu do úterního poledne.",
+          "start": 9.369342403628117,
+          "end": 15.406530612244898,
+          "slow_start": 10.611609977324264,
+          "slow_end": 17.43827664399093
+        },
+        {
+          "text": "Doprava není zahrnuta.",
+          "start": 15.586530612244898,
+          "end": 17.699546485260772,
+          "slow_start": 17.618276643990928,
+          "slow_end": 19.940272108843537
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 19.940272108843537
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "548d24165b64b3be2f000078c108b17b356b6f461cb592bc85e3161870a5f993",
+    "slow": "cfe4baaffadc344b7d1c79bfa8a954ef6331a4000e8b1c619b033ad15580dd74"
+  }
+}

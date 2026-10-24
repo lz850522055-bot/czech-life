@@ -1,0 +1,75 @@
+{
+  "id": "A1-U11-L01--2026.10.22.1--listening",
+  "lesson_id": "A1-U11-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A1",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Jana je v obchodě. Potom jde k Evě. Mluví s Evou o rodině.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Jana je v obchodě.",
+        "Potom jde k Evě.",
+        "Mluví s Evou o rodině."
+      ]
+    }
+  ],
+  "text_sha256": "65b2b73b800c71d7958bcc6c2b1b89fbe3224c4372e135986e81bde8810175e2",
+  "source_file": "content/lessons/A1/A1-U11-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U11-L01--2026.10.22.1--listening--65b2b73b80--normal.mp3",
+  "slow_file": "content/audio/files/A1-U11-L01--2026.10.22.1--listening--65b2b73b80--slow.mp3",
+  "duration_seconds": 5.7877097505668935,
+  "slow_duration_seconds": 6.553968253968254,
+  "cues": [
+    {
+      "text": "Jana je v obchodě. Potom jde k Evě. Mluví s Evou o rodině.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Jana je v obchodě.",
+        "Potom jde k Evě.",
+        "Mluví s Evou o rodině."
+      ],
+      "start": 0.0,
+      "end": 5.607709750566894,
+      "sentences": [
+        {
+          "text": "Jana je v obchodě.",
+          "start": 0.0,
+          "end": 1.6137868480725623,
+          "slow_start": 0.0,
+          "slow_end": 1.822766439909297
+        },
+        {
+          "text": "Potom jde k Evě.",
+          "start": 1.7937868480725623,
+          "end": 3.2914739229024943,
+          "slow_start": 2.0027664399092973,
+          "slow_end": 3.709433106575964
+        },
+        {
+          "text": "Mluví s Evou o rodině.",
+          "start": 3.4714739229024945,
+          "end": 5.607709750566894,
+          "slow_start": 3.8894331065759635,
+          "slow_end": 6.373968253968254
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 6.373968253968254
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "f6e5664414b58f60b6811654e4f27c0bc3a8c6ac0bb4493799bd529ee436096d",
+    "slow": "c17606eaf3c2d11ae9dff0b25e82561c1bb82b3c943b81f7694b834fce328aba"
+  }
+}

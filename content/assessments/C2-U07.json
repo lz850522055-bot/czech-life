@@ -1,0 +1,200 @@
+{
+  "id": "C2-U07-CHECK",
+  "kind": "unit",
+  "level": "C2",
+  "unit_id": "C2-U07",
+  "title_zh": "被突然追问时，保住问题的边界：新情境检验",
+  "version": "2026.10.22.1",
+  "unseen_text": [
+    {
+      "cs": "Tazatel: Když doporučujete ověřování, znamená to, že nevěříte žádnému odborníkovi? Host má vysvětlit rozdíl mezi odmítáním odbornosti a kontrolou podkladů, ale nesmí tvrdit, že každý člověk zvládne sám posoudit každý obor.",
+      "zh": "问者把建议核查等同不信专家；需区分但不能宣称人人能独立评所有专业。"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "问题混淆了哪两件事？",
+      "stimulus_cs": "",
+      "answer": "a",
+      "explanation_zh": "前提过度二分。",
+      "skill_ids": [
+        "reading"
+      ],
+      "knowledge_points": [
+        "c2-question-framing",
+        "c2-spontaneous-reformulation"
+      ],
+      "error_category": "comprehension",
+      "options": [
+        {
+          "id": "a",
+          "text": "核查依据与拒绝专业能力"
+        },
+        {
+          "id": "b",
+          "text": "信任与完全正确同一事"
+        },
+        {
+          "id": "c",
+          "text": "任何检查都不尊重"
+        }
+      ],
+      "scoring_basis": "封闭题以答案核对；解析说明本题边界。",
+      "id": "C2-U07-CHECK-E01"
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "给30秒回应并承认外行边界。",
+      "stimulus_cs": "",
+      "answer": "Odbornost uznávám. Ověřování může znamenat požádat o vysvětlení podkladů nebo nezávislý odborný názor; neznamená, že sám posoudím každý technický detail.",
+      "explanation_zh": "不把核查说成外行万能。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "knowledge_points": [
+        "c2-question-framing",
+        "c2-spontaneous-reformulation"
+      ],
+      "error_category": "comprehension",
+      "rubric": [
+        "回应具体任务，信息不失真",
+        "逻辑有衔接，能说明证据与限制",
+        "语法与搭配基本准确，语域适合对象",
+        "能自主组织语言而非照读范文"
+      ],
+      "scoring_basis": "开放表达：示范不是唯一答案；依量规自评或人工评阅，未接受人工评阅时不自动判定能力达标。",
+      "id": "C2-U07-CHECK-E02"
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "写一个直接追问，获得专家判断的适用范围。",
+      "stimulus_cs": "",
+      "answer": "Za jakých podmínek váš závěr platí a které nové zjištění by jej mohlo změnit?",
+      "explanation_zh": "关注边界与更新，不是人身质疑。",
+      "skill_ids": [
+        "writing"
+      ],
+      "knowledge_points": [
+        "c2-question-framing",
+        "c2-spontaneous-reformulation"
+      ],
+      "error_category": "comprehension",
+      "rubric": [
+        "回应具体任务，信息不失真",
+        "逻辑有衔接，能说明证据与限制",
+        "语法与搭配基本准确，语域适合对象",
+        "能自主组织语言而非照读范文"
+      ],
+      "scoring_basis": "开放表达：示范不是唯一答案；依量规自评或人工评阅，未接受人工评阅时不自动判定能力达标。",
+      "id": "C2-U07-CHECK-E03"
+    }
+  ],
+  "rubric": [
+    "理解未见材料中的主张及限定",
+    "主动表达时准确转述不同立场",
+    "区分事实、推断与建议",
+    "能针对误解调整解释方式"
+  ],
+  "remediation": [
+    {
+      "condition_zh": "误把可能性说成事实，或遗漏反方条件",
+      "lesson_ids": [
+        "C2-U07-L01"
+      ],
+      "action_zh": "重做信息定位与转述，标出每个判断的来源和语气词。"
+    },
+    {
+      "condition_zh": "表达卡住或只有单句结论",
+      "lesson_ids": [
+        "C2-U07-L01"
+      ],
+      "action_zh": "先列论点—依据—限制—行动四点，再换对象重录一次。"
+    }
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "C2-U07-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U07-CHECK--2026.10.22.1--text--29f21cb64d--normal.mp3",
+      "slow_file": "audio/files/C2-U07-CHECK--2026.10.22.1--text--29f21cb64d--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U07-CHECK--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Tazatel: Když doporučujete ověřování, znamená to, že nevěříte žádnému odborníkovi? Host má vysvětlit rozdíl mezi odmítáním odbornosti a kontrolou podkladů, ale nesmí tvrdit, že každý člověk zvládne sám posoudit každý obor.",
+      "duration_seconds": 21.432108843537414,
+      "slow_duration_seconds": 23.951473922902494,
+      "sha256": "80ed2479a0f64714dfc4eb92c36bab6f673de37230f33ac8b1ad7395e37ffd83",
+      "slow_sha256": "a8165a957e4b4ccab5e14b981e76919adaf0cbe7226fb9b66aa7f48c2695b5e1"
+    },
+    {
+      "lesson_id": "C2-U07-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U07-CHECK--2026.10.22.1--text--29f21cb64d--normal.mp3",
+      "slow_file": "audio/files/C2-U07-CHECK--2026.10.22.1--text--29f21cb64d--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U07-CHECK--2026.10.22.1--text--p0",
+      "asset_id": "C2-U07-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Tazatel: Když doporučujete ověřování, znamená to, že nevěříte žádnému odborníkovi? Host má vysvětlit rozdíl mezi odmítáním odbornosti a kontrolou podkladů, ale nesmí tvrdit, že každý člověk zvládne sám posoudit každý obor.",
+      "start": 0,
+      "end": 21.252108843537414,
+      "slow_start": 0,
+      "slow_end": 23.771473922902494
+    },
+    {
+      "lesson_id": "C2-U07-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U07-CHECK--2026.10.22.1--text--29f21cb64d--normal.mp3",
+      "slow_file": "audio/files/C2-U07-CHECK--2026.10.22.1--text--29f21cb64d--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U07-CHECK--2026.10.22.1--text--s0",
+      "asset_id": "C2-U07-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Tazatel: Když doporučujete ověřování, znamená to, že nevěříte žádnému odborníkovi?",
+      "start": 0,
+      "end": 7.523265306122449,
+      "slow_start": 0,
+      "slow_end": 8.486893424036282
+    },
+    {
+      "lesson_id": "C2-U07-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C2-U07-CHECK--2026.10.22.1--text--29f21cb64d--normal.mp3",
+      "slow_file": "audio/files/C2-U07-CHECK--2026.10.22.1--text--29f21cb64d--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C2-U07-CHECK--2026.10.22.1--text--s1",
+      "asset_id": "C2-U07-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Host má vysvětlit rozdíl mezi odmítáním odbornosti a kontrolou podkladů, ale nesmí tvrdit, že každý člověk zvládne sám posoudit každý obor.",
+      "start": 7.703265306122449,
+      "end": 21.252108843537414,
+      "slow_start": 8.666893424036282,
+      "slow_end": 23.771473922902494
+    }
+  ]
+}

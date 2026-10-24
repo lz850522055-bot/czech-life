@@ -1,0 +1,68 @@
+{
+  "id": "C1-U03-L01--2026.10.22.1--exercises",
+  "lesson_id": "C1-U03-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Před zveřejněním termínu potřebujeme vědět, kdo akci zajistí. Když to vyřešíte, můžeme o datu jednat.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "C1-U03-L01-E06",
+      "parts": [
+        "Před zveřejněním termínu potřebujeme vědět, kdo akci zajistí.",
+        "Když to vyřešíte, můžeme o datu jednat."
+      ]
+    }
+  ],
+  "text_sha256": "d8b855922b1b4366cbf5585b2188744d79f272ab6edfc1c849c1ebe949b31ce3",
+  "source_file": "content/lessons/C1/C1-U03-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U03-L01--2026.10.22.1--exercises--d8b855922b--normal.mp3",
+  "slow_file": "content/audio/files/C1-U03-L01--2026.10.22.1--exercises--d8b855922b--slow.mp3",
+  "duration_seconds": 8.870113378684808,
+  "slow_duration_seconds": 10.147210884353742,
+  "cues": [
+    {
+      "text": "Před zveřejněním termínu potřebujeme vědět, kdo akci zajistí. Když to vyřešíte, můžeme o datu jednat.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "C1-U03-L01-E06",
+      "parts": [
+        "Před zveřejněním termínu potřebujeme vědět, kdo akci zajistí.",
+        "Když to vyřešíte, můžeme o datu jednat."
+      ],
+      "start": 0.0,
+      "end": 8.690113378684806,
+      "sentences": [
+        {
+          "text": "Před zveřejněním termínu potřebujeme vědět, kdo akci zajistí.",
+          "start": 0.0,
+          "end": 5.085170068027211,
+          "slow_start": 0.0,
+          "slow_end": 5.804988662131519
+        },
+        {
+          "text": "Když to vyřešíte, můžeme o datu jednat.",
+          "start": 5.265170068027211,
+          "end": 8.690113378684806,
+          "slow_start": 5.984988662131519,
+          "slow_end": 9.967210884353742
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 9.967210884353742
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "78d5e1a4cd1416cdfc940a960bc748bbc57f07463b2278e2af1467f91a655d36",
+    "slow": "a88d05d5da4e99df82fed3dd58e83de1c05143b3e1f4d85e7f3d8e2cd9a8edfb"
+  }
+}

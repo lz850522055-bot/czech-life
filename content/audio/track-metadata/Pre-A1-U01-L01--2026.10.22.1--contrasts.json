@@ -1,0 +1,57 @@
+{
+  "id": "Pre-A1-U01-L01--2026.10.22.1--contrasts",
+  "lesson_id": "Pre-A1-U01-L01",
+  "content_version": "2026.10.22.1",
+  "level": "Pre-A1",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "cena. čaj.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "cena. čaj."
+      ]
+    }
+  ],
+  "text_sha256": "5e531fe5dbef810900c543a6d6103c7e17bdae46bb02c6d5315588cb2b91490d",
+  "source_file": "content/lessons/Pre-A1/Pre-A1-U01-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/Pre-A1-U01-L01--2026.10.22.1--contrasts--5e531fe5db--normal.mp3",
+  "slow_file": "content/audio/files/Pre-A1-U01-L01--2026.10.22.1--contrasts--5e531fe5db--slow.mp3",
+  "duration_seconds": 1.3177777777777777,
+  "slow_duration_seconds": 1.4338775510204083,
+  "cues": [
+    {
+      "text": "cena. čaj.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "cena. čaj."
+      ],
+      "start": 0.0,
+      "end": 1.1377777777777778,
+      "sentences": [
+        {
+          "text": "cena. čaj.",
+          "start": 0.0,
+          "end": 1.1377777777777778,
+          "slow_start": 0.0,
+          "slow_end": 1.253877551020408
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.253877551020408
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "e3a014ed841076321115c660296e438ea4b9a58c7bb7b7451497deb345ed3f1d",
+    "slow": "236992483caa72d9d4884361079274c21fedf89fc509f912dc94ff5ae8ba112b"
+  }
+}

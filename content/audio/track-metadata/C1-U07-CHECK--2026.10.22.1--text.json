@@ -1,0 +1,75 @@
+{
+  "id": "C1-U07-CHECK--2026.10.22.1--text",
+  "lesson_id": "C1-U07-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Organizátor píše: Předpokládáme, že registrace skončí během příštího týdne. Kolega upravil zprávu pro sociální síť: Přihlášky zavíráme v pondělí. Přesný den však ještě stanoven nebyl.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Organizátor píše: Předpokládáme, že registrace skončí během příštího týdne.",
+        "Kolega upravil zprávu pro sociální síť: Přihlášky zavíráme v pondělí.",
+        "Přesný den však ještě stanoven nebyl."
+      ]
+    }
+  ],
+  "text_sha256": "91bb6dce6ca57c68486b9edd43c5691b0e14f0816afc289a83c11535f44826d4",
+  "source_file": "content/assessments/C1-U07.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U07-CHECK--2026.10.22.1--text--91bb6dce6c--normal.mp3",
+  "slow_file": "content/audio/files/C1-U07-CHECK--2026.10.22.1--text--91bb6dce6c--slow.mp3",
+  "duration_seconds": 17.420907029478457,
+  "slow_duration_seconds": 19.208843537414968,
+  "cues": [
+    {
+      "text": "Organizátor píše: Předpokládáme, že registrace skončí během příštího týdne. Kolega upravil zprávu pro sociální síť: Přihlášky zavíráme v pondělí. Přesný den však ještě stanoven nebyl.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Organizátor píše: Předpokládáme, že registrace skončí během příštího týdne.",
+        "Kolega upravil zprávu pro sociální síť: Přihlášky zavíráme v pondělí.",
+        "Přesný den však ještě stanoven nebyl."
+      ],
+      "start": 0.0,
+      "end": 17.240907029478457,
+      "sentences": [
+        {
+          "text": "Organizátor píše: Předpokládáme, že registrace skončí během příštího týdne.",
+          "start": 0.0,
+          "end": 6.942766439909297,
+          "slow_start": 0.0,
+          "slow_end": 7.929614512471655
+        },
+        {
+          "text": "Kolega upravil zprávu pro sociální síť: Přihlášky zavíráme v pondělí.",
+          "start": 7.122766439909297,
+          "end": 13.612743764172336,
+          "slow_start": 8.109614512471655,
+          "slow_end": 15.075600907029479
+        },
+        {
+          "text": "Přesný den však ještě stanoven nebyl.",
+          "start": 13.792743764172336,
+          "end": 17.240907029478457,
+          "slow_start": 15.255600907029478,
+          "slow_end": 19.028843537414964
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 19.028843537414964
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "0bdaefb208456bc0471883e02387faac742e9c9520e481667591eab64dd5b99e",
+    "slow": "4c97d8fe3662ac6616b9593545fa29be02897e6152a73a3639bfe5178f9c20f4"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "B2-U02-L01--2026.10.23.1--contrasts",
+  "lesson_id": "B2-U02-L01",
+  "content_version": "2026.10.23.1",
+  "level": "B2",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "doručit. odeslat.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "doručit. odeslat."
+      ]
+    }
+  ],
+  "text_sha256": "e28dee9201cd245081f45160491dfb1d4afa38a9fef16529176de68448bf3d8b",
+  "source_file": "content/lessons/B2/B2-U02-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U02-L01--2026.10.22.1--contrasts--e28dee9201--normal.mp3",
+  "slow_file": "content/audio/files/B2-U02-L01--2026.10.22.1--contrasts--e28dee9201--slow.mp3",
+  "duration_seconds": 1.8518367346938776,
+  "slow_duration_seconds": 2.0840362811791384,
+  "cues": [
+    {
+      "text": "doručit. odeslat.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "doručit. odeslat."
+      ],
+      "start": 0.0,
+      "end": 1.6718367346938776,
+      "sentences": [
+        {
+          "text": "doručit. odeslat.",
+          "start": 0.0,
+          "end": 1.6718367346938776,
+          "slow_start": 0.0,
+          "slow_end": 1.9040362811791383
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.9040362811791383
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "a1401f043fd712521cb53571800d9b1daf6ce3ebd15d5674d0819be9e9d88cb8",
+    "slow": "12a57486ebfcc5f42313348086ee164e8db206bb108ce70bcd68a9a84134570f"
+  },
+  "reused_from_track_id": "B2-U02-L01--2026.10.22.1--contrasts"
+}

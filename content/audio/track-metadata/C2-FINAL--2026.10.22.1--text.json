@@ -1,0 +1,692 @@
+{
+  "id": "C2-FINAL--2026.10.22.1--text",
+  "lesson_id": "C2-FINAL",
+  "content_version": "2026.10.22.1",
+  "level": "C2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Podklad A — pravidla literárního pobytu: Organizátor obdržel čtyřicet osm anonymizovaných návrhů, z nichž šest postoupilo k rozhovoru. Konečný účastník zatím vybrán nebyl. Zveřejněná kritéria zahrnovala srozumitelnost záměru, vztah k místu a možnost uskutečnit práci během pobytu. Porota uvedla, že žádný návrh nebyl odmítnut pouze kvůli neobvyklému stylu. Toto ujištění nemělo znamenat, že styl při hodnocení nehrál žádnou roli nebo že anonymizace odstranila všechny možné předsudky. Odstraněna byla jména a výslovné životopisné údaje; některé zkušenosti či profesní zázemí bylo přesto možné z textu odhadovat. Organizátor tento rozdíl v krátkém oznámení nevysvětlil.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Podklad A — pravidla literárního pobytu: Organizátor obdržel čtyřicet osm anonymizovaných návrhů, z nichž šest postoupilo k rozhovoru.",
+        "Konečný účastník zatím vybrán nebyl.",
+        "Zveřejněná kritéria zahrnovala srozumitelnost záměru, vztah k místu a možnost uskutečnit práci během pobytu.",
+        "Porota uvedla, že žádný návrh nebyl odmítnut pouze kvůli neobvyklému stylu.",
+        "Toto ujištění nemělo znamenat, že styl při hodnocení nehrál žádnou roli nebo že anonymizace odstranila všechny možné předsudky.",
+        "Odstraněna byla jména a výslovné životopisné údaje; některé zkušenosti či profesní zázemí bylo přesto možné z textu odhadovat.",
+        "Organizátor tento rozdíl v krátkém oznámení nevysvětlil."
+      ]
+    },
+    {
+      "text": "Podklad B — pracovní poznámka: Návrh označený P má jasné téma, ale neurčitý výsledek. Autor chce sledovat, jak lidé vyprávějí o místech, která běžně míjejí. Nepředkládá seznam hotových příběhů, protože právě jejich nepředvídatelnost považuje za součást práce. Část poroty ocenila soulad této metody s tématem; jiná požadovala konkrétnější způsob, jak z rozhovorů vznikne čitelný celek. Poznámka končí větou: „Otevřenost nemůže být jen jiným jménem pro chybějící přípravu.“ Věta upozorňuje na riziko, nerozhoduje však sama o sobě, že právě tento autor přípravu zanedbal. K tomu by bylo třeba znát více než jeho krátkou ukázku.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Podklad B — pracovní poznámka: Návrh označený P má jasné téma, ale neurčitý výsledek.",
+        "Autor chce sledovat, jak lidé vyprávějí o místech, která běžně míjejí.",
+        "Nepředkládá seznam hotových příběhů, protože právě jejich nepředvídatelnost považuje za součást práce.",
+        "Část poroty ocenila soulad této metody s tématem; jiná požadovala konkrétnější způsob, jak z rozhovorů vznikne čitelný celek.",
+        "Poznámka končí větou: „Otevřenost nemůže být jen jiným jménem pro chybějící přípravu.“",
+        "Věta upozorňuje na riziko, nerozhoduje však sama o sobě, že právě tento autor přípravu zanedbal.",
+        "K tomu by bylo třeba znát více než jeho krátkou ukázku."
+      ]
+    },
+    {
+      "text": "Podklad C — původní literární ukázka: Přijel jsem do města s plánem nechat se překvapit. Pro jistotu jsem si překvapení rozdělil do čtyř odpolední a na mapě vyznačil ulice, v nichž by se mělo dostavit. Nejvíc mě lákal bílý obdélník mezi domy. Považoval jsem jej za místo, které zatím nikoho nenapadlo zakreslit. Až na místě jsem zjistil, že jde o dvůr, kam někdo právě věšel prádlo. Chtěl jsem se zeptat na minulost domu, ale žena v okně se mě zeptala, zda hledám jejího syna. Moje připravená první otázka tím ztratila půdu pod nohama.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Podklad C — původní literární ukázka: Přijel jsem do města s plánem nechat se překvapit.",
+        "Pro jistotu jsem si překvapení rozdělil do čtyř odpolední a na mapě vyznačil ulice, v nichž by se mělo dostavit.",
+        "Nejvíc mě lákal bílý obdélník mezi domy.",
+        "Považoval jsem jej za místo, které zatím nikoho nenapadlo zakreslit.",
+        "Až na místě jsem zjistil, že jde o dvůr, kam někdo právě věšel prádlo.",
+        "Chtěl jsem se zeptat na minulost domu, ale žena v okně se mě zeptala, zda hledám jejího syna.",
+        "Moje připravená první otázka tím ztratila půdu pod nohama."
+      ]
+    },
+    {
+      "text": "Byla to docela obyčejná otázka, napsal jsem večer do poznámek. Pak jsem slovo obyčejná přeškrtl. Obyčejná byla jen z pohledu člověka, který si přivezl vlastní neobyčejný příběh a hledal do něj obsazení. Žena nezpochybnila můj projekt; nevěděla o něm. Přesto mi na okamžik připomněla, že její dvůr není prázdné místo čekající na mou větu. Poznávat neznámé je příjemné, pokud se předtím podaří zařídit, aby všechno bylo známé. Tuto myšlenku jsem si podtrhl a hned se zastyděl, jak snadno z vlastního zaváhání dělám závěr pro ostatní. Druhý den jsem se vrátil. Nevím ještě, zda proto, abych se zeptal lépe, nebo abych zachránil včerejší začátek.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Byla to docela obyčejná otázka, napsal jsem večer do poznámek.",
+        "Pak jsem slovo obyčejná přeškrtl.",
+        "Obyčejná byla jen z pohledu člověka, který si přivezl vlastní neobyčejný příběh a hledal do něj obsazení.",
+        "Žena nezpochybnila můj projekt; nevěděla o něm.",
+        "Přesto mi na okamžik připomněla, že její dvůr není prázdné místo čekající na mou větu.",
+        "Poznávat neznámé je příjemné, pokud se předtím podaří zařídit, aby všechno bylo známé.",
+        "Tuto myšlenku jsem si podtrhl a hned se zastyděl, jak snadno z vlastního zaváhání dělám závěr pro ostatní.",
+        "Druhý den jsem se vrátil.",
+        "Nevím ještě, zda proto, abych se zeptal lépe, nebo abych zachránil včerejší začátek."
+      ]
+    },
+    {
+      "text": "Podklad D — první posudek: Síla ukázky nespočívá v mimořádnosti události, ale v tom, jak se vypravěč přistihuje při přivlastňování cizí zkušenosti. Škrtnuté slovo není ozdobou; mění perspektivu. Poslední věta ponechává motivaci otevřenou a brání snadnému příběhu o napraveném návštěvníkovi. Kdyby autor závěr nahradil jistotou, že druhý den už všemu porozuměl, text by se podle posuzovatelky oslabil. Současně dodává, že vědomá práce s nejistotou nezbavuje autora povinnosti uspořádat větší celek. Oceňuje funkci konkrétního prostředku, nikoli libovolnou nedokončenost jako hodnotu samu o sobě. Její souhlas se zařazením do rozhovoru není bezvýhradným doporučením k výběru.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Podklad D — první posudek: Síla ukázky nespočívá v mimořádnosti události, ale v tom, jak se vypravěč přistihuje při přivlastňování cizí zkušenosti.",
+        "Škrtnuté slovo není ozdobou; mění perspektivu.",
+        "Poslední věta ponechává motivaci otevřenou a brání snadnému příběhu o napraveném návštěvníkovi.",
+        "Kdyby autor závěr nahradil jistotou, že druhý den už všemu porozuměl, text by se podle posuzovatelky oslabil.",
+        "Současně dodává, že vědomá práce s nejistotou nezbavuje autora povinnosti uspořádat větší celek.",
+        "Oceňuje funkci konkrétního prostředku, nikoli libovolnou nedokončenost jako hodnotu samu o sobě.",
+        "Její souhlas se zařazením do rozhovoru není bezvýhradným doporučením k výběru."
+      ]
+    },
+    {
+      "text": "Podklad E — druhý posudek: „Tento odstup by byl vítaný, kdyby se text občas přestal dívat sám na sebe,“ píše další člen poroty. Považuje sebekorekci za příliš předvídatelnou a pochybuje, zda čtenář potřebuje být ke každému obratu veden vysvětlením. Nežádá odstranění všech pochybností ani jednoznačně šťastný konec. Jeho výhrada míří k účinku provedení: zda text umožňuje zkušenost, kterou následně pojmenovává, nebo ji pouze vysvětluje místo toho, aby ji vytvořil. S prvním posudkem se tedy může shodnout na obecné hodnotě otevřenosti a zároveň neshodnout na kvalitě konkrétní ukázky. Rozdíl nelze vyřešit pouhým vyjmenováním společných slov.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Podklad E — druhý posudek: „Tento odstup by byl vítaný, kdyby se text občas přestal dívat sám na sebe,“ píše další člen poroty.",
+        "Považuje sebekorekci za příliš předvídatelnou a pochybuje, zda čtenář potřebuje být ke každému obratu veden vysvětlením.",
+        "Nežádá odstranění všech pochybností ani jednoznačně šťastný konec.",
+        "Jeho výhrada míří k účinku provedení: zda text umožňuje zkušenost, kterou následně pojmenovává, nebo ji pouze vysvětluje místo toho, aby ji vytvořil.",
+        "S prvním posudkem se tedy může shodnout na obecné hodnotě otevřenosti a zároveň neshodnout na kvalitě konkrétní ukázky.",
+        "Rozdíl nelze vyřešit pouhým vyjmenováním společných slov."
+      ]
+    },
+    {
+      "text": "Mimo porotu se mezitím rozšířilo shrnutí, podle něhož komise odmítla přehledné projekty a rozhodla se odměnit neurčitost. Tato formulace slučovala několik posunů: postup k rozhovoru změnila v konečný výběr, vlastnost jednoho návrhu zobecnila na všechny a z kritické otázky udělala důkaz předem přijatého postoje. Koordinátorka chtěla zveřejnit stručné upřesnění. Nemohla přitom jednoduše prohlásit, že každý výklad je stejně oprávněný; některé části shrnutí odporovaly doloženému stavu. Neměla však ani vydávat vlastní obhajobu literární metody za jednotné stanovisko celé poroty. Potřebovala oddělit opravu ověřitelných údajů od pokračujícího sporu o kvalitu.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Mimo porotu se mezitím rozšířilo shrnutí, podle něhož komise odmítla přehledné projekty a rozhodla se odměnit neurčitost.",
+        "Tato formulace slučovala několik posunů: postup k rozhovoru změnila v konečný výběr, vlastnost jednoho návrhu zobecnila na všechny a z kritické otázky udělala důkaz předem přijatého postoje.",
+        "Koordinátorka chtěla zveřejnit stručné upřesnění.",
+        "Nemohla přitom jednoduše prohlásit, že každý výklad je stejně oprávněný; některé části shrnutí odporovaly doloženému stavu.",
+        "Neměla však ani vydávat vlastní obhajobu literární metody za jednotné stanovisko celé poroty.",
+        "Potřebovala oddělit opravu ověřitelných údajů od pokračujícího sporu o kvalitu."
+      ]
+    },
+    {
+      "text": "Před rozhovory se ukázalo, že jeden z uchazečů nemůže přijet osobně. Návrh umožnit mu jinou formu odpovědi vyvolal další otázku: stejná příležitost nemusí znamenat doslova stejnou situaci, ale odlišnost nelze prostě prohlásit za bezvýznamnou. Porota se rozhodla nejprve určit, co chce rozhovorem zjistit a jak budou odpovědi posuzovány. Teprve potom má upravit konkrétní průběh. Do společného podkladu zaznamenala otázky otevřené pro každého uchazeče a také ty, které vycházejí z jeho vlastního návrhu. Dosud není dohodnuto, zda všichni dostanou možnost písemného doplnění. Veřejné oznámení proto nemá tvrdit, že všechny podmínky dalšího kola už byly uzavřeny.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Před rozhovory se ukázalo, že jeden z uchazečů nemůže přijet osobně.",
+        "Návrh umožnit mu jinou formu odpovědi vyvolal další otázku: stejná příležitost nemusí znamenat doslova stejnou situaci, ale odlišnost nelze prostě prohlásit za bezvýznamnou.",
+        "Porota se rozhodla nejprve určit, co chce rozhovorem zjistit a jak budou odpovědi posuzovány.",
+        "Teprve potom má upravit konkrétní průběh.",
+        "Do společného podkladu zaznamenala otázky otevřené pro každého uchazeče a také ty, které vycházejí z jeho vlastního návrhu.",
+        "Dosud není dohodnuto, zda všichni dostanou možnost písemného doplnění.",
+        "Veřejné oznámení proto nemá tvrdit, že všechny podmínky dalšího kola už byly uzavřeny."
+      ]
+    }
+  ],
+  "text_sha256": "bf96874a77a3b636a8bb511910f20c0f8a80779e63b208f480aa6e91cb40d438",
+  "source_file": "content/assessments/C2-FINAL.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-FINAL--2026.10.22.1--text--bf96874a77--normal.mp3",
+  "slow_file": "content/audio/files/C2-FINAL--2026.10.22.1--text--bf96874a77--slow.mp3",
+  "duration_seconds": 464.51773242630384,
+  "slow_duration_seconds": 523.1713378684807,
+  "cues": [
+    {
+      "text": "Podklad A — pravidla literárního pobytu: Organizátor obdržel čtyřicet osm anonymizovaných návrhů, z nichž šest postoupilo k rozhovoru. Konečný účastník zatím vybrán nebyl. Zveřejněná kritéria zahrnovala srozumitelnost záměru, vztah k místu a možnost uskutečnit práci během pobytu. Porota uvedla, že žádný návrh nebyl odmítnut pouze kvůli neobvyklému stylu. Toto ujištění nemělo znamenat, že styl při hodnocení nehrál žádnou roli nebo že anonymizace odstranila všechny možné předsudky. Odstraněna byla jména a výslovné životopisné údaje; některé zkušenosti či profesní zázemí bylo přesto možné z textu odhadovat. Organizátor tento rozdíl v krátkém oznámení nevysvětlil.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Podklad A — pravidla literárního pobytu: Organizátor obdržel čtyřicet osm anonymizovaných návrhů, z nichž šest postoupilo k rozhovoru.",
+        "Konečný účastník zatím vybrán nebyl.",
+        "Zveřejněná kritéria zahrnovala srozumitelnost záměru, vztah k místu a možnost uskutečnit práci během pobytu.",
+        "Porota uvedla, že žádný návrh nebyl odmítnut pouze kvůli neobvyklému stylu.",
+        "Toto ujištění nemělo znamenat, že styl při hodnocení nehrál žádnou roli nebo že anonymizace odstranila všechny možné předsudky.",
+        "Odstraněna byla jména a výslovné životopisné údaje; některé zkušenosti či profesní zázemí bylo přesto možné z textu odhadovat.",
+        "Organizátor tento rozdíl v krátkém oznámení nevysvětlil."
+      ],
+      "start": 0.0,
+      "end": 61.46349206349206,
+      "sentences": [
+        {
+          "text": "Podklad A — pravidla literárního pobytu: Organizátor obdržel čtyřicet osm anonymizovaných návrhů, z nichž šest postoupilo k rozhovoru.",
+          "start": 0.0,
+          "end": 11.969886621315192,
+          "slow_start": 0.0,
+          "slow_end": 13.40952380952381
+        },
+        {
+          "text": "Konečný účastník zatím vybrán nebyl.",
+          "start": 12.149886621315193,
+          "end": 16.30625850340136,
+          "slow_start": 13.58952380952381,
+          "slow_end": 18.29156462585034
+        },
+        {
+          "text": "Zveřejněná kritéria zahrnovala srozumitelnost záměru, vztah k místu a možnost uskutečnit práci během pobytu.",
+          "start": 16.48625850340136,
+          "end": 26.91201814058957,
+          "slow_start": 18.47156462585034,
+          "slow_end": 29.919002267573696
+        },
+        {
+          "text": "Porota uvedla, že žádný návrh nebyl odmítnut pouze kvůli neobvyklému stylu.",
+          "start": 27.09201814058957,
+          "end": 33.86063492063492,
+          "slow_start": 30.099002267573695,
+          "slow_end": 37.56421768707483
+        },
+        {
+          "text": "Toto ujištění nemělo znamenat, že styl při hodnocení nehrál žádnou roli nebo že anonymizace odstranila všechny možné předsudky.",
+          "start": 34.04063492063492,
+          "end": 44.84952380952381,
+          "slow_start": 37.74421768707483,
+          "slow_end": 50.16689342403628
+        },
+        {
+          "text": "Odstraněna byla jména a výslovné životopisné údaje; některé zkušenosti či profesní zázemí bylo přesto možné z textu odhadovat.",
+          "start": 45.02952380952381,
+          "end": 56.23315192743764,
+          "slow_start": 50.34689342403628,
+          "slow_end": 63.41972789115646
+        },
+        {
+          "text": "Organizátor tento rozdíl v krátkém oznámení nevysvětlil.",
+          "start": 56.41315192743764,
+          "end": 61.46349206349206,
+          "slow_start": 63.59972789115646,
+          "slow_end": 69.32344671201814
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 69.32344671201814
+    },
+    {
+      "text": "Podklad B — pracovní poznámka: Návrh označený P má jasné téma, ale neurčitý výsledek. Autor chce sledovat, jak lidé vyprávějí o místech, která běžně míjejí. Nepředkládá seznam hotových příběhů, protože právě jejich nepředvídatelnost považuje za součást práce. Část poroty ocenila soulad této metody s tématem; jiná požadovala konkrétnější způsob, jak z rozhovorů vznikne čitelný celek. Poznámka končí větou: „Otevřenost nemůže být jen jiným jménem pro chybějící přípravu.“ Věta upozorňuje na riziko, nerozhoduje však sama o sobě, že právě tento autor přípravu zanedbal. K tomu by bylo třeba znát více než jeho krátkou ukázku.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Podklad B — pracovní poznámka: Návrh označený P má jasné téma, ale neurčitý výsledek.",
+        "Autor chce sledovat, jak lidé vyprávějí o místech, která běžně míjejí.",
+        "Nepředkládá seznam hotových příběhů, protože právě jejich nepředvídatelnost považuje za součást práce.",
+        "Část poroty ocenila soulad této metody s tématem; jiná požadovala konkrétnější způsob, jak z rozhovorů vznikne čitelný celek.",
+        "Poznámka končí větou: „Otevřenost nemůže být jen jiným jménem pro chybějící přípravu.“",
+        "Věta upozorňuje na riziko, nerozhoduje však sama o sobě, že právě tento autor přípravu zanedbal.",
+        "K tomu by bylo třeba znát více než jeho krátkou ukázku."
+      ],
+      "start": 61.64349206349206,
+      "end": 117.98698412698413,
+      "sentences": [
+        {
+          "text": "Podklad B — pracovní poznámka: Návrh označený P má jasné téma, ale neurčitý výsledek.",
+          "start": 61.64349206349206,
+          "end": 70.16521541950114,
+          "slow_start": 69.50344671201815,
+          "slow_end": 79.11650793650794
+        },
+        {
+          "text": "Autor chce sledovat, jak lidé vyprávějí o místech, která běžně míjejí.",
+          "start": 70.34521541950113,
+          "end": 76.17342403628118,
+          "slow_start": 79.29650793650794,
+          "slow_end": 85.94902494331066
+        },
+        {
+          "text": "Nepředkládá seznam hotových příběhů, protože právě jejich nepředvídatelnost považuje za součást práce.",
+          "start": 76.35342403628118,
+          "end": 85.24666666666667,
+          "slow_start": 86.12902494331065,
+          "slow_end": 96.38063492063492
+        },
+        {
+          "text": "Část poroty ocenila soulad této metody s tématem; jiná požadovala konkrétnější způsob, jak z rozhovorů vznikne čitelný celek.",
+          "start": 85.42666666666666,
+          "end": 96.57224489795918,
+          "slow_start": 96.56063492063493,
+          "slow_end": 109.14585034013605
+        },
+        {
+          "text": "Poznámka končí větou: „Otevřenost nemůže být jen jiným jménem pro chybějící přípravu.“",
+          "start": 96.75224489795919,
+          "end": 104.55414965986395,
+          "slow_start": 109.32585034013606,
+          "slow_end": 118.18426303854875
+        },
+        {
+          "text": "Věta upozorňuje na riziko, nerozhoduje však sama o sobě, že právě tento autor přípravu zanedbal.",
+          "start": 104.73414965986395,
+          "end": 112.94240362811792,
+          "slow_start": 118.36426303854876,
+          "slow_end": 127.53614512471655
+        },
+        {
+          "text": "K tomu by bylo třeba znát více než jeho krátkou ukázku.",
+          "start": 113.12240362811791,
+          "end": 117.98698412698413,
+          "slow_start": 127.71614512471655,
+          "slow_end": 133.16122448979593
+        }
+      ],
+      "slow_start": 69.50344671201815,
+      "slow_end": 133.16122448979593
+    },
+    {
+      "text": "Podklad C — původní literární ukázka: Přijel jsem do města s plánem nechat se překvapit. Pro jistotu jsem si překvapení rozdělil do čtyř odpolední a na mapě vyznačil ulice, v nichž by se mělo dostavit. Nejvíc mě lákal bílý obdélník mezi domy. Považoval jsem jej za místo, které zatím nikoho nenapadlo zakreslit. Až na místě jsem zjistil, že jde o dvůr, kam někdo právě věšel prádlo. Chtěl jsem se zeptat na minulost domu, ale žena v okně se mě zeptala, zda hledám jejího syna. Moje připravená první otázka tím ztratila půdu pod nohama.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Podklad C — původní literární ukázka: Přijel jsem do města s plánem nechat se překvapit.",
+        "Pro jistotu jsem si překvapení rozdělil do čtyř odpolední a na mapě vyznačil ulice, v nichž by se mělo dostavit.",
+        "Nejvíc mě lákal bílý obdélník mezi domy.",
+        "Považoval jsem jej za místo, které zatím nikoho nenapadlo zakreslit.",
+        "Až na místě jsem zjistil, že jde o dvůr, kam někdo právě věšel prádlo.",
+        "Chtěl jsem se zeptat na minulost domu, ale žena v okně se mě zeptala, zda hledám jejího syna.",
+        "Moje připravená první otázka tím ztratila půdu pod nohama."
+      ],
+      "start": 118.16698412698413,
+      "end": 165.3966439909297,
+      "sentences": [
+        {
+          "text": "Podklad C — původní literární ukázka: Přijel jsem do města s plánem nechat se překvapit.",
+          "start": 118.16698412698413,
+          "end": 126.36362811791383,
+          "slow_start": 133.3412244897959,
+          "slow_end": 142.55954648526077
+        },
+        {
+          "text": "Pro jistotu jsem si překvapení rozdělil do čtyř odpolední a na mapě vyznačil ulice, v nichž by se mělo dostavit.",
+          "start": 126.54362811791383,
+          "end": 135.6574603174603,
+          "slow_start": 142.73954648526077,
+          "slow_end": 152.92149659863946
+        },
+        {
+          "text": "Nejvíc mě lákal bílý obdélník mezi domy.",
+          "start": 135.8374603174603,
+          "end": 139.6687528344671,
+          "slow_start": 153.10149659863944,
+          "slow_end": 157.52489795918368
+        },
+        {
+          "text": "Považoval jsem jej za místo, které zatím nikoho nenapadlo zakreslit.",
+          "start": 139.84875283446712,
+          "end": 145.59569160997734,
+          "slow_start": 157.70489795918368,
+          "slow_end": 164.0439455782313
+        },
+        {
+          "text": "Až na místě jsem zjistil, že jde o dvůr, kam někdo právě věšel prádlo.",
+          "start": 145.77569160997732,
+          "end": 151.92897959183674,
+          "slow_start": 164.22394557823128,
+          "slow_end": 171.1318820861678
+        },
+        {
+          "text": "Chtěl jsem se zeptat na minulost domu, ale žena v okně se mě zeptala, zda hledám jejího syna.",
+          "start": 152.10897959183674,
+          "end": 160.0966439909297,
+          "slow_start": 171.3118820861678,
+          "slow_end": 180.5766439909297
+        },
+        {
+          "text": "Moje připravená první otázka tím ztratila půdu pod nohama.",
+          "start": 160.2766439909297,
+          "end": 165.3966439909297,
+          "slow_start": 180.75664399092972,
+          "slow_end": 186.42231292517008
+        }
+      ],
+      "slow_start": 133.3412244897959,
+      "slow_end": 186.42231292517008
+    },
+    {
+      "text": "Byla to docela obyčejná otázka, napsal jsem večer do poznámek. Pak jsem slovo obyčejná přeškrtl. Obyčejná byla jen z pohledu člověka, který si přivezl vlastní neobyčejný příběh a hledal do něj obsazení. Žena nezpochybnila můj projekt; nevěděla o něm. Přesto mi na okamžik připomněla, že její dvůr není prázdné místo čekající na mou větu. Poznávat neznámé je příjemné, pokud se předtím podaří zařídit, aby všechno bylo známé. Tuto myšlenku jsem si podtrhl a hned se zastyděl, jak snadno z vlastního zaváhání dělám závěr pro ostatní. Druhý den jsem se vrátil. Nevím ještě, zda proto, abych se zeptal lépe, nebo abych zachránil včerejší začátek.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Byla to docela obyčejná otázka, napsal jsem večer do poznámek.",
+        "Pak jsem slovo obyčejná přeškrtl.",
+        "Obyčejná byla jen z pohledu člověka, který si přivezl vlastní neobyčejný příběh a hledal do něj obsazení.",
+        "Žena nezpochybnila můj projekt; nevěděla o něm.",
+        "Přesto mi na okamžik připomněla, že její dvůr není prázdné místo čekající na mou větu.",
+        "Poznávat neznámé je příjemné, pokud se předtím podaří zařídit, aby všechno bylo známé.",
+        "Tuto myšlenku jsem si podtrhl a hned se zastyděl, jak snadno z vlastního zaváhání dělám závěr pro ostatní.",
+        "Druhý den jsem se vrátil.",
+        "Nevím ještě, zda proto, abych se zeptal lépe, nebo abych zachránil včerejší začátek."
+      ],
+      "start": 165.5766439909297,
+      "end": 223.94036281179137,
+      "sentences": [
+        {
+          "text": "Byla to docela obyčejná otázka, napsal jsem večer do poznámek.",
+          "start": 165.5766439909297,
+          "end": 171.33519274376417,
+          "slow_start": 186.60231292517005,
+          "slow_end": 193.22
+        },
+        {
+          "text": "Pak jsem slovo obyčejná přeškrtl.",
+          "start": 171.51519274376417,
+          "end": 174.59183673469389,
+          "slow_start": 193.4,
+          "slow_end": 196.83655328798187
+        },
+        {
+          "text": "Obyčejná byla jen z pohledu člověka, který si přivezl vlastní neobyčejný příběh a hledal do něj obsazení.",
+          "start": 174.77183673469386,
+          "end": 184.0249886621315,
+          "slow_start": 197.01655328798185,
+          "slow_end": 207.3726530612245
+        },
+        {
+          "text": "Žena nezpochybnila můj projekt; nevěděla o něm.",
+          "start": 184.2049886621315,
+          "end": 188.419410430839,
+          "slow_start": 207.5526530612245,
+          "slow_end": 212.26630385487528
+        },
+        {
+          "text": "Přesto mi na okamžik připomněla, že její dvůr není prázdné místo čekající na mou větu.",
+          "start": 188.59941043083901,
+          "end": 196.09945578231293,
+          "slow_start": 212.44630385487528,
+          "slow_end": 220.9215873015873
+        },
+        {
+          "text": "Poznávat neznámé je příjemné, pokud se předtím podaří zařídit, aby všechno bylo známé.",
+          "start": 196.27945578231294,
+          "end": 203.94204081632654,
+          "slow_start": 221.1015873015873,
+          "slow_end": 229.58848072562358
+        },
+        {
+          "text": "Tuto myšlenku jsem si podtrhl a hned se zastyděl, jak snadno z vlastního zaváhání dělám závěr pro ostatní.",
+          "start": 204.12204081632652,
+          "end": 213.3984126984127,
+          "slow_start": 229.7684807256236,
+          "slow_end": 240.13619047619048
+        },
+        {
+          "text": "Druhý den jsem se vrátil.",
+          "start": 213.5784126984127,
+          "end": 216.13260770975057,
+          "slow_start": 240.31619047619049,
+          "slow_end": 243.24190476190475
+        },
+        {
+          "text": "Nevím ještě, zda proto, abych se zeptal lépe, nebo abych zachránil včerejší začátek.",
+          "start": 216.31260770975058,
+          "end": 223.94036281179137,
+          "slow_start": 243.42190476190476,
+          "slow_end": 252.07133786848073
+        }
+      ],
+      "slow_start": 186.60231292517005,
+      "slow_end": 252.07133786848073
+    },
+    {
+      "text": "Podklad D — první posudek: Síla ukázky nespočívá v mimořádnosti události, ale v tom, jak se vypravěč přistihuje při přivlastňování cizí zkušenosti. Škrtnuté slovo není ozdobou; mění perspektivu. Poslední věta ponechává motivaci otevřenou a brání snadnému příběhu o napraveném návštěvníkovi. Kdyby autor závěr nahradil jistotou, že druhý den už všemu porozuměl, text by se podle posuzovatelky oslabil. Současně dodává, že vědomá práce s nejistotou nezbavuje autora povinnosti uspořádat větší celek. Oceňuje funkci konkrétního prostředku, nikoli libovolnou nedokončenost jako hodnotu samu o sobě. Její souhlas se zařazením do rozhovoru není bezvýhradným doporučením k výběru.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Podklad D — první posudek: Síla ukázky nespočívá v mimořádnosti události, ale v tom, jak se vypravěč přistihuje při přivlastňování cizí zkušenosti.",
+        "Škrtnuté slovo není ozdobou; mění perspektivu.",
+        "Poslední věta ponechává motivaci otevřenou a brání snadnému příběhu o napraveném návštěvníkovi.",
+        "Kdyby autor závěr nahradil jistotou, že druhý den už všemu porozuměl, text by se podle posuzovatelky oslabil.",
+        "Současně dodává, že vědomá práce s nejistotou nezbavuje autora povinnosti uspořádat větší celek.",
+        "Oceňuje funkci konkrétního prostředku, nikoli libovolnou nedokončenost jako hodnotu samu o sobě.",
+        "Její souhlas se zařazením do rozhovoru není bezvýhradným doporučením k výběru."
+      ],
+      "start": 224.12036281179138,
+      "end": 286.40816326530614,
+      "sentences": [
+        {
+          "text": "Podklad D — první posudek: Síla ukázky nespočívá v mimořádnosti události, ale v tom, jak se vypravěč přistihuje při přivlastňování cizí zkušenosti.",
+          "start": 224.12036281179138,
+          "end": 237.2744671201814,
+          "slow_start": 252.25133786848073,
+          "slow_end": 266.9031292517007
+        },
+        {
+          "text": "Škrtnuté slovo není ozdobou; mění perspektivu.",
+          "start": 237.45446712018142,
+          "end": 241.87786848072562,
+          "slow_start": 267.08312925170065,
+          "slow_end": 272.2263492063492
+        },
+        {
+          "text": "Poslední věta ponechává motivaci otevřenou a brání snadnému příběhu o napraveném návštěvníkovi.",
+          "start": 242.05786848072563,
+          "end": 250.66086167800452,
+          "slow_start": 272.4063492063492,
+          "slow_end": 282.19356009070293
+        },
+        {
+          "text": "Kdyby autor závěr nahradil jistotou, že druhý den už všemu porozuměl, text by se podle posuzovatelky oslabil.",
+          "start": 250.84086167800453,
+          "end": 261.3478911564626,
+          "slow_start": 282.37356009070294,
+          "slow_end": 294.2157369614512
+        },
+        {
+          "text": "Současně dodává, že vědomá práce s nejistotou nezbavuje autora povinnosti uspořádat větší celek.",
+          "start": 261.5278911564626,
+          "end": 270.74621315192746,
+          "slow_start": 294.39573696145123,
+          "slow_end": 304.7053968253968
+        },
+        {
+          "text": "Oceňuje funkci konkrétního prostředku, nikoli libovolnou nedokončenost jako hodnotu samu o sobě.",
+          "start": 270.9262131519274,
+          "end": 279.42471655328796,
+          "slow_start": 304.8853968253968,
+          "slow_end": 314.24303854875285
+        },
+        {
+          "text": "Její souhlas se zařazením do rozhovoru není bezvýhradným doporučením k výběru.",
+          "start": 279.604716553288,
+          "end": 286.40816326530614,
+          "slow_start": 314.42303854875286,
+          "slow_end": 322.0043537414966
+        }
+      ],
+      "slow_start": 252.25133786848073,
+      "slow_end": 322.0043537414966
+    },
+    {
+      "text": "Podklad E — druhý posudek: „Tento odstup by byl vítaný, kdyby se text občas přestal dívat sám na sebe,“ píše další člen poroty. Považuje sebekorekci za příliš předvídatelnou a pochybuje, zda čtenář potřebuje být ke každému obratu veden vysvětlením. Nežádá odstranění všech pochybností ani jednoznačně šťastný konec. Jeho výhrada míří k účinku provedení: zda text umožňuje zkušenost, kterou následně pojmenovává, nebo ji pouze vysvětluje místo toho, aby ji vytvořil. S prvním posudkem se tedy může shodnout na obecné hodnotě otevřenosti a zároveň neshodnout na kvalitě konkrétní ukázky. Rozdíl nelze vyřešit pouhým vyjmenováním společných slov.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Podklad E — druhý posudek: „Tento odstup by byl vítaný, kdyby se text občas přestal dívat sám na sebe,“ píše další člen poroty.",
+        "Považuje sebekorekci za příliš předvídatelnou a pochybuje, zda čtenář potřebuje být ke každému obratu veden vysvětlením.",
+        "Nežádá odstranění všech pochybností ani jednoznačně šťastný konec.",
+        "Jeho výhrada míří k účinku provedení: zda text umožňuje zkušenost, kterou následně pojmenovává, nebo ji pouze vysvětluje místo toho, aby ji vytvořil.",
+        "S prvním posudkem se tedy může shodnout na obecné hodnotě otevřenosti a zároveň neshodnout na kvalitě konkrétní ukázky.",
+        "Rozdíl nelze vyřešit pouhým vyjmenováním společných slov."
+      ],
+      "start": 286.58816326530615,
+      "end": 344.9575510204082,
+      "sentences": [
+        {
+          "text": "Podklad E — druhý posudek: „Tento odstup by byl vítaný, kdyby se text občas přestal dívat sám na sebe,“ píše další člen poroty.",
+          "start": 286.58816326530615,
+          "end": 298.51160997732427,
+          "slow_start": 322.1843537414966,
+          "slow_end": 335.4661678004535
+        },
+        {
+          "text": "Považuje sebekorekci za příliš předvídatelnou a pochybuje, zda čtenář potřebuje být ke každému obratu veden vysvětlením.",
+          "start": 298.6916099773243,
+          "end": 309.0825396825397,
+          "slow_start": 335.6461678004535,
+          "slow_end": 347.1980952380952
+        },
+        {
+          "text": "Nežádá odstranění všech pochybností ani jednoznačně šťastný konec.",
+          "start": 309.2625396825397,
+          "end": 315.102358276644,
+          "slow_start": 347.3780952380952,
+          "slow_end": 353.9493424036281
+        },
+        {
+          "text": "Jeho výhrada míří k účinku provedení: zda text umožňuje zkušenost, kterou následně pojmenovává, nebo ji pouze vysvětluje místo toho, aby ji vytvořil.",
+          "start": 315.282358276644,
+          "end": 328.7267120181406,
+          "slow_start": 354.12934240362813,
+          "slow_end": 369.17587301587304
+        },
+        {
+          "text": "S prvním posudkem se tedy může shodnout na obecné hodnotě otevřenosti a zároveň neshodnout na kvalitě konkrétní ukázky.",
+          "start": 328.9067120181406,
+          "end": 339.29764172335604,
+          "slow_start": 369.35587301587304,
+          "slow_end": 381.18643990929706
+        },
+        {
+          "text": "Rozdíl nelze vyřešit pouhým vyjmenováním společných slov.",
+          "start": 339.477641723356,
+          "end": 344.9575510204082,
+          "slow_start": 381.36643990929707,
+          "slow_end": 387.4848979591837
+        }
+      ],
+      "slow_start": 322.1843537414966,
+      "slow_end": 387.4848979591837
+    },
+    {
+      "text": "Mimo porotu se mezitím rozšířilo shrnutí, podle něhož komise odmítla přehledné projekty a rozhodla se odměnit neurčitost. Tato formulace slučovala několik posunů: postup k rozhovoru změnila v konečný výběr, vlastnost jednoho návrhu zobecnila na všechny a z kritické otázky udělala důkaz předem přijatého postoje. Koordinátorka chtěla zveřejnit stručné upřesnění. Nemohla přitom jednoduše prohlásit, že každý výklad je stejně oprávněný; některé části shrnutí odporovaly doloženému stavu. Neměla však ani vydávat vlastní obhajobu literární metody za jednotné stanovisko celé poroty. Potřebovala oddělit opravu ověřitelných údajů od pokračujícího sporu o kvalitu.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Mimo porotu se mezitím rozšířilo shrnutí, podle něhož komise odmítla přehledné projekty a rozhodla se odměnit neurčitost.",
+        "Tato formulace slučovala několik posunů: postup k rozhovoru změnila v konečný výběr, vlastnost jednoho návrhu zobecnila na všechny a z kritické otázky udělala důkaz předem přijatého postoje.",
+        "Koordinátorka chtěla zveřejnit stručné upřesnění.",
+        "Nemohla přitom jednoduše prohlásit, že každý výklad je stejně oprávněný; některé části shrnutí odporovaly doloženému stavu.",
+        "Neměla však ani vydávat vlastní obhajobu literární metody za jednotné stanovisko celé poroty.",
+        "Potřebovala oddělit opravu ověřitelných údajů od pokračujícího sporu o kvalitu."
+      ],
+      "start": 345.1375510204082,
+      "end": 404.5053968253968,
+      "sentences": [
+        {
+          "text": "Mimo porotu se mezitím rozšířilo shrnutí, podle něhož komise odmítla přehledné projekty a rozhodla se odměnit neurčitost.",
+          "start": 345.1375510204082,
+          "end": 355.41238095238094,
+          "slow_start": 387.6648979591837,
+          "slow_end": 399.17038548752834
+        },
+        {
+          "text": "Tato formulace slučovala několik posunů: postup k rozhovoru změnila v konečný výběr, vlastnost jednoho návrhu zobecnila na všechny a z kritické otázky udělala důkaz předem přijatého postoje.",
+          "start": 355.59238095238095,
+          "end": 373.5181859410431,
+          "slow_start": 399.35038548752834,
+          "slow_end": 419.5981859410431
+        },
+        {
+          "text": "Koordinátorka chtěla zveřejnit stručné upřesnění.",
+          "start": 373.6981859410431,
+          "end": 377.842947845805,
+          "slow_start": 419.7781859410431,
+          "slow_end": 424.34090702947844
+        },
+        {
+          "text": "Nemohla přitom jednoduše prohlásit, že každý výklad je stejně oprávněný; některé části shrnutí odporovaly doloženému stavu.",
+          "start": 378.022947845805,
+          "end": 389.1336961451247,
+          "slow_start": 424.52090702947845,
+          "slow_end": 436.85070294784583
+        },
+        {
+          "text": "Neměla však ani vydávat vlastní obhajobu literární metody za jednotné stanovisko celé poroty.",
+          "start": 389.3136961451247,
+          "end": 397.4174603174603,
+          "slow_start": 437.0307029478458,
+          "slow_end": 446.37673469387755
+        },
+        {
+          "text": "Potřebovala oddělit opravu ověřitelných údajů od pokračujícího sporu o kvalitu.",
+          "start": 397.59746031746033,
+          "end": 404.5053968253968,
+          "slow_start": 446.55673469387756,
+          "slow_end": 454.2657596371882
+        }
+      ],
+      "slow_start": 387.6648979591837,
+      "slow_end": 454.2657596371882
+    },
+    {
+      "text": "Před rozhovory se ukázalo, že jeden z uchazečů nemůže přijet osobně. Návrh umožnit mu jinou formu odpovědi vyvolal další otázku: stejná příležitost nemusí znamenat doslova stejnou situaci, ale odlišnost nelze prostě prohlásit za bezvýznamnou. Porota se rozhodla nejprve určit, co chce rozhovorem zjistit a jak budou odpovědi posuzovány. Teprve potom má upravit konkrétní průběh. Do společného podkladu zaznamenala otázky otevřené pro každého uchazeče a také ty, které vycházejí z jeho vlastního návrhu. Dosud není dohodnuto, zda všichni dostanou možnost písemného doplnění. Veřejné oznámení proto nemá tvrdit, že všechny podmínky dalšího kola už byly uzavřeny.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Před rozhovory se ukázalo, že jeden z uchazečů nemůže přijet osobně.",
+        "Návrh umožnit mu jinou formu odpovědi vyvolal další otázku: stejná příležitost nemusí znamenat doslova stejnou situaci, ale odlišnost nelze prostě prohlásit za bezvýznamnou.",
+        "Porota se rozhodla nejprve určit, co chce rozhovorem zjistit a jak budou odpovědi posuzovány.",
+        "Teprve potom má upravit konkrétní průběh.",
+        "Do společného podkladu zaznamenala otázky otevřené pro každého uchazeče a také ty, které vycházejí z jeho vlastního návrhu.",
+        "Dosud není dohodnuto, zda všichni dostanou možnost písemného doplnění.",
+        "Veřejné oznámení proto nemá tvrdit, že všechny podmínky dalšího kola už byly uzavřeny."
+      ],
+      "start": 404.6853968253968,
+      "end": 464.33773242630383,
+      "sentences": [
+        {
+          "text": "Před rozhovory se ukázalo, že jeden z uchazečů nemůže přijet osobně.",
+          "start": 404.6853968253968,
+          "end": 410.6413151927438,
+          "slow_start": 454.4457596371882,
+          "slow_end": 461.144716553288
+        },
+        {
+          "text": "Návrh umožnit mu jinou formu odpovědi vyvolal další otázku: stejná příležitost nemusí znamenat doslova stejnou situaci, ale odlišnost nelze prostě prohlásit za bezvýznamnou.",
+          "start": 410.8213151927438,
+          "end": 427.8183219954648,
+          "slow_start": 461.324716553288,
+          "slow_end": 481.03845804988663
+        },
+        {
+          "text": "Porota se rozhodla nejprve určit, co chce rozhovorem zjistit a jak budou odpovědi posuzovány.",
+          "start": 427.99832199546483,
+          "end": 435.37065759637187,
+          "slow_start": 481.21845804988664,
+          "slow_end": 490.3090702947846
+        },
+        {
+          "text": "Teprve potom má upravit konkrétní průběh.",
+          "start": 435.5506575963719,
+          "end": 439.55609977324264,
+          "slow_start": 490.4890702947846,
+          "slow_end": 494.9705215419501
+        },
+        {
+          "text": "Do společného podkladu zaznamenala otázky otevřené pro každého uchazeče a také ty, které vycházejí z jeho vlastního návrhu.",
+          "start": 439.73609977324264,
+          "end": 450.34761904761905,
+          "slow_start": 495.1505215419501,
+          "slow_end": 507.1784580498866
+        },
+        {
+          "text": "Dosud není dohodnuto, zda všichni dostanou možnost písemného doplnění.",
+          "start": 450.52761904761905,
+          "end": 456.5067573696145,
+          "slow_start": 507.3584580498866,
+          "slow_end": 514.1038548752834
+        },
+        {
+          "text": "Veřejné oznámení proto nemá tvrdit, že všechny podmínky dalšího kola už byly uzavřeny.",
+          "start": 456.6867573696145,
+          "end": 464.33773242630383,
+          "slow_start": 514.2838548752834,
+          "slow_end": 522.9913378684807
+        }
+      ],
+      "slow_start": 454.4457596371882,
+      "slow_end": 522.9913378684807
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "b5e3a0f09191e60bc5539adbf80a07189b37a6729e556465ba2e1e55bb31ad12",
+    "slow": "64f6ece239a79568324b32d58cee47ec8c5911c70ab84988547f0ff3370c8fd6"
+  }
+}

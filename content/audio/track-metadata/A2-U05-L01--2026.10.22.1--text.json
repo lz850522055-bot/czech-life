@@ -1,0 +1,397 @@
+{
+  "id": "A2-U05-L01--2026.10.22.1--text",
+  "lesson_id": "A2-U05-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Dobrý den, potřebuju nápoje a malé občerstvení na sousedské setkání. Přijde asi dvacet lidí, ale přesný počet ještě neznám.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Dobrý den, potřebuju nápoje a malé občerstvení na sousedské setkání.",
+        "Přijde asi dvacet lidí, ale přesný počet ještě neznám."
+      ]
+    },
+    {
+      "text": "Kolik vody chcete? Jedna láhev má jeden a půl litru. V jednom balení je šest lahví a v kartonu jsou čtyři balení.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Kolik vody chcete?",
+        "Jedna láhev má jeden a půl litru.",
+        "V jednom balení je šest lahví a v kartonu jsou čtyři balení."
+      ]
+    },
+    {
+      "text": "Vezmu dvě balení neperlivé vody. To znamená dvanáct lahví a celkem osmnáct litrů, je to tak?",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Vezmu dvě balení neperlivé vody.",
+        "To znamená dvanáct lahví a celkem osmnáct litrů, je to tak?"
+      ]
+    },
+    {
+      "text": "Ano. Chcete také džus? Máme litrové lahve a menší lahve o objemu půl litru.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Ano.",
+        "Chcete také džus?",
+        "Máme litrové lahve a menší lahve o objemu půl litru."
+      ]
+    },
+    {
+      "text": "Prosím čtyři litrové lahve. Můžou být dvě lahve jablečného a dvě pomerančového džusu? Nechci kupovat celý karton jednoho druhu.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Prosím čtyři litrové lahve.",
+        "Můžou být dvě lahve jablečného a dvě pomerančového džusu?",
+        "Nechci kupovat celý karton jednoho druhu."
+      ]
+    },
+    {
+      "text": "Ano, tady můžeme druhy míchat. U některých výrobků ale prodáváme jen celé balení.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Ano, tady můžeme druhy míchat.",
+        "U některých výrobků ale prodáváme jen celé balení."
+      ]
+    },
+    {
+      "text": "Ještě potřebuju kilo jablek, půl kila sýra a dvě stě gramů kávy. Cenu prosím napište za kilogram i za skutečné množství.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Ještě potřebuju kilo jablek, půl kila sýra a dvě stě gramů kávy.",
+        "Cenu prosím napište za kilogram i za skutečné množství."
+      ]
+    },
+    {
+      "text": "Dobře. Všechno vám zvážím a připravím. Budete si nákup odvážet sám, nebo potřebujete dopravu?",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Dobře.",
+        "Všechno vám zvážím a připravím.",
+        "Budete si nákup odvážet sám, nebo potřebujete dopravu?"
+      ]
+    },
+    {
+      "text": "Pokud je balení příliš těžké, rozdělte prosím nákup do dvou menších tašek.",
+      "index": 8,
+      "role": "text",
+      "parts": [
+        "Pokud je balení příliš těžké, rozdělte prosím nákup do dvou menších tašek."
+      ]
+    }
+  ],
+  "text_sha256": "94a7e5e535169a98075b5322db5f27d4f0c7df8c38d2188b7ab4bc95539a630b",
+  "source_file": "content/lessons/A2/A2-U05-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U05-L01--2026.10.22.1--text--94a7e5e535--normal.mp3",
+  "slow_file": "content/audio/files/A2-U05-L01--2026.10.22.1--text--94a7e5e535--slow.mp3",
+  "duration_seconds": 84.71315192743764,
+  "slow_duration_seconds": 95.12730158730159,
+  "cues": [
+    {
+      "text": "Dobrý den, potřebuju nápoje a malé občerstvení na sousedské setkání. Přijde asi dvacet lidí, ale přesný počet ještě neznám.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Dobrý den, potřebuju nápoje a malé občerstvení na sousedské setkání.",
+        "Přijde asi dvacet lidí, ale přesný počet ještě neznám."
+      ],
+      "start": 0.0,
+      "end": 11.615827664399093,
+      "sentences": [
+        {
+          "text": "Dobrý den, potřebuju nápoje a malé občerstvení na sousedské setkání.",
+          "start": 0.0,
+          "end": 6.164897959183674,
+          "slow_start": 0.0,
+          "slow_end": 7.1401360544217685
+        },
+        {
+          "text": "Přijde asi dvacet lidí, ale přesný počet ještě neznám.",
+          "start": 6.344897959183673,
+          "end": 11.615827664399093,
+          "slow_start": 7.320136054421769,
+          "slow_end": 13.276054421768707
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 13.276054421768707
+    },
+    {
+      "text": "Kolik vody chcete? Jedna láhev má jeden a půl litru. V jednom balení je šest lahví a v kartonu jsou čtyři balení.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Kolik vody chcete?",
+        "Jedna láhev má jeden a půl litru.",
+        "V jednom balení je šest lahví a v kartonu jsou čtyři balení."
+      ],
+      "start": 11.795827664399093,
+      "end": 21.954648526077097,
+      "sentences": [
+        {
+          "text": "Kolik vody chcete?",
+          "start": 11.795827664399093,
+          "end": 13.548934240362811,
+          "slow_start": 13.456054421768707,
+          "slow_end": 15.429750566893423
+        },
+        {
+          "text": "Jedna láhev má jeden a půl litru.",
+          "start": 13.728934240362811,
+          "end": 16.863628117913834,
+          "slow_start": 15.609750566893425,
+          "slow_end": 19.150793650793652
+        },
+        {
+          "text": "V jednom balení je šest lahví a v kartonu jsou čtyři balení.",
+          "start": 17.043628117913833,
+          "end": 21.954648526077097,
+          "slow_start": 19.33079365079365,
+          "slow_end": 24.938412698412698
+        }
+      ],
+      "slow_start": 13.456054421768707,
+      "slow_end": 24.938412698412698
+    },
+    {
+      "text": "Vezmu dvě balení neperlivé vody. To znamená dvanáct lahví a celkem osmnáct litrů, je to tak?",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Vezmu dvě balení neperlivé vody.",
+        "To znamená dvanáct lahví a celkem osmnáct litrů, je to tak?"
+      ],
+      "start": 22.134648526077097,
+      "end": 30.76671201814059,
+      "sentences": [
+        {
+          "text": "Vezmu dvě balení neperlivé vody.",
+          "start": 22.134648526077097,
+          "end": 25.002312925170067,
+          "slow_start": 25.118412698412698,
+          "slow_end": 28.33437641723356
+        },
+        {
+          "text": "To znamená dvanáct lahví a celkem osmnáct litrů, je to tak?",
+          "start": 25.182312925170066,
+          "end": 30.76671201814059,
+          "slow_start": 28.51437641723356,
+          "slow_end": 34.99274376417234
+        }
+      ],
+      "slow_start": 25.118412698412698,
+      "slow_end": 34.99274376417234
+    },
+    {
+      "text": "Ano. Chcete také džus? Máme litrové lahve a menší lahve o objemu půl litru.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Ano.",
+        "Chcete také džus?",
+        "Máme litrové lahve a menší lahve o objemu půl litru."
+      ],
+      "start": 30.94671201814059,
+      "end": 38.22625850340136,
+      "sentences": [
+        {
+          "text": "Ano.",
+          "start": 30.94671201814059,
+          "end": 31.527210884353742,
+          "slow_start": 35.17274376417234,
+          "slow_end": 35.83451247165533
+        },
+        {
+          "text": "Chcete také džus?",
+          "start": 31.707210884353742,
+          "end": 33.413877551020406,
+          "slow_start": 36.01451247165533,
+          "slow_end": 37.906938775510206
+        },
+        {
+          "text": "Máme litrové lahve a menší lahve o objemu půl litru.",
+          "start": 33.593877551020405,
+          "end": 38.22625850340136,
+          "slow_start": 38.086938775510205,
+          "slow_end": 43.34625850340136
+        }
+      ],
+      "slow_start": 35.17274376417234,
+      "slow_end": 43.34625850340136
+    },
+    {
+      "text": "Prosím čtyři litrové lahve. Můžou být dvě lahve jablečného a dvě pomerančového džusu? Nechci kupovat celý karton jednoho druhu.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Prosím čtyři litrové lahve.",
+        "Můžou být dvě lahve jablečného a dvě pomerančového džusu?",
+        "Nechci kupovat celý karton jednoho druhu."
+      ],
+      "start": 38.40625850340136,
+      "end": 49.87700680272109,
+      "sentences": [
+        {
+          "text": "Prosím čtyři litrové lahve.",
+          "start": 38.40625850340136,
+          "end": 40.786303854875285,
+          "slow_start": 43.52625850340136,
+          "slow_end": 46.17333333333333
+        },
+        {
+          "text": "Můžou být dvě lahve jablečného a dvě pomerančového džusu?",
+          "start": 40.966303854875285,
+          "end": 45.97020408163265,
+          "slow_start": 46.35333333333333,
+          "slow_end": 51.72875283446712
+        },
+        {
+          "text": "Nechci kupovat celý karton jednoho druhu.",
+          "start": 46.15020408163265,
+          "end": 49.87700680272109,
+          "slow_start": 51.90875283446712,
+          "slow_end": 56.21605442176871
+        }
+      ],
+      "slow_start": 43.52625850340136,
+      "slow_end": 56.21605442176871
+    },
+    {
+      "text": "Ano, tady můžeme druhy míchat. U některých výrobků ale prodáváme jen celé balení.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Ano, tady můžeme druhy míchat.",
+        "U některých výrobků ale prodáváme jen celé balení."
+      ],
+      "start": 50.05700680272109,
+      "end": 57.60934240362812,
+      "sentences": [
+        {
+          "text": "Ano, tady můžeme druhy míchat.",
+          "start": 50.05700680272109,
+          "end": 52.866621315192745,
+          "slow_start": 56.39605442176871,
+          "slow_end": 59.57718820861678
+        },
+        {
+          "text": "U některých výrobků ale prodáváme jen celé balení.",
+          "start": 53.046621315192745,
+          "end": 57.60934240362812,
+          "slow_start": 59.75718820861678,
+          "slow_end": 64.87718820861679
+        }
+      ],
+      "slow_start": 56.39605442176871,
+      "slow_end": 64.87718820861679
+    },
+    {
+      "text": "Ještě potřebuju kilo jablek, půl kila sýra a dvě stě gramů kávy. Cenu prosím napište za kilogram i za skutečné množství.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Ještě potřebuju kilo jablek, půl kila sýra a dvě stě gramů kávy.",
+        "Cenu prosím napište za kilogram i za skutečné množství."
+      ],
+      "start": 57.78934240362812,
+      "end": 68.34866213151928,
+      "sentences": [
+        {
+          "text": "Ještě potřebuju kilo jablek, půl kila sýra a dvě stě gramů kávy.",
+          "start": 57.78934240362812,
+          "end": 63.501451247165534,
+          "slow_start": 65.05718820861678,
+          "slow_end": 71.38462585034014
+        },
+        {
+          "text": "Cenu prosím napište za kilogram i za skutečné množství.",
+          "start": 63.68145124716553,
+          "end": 68.34866213151928,
+          "slow_start": 71.56462585034014,
+          "slow_end": 76.75428571428571
+        }
+      ],
+      "slow_start": 65.05718820861678,
+      "slow_end": 76.75428571428571
+    },
+    {
+      "text": "Dobře. Všechno vám zvážím a připravím. Budete si nákup odvážet sám, nebo potřebujete dopravu?",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Dobře.",
+        "Všechno vám zvážím a připravím.",
+        "Budete si nákup odvážet sám, nebo potřebujete dopravu?"
+      ],
+      "start": 68.52866213151927,
+      "end": 77.53809523809524,
+      "sentences": [
+        {
+          "text": "Dobře.",
+          "start": 68.52866213151927,
+          "end": 69.3065306122449,
+          "slow_start": 76.93428571428572,
+          "slow_end": 77.80503401360544
+        },
+        {
+          "text": "Všechno vám zvážím a připravím.",
+          "start": 69.48653061224489,
+          "end": 72.45868480725623,
+          "slow_start": 77.98503401360544,
+          "slow_end": 81.34031746031746
+        },
+        {
+          "text": "Budete si nákup odvážet sám, nebo potřebujete dopravu?",
+          "start": 72.63868480725624,
+          "end": 77.53809523809524,
+          "slow_start": 81.52031746031746,
+          "slow_end": 86.95378684807257
+        }
+      ],
+      "slow_start": 76.93428571428572,
+      "slow_end": 86.95378684807257
+    },
+    {
+      "text": "Pokud je balení příliš těžké, rozdělte prosím nákup do dvou menších tašek.",
+      "index": 8,
+      "role": "text",
+      "parts": [
+        "Pokud je balení příliš těžké, rozdělte prosím nákup do dvou menších tašek."
+      ],
+      "start": 77.71809523809524,
+      "end": 84.53315192743764,
+      "sentences": [
+        {
+          "text": "Pokud je balení příliš těžké, rozdělte prosím nákup do dvou menších tašek.",
+          "start": 77.71809523809524,
+          "end": 84.53315192743764,
+          "slow_start": 87.13378684807256,
+          "slow_end": 94.94730158730158
+        }
+      ],
+      "slow_start": 87.13378684807256,
+      "slow_end": 94.94730158730158
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "d369a5d6935745cadcd2717fbe8d7e638b52d59adfb195ac7d42e299f5b672e0",
+    "slow": "5d9327a673392843d99f0ec9883c0e8090d1af109732c6af93310f102e86bbe5"
+  }
+}

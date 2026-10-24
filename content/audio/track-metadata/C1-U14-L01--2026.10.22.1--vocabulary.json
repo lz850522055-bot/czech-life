@@ -1,0 +1,173 @@
+{
+  "id": "C1-U14-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "C1-U14-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Rozvrh upravíme po dohodě.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Rozvrh upravíme po dohodě."
+      ]
+    },
+    {
+      "text": "Pravidelnost je pro nás nezbytná.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Pravidelnost je pro nás nezbytná."
+      ]
+    },
+    {
+      "text": "Upřesnění není slovíčkaření.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Upřesnění není slovíčkaření."
+      ]
+    },
+    {
+      "text": "Oslovíme dotčené skupiny.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Oslovíme dotčené skupiny."
+      ]
+    },
+    {
+      "text": "Správce potřebuje jasná hlediska.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Správce potřebuje jasná hlediska."
+      ]
+    }
+  ],
+  "text_sha256": "f726b2326149bcdc0c65fdd28e465f13aa15a38ea68040e999823c60311a874b",
+  "source_file": "content/lessons/C1/C1-U14-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U14-L01--2026.10.22.1--vocabulary--f726b23261--normal.mp3",
+  "slow_file": "content/audio/files/C1-U14-L01--2026.10.22.1--vocabulary--f726b23261--slow.mp3",
+  "duration_seconds": 13.845124716553288,
+  "slow_duration_seconds": 15.435691609977324,
+  "cues": [
+    {
+      "text": "Rozvrh upravíme po dohodě.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Rozvrh upravíme po dohodě."
+      ],
+      "start": 0.0,
+      "end": 2.2058956916099772,
+      "sentences": [
+        {
+          "text": "Rozvrh upravíme po dohodě.",
+          "start": 0.0,
+          "end": 2.2058956916099772,
+          "slow_start": 0.0,
+          "slow_end": 2.426485260770975
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.426485260770975
+    },
+    {
+      "text": "Pravidelnost je pro nás nezbytná.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Pravidelnost je pro nás nezbytná."
+      ],
+      "start": 2.3858956916099774,
+      "end": 5.241950113378685,
+      "sentences": [
+        {
+          "text": "Pravidelnost je pro nás nezbytná.",
+          "start": 2.3858956916099774,
+          "end": 5.241950113378685,
+          "slow_start": 2.606485260770975,
+          "slow_end": 5.8340589569161
+        }
+      ],
+      "slow_start": 2.606485260770975,
+      "slow_end": 5.8340589569161
+    },
+    {
+      "text": "Upřesnění není slovíčkaření.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Upřesnění není slovíčkaření."
+      ],
+      "start": 5.421950113378685,
+      "end": 8.161904761904761,
+      "sentences": [
+        {
+          "text": "Upřesnění není slovíčkaření.",
+          "start": 5.421950113378685,
+          "end": 8.161904761904761,
+          "slow_start": 6.0140589569161,
+          "slow_end": 9.06748299319728
+        }
+      ],
+      "slow_start": 6.0140589569161,
+      "slow_end": 9.06748299319728
+    },
+    {
+      "text": "Oslovíme dotčené skupiny.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Oslovíme dotčené skupiny."
+      ],
+      "start": 8.341904761904761,
+      "end": 10.571020408163266,
+      "sentences": [
+        {
+          "text": "Oslovíme dotčené skupiny.",
+          "start": 8.341904761904761,
+          "end": 10.571020408163266,
+          "slow_start": 9.247482993197279,
+          "slow_end": 11.766848072562357
+        }
+      ],
+      "slow_start": 9.247482993197279,
+      "slow_end": 11.766848072562357
+    },
+    {
+      "text": "Správce potřebuje jasná hlediska.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Správce potřebuje jasná hlediska."
+      ],
+      "start": 10.751020408163265,
+      "end": 13.665124716553288,
+      "sentences": [
+        {
+          "text": "Správce potřebuje jasná hlediska.",
+          "start": 10.751020408163265,
+          "end": 13.665124716553288,
+          "slow_start": 11.946848072562359,
+          "slow_end": 15.255691609977324
+        }
+      ],
+      "slow_start": 11.946848072562359,
+      "slow_end": 15.255691609977324
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "d3dcdd97adb8f090b119c7a03a3f7252dbcd02a8c07f98937f4d9b08a3a4af9d",
+    "slow": "aea686375a750b29193d3f84d8d2d7dfc930e39161bf0faadf5394567c3fb49c"
+  }
+}

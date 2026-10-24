@@ -1,0 +1,219 @@
+{
+  "unseen_text": [
+    {
+      "cs": "Nabídka A uvádí cenu za jeden den bez materiálu. Nabídka B je za dva dny včetně základního materiálu. Účastník může přijít jen první den a nabídka B se nekrátí.",
+      "zh": "A按一天不含材料，B两天含基础材料；参与者仅能首日，B不按天减。",
+      "note_zh": ""
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "正确比较方式？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "B总价除二就够"
+        },
+        {
+          "id": "b",
+          "text": "比较本人实际需付金额及材料费"
+        },
+        {
+          "id": "c",
+          "text": "直接选字少方案"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "不可用两天摊价掩盖只能来一天。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U09-CHECK-E01",
+      "knowledge_points": [
+        "source-attribution",
+        "comparison-basis"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "“不含材料”填介词。",
+      "stimulus_cs": "cena ___ materiálu",
+      "answer": "bez",
+      "accepted_answers": [
+        "bez"
+      ],
+      "explanation_zh": "bez+第二格。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "collocation",
+      "id": "B2-U09-CHECK-E02",
+      "knowledge_points": [
+        "source-attribution",
+        "comparison-basis"
+      ]
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "给参与者写两句比较提醒。",
+      "stimulus_cs": "",
+      "answer": "U nabídky A je třeba přičíst materiál. U nabídky B zaplatíte oba dny, i když přijdete jen první; porovnejte proto skutečnou celkovou platbu.",
+      "accepted_answers": [],
+      "explanation_zh": "口径是实际成本。",
+      "rubric": [
+        "材料",
+        "不可减天",
+        "总价口径"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U09-CHECK-E03",
+      "knowledge_points": [
+        "source-attribution",
+        "comparison-basis"
+      ]
+    }
+  ],
+  "id": "B2-U09-CHECK",
+  "kind": "unit",
+  "level": "B2",
+  "unit_id": "B2-U09",
+  "title_zh": "比较多源信息并摘要：换场景检验",
+  "version": "2026.10.22.1",
+  "rubric": [
+    "关键信息准确且没有添加原文没有的信息",
+    "能使用本单元规律完成新情境",
+    "输出能让对方采取下一步行动"
+  ],
+  "remediation": [
+    {
+      "condition_zh": "理解遗漏或把推测说成事实",
+      "lesson_ids": [
+        "B2-U09-L01"
+      ],
+      "action_zh": "对照逐段译文，重新提取人物、限制和下一步。"
+    },
+    {
+      "condition_zh": "表达需要提示或形式反复出错",
+      "lesson_ids": [
+        "B2-U09-L01"
+      ],
+      "action_zh": "复看规律卡后更换人物、时间与限制条件，延后独立重做。"
+    }
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "B2-U09-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-CHECK--2026.10.22.1--text--5e1daf3ba5--normal.mp3",
+      "slow_file": "audio/files/B2-U09-CHECK--2026.10.22.1--text--5e1daf3ba5--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-CHECK--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Nabídka A uvádí cenu za jeden den bez materiálu. Nabídka B je za dva dny včetně základního materiálu. Účastník může přijít jen první den a nabídka B se nekrátí.",
+      "duration_seconds": 15.447210884353742,
+      "slow_duration_seconds": 17.409297052154194,
+      "sha256": "69c86c05726b45f4471545020d4d1874993368479bb6f2071e0491b0ba35a1f4",
+      "slow_sha256": "e1b0761e93efed582c1ea1daec4c3997e940225903319b38108af2ccded44b74"
+    },
+    {
+      "lesson_id": "B2-U09-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-CHECK--2026.10.22.1--text--5e1daf3ba5--normal.mp3",
+      "slow_file": "audio/files/B2-U09-CHECK--2026.10.22.1--text--5e1daf3ba5--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-CHECK--2026.10.22.1--text--p0",
+      "asset_id": "B2-U09-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Nabídka A uvádí cenu za jeden den bez materiálu. Nabídka B je za dva dny včetně základního materiálu. Účastník může přijít jen první den a nabídka B se nekrátí.",
+      "start": 0,
+      "end": 15.26721088435374,
+      "slow_start": 0,
+      "slow_end": 17.229297052154195
+    },
+    {
+      "lesson_id": "B2-U09-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-CHECK--2026.10.22.1--text--5e1daf3ba5--normal.mp3",
+      "slow_file": "audio/files/B2-U09-CHECK--2026.10.22.1--text--5e1daf3ba5--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-CHECK--2026.10.22.1--text--s0",
+      "asset_id": "B2-U09-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Nabídka A uvádí cenu za jeden den bez materiálu.",
+      "start": 0,
+      "end": 4.760090702947846,
+      "slow_start": 0,
+      "slow_end": 5.537959183673469
+    },
+    {
+      "lesson_id": "B2-U09-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-CHECK--2026.10.22.1--text--5e1daf3ba5--normal.mp3",
+      "slow_file": "audio/files/B2-U09-CHECK--2026.10.22.1--text--5e1daf3ba5--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-CHECK--2026.10.22.1--text--s1",
+      "asset_id": "B2-U09-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Nabídka B je za dva dny včetně základního materiálu.",
+      "start": 4.940090702947846,
+      "end": 9.514421768707482,
+      "slow_start": 5.71795918367347,
+      "slow_end": 10.779909297052154
+    },
+    {
+      "lesson_id": "B2-U09-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U09-CHECK--2026.10.22.1--text--5e1daf3ba5--normal.mp3",
+      "slow_file": "audio/files/B2-U09-CHECK--2026.10.22.1--text--5e1daf3ba5--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U09-CHECK--2026.10.22.1--text--s2",
+      "asset_id": "B2-U09-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Účastník může přijít jen první den a nabídka B se nekrátí.",
+      "start": 9.694421768707484,
+      "end": 15.26721088435374,
+      "slow_start": 10.959909297052155,
+      "slow_end": 17.229297052154195
+    }
+  ]
+}

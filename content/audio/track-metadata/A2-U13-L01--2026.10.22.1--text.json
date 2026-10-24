@@ -1,0 +1,350 @@
+{
+  "id": "A2-U13-L01--2026.10.22.1--text",
+  "lesson_id": "A2-U13-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Oznámení pro návštěvníky knihovny: Od pondělí do středy bude hlavní vchod uzavřen kvůli opravě schodů. Knihovna ale zůstává otevřená.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Oznámení pro návštěvníky knihovny: Od pondělí do středy bude hlavní vchod uzavřen kvůli opravě schodů.",
+        "Knihovna ale zůstává otevřená."
+      ]
+    },
+    {
+      "text": "Použijte prosím boční vchod ze zahrady. Cesta je označena modrými šipkami. Pro osoby, které potřebují pomoc, je u branky telefonní číslo.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Použijte prosím boční vchod ze zahrady.",
+        "Cesta je označena modrými šipkami.",
+        "Pro osoby, které potřebují pomoc, je u branky telefonní číslo."
+      ]
+    },
+    {
+      "text": "Výpůjční doba se nemění. Dětské oddělení bude v úterý dopoledne dočasně přesunuto do prvního patra. Odpolední program začíná jako obvykle ve tři hodiny.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Výpůjční doba se nemění.",
+        "Dětské oddělení bude v úterý dopoledne dočasně přesunuto do prvního patra.",
+        "Odpolední program začíná jako obvykle ve tři hodiny."
+      ]
+    },
+    {
+      "text": "Návštěvník se ptá: Znamená to, že v úterý nemůžu vrátit knihy? Pracovnice odpovídá, že vracení funguje normálně, jen je potřeba přijít jiným vchodem.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Návštěvník se ptá: Znamená to, že v úterý nemůžu vrátit knihy?",
+        "Pracovnice odpovídá, že vracení funguje normálně, jen je potřeba přijít jiným vchodem."
+      ]
+    },
+    {
+      "text": "Další krátká zpráva se týká sousedského trhu. Trh plánovaný na sobotu se kvůli silnému větru přesouvá do sálu vedle radnice.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Další krátká zpráva se týká sousedského trhu.",
+        "Trh plánovaný na sobotu se kvůli silnému větru přesouvá do sálu vedle radnice."
+      ]
+    },
+    {
+      "text": "Čas zůstává stejný, ale počet míst je menší. Organizátoři proto prosí prodejce, aby předem potvrdili účast.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Čas zůstává stejný, ale počet míst je menší.",
+        "Organizátoři proto prosí prodejce, aby předem potvrdili účast."
+      ]
+    },
+    {
+      "text": "Zpráva zatím neuvádí, zda bude další trh také uvnitř. To se má rozhodnout později podle počasí.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Zpráva zatím neuvádí, zda bude další trh také uvnitř.",
+        "To se má rozhodnout později podle počasí."
+      ]
+    },
+    {
+      "text": "Při čtení oddělujeme potvrzenou změnu od toho, co ještě nevíme. Nadpis sám o sobě nestačí, důležité jsou podmínky v textu.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Při čtení oddělujeme potvrzenou změnu od toho, co ještě nevíme.",
+        "Nadpis sám o sobě nestačí, důležité jsou podmínky v textu."
+      ]
+    }
+  ],
+  "text_sha256": "29d2cf8157e9892a445b47d7fad12e78bae46a912823caebed01ec29076c8e2c",
+  "source_file": "content/lessons/A2/A2-U13-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--normal.mp3",
+  "slow_file": "content/audio/files/A2-U13-L01--2026.10.22.1--text--29d2cf8157--slow.mp3",
+  "duration_seconds": 94.00680272108843,
+  "slow_duration_seconds": 105.41941043083901,
+  "cues": [
+    {
+      "text": "Oznámení pro návštěvníky knihovny: Od pondělí do středy bude hlavní vchod uzavřen kvůli opravě schodů. Knihovna ale zůstává otevřená.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Oznámení pro návštěvníky knihovny: Od pondělí do středy bude hlavní vchod uzavřen kvůli opravě schodů.",
+        "Knihovna ale zůstává otevřená."
+      ],
+      "start": 0.0,
+      "end": 11.662267573696145,
+      "sentences": [
+        {
+          "text": "Oznámení pro návštěvníky knihovny: Od pondělí do středy bude hlavní vchod uzavřen kvůli opravě schodů.",
+          "start": 0.0,
+          "end": 8.52172335600907,
+          "slow_start": 0.0,
+          "slow_end": 9.752380952380953
+        },
+        {
+          "text": "Knihovna ale zůstává otevřená.",
+          "start": 8.70172335600907,
+          "end": 11.662267573696145,
+          "slow_start": 9.932380952380953,
+          "slow_end": 13.20639455782313
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 13.20639455782313
+    },
+    {
+      "text": "Použijte prosím boční vchod ze zahrady. Cesta je označena modrými šipkami. Pro osoby, které potřebují pomoc, je u branky telefonní číslo.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Použijte prosím boční vchod ze zahrady.",
+        "Cesta je označena modrými šipkami.",
+        "Pro osoby, které potřebují pomoc, je u branky telefonní číslo."
+      ],
+      "start": 11.842267573696144,
+      "end": 23.661315192743764,
+      "sentences": [
+        {
+          "text": "Použijte prosím boční vchod ze zahrady.",
+          "start": 11.842267573696144,
+          "end": 15.209160997732427,
+          "slow_start": 13.38639455782313,
+          "slow_end": 17.298956916099772
+        },
+        {
+          "text": "Cesta je označena modrými šipkami.",
+          "start": 15.389160997732427,
+          "end": 18.26843537414966,
+          "slow_start": 17.478956916099772,
+          "slow_end": 20.75297052154195
+        },
+        {
+          "text": "Pro osoby, které potřebují pomoc, je u branky telefonní číslo.",
+          "start": 18.44843537414966,
+          "end": 23.661315192743764,
+          "slow_start": 20.93297052154195,
+          "slow_end": 26.796009070294783
+        }
+      ],
+      "slow_start": 13.38639455782313,
+      "slow_end": 26.796009070294783
+    },
+    {
+      "text": "Výpůjční doba se nemění. Dětské oddělení bude v úterý dopoledne dočasně přesunuto do prvního patra. Odpolední program začíná jako obvykle ve tři hodiny.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Výpůjční doba se nemění.",
+        "Dětské oddělení bude v úterý dopoledne dočasně přesunuto do prvního patra.",
+        "Odpolední program začíná jako obvykle ve tři hodiny."
+      ],
+      "start": 23.841315192743764,
+      "end": 37.07678004535148,
+      "sentences": [
+        {
+          "text": "Výpůjční doba se nemění.",
+          "start": 23.841315192743764,
+          "end": 26.163310657596373,
+          "slow_start": 26.976009070294786,
+          "slow_end": 29.58825396825397
+        },
+        {
+          "text": "Dětské oddělení bude v úterý dopoledne dočasně přesunuto do prvního patra.",
+          "start": 26.343310657596373,
+          "end": 32.38049886621315,
+          "slow_start": 29.76825396825397,
+          "slow_end": 36.35111111111111
+        },
+        {
+          "text": "Odpolední program začíná jako obvykle ve tři hodiny.",
+          "start": 32.56049886621315,
+          "end": 37.07678004535148,
+          "slow_start": 36.53111111111111,
+          "slow_end": 41.52340136054422
+        }
+      ],
+      "slow_start": 26.976009070294786,
+      "slow_end": 41.52340136054422
+    },
+    {
+      "text": "Návštěvník se ptá: Znamená to, že v úterý nemůžu vrátit knihy? Pracovnice odpovídá, že vracení funguje normálně, jen je potřeba přijít jiným vchodem.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Návštěvník se ptá: Znamená to, že v úterý nemůžu vrátit knihy?",
+        "Pracovnice odpovídá, že vracení funguje normálně, jen je potřeba přijít jiným vchodem."
+      ],
+      "start": 37.256780045351476,
+      "end": 51.043673469387755,
+      "sentences": [
+        {
+          "text": "Návštěvník se ptá: Znamená to, že v úterý nemůžu vrátit knihy?",
+          "start": 37.256780045351476,
+          "end": 43.23591836734694,
+          "slow_start": 41.70340136054422,
+          "slow_end": 48.390748299319725
+        },
+        {
+          "text": "Pracovnice odpovídá, že vracení funguje normálně, jen je potřeba přijít jiným vchodem.",
+          "start": 43.41591836734694,
+          "end": 51.043673469387755,
+          "slow_start": 48.570748299319725,
+          "slow_end": 57.266621315192744
+        }
+      ],
+      "slow_start": 41.70340136054422,
+      "slow_end": 57.266621315192744
+    },
+    {
+      "text": "Další krátká zpráva se týká sousedského trhu. Trh plánovaný na sobotu se kvůli silnému větru přesouvá do sálu vedle radnice.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Další krátká zpráva se týká sousedského trhu.",
+        "Trh plánovaný na sobotu se kvůli silnému větru přesouvá do sálu vedle radnice."
+      ],
+      "start": 51.223673469387755,
+      "end": 62.93238095238095,
+      "sentences": [
+        {
+          "text": "Další krátká zpráva se týká sousedského trhu.",
+          "start": 51.223673469387755,
+          "end": 55.33360544217687,
+          "slow_start": 57.44662131519274,
+          "slow_end": 62.06739229024943
+        },
+        {
+          "text": "Trh plánovaný na sobotu se kvůli silnému větru přesouvá do sálu vedle radnice.",
+          "start": 55.51360544217687,
+          "end": 62.93238095238095,
+          "slow_start": 62.24739229024944,
+          "slow_end": 70.68784580498867
+        }
+      ],
+      "slow_start": 57.44662131519274,
+      "slow_end": 70.68784580498867
+    },
+    {
+      "text": "Čas zůstává stejný, ale počet míst je menší. Organizátoři proto prosí prodejce, aby předem potvrdili účast.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Čas zůstává stejný, ale počet míst je menší.",
+        "Organizátoři proto prosí prodejce, aby předem potvrdili účast."
+      ],
+      "start": 63.11238095238095,
+      "end": 73.85746031746032,
+      "sentences": [
+        {
+          "text": "Čas zůstává stejný, ale počet míst je menší.",
+          "start": 63.11238095238095,
+          "end": 67.6518820861678,
+          "slow_start": 70.86784580498866,
+          "slow_end": 75.87174603174603
+        },
+        {
+          "text": "Organizátoři proto prosí prodejce, aby předem potvrdili účast.",
+          "start": 67.8318820861678,
+          "end": 73.85746031746032,
+          "slow_start": 76.05174603174603,
+          "slow_end": 82.82036281179138
+        }
+      ],
+      "slow_start": 70.86784580498866,
+      "slow_end": 82.82036281179138
+    },
+    {
+      "text": "Zpráva zatím neuvádí, zda bude další trh také uvnitř. To se má rozhodnout později podle počasí.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Zpráva zatím neuvádí, zda bude další trh také uvnitř.",
+        "To se má rozhodnout později podle počasí."
+      ],
+      "start": 74.03746031746032,
+      "end": 82.7972335600907,
+      "sentences": [
+        {
+          "text": "Zpráva zatím neuvádí, zda bude další trh také uvnitř.",
+          "start": 74.03746031746032,
+          "end": 79.0645804988662,
+          "slow_start": 83.00036281179138,
+          "slow_end": 88.6195918367347
+        },
+        {
+          "text": "To se má rozhodnout později podle počasí.",
+          "start": 79.24458049886621,
+          "end": 82.7972335600907,
+          "slow_start": 88.79959183673469,
+          "slow_end": 92.74698412698413
+        }
+      ],
+      "slow_start": 83.00036281179138,
+      "slow_end": 92.74698412698413
+    },
+    {
+      "text": "Při čtení oddělujeme potvrzenou změnu od toho, co ještě nevíme. Nadpis sám o sobě nestačí, důležité jsou podmínky v textu.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Při čtení oddělujeme potvrzenou změnu od toho, co ještě nevíme.",
+        "Nadpis sám o sobě nestačí, důležité jsou podmínky v textu."
+      ],
+      "start": 82.97723356009071,
+      "end": 93.82680272108844,
+      "sentences": [
+        {
+          "text": "Při čtení oddělujeme potvrzenou změnu od toho, co ještě nevíme.",
+          "start": 82.97723356009071,
+          "end": 88.16689342403627,
+          "slow_start": 92.92698412698412,
+          "slow_end": 98.76680272108844
+        },
+        {
+          "text": "Nadpis sám o sobě nestačí, důležité jsou podmínky v textu.",
+          "start": 88.34689342403628,
+          "end": 93.82680272108844,
+          "slow_start": 98.94680272108843,
+          "slow_end": 105.239410430839
+        }
+      ],
+      "slow_start": 92.92698412698412,
+      "slow_end": 105.239410430839
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "ac3a47a60378cdf57872cb14c56cd1c76740233413cd31a36f80dd2879d8aaee",
+    "slow": "154ac0c53ce49539f679ad504329c29b134d5465d9be97d07d6ba6303006dc7e"
+  }
+}

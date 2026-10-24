@@ -1,0 +1,59 @@
+{
+  "id": "Pre-A1-U06-L01--2026.10.22.1--exercises",
+  "lesson_id": "Pre-A1-U06-L01",
+  "content_version": "2026.10.22.1",
+  "level": "Pre-A1",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Neperlivou, prosím.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "Pre-A1-U06-L01-E02",
+      "parts": [
+        "Neperlivou, prosím."
+      ]
+    }
+  ],
+  "text_sha256": "e5588bc584179b2b14bfa24700df0541074167eb1cbd542b7bb0bbc418d2489e",
+  "source_file": "content/lessons/Pre-A1/Pre-A1-U06-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/Pre-A1-U06-L01--2026.10.22.1--exercises--e5588bc584--normal.mp3",
+  "slow_file": "content/audio/files/Pre-A1-U06-L01--2026.10.22.1--exercises--e5588bc584--slow.mp3",
+  "duration_seconds": 2.0840362811791384,
+  "slow_duration_seconds": 2.339455782312925,
+  "cues": [
+    {
+      "text": "Neperlivou, prosím.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "Pre-A1-U06-L01-E02",
+      "parts": [
+        "Neperlivou, prosím."
+      ],
+      "start": 0.0,
+      "end": 1.9040362811791383,
+      "sentences": [
+        {
+          "text": "Neperlivou, prosím.",
+          "start": 0.0,
+          "end": 1.9040362811791383,
+          "slow_start": 0.0,
+          "slow_end": 2.159455782312925
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.159455782312925
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "54b242de5eb8033064a7e81866b592fdb658d64ffe3aee28009d9f4711a710e2",
+    "slow": "1d283b12eaa01a5a13f7e27a84a7687c4eb3fbb86f9f16cdb79f25ecc5205b36"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "B1-U03-L01--2026.10.22.1--exercises",
+  "lesson_id": "B1-U03-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Vejděte bočním vchodem. Hlavní vchod je během opravy zavřený.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "B1-U03-L01-E03",
+      "parts": [
+        "Vejděte bočním vchodem.",
+        "Hlavní vchod je během opravy zavřený."
+      ]
+    }
+  ],
+  "text_sha256": "7b047efc154eba2459d8b0562d8decba54e8952a33ec55376da15bafa1cf99a1",
+  "source_file": "content/lessons/B1/B1-U03-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U03-L01--2026.10.22.1--exercises--7b047efc15--normal.mp3",
+  "slow_file": "content/audio/files/B1-U03-L01--2026.10.22.1--exercises--7b047efc15--slow.mp3",
+  "duration_seconds": 5.491609977324263,
+  "slow_duration_seconds": 6.037278911564626,
+  "cues": [
+    {
+      "text": "Vejděte bočním vchodem. Hlavní vchod je během opravy zavřený.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "B1-U03-L01-E03",
+      "parts": [
+        "Vejděte bočním vchodem.",
+        "Hlavní vchod je během opravy zavřený."
+      ],
+      "start": 0.0,
+      "end": 5.311609977324263,
+      "sentences": [
+        {
+          "text": "Vejděte bočním vchodem.",
+          "start": 0.0,
+          "end": 2.020136054421769,
+          "slow_start": 0.0,
+          "slow_end": 2.2291156462585033
+        },
+        {
+          "text": "Hlavní vchod je během opravy zavřený.",
+          "start": 2.2001360544217685,
+          "end": 5.311609977324263,
+          "slow_start": 2.4091156462585035,
+          "slow_end": 5.8572789115646255
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 5.8572789115646255
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "5c678faaded9993675cde7050e000a0f651be0a0152448d3a93faeff4d8e61d2",
+    "slow": "1f87432a633643acf3ffe390a7d1cf36da4a031a5a19b1f3c823d2e223181a36"
+  }
+}

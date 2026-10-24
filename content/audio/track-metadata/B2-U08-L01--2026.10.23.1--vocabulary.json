@@ -1,0 +1,145 @@
+{
+  "id": "B2-U08-L01--2026.10.23.1--vocabulary",
+  "lesson_id": "B2-U08-L01",
+  "content_version": "2026.10.23.1",
+  "level": "B2",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Prosíme o návrh způsobu nápravy.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Prosíme o návrh způsobu nápravy."
+      ]
+    },
+    {
+      "text": "Uveďte číslo zakázky.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Uveďte číslo zakázky."
+      ]
+    },
+    {
+      "text": "Došlo k záměně souborů.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Došlo k záměně souborů."
+      ]
+    },
+    {
+      "text": "Označili jsme dotčené panely.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Označili jsme dotčené panely."
+      ]
+    }
+  ],
+  "text_sha256": "32f3829c6c6ad3ac538b43c72b120f2b666bec0d0906db4a3583a85ed93974be",
+  "source_file": "content/lessons/B2/B2-U08-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U08-L01--2026.10.22.1--vocabulary--32f3829c6c--normal.mp3",
+  "slow_file": "content/audio/files/B2-U08-L01--2026.10.22.1--vocabulary--32f3829c6c--slow.mp3",
+  "duration_seconds": 10.739410430839003,
+  "slow_duration_seconds": 12.097777777777777,
+  "cues": [
+    {
+      "text": "Prosíme o návrh způsobu nápravy.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Prosíme o návrh způsobu nápravy."
+      ],
+      "start": 0.0,
+      "end": 3.1346938775510202,
+      "sentences": [
+        {
+          "text": "Prosíme o návrh způsobu nápravy.",
+          "start": 0.0,
+          "end": 3.1346938775510202,
+          "slow_start": 0.0,
+          "slow_end": 3.5874829931972787
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 3.5874829931972787
+    },
+    {
+      "text": "Uveďte číslo zakázky.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Uveďte číslo zakázky."
+      ],
+      "start": 3.3146938775510204,
+      "end": 5.381269841269841,
+      "sentences": [
+        {
+          "text": "Uveďte číslo zakázky.",
+          "start": 3.3146938775510204,
+          "end": 5.381269841269841,
+          "slow_start": 3.767482993197279,
+          "slow_end": 6.147528344671202
+        }
+      ],
+      "slow_start": 3.767482993197279,
+      "slow_end": 6.147528344671202
+    },
+    {
+      "text": "Došlo k záměně souborů.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Došlo k záměně souborů."
+      ],
+      "start": 5.561269841269842,
+      "end": 7.84843537414966,
+      "sentences": [
+        {
+          "text": "Došlo k záměně souborů.",
+          "start": 5.561269841269842,
+          "end": 7.84843537414966,
+          "slow_start": 6.327528344671202,
+          "slow_end": 9.009433106575964
+        }
+      ],
+      "slow_start": 6.327528344671202,
+      "slow_end": 9.009433106575964
+    },
+    {
+      "text": "Označili jsme dotčené panely.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Označili jsme dotčené panely."
+      ],
+      "start": 8.02843537414966,
+      "end": 10.559410430839002,
+      "sentences": [
+        {
+          "text": "Označili jsme dotčené panely.",
+          "start": 8.02843537414966,
+          "end": 10.559410430839002,
+          "slow_start": 9.189433106575963,
+          "slow_end": 11.917777777777777
+        }
+      ],
+      "slow_start": 9.189433106575963,
+      "slow_end": 11.917777777777777
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "5401f46515ced326efa7fe8fb125ffa8c4b253876e13a8ae7b328e21b78d9a4f",
+    "slow": "ad816fb27702126a9501ee800971f9d2da9d1063ee3f2f1b2d9d8efe0547066e"
+  },
+  "reused_from_track_id": "B2-U08-L01--2026.10.22.1--vocabulary"
+}

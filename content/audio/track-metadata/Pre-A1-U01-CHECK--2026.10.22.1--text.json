@@ -1,0 +1,95 @@
+{
+  "id": "Pre-A1-U01-CHECK--2026.10.22.1--text",
+  "lesson_id": "Pre-A1-U01-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "Pre-A1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Dobrý den. Jmenuju se Jana.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Dobrý den.",
+        "Jmenuju se Jana."
+      ]
+    },
+    {
+      "text": "To je čaj, ne káva.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "To je čaj, ne káva."
+      ]
+    }
+  ],
+  "text_sha256": "47e1df65fb78758a0df4908c7f629f3a9f2ce3b257f331c74f2f3bbdb91f35ea",
+  "source_file": "content/assessments/Pre-A1-U01.json",
+  "status": "generated",
+  "file": "content/audio/files/Pre-A1-U01-CHECK--2026.10.22.1--text--47e1df65fb--normal.mp3",
+  "slow_file": "content/audio/files/Pre-A1-U01-CHECK--2026.10.22.1--text--47e1df65fb--slow.mp3",
+  "duration_seconds": 4.812471655328798,
+  "slow_duration_seconds": 5.532290249433107,
+  "cues": [
+    {
+      "text": "Dobrý den. Jmenuju se Jana.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Dobrý den.",
+        "Jmenuju se Jana."
+      ],
+      "start": 0.0,
+      "end": 2.6529251700680274,
+      "sentences": [
+        {
+          "text": "Dobrý den.",
+          "start": 0.0,
+          "end": 1.0448979591836736,
+          "slow_start": 0.0,
+          "slow_end": 1.253877551020408
+        },
+        {
+          "text": "Jmenuju se Jana.",
+          "start": 1.2248979591836735,
+          "end": 2.6529251700680274,
+          "slow_start": 1.4338775510204083,
+          "slow_end": 3.105714285714286
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 3.105714285714286
+    },
+    {
+      "text": "To je čaj, ne káva.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "To je čaj, ne káva."
+      ],
+      "start": 2.832925170068027,
+      "end": 4.632471655328798,
+      "sentences": [
+        {
+          "text": "To je čaj, ne káva.",
+          "start": 2.832925170068027,
+          "end": 4.632471655328798,
+          "slow_start": 3.2857142857142856,
+          "slow_end": 5.352290249433106
+        }
+      ],
+      "slow_start": 3.2857142857142856,
+      "slow_end": 5.352290249433106
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "d8d8fbbcd410f8bd32fc8b30c582b27330bedcd27fec8247ed19e9dca1c2f14b",
+    "slow": "1d6922bddb2d9e9829aa8f52fa3245eb7cf43b595a2e6f2be19e30808d2b79c2"
+  }
+}

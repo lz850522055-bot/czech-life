@@ -1,0 +1,111 @@
+{
+  "id": "C2-U01-CHECK--2026.10.22.1--text",
+  "lesson_id": "C2-U01-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "C2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Lenka: Ty balíky zítra? Pavel: Menší ano, ty velké až potom. Lenka: Po schválení? Pavel: Po zabalení. Schválené už jsou. Jana: A posíláš je ty? Pavel: Objednám odvoz, dopravce je musí nejdřív potvrdit.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Lenka: Ty balíky zítra?",
+        "Pavel: Menší ano, ty velké až potom.",
+        "Lenka: Po schválení?",
+        "Pavel: Po zabalení.",
+        "Schválené už jsou.",
+        "Jana: A posíláš je ty?",
+        "Pavel: Objednám odvoz, dopravce je musí nejdřív potvrdit."
+      ]
+    }
+  ],
+  "text_sha256": "ab450fef7045e9ee5c0a2ad88b4407346f19c0db0867d363c7782eab988b3cb3",
+  "source_file": "content/assessments/C2-U01.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U01-CHECK--2026.10.22.1--text--ab450fef70--normal.mp3",
+  "slow_file": "content/audio/files/C2-U01-CHECK--2026.10.22.1--text--ab450fef70--slow.mp3",
+  "duration_seconds": 19.626984126984127,
+  "slow_duration_seconds": 22.42498866213152,
+  "cues": [
+    {
+      "text": "Lenka: Ty balíky zítra? Pavel: Menší ano, ty velké až potom. Lenka: Po schválení? Pavel: Po zabalení. Schválené už jsou. Jana: A posíláš je ty? Pavel: Objednám odvoz, dopravce je musí nejdřív potvrdit.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Lenka: Ty balíky zítra?",
+        "Pavel: Menší ano, ty velké až potom.",
+        "Lenka: Po schválení?",
+        "Pavel: Po zabalení.",
+        "Schválené už jsou.",
+        "Jana: A posíláš je ty?",
+        "Pavel: Objednám odvoz, dopravce je musí nejdřív potvrdit."
+      ],
+      "start": 0.0,
+      "end": 19.446984126984127,
+      "sentences": [
+        {
+          "text": "Lenka: Ty balíky zítra?",
+          "start": 0.0,
+          "end": 2.2639455782312927,
+          "slow_start": 0.0,
+          "slow_end": 2.507755102040816
+        },
+        {
+          "text": "Pavel: Menší ano, ty velké až potom.",
+          "start": 2.4439455782312924,
+          "end": 6.077868480725623,
+          "slow_start": 2.6877551020408164,
+          "slow_end": 6.8789569160997734
+        },
+        {
+          "text": "Lenka: Po schválení?",
+          "start": 6.257868480725624,
+          "end": 8.127074829931972,
+          "slow_start": 7.058956916099773,
+          "slow_end": 9.230022675736961
+        },
+        {
+          "text": "Pavel: Po zabalení.",
+          "start": 8.307074829931972,
+          "end": 10.036961451247166,
+          "slow_start": 9.410022675736961,
+          "slow_end": 11.325668934240364
+        },
+        {
+          "text": "Schválené už jsou.",
+          "start": 10.216961451247165,
+          "end": 11.703038548752835,
+          "slow_start": 11.505668934240363,
+          "slow_end": 13.29360544217687
+        },
+        {
+          "text": "Jana: A posíláš je ty?",
+          "start": 11.883038548752834,
+          "end": 14.216643990929706,
+          "slow_start": 13.47360544217687,
+          "slow_end": 16.155510204081633
+        },
+        {
+          "text": "Pavel: Objednám odvoz, dopravce je musí nejdřív potvrdit.",
+          "start": 14.396643990929705,
+          "end": 19.446984126984127,
+          "slow_start": 16.335510204081633,
+          "slow_end": 22.24498866213152
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 22.24498866213152
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "6a10e0333f3e6ad257eff0873dc4a038d1398dd713076cee522a070cf8ae690e",
+    "slow": "41d0483065539a023899e4a84bdeda0322a4e0203e1a08c96ff2b4074de06af5"
+  }
+}

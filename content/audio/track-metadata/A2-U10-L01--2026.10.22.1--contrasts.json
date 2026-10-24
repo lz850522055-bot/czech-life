@@ -1,0 +1,57 @@
+{
+  "id": "A2-U10-L01--2026.10.22.1--contrasts",
+  "lesson_id": "A2-U10-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "byste. jste.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "byste. jste."
+      ]
+    }
+  ],
+  "text_sha256": "95aea145f32161d320b1365eab44af75f8a70593896c9382b8f8458fd877be4d",
+  "source_file": "content/lessons/A2/A2-U10-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U10-L01--2026.10.22.1--contrasts--95aea145f3--normal.mp3",
+  "slow_file": "content/audio/files/A2-U10-L01--2026.10.22.1--contrasts--95aea145f3--slow.mp3",
+  "duration_seconds": 1.3293877551020408,
+  "slow_duration_seconds": 1.4687074829931972,
+  "cues": [
+    {
+      "text": "byste. jste.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "byste. jste."
+      ],
+      "start": 0.0,
+      "end": 1.1493877551020408,
+      "sentences": [
+        {
+          "text": "byste. jste.",
+          "start": 0.0,
+          "end": 1.1493877551020408,
+          "slow_start": 0.0,
+          "slow_end": 1.2887074829931973
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.2887074829931973
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "a4c5cf42a30b6b8fcf8bc03d4265348bc096a36f3c9b362763b1f79a8065cfc3",
+    "slow": "8ffa1a9e5303d0fb8822c99013bc447098568d6473867fe3f233603763c1261c"
+  }
+}

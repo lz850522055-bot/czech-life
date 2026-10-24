@@ -1,0 +1,59 @@
+{
+  "id": "Pre-A1-U05-L01--2026.10.22.1--exercises",
+  "lesson_id": "Pre-A1-U05-L01",
+  "content_version": "2026.10.22.1",
+  "level": "Pre-A1",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Lékárna je hned vedle obchodu.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "Pre-A1-U05-L01-E02",
+      "parts": [
+        "Lékárna je hned vedle obchodu."
+      ]
+    }
+  ],
+  "text_sha256": "ebad647ffa91521a95337add8548a6460e0f42992c8f7619c020ecf88db6fc4e",
+  "source_file": "content/lessons/Pre-A1/Pre-A1-U05-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/Pre-A1-U05-L01--2026.10.22.1--exercises--ebad647ffa--normal.mp3",
+  "slow_file": "content/audio/files/Pre-A1-U05-L01--2026.10.22.1--exercises--ebad647ffa--slow.mp3",
+  "duration_seconds": 2.7341950113378686,
+  "slow_duration_seconds": 3.105714285714286,
+  "cues": [
+    {
+      "text": "Lékárna je hned vedle obchodu.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "Pre-A1-U05-L01-E02",
+      "parts": [
+        "Lékárna je hned vedle obchodu."
+      ],
+      "start": 0.0,
+      "end": 2.5541950113378684,
+      "sentences": [
+        {
+          "text": "Lékárna je hned vedle obchodu.",
+          "start": 0.0,
+          "end": 2.5541950113378684,
+          "slow_start": 0.0,
+          "slow_end": 2.9257142857142857
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.9257142857142857
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "0fffe38da963346158bb00ea980ec0bdd851799e47a35cf9d1fbaebd53f7d75c",
+    "slow": "a323741200f5a474e8c8fd3051f5869e8e0c20b941742cf5196cbe1c34dfed39"
+  }
+}

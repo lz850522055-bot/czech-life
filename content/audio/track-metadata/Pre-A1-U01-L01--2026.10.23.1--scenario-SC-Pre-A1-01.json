@@ -1,0 +1,249 @@
+{
+  "id": "Pre-A1-U01-L01--2026.10.23.1--scenario-SC-Pre-A1-01",
+  "lesson_id": "Pre-A1-U01-L01",
+  "content_version": "2026.10.23.1",
+  "level": "Pre-A1",
+  "group": "scenario-SC-Pre-A1-01",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Jana, nebo Hana?",
+      "index": 0,
+      "role": "scenario",
+      "scenario_id": "SC-Pre-A1-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "start",
+      "parts": [
+        "Jana, nebo Hana?"
+      ]
+    },
+    {
+      "text": "Jana. J-A-N-A. Je to správně?",
+      "index": 1,
+      "role": "scenario",
+      "scenario_id": "SC-Pre-A1-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "spell",
+      "parts": [
+        "Jana.",
+        "J-A-N-A.",
+        "Je to správně?"
+      ]
+    },
+    {
+      "text": "Prosím, které jméno? Jana? Hana?",
+      "index": 2,
+      "role": "scenario",
+      "scenario_id": "SC-Pre-A1-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "repair",
+      "parts": [
+        "Prosím, které jméno?",
+        "Jana?",
+        "Hana?"
+      ]
+    },
+    {
+      "text": "Dobře, Jana. Děkuji.",
+      "index": 3,
+      "role": "scenario",
+      "scenario_id": "SC-Pre-A1-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "done",
+      "parts": [
+        "Dobře, Jana.",
+        "Děkuji."
+      ]
+    },
+    {
+      "text": "Tady: JANA.",
+      "index": 4,
+      "role": "scenario",
+      "scenario_id": "SC-Pre-A1-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "written",
+      "parts": [
+        "Tady: JANA."
+      ]
+    }
+  ],
+  "text_sha256": "a3cb626ddfe20ebb3c338c4a98805b717fe224fd3ae96156c9c649e5fdece857",
+  "source_file": "content/scenarios.json",
+  "status": "generated",
+  "file": "content/audio/files/Pre-A1-U01-L01--2026.10.22.1--scenario-SC-Pre-A1-01--a3cb626ddf--normal.mp3",
+  "slow_file": "content/audio/files/Pre-A1-U01-L01--2026.10.22.1--scenario-SC-Pre-A1-01--a3cb626ddf--slow.mp3",
+  "duration_seconds": 12.53922902494331,
+  "slow_duration_seconds": 14.048526077097506,
+  "cues": [
+    {
+      "text": "Jana, nebo Hana?",
+      "index": 0,
+      "role": "scenario",
+      "scenario_id": "SC-Pre-A1-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "start",
+      "parts": [
+        "Jana, nebo Hana?"
+      ],
+      "start": 0.0,
+      "end": 1.5441269841269842,
+      "sentences": [
+        {
+          "text": "Jana, nebo Hana?",
+          "start": 0.0,
+          "end": 1.5441269841269842,
+          "slow_start": 0.0,
+          "slow_end": 1.7414965986394557
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.7414965986394557
+    },
+    {
+      "text": "Jana. J-A-N-A. Je to správně?",
+      "index": 1,
+      "role": "scenario",
+      "scenario_id": "SC-Pre-A1-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "spell",
+      "parts": [
+        "Jana.",
+        "J-A-N-A.",
+        "Je to správně?"
+      ],
+      "start": 1.7241269841269842,
+      "end": 4.847301587301588,
+      "sentences": [
+        {
+          "text": "Jana.",
+          "start": 1.7241269841269842,
+          "end": 2.351065759637188,
+          "slow_start": 1.9214965986394559,
+          "slow_end": 2.606485260770975
+        },
+        {
+          "text": "J-A-N-A.",
+          "start": 2.531065759637188,
+          "end": 3.366984126984127,
+          "slow_start": 2.786485260770975,
+          "slow_end": 3.7501133786848073
+        },
+        {
+          "text": "Je to správně?",
+          "start": 3.546984126984127,
+          "end": 4.847301587301588,
+          "slow_start": 3.930113378684807,
+          "slow_end": 5.462630385487528
+        }
+      ],
+      "slow_start": 1.9214965986394559,
+      "slow_end": 5.462630385487528
+    },
+    {
+      "text": "Prosím, které jméno? Jana? Hana?",
+      "index": 2,
+      "role": "scenario",
+      "scenario_id": "SC-Pre-A1-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "repair",
+      "parts": [
+        "Prosím, které jméno?",
+        "Jana?",
+        "Hana?"
+      ],
+      "start": 5.027301587301587,
+      "end": 8.591655328798186,
+      "sentences": [
+        {
+          "text": "Prosím, které jméno?",
+          "start": 5.027301587301587,
+          "end": 6.954557823129251,
+          "slow_start": 5.642630385487529,
+          "slow_end": 7.825306122448979
+        },
+        {
+          "text": "Jana?",
+          "start": 7.134557823129252,
+          "end": 7.7963265306122445,
+          "slow_start": 8.00530612244898,
+          "slow_end": 8.806394557823129
+        },
+        {
+          "text": "Hana?",
+          "start": 7.976326530612245,
+          "end": 8.591655328798186,
+          "slow_start": 8.986394557823129,
+          "slow_end": 9.671383219954649
+        }
+      ],
+      "slow_start": 5.642630385487529,
+      "slow_end": 9.671383219954649
+    },
+    {
+      "text": "Dobře, Jana. Děkuji.",
+      "index": 3,
+      "role": "scenario",
+      "scenario_id": "SC-Pre-A1-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "done",
+      "parts": [
+        "Dobře, Jana.",
+        "Děkuji."
+      ],
+      "start": 8.771655328798186,
+      "end": 11.053061224489795,
+      "sentences": [
+        {
+          "text": "Dobře, Jana.",
+          "start": 8.771655328798186,
+          "end": 9.979092970521542,
+          "slow_start": 9.851383219954648,
+          "slow_end": 11.279410430839002
+        },
+        {
+          "text": "Děkuji.",
+          "start": 10.159092970521542,
+          "end": 11.053061224489795,
+          "slow_start": 11.459410430839002,
+          "slow_end": 12.411428571428571
+        }
+      ],
+      "slow_start": 9.851383219954648,
+      "slow_end": 12.411428571428571
+    },
+    {
+      "text": "Tady: JANA.",
+      "index": 4,
+      "role": "scenario",
+      "scenario_id": "SC-Pre-A1-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "written",
+      "parts": [
+        "Tady: JANA."
+      ],
+      "start": 11.233061224489797,
+      "end": 12.35922902494331,
+      "sentences": [
+        {
+          "text": "Tady: JANA.",
+          "start": 11.233061224489797,
+          "end": 12.35922902494331,
+          "slow_start": 12.59142857142857,
+          "slow_end": 13.868526077097506
+        }
+      ],
+      "slow_start": 12.59142857142857,
+      "slow_end": 13.868526077097506
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "2c39ad2d79c3827cc3c276e95570cb0a2a2aeb686b326a35c73a7bf2bac8c699",
+    "slow": "ed65b61e5ab70af61965614172005f56cb808dff4eb0313f5ff18d47b7cfdf58"
+  },
+  "reused_from_track_id": "Pre-A1-U01-L01--2026.10.22.1--scenario-SC-Pre-A1-01"
+}

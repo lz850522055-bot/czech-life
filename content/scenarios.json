@@ -1,0 +1,618 @@
+[
+  {
+    "id": "SC-Pre-A1-01",
+    "version": "2026.10.22.1",
+    "level": "Pre-A1",
+    "lesson_id": "Pre-A1-U01-L01",
+    "title_zh": "柜台把名字听清楚",
+    "intro_zh": "你的名字是 Jana。柜台人员不确定首字母。先听名字，用一个名字、一个字母或请求写下来完成确认；不必假装听懂整段话。",
+    "start": "start",
+    "nodes": [
+      {
+        "id": "start",
+        "speaker_cs": "Jana, nebo Hana?",
+        "speaker_zh": "是 Jana，还是 Hana？",
+        "choices": [
+          {
+            "id": "name",
+            "text_cs": "Jana. J.",
+            "text_zh": "Jana。字母 J。",
+            "feedback_zh": "说出名字和首字母，给对方可核对的信息。",
+            "next": "spell"
+          },
+          {
+            "id": "yes",
+            "text_cs": "Ano.",
+            "text_zh": "是的。",
+            "feedback_zh": "对方问的是两个名字中的哪一个，单说“是”仍可能留下歧义。可以在下一轮补清。",
+            "next": "repair"
+          }
+        ]
+      },
+      {
+        "id": "spell",
+        "speaker_cs": "Jana. J-A-N-A. Je to správně?",
+        "speaker_zh": "Jana，J-A-N-A。对吗？",
+        "choices": [
+          {
+            "id": "confirm",
+            "text_cs": "Ano. Děkuji.",
+            "text_zh": "对，谢谢。",
+            "feedback_zh": "对方已经给出明确拼写，此时“对”能确认具体内容。",
+            "next": "done"
+          },
+          {
+            "id": "write",
+            "text_cs": "Prosím, napište to.",
+            "text_zh": "请写下来。",
+            "feedback_zh": "把口头核对改成视觉核对，是有效的沟通策略。",
+            "next": "written"
+          }
+        ]
+      },
+      {
+        "id": "repair",
+        "speaker_cs": "Prosím, které jméno? Jana? Hana?",
+        "speaker_zh": "请问哪个名字？Jana？Hana？",
+        "choices": [
+          {
+            "id": "retry",
+            "text_cs": "Jana. J.",
+            "text_zh": "Jana，J。",
+            "feedback_zh": "补充选项中的具体名字，修复上一轮的歧义。",
+            "next": "spell"
+          },
+          {
+            "id": "show",
+            "text_cs": "Prosím, napište to.",
+            "text_zh": "请写下来。",
+            "feedback_zh": "暂时借助文字，不必靠猜测完成听辨。",
+            "next": "written"
+          }
+        ]
+      },
+      {
+        "id": "done",
+        "speaker_cs": "Dobře, Jana. Děkuji.",
+        "speaker_zh": "好的，Jana，谢谢。",
+        "choices": [],
+        "outcome_zh": "已通过重复名字和拼写完成口头确认。回听名字与字母，不把这次选择当成发音评分。"
+      },
+      {
+        "id": "written",
+        "speaker_cs": "Tady: JANA.",
+        "speaker_zh": "这里写的是：JANA。",
+        "choices": [],
+        "outcome_zh": "对话转为书面核对。查看名字后可指认或再次请求修改；本分支练习求助策略，没有证明你已独立听辨全部声音。"
+      }
+    ]
+  },
+  {
+    "id": "SC-A1-01",
+    "version": "2026.10.22.1",
+    "level": "A1",
+    "lesson_id": "A1-U01-L01",
+    "title_zh": "认识新邻居并说明语言情况",
+    "intro_zh": "你叫 Ming，刚搬来，在成人社区活动遇到 Eva。你可以介绍自己、请求慢一点，也可以礼貌结束当下对话。",
+    "start": "start",
+    "nodes": [
+      {
+        "id": "start",
+        "speaker_cs": "Dobrý den. Jmenuji se Eva. Jak se jmenujete?",
+        "speaker_zh": "您好，我叫 Eva。您叫什么名字？",
+        "choices": [
+          {
+            "id": "introduce",
+            "text_cs": "Dobrý den. Jmenuji se Ming. Jsem z Číny.",
+            "text_zh": "您好，我叫 Ming，来自中国。",
+            "feedback_zh": "直接回应姓名，并补充一条简单的自我介绍。",
+            "next": "language"
+          },
+          {
+            "id": "slow",
+            "text_cs": "Nerozumím. Pomalu, prosím.",
+            "text_zh": "我不明白，请慢一点。",
+            "feedback_zh": "明确说明理解困难，让对方有机会调整。",
+            "next": "repeat"
+          }
+        ]
+      },
+      {
+        "id": "language",
+        "speaker_cs": "Těší mě. Mluvíte česky?",
+        "speaker_zh": "很高兴认识您。您说捷语吗？",
+        "choices": [
+          {
+            "id": "little",
+            "text_cs": "Trochu. Prosím pomalu.",
+            "text_zh": "会一点，请慢一些。",
+            "feedback_zh": "既说明已有能力，又提出具体帮助需求，便于继续交流。",
+            "next": "done"
+          },
+          {
+            "id": "leave",
+            "text_cs": "Mluvím čínsky. Teď nemám čas. Na shledanou.",
+            "text_zh": "我说中文。现在没有时间，再见。",
+            "feedback_zh": "说明情况并礼貌结束；不继续聊天也是合理的沟通目标。",
+            "next": "bye"
+          }
+        ]
+      },
+      {
+        "id": "repeat",
+        "speaker_cs": "Já jsem Eva. A vy?",
+        "speaker_zh": "我是 Eva，您呢？",
+        "choices": [
+          {
+            "id": "name",
+            "text_cs": "Jmenuji se Ming.",
+            "text_zh": "我叫 Ming。",
+            "feedback_zh": "对方缩短问题后，你用一句完成当前信息交换。",
+            "next": "language"
+          },
+          {
+            "id": "later",
+            "text_cs": "Promiňte. Teď nemám čas. Na shledanou.",
+            "text_zh": "抱歉，我现在没时间，再见。",
+            "feedback_zh": "礼貌表达当下边界，没有必要编造自己已经听懂所有内容。",
+            "next": "bye"
+          }
+        ]
+      },
+      {
+        "id": "done",
+        "speaker_cs": "Dobře. Budu mluvit pomalu. Vítejte!",
+        "speaker_zh": "好的，我会慢慢说。欢迎！",
+        "choices": [],
+        "outcome_zh": "双方交换姓名，并明确了慢速交流的需要。接下来可练一个自己的简短问题。"
+      },
+      {
+        "id": "bye",
+        "speaker_cs": "Na shledanou, třeba příště.",
+        "speaker_zh": "再见，也许下次聊。",
+        "choices": [],
+        "outcome_zh": "你礼貌结束了对话；此分支完成结束交往的目标，尚未继续练习互相提问。"
+      }
+    ]
+  },
+  {
+    "id": "SC-A2-01",
+    "version": "2026.10.22.1",
+    "level": "A2",
+    "lesson_id": "A2-U01-L01",
+    "title_zh": "把昨天的预约改到明天",
+    "intro_zh": "昨天你打电话预约今天取设备，现在今天去不了，希望改到明天。要分清昨天的动作、今天的困难和新的未来安排。",
+    "start": "start",
+    "nodes": [
+      {
+        "id": "start",
+        "speaker_cs": "Dobrý den, máte rezervaci na dnešek. Přijdete ve čtyři?",
+        "speaker_zh": "您好，您的预约是今天。四点来吗？",
+        "choices": [
+          {
+            "id": "timeline",
+            "text_cs": "Včera jsem volal. Dnes nemohu přijít. Můžu přijít zítra?",
+            "text_zh": "我昨天打过电话。今天不能来，能明天来吗？",
+            "feedback_zh": "三句分别放在过去、现在和未来，使修改请求清楚。",
+            "next": "offer"
+          },
+          {
+            "id": "mixed",
+            "text_cs": "Ano, zítra ve čtyři.",
+            "text_zh": "好的，明天四点。",
+            "feedback_zh": "“好的”回应今天，但后半说成明天，对方需要核实日期。",
+            "next": "repair"
+          }
+        ]
+      },
+      {
+        "id": "offer",
+        "speaker_cs": "Zítra máme volno až v pět. Hodí se vám to?",
+        "speaker_zh": "明天要到五点才有空，您方便吗？",
+        "choices": [
+          {
+            "id": "accept",
+            "text_cs": "Ano. Takže zítra v pět. Děkuji.",
+            "text_zh": "可以，所以是明天五点，谢谢。",
+            "feedback_zh": "同时重复日期和时间，确认实际新安排。",
+            "next": "done"
+          },
+          {
+            "id": "decline",
+            "text_cs": "V pět nemohu. Dnešní rezervaci prosím zrušte, zavolám později.",
+            "text_zh": "五点不行，请取消今天的预约，我稍后再打电话。",
+            "feedback_zh": "取消现有预约，但明确新的时间还没有定下。",
+            "next": "pending"
+          }
+        ]
+      },
+      {
+        "id": "repair",
+        "speaker_cs": "Ptám se na dnešek. Chcete rezervaci změnit na zítřek?",
+        "speaker_zh": "我问的是今天。您想改到明天吗？",
+        "choices": [
+          {
+            "id": "clarify",
+            "text_cs": "Ano, chci ji změnit. Dnes nemohu, zítra mohu.",
+            "text_zh": "对，我想改。今天不行，明天可以。",
+            "feedback_zh": "直接修复日期误会，再协商对方实际可用的时间。",
+            "next": "offer"
+          },
+          {
+            "id": "cancel",
+            "text_cs": "Dnes nepřijdu. Rezervaci prosím zrušte. Nový termín domluvím později.",
+            "text_zh": "我今天不来，请取消预约。新时间稍后再定。",
+            "feedback_zh": "取消与重新预约是两个动作，这里只完成前一个。",
+            "next": "pending"
+          }
+        ]
+      },
+      {
+        "id": "done",
+        "speaker_cs": "Platí tedy zítra v pět. Dnešní rezervaci ruším.",
+        "speaker_zh": "那么定明天五点，今天的预约取消。",
+        "choices": [],
+        "outcome_zh": "新旧安排已经明确区分：今天取消，明天五点确认。可再练习不用原句复述这条时间线。"
+      },
+      {
+        "id": "pending",
+        "speaker_cs": "Dnešní rezervace je zrušená. Nový termín zatím nemáme.",
+        "speaker_zh": "今天的预约取消了，新的时间还没有定。",
+        "choices": [],
+        "outcome_zh": "你完成取消，但未完成新预约。不要把“稍后再联系”记成已经有新的时间。"
+      }
+    ]
+  },
+  {
+    "id": "SC-B1-01",
+    "version": "2026.10.22.1",
+    "level": "B1",
+    "lesson_id": "B1-U01-L01",
+    "title_zh": "错过第一节课之后说明经过",
+    "intro_zh": "你参加成人晚间课程，到了旧通知中的教室，发现地点已变；找到前台时课程已开始。现在要说明事件顺序，并安排可行的补课。",
+    "start": "start",
+    "nodes": [
+      {
+        "id": "start",
+        "speaker_cs": "V seznamu jste vedený jako nepřítomný. Proč jste nepřišel na první lekci?",
+        "speaker_zh": "名单把您记为缺席，为什么没来第一节课？",
+        "choices": [
+          {
+            "id": "sequence",
+            "text_cs": "Nejdřív jsem šel do místnosti uvedené ve zprávě. Byla prázdná, proto jsem hledal recepci. Když jsem ji našel, lekce už začala.",
+            "text_zh": "我先去了消息写的教室。那里没人，于是去找前台；找到时课已开始。",
+            "feedback_zh": "按原计划、遇到的问题和后续行动讲述，帮助对方定位需要核查的环节。",
+            "next": "solution"
+          },
+          {
+            "id": "blame",
+            "text_cs": "To je vaše chyba. Já jsem přišel včas.",
+            "text_zh": "这是你们的错，我按时来了。",
+            "feedback_zh": "说明你感到受委屈，但还未提供地点与经过；对方无法仅凭结论查明原因。",
+            "next": "repair"
+          }
+        ]
+      },
+      {
+        "id": "solution",
+        "speaker_cs": "Děkuji za vysvětlení. Pošlete mi prosím tu zprávu. Mohu vám nabídnout náhradní úvod v úterý v šest.",
+        "speaker_zh": "谢谢解释，请把那条消息发给我。我可以提供周二六点的补充入门课。",
+        "choices": [
+          {
+            "id": "confirm",
+            "text_cs": "V úterý mohu. Pošlu zprávu a prosím také o potvrzení místnosti.",
+            "text_zh": "周二可以。我会发消息，也请确认教室。",
+            "feedback_zh": "接受补课，同时处理上次地点不清的具体问题。",
+            "next": "done"
+          },
+          {
+            "id": "materials",
+            "text_cs": "V úterý nemohu. Prosím o podklady a další termín domluvíme později.",
+            "text_zh": "周二不行，请给我资料，另一个时间以后再商量。",
+            "feedback_zh": "先取得能用的学习资料，明确补课仍待定。",
+            "next": "materials"
+          }
+        ]
+      },
+      {
+        "id": "repair",
+        "speaker_cs": "Rád to prověřím. Potřebuji ale vědět, kam jste přišel a podle jaké zprávy.",
+        "speaker_zh": "我愿意核查，但需要知道您去了哪里、依据哪条消息。",
+        "choices": [
+          {
+            "id": "recount",
+            "text_cs": "Rozumím. Šel jsem podle starší zprávy do prázdné místnosti. Potom jsem hledal recepci; zprávu vám přepošlu.",
+            "text_zh": "明白。我按较早消息到了空教室，之后找前台；我会转发消息。",
+            "feedback_zh": "用可核实的事件代替未核实的责任结论，修复对话。",
+            "next": "solution"
+          },
+          {
+            "id": "pause",
+            "text_cs": "Zprávu pošlu později. Teď prosím o podklady; náhradní termín zatím nevybírejme.",
+            "text_zh": "消息稍后发。现在先请给我资料，补课时间暂时不选。",
+            "feedback_zh": "暂缓归因并提出眼下可完成的请求，保留后续核查。",
+            "next": "materials"
+          }
+        ]
+      },
+      {
+        "id": "done",
+        "speaker_cs": "Zapíšu vás na úterý v šest. Místnost je dvanáct a pošlu vám potvrzení.",
+        "speaker_zh": "我给您记下周二六点，教室是12号，并会发确认。",
+        "choices": [],
+        "outcome_zh": "双方约定补课时间和地点；原通知问题仍需看你转发的消息后核查。"
+      },
+      {
+        "id": "materials",
+        "speaker_cs": "Pošlu vám podklady. Náhradní lekci zatím nerezervuji; další termín domluvíme zvlášť.",
+        "speaker_zh": "我会发送资料，暂时不预留补课；另行商量时间。",
+        "choices": [],
+        "outcome_zh": "资料交付与补课安排被分开处理。你获得了下一步，但不能把补课记成已落实。"
+      }
+    ]
+  },
+  {
+    "id": "SC-B2-01",
+    "version": "2026.10.22.1",
+    "level": "B2",
+    "lesson_id": "B2-U01-L01",
+    "title_zh": "交通限制提案中的反方条件",
+    "intro_zh": "社区会议讨论中心区汽车通行。你的任务是提出有依据的支持或保留意见，回应配送和照护需求，并说清怎样检验效果。",
+    "start": "start",
+    "nodes": [
+      {
+        "id": "start",
+        "speaker_cs": "Když omezíme auta v centru, vzduch se zlepší. Takže už není co řešit.",
+        "speaker_zh": "限制中心区汽车后空气会改善，所以已经没什么可讨论了。",
+        "choices": [
+          {
+            "id": "criteria",
+            "text_cs": "Lepší ovzduší je důležitý cíl. Potřebujeme ale určit rozsah omezení, výjimky a způsob, jak změnu ověříme.",
+            "text_zh": "更好空气是重要目标，但仍要确定限制范围、例外和验证变化的方法。",
+            "feedback_zh": "承认共同目标，同时要求把因果预期和执行条件说明白。",
+            "next": "conditions"
+          },
+          {
+            "id": "absolute",
+            "text_cs": "Souhlasím. Zakažme vjezd všem autům bez výjimky.",
+            "text_zh": "同意，禁止所有车辆进入，不设例外。",
+            "feedback_zh": "态度明确，但新增了原提案未说明的绝对范围，会引出受影响者的问题。",
+            "next": "objection"
+          }
+        ]
+      },
+      {
+        "id": "conditions",
+        "speaker_cs": "Obchodníci potřebují zásobování a někteří lidé vozí blízké, kteří špatně chodí. Jak to zahrnete?",
+        "speaker_zh": "商户需要配送，有些人还要接送行动不便的亲人。您如何纳入这些需求？",
+        "choices": [
+          {
+            "id": "pilot",
+            "text_cs": "Navrhuji časově omezený pokus s vymezenými výjimkami. Sledujme provoz, ovzduší i dostupnost služeb a předem určeme, kdy pravidla upravíme.",
+            "text_zh": "建议限时试验并明确例外，同时观察交通、空气和服务可达性，预先说明何时调整规则。",
+            "feedback_zh": "把不同目标放进可复核试验中，不把一种收益当作所有问题的答案。",
+            "next": "done"
+          },
+          {
+            "id": "data",
+            "text_cs": "Než stanovíme podmínky, doplňme údaje o těchto cestách. Bez nich bych konkrétní rozsah zatím neschvaloval.",
+            "text_zh": "确定条件前，先补这些出行的数据；没有资料，我暂不批准具体范围。",
+            "feedback_zh": "用明确缺失信息解释暂缓，保留以后改变判断的条件。",
+            "next": "defer"
+          }
+        ]
+      },
+      {
+        "id": "objection",
+        "speaker_cs": "A jak se tam dostane člověk, který nezvládne dojít od okraje zóny?",
+        "speaker_zh": "那无法从区域边缘走进去的人怎么办？",
+        "choices": [
+          {
+            "id": "revise",
+            "text_cs": "Máte pravdu, moje formulace byla příliš široká. Cíl podporuji, ale potřebujeme řešit výjimky a přístup.",
+            "text_zh": "您说得对，我的表达范围太大。我支持目标，但需要处理例外与通行。",
+            "feedback_zh": "主动修改范围不等于放弃目标，有助于回应合理反例。",
+            "next": "conditions"
+          },
+          {
+            "id": "hold",
+            "text_cs": "Na plošném zákazu zatím trvám, i když tuto situaci nemám vyřešenou.",
+            "text_zh": "我暂时仍坚持全面禁止，尽管这个情形尚未解决。",
+            "feedback_zh": "公开了自己的取舍和缺口，但没有消除反方的实际问题，因此不能记录为已有共识。",
+            "next": "defer"
+          }
+        ]
+      },
+      {
+        "id": "done",
+        "speaker_cs": "Shodujeme se tedy na návrhu pokusu s výjimkami a společnými ukazateli. Podrobnosti ještě předložíme k rozhodnutí.",
+        "speaker_zh": "那么我们同意提出带例外和共同指标的试验方案，细节还要提交决定。",
+        "choices": [],
+        "outcome_zh": "形成的是试验方案的讨论方向，还不是已经生效的交通规则。"
+      },
+      {
+        "id": "defer",
+        "speaker_cs": "Konečná dohoda nevznikla. Do zápisu uvedeme otevřenou otázku přístupu a podklady, které chybějí.",
+        "speaker_zh": "尚未形成最终协议，记录通行问题与缺失资料。",
+        "choices": [],
+        "outcome_zh": "讨论保留真实分歧。下一步应回应具体证据缺口或价值取舍，不能用“大家都同意”结束。"
+      }
+    ]
+  },
+  {
+    "id": "SC-C1-01",
+    "version": "2026.10.22.1",
+    "level": "C1",
+    "lesson_id": "C1-U01-L01",
+    "title_zh": "市场改建中的“当然向公众开放”",
+    "intro_zh": "你代表居民参加旧市场改建讨论。投资方口头支持公众使用，但开放范围、免消费停留与监督方式尚未确定。你要把支持限定到实际谈妥的部分。",
+    "start": "start",
+    "nodes": [
+      {
+        "id": "start",
+        "speaker_cs": "Veřejný přístup je samozřejmý. Nechme podrobnosti stranou, jinak projekt nikdy nezačne.",
+        "speaker_zh": "公众进入当然没问题。先不谈细节，否则项目永远开不了头。",
+        "choices": [
+          {
+            "id": "define",
+            "text_cs": "Co konkrétně znamená veřejný přístup: které prostory, v jakých hodinách a bez povinnosti nákupu? Potřebujeme také určit, kdo podmínky ověří.",
+            "text_zh": "公众进入具体指哪些空间、哪些时段、是否无需消费？还需明确由谁核查。",
+            "feedback_zh": "把共同口号转成可观察条件，便于判断承诺是否能落实。",
+            "next": "negotiate"
+          },
+          {
+            "id": "general",
+            "text_cs": "Dobře, projekt tedy podpoříme a podrobnosti vyřešíme později.",
+            "text_zh": "好的，那我们支持项目，细节之后再说。",
+            "feedback_zh": "这句话可能被理解为先无条件支持，与你对准入条件的原有保留发生冲突。",
+            "next": "repair"
+          }
+        ]
+      },
+      {
+        "id": "negotiate",
+        "speaker_cs": "U vstupní haly mohu jednat o pobytu bez nákupu ve zveřejněných hodinách. Nízké nájemné všem prodejcům teď slíbit nemohu.",
+        "speaker_zh": "入口大厅可以谈在公布时段免消费停留，但现在不能承诺给所有商户低租金。",
+        "choices": [
+          {
+            "id": "separate",
+            "text_cs": "Zapišme shodu pouze k hale, včetně hodin a kontroly. Nájemné zůstává otevřené; podpora celého návrhu bude záviset i na této části.",
+            "text_zh": "先只记录大厅共识，包括时段和监督。租金仍待定，对整体方案的支持也取决于这一部分。",
+            "feedback_zh": "将部分共识与整体批准分开，准确保留双方目前承诺。",
+            "next": "done"
+          },
+          {
+            "id": "postpone",
+            "text_cs": "Bez údajů o nájemném nemohu celé řešení podpořit. Vyžádejme si dvě provozní varianty a k návrhu se vraťme.",
+            "text_zh": "没有租金资料，我不能支持整体方案。请提供两种运营方案后再讨论。",
+            "feedback_zh": "明确暂缓的证据需求，而不是把缺资料解释成对方必定欺骗。",
+            "next": "pending"
+          }
+        ]
+      },
+      {
+        "id": "repair",
+        "speaker_cs": "Výborně, zapíšu tedy, že s návrhem souhlasíte bez dalších podmínek.",
+        "speaker_zh": "很好，那么我记录为您无附加条件同意。",
+        "choices": [
+          {
+            "id": "correct",
+            "text_cs": "To jsem vyjádřil nepřesně. Podporuji další jednání; souhlas s realizací závisí na podmínkách přístupu a jejich kontrole.",
+            "text_zh": "我刚才表达不准。我支持继续讨论；是否同意实施取决于准入条件与监督。",
+            "feedback_zh": "承认自己的含糊并修正承诺范围，避免把误会写入纪要。",
+            "next": "negotiate"
+          },
+          {
+            "id": "pause",
+            "text_cs": "Takový závěr potvrdit nemohu. Před dalším zápisem potřebuji návrh s konkrétními podmínkami.",
+            "text_zh": "我不能确认这一结论。继续记录前，我需要具体条件的方案。",
+            "feedback_zh": "先阻止不真实共识，再要求可审阅的文本；本轮不会自动达成实施同意。",
+            "next": "pending"
+          }
+        ]
+      },
+      {
+        "id": "done",
+        "speaker_cs": "Zapíšeme dílčí shodu k přístupu do haly. O celém projektu se rozhodne až po doplnění nájemních a provozních podmínek.",
+        "speaker_zh": "记录入口大厅准入的部分共识，补齐租金和运营条件后再决定整体项目。",
+        "choices": [],
+        "outcome_zh": "你让讨论产生具体进展，同时保留未谈妥的部分，没有把局部支持扩大成整体批准。"
+      },
+      {
+        "id": "pending",
+        "speaker_cs": "Celkový souhlas zatím do zápisu nedáme. Připravíme konkrétní podmínky a varianty pro další jednání.",
+        "speaker_zh": "暂不记录整体同意，准备具体条件与方案供下次讨论。",
+        "choices": [],
+        "outcome_zh": "没有形成整体协议，下一次讨论所需的资料却更明确。可再练一段对外摘要，保留这一区别。"
+      }
+    ]
+  },
+  {
+    "id": "SC-C2-01",
+    "version": "2026.10.22.1",
+    "level": "C2",
+    "lesson_id": "C2-U01-L01",
+    "title_zh": "改口与省略之后重建承诺",
+    "intro_zh": "活动筹备会正在快速调整安排。你负责把最终状态转给缺席者：要分清运输与安装、询问与保证、已定时间与条件。此为原创风格化对话，声音类型以媒体清单为准。",
+    "start": "start",
+    "nodes": [
+      {
+        "id": "start",
+        "speaker_cs": "Eva: Tak to necháme na pátek — tedy převoz, ne montáž. Marek: Pokud dostaneme klíče. Tereza: Zeptám se, zda je můžu vyzvednout, ale nemohu slíbit, že je dostaneme.",
+        "speaker_zh": "Eva：那就留到周五——说的是运输，不是安装。Marek：前提是拿到钥匙。Tereza：我会问能否领取，但不能保证我们能拿到。",
+        "choices": [
+          {
+            "id": "scope",
+            "text_cs": "Abych to nezapsal příliš silně: pátek je možnost pro převoz, závislá na klíčích. Kdo a kdy potvrdí jejich dostupnost?",
+            "text_zh": "避免我记得太确定：周五是取决于钥匙的运输选项。谁在何时确认钥匙可用？",
+            "feedback_zh": "保留自我修正和条件，再追问决定下一步所需的最少信息。",
+            "next": "clarify"
+          },
+          {
+            "id": "compress",
+            "text_cs": "Zapisuji: Tereza zajistí klíče a v pátek proběhne převoz i montáž.",
+            "text_zh": "我记录：Tereza负责拿到钥匙，周五运输并安装。",
+            "feedback_zh": "压缩同时改变了动作范围和承诺强度；后续需要恢复被删去的限制。",
+            "next": "repair"
+          }
+        ]
+      },
+      {
+        "id": "clarify",
+        "speaker_cs": "Marek: Správce potvrdí klíče zítra do poledne. Převoz v pátek je zatím možnost. Eva: Montáž plánujeme na sobotu; bez dopraveného vybavení ji ale musíme přehodnotit.",
+        "speaker_zh": "Marek：管理员明天中午前确认钥匙，周五运输目前只是可能。Eva：安装计划周六，但设备运不到就必须重新评估。",
+        "choices": [
+          {
+            "id": "conditional",
+            "text_cs": "Do zprávy oddělím plán a podmínky. Po potvrzení klíčů upřesníme dopravu; pokud se nepotvrdí, znovu posoudíme i sobotní montáž.",
+            "text_zh": "消息里我会分开计划与条件，钥匙确认后明确运输；若未确认，连周六安装也重新评估。",
+            "feedback_zh": "重建依赖关系而不擅自添加已落实的结果，缺席者能据此理解风险。",
+            "next": "done"
+          },
+          {
+            "id": "wait",
+            "text_cs": "Zatím nerozesílejme pevný čas dopravy. Počkejme na potvrzení klíčů a potom oznamme, co lze skutečně dodržet.",
+            "text_zh": "暂时别发固定运输时间，等钥匙确认后再公布能真正履行的安排。",
+            "feedback_zh": "选择延后确定通知，避免过度承诺；需要明确仍有人等待后续消息。",
+            "next": "pending"
+          }
+        ]
+      },
+      {
+        "id": "repair",
+        "speaker_cs": "Tereza: Počkej. Slíbila jsem, že se zeptám, ne že klíče budou. Eva: A pátek se týkal pouze převozu.",
+        "speaker_zh": "Tereza：等一下，我答应询问，不是保证有钥匙。Eva：而且周五只说运输。",
+        "choices": [
+          {
+            "id": "own",
+            "text_cs": "Máte pravdu, spojil jsem dvě různé věci a z pokusu udělal závazek výsledku. Opravím to. Kdy budeme mít potvrzení a co závisí na dopravě?",
+            "text_zh": "你们说得对，我合并了两件事，把努力变成结果保证。我会改。何时得到确认，哪些安排依赖运输？",
+            "feedback_zh": "具体指出自己的误述，再追问关系，修复比泛泛道歉更有用。",
+            "next": "clarify"
+          },
+          {
+            "id": "hold",
+            "text_cs": "Pevný termín zatím posílat nebudu. Nejdřív společně ověřme stav klíčů a návazných prací.",
+            "text_zh": "我暂不发送固定时间，先共同核实钥匙和后续工作状态。",
+            "feedback_zh": "停止传播不可靠的摘要并保留核查步骤，尚未完成最终排程。",
+            "next": "pending"
+          }
+        ]
+      },
+      {
+        "id": "done",
+        "speaker_cs": "Eva: Přesně tak. Zpráva uvede podmíněný plán a zítřejší ověření. Tereza neslibuje výsledek, který zatím nemá potvrzený.",
+        "speaker_zh": "Eva：正是如此。消息写有条件计划与明天的核查，Tereza不保证尚未确认的结果。",
+        "choices": [],
+        "outcome_zh": "摘要保留了承诺主体、条件、修正和后续动作。你完成的是精确转述，实际钥匙和排程仍需明天确认。"
+      },
+      {
+        "id": "pending",
+        "speaker_cs": "Marek: Dobře, pevný termín zatím neoznamujeme. Po ověření klíčů společně aktualizujeme dopravu i návaznou montáž.",
+        "speaker_zh": "Marek：好，暂不公布固定时间。核实钥匙后，共同更新运输和后续安装。",
+        "choices": [],
+        "outcome_zh": "对外固定通知被暂缓，避免误传；后续运输与安装尚未定案，必须有人完成并传达核查结果。"
+      }
+    ]
+  }
+]

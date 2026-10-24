@@ -1,0 +1,59 @@
+{
+  "id": "B2-U10-L01--2026.10.22.1--exercises",
+  "lesson_id": "B2-U10-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B2",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Jestli jen mírně zaprší, výlet nezrušíme; přesuneme část programu dovnitř.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "B2-U10-L01-E03",
+      "parts": [
+        "Jestli jen mírně zaprší, výlet nezrušíme; přesuneme část programu dovnitř."
+      ]
+    }
+  ],
+  "text_sha256": "91d684bc2a3fa7113cd6ec280932937cda63bf402ee0bbf665aa6988ad24c738",
+  "source_file": "content/lessons/B2/B2-U10-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U10-L01--2026.10.22.1--exercises--91d684bc2a--normal.mp3",
+  "slow_file": "content/audio/files/B2-U10-L01--2026.10.22.1--exercises--91d684bc2a--slow.mp3",
+  "duration_seconds": 7.63360544217687,
+  "slow_duration_seconds": 8.55079365079365,
+  "cues": [
+    {
+      "text": "Jestli jen mírně zaprší, výlet nezrušíme; přesuneme část programu dovnitř.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "B2-U10-L01-E03",
+      "parts": [
+        "Jestli jen mírně zaprší, výlet nezrušíme; přesuneme část programu dovnitř."
+      ],
+      "start": 0.0,
+      "end": 7.453605442176871,
+      "sentences": [
+        {
+          "text": "Jestli jen mírně zaprší, výlet nezrušíme; přesuneme část programu dovnitř.",
+          "start": 0.0,
+          "end": 7.453605442176871,
+          "slow_start": 0.0,
+          "slow_end": 8.370793650793651
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 8.370793650793651
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "ea95f486c7afff1434ee9456220742c3a41c28661f66407e84b11b0e3d63af25",
+    "slow": "63db6852548fbccedd55b1074a3ecf94023d7c900192a97186bec59c7e7cacbf"
+  }
+}

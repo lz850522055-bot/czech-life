@@ -1,0 +1,288 @@
+{
+  "id": "B1-U02-L01--2026.10.22.1--text",
+  "lesson_id": "B1-U02-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Včera jsem celé dopoledne psal zprávu o návštěvě skladu. Když se mě vedoucí zeptal, jestli už je hotová, odpověděl jsem příliš rychle: „Ano, psal jsem ji.“ On si myslel, že ji může hned poslat zákazníkovi. Ve skutečnosti jsem však ještě neměl všechny údaje. Uvědomil jsem si, že moje odpověď byla nejasná, i když nebyla sama o sobě gramaticky chybná.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Včera jsem celé dopoledne psal zprávu o návštěvě skladu.",
+        "Když se mě vedoucí zeptal, jestli už je hotová, odpověděl jsem příliš rychle: „Ano, psal jsem ji.“",
+        "On si myslel, že ji může hned poslat zákazníkovi.",
+        "Ve skutečnosti jsem však ještě neměl všechny údaje.",
+        "Uvědomil jsem si, že moje odpověď byla nejasná, i když nebyla sama o sobě gramaticky chybná."
+      ]
+    },
+    {
+      "text": "Opravil jsem se: „Pracoval jsem na ní, ale ještě jsem ji nedokončil. Dvě stránky už jsem napsal a poslední část doplním odpoledne.“ Vedoucí potřeboval znát hlavně výsledek a čas odevzdání, nikoli pouze činnost. Domluvili jsme se, že hotovou zprávu pošlu do čtyř hodin. Kdyby mi někdo neodpověděl včas, měl jsem na chybějící informaci výslovně upozornit.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Opravil jsem se: „Pracoval jsem na ní, ale ještě jsem ji nedokončil.",
+        "Dvě stránky už jsem napsal a poslední část doplním odpoledne.“",
+        "Vedoucí potřeboval znát hlavně výsledek a čas odevzdání, nikoli pouze činnost.",
+        "Domluvili jsme se, že hotovou zprávu pošlu do čtyř hodin.",
+        "Kdyby mi někdo neodpověděl včas, měl jsem na chybějící informaci výslovně upozornit."
+      ]
+    },
+    {
+      "text": "Odpoledne jsem zavolal do skladu, ověřil jsem počet poškozených krabic a dokončil tabulku. Samotnou kontrolu jsem dělal skoro hodinu. Tabulku jsem ale opravil za deset minut, protože chyba byla jen v jednom sloupci. Potom jsem zprávu znovu četl a nakonec ji přečetl celou. Dvě nepřesné věty jsem přepsal, aby zákazník dobře rozuměl navrženému řešení.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Odpoledne jsem zavolal do skladu, ověřil jsem počet poškozených krabic a dokončil tabulku.",
+        "Samotnou kontrolu jsem dělal skoro hodinu.",
+        "Tabulku jsem ale opravil za deset minut, protože chyba byla jen v jednom sloupci.",
+        "Potom jsem zprávu znovu četl a nakonec ji přečetl celou.",
+        "Dvě nepřesné věty jsem přepsal, aby zákazník dobře rozuměl navrženému řešení."
+      ]
+    },
+    {
+      "text": "Dnes už zprávu nepíšu, pouze čekám na odpověď. Zítra budu připravovat podklady pro další návštěvu a večer připravím konečný seznam otázek. Neznamená to, že každý nedokonavý děj trvá dlouho a každý dokonavý jen chvíli. Důležité je, zda popisuji průběh nebo představím děj jako celek s hranicí. Také krátkou zprávu mohu psát dlouho a dlouhý text nakonec dopsat.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Dnes už zprávu nepíšu, pouze čekám na odpověď.",
+        "Zítra budu připravovat podklady pro další návštěvu a večer připravím konečný seznam otázek.",
+        "Neznamená to, že každý nedokonavý děj trvá dlouho a každý dokonavý jen chvíli.",
+        "Důležité je, zda popisuji průběh nebo představím děj jako celek s hranicí.",
+        "Také krátkou zprávu mohu psát dlouho a dlouhý text nakonec dopsat."
+      ]
+    }
+  ],
+  "text_sha256": "d6b0282504322a2be7b0f2ea6ad0af45032cbd938b880771436c4f2ca1f52902",
+  "source_file": "content/lessons/B1/B1-U02-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--normal.mp3",
+  "slow_file": "content/audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--slow.mp3",
+  "duration_seconds": 129.66113378684807,
+  "slow_duration_seconds": 146.97160997732425,
+  "cues": [
+    {
+      "text": "Včera jsem celé dopoledne psal zprávu o návštěvě skladu. Když se mě vedoucí zeptal, jestli už je hotová, odpověděl jsem příliš rychle: „Ano, psal jsem ji.“ On si myslel, že ji může hned poslat zákazníkovi. Ve skutečnosti jsem však ještě neměl všechny údaje. Uvědomil jsem si, že moje odpověď byla nejasná, i když nebyla sama o sobě gramaticky chybná.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Včera jsem celé dopoledne psal zprávu o návštěvě skladu.",
+        "Když se mě vedoucí zeptal, jestli už je hotová, odpověděl jsem příliš rychle: „Ano, psal jsem ji.“",
+        "On si myslel, že ji může hned poslat zákazníkovi.",
+        "Ve skutečnosti jsem však ještě neměl všechny údaje.",
+        "Uvědomil jsem si, že moje odpověď byla nejasná, i když nebyla sama o sobě gramaticky chybná."
+      ],
+      "start": 0.0,
+      "end": 31.451609977324264,
+      "sentences": [
+        {
+          "text": "Včera jsem celé dopoledne psal zprávu o návštěvě skladu.",
+          "start": 0.0,
+          "end": 4.655600907029479,
+          "slow_start": 0.0,
+          "slow_end": 5.259319727891157
+        },
+        {
+          "text": "Když se mě vedoucí zeptal, jestli už je hotová, odpověděl jsem příliš rychle: „Ano, psal jsem ji.“",
+          "start": 4.8356009070294785,
+          "end": 13.752063492063492,
+          "slow_start": 5.4393197278911565,
+          "slow_end": 15.528390022675737
+        },
+        {
+          "text": "On si myslel, že ji může hned poslat zákazníkovi.",
+          "start": 13.932063492063492,
+          "end": 18.309024943310657,
+          "slow_start": 15.708390022675736,
+          "slow_end": 20.781950113378684
+        },
+        {
+          "text": "Ve skutečnosti jsem však ještě neměl všechny údaje.",
+          "start": 18.489024943310657,
+          "end": 23.016916099773244,
+          "slow_start": 20.961950113378684,
+          "slow_end": 25.90780045351474
+        },
+        {
+          "text": "Uvědomil jsem si, že moje odpověď byla nejasná, i když nebyla sama o sobě gramaticky chybná.",
+          "start": 23.196916099773244,
+          "end": 31.451609977324264,
+          "slow_start": 26.08780045351474,
+          "slow_end": 35.54993197278912
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 35.54993197278912
+    },
+    {
+      "text": "Opravil jsem se: „Pracoval jsem na ní, ale ještě jsem ji nedokončil. Dvě stránky už jsem napsal a poslední část doplním odpoledne.“ Vedoucí potřeboval znát hlavně výsledek a čas odevzdání, nikoli pouze činnost. Domluvili jsme se, že hotovou zprávu pošlu do čtyř hodin. Kdyby mi někdo neodpověděl včas, měl jsem na chybějící informaci výslovně upozornit.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Opravil jsem se: „Pracoval jsem na ní, ale ještě jsem ji nedokončil.",
+        "Dvě stránky už jsem napsal a poslední část doplním odpoledne.“",
+        "Vedoucí potřeboval znát hlavně výsledek a čas odevzdání, nikoli pouze činnost.",
+        "Domluvili jsme se, že hotovou zprávu pošlu do čtyř hodin.",
+        "Kdyby mi někdo neodpověděl včas, měl jsem na chybějící informaci výslovně upozornit."
+      ],
+      "start": 31.631609977324263,
+      "end": 64.5692970521542,
+      "sentences": [
+        {
+          "text": "Opravil jsem se: „Pracoval jsem na ní, ale ještě jsem ji nedokončil.",
+          "start": 31.631609977324263,
+          "end": 37.900997732426305,
+          "slow_start": 35.72993197278912,
+          "slow_end": 43.06743764172336
+        },
+        {
+          "text": "Dvě stránky už jsem napsal a poslední část doplním odpoledne.“",
+          "start": 38.080997732426304,
+          "end": 43.74666666666667,
+          "slow_start": 43.24743764172336,
+          "slow_end": 49.621315192743765
+        },
+        {
+          "text": "Vedoucí potřeboval znát hlavně výsledek a čas odevzdání, nikoli pouze činnost.",
+          "start": 43.92666666666667,
+          "end": 51.54281179138322,
+          "slow_start": 49.801315192743765,
+          "slow_end": 58.49718820861678
+        },
+        {
+          "text": "Domluvili jsme se, že hotovou zprávu pošlu do čtyř hodin.",
+          "start": 51.72281179138322,
+          "end": 56.80798185941043,
+          "slow_start": 58.67718820861678,
+          "slow_end": 64.4821768707483
+        },
+        {
+          "text": "Kdyby mi někdo neodpověděl včas, měl jsem na chybějící informaci výslovně upozornit.",
+          "start": 56.98798185941043,
+          "end": 64.5692970521542,
+          "slow_start": 64.6621768707483,
+          "slow_end": 73.520589569161
+        }
+      ],
+      "slow_start": 35.72993197278912,
+      "slow_end": 73.520589569161
+    },
+    {
+      "text": "Odpoledne jsem zavolal do skladu, ověřil jsem počet poškozených krabic a dokončil tabulku. Samotnou kontrolu jsem dělal skoro hodinu. Tabulku jsem ale opravil za deset minut, protože chyba byla jen v jednom sloupci. Potom jsem zprávu znovu četl a nakonec ji přečetl celou. Dvě nepřesné věty jsem přepsal, aby zákazník dobře rozuměl navrženému řešení.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Odpoledne jsem zavolal do skladu, ověřil jsem počet poškozených krabic a dokončil tabulku.",
+        "Samotnou kontrolu jsem dělal skoro hodinu.",
+        "Tabulku jsem ale opravil za deset minut, protože chyba byla jen v jednom sloupci.",
+        "Potom jsem zprávu znovu četl a nakonec ji přečetl celou.",
+        "Dvě nepřesné věty jsem přepsal, aby zákazník dobře rozuměl navrženému řešení."
+      ],
+      "start": 64.74929705215419,
+      "end": 96.71174603174603,
+      "sentences": [
+        {
+          "text": "Odpoledne jsem zavolal do skladu, ověřil jsem počet poškozených krabic a dokončil tabulku.",
+          "start": 64.74929705215419,
+          "end": 72.89950113378684,
+          "slow_start": 73.700589569161,
+          "slow_end": 82.8724716553288
+        },
+        {
+          "text": "Samotnou kontrolu jsem dělal skoro hodinu.",
+          "start": 73.07950113378685,
+          "end": 76.62054421768707,
+          "slow_start": 83.0524716553288,
+          "slow_end": 87.12757369614512
+        },
+        {
+          "text": "Tabulku jsem ale opravil za deset minut, protože chyba byla jen v jednom sloupci.",
+          "start": 76.80054421768708,
+          "end": 84.13804988662132,
+          "slow_start": 87.30757369614513,
+          "slow_end": 95.63192743764172
+        },
+        {
+          "text": "Potom jsem zprávu znovu četl a nakonec ji přečetl celou.",
+          "start": 84.31804988662131,
+          "end": 89.49609977324263,
+          "slow_start": 95.81192743764173,
+          "slow_end": 101.57047619047619
+        },
+        {
+          "text": "Dvě nepřesné věty jsem přepsal, aby zákazník dobře rozuměl navrženému řešení.",
+          "start": 89.67609977324263,
+          "end": 96.71174603174603,
+          "slow_start": 101.75047619047619,
+          "slow_end": 109.91229024943311
+        }
+      ],
+      "slow_start": 73.700589569161,
+      "slow_end": 109.91229024943311
+    },
+    {
+      "text": "Dnes už zprávu nepíšu, pouze čekám na odpověď. Zítra budu připravovat podklady pro další návštěvu a večer připravím konečný seznam otázek. Neznamená to, že každý nedokonavý děj trvá dlouho a každý dokonavý jen chvíli. Důležité je, zda popisuji průběh nebo představím děj jako celek s hranicí. Také krátkou zprávu mohu psát dlouho a dlouhý text nakonec dopsat.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Dnes už zprávu nepíšu, pouze čekám na odpověď.",
+        "Zítra budu připravovat podklady pro další návštěvu a večer připravím konečný seznam otázek.",
+        "Neznamená to, že každý nedokonavý děj trvá dlouho a každý dokonavý jen chvíli.",
+        "Důležité je, zda popisuji průběh nebo představím děj jako celek s hranicí.",
+        "Také krátkou zprávu mohu psát dlouho a dlouhý text nakonec dopsat."
+      ],
+      "start": 96.89174603174604,
+      "end": 129.48113378684806,
+      "sentences": [
+        {
+          "text": "Dnes už zprávu nepíšu, pouze čekám na odpověď.",
+          "start": 96.89174603174604,
+          "end": 101.39641723356009,
+          "slow_start": 110.0922902494331,
+          "slow_end": 115.18907029478459
+        },
+        {
+          "text": "Zítra budu připravovat podklady pro další návštěvu a večer připravím konečný seznam otázek.",
+          "start": 101.5764172335601,
+          "end": 109.43637188208616,
+          "slow_start": 115.36907029478458,
+          "slow_end": 124.25070294784581
+        },
+        {
+          "text": "Neznamená to, že každý nedokonavý děj trvá dlouho a každý dokonavý jen chvíli.",
+          "start": 109.61637188208617,
+          "end": 116.44303854875284,
+          "slow_start": 124.4307029478458,
+          "slow_end": 132.16294784580498
+        },
+        {
+          "text": "Důležité je, zda popisuji průběh nebo představím děj jako celek s hranicí.",
+          "start": 116.62303854875283,
+          "end": 123.40326530612245,
+          "slow_start": 132.34294784580499,
+          "slow_end": 139.95909297052154
+        },
+        {
+          "text": "Také krátkou zprávu mohu psát dlouho a dlouhý text nakonec dopsat.",
+          "start": 123.58326530612244,
+          "end": 129.48113378684806,
+          "slow_start": 140.13909297052155,
+          "slow_end": 146.79160997732427
+        }
+      ],
+      "slow_start": 110.0922902494331,
+      "slow_end": 146.79160997732427
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "7e30829b4d8338de9d0acd45d9203bd73aba3cf0ee6b860975a01b1ba69f7b7a",
+    "slow": "1886d9b91278e9e1f167a2aeebeac2bbe1ed7efdbe48cf5826932d0935dc8f5a"
+  }
+}

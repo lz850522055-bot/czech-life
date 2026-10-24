@@ -1,0 +1,418 @@
+{
+  "id": "B2-U04-L01--2026.10.22.1--text",
+  "lesson_id": "B2-U04-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "V pátek jsme zjistili, že nestihneme dokončit podklady pro společný projekt. Obsah informace byl jednoduchý: potřebujeme dva pracovní dny navíc. Způsob sdělení se však lišil podle adresáta. Kolegovi, s nímž denně pracujeme, stačila krátká zpráva s jasným důvodem. Novému partnerovi jsme museli připomenout, kterého úkolu se změna týká, a výslovně požádat o souhlas s novým termínem.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "V pátek jsme zjistili, že nestihneme dokončit podklady pro společný projekt.",
+        "Obsah informace byl jednoduchý: potřebujeme dva pracovní dny navíc.",
+        "Způsob sdělení se však lišil podle adresáta.",
+        "Kolegovi, s nímž denně pracujeme, stačila krátká zpráva s jasným důvodem.",
+        "Novému partnerovi jsme museli připomenout, kterého úkolu se změna týká, a výslovně požádat o souhlas s novým termínem."
+      ]
+    },
+    {
+      "text": "Kolegovi jsem napsal: „Ahoj, chybí nám ještě potvrzení od dodavatele. Můžeme ti podklady poslat v úterý místo pondělí? Jakmile odpověď dorazí, dám ti vědět.“ Věta byla neformální, ale nebyla neurčitá. Obsahovala problém, návrh i další krok. Přátelský tón tedy není omluvou pro to, abychom napsali pouze „nějak to pošleme později“ a nechali příjemce hádat, co to znamená.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Kolegovi jsem napsal: „Ahoj, chybí nám ještě potvrzení od dodavatele.",
+        "Můžeme ti podklady poslat v úterý místo pondělí?",
+        "Jakmile odpověď dorazí, dám ti vědět.“",
+        "Věta byla neformální, ale nebyla neurčitá.",
+        "Obsahovala problém, návrh i další krok.",
+        "Přátelský tón tedy není omluvou pro to, abychom napsali pouze „nějak to pošleme později“ a nechali příjemce hádat, co to znamená."
+      ]
+    },
+    {
+      "text": "Partnerovi jsem zvolil jinou podobu: „Vážená paní Nováková, při dokončování podkladů k návrhu spolupráce čekáme na potvrzení jednoho technického údaje. Rádi bychom Vás proto požádali o posunutí termínu na úterý. Ostatní dohodnuté podmínky zůstávají beze změny. Prosím o informaci, zda je pro Vás nový termín přijatelný.“ Formálnost zde spočívala v přesnosti, respektu a úplném kontextu, nikoli ve zbytečně složitých výrazech.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Partnerovi jsem zvolil jinou podobu: „Vážená paní Nováková, při dokončování podkladů k návrhu spolupráce čekáme na potvrzení jednoho technického údaje.",
+        "Rádi bychom Vás proto požádali o posunutí termínu na úterý.",
+        "Ostatní dohodnuté podmínky zůstávají beze změny.",
+        "Prosím o informaci, zda je pro Vás nový termín přijatelný.“",
+        "Formálnost zde spočívala v přesnosti, respektu a úplném kontextu, nikoli ve zbytečně složitých výrazech."
+      ]
+    },
+    {
+      "text": "Při úpravě jsme rozlišovali také jazykové variety. V soukromé řeči můžeme slyšet tvary jako dobrej nebo bysme. Je užitečné jim rozumět, ale v pečlivě psaném pracovním e-mailu zvolíme dobrý a bychom. Neplatí přitom, že každé neformální vyjádření je nespisovné. Také jednoduchá věta „Děkuji za zprávu“ je standardní a hodí se do mnoha různých vztahů.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Při úpravě jsme rozlišovali také jazykové variety.",
+        "V soukromé řeči můžeme slyšet tvary jako dobrej nebo bysme.",
+        "Je užitečné jim rozumět, ale v pečlivě psaném pracovním e-mailu zvolíme dobrý a bychom.",
+        "Neplatí přitom, že každé neformální vyjádření je nespisovné.",
+        "Také jednoduchá věta „Děkuji za zprávu“ je standardní a hodí se do mnoha různých vztahů."
+      ]
+    },
+    {
+      "text": "Další rozdíl se týkal oslovování. S kolegou si tykáme, zatímco novému partnerovi vykáme. Smíšená zpráva, která začíná „Vážená paní“ a pokračuje „můžeš mi to poslat“, by bez zvláštního kontextu působila nesourodě. U neznámého člověka je bezpečnější vztah nepředjímat. Přechod k tykání má vycházet ze skutečné dohody, nikoli z domněnky, že mladší adresát si to automaticky přeje.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Další rozdíl se týkal oslovování.",
+        "S kolegou si tykáme, zatímco novému partnerovi vykáme.",
+        "Smíšená zpráva, která začíná „Vážená paní“ a pokračuje „můžeš mi to poslat“, by bez zvláštního kontextu působila nesourodě.",
+        "U neznámého člověka je bezpečnější vztah nepředjímat.",
+        "Přechod k tykání má vycházet ze skutečné dohody, nikoli z domněnky, že mladší adresát si to automaticky přeje."
+      ]
+    },
+    {
+      "text": "V obou verzích jsme zachovali stejné skutečnosti. Změna stylu nesměla proměnit žádost v oznámení ani čekání na informaci ve výmluvu na údajnou chybu dodavatele. Dobrá stylistická úprava mění způsob podání, ne odpovědnost nebo míru jistoty. Před odesláním jsme se proto ptali nejen „Zní to hezky?“, ale hlavně „Rozumí příjemce situaci a ví, na co má odpovědět?“",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "V obou verzích jsme zachovali stejné skutečnosti.",
+        "Změna stylu nesměla proměnit žádost v oznámení ani čekání na informaci ve výmluvu na údajnou chybu dodavatele.",
+        "Dobrá stylistická úprava mění způsob podání, ne odpovědnost nebo míru jistoty.",
+        "Před odesláním jsme se proto ptali nejen „Zní to hezky?“, ale hlavně „Rozumí příjemce situaci a ví, na co má odpovědět?“"
+      ]
+    }
+  ],
+  "text_sha256": "d86cba0e884372788b424df1d3facf2bc8b34cc04e4f9497cad1e587826f2019",
+  "source_file": "content/lessons/B2/B2-U04-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U04-L01--2026.10.22.1--text--d86cba0e88--normal.mp3",
+  "slow_file": "content/audio/files/B2-U04-L01--2026.10.22.1--text--d86cba0e88--slow.mp3",
+  "duration_seconds": 202.82766439909298,
+  "slow_duration_seconds": 228.7991836734694,
+  "cues": [
+    {
+      "text": "V pátek jsme zjistili, že nestihneme dokončit podklady pro společný projekt. Obsah informace byl jednoduchý: potřebujeme dva pracovní dny navíc. Způsob sdělení se však lišil podle adresáta. Kolegovi, s nímž denně pracujeme, stačila krátká zpráva s jasným důvodem. Novému partnerovi jsme museli připomenout, kterého úkolu se změna týká, a výslovně požádat o souhlas s novým termínem.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "V pátek jsme zjistili, že nestihneme dokončit podklady pro společný projekt.",
+        "Obsah informace byl jednoduchý: potřebujeme dva pracovní dny navíc.",
+        "Způsob sdělení se však lišil podle adresáta.",
+        "Kolegovi, s nímž denně pracujeme, stačila krátká zpráva s jasným důvodem.",
+        "Novému partnerovi jsme museli připomenout, kterého úkolu se změna týká, a výslovně požádat o souhlas s novým termínem."
+      ],
+      "start": 0.0,
+      "end": 33.889705215419504,
+      "sentences": [
+        {
+          "text": "V pátek jsme zjistili, že nestihneme dokončit podklady pro společný projekt.",
+          "start": 0.0,
+          "end": 5.758548752834467,
+          "slow_start": 0.0,
+          "slow_end": 6.594467120181406
+        },
+        {
+          "text": "Obsah informace byl jednoduchý: potřebujeme dva pracovní dny navíc.",
+          "start": 5.938548752834467,
+          "end": 11.801587301587302,
+          "slow_start": 6.774467120181406,
+          "slow_end": 13.496643990929705
+        },
+        {
+          "text": "Způsob sdělení se však lišil podle adresáta.",
+          "start": 11.981587301587302,
+          "end": 16.32371882086168,
+          "slow_start": 13.676643990929705,
+          "slow_end": 18.54122448979592
+        },
+        {
+          "text": "Kolegovi, s nímž denně pracujeme, stačila krátká zpráva s jasným důvodem.",
+          "start": 16.50371882086168,
+          "end": 23.202675736961453,
+          "slow_start": 18.72122448979592,
+          "slow_end": 26.48829931972789
+        },
+        {
+          "text": "Novému partnerovi jsme museli připomenout, kterého úkolu se změna týká, a výslovně požádat o souhlas s novým termínem.",
+          "start": 23.382675736961453,
+          "end": 33.889705215419504,
+          "slow_start": 26.66829931972789,
+          "slow_end": 38.19700680272109
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 38.19700680272109
+    },
+    {
+      "text": "Kolegovi jsem napsal: „Ahoj, chybí nám ještě potvrzení od dodavatele. Můžeme ti podklady poslat v úterý místo pondělí? Jakmile odpověď dorazí, dám ti vědět.“ Věta byla neformální, ale nebyla neurčitá. Obsahovala problém, návrh i další krok. Přátelský tón tedy není omluvou pro to, abychom napsali pouze „nějak to pošleme později“ a nechali příjemce hádat, co to znamená.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Kolegovi jsem napsal: „Ahoj, chybí nám ještě potvrzení od dodavatele.",
+        "Můžeme ti podklady poslat v úterý místo pondělí?",
+        "Jakmile odpověď dorazí, dám ti vědět.“",
+        "Věta byla neformální, ale nebyla neurčitá.",
+        "Obsahovala problém, návrh i další krok.",
+        "Přátelský tón tedy není omluvou pro to, abychom napsali pouze „nějak to pošleme později“ a nechali příjemce hádat, co to znamená."
+      ],
+      "start": 34.0697052154195,
+      "end": 67.54730158730159,
+      "sentences": [
+        {
+          "text": "Kolegovi jsem napsal: „Ahoj, chybí nám ještě potvrzení od dodavatele.",
+          "start": 34.0697052154195,
+          "end": 39.967573696145124,
+          "slow_start": 38.37700680272109,
+          "slow_end": 45.19206349206349
+        },
+        {
+          "text": "Můžeme ti podklady poslat v úterý místo pondělí?",
+          "start": 40.14757369614512,
+          "end": 44.315555555555555,
+          "slow_start": 45.37206349206349,
+          "slow_end": 50.15537414965986
+        },
+        {
+          "text": "Jakmile odpověď dorazí, dám ti vědět.“",
+          "start": 44.495555555555555,
+          "end": 48.07142857142857,
+          "slow_start": 50.33537414965986,
+          "slow_end": 54.398866213151926
+        },
+        {
+          "text": "Věta byla neformální, ale nebyla neurčitá.",
+          "start": 48.25142857142857,
+          "end": 52.46585034013606,
+          "slow_start": 54.578866213151926,
+          "slow_end": 59.47827664399093
+        },
+        {
+          "text": "Obsahovala problém, návrh i další krok.",
+          "start": 52.64585034013606,
+          "end": 56.22172335600907,
+          "slow_start": 59.65827664399093,
+          "slow_end": 63.84947845804989
+        },
+        {
+          "text": "Přátelský tón tedy není omluvou pro to, abychom napsali pouze „nějak to pošleme později“ a nechali příjemce hádat, co to znamená.",
+          "start": 56.40172335600907,
+          "end": 67.54730158730159,
+          "slow_start": 64.02947845804988,
+          "slow_end": 76.63791383219954
+        }
+      ],
+      "slow_start": 38.37700680272109,
+      "slow_end": 76.63791383219954
+    },
+    {
+      "text": "Partnerovi jsem zvolil jinou podobu: „Vážená paní Nováková, při dokončování podkladů k návrhu spolupráce čekáme na potvrzení jednoho technického údaje. Rádi bychom Vás proto požádali o posunutí termínu na úterý. Ostatní dohodnuté podmínky zůstávají beze změny. Prosím o informaci, zda je pro Vás nový termín přijatelný.“ Formálnost zde spočívala v přesnosti, respektu a úplném kontextu, nikoli ve zbytečně složitých výrazech.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Partnerovi jsem zvolil jinou podobu: „Vážená paní Nováková, při dokončování podkladů k návrhu spolupráce čekáme na potvrzení jednoho technického údaje.",
+        "Rádi bychom Vás proto požádali o posunutí termínu na úterý.",
+        "Ostatní dohodnuté podmínky zůstávají beze změny.",
+        "Prosím o informaci, zda je pro Vás nový termín přijatelný.“",
+        "Formálnost zde spočívala v přesnosti, respektu a úplném kontextu, nikoli ve zbytečně složitých výrazech."
+      ],
+      "start": 67.72730158730158,
+      "end": 106.87632653061225,
+      "sentences": [
+        {
+          "text": "Partnerovi jsem zvolil jinou podobu: „Vážená paní Nováková, při dokončování podkladů k návrhu spolupráce čekáme na potvrzení jednoho technického údaje.",
+          "start": 67.72730158730158,
+          "end": 81.6708843537415,
+          "slow_start": 76.81791383219955,
+          "slow_end": 92.45655328798186
+        },
+        {
+          "text": "Rádi bychom Vás proto požádali o posunutí termínu na úterý.",
+          "start": 81.85088435374149,
+          "end": 87.4701133786848,
+          "slow_start": 92.63655328798185,
+          "slow_end": 98.84789115646258
+        },
+        {
+          "text": "Ostatní dohodnuté podmínky zůstávají beze změny.",
+          "start": 87.65011337868481,
+          "end": 91.95741496598639,
+          "slow_start": 99.02789115646259,
+          "slow_end": 103.8924716553288
+        },
+        {
+          "text": "Prosím o informaci, zda je pro Vás nový termín přijatelný.“",
+          "start": 92.1374149659864,
+          "end": 97.43156462585034,
+          "slow_start": 104.0724716553288,
+          "slow_end": 110.09804988662131
+        },
+        {
+          "text": "Formálnost zde spočívala v přesnosti, respektu a úplném kontextu, nikoli ve zbytečně složitých výrazech.",
+          "start": 97.61156462585033,
+          "end": 106.87632653061225,
+          "slow_start": 110.27804988662132,
+          "slow_end": 120.73863945578232
+        }
+      ],
+      "slow_start": 76.81791383219955,
+      "slow_end": 120.73863945578232
+    },
+    {
+      "text": "Při úpravě jsme rozlišovali také jazykové variety. V soukromé řeči můžeme slyšet tvary jako dobrej nebo bysme. Je užitečné jim rozumět, ale v pečlivě psaném pracovním e-mailu zvolíme dobrý a bychom. Neplatí přitom, že každé neformální vyjádření je nespisovné. Také jednoduchá věta „Děkuji za zprávu“ je standardní a hodí se do mnoha různých vztahů.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Při úpravě jsme rozlišovali také jazykové variety.",
+        "V soukromé řeči můžeme slyšet tvary jako dobrej nebo bysme.",
+        "Je užitečné jim rozumět, ale v pečlivě psaném pracovním e-mailu zvolíme dobrý a bychom.",
+        "Neplatí přitom, že každé neformální vyjádření je nespisovné.",
+        "Také jednoduchá věta „Děkuji za zprávu“ je standardní a hodí se do mnoha různých vztahů."
+      ],
+      "start": 107.05632653061224,
+      "end": 136.83609977324264,
+      "sentences": [
+        {
+          "text": "Při úpravě jsme rozlišovali také jazykové variety.",
+          "start": 107.05632653061224,
+          "end": 111.30557823129251,
+          "slow_start": 120.91863945578231,
+          "slow_end": 125.74839002267574
+        },
+        {
+          "text": "V soukromé řeči můžeme slyšet tvary jako dobrej nebo bysme.",
+          "start": 111.48557823129252,
+          "end": 116.31532879818594,
+          "slow_start": 125.92839002267574,
+          "slow_end": 131.52439909297053
+        },
+        {
+          "text": "Je užitečné jim rozumět, ale v pečlivě psaném pracovním e-mailu zvolíme dobrý a bychom.",
+          "start": 116.49532879818594,
+          "end": 124.26240362811791,
+          "slow_start": 131.70439909297053,
+          "slow_end": 140.55120181405897
+        },
+        {
+          "text": "Neplatí přitom, že každé neformální vyjádření je nespisovné.",
+          "start": 124.44240362811792,
+          "end": 129.82943310657598,
+          "slow_start": 140.73120181405895,
+          "slow_end": 146.6871201814059
+        },
+        {
+          "text": "Také jednoduchá věta „Děkuji za zprávu“ je standardní a hodí se do mnoha různých vztahů.",
+          "start": 130.00943310657595,
+          "end": 136.83609977324264,
+          "slow_start": 146.8671201814059,
+          "slow_end": 154.42521541950114
+        }
+      ],
+      "slow_start": 120.91863945578231,
+      "slow_end": 154.42521541950114
+    },
+    {
+      "text": "Další rozdíl se týkal oslovování. S kolegou si tykáme, zatímco novému partnerovi vykáme. Smíšená zpráva, která začíná „Vážená paní“ a pokračuje „můžeš mi to poslat“, by bez zvláštního kontextu působila nesourodě. U neznámého člověka je bezpečnější vztah nepředjímat. Přechod k tykání má vycházet ze skutečné dohody, nikoli z domněnky, že mladší adresát si to automaticky přeje.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Další rozdíl se týkal oslovování.",
+        "S kolegou si tykáme, zatímco novému partnerovi vykáme.",
+        "Smíšená zpráva, která začíná „Vážená paní“ a pokračuje „můžeš mi to poslat“, by bez zvláštního kontextu působila nesourodě.",
+        "U neznámého člověka je bezpečnější vztah nepředjímat.",
+        "Přechod k tykání má vycházet ze skutečné dohody, nikoli z domněnky, že mladší adresát si to automaticky přeje."
+      ],
+      "start": 137.01609977324264,
+      "end": 169.52421768707484,
+      "sentences": [
+        {
+          "text": "Další rozdíl se týkal oslovování.",
+          "start": 137.01609977324264,
+          "end": 140.255283446712,
+          "slow_start": 154.60521541950112,
+          "slow_end": 158.262358276644
+        },
+        {
+          "text": "S kolegou si tykáme, zatímco novému partnerovi vykáme.",
+          "start": 140.43528344671202,
+          "end": 144.8354648526077,
+          "slow_start": 158.442358276644,
+          "slow_end": 163.63201814058957
+        },
+        {
+          "text": "Smíšená zpráva, která začíná „Vážená paní“ a pokračuje „můžeš mi to poslat“, by bez zvláštního kontextu působila nesourodě.",
+          "start": 145.01546485260772,
+          "end": 155.70825396825396,
+          "slow_start": 163.81201814058957,
+          "slow_end": 176.03732426303856
+        },
+        {
+          "text": "U neznámého člověka je bezpečnější vztah nepředjímat.",
+          "start": 155.88825396825396,
+          "end": 160.34648526077098,
+          "slow_start": 176.21732426303853,
+          "slow_end": 181.11673469387756
+        },
+        {
+          "text": "Přechod k tykání má vycházet ze skutečné dohody, nikoli z domněnky, že mladší adresát si to automaticky přeje.",
+          "start": 160.52648526077098,
+          "end": 169.52421768707484,
+          "slow_start": 181.29673469387754,
+          "slow_end": 191.57156462585033
+        }
+      ],
+      "slow_start": 154.60521541950112,
+      "slow_end": 191.57156462585033
+    },
+    {
+      "text": "V obou verzích jsme zachovali stejné skutečnosti. Změna stylu nesměla proměnit žádost v oznámení ani čekání na informaci ve výmluvu na údajnou chybu dodavatele. Dobrá stylistická úprava mění způsob podání, ne odpovědnost nebo míru jistoty. Před odesláním jsme se proto ptali nejen „Zní to hezky?“, ale hlavně „Rozumí příjemce situaci a ví, na co má odpovědět?“",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "V obou verzích jsme zachovali stejné skutečnosti.",
+        "Změna stylu nesměla proměnit žádost v oznámení ani čekání na informaci ve výmluvu na údajnou chybu dodavatele.",
+        "Dobrá stylistická úprava mění způsob podání, ne odpovědnost nebo míru jistoty.",
+        "Před odesláním jsme se proto ptali nejen „Zní to hezky?“, ale hlavně „Rozumí příjemce situaci a ví, na co má odpovědět?“"
+      ],
+      "start": 169.70421768707482,
+      "end": 202.64766439909297,
+      "sentences": [
+        {
+          "text": "V obou verzích jsme zachovali stejné skutečnosti.",
+          "start": 169.70421768707482,
+          "end": 173.84897959183672,
+          "slow_start": 191.75156462585034,
+          "slow_end": 196.40716553287982
+        },
+        {
+          "text": "Změna stylu nesměla proměnit žádost v oznámení ani čekání na informaci ve výmluvu na údajnou chybu dodavatele.",
+          "start": 174.02897959183673,
+          "end": 184.36185941043084,
+          "slow_start": 196.58716553287982,
+          "slow_end": 208.0926530612245
+        },
+        {
+          "text": "Dobrá stylistická úprava mění způsob podání, ne odpovědnost nebo míru jistoty.",
+          "start": 184.54185941043085,
+          "end": 192.29732426303855,
+          "slow_start": 208.2726530612245,
+          "slow_end": 217.0962358276644
+        },
+        {
+          "text": "Před odesláním jsme se proto ptali nejen „Zní to hezky?“, ale hlavně „Rozumí příjemce situaci a ví, na co má odpovědět?“",
+          "start": 192.47732426303855,
+          "end": 202.64766439909297,
+          "slow_start": 217.2762358276644,
+          "slow_end": 228.6191836734694
+        }
+      ],
+      "slow_start": 191.75156462585034,
+      "slow_end": 228.6191836734694
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "5d1640096a54981da6669736e913ef33e2e7d54f48f3dfa7f93ca65732113efd",
+    "slow": "eb5af82c1448e56388bb970867aa2db0db7cb3fbdaee24b481db8252fc8fa0d3"
+  }
+}

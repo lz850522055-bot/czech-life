@@ -1,0 +1,84 @@
+{
+  "id": "C2-U04-L01--2026.10.22.1--listening",
+  "lesson_id": "C2-U04-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C2",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Neříkám, že oznámení obsahuje nepravdu. Tvrdím, že nám neříká dost o praktickém důsledku změny. Zároveň bych osobní vzpomínku neoznačoval za úplný obraz provozu. Každý text zachycuje jinou rovinu.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Neříkám, že oznámení obsahuje nepravdu.",
+        "Tvrdím, že nám neříká dost o praktickém důsledku změny.",
+        "Zároveň bych osobní vzpomínku neoznačoval za úplný obraz provozu.",
+        "Každý text zachycuje jinou rovinu."
+      ]
+    }
+  ],
+  "text_sha256": "f8d72fa117b212363341ec40851fe1bfa5f3fdf127ab20c21553e59a712bec8a",
+  "source_file": "content/lessons/C2/C2-U04-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U04-L01--2026.10.22.1--listening--f8d72fa117--normal.mp3",
+  "slow_file": "content/audio/files/C2-U04-L01--2026.10.22.1--listening--f8d72fa117--slow.mp3",
+  "duration_seconds": 18.36716553287982,
+  "slow_duration_seconds": 20.81687074829932,
+  "cues": [
+    {
+      "text": "Neříkám, že oznámení obsahuje nepravdu. Tvrdím, že nám neříká dost o praktickém důsledku změny. Zároveň bych osobní vzpomínku neoznačoval za úplný obraz provozu. Každý text zachycuje jinou rovinu.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Neříkám, že oznámení obsahuje nepravdu.",
+        "Tvrdím, že nám neříká dost o praktickém důsledku změny.",
+        "Zároveň bych osobní vzpomínku neoznačoval za úplný obraz provozu.",
+        "Každý text zachycuje jinou rovinu."
+      ],
+      "start": 0.0,
+      "end": 18.187165532879817,
+      "sentences": [
+        {
+          "text": "Neříkám, že oznámení obsahuje nepravdu.",
+          "start": 0.0,
+          "end": 3.7848526077097504,
+          "slow_start": 0.0,
+          "slow_end": 4.191201814058957
+        },
+        {
+          "text": "Tvrdím, že nám neříká dost o praktickém důsledku změny.",
+          "start": 3.9648526077097506,
+          "end": 8.841043083900226,
+          "slow_start": 4.371201814058957,
+          "slow_end": 9.851111111111111
+        },
+        {
+          "text": "Zároveň bych osobní vzpomínku neoznačoval za úplný obraz provozu.",
+          "start": 9.021043083900226,
+          "end": 14.860861678004536,
+          "slow_start": 10.03111111111111,
+          "slow_end": 16.79972789115646
+        },
+        {
+          "text": "Každý text zachycuje jinou rovinu.",
+          "start": 15.040861678004536,
+          "end": 18.187165532879817,
+          "slow_start": 16.97972789115646,
+          "slow_end": 20.63687074829932
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 20.63687074829932
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "6906e87ba73c2514fb020a732362bafbe4d69575da962ef851ef409aa0fc775c",
+    "slow": "e0efab65601400ae88d02445e9b49c3f99f3441e46de94c6fadfc60a8fbcd563"
+  }
+}

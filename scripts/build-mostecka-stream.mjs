@@ -1,0 +1,18 @@
+import fs from 'node:fs';import path from 'node:path';import assert from 'node:assert/strict';import {createHash} from 'node:crypto';import sharp from '../tools/game-renderer/node_modules/sharp/dist/index.mjs';import {PROJECT_ROOT} from '../app/server/config.mjs';
+const base=path.join(PROJECT_ROOT,'app/public/game'),read=f=>JSON.parse(fs.readFileSync(path.join(base,f))),old=read('stream-v1/manifest.json'),scenes=read('scenes/manifest.v1.json'),layout=JSON.parse(fs.readFileSync(path.join(PROJECT_ROOT,'design/画质修正_20261024/莫斯特街连续场景/layout.json')));
+const imageFile=path.join(base,'scenes/mostecka-street-v1.png'),image=sharp(imageFile),meta=await image.metadata();assert.equal(meta.width,1536);assert.equal(meta.height,1024);
+const source={id:layout.id,image:'/game/scenes/mostecka-street-v1.png',name_cs:layout.name_cs,name_zh:layout.name_zh,translation:layout.translation,bounds:layout.bounds,pixels:[1536,1024],geometry_sources:['OpenStreetMap snapshot 2026-10-23'],status:'main_approach_visual_check_pending',appearance:'original fine 2D illustration; street topology from bundled OSM, facade artwork illustrative',stack:0,places:[{id:'czlife:mostecka',cs:'Mostecká',zh:'莫斯特街',zh_kind:'教学译名',kind:'street',xy:[-1456,-1254],source:'OpenStreetMap road 26965194',address:'Mostecká, Malá Strana · 小城区'}]};
+const levels=[],files=[];sharp.concurrency(1);
+for(const factor of [.25,.5,1]){
+  const width=Math.round(meta.width*factor),height=Math.round(meta.height*factor),level=levels.length,buffer=await image.clone().resize(width,height).raw().toBuffer(),tiles=[];
+  for(let a=0;a<Math.ceil(width/512);a++)for(let b=0;b<Math.ceil(height/512);b++){
+    const left=Math.max(0,a*512-1),top=Math.max(0,b*512-1),w=Math.min(width,(a+1)*512+1)-left,h=Math.min(height,(b+1)*512+1)-top,rel=`stream-v1/scenes/${source.id}/${level}/${a}_${b}.webp`,dest=path.join(base,rel);fs.mkdirSync(path.dirname(dest),{recursive:true});
+    if(!fs.existsSync(dest))await sharp(buffer,{raw:{width,height,channels:meta.channels}}).extract({left,top,width:w,height:h}).webp({lossless:true,effort:4}).toFile(dest);
+    else{const decoded=await sharp(dest).raw().toBuffer(),expected=await sharp(buffer,{raw:{width,height,channels:meta.channels}}).extract({left,top,width:w,height:h}).raw().toBuffer();assert.deepEqual(decoded,expected,'Never overwrite mismatched immutable tile '+dest);}
+    const tile={a,b,left,top,width:w,height:h,url:'/game/'+rel};tiles.push(tile);files.push({url:tile.url,bytes:fs.statSync(dest).size,sha256:createHash('sha256').update(fs.readFileSync(dest)).digest('hex')});
+  }
+  levels.push({level,width,height,scale:width/source.bounds.width,tiles});
+}
+const next={...old,version:'2026.10.24.stream.3',scenes:[...old.scenes.map(s=>({...s,stack:20})),{...source,image:undefined,levels}]};
+fs.writeFileSync(path.join(base,'stream-v1/manifest.v3.json'),JSON.stringify(next));fs.writeFileSync(path.join(base,'scenes/manifest.v2.json'),JSON.stringify({version:'2026.10.24.2',scenes:[...scenes.scenes.map(s=>({...s,stack:20})),source]},null,2));
+const report={at:new Date().toISOString(),new_scene:source,source_sha256:createHash('sha256').update(fs.readFileSync(imageFile)).digest('hex'),files,bytes:files.reduce((n,f)=>n+f.bytes,0),original_manifest_retained:true,original_scene_retained_above_overlap:true,scope:'Only additive scene asset and new index. No database write.'};fs.writeFileSync(path.join(PROJECT_ROOT,'evidence/game-prague-20261024/mostecka-stream-assets.json'),JSON.stringify(report,null,2));console.log(JSON.stringify({new_tiles:files.length,bytes:report.bytes,index:'stream-v1/manifest.v3.json',old_tiles_untouched:true}));

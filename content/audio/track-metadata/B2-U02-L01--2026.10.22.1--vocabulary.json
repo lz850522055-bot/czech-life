@@ -1,0 +1,144 @@
+{
+  "id": "B2-U02-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "B2-U02-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B2",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Lze snížit minimální odběr?",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Lze snížit minimální odběr?"
+      ]
+    },
+    {
+      "text": "Potřebujeme závazný termín.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Potřebujeme závazný termín."
+      ]
+    },
+    {
+      "text": "Kdo odpovídá za převzetí?",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Kdo odpovídá za převzetí?"
+      ]
+    },
+    {
+      "text": "Dohoda vyžaduje vzájemné ústupky.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Dohoda vyžaduje vzájemné ústupky."
+      ]
+    }
+  ],
+  "text_sha256": "6a85b7c9158b58e476a257e894f03a749f96c2277f283238500f4ed9a0ba8699",
+  "source_file": "content/lessons/B2/B2-U02-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U02-L01--2026.10.22.1--vocabulary--6a85b7c915--normal.mp3",
+  "slow_file": "content/audio/files/B2-U02-L01--2026.10.22.1--vocabulary--6a85b7c915--slow.mp3",
+  "duration_seconds": 11.296689342403628,
+  "slow_duration_seconds": 12.666666666666666,
+  "cues": [
+    {
+      "text": "Lze snížit minimální odběr?",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Lze snížit minimální odběr?"
+      ],
+      "start": 0.0,
+      "end": 2.9605442176870747,
+      "sentences": [
+        {
+          "text": "Lze snížit minimální odběr?",
+          "start": 0.0,
+          "end": 2.9605442176870747,
+          "slow_start": 0.0,
+          "slow_end": 3.4597732426303853
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 3.4597732426303853
+    },
+    {
+      "text": "Potřebujeme závazný termín.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Potřebujeme závazný termín."
+      ],
+      "start": 3.140544217687075,
+      "end": 5.590249433106576,
+      "sentences": [
+        {
+          "text": "Potřebujeme závazný termín.",
+          "start": 3.140544217687075,
+          "end": 5.590249433106576,
+          "slow_start": 3.6397732426303855,
+          "slow_end": 6.391337868480726
+        }
+      ],
+      "slow_start": 3.6397732426303855,
+      "slow_end": 6.391337868480726
+    },
+    {
+      "text": "Kdo odpovídá za převzetí?",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Kdo odpovídá za převzetí?"
+      ],
+      "start": 5.770249433106576,
+      "end": 7.96453514739229,
+      "sentences": [
+        {
+          "text": "Kdo odpovídá za převzetí?",
+          "start": 5.770249433106576,
+          "end": 7.96453514739229,
+          "slow_start": 6.571337868480725,
+          "slow_end": 9.03265306122449
+        }
+      ],
+      "slow_start": 6.571337868480725,
+      "slow_end": 9.03265306122449
+    },
+    {
+      "text": "Dohoda vyžaduje vzájemné ústupky.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Dohoda vyžaduje vzájemné ústupky."
+      ],
+      "start": 8.14453514739229,
+      "end": 11.116689342403628,
+      "sentences": [
+        {
+          "text": "Dohoda vyžaduje vzájemné ústupky.",
+          "start": 8.14453514739229,
+          "end": 11.116689342403628,
+          "slow_start": 9.21265306122449,
+          "slow_end": 12.486666666666666
+        }
+      ],
+      "slow_start": 9.21265306122449,
+      "slow_end": 12.486666666666666
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "88c90620c261732b44b83caf34d52e1a8ac12aa34c34d2d0b0c58691d46865b9",
+    "slow": "4ac373be0477b94a5eb6a9310e547c81f1ca4f864c7995c5f27d4a26c340c7c9"
+  }
+}

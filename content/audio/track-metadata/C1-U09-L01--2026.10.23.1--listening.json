@@ -1,0 +1,76 @@
+{
+  "id": "C1-U09-L01--2026.10.23.1--listening",
+  "lesson_id": "C1-U09-L01",
+  "content_version": "2026.10.23.1",
+  "level": "C1",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Když jsem řekl dvakrát měř, jednou řež, nechtěl jsem návrh shodit. Myslel jsem tím, že před podpisem potřebujeme objasnit podmínky vrácení. Jakmile je budeme znát, můžeme rozhodnout bez dalšího odkládání.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Když jsem řekl dvakrát měř, jednou řež, nechtěl jsem návrh shodit.",
+        "Myslel jsem tím, že před podpisem potřebujeme objasnit podmínky vrácení.",
+        "Jakmile je budeme znát, můžeme rozhodnout bez dalšího odkládání."
+      ]
+    }
+  ],
+  "text_sha256": "915963853516620122755618104150d9f7418829fa3c3f850f508ae2c5440d6e",
+  "source_file": "content/lessons/C1/C1-U09-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U09-L01--2026.10.22.1--listening--9159638535--normal.mp3",
+  "slow_file": "content/audio/files/C1-U09-L01--2026.10.22.1--listening--9159638535--slow.mp3",
+  "duration_seconds": 18.129115646258505,
+  "slow_duration_seconds": 20.543990929705217,
+  "cues": [
+    {
+      "text": "Když jsem řekl dvakrát měř, jednou řež, nechtěl jsem návrh shodit. Myslel jsem tím, že před podpisem potřebujeme objasnit podmínky vrácení. Jakmile je budeme znát, můžeme rozhodnout bez dalšího odkládání.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Když jsem řekl dvakrát měř, jednou řež, nechtěl jsem návrh shodit.",
+        "Myslel jsem tím, že před podpisem potřebujeme objasnit podmínky vrácení.",
+        "Jakmile je budeme znát, můžeme rozhodnout bez dalšího odkládání."
+      ],
+      "start": 0.0,
+      "end": 17.9491156462585,
+      "sentences": [
+        {
+          "text": "Když jsem řekl dvakrát měř, jednou řež, nechtěl jsem návrh shodit.",
+          "start": 0.0,
+          "end": 6.048798185941043,
+          "slow_start": 0.0,
+          "slow_end": 6.815056689342404
+        },
+        {
+          "text": "Myslel jsem tím, že před podpisem potřebujeme objasnit podmínky vrácení.",
+          "start": 6.228798185941043,
+          "end": 12.52140589569161,
+          "slow_start": 6.9950566893424035,
+          "slow_end": 14.216462585034014
+        },
+        {
+          "text": "Jakmile je budeme znát, můžeme rozhodnout bez dalšího odkládání.",
+          "start": 12.70140589569161,
+          "end": 17.9491156462585,
+          "slow_start": 14.396462585034014,
+          "slow_end": 20.363990929705217
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 20.363990929705217
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "9f6820959b63e6670bdfcdac641e5dc7279cfdbd1329cf1691d2ff210277d07c",
+    "slow": "f728dc6dd35a3b78e4136db3f65f1e6f3d712c5eb2fb21389c2aaff33894373a"
+  },
+  "reused_from_track_id": "C1-U09-L01--2026.10.22.1--listening"
+}

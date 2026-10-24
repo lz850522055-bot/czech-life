@@ -1,0 +1,75 @@
+{
+  "id": "C1-U03-CHECK--2026.10.22.1--text",
+  "lesson_id": "C1-U03-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Zákazník napsal: Vaše nabídka nás zaujala. V této chvíli nicméně dáváme přednost zachování současného dodavatele. Pokud se okolnosti změní, rádi se ozveme.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Zákazník napsal: Vaše nabídka nás zaujala.",
+        "V této chvíli nicméně dáváme přednost zachování současného dodavatele.",
+        "Pokud se okolnosti změní, rádi se ozveme."
+      ]
+    }
+  ],
+  "text_sha256": "35682e7a82015ce1d6eab2aec459f6a37ad5558811dbaadac67507d3c8c6469a",
+  "source_file": "content/assessments/C1-U03.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U03-CHECK--2026.10.22.1--text--35682e7a82--normal.mp3",
+  "slow_file": "content/audio/files/C1-U03-CHECK--2026.10.22.1--text--35682e7a82--slow.mp3",
+  "duration_seconds": 14.622902494331067,
+  "slow_duration_seconds": 16.4340589569161,
+  "cues": [
+    {
+      "text": "Zákazník napsal: Vaše nabídka nás zaujala. V této chvíli nicméně dáváme přednost zachování současného dodavatele. Pokud se okolnosti změní, rádi se ozveme.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Zákazník napsal: Vaše nabídka nás zaujala.",
+        "V této chvíli nicméně dáváme přednost zachování současného dodavatele.",
+        "Pokud se okolnosti změní, rádi se ozveme."
+      ],
+      "start": 0.0,
+      "end": 14.442902494331065,
+      "sentences": [
+        {
+          "text": "Zákazník napsal: Vaše nabídka nás zaujala.",
+          "start": 0.0,
+          "end": 3.982222222222222,
+          "slow_start": 0.0,
+          "slow_end": 4.562721088435374
+        },
+        {
+          "text": "V této chvíli nicméně dáváme přednost zachování současného dodavatele.",
+          "start": 4.162222222222222,
+          "end": 10.501269841269842,
+          "slow_start": 4.742721088435374,
+          "slow_end": 11.766757369614513
+        },
+        {
+          "text": "Pokud se okolnosti změní, rádi se ozveme.",
+          "start": 10.681269841269842,
+          "end": 14.442902494331065,
+          "slow_start": 11.946757369614513,
+          "slow_end": 16.2540589569161
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 16.2540589569161
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "7a9767bf35c38cff1deb7ba1d6ca52ded40ff29824957a9bf99d10406763e224",
+    "slow": "fd092d9dcd5e43872f2483d578060241cfa265909e6df4af0c8b30549c188fe2"
+  }
+}

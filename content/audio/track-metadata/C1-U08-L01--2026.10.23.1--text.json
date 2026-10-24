@@ -1,0 +1,484 @@
+{
+  "id": "C1-U08-L01--2026.10.23.1--text",
+  "lesson_id": "C1-U08-L01",
+  "content_version": "2026.10.23.1",
+  "level": "C1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Při jednání sportovního spolku navrhl předseda přijmout nabídku místní firmy, která chtěla zaplatit nové vybavení výměnou za viditelné uvedení svého jména. Část členů souhlasila, jiní se obávali přílišného vlivu sponzora. Debata se vyhrotila ve chvíli, kdy jeden odpůrce prohlásil, že vedení hodlá prodat nezávislost spolku. Předseda odpověděl, že kritici zřejmě chtějí, aby děti trénovaly bez pomůcek. Ani tato reakce však neodpovídala tomu, co druhá strana skutečně navrhovala.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Při jednání sportovního spolku navrhl předseda přijmout nabídku místní firmy, která chtěla zaplatit nové vybavení výměnou za viditelné uvedení svého jména.",
+        "Část členů souhlasila, jiní se obávali přílišného vlivu sponzora.",
+        "Debata se vyhrotila ve chvíli, kdy jeden odpůrce prohlásil, že vedení hodlá prodat nezávislost spolku.",
+        "Předseda odpověděl, že kritici zřejmě chtějí, aby děti trénovaly bez pomůcek.",
+        "Ani tato reakce však neodpovídala tomu, co druhá strana skutečně navrhovala."
+      ]
+    },
+    {
+      "text": "Moderátorka požádala každou stranu, aby nejprve shrnula argument druhé tak, že jej jeho autor uzná za přesný. Předseda pak řekl, že obava nesměřuje proti jakékoli finanční podpoře, ale proti podmínkám, které by zasahovaly do rozhodování spolku. Kritička naopak uznala, že přijetí daru samo o sobě ještě neznamená ztrátu nezávislosti. Tím se rozsah sporu zúžil. Zůstala otázka, jaké konkrétní pravomoci sponzor požaduje a zda jsou pro spolek přijatelné.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Moderátorka požádala každou stranu, aby nejprve shrnula argument druhé tak, že jej jeho autor uzná za přesný.",
+        "Předseda pak řekl, že obava nesměřuje proti jakékoli finanční podpoře, ale proti podmínkám, které by zasahovaly do rozhodování spolku.",
+        "Kritička naopak uznala, že přijetí daru samo o sobě ještě neznamená ztrátu nezávislosti.",
+        "Tím se rozsah sporu zúžil.",
+        "Zůstala otázka, jaké konkrétní pravomoci sponzor požaduje a zda jsou pro spolek přijatelné."
+      ]
+    },
+    {
+      "text": "Ukázalo se, že návrh smlouvy obsahuje dvě odlišné věci: logo na vybavení a právo firmy schvalovat veřejné příspěvky týkající se spolupráce. Někteří členové proti první podmínce nic neměli, druhou však považovali za nepřiměřenou. Kdyby se hlasovalo pouze o celém balíku, nebylo by možné tuto rozdílnou podporu zachytit. Rozdělení složeného návrhu na části nepředstavovalo únik od rozhodnutí. Umožnilo zjistit, kde skutečně existuje prostor pro dohodu a kde zůstává zásadní překážka.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Ukázalo se, že návrh smlouvy obsahuje dvě odlišné věci: logo na vybavení a právo firmy schvalovat veřejné příspěvky týkající se spolupráce.",
+        "Někteří členové proti první podmínce nic neměli, druhou však považovali za nepřiměřenou.",
+        "Kdyby se hlasovalo pouze o celém balíku, nebylo by možné tuto rozdílnou podporu zachytit.",
+        "Rozdělení složeného návrhu na části nepředstavovalo únik od rozhodnutí.",
+        "Umožnilo zjistit, kde skutečně existuje prostor pro dohodu a kde zůstává zásadní překážka."
+      ]
+    },
+    {
+      "text": "Právník přítomný jako člen spolku upozornil, že jeho krátký komentář není úplným právním posouzením smlouvy. Navrhl však jazykově i organizačně jasnější hranici: firma může kontrolovat správnost vlastního názvu a popisu poskytnuté podpory, nikoli rozhodovat o názorech spolku. Kritička připustila, že taková úprava její hlavní námitku oslabuje. Nepotřebovala proto předstírat, že svůj dřívější postoj nikdy nezastávala; mohla vysvětlit, která nová informace vedla ke změně a co ještě potřebuje ověřit.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Právník přítomný jako člen spolku upozornil, že jeho krátký komentář není úplným právním posouzením smlouvy.",
+        "Navrhl však jazykově i organizačně jasnější hranici: firma může kontrolovat správnost vlastního názvu a popisu poskytnuté podpory, nikoli rozhodovat o názorech spolku.",
+        "Kritička připustila, že taková úprava její hlavní námitku oslabuje.",
+        "Nepotřebovala proto předstírat, že svůj dřívější postoj nikdy nezastávala; mohla vysvětlit, která nová informace vedla ke změně a co ještě potřebuje ověřit."
+      ]
+    },
+    {
+      "text": "Další člen trval na tom, že každý sponzor chce nakonec řídit všechno. Šlo o obecné tvrzení, pro něž v daném jednání nepředložil podklady. Moderátorka jej neodmítla kvůli tónu hlasu, ale požádala o konkrétní mechanismus: jak by podle něj firma získala další vliv i při navrženém omezení? Tím oddělila osobní zkušenost, která mohla být relevantní, od neomezeného závěru o všech případech. Silná námitka potřebuje ukázat cestu od podmínky k obávanému následku.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Další člen trval na tom, že každý sponzor chce nakonec řídit všechno.",
+        "Šlo o obecné tvrzení, pro něž v daném jednání nepředložil podklady.",
+        "Moderátorka jej neodmítla kvůli tónu hlasu, ale požádala o konkrétní mechanismus: jak by podle něj firma získala další vliv i při navrženém omezení?",
+        "Tím oddělila osobní zkušenost, která mohla být relevantní, od neomezeného závěru o všech případech.",
+        "Silná námitka potřebuje ukázat cestu od podmínky k obávanému následku."
+      ]
+    },
+    {
+      "text": "Výsledkem nebyl okamžitý souhlas se smlouvou. Spolek požádal firmu o úpravu dvou formulací a odložil konečné rozhodnutí do doby, než dostane novou verzi. V zápisu se objevilo, které námitky byly vyřešeny a které zůstávají otevřené. Takový záznam bránil tomu, aby se při příští schůzi celý spor vrátil na začátek. Zároveň nedovoloval označit částečný posun za úplnou shodu. Přesný nesouhlas byl v tomto případě produktivnější než široké ujišťování, že všem jde přece o stejnou věc.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Výsledkem nebyl okamžitý souhlas se smlouvou.",
+        "Spolek požádal firmu o úpravu dvou formulací a odložil konečné rozhodnutí do doby, než dostane novou verzi.",
+        "V zápisu se objevilo, které námitky byly vyřešeny a které zůstávají otevřené.",
+        "Takový záznam bránil tomu, aby se při příští schůzi celý spor vrátil na začátek.",
+        "Zároveň nedovoloval označit částečný posun za úplnou shodu.",
+        "Přesný nesouhlas byl v tomto případě produktivnější než široké ujišťování, že všem jde přece o stejnou věc."
+      ]
+    },
+    {
+      "text": "Při přípravě vlastního vystoupení si členové zkusili nahradit větu To je nesmysl větou Tento závěr podle mě nevyplývá z uvedeného důvodu. Druhá formulace nebyla automaticky zdvořilejší ve všech situacích, ale přesněji určovala místo sporu. Posluchač mohl reagovat doplněním důkazu nebo vysvětlením souvislosti, nikoli pouze obranou své osoby. Cílem nebylo odstranit emoce z důležitého rozhodnutí. Bylo jím zajistit, aby emoce nezastoupily popis toho, co se má přijmout, odmítnout nebo změnit.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Při přípravě vlastního vystoupení si členové zkusili nahradit větu To je nesmysl větou Tento závěr podle mě nevyplývá z uvedeného důvodu.",
+        "Druhá formulace nebyla automaticky zdvořilejší ve všech situacích, ale přesněji určovala místo sporu.",
+        "Posluchač mohl reagovat doplněním důkazu nebo vysvětlením souvislosti, nikoli pouze obranou své osoby.",
+        "Cílem nebylo odstranit emoce z důležitého rozhodnutí.",
+        "Bylo jím zajistit, aby emoce nezastoupily popis toho, co se má přijmout, odmítnout nebo změnit."
+      ]
+    }
+  ],
+  "text_sha256": "37186997209150aa0c3380e4793f8e4eee4b1da3239b2f94aa6838f7d654181d",
+  "source_file": "content/lessons/C1/C1-U08-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U08-L01--2026.10.22.1--text--3718699720--normal.mp3",
+  "slow_file": "content/audio/files/C1-U08-L01--2026.10.22.1--text--3718699720--slow.mp3",
+  "duration_seconds": 302.6911111111111,
+  "slow_duration_seconds": 339.8430385487528,
+  "cues": [
+    {
+      "text": "Při jednání sportovního spolku navrhl předseda přijmout nabídku místní firmy, která chtěla zaplatit nové vybavení výměnou za viditelné uvedení svého jména. Část členů souhlasila, jiní se obávali přílišného vlivu sponzora. Debata se vyhrotila ve chvíli, kdy jeden odpůrce prohlásil, že vedení hodlá prodat nezávislost spolku. Předseda odpověděl, že kritici zřejmě chtějí, aby děti trénovaly bez pomůcek. Ani tato reakce však neodpovídala tomu, co druhá strana skutečně navrhovala.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Při jednání sportovního spolku navrhl předseda přijmout nabídku místní firmy, která chtěla zaplatit nové vybavení výměnou za viditelné uvedení svého jména.",
+        "Část členů souhlasila, jiní se obávali přílišného vlivu sponzora.",
+        "Debata se vyhrotila ve chvíli, kdy jeden odpůrce prohlásil, že vedení hodlá prodat nezávislost spolku.",
+        "Předseda odpověděl, že kritici zřejmě chtějí, aby děti trénovaly bez pomůcek.",
+        "Ani tato reakce však neodpovídala tomu, co druhá strana skutečně navrhovala."
+      ],
+      "start": 0.0,
+      "end": 43.78140589569161,
+      "sentences": [
+        {
+          "text": "Při jednání sportovního spolku navrhl předseda přijmout nabídku místní firmy, která chtěla zaplatit nové vybavení výměnou za viditelné uvedení svého jména.",
+          "start": 0.0,
+          "end": 14.767891156462586,
+          "slow_start": 0.0,
+          "slow_end": 16.253968253968253
+        },
+        {
+          "text": "Část členů souhlasila, jiní se obávali přílišného vlivu sponzora.",
+          "start": 14.947891156462585,
+          "end": 21.321768707482992,
+          "slow_start": 16.433968253968253,
+          "slow_end": 23.504444444444445
+        },
+        {
+          "text": "Debata se vyhrotila ve chvíli, kdy jeden odpůrce prohlásil, že vedení hodlá prodat nezávislost spolku.",
+          "start": 21.50176870748299,
+          "end": 30.383401360544216,
+          "slow_start": 23.684444444444445,
+          "slow_end": 33.68063492063492
+        },
+        {
+          "text": "Předseda odpověděl, že kritici zřejmě chtějí, aby děti trénovaly bez pomůcek.",
+          "start": 30.56340136054422,
+          "end": 37.40167800453515,
+          "slow_start": 33.86063492063492,
+          "slow_end": 41.23297052154195
+        },
+        {
+          "text": "Ani tato reakce však neodpovídala tomu, co druhá strana skutečně navrhovala.",
+          "start": 37.58167800453515,
+          "end": 43.78140589569161,
+          "slow_start": 41.41297052154195,
+          "slow_end": 48.34412698412699
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 48.34412698412699
+    },
+    {
+      "text": "Moderátorka požádala každou stranu, aby nejprve shrnula argument druhé tak, že jej jeho autor uzná za přesný. Předseda pak řekl, že obava nesměřuje proti jakékoli finanční podpoře, ale proti podmínkám, které by zasahovaly do rozhodování spolku. Kritička naopak uznala, že přijetí daru samo o sobě ještě neznamená ztrátu nezávislosti. Tím se rozsah sporu zúžil. Zůstala otázka, jaké konkrétní pravomoci sponzor požaduje a zda jsou pro spolek přijatelné.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Moderátorka požádala každou stranu, aby nejprve shrnula argument druhé tak, že jej jeho autor uzná za přesný.",
+        "Předseda pak řekl, že obava nesměřuje proti jakékoli finanční podpoře, ale proti podmínkám, které by zasahovaly do rozhodování spolku.",
+        "Kritička naopak uznala, že přijetí daru samo o sobě ještě neznamená ztrátu nezávislosti.",
+        "Tím se rozsah sporu zúžil.",
+        "Zůstala otázka, jaké konkrétní pravomoci sponzor požaduje a zda jsou pro spolek přijatelné."
+      ],
+      "start": 43.96140589569161,
+      "end": 84.01600907029479,
+      "sentences": [
+        {
+          "text": "Moderátorka požádala každou stranu, aby nejprve shrnula argument druhé tak, že jej jeho autor uzná za přesný.",
+          "start": 43.96140589569161,
+          "end": 53.65573696145125,
+          "slow_start": 48.52412698412699,
+          "slow_end": 59.611655328798186
+        },
+        {
+          "text": "Předseda pak řekl, že obava nesměřuje proti jakékoli finanční podpoře, ale proti podmínkám, které by zasahovaly do rozhodování spolku.",
+          "start": 53.835736961451246,
+          "end": 64.72589569160998,
+          "slow_start": 59.791655328798186,
+          "slow_end": 71.94730158730158
+        },
+        {
+          "text": "Kritička naopak uznala, že přijetí daru samo o sobě ještě neznamená ztrátu nezávislosti.",
+          "start": 64.90589569160997,
+          "end": 72.80068027210885,
+          "slow_start": 72.12730158730159,
+          "slow_end": 81.03215419501134
+        },
+        {
+          "text": "Tím se rozsah sporu zúžil.",
+          "start": 72.98068027210884,
+          "end": 75.63936507936508,
+          "slow_start": 81.21215419501134,
+          "slow_end": 84.26557823129252
+        },
+        {
+          "text": "Zůstala otázka, jaké konkrétní pravomoci sponzor požaduje a zda jsou pro spolek přijatelné.",
+          "start": 75.81936507936508,
+          "end": 84.01600907029479,
+          "slow_start": 84.44557823129252,
+          "slow_end": 93.96575963718821
+        }
+      ],
+      "slow_start": 48.52412698412699,
+      "slow_end": 93.96575963718821
+    },
+    {
+      "text": "Ukázalo se, že návrh smlouvy obsahuje dvě odlišné věci: logo na vybavení a právo firmy schvalovat veřejné příspěvky týkající se spolupráce. Někteří členové proti první podmínce nic neměli, druhou však považovali za nepřiměřenou. Kdyby se hlasovalo pouze o celém balíku, nebylo by možné tuto rozdílnou podporu zachytit. Rozdělení složeného návrhu na části nepředstavovalo únik od rozhodnutí. Umožnilo zjistit, kde skutečně existuje prostor pro dohodu a kde zůstává zásadní překážka.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Ukázalo se, že návrh smlouvy obsahuje dvě odlišné věci: logo na vybavení a právo firmy schvalovat veřejné příspěvky týkající se spolupráce.",
+        "Někteří členové proti první podmínce nic neměli, druhou však považovali za nepřiměřenou.",
+        "Kdyby se hlasovalo pouze o celém balíku, nebylo by možné tuto rozdílnou podporu zachytit.",
+        "Rozdělení složeného návrhu na části nepředstavovalo únik od rozhodnutí.",
+        "Umožnilo zjistit, kde skutečně existuje prostor pro dohodu a kde zůstává zásadní překážka."
+      ],
+      "start": 84.19600907029478,
+      "end": 126.70031746031746,
+      "sentences": [
+        {
+          "text": "Ukázalo se, že návrh smlouvy obsahuje dvě odlišné věci: logo na vybavení a právo firmy schvalovat veřejné příspěvky týkající se spolupráce.",
+          "start": 84.19600907029478,
+          "end": 96.6651247165533,
+          "slow_start": 94.1457596371882,
+          "slow_end": 108.32154195011339
+        },
+        {
+          "text": "Někteří členové proti první podmínce nic neměli, druhou však považovali za nepřiměřenou.",
+          "start": 96.84512471655329,
+          "end": 104.24068027210885,
+          "slow_start": 108.50154195011338,
+          "slow_end": 116.79106575963719
+        },
+        {
+          "text": "Kdyby se hlasovalo pouze o celém balíku, nebylo by možné tuto rozdílnou podporu zachytit.",
+          "start": 104.42068027210884,
+          "end": 112.2574149659864,
+          "slow_start": 116.97106575963718,
+          "slow_end": 125.77142857142857
+        },
+        {
+          "text": "Rozdělení složeného návrhu na části nepředstavovalo únik od rozhodnutí.",
+          "start": 112.43741496598639,
+          "end": 118.57909297052154,
+          "slow_start": 125.95142857142856,
+          "slow_end": 132.96385487528346
+        },
+        {
+          "text": "Umožnilo zjistit, kde skutečně existuje prostor pro dohodu a kde zůstává zásadní překážka.",
+          "start": 118.75909297052154,
+          "end": 126.70031746031746,
+          "slow_start": 133.14385487528344,
+          "slow_end": 141.8281179138322
+        }
+      ],
+      "slow_start": 94.1457596371882,
+      "slow_end": 141.8281179138322
+    },
+    {
+      "text": "Právník přítomný jako člen spolku upozornil, že jeho krátký komentář není úplným právním posouzením smlouvy. Navrhl však jazykově i organizačně jasnější hranici: firma může kontrolovat správnost vlastního názvu a popisu poskytnuté podpory, nikoli rozhodovat o názorech spolku. Kritička připustila, že taková úprava její hlavní námitku oslabuje. Nepotřebovala proto předstírat, že svůj dřívější postoj nikdy nezastávala; mohla vysvětlit, která nová informace vedla ke změně a co ještě potřebuje ověřit.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Právník přítomný jako člen spolku upozornil, že jeho krátký komentář není úplným právním posouzením smlouvy.",
+        "Navrhl však jazykově i organizačně jasnější hranici: firma může kontrolovat správnost vlastního názvu a popisu poskytnuté podpory, nikoli rozhodovat o názorech spolku.",
+        "Kritička připustila, že taková úprava její hlavní námitku oslabuje.",
+        "Nepotřebovala proto předstírat, že svůj dřívější postoj nikdy nezastávala; mohla vysvětlit, která nová informace vedla ke změně a co ještě potřebuje ověřit."
+      ],
+      "start": 126.88031746031746,
+      "end": 172.3277097505669,
+      "sentences": [
+        {
+          "text": "Právník přítomný jako člen spolku upozornil, že jeho krátký komentář není úplným právním posouzením smlouvy.",
+          "start": 126.88031746031746,
+          "end": 136.6675283446712,
+          "slow_start": 142.0081179138322,
+          "slow_end": 153.30462585034013
+        },
+        {
+          "text": "Navrhl však jazykově i organizačně jasnější hranici: firma může kontrolovat správnost vlastního názvu a popisu poskytnuté podpory, nikoli rozhodovat o názorech spolku.",
+          "start": 136.8475283446712,
+          "end": 152.38167800453516,
+          "slow_start": 153.48462585034014,
+          "slow_end": 170.51646258503402
+        },
+        {
+          "text": "Kritička připustila, že taková úprava její hlavní námitku oslabuje.",
+          "start": 152.56167800453514,
+          "end": 158.50598639455782,
+          "slow_start": 170.69646258503403,
+          "slow_end": 177.33736961451248
+        },
+        {
+          "text": "Nepotřebovala proto předstírat, že svůj dřívější postoj nikdy nezastávala; mohla vysvětlit, která nová informace vedla ke změně a co ještě potřebuje ověřit.",
+          "start": 158.68598639455783,
+          "end": 172.3277097505669,
+          "slow_start": 177.51736961451246,
+          "slow_end": 192.83092970521542
+        }
+      ],
+      "slow_start": 142.0081179138322,
+      "slow_end": 192.83092970521542
+    },
+    {
+      "text": "Další člen trval na tom, že každý sponzor chce nakonec řídit všechno. Šlo o obecné tvrzení, pro něž v daném jednání nepředložil podklady. Moderátorka jej neodmítla kvůli tónu hlasu, ale požádala o konkrétní mechanismus: jak by podle něj firma získala další vliv i při navrženém omezení? Tím oddělila osobní zkušenost, která mohla být relevantní, od neomezeného závěru o všech případech. Silná námitka potřebuje ukázat cestu od podmínky k obávanému následku.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Další člen trval na tom, že každý sponzor chce nakonec řídit všechno.",
+        "Šlo o obecné tvrzení, pro něž v daném jednání nepředložil podklady.",
+        "Moderátorka jej neodmítla kvůli tónu hlasu, ale požádala o konkrétní mechanismus: jak by podle něj firma získala další vliv i při navrženém omezení?",
+        "Tím oddělila osobní zkušenost, která mohla být relevantní, od neomezeného závěru o všech případech.",
+        "Silná námitka potřebuje ukázat cestu od podmínky k obávanému následku."
+      ],
+      "start": 172.5077097505669,
+      "end": 213.25891156462586,
+      "sentences": [
+        {
+          "text": "Další člen trval na tom, že každý sponzor chce nakonec řídit všechno.",
+          "start": 172.5077097505669,
+          "end": 178.7887074829932,
+          "slow_start": 193.01092970521543,
+          "slow_end": 199.9885260770975
+        },
+        {
+          "text": "Šlo o obecné tvrzení, pro něž v daném jednání nepředložil podklady.",
+          "start": 178.9687074829932,
+          "end": 184.785306122449,
+          "slow_start": 200.1685260770975,
+          "slow_end": 206.7049433106576
+        },
+        {
+          "text": "Moderátorka jej neodmítla kvůli tónu hlasu, ale požádala o konkrétní mechanismus: jak by podle něj firma získala další vliv i při navrženém omezení?",
+          "start": 184.965306122449,
+          "end": 197.91043083900226,
+          "slow_start": 206.8849433106576,
+          "slow_end": 221.50190476190477
+        },
+        {
+          "text": "Tím oddělila osobní zkušenost, která mohla být relevantní, od neomezeného závěru o všech případech.",
+          "start": 198.09043083900227,
+          "end": 206.5308843537415,
+          "slow_start": 221.68190476190478,
+          "slow_end": 231.41106575963718
+        },
+        {
+          "text": "Silná námitka potřebuje ukázat cestu od podmínky k obávanému následku.",
+          "start": 206.7108843537415,
+          "end": 213.25891156462586,
+          "slow_start": 231.5910657596372,
+          "slow_end": 239.20721088435374
+        }
+      ],
+      "slow_start": 193.01092970521543,
+      "slow_end": 239.20721088435374
+    },
+    {
+      "text": "Výsledkem nebyl okamžitý souhlas se smlouvou. Spolek požádal firmu o úpravu dvou formulací a odložil konečné rozhodnutí do doby, než dostane novou verzi. V zápisu se objevilo, které námitky byly vyřešeny a které zůstávají otevřené. Takový záznam bránil tomu, aby se při příští schůzi celý spor vrátil na začátek. Zároveň nedovoloval označit částečný posun za úplnou shodu. Přesný nesouhlas byl v tomto případě produktivnější než široké ujišťování, že všem jde přece o stejnou věc.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Výsledkem nebyl okamžitý souhlas se smlouvou.",
+        "Spolek požádal firmu o úpravu dvou formulací a odložil konečné rozhodnutí do doby, než dostane novou verzi.",
+        "V zápisu se objevilo, které námitky byly vyřešeny a které zůstávají otevřené.",
+        "Takový záznam bránil tomu, aby se při příští schůzi celý spor vrátil na začátek.",
+        "Zároveň nedovoloval označit částečný posun za úplnou shodu.",
+        "Přesný nesouhlas byl v tomto případě produktivnější než široké ujišťování, že všem jde přece o stejnou věc."
+      ],
+      "start": 213.43891156462584,
+      "end": 257.6209070294785,
+      "sentences": [
+        {
+          "text": "Výsledkem nebyl okamžitý souhlas se smlouvou.",
+          "start": 213.43891156462584,
+          "end": 217.38630385487528,
+          "slow_start": 239.38721088435375,
+          "slow_end": 243.9267120181406
+        },
+        {
+          "text": "Spolek požádal firmu o úpravu dvou formulací a odložil konečné rozhodnutí do doby, než dostane novou verzi.",
+          "start": 217.5663038548753,
+          "end": 226.97038548752835,
+          "slow_start": 244.1067120181406,
+          "slow_end": 254.6253514739229
+        },
+        {
+          "text": "V zápisu se objevilo, které námitky byly vyřešeny a které zůstávají otevřené.",
+          "start": 227.15038548752835,
+          "end": 234.10476190476192,
+          "slow_start": 254.8053514739229,
+          "slow_end": 262.61886621315193
+        },
+        {
+          "text": "Takový záznam bránil tomu, aby se při příští schůzi celý spor vrátil na začátek.",
+          "start": 234.2847619047619,
+          "end": 241.9821768707483,
+          "slow_start": 262.79886621315194,
+          "slow_end": 271.36702947845805
+        },
+        {
+          "text": "Zároveň nedovoloval označit částečný posun za úplnou shodu.",
+          "start": 242.1621768707483,
+          "end": 247.80462585034013,
+          "slow_start": 271.54702947845806,
+          "slow_end": 277.7931972789116
+        },
+        {
+          "text": "Přesný nesouhlas byl v tomto případě produktivnější než široké ujišťování, že všem jde přece o stejnou věc.",
+          "start": 247.98462585034014,
+          "end": 257.6209070294785,
+          "slow_start": 277.9731972789116,
+          "slow_end": 288.68920634920636
+        }
+      ],
+      "slow_start": 239.38721088435375,
+      "slow_end": 288.68920634920636
+    },
+    {
+      "text": "Při přípravě vlastního vystoupení si členové zkusili nahradit větu To je nesmysl větou Tento závěr podle mě nevyplývá z uvedeného důvodu. Druhá formulace nebyla automaticky zdvořilejší ve všech situacích, ale přesněji určovala místo sporu. Posluchač mohl reagovat doplněním důkazu nebo vysvětlením souvislosti, nikoli pouze obranou své osoby. Cílem nebylo odstranit emoce z důležitého rozhodnutí. Bylo jím zajistit, aby emoce nezastoupily popis toho, co se má přijmout, odmítnout nebo změnit.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Při přípravě vlastního vystoupení si členové zkusili nahradit větu To je nesmysl větou Tento závěr podle mě nevyplývá z uvedeného důvodu.",
+        "Druhá formulace nebyla automaticky zdvořilejší ve všech situacích, ale přesněji určovala místo sporu.",
+        "Posluchač mohl reagovat doplněním důkazu nebo vysvětlením souvislosti, nikoli pouze obranou své osoby.",
+        "Cílem nebylo odstranit emoce z důležitého rozhodnutí.",
+        "Bylo jím zajistit, aby emoce nezastoupily popis toho, co se má přijmout, odmítnout nebo změnit."
+      ],
+      "start": 257.8009070294785,
+      "end": 302.5111111111111,
+      "sentences": [
+        {
+          "text": "Při přípravě vlastního vystoupení si členové zkusili nahradit větu To je nesmysl větou Tento závěr podle mě nevyplývá z uvedeného důvodu.",
+          "start": 257.8009070294785,
+          "end": 270.15392290249434,
+          "slow_start": 288.86920634920637,
+          "slow_end": 302.6850793650794
+        },
+        {
+          "text": "Druhá formulace nebyla automaticky zdvořilejší ve všech situacích, ale přesněji určovala místo sporu.",
+          "start": 270.33392290249435,
+          "end": 279.55224489795916,
+          "slow_start": 302.86507936507934,
+          "slow_end": 313.6159183673469
+        },
+        {
+          "text": "Posluchač mohl reagovat doplněním důkazu nebo vysvětlením souvislosti, nikoli pouze obranou své osoby.",
+          "start": 279.73224489795916,
+          "end": 289.10149659863947,
+          "slow_start": 313.7959183673469,
+          "slow_end": 324.6048072562358
+        },
+        {
+          "text": "Cílem nebylo odstranit emoce z důležitého rozhodnutí.",
+          "start": 289.2814965986395,
+          "end": 293.92548752834466,
+          "slow_start": 324.7848072562358,
+          "slow_end": 329.9048072562358
+        },
+        {
+          "text": "Bylo jím zajistit, aby emoce nezastoupily popis toho, co se má přijmout, odmítnout nebo změnit.",
+          "start": 294.10548752834467,
+          "end": 302.5111111111111,
+          "slow_start": 330.0848072562358,
+          "slow_end": 339.6630385487528
+        }
+      ],
+      "slow_start": 288.86920634920637,
+      "slow_end": 339.6630385487528
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "cc496c02668c3eeb50bc1c0bbe821c5b6f55ac8bced8664e3df24d35743f4be8",
+    "slow": "9eb03244656cffd9e2c7bf781ba98a414ebc2f4eaa58d2a646244ae37a807c23"
+  },
+  "reused_from_track_id": "C1-U08-L01--2026.10.22.1--text"
+}

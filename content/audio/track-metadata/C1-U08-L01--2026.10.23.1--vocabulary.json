@@ -1,0 +1,174 @@
+{
+  "id": "C1-U08-L01--2026.10.23.1--vocabulary",
+  "lesson_id": "C1-U08-L01",
+  "content_version": "2026.10.23.1",
+  "level": "C1",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Spolek chrání svou nezávislost.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Spolek chrání svou nezávislost."
+      ]
+    },
+    {
+      "text": "Pravomoci musí být jasné.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Pravomoci musí být jasné."
+      ]
+    },
+    {
+      "text": "Požadavek je nepřiměřený účelu.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Požadavek je nepřiměřený účelu."
+      ]
+    },
+    {
+      "text": "Zpochybňuji závěr, ne vaše úsilí.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Zpochybňuji závěr, ne vaše úsilí."
+      ]
+    },
+    {
+      "text": "Čekáme na konečné znění.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Čekáme na konečné znění."
+      ]
+    }
+  ],
+  "text_sha256": "b16ad14e8a8b4674562935cb7bc060fcf278c2dc303ad2c3d7dc3c7cdd4a41ac",
+  "source_file": "content/lessons/C1/C1-U08-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U08-L01--2026.10.22.1--vocabulary--b16ad14e8a--normal.mp3",
+  "slow_file": "content/audio/files/C1-U08-L01--2026.10.22.1--vocabulary--b16ad14e8a--slow.mp3",
+  "duration_seconds": 15.26154195011338,
+  "slow_duration_seconds": 17.37455782312925,
+  "cues": [
+    {
+      "text": "Spolek chrání svou nezávislost.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Spolek chrání svou nezávislost."
+      ],
+      "start": 0.0,
+      "end": 3.006984126984127,
+      "sentences": [
+        {
+          "text": "Spolek chrání svou nezávislost.",
+          "start": 0.0,
+          "end": 3.006984126984127,
+          "slow_start": 0.0,
+          "slow_end": 3.4481632653061225
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 3.4481632653061225
+    },
+    {
+      "text": "Pravomoci musí být jasné.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Pravomoci musí být jasné."
+      ],
+      "start": 3.186984126984127,
+      "end": 6.019818594104309,
+      "sentences": [
+        {
+          "text": "Pravomoci musí být jasné.",
+          "start": 3.186984126984127,
+          "end": 6.019818594104309,
+          "slow_start": 3.6281632653061227,
+          "slow_end": 6.9950566893424035
+        }
+      ],
+      "slow_start": 3.6281632653061227,
+      "slow_end": 6.9950566893424035
+    },
+    {
+      "text": "Požadavek je nepřiměřený účelu.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Požadavek je nepřiměřený účelu."
+      ],
+      "start": 6.1998185941043085,
+      "end": 9.14875283446712,
+      "sentences": [
+        {
+          "text": "Požadavek je nepřiměřený účelu.",
+          "start": 6.1998185941043085,
+          "end": 9.14875283446712,
+          "slow_start": 7.175056689342403,
+          "slow_end": 10.576780045351473
+        }
+      ],
+      "slow_start": 7.175056689342403,
+      "slow_end": 10.576780045351473
+    },
+    {
+      "text": "Zpochybňuji závěr, ne vaše úsilí.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Zpochybňuji závěr, ne vaše úsilí."
+      ],
+      "start": 9.328752834467121,
+      "end": 12.73047619047619,
+      "sentences": [
+        {
+          "text": "Zpochybňuji závěr, ne vaše úsilí.",
+          "start": 9.328752834467121,
+          "end": 12.73047619047619,
+          "slow_start": 10.756780045351475,
+          "slow_end": 14.634512471655329
+        }
+      ],
+      "slow_start": 10.756780045351475,
+      "slow_end": 14.634512471655329
+    },
+    {
+      "text": "Čekáme na konečné znění.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Čekáme na konečné znění."
+      ],
+      "start": 12.91047619047619,
+      "end": 15.081541950113378,
+      "sentences": [
+        {
+          "text": "Čekáme na konečné znění.",
+          "start": 12.91047619047619,
+          "end": 15.081541950113378,
+          "slow_start": 14.814512471655329,
+          "slow_end": 17.19455782312925
+        }
+      ],
+      "slow_start": 14.814512471655329,
+      "slow_end": 17.19455782312925
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "ef802063b59df642495a725ecd149c47000a0d8546cb76f3e1f023cb8eb39b43",
+    "slow": "beaeb5f83cde56e6c0957195493aa7813e65a6d77d4b445227f6748c8b2fdb6c"
+  },
+  "reused_from_track_id": "C1-U08-L01--2026.10.22.1--vocabulary"
+}

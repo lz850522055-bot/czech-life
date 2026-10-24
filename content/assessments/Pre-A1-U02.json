@@ -1,0 +1,281 @@
+{
+  "id": "Pre-A1-U02-CHECK",
+  "kind": "unit",
+  "level": "Pre-A1",
+  "unit_id": "Pre-A1-U02",
+  "title_zh": "长音不是重音：听清一张护照和一条带子：换情境独立完成",
+  "version": "2026.10.22.1",
+  "unseen_text": [
+    {
+      "cs": "Paní Eva má pas. Je doma.",
+      "zh": "伊娃女士有护照，她在家。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "cs": "Její byt je malý.",
+      "zh": "她的公寓很小。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "听辨新材料中的目标词。",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "byt"
+        },
+        {
+          "id": "b",
+          "text": "být"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "音频是名词byt。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "listening"
+      ],
+      "error_category": "pronunciation",
+      "audio_text_cs": "byt",
+      "id": "Pre-A1-U02-CHECK-E01",
+      "knowledge_points": [
+        "vowel-length",
+        "stress-group"
+      ]
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "读Paní Eva má pas；保持pa重读和ní长音。",
+      "stimulus_cs": "",
+      "answer": "Paní Eva má pas.",
+      "accepted_answers": [],
+      "explanation_zh": "分别核对重音和长度。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "Pre-A1-U02-CHECK-E02",
+      "knowledge_points": [
+        "vowel-length",
+        "stress-group"
+      ]
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "写一句中文自检规则，提醒自己如何区分pas/pás。",
+      "stimulus_cs": "",
+      "answer": "pas：短a；pás：长á。",
+      "accepted_answers": [],
+      "explanation_zh": "不用中文谐音。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "Pre-A1-U02-CHECK-E03",
+      "knowledge_points": [
+        "vowel-length",
+        "stress-group"
+      ]
+    }
+  ],
+  "rubric": [
+    "能提取新材料中的关键事实，不靠背诵原文",
+    "能根据变化的条件组织一句或一段表达",
+    "能指出不确定之处并请求澄清"
+  ],
+  "remediation": [
+    {
+      "condition_zh": "目标规律使用不稳定或未能提取关键信息",
+      "lesson_ids": [
+        "Pre-A1-U02-L01"
+      ],
+      "action_zh": "返回规律卡，对照两例；隔一次其他练习后重做未见情境。"
+    }
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "Pre-A1-U02-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U02-CHECK--2026.10.22.1--text--0c9387875f--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U02-CHECK--2026.10.22.1--text--0c9387875f--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U02-CHECK--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Paní Eva má pas. Je doma. Její byt je malý.",
+      "duration_seconds": 4.998231292517007,
+      "slow_duration_seconds": 5.532290249433107,
+      "sha256": "277b9695b7557f51d46a5b2a172d1feb06d4b1e61eb5f5bcfb1a02d27ad12607",
+      "slow_sha256": "f97976afdba2d0c75f1d1da7841d6a5bbdcab34b320d365967c23efb0746b734"
+    },
+    {
+      "lesson_id": "Pre-A1-U02-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U02-CHECK--2026.10.22.1--text--0c9387875f--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U02-CHECK--2026.10.22.1--text--0c9387875f--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U02-CHECK--2026.10.22.1--text--p0",
+      "asset_id": "Pre-A1-U02-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Paní Eva má pas. Je doma.",
+      "start": 0,
+      "end": 2.838684807256236,
+      "slow_start": 0,
+      "slow_end": 3.2566439909297054
+    },
+    {
+      "lesson_id": "Pre-A1-U02-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U02-CHECK--2026.10.22.1--text--0c9387875f--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U02-CHECK--2026.10.22.1--text--0c9387875f--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U02-CHECK--2026.10.22.1--text--s0",
+      "asset_id": "Pre-A1-U02-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Paní Eva má pas.",
+      "start": 0,
+      "end": 1.9388662131519274,
+      "slow_start": 0,
+      "slow_end": 2.2291156462585033
+    },
+    {
+      "lesson_id": "Pre-A1-U02-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U02-CHECK--2026.10.22.1--text--0c9387875f--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U02-CHECK--2026.10.22.1--text--0c9387875f--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U02-CHECK--2026.10.22.1--text--s1",
+      "asset_id": "Pre-A1-U02-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Je doma.",
+      "start": 2.1188662131519274,
+      "end": 2.838684807256236,
+      "slow_start": 2.4091156462585035,
+      "slow_end": 3.2566439909297054
+    },
+    {
+      "lesson_id": "Pre-A1-U02-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U02-CHECK--2026.10.22.1--text--0c9387875f--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U02-CHECK--2026.10.22.1--text--0c9387875f--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U02-CHECK--2026.10.22.1--text--p1",
+      "asset_id": "Pre-A1-U02-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Její byt je malý.",
+      "start": 3.018684807256236,
+      "end": 4.818231292517007,
+      "slow_start": 3.436643990929705,
+      "slow_end": 5.352290249433106
+    },
+    {
+      "lesson_id": "Pre-A1-U02-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U02-CHECK--2026.10.22.1--text--0c9387875f--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U02-CHECK--2026.10.22.1--text--0c9387875f--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U02-CHECK--2026.10.22.1--text--s2",
+      "asset_id": "Pre-A1-U02-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 1,
+      "sentence_index": 0,
+      "text": "Její byt je malý.",
+      "start": 3.018684807256236,
+      "end": 4.818231292517007,
+      "slow_start": 3.436643990929705,
+      "slow_end": 5.352290249433106
+    },
+    {
+      "lesson_id": "Pre-A1-U02-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U02-CHECK--2026.10.22.1--exercises--c78920c842--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U02-CHECK--2026.10.22.1--exercises--c78920c842--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U02-CHECK--2026.10.22.1--exercises",
+      "role": "exercises-full",
+      "index": 0,
+      "text": "byt",
+      "duration_seconds": 0.9114285714285715,
+      "slow_duration_seconds": 1.050748299319728,
+      "sha256": "74c7705747c360827a31968719e8ff74bd4aa3b1ab1066029c109c1e7cbe2115",
+      "slow_sha256": "3d87d5f3f85faea5e54e9845fe60de16ab9b204bc73458486620c5daa436ef5c"
+    },
+    {
+      "lesson_id": "Pre-A1-U02-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U02-CHECK--2026.10.22.1--exercises--c78920c842--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U02-CHECK--2026.10.22.1--exercises--c78920c842--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U02-CHECK--2026.10.22.1--exercises--p0",
+      "asset_id": "Pre-A1-U02-CHECK--2026.10.22.1--exercises",
+      "role": "exercise",
+      "index": 0,
+      "exercise_id": "Pre-A1-U02-CHECK-E01",
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "byt",
+      "start": 0,
+      "end": 0.7314285714285714,
+      "slow_start": 0,
+      "slow_end": 0.8707482993197279
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "A1-U09-L01--2026.10.23.1--listening",
+  "lesson_id": "A1-U09-L01",
+  "content_version": "2026.10.23.1",
+  "level": "A1",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Jeďte autobusem číslo osm. Vystupte na třetí zastávce. Pošta je vlevo vedle banky.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Jeďte autobusem číslo osm.",
+        "Vystupte na třetí zastávce.",
+        "Pošta je vlevo vedle banky."
+      ]
+    }
+  ],
+  "text_sha256": "1d1e608abcc7c912bf9cc4a21f9628ed07e509109c96a38bee29518a6fdc4b7d",
+  "source_file": "content/lessons/A1/A1-U09-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U09-L01--2026.10.22.1--listening--1d1e608abc--normal.mp3",
+  "slow_file": "content/audio/files/A1-U09-L01--2026.10.22.1--listening--1d1e608abc--slow.mp3",
+  "duration_seconds": 7.9471655328798185,
+  "slow_duration_seconds": 8.79469387755102,
+  "cues": [
+    {
+      "text": "Jeďte autobusem číslo osm. Vystupte na třetí zastávce. Pošta je vlevo vedle banky.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Jeďte autobusem číslo osm.",
+        "Vystupte na třetí zastávce.",
+        "Pošta je vlevo vedle banky."
+      ],
+      "start": 0.0,
+      "end": 7.767165532879819,
+      "sentences": [
+        {
+          "text": "Jeďte autobusem číslo osm.",
+          "start": 0.0,
+          "end": 2.5774149659863945,
+          "slow_start": 0.0,
+          "slow_end": 2.9257142857142857
+        },
+        {
+          "text": "Vystupte na třetí zastávce.",
+          "start": 2.7574149659863947,
+          "end": 5.358049886621315,
+          "slow_start": 3.105714285714286,
+          "slow_end": 5.880498866213152
+        },
+        {
+          "text": "Pošta je vlevo vedle banky.",
+          "start": 5.538049886621315,
+          "end": 7.767165532879819,
+          "slow_start": 6.060498866213152,
+          "slow_end": 8.614693877551021
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 8.614693877551021
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "894097789fe35f99ffcba298e82df5786b06ee328f6960d2d4b1c431d5c9c441",
+    "slow": "2f6ec0115fd7fbcf377d7ca4e8b323973a94b871c37ff4c511251453e5d74718"
+  },
+  "reused_from_track_id": "A1-U09-L01--2026.10.22.1--listening"
+}

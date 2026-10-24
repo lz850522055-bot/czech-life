@@ -1,0 +1,564 @@
+{
+  "id": "C1-U05-L01--2026.10.22.1--text",
+  "lesson_id": "C1-U05-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Moderátorka: Když se řekne prodloužená otevírací doba knihovny, většina lidí si představí více hodin se stejnými službami. Vy ale připravujete jiný model. Co by návštěvník poznal jako první? Ředitelka: Především to, že večer nebude vždy přítomen knihovník. Lidé si budou moci vyzvednout rezervované knihy a pracovat ve studovně, ale odborné konzultace zůstanou v běžných hodinách. Nejde tedy o úplné rozšíření nabídky, spíše o rozšíření přístupu k vybraným možnostem.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Moderátorka: Když se řekne prodloužená otevírací doba knihovny, většina lidí si představí více hodin se stejnými službami.",
+        "Vy ale připravujete jiný model.",
+        "Co by návštěvník poznal jako první?",
+        "Ředitelka: Především to, že večer nebude vždy přítomen knihovník.",
+        "Lidé si budou moci vyzvednout rezervované knihy a pracovat ve studovně, ale odborné konzultace zůstanou v běžných hodinách.",
+        "Nejde tedy o úplné rozšíření nabídky, spíše o rozšíření přístupu k vybraným možnostem."
+      ]
+    },
+    {
+      "text": "Moderátorka: Zní to jako úsporné opatření. Ředitelka: Úspora není jediný ani hlavní cíl, alespoň v této fázi. Chtěli jsme vyjít vstříc lidem, kteří se z práce vracejí pozdě. Zároveň nemáme prostředky na plně obsazenou večerní směnu. To je omezení, které nelze zamlčet. Kdybych tvrdila, že návštěvník dostane úplně stejnou službu, vytvářela bych očekávání, jež nejsme schopni splnit. Raději nabídneme méně a přesně řekneme co.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Moderátorka: Zní to jako úsporné opatření.",
+        "Ředitelka: Úspora není jediný ani hlavní cíl, alespoň v této fázi.",
+        "Chtěli jsme vyjít vstříc lidem, kteří se z práce vracejí pozdě.",
+        "Zároveň nemáme prostředky na plně obsazenou večerní směnu.",
+        "To je omezení, které nelze zamlčet.",
+        "Kdybych tvrdila, že návštěvník dostane úplně stejnou službu, vytvářela bych očekávání, jež nejsme schopni splnit.",
+        "Raději nabídneme méně a přesně řekneme co."
+      ]
+    },
+    {
+      "text": "Moderátorka: Podle prvních reakcí jsou zájemci spokojeni. Můžeme tedy mluvit o úspěchu? Ředitelka: Zatím bych byla opatrná. Zpětnou vazbu poskytli především lidé, kteří už novou možnost využili. Nevíme dost o těch, kteří nepřišli, třeba proto, že se večerního vstupu obávají nebo nevědí, jak funguje. Pozitivní zkušenost části návštěvníků je důležitá, ale nepopisuje celý okruh možných uživatelů. Potřebujeme poznat také překážky, které zůstávají mimo náš dosavadní dotazník.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Moderátorka: Podle prvních reakcí jsou zájemci spokojeni.",
+        "Můžeme tedy mluvit o úspěchu?",
+        "Ředitelka: Zatím bych byla opatrná.",
+        "Zpětnou vazbu poskytli především lidé, kteří už novou možnost využili.",
+        "Nevíme dost o těch, kteří nepřišli, třeba proto, že se večerního vstupu obávají nebo nevědí, jak funguje.",
+        "Pozitivní zkušenost části návštěvníků je důležitá, ale nepopisuje celý okruh možných uživatelů.",
+        "Potřebujeme poznat také překážky, které zůstávají mimo náš dosavadní dotazník."
+      ]
+    },
+    {
+      "text": "Moderátorka: Co tedy budete sledovat? Ředitelka: Počet vstupů, typ využité služby a situace, kdy člověk potřeboval pomoc, kterou nemohl dostat. Původně jsme chtěli porovnávat jen návštěvnost před změnou a po ní. Pak nám došlo, že večerní návštěva nemusí znamenat nového čtenáře; někdo pouze přesune svou dřívější návštěvu. Proto budeme rozlišovat rozšíření okruhu uživatelů a pohodlnější čas pro stávající návštěvníky. Obojí má hodnotu, ale není to totéž.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Moderátorka: Co tedy budete sledovat?",
+        "Ředitelka: Počet vstupů, typ využité služby a situace, kdy člověk potřeboval pomoc, kterou nemohl dostat.",
+        "Původně jsme chtěli porovnávat jen návštěvnost před změnou a po ní.",
+        "Pak nám došlo, že večerní návštěva nemusí znamenat nového čtenáře; někdo pouze přesune svou dřívější návštěvu.",
+        "Proto budeme rozlišovat rozšíření okruhu uživatelů a pohodlnější čas pro stávající návštěvníky.",
+        "Obojí má hodnotu, ale není to totéž."
+      ]
+    },
+    {
+      "text": "Moderátorka: Někteří zaměstnanci se bojí, že je postupně nahradí samoobsluha. Ředitelka: Té obavě rozumím. Jestliže budeme mluvit pouze o počtu otevřených hodin, může odborná práce zůstat neviditelná. Knihovníci však pomáhají s výběrem zdrojů, učí návštěvníky ověřovat informace a pracují s lidmi, kteří potřebují osobní podporu. Nový model by měl tuto práci doplňovat. Pokud by se ukázalo, že ji oslabuje nebo přesouvá neúměrnou zátěž na denní směnu, budeme muset pravidla změnit.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Moderátorka: Někteří zaměstnanci se bojí, že je postupně nahradí samoobsluha.",
+        "Ředitelka: Té obavě rozumím.",
+        "Jestliže budeme mluvit pouze o počtu otevřených hodin, může odborná práce zůstat neviditelná.",
+        "Knihovníci však pomáhají s výběrem zdrojů, učí návštěvníky ověřovat informace a pracují s lidmi, kteří potřebují osobní podporu.",
+        "Nový model by měl tuto práci doplňovat.",
+        "Pokud by se ukázalo, že ji oslabuje nebo přesouvá neúměrnou zátěž na denní směnu, budeme muset pravidla změnit."
+      ]
+    },
+    {
+      "text": "Moderátorka: Kdy rozhodnete, zda model zachováte? Ředitelka: Nechceme rozhodovat podle jednoho rušného večera ani podle jedné nepříjemné zkušenosti. Nejprve shromáždíme různé typy podnětů a zveřejníme, podle čeho je hodnotíme. Potom uspořádáme setkání se zaměstnanci i návštěvníky. Termín rozhodnutí uvedeme předem, ale výsledek předjímat nebudeme. Pro mě bude úspěchem i zjištění, že některá původní představa nefunguje, pokud díky tomu nabídneme službu, která lépe odpovídá skutečným potřebám.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Moderátorka: Kdy rozhodnete, zda model zachováte?",
+        "Ředitelka: Nechceme rozhodovat podle jednoho rušného večera ani podle jedné nepříjemné zkušenosti.",
+        "Nejprve shromáždíme různé typy podnětů a zveřejníme, podle čeho je hodnotíme.",
+        "Potom uspořádáme setkání se zaměstnanci i návštěvníky.",
+        "Termín rozhodnutí uvedeme předem, ale výsledek předjímat nebudeme.",
+        "Pro mě bude úspěchem i zjištění, že některá původní představa nefunguje, pokud díky tomu nabídneme službu, která lépe odpovídá skutečným potřebám."
+      ]
+    },
+    {
+      "text": "Moderátorka se nakonec vrátila k pojmu úspěch. Ředitelka doplnila, že nižší návštěvnost nemusí znamenat neúspěch, pokud služba pomůže menší skupině, která dříve neměla přístup vůbec. Takové rozhodnutí ovšem vyžaduje přiznat hodnotový výběr a vysvětlit jeho náklady. Nelze nejprve slíbit růst celkových počtů a později bez upozornění změnit měřítko. Posluchač, který si zapsal jen slovo návštěvnost, by tuto podmínku přehlédl. V poznámkách je proto užitečné zachytit nejen ukazatel, ale i otázku, na kterou má odpovídat, a důvod případné změny hodnocení.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Moderátorka se nakonec vrátila k pojmu úspěch.",
+        "Ředitelka doplnila, že nižší návštěvnost nemusí znamenat neúspěch, pokud služba pomůže menší skupině, která dříve neměla přístup vůbec.",
+        "Takové rozhodnutí ovšem vyžaduje přiznat hodnotový výběr a vysvětlit jeho náklady.",
+        "Nelze nejprve slíbit růst celkových počtů a později bez upozornění změnit měřítko.",
+        "Posluchač, který si zapsal jen slovo návštěvnost, by tuto podmínku přehlédl.",
+        "V poznámkách je proto užitečné zachytit nejen ukazatel, ale i otázku, na kterou má odpovídat, a důvod případné změny hodnocení."
+      ]
+    }
+  ],
+  "text_sha256": "5979a59aded06698fc4212a1b74137531ed8e5dd22bdf12c6f81f5e2bb746987",
+  "source_file": "content/lessons/C1/C1-U05-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U05-L01--2026.10.22.1--text--5979a59ade--normal.mp3",
+  "slow_file": "content/audio/files/C1-U05-L01--2026.10.22.1--text--5979a59ade--slow.mp3",
+  "duration_seconds": 304.0556916099773,
+  "slow_duration_seconds": 342.5427664399093,
+  "cues": [
+    {
+      "text": "Moderátorka: Když se řekne prodloužená otevírací doba knihovny, většina lidí si představí více hodin se stejnými službami. Vy ale připravujete jiný model. Co by návštěvník poznal jako první? Ředitelka: Především to, že večer nebude vždy přítomen knihovník. Lidé si budou moci vyzvednout rezervované knihy a pracovat ve studovně, ale odborné konzultace zůstanou v běžných hodinách. Nejde tedy o úplné rozšíření nabídky, spíše o rozšíření přístupu k vybraným možnostem.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Moderátorka: Když se řekne prodloužená otevírací doba knihovny, většina lidí si představí více hodin se stejnými službami.",
+        "Vy ale připravujete jiný model.",
+        "Co by návštěvník poznal jako první?",
+        "Ředitelka: Především to, že večer nebude vždy přítomen knihovník.",
+        "Lidé si budou moci vyzvednout rezervované knihy a pracovat ve studovně, ale odborné konzultace zůstanou v běžných hodinách.",
+        "Nejde tedy o úplné rozšíření nabídky, spíše o rozšíření přístupu k vybraným možnostem."
+      ],
+      "start": 0.0,
+      "end": 41.720680272108844,
+      "sentences": [
+        {
+          "text": "Moderátorka: Když se řekne prodloužená otevírací doba knihovny, většina lidí si představí více hodin se stejnými službami.",
+          "start": 0.0,
+          "end": 10.32126984126984,
+          "slow_start": 0.0,
+          "slow_end": 11.72607709750567
+        },
+        {
+          "text": "Vy ale připravujete jiný model.",
+          "start": 10.501269841269842,
+          "end": 13.229614512471656,
+          "slow_start": 11.90607709750567,
+          "slow_end": 14.947891156462585
+        },
+        {
+          "text": "Co by návštěvník poznal jako první?",
+          "start": 13.409614512471656,
+          "end": 16.393378684807256,
+          "slow_start": 15.127891156462585,
+          "slow_end": 18.599274376417235
+        },
+        {
+          "text": "Ředitelka: Především to, že večer nebude vždy přítomen knihovník.",
+          "start": 16.573378684807256,
+          "end": 22.297097505668933,
+          "slow_start": 18.779274376417234,
+          "slow_end": 25.15315192743764
+        },
+        {
+          "text": "Lidé si budou moci vyzvednout rezervované knihy a pracovat ve studovně, ale odborné konzultace zůstanou v běžných hodinách.",
+          "start": 22.477097505668933,
+          "end": 33.48335600907029,
+          "slow_start": 25.33315192743764,
+          "slow_end": 37.58167800453515
+        },
+        {
+          "text": "Nejde tedy o úplné rozšíření nabídky, spíše o rozšíření přístupu k vybraným možnostem.",
+          "start": 33.66335600907029,
+          "end": 41.720680272108844,
+          "slow_start": 37.76167800453515,
+          "slow_end": 46.50399092970522
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 46.50399092970522
+    },
+    {
+      "text": "Moderátorka: Zní to jako úsporné opatření. Ředitelka: Úspora není jediný ani hlavní cíl, alespoň v této fázi. Chtěli jsme vyjít vstříc lidem, kteří se z práce vracejí pozdě. Zároveň nemáme prostředky na plně obsazenou večerní směnu. To je omezení, které nelze zamlčet. Kdybych tvrdila, že návštěvník dostane úplně stejnou službu, vytvářela bych očekávání, jež nejsme schopni splnit. Raději nabídneme méně a přesně řekneme co.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Moderátorka: Zní to jako úsporné opatření.",
+        "Ředitelka: Úspora není jediný ani hlavní cíl, alespoň v této fázi.",
+        "Chtěli jsme vyjít vstříc lidem, kteří se z práce vracejí pozdě.",
+        "Zároveň nemáme prostředky na plně obsazenou večerní směnu.",
+        "To je omezení, které nelze zamlčet.",
+        "Kdybych tvrdila, že návštěvník dostane úplně stejnou službu, vytvářela bych očekávání, jež nejsme schopni splnit.",
+        "Raději nabídneme méně a přesně řekneme co."
+      ],
+      "start": 41.90068027210884,
+      "end": 80.99174603174603,
+      "sentences": [
+        {
+          "text": "Moderátorka: Zní to jako úsporné opatření.",
+          "start": 41.90068027210884,
+          "end": 45.85968253968254,
+          "slow_start": 46.68399092970522,
+          "slow_end": 51.29315192743764
+        },
+        {
+          "text": "Ředitelka: Úspora není jediný ani hlavní cíl, alespoň v této fázi.",
+          "start": 46.03968253968254,
+          "end": 52.425170068027214,
+          "slow_start": 51.47315192743764,
+          "slow_end": 58.88031746031746
+        },
+        {
+          "text": "Chtěli jsme vyjít vstříc lidem, kteří se z práce vracejí pozdě.",
+          "start": 52.60517006802721,
+          "end": 57.899319727891154,
+          "slow_start": 59.060317460317464,
+          "slow_end": 64.88852607709751
+        },
+        {
+          "text": "Zároveň nemáme prostředky na plně obsazenou večerní směnu.",
+          "start": 58.07931972789115,
+          "end": 63.118049886621314,
+          "slow_start": 65.0685260770975,
+          "slow_end": 70.93156462585034
+        },
+        {
+          "text": "To je omezení, které nelze zamlčet.",
+          "start": 63.298049886621314,
+          "end": 66.59528344671202,
+          "slow_start": 71.11156462585033,
+          "slow_end": 74.7687074829932
+        },
+        {
+          "text": "Kdybych tvrdila, že návštěvník dostane úplně stejnou službu, vytvářela bych očekávání, jež nejsme schopni splnit.",
+          "start": 66.77528344671202,
+          "end": 76.80630385487528,
+          "slow_start": 74.9487074829932,
+          "slow_end": 86.28004535147392
+        },
+        {
+          "text": "Raději nabídneme méně a přesně řekneme co.",
+          "start": 76.98630385487529,
+          "end": 80.99174603174603,
+          "slow_start": 86.46004535147392,
+          "slow_end": 91.05759637188208
+        }
+      ],
+      "slow_start": 46.68399092970522,
+      "slow_end": 91.05759637188208
+    },
+    {
+      "text": "Moderátorka: Podle prvních reakcí jsou zájemci spokojeni. Můžeme tedy mluvit o úspěchu? Ředitelka: Zatím bych byla opatrná. Zpětnou vazbu poskytli především lidé, kteří už novou možnost využili. Nevíme dost o těch, kteří nepřišli, třeba proto, že se večerního vstupu obávají nebo nevědí, jak funguje. Pozitivní zkušenost části návštěvníků je důležitá, ale nepopisuje celý okruh možných uživatelů. Potřebujeme poznat také překážky, které zůstávají mimo náš dosavadní dotazník.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Moderátorka: Podle prvních reakcí jsou zájemci spokojeni.",
+        "Můžeme tedy mluvit o úspěchu?",
+        "Ředitelka: Zatím bych byla opatrná.",
+        "Zpětnou vazbu poskytli především lidé, kteří už novou možnost využili.",
+        "Nevíme dost o těch, kteří nepřišli, třeba proto, že se večerního vstupu obávají nebo nevědí, jak funguje.",
+        "Pozitivní zkušenost části návštěvníků je důležitá, ale nepopisuje celý okruh možných uživatelů.",
+        "Potřebujeme poznat také překážky, které zůstávají mimo náš dosavadní dotazník."
+      ],
+      "start": 81.17174603174603,
+      "end": 124.36113378684807,
+      "sentences": [
+        {
+          "text": "Moderátorka: Podle prvních reakcí jsou zájemci spokojeni.",
+          "start": 81.17174603174603,
+          "end": 86.52394557823129,
+          "slow_start": 91.23759637188209,
+          "slow_end": 97.22834467120181
+        },
+        {
+          "text": "Můžeme tedy mluvit o úspěchu?",
+          "start": 86.7039455782313,
+          "end": 89.54839002267573,
+          "slow_start": 97.40834467120182,
+          "slow_end": 100.54303854875283
+        },
+        {
+          "text": "Ředitelka: Zatím bych byla opatrná.",
+          "start": 89.72839002267574,
+          "end": 93.17655328798186,
+          "slow_start": 100.72303854875284,
+          "slow_end": 104.54272108843537
+        },
+        {
+          "text": "Zpětnou vazbu poskytli především lidé, kteří už novou možnost využili.",
+          "start": 93.35655328798185,
+          "end": 99.63755102040817,
+          "slow_start": 104.72272108843538,
+          "slow_end": 112.0021768707483
+        },
+        {
+          "text": "Nevíme dost o těch, kteří nepřišli, třeba proto, že se večerního vstupu obávají nebo nevědí, jak funguje.",
+          "start": 99.81755102040816,
+          "end": 108.68757369614512,
+          "slow_start": 112.1821768707483,
+          "slow_end": 122.2015873015873
+        },
+        {
+          "text": "Pozitivní zkušenost části návštěvníků je důležitá, ale nepopisuje celý okruh možných uživatelů.",
+          "start": 108.86757369614513,
+          "end": 117.50539682539683,
+          "slow_start": 122.3815873015873,
+          "slow_end": 132.12235827664398
+        },
+        {
+          "text": "Potřebujeme poznat také překážky, které zůstávají mimo náš dosavadní dotazník.",
+          "start": 117.68539682539682,
+          "end": 124.36113378684807,
+          "slow_start": 132.302358276644,
+          "slow_end": 139.60503401360543
+        }
+      ],
+      "slow_start": 91.23759637188209,
+      "slow_end": 139.60503401360543
+    },
+    {
+      "text": "Moderátorka: Co tedy budete sledovat? Ředitelka: Počet vstupů, typ využité služby a situace, kdy člověk potřeboval pomoc, kterou nemohl dostat. Původně jsme chtěli porovnávat jen návštěvnost před změnou a po ní. Pak nám došlo, že večerní návštěva nemusí znamenat nového čtenáře; někdo pouze přesune svou dřívější návštěvu. Proto budeme rozlišovat rozšíření okruhu uživatelů a pohodlnější čas pro stávající návštěvníky. Obojí má hodnotu, ale není to totéž.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Moderátorka: Co tedy budete sledovat?",
+        "Ředitelka: Počet vstupů, typ využité služby a situace, kdy člověk potřeboval pomoc, kterou nemohl dostat.",
+        "Původně jsme chtěli porovnávat jen návštěvnost před změnou a po ní.",
+        "Pak nám došlo, že večerní návštěva nemusí znamenat nového čtenáře; někdo pouze přesune svou dřívější návštěvu.",
+        "Proto budeme rozlišovat rozšíření okruhu uživatelů a pohodlnější čas pro stávající návštěvníky.",
+        "Obojí má hodnotu, ale není to totéž."
+      ],
+      "start": 124.54113378684808,
+      "end": 165.55360544217686,
+      "sentences": [
+        {
+          "text": "Moderátorka: Co tedy budete sledovat?",
+          "start": 124.54113378684808,
+          "end": 127.71065759637189,
+          "slow_start": 139.78503401360544,
+          "slow_end": 143.37251700680272
+        },
+        {
+          "text": "Ředitelka: Počet vstupů, typ využité služby a situace, kdy člověk potřeboval pomoc, kterou nemohl dostat.",
+          "start": 127.89065759637188,
+          "end": 137.70108843537415,
+          "slow_start": 143.55251700680273,
+          "slow_end": 154.66326530612244
+        },
+        {
+          "text": "Původně jsme chtěli porovnávat jen návštěvnost před změnou a po ní.",
+          "start": 137.88108843537415,
+          "end": 143.50031746031746,
+          "slow_start": 154.84326530612245,
+          "slow_end": 161.18231292517007
+        },
+        {
+          "text": "Pak nám došlo, že večerní návštěva nemusí znamenat nového čtenáře; někdo pouze přesune svou dřívější návštěvu.",
+          "start": 143.68031746031747,
+          "end": 153.17727891156463,
+          "slow_start": 161.36231292517007,
+          "slow_end": 172.36857142857144
+        },
+        {
+          "text": "Proto budeme rozlišovat rozšíření okruhu uživatelů a pohodlnější čas pro stávající návštěvníky.",
+          "start": 153.35727891156463,
+          "end": 161.72807256235828,
+          "slow_start": 172.54857142857142,
+          "slow_end": 182.16163265306122
+        },
+        {
+          "text": "Obojí má hodnotu, ale není to totéž.",
+          "start": 161.90807256235829,
+          "end": 165.55360544217686,
+          "slow_start": 182.34163265306123,
+          "slow_end": 186.62571428571428
+        }
+      ],
+      "slow_start": 139.78503401360544,
+      "slow_end": 186.62571428571428
+    },
+    {
+      "text": "Moderátorka: Někteří zaměstnanci se bojí, že je postupně nahradí samoobsluha. Ředitelka: Té obavě rozumím. Jestliže budeme mluvit pouze o počtu otevřených hodin, může odborná práce zůstat neviditelná. Knihovníci však pomáhají s výběrem zdrojů, učí návštěvníky ověřovat informace a pracují s lidmi, kteří potřebují osobní podporu. Nový model by měl tuto práci doplňovat. Pokud by se ukázalo, že ji oslabuje nebo přesouvá neúměrnou zátěž na denní směnu, budeme muset pravidla změnit.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Moderátorka: Někteří zaměstnanci se bojí, že je postupně nahradí samoobsluha.",
+        "Ředitelka: Té obavě rozumím.",
+        "Jestliže budeme mluvit pouze o počtu otevřených hodin, může odborná práce zůstat neviditelná.",
+        "Knihovníci však pomáhají s výběrem zdrojů, učí návštěvníky ověřovat informace a pracují s lidmi, kteří potřebují osobní podporu.",
+        "Nový model by měl tuto práci doplňovat.",
+        "Pokud by se ukázalo, že ji oslabuje nebo přesouvá neúměrnou zátěž na denní směnu, budeme muset pravidla změnit."
+      ],
+      "start": 165.73360544217687,
+      "end": 210.72829931972788,
+      "sentences": [
+        {
+          "text": "Moderátorka: Někteří zaměstnanci se bojí, že je postupně nahradí samoobsluha.",
+          "start": 165.73360544217687,
+          "end": 172.9201814058957,
+          "slow_start": 186.8057142857143,
+          "slow_end": 194.95591836734692
+        },
+        {
+          "text": "Ředitelka: Té obavě rozumím.",
+          "start": 173.10018140589568,
+          "end": 175.8285260770975,
+          "slow_start": 195.13591836734693,
+          "slow_end": 198.14290249433105
+        },
+        {
+          "text": "Jestliže budeme mluvit pouze o počtu otevřených hodin, může odborná práce zůstat neviditelná.",
+          "start": 176.0085260770975,
+          "end": 184.5882993197279,
+          "slow_start": 198.32290249433106,
+          "slow_end": 207.81986394557822
+        },
+        {
+          "text": "Knihovníci však pomáhají s výběrem zdrojů, učí návštěvníky ověřovat informace a pracují s lidmi, kteří potřebují osobní podporu.",
+          "start": 184.7682993197279,
+          "end": 197.17936507936508,
+          "slow_start": 207.99986394557823,
+          "slow_end": 221.7925170068027
+        },
+        {
+          "text": "Nový model by měl tuto práci doplňovat.",
+          "start": 197.3593650793651,
+          "end": 200.83074829931974,
+          "slow_start": 221.97251700680272,
+          "slow_end": 225.86185941043084
+        },
+        {
+          "text": "Pokud by se ukázalo, že ji oslabuje nebo přesouvá neúměrnou zátěž na denní směnu, budeme muset pravidla změnit.",
+          "start": 201.01074829931972,
+          "end": 210.72829931972788,
+          "slow_start": 226.04185941043085,
+          "slow_end": 237.15260770975055
+        }
+      ],
+      "slow_start": 186.8057142857143,
+      "slow_end": 237.15260770975055
+    },
+    {
+      "text": "Moderátorka: Kdy rozhodnete, zda model zachováte? Ředitelka: Nechceme rozhodovat podle jednoho rušného večera ani podle jedné nepříjemné zkušenosti. Nejprve shromáždíme různé typy podnětů a zveřejníme, podle čeho je hodnotíme. Potom uspořádáme setkání se zaměstnanci i návštěvníky. Termín rozhodnutí uvedeme předem, ale výsledek předjímat nebudeme. Pro mě bude úspěchem i zjištění, že některá původní představa nefunguje, pokud díky tomu nabídneme službu, která lépe odpovídá skutečným potřebám.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Moderátorka: Kdy rozhodnete, zda model zachováte?",
+        "Ředitelka: Nechceme rozhodovat podle jednoho rušného večera ani podle jedné nepříjemné zkušenosti.",
+        "Nejprve shromáždíme různé typy podnětů a zveřejníme, podle čeho je hodnotíme.",
+        "Potom uspořádáme setkání se zaměstnanci i návštěvníky.",
+        "Termín rozhodnutí uvedeme předem, ale výsledek předjímat nebudeme.",
+        "Pro mě bude úspěchem i zjištění, že některá původní představa nefunguje, pokud díky tomu nabídneme službu, která lépe odpovídá skutečným potřebám."
+      ],
+      "start": 210.9082993197279,
+      "end": 254.63750566893424,
+      "sentences": [
+        {
+          "text": "Moderátorka: Kdy rozhodnete, zda model zachováte?",
+          "start": 210.9082993197279,
+          "end": 215.41297052154195,
+          "slow_start": 237.33260770975056,
+          "slow_end": 242.46421768707484
+        },
+        {
+          "text": "Ředitelka: Nechceme rozhodovat podle jednoho rušného večera ani podle jedné nepříjemné zkušenosti.",
+          "start": 215.59297052154196,
+          "end": 223.66190476190476,
+          "slow_start": 242.64421768707484,
+          "slow_end": 251.61873015873016
+        },
+        {
+          "text": "Nejprve shromáždíme různé typy podnětů a zveřejníme, podle čeho je hodnotíme.",
+          "start": 223.84190476190477,
+          "end": 230.28544217687076,
+          "slow_start": 251.79873015873017,
+          "slow_end": 259.18267573696147
+        },
+        {
+          "text": "Potom uspořádáme setkání se zaměstnanci i návštěvníky.",
+          "start": 230.46544217687074,
+          "end": 235.64349206349206,
+          "slow_start": 259.3626757369615,
+          "slow_end": 265.1560544217687
+        },
+        {
+          "text": "Termín rozhodnutí uvedeme předem, ale výsledek předjímat nebudeme.",
+          "start": 235.82349206349207,
+          "end": 241.39628117913833,
+          "slow_start": 265.3360544217687,
+          "slow_end": 271.58222222222224
+        },
+        {
+          "text": "Pro mě bude úspěchem i zjištění, že některá původní představa nefunguje, pokud díky tomu nabídneme službu, která lépe odpovídá skutečným potřebám.",
+          "start": 241.57628117913833,
+          "end": 254.63750566893424,
+          "slow_start": 271.76222222222225,
+          "slow_end": 286.58816326530615
+        }
+      ],
+      "slow_start": 237.33260770975056,
+      "slow_end": 286.58816326530615
+    },
+    {
+      "text": "Moderátorka se nakonec vrátila k pojmu úspěch. Ředitelka doplnila, že nižší návštěvnost nemusí znamenat neúspěch, pokud služba pomůže menší skupině, která dříve neměla přístup vůbec. Takové rozhodnutí ovšem vyžaduje přiznat hodnotový výběr a vysvětlit jeho náklady. Nelze nejprve slíbit růst celkových počtů a později bez upozornění změnit měřítko. Posluchač, který si zapsal jen slovo návštěvnost, by tuto podmínku přehlédl. V poznámkách je proto užitečné zachytit nejen ukazatel, ale i otázku, na kterou má odpovídat, a důvod případné změny hodnocení.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Moderátorka se nakonec vrátila k pojmu úspěch.",
+        "Ředitelka doplnila, že nižší návštěvnost nemusí znamenat neúspěch, pokud služba pomůže menší skupině, která dříve neměla přístup vůbec.",
+        "Takové rozhodnutí ovšem vyžaduje přiznat hodnotový výběr a vysvětlit jeho náklady.",
+        "Nelze nejprve slíbit růst celkových počtů a později bez upozornění změnit měřítko.",
+        "Posluchač, který si zapsal jen slovo návštěvnost, by tuto podmínku přehlédl.",
+        "V poznámkách je proto užitečné zachytit nejen ukazatel, ale i otázku, na kterou má odpovídat, a důvod případné změny hodnocení."
+      ],
+      "start": 254.81750566893425,
+      "end": 303.8756916099773,
+      "sentences": [
+        {
+          "text": "Moderátorka se nakonec vrátila k pojmu úspěch.",
+          "start": 254.81750566893425,
+          "end": 259.0087074829932,
+          "slow_start": 286.7681632653061,
+          "slow_end": 291.528253968254
+        },
+        {
+          "text": "Ředitelka doplnila, že nižší návštěvnost nemusí znamenat neúspěch, pokud služba pomůže menší skupině, která dříve neměla přístup vůbec.",
+          "start": 259.1887074829932,
+          "end": 271.0889342403628,
+          "slow_start": 291.708253968254,
+          "slow_end": 305.32675736961454
+        },
+        {
+          "text": "Takové rozhodnutí ovšem vyžaduje přiznat hodnotový výběr a vysvětlit jeho náklady.",
+          "start": 271.2689342403628,
+          "end": 278.7109297052154,
+          "slow_start": 305.5067573696145,
+          "slow_end": 313.9007709750567
+        },
+        {
+          "text": "Nelze nejprve slíbit růst celkových počtů a později bez upozornění změnit měřítko.",
+          "start": 278.8909297052154,
+          "end": 286.507074829932,
+          "slow_start": 314.0807709750567,
+          "slow_end": 322.75342403628116
+        },
+        {
+          "text": "Posluchač, který si zapsal jen slovo návštěvnost, by tuto podmínku přehlédl.",
+          "start": 286.687074829932,
+          "end": 293.00290249433107,
+          "slow_start": 322.93342403628117,
+          "slow_end": 330.1548299319728
+        },
+        {
+          "text": "V poznámkách je proto užitečné zachytit nejen ukazatel, ale i otázku, na kterou má odpovídat, a důvod případné změny hodnocení.",
+          "start": 293.1829024943311,
+          "end": 303.8756916099773,
+          "slow_start": 330.33482993197276,
+          "slow_end": 342.3627664399093
+        }
+      ],
+      "slow_start": 286.7681632653061,
+      "slow_end": 342.3627664399093
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "245c8b36db533564d839205a8e075d5ceed49794913afcd03174efe1e5906714",
+    "slow": "393be121e92d6406be2a62cea5141d4251a9cde05b92acfcb2d67fbb2c54de3c"
+  }
+}

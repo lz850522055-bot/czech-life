@@ -1,0 +1,59 @@
+{
+  "id": "A2-U01-L01--2026.10.22.1--exercises",
+  "lesson_id": "A2-U01-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Zítra bude studovat doma a večer půjde k sestře.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "A2-U01-L01-E01",
+      "parts": [
+        "Zítra bude studovat doma a večer půjde k sestře."
+      ]
+    }
+  ],
+  "text_sha256": "028e37e6d38cfcba948679224e3ecf1c8715e44d19ba80e3f25a914e2b963cd4",
+  "source_file": "content/lessons/A2/A2-U01-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U01-L01--2026.10.22.1--exercises--028e37e6d3--normal.mp3",
+  "slow_file": "content/audio/files/A2-U01-L01--2026.10.22.1--exercises--028e37e6d3--slow.mp3",
+  "duration_seconds": 4.336371882086167,
+  "slow_duration_seconds": 4.765941043083901,
+  "cues": [
+    {
+      "text": "Zítra bude studovat doma a večer půjde k sestře.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "A2-U01-L01-E01",
+      "parts": [
+        "Zítra bude studovat doma a večer půjde k sestře."
+      ],
+      "start": 0.0,
+      "end": 4.156371882086168,
+      "sentences": [
+        {
+          "text": "Zítra bude studovat doma a večer půjde k sestře.",
+          "start": 0.0,
+          "end": 4.156371882086168,
+          "slow_start": 0.0,
+          "slow_end": 4.5859410430839
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 4.5859410430839
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "84226259d46d4e09115cd51224c68b3cad27eb1674d2b22b0afdd2810d85f7d6",
+    "slow": "43dabb76dd02bfe010de2ad85c5193b0e8f72542a129e84b439bfd81414ce89c"
+  }
+}

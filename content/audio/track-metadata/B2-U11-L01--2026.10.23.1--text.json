@@ -1,0 +1,455 @@
+{
+  "id": "B2-U11-L01--2026.10.23.1--text",
+  "lesson_id": "B2-U11-L01",
+  "content_version": "2026.10.23.1",
+  "level": "B2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Nový soused mě pozval na sobotní oslavu. Řekl jsem: „To zní zajímavě, uvidím.“ Chtěl jsem tím vyjádřit, že si nejprve ověřím svůj program. Soused ale nevěděl, zda má se mnou počítat při nákupu jídla. Moje odpověď nebyla otevřeně nezdvořilá, přesto mu nepomohla. V některých situacích je jasné odmítnutí s krátkým vysvětlením ohleduplnější než neurčitá věta, která odkládá rozhodnutí na druhého.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Nový soused mě pozval na sobotní oslavu.",
+        "Řekl jsem: „To zní zajímavě, uvidím.“",
+        "Chtěl jsem tím vyjádřit, že si nejprve ověřím svůj program.",
+        "Soused ale nevěděl, zda má se mnou počítat při nákupu jídla.",
+        "Moje odpověď nebyla otevřeně nezdvořilá, přesto mu nepomohla.",
+        "V některých situacích je jasné odmítnutí s krátkým vysvětlením ohleduplnější než neurčitá věta, která odkládá rozhodnutí na druhého."
+      ]
+    },
+    {
+      "text": "Zavolal jsem mu druhý den a upřesnil, že přijít nemohu, protože už mám domluvenou návštěvu. Poděkoval jsem za pozvání a navrhl jiný den na kávu. Nešlo o povinný rituál ani o slib, že každý odmítnutý termín musím nahradit. Chtěl jsem pouze dát najevo, že odmítám konkrétní sobotu, nikoli kontakt se sousedem. Kdybych o další setkání nestál, neměl bych nabízet kávu jen ze zvyku.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Zavolal jsem mu druhý den a upřesnil, že přijít nemohu, protože už mám domluvenou návštěvu.",
+        "Poděkoval jsem za pozvání a navrhl jiný den na kávu.",
+        "Nešlo o povinný rituál ani o slib, že každý odmítnutý termín musím nahradit.",
+        "Chtěl jsem pouze dát najevo, že odmítám konkrétní sobotu, nikoli kontakt se sousedem.",
+        "Kdybych o další setkání nestál, neměl bych nabízet kávu jen ze zvyku."
+      ]
+    },
+    {
+      "text": "Podobná nejasnost může vzniknout v práci. Kolegyně okomentuje návrh slovy: „To je odvážné řešení.“ Bez dalšího kontextu není jisté, zda oceňuje tvořivost, nebo upozorňuje na riziko. Místo hádání se můžeme zeptat: „Myslíte tím, že je návrh zajímavý, nebo že bychom měli některé riziko ještě prověřit?“ Otázka umožní druhému význam upřesnit, aniž bychom mu připsali skrytou nepřátelskou motivaci.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Podobná nejasnost může vzniknout v práci.",
+        "Kolegyně okomentuje návrh slovy: „To je odvážné řešení.“",
+        "Bez dalšího kontextu není jisté, zda oceňuje tvořivost, nebo upozorňuje na riziko.",
+        "Místo hádání se můžeme zeptat: „Myslíte tím, že je návrh zajímavý, nebo že bychom měli některé riziko ještě prověřit?“",
+        "Otázka umožní druhému význam upřesnit, aniž bychom mu připsali skrytou nepřátelskou motivaci."
+      ]
+    },
+    {
+      "text": "Při žádosti o pomoc záleží také na rozsahu. Věta „Mohl byste se na to někdy podívat?“ zní měkce, ale neříká, zda jde o dvě minuty, nebo dvě hodiny. Přesnější je vysvětlit úkol a dát možnost odmítnout: „Potřebuji zkontrolovat dvě krátké stránky. Bylo by možné věnovat tomu do pátku asi dvacet minut? Pokud ne, najdu jinou cestu.“ Zdvořilost zde spojuje ohled na čas druhého s jasným požadavkem.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Při žádosti o pomoc záleží také na rozsahu.",
+        "Věta „Mohl byste se na to někdy podívat?“",
+        "zní měkce, ale neříká, zda jde o dvě minuty, nebo dvě hodiny.",
+        "Přesnější je vysvětlit úkol a dát možnost odmítnout: „Potřebuji zkontrolovat dvě krátké stránky.",
+        "Bylo by možné věnovat tomu do pátku asi dvacet minut?",
+        "Pokud ne, najdu jinou cestu.“",
+        "Zdvořilost zde spojuje ohled na čas druhého s jasným požadavkem."
+      ]
+    },
+    {
+      "text": "Zkušenosti s podobnými rozhovory se mohou mezi lidmi výrazně lišit. Věk, pracovní prostředí, blízkost vztahu i osobní styl ovlivňují, jak přímou odpověď člověk očekává. Proto není přesné říkat, že všichni Češi určitou větu vždy chápou stejně. Učíme se možné funkce výrazů, ale skutečný význam ověřujeme v konkrétním rozhovoru. Pozornost k reakci partnera je cennější než pevný seznam údajných národních povahových vlastností.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Zkušenosti s podobnými rozhovory se mohou mezi lidmi výrazně lišit.",
+        "Věk, pracovní prostředí, blízkost vztahu i osobní styl ovlivňují, jak přímou odpověď člověk očekává.",
+        "Proto není přesné říkat, že všichni Češi určitou větu vždy chápou stejně.",
+        "Učíme se možné funkce výrazů, ale skutečný význam ověřujeme v konkrétním rozhovoru.",
+        "Pozornost k reakci partnera je cennější než pevný seznam údajných národních povahových vlastností."
+      ]
+    },
+    {
+      "text": "Na konci schůzky jsme si vyzkoušeli tři podoby nesouhlasu. Přímé „S tím nesouhlasím“ je jasné a v mnoha situacích přijatelné. „Nejsem si jistý, zda je to proveditelné“ otevírá otázku provedení. „Za současných podmínek to nemohu slíbit“ vymezuje vlastní závazek. Nejde o tři stupně stejného tvrzení. Každá věta dělá jinou věc, a proto ji volíme podle toho, co skutečně potřebujeme partnerovi sdělit.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Na konci schůzky jsme si vyzkoušeli tři podoby nesouhlasu.",
+        "Přímé „S tím nesouhlasím“ je jasné a v mnoha situacích přijatelné.",
+        "„Nejsem si jistý, zda je to proveditelné“ otevírá otázku provedení.",
+        "„Za současných podmínek to nemohu slíbit“ vymezuje vlastní závazek.",
+        "Nejde o tři stupně stejného tvrzení.",
+        "Každá věta dělá jinou věc, a proto ji volíme podle toho, co skutečně potřebujeme partnerovi sdělit."
+      ]
+    }
+  ],
+  "text_sha256": "c12da969af184d378dd1a59d8346456bc2076d6ab75eaa7fcc83726b37f046c8",
+  "source_file": "content/lessons/B2/B2-U11-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U11-L01--2026.10.22.1--text--c12da969af--normal.mp3",
+  "slow_file": "content/audio/files/B2-U11-L01--2026.10.22.1--text--c12da969af--slow.mp3",
+  "duration_seconds": 214.6235827664399,
+  "slow_duration_seconds": 240.65315192743765,
+  "cues": [
+    {
+      "text": "Nový soused mě pozval na sobotní oslavu. Řekl jsem: „To zní zajímavě, uvidím.“ Chtěl jsem tím vyjádřit, že si nejprve ověřím svůj program. Soused ale nevěděl, zda má se mnou počítat při nákupu jídla. Moje odpověď nebyla otevřeně nezdvořilá, přesto mu nepomohla. V některých situacích je jasné odmítnutí s krátkým vysvětlením ohleduplnější než neurčitá věta, která odkládá rozhodnutí na druhého.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Nový soused mě pozval na sobotní oslavu.",
+        "Řekl jsem: „To zní zajímavě, uvidím.“",
+        "Chtěl jsem tím vyjádřit, že si nejprve ověřím svůj program.",
+        "Soused ale nevěděl, zda má se mnou počítat při nákupu jídla.",
+        "Moje odpověď nebyla otevřeně nezdvořilá, přesto mu nepomohla.",
+        "V některých situacích je jasné odmítnutí s krátkým vysvětlením ohleduplnější než neurčitá věta, která odkládá rozhodnutí na druhého."
+      ],
+      "start": 0.0,
+      "end": 35.602222222222224,
+      "sentences": [
+        {
+          "text": "Nový soused mě pozval na sobotní oslavu.",
+          "start": 0.0,
+          "end": 4.005442176870749,
+          "slow_start": 0.0,
+          "slow_end": 4.5859410430839
+        },
+        {
+          "text": "Řekl jsem: „To zní zajímavě, uvidím.“",
+          "start": 4.185442176870748,
+          "end": 7.772925170068027,
+          "slow_start": 4.765941043083901,
+          "slow_end": 8.85265306122449
+        },
+        {
+          "text": "Chtěl jsem tím vyjádřit, že si nejprve ověřím svůj program.",
+          "start": 7.952925170068027,
+          "end": 13.398004535147392,
+          "slow_start": 9.03265306122449,
+          "slow_end": 15.081451247165534
+        },
+        {
+          "text": "Soused ale nevěděl, zda má se mnou počítat při nákupu jídla.",
+          "start": 13.578004535147393,
+          "end": 18.756054421768706,
+          "slow_start": 15.261451247165533,
+          "slow_end": 20.985170068027212
+        },
+        {
+          "text": "Moje odpověď nebyla otevřeně nezdvořilá, přesto mu nepomohla.",
+          "start": 18.93605442176871,
+          "end": 24.20698412698413,
+          "slow_start": 21.165170068027212,
+          "slow_end": 27.260408163265307
+        },
+        {
+          "text": "V některých situacích je jasné odmítnutí s krátkým vysvětlením ohleduplnější než neurčitá věta, která odkládá rozhodnutí na druhého.",
+          "start": 24.386984126984128,
+          "end": 35.602222222222224,
+          "slow_start": 27.440408163265307,
+          "slow_end": 40.141723356009074
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 40.141723356009074
+    },
+    {
+      "text": "Zavolal jsem mu druhý den a upřesnil, že přijít nemohu, protože už mám domluvenou návštěvu. Poděkoval jsem za pozvání a navrhl jiný den na kávu. Nešlo o povinný rituál ani o slib, že každý odmítnutý termín musím nahradit. Chtěl jsem pouze dát najevo, že odmítám konkrétní sobotu, nikoli kontakt se sousedem. Kdybych o další setkání nestál, neměl bych nabízet kávu jen ze zvyku.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Zavolal jsem mu druhý den a upřesnil, že přijít nemohu, protože už mám domluvenou návštěvu.",
+        "Poděkoval jsem za pozvání a navrhl jiný den na kávu.",
+        "Nešlo o povinný rituál ani o slib, že každý odmítnutý termín musím nahradit.",
+        "Chtěl jsem pouze dát najevo, že odmítám konkrétní sobotu, nikoli kontakt se sousedem.",
+        "Kdybych o další setkání nestál, neměl bych nabízet kávu jen ze zvyku."
+      ],
+      "start": 35.782222222222224,
+      "end": 70.02022675736961,
+      "sentences": [
+        {
+          "text": "Zavolal jsem mu druhý den a upřesnil, že přijít nemohu, protože už mám domluvenou návštěvu.",
+          "start": 35.782222222222224,
+          "end": 43.4215873015873,
+          "slow_start": 40.32172335600907,
+          "slow_end": 49.133696145124716
+        },
+        {
+          "text": "Poděkoval jsem za pozvání a navrhl jiný den na kávu.",
+          "start": 43.6015873015873,
+          "end": 48.33845804988662,
+          "slow_start": 49.313696145124716,
+          "slow_end": 54.70072562358277
+        },
+        {
+          "text": "Nešlo o povinný rituál ani o slib, že každý odmítnutý termín musím nahradit.",
+          "start": 48.51845804988662,
+          "end": 55.54249433106576,
+          "slow_start": 54.88072562358277,
+          "slow_end": 62.75229024943311
+        },
+        {
+          "text": "Chtěl jsem pouze dát najevo, že odmítám konkrétní sobotu, nikoli kontakt se sousedem.",
+          "start": 55.72249433106576,
+          "end": 63.21092970521542,
+          "slow_start": 62.93229024943311,
+          "slow_end": 71.40757369614512
+        },
+        {
+          "text": "Kdybych o další setkání nestál, neměl bych nabízet kávu jen ze zvyku.",
+          "start": 63.39092970521542,
+          "end": 70.02022675736961,
+          "slow_start": 71.58757369614513,
+          "slow_end": 78.9134693877551
+        }
+      ],
+      "slow_start": 40.32172335600907,
+      "slow_end": 78.9134693877551
+    },
+    {
+      "text": "Podobná nejasnost může vzniknout v práci. Kolegyně okomentuje návrh slovy: „To je odvážné řešení.“ Bez dalšího kontextu není jisté, zda oceňuje tvořivost, nebo upozorňuje na riziko. Místo hádání se můžeme zeptat: „Myslíte tím, že je návrh zajímavý, nebo že bychom měli některé riziko ještě prověřit?“ Otázka umožní druhému význam upřesnit, aniž bychom mu připsali skrytou nepřátelskou motivaci.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Podobná nejasnost může vzniknout v práci.",
+        "Kolegyně okomentuje návrh slovy: „To je odvážné řešení.“",
+        "Bez dalšího kontextu není jisté, zda oceňuje tvořivost, nebo upozorňuje na riziko.",
+        "Místo hádání se můžeme zeptat: „Myslíte tím, že je návrh zajímavý, nebo že bychom měli některé riziko ještě prověřit?“",
+        "Otázka umožní druhému význam upřesnit, aniž bychom mu připsali skrytou nepřátelskou motivaci."
+      ],
+      "start": 70.20022675736962,
+      "end": 105.92430839002267,
+      "sentences": [
+        {
+          "text": "Podobná nejasnost může vzniknout v práci.",
+          "start": 70.20022675736962,
+          "end": 73.89219954648526,
+          "slow_start": 79.0934693877551,
+          "slow_end": 83.2730612244898
+        },
+        {
+          "text": "Kolegyně okomentuje návrh slovy: „To je odvážné řešení.“",
+          "start": 74.07219954648527,
+          "end": 79.00643990929706,
+          "slow_start": 83.4530612244898,
+          "slow_end": 88.89814058956917
+        },
+        {
+          "text": "Bez dalšího kontextu není jisté, zda oceňuje tvořivost, nebo upozorňuje na riziko.",
+          "start": 79.18643990929705,
+          "end": 86.22208616780046,
+          "slow_start": 89.07814058956916,
+          "slow_end": 96.91487528344672
+        },
+        {
+          "text": "Místo hádání se můžeme zeptat: „Myslíte tím, že je návrh zajímavý, nebo že bychom měli některé riziko ještě prověřit?“",
+          "start": 86.40208616780045,
+          "end": 97.19936507936508,
+          "slow_start": 97.09487528344671,
+          "slow_end": 109.42467120181406
+        },
+        {
+          "text": "Otázka umožní druhému význam upřesnit, aniž bychom mu připsali skrytou nepřátelskou motivaci.",
+          "start": 97.37936507936507,
+          "end": 105.92430839002267,
+          "slow_start": 109.60467120181406,
+          "slow_end": 119.04358276643991
+        }
+      ],
+      "slow_start": 79.0934693877551,
+      "slow_end": 119.04358276643991
+    },
+    {
+      "text": "Při žádosti o pomoc záleží také na rozsahu. Věta „Mohl byste se na to někdy podívat?“ zní měkce, ale neříká, zda jde o dvě minuty, nebo dvě hodiny. Přesnější je vysvětlit úkol a dát možnost odmítnout: „Potřebuji zkontrolovat dvě krátké stránky. Bylo by možné věnovat tomu do pátku asi dvacet minut? Pokud ne, najdu jinou cestu.“ Zdvořilost zde spojuje ohled na čas druhého s jasným požadavkem.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Při žádosti o pomoc záleží také na rozsahu.",
+        "Věta „Mohl byste se na to někdy podívat?“",
+        "zní měkce, ale neříká, zda jde o dvě minuty, nebo dvě hodiny.",
+        "Přesnější je vysvětlit úkol a dát možnost odmítnout: „Potřebuji zkontrolovat dvě krátké stránky.",
+        "Bylo by možné věnovat tomu do pátku asi dvacet minut?",
+        "Pokud ne, najdu jinou cestu.“",
+        "Zdvořilost zde spojuje ohled na čas druhého s jasným požadavkem."
+      ],
+      "start": 106.10430839002268,
+      "end": 141.5150113378685,
+      "sentences": [
+        {
+          "text": "Při žádosti o pomoc záleží také na rozsahu.",
+          "start": 106.10430839002268,
+          "end": 109.958820861678,
+          "slow_start": 119.2235827664399,
+          "slow_end": 123.47283446712018
+        },
+        {
+          "text": "Věta „Mohl byste se na to někdy podívat?“",
+          "start": 110.138820861678,
+          "end": 113.55215419501134,
+          "slow_start": 123.65283446712019,
+          "slow_end": 127.3564172335601
+        },
+        {
+          "text": "zní měkce, ale neříká, zda jde o dvě minuty, nebo dvě hodiny.",
+          "start": 113.73215419501133,
+          "end": 119.30494331065759,
+          "slow_start": 127.53641723356009,
+          "slow_end": 133.77097505668934
+        },
+        {
+          "text": "Přesnější je vysvětlit úkol a dát možnost odmítnout: „Potřebuji zkontrolovat dvě krátké stránky.",
+          "start": 119.4849433106576,
+          "end": 127.86734693877551,
+          "slow_start": 133.95097505668934,
+          "slow_end": 143.424716553288
+        },
+        {
+          "text": "Bylo by možné věnovat tomu do pátku asi dvacet minut?",
+          "start": 128.04734693877552,
+          "end": 132.90031746031747,
+          "slow_start": 143.60471655328797,
+          "slow_end": 148.94530612244898
+        },
+        {
+          "text": "Pokud ne, najdu jinou cestu.“",
+          "start": 133.08031746031747,
+          "end": 135.7738321995465,
+          "slow_start": 149.125306122449,
+          "slow_end": 152.3180498866213
+        },
+        {
+          "text": "Zdvořilost zde spojuje ohled na čas druhého s jasným požadavkem.",
+          "start": 135.9538321995465,
+          "end": 141.5150113378685,
+          "slow_start": 152.49804988662132,
+          "slow_end": 158.7906575963719
+        }
+      ],
+      "slow_start": 119.2235827664399,
+      "slow_end": 158.7906575963719
+    },
+    {
+      "text": "Zkušenosti s podobnými rozhovory se mohou mezi lidmi výrazně lišit. Věk, pracovní prostředí, blízkost vztahu i osobní styl ovlivňují, jak přímou odpověď člověk očekává. Proto není přesné říkat, že všichni Češi určitou větu vždy chápou stejně. Učíme se možné funkce výrazů, ale skutečný význam ověřujeme v konkrétním rozhovoru. Pozornost k reakci partnera je cennější než pevný seznam údajných národních povahových vlastností.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Zkušenosti s podobnými rozhovory se mohou mezi lidmi výrazně lišit.",
+        "Věk, pracovní prostředí, blízkost vztahu i osobní styl ovlivňují, jak přímou odpověď člověk očekává.",
+        "Proto není přesné říkat, že všichni Češi určitou větu vždy chápou stejně.",
+        "Učíme se možné funkce výrazů, ale skutečný význam ověřujeme v konkrétním rozhovoru.",
+        "Pozornost k reakci partnera je cennější než pevný seznam údajných národních povahových vlastností."
+      ],
+      "start": 141.6950113378685,
+      "end": 180.6350566893424,
+      "sentences": [
+        {
+          "text": "Zkušenosti s podobnými rozhovory se mohou mezi lidmi výrazně lišit.",
+          "start": 141.6950113378685,
+          "end": 147.4071201814059,
+          "slow_start": 158.9706575963719,
+          "slow_end": 165.4374149659864
+        },
+        {
+          "text": "Věk, pracovní prostředí, blízkost vztahu i osobní styl ovlivňují, jak přímou odpověď člověk očekává.",
+          "start": 147.5871201814059,
+          "end": 157.478820861678,
+          "slow_start": 165.6174149659864,
+          "slow_end": 176.83265306122448
+        },
+        {
+          "text": "Proto není přesné říkat, že všichni Češi určitou větu vždy chápou stejně.",
+          "start": 157.658820861678,
+          "end": 164.16040816326532,
+          "slow_start": 177.01265306122448,
+          "slow_end": 184.29210884353742
+        },
+        {
+          "text": "Učíme se možné funkce výrazů, ale skutečný význam ověřujeme v konkrétním rozhovoru.",
+          "start": 164.3404081632653,
+          "end": 171.7243537414966,
+          "slow_start": 184.47210884353743,
+          "slow_end": 192.62231292517006
+        },
+        {
+          "text": "Pozornost k reakci partnera je cennější než pevný seznam údajných národních povahových vlastností.",
+          "start": 171.9043537414966,
+          "end": 180.6350566893424,
+          "slow_start": 192.80231292517007,
+          "slow_end": 202.32249433106577
+        }
+      ],
+      "slow_start": 158.9706575963719,
+      "slow_end": 202.32249433106577
+    },
+    {
+      "text": "Na konci schůzky jsme si vyzkoušeli tři podoby nesouhlasu. Přímé „S tím nesouhlasím“ je jasné a v mnoha situacích přijatelné. „Nejsem si jistý, zda je to proveditelné“ otevírá otázku provedení. „Za současných podmínek to nemohu slíbit“ vymezuje vlastní závazek. Nejde o tři stupně stejného tvrzení. Každá věta dělá jinou věc, a proto ji volíme podle toho, co skutečně potřebujeme partnerovi sdělit.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Na konci schůzky jsme si vyzkoušeli tři podoby nesouhlasu.",
+        "Přímé „S tím nesouhlasím“ je jasné a v mnoha situacích přijatelné.",
+        "„Nejsem si jistý, zda je to proveditelné“ otevírá otázku provedení.",
+        "„Za současných podmínek to nemohu slíbit“ vymezuje vlastní závazek.",
+        "Nejde o tři stupně stejného tvrzení.",
+        "Každá věta dělá jinou věc, a proto ji volíme podle toho, co skutečně potřebujeme partnerovi sdělit."
+      ],
+      "start": 180.8150566893424,
+      "end": 214.4435827664399,
+      "sentences": [
+        {
+          "text": "Na konci schůzky jsme si vyzkoušeli tři podoby nesouhlasu.",
+          "start": 180.8150566893424,
+          "end": 185.31972789115648,
+          "slow_start": 202.50249433106575,
+          "slow_end": 207.75020408163266
+        },
+        {
+          "text": "Přímé „S tím nesouhlasím“ je jasné a v mnoha situacích přijatelné.",
+          "start": 185.49972789115645,
+          "end": 191.24666666666667,
+          "slow_start": 207.93020408163267,
+          "slow_end": 214.478231292517
+        },
+        {
+          "text": "„Nejsem si jistý, zda je to proveditelné“ otevírá otázku provedení.",
+          "start": 191.42666666666668,
+          "end": 196.83691609977325,
+          "slow_start": 214.658231292517,
+          "slow_end": 220.67219954648527
+        },
+        {
+          "text": "„Za současných podmínek to nemohu slíbit“ vymezuje vlastní závazek.",
+          "start": 197.01691609977325,
+          "end": 202.6245351473923,
+          "slow_start": 220.85219954648525,
+          "slow_end": 227.17963718820863
+        },
+        {
+          "text": "Nejde o tři stupně stejného tvrzení.",
+          "start": 202.8045351473923,
+          "end": 205.88117913832198,
+          "slow_start": 227.3596371882086,
+          "slow_end": 230.86585034013606
+        },
+        {
+          "text": "Každá věta dělá jinou věc, a proto ji volíme podle toho, co skutečně potřebujeme partnerovi sdělit.",
+          "start": 206.061179138322,
+          "end": 214.4435827664399,
+          "slow_start": 231.04585034013604,
+          "slow_end": 240.47315192743764
+        }
+      ],
+      "slow_start": 202.50249433106575,
+      "slow_end": 240.47315192743764
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "29895e49229863969c7511a6d5e2c8eca50ae1ce371c50113fe0ba5b9633b93b",
+    "slow": "de20ecaf7d68408a79378d44746e79f8b479e34204f2d37e95bc4cba557a6167"
+  },
+  "reused_from_track_id": "B2-U11-L01--2026.10.22.1--text"
+}

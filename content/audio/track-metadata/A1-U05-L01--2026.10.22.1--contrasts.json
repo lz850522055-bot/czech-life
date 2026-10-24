@@ -1,0 +1,57 @@
+{
+  "id": "A1-U05-L01--2026.10.22.1--contrasts",
+  "lesson_id": "A1-U05-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A1",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "třináct. třicet.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "třináct. třicet."
+      ]
+    }
+  ],
+  "text_sha256": "69f9f8e7b9686e3153a9c405a56268b792ec6350fb4adafea3d58dcc0cdfec28",
+  "source_file": "content/lessons/A1/A1-U05-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U05-L01--2026.10.22.1--contrasts--69f9f8e7b9--normal.mp3",
+  "slow_file": "content/audio/files/A1-U05-L01--2026.10.22.1--contrasts--69f9f8e7b9--slow.mp3",
+  "duration_seconds": 1.8053968253968253,
+  "slow_duration_seconds": 1.9214965986394559,
+  "cues": [
+    {
+      "text": "třináct. třicet.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "třináct. třicet."
+      ],
+      "start": 0.0,
+      "end": 1.6253968253968254,
+      "sentences": [
+        {
+          "text": "třináct. třicet.",
+          "start": 0.0,
+          "end": 1.6253968253968254,
+          "slow_start": 0.0,
+          "slow_end": 1.7414965986394557
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.7414965986394557
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "cb0cb0c90a60118ecff2b9f0436f52f2ffd38d8e403f4bb8c4f5b6d1a2048c27",
+    "slow": "6a418092c25b73b8b76e8b8d34b4efb2bdd55aebe1efcda60d7a24a31049c58e"
+  }
+}

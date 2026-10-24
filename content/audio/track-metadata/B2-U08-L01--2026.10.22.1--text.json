@@ -1,0 +1,400 @@
+{
+  "id": "B2-U08-L01--2026.10.22.1--text",
+  "lesson_id": "B2-U08-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Naše organizace objednala výrobu informačních panelů pro veřejnou výstavu. Podle potvrzeného návrhu měly obsahovat aktuální mapu a tři jazykové verze textu. Při převzetí jsme zjistili, že na dvou panelech zůstala starší mapa a u jednoho chyběla česká úprava názvu. Výstava měla začít za týden. Potřebovali jsme napsat zprávu, která přesně oddělí doložené rozdíly od odhadů jejich příčiny a umožní dodavateli navrhnout opravu.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Naše organizace objednala výrobu informačních panelů pro veřejnou výstavu.",
+        "Podle potvrzeného návrhu měly obsahovat aktuální mapu a tři jazykové verze textu.",
+        "Při převzetí jsme zjistili, že na dvou panelech zůstala starší mapa a u jednoho chyběla česká úprava názvu.",
+        "Výstava měla začít za týden.",
+        "Potřebovali jsme napsat zprávu, která přesně oddělí doložené rozdíly od odhadů jejich příčiny a umožní dodavateli navrhnout opravu."
+      ]
+    },
+    {
+      "text": "První reakce kolegy byla ostrá: chtěl napsat, že dodavatel naši zakázku odbyl. Takovou motivaci jsme ale nemohli prokázat. Mohlo dojít k záměně souborů nebo k chybě při předání podkladů. V konečné verzi jsme proto uvedli číslo zakázky, datum schválení návrhu a označení dotčených panelů. Fotografie a schválené soubory jsme přiložili odděleně a jasně pojmenovali, aby příjemce nemusel zdlouhavě hledat rozdíly.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "První reakce kolegy byla ostrá: chtěl napsat, že dodavatel naši zakázku odbyl.",
+        "Takovou motivaci jsme ale nemohli prokázat.",
+        "Mohlo dojít k záměně souborů nebo k chybě při předání podkladů.",
+        "V konečné verzi jsme proto uvedli číslo zakázky, datum schválení návrhu a označení dotčených panelů.",
+        "Fotografie a schválené soubory jsme přiložili odděleně a jasně pojmenovali, aby příjemce nemusel zdlouhavě hledat rozdíly."
+      ]
+    },
+    {
+      "text": "Hlavní požadavek zněl: „Prosíme o návrh způsobu nápravy a o potvrzení, zda lze opravené panely doručit do středy.“ Neprohlašovali jsme, že už víme, jaké technické řešení je nejlepší. Pro nás byla zásadní správnost obsahu a použití před zahájením výstavy. Dodavateli jsme zároveň nabídli možnost krátkého telefonátu, pokud by potřeboval upřesnit rozdíl mezi schválenou a dodanou verzí.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Hlavní požadavek zněl: „Prosíme o návrh způsobu nápravy a o potvrzení, zda lze opravené panely doručit do středy.“",
+        "Neprohlašovali jsme, že už víme, jaké technické řešení je nejlepší.",
+        "Pro nás byla zásadní správnost obsahu a použití před zahájením výstavy.",
+        "Dodavateli jsme zároveň nabídli možnost krátkého telefonátu, pokud by potřeboval upřesnit rozdíl mezi schválenou a dodanou verzí."
+      ]
+    },
+    {
+      "text": "Zpráva obsahovala také rozumně formulovanou lhůtu pro odpověď. Požádali jsme o reakci do následujícího poledne a vysvětlili souvislost s instalací. Tato lhůta byla naším organizačním požadavkem, nikoli tvrzením o zákonné povinnosti. Pokud by ji dodavatel nemohl splnit, měl nám co nejdříve sdělit reálný termín. Chtěli jsme mít informace pro rozhodnutí, ne pouze vyvolat dojem naléhavosti mnoha vykřičníky.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Zpráva obsahovala také rozumně formulovanou lhůtu pro odpověď.",
+        "Požádali jsme o reakci do následujícího poledne a vysvětlili souvislost s instalací.",
+        "Tato lhůta byla naším organizačním požadavkem, nikoli tvrzením o zákonné povinnosti.",
+        "Pokud by ji dodavatel nemohl splnit, měl nám co nejdříve sdělit reálný termín.",
+        "Chtěli jsme mít informace pro rozhodnutí, ne pouze vyvolat dojem naléhavosti mnoha vykřičníky."
+      ]
+    },
+    {
+      "text": "Dodavatel uznal záměnu mapových souborů a navrhl nové přelepy. U názvu požádal o kontrolu, protože v jednom z podkladů našel obě varianty. Tuto část jsme neodmítli jen proto, že chyba přišla z jeho strany. Porovnali jsme historii schválení a zjistili, že poslední potvrzená verze skutečně nebyla v odeslané složce. Odpovědnost za jednotlivé rozdíly tedy nebyla totožná a naše další zpráva to otevřeně rozlišila.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Dodavatel uznal záměnu mapových souborů a navrhl nové přelepy.",
+        "U názvu požádal o kontrolu, protože v jednom z podkladů našel obě varianty.",
+        "Tuto část jsme neodmítli jen proto, že chyba přišla z jeho strany.",
+        "Porovnali jsme historii schválení a zjistili, že poslední potvrzená verze skutečně nebyla v odeslané složce.",
+        "Odpovědnost za jednotlivé rozdíly tedy nebyla totožná a naše další zpráva to otevřeně rozlišila."
+      ]
+    },
+    {
+      "text": "Závěrečná dohoda určovala, kdo dodá správný název, kdo připraví přelepy, kdy proběhne kontrola a kdo potvrdí převzetí. Krátké písemné shrnutí po telefonátu pomohlo oběma stranám ověřit, že mluví o stejné verzi. Profesní tón zde nebyl otázkou zdvořilých frází navíc. Spočíval v přesné evidenci, přiměřeném požadavku, ochotě opravit vlastní údaj a v jasném vymezení dalšího postupu.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Závěrečná dohoda určovala, kdo dodá správný název, kdo připraví přelepy, kdy proběhne kontrola a kdo potvrdí převzetí.",
+        "Krátké písemné shrnutí po telefonátu pomohlo oběma stranám ověřit, že mluví o stejné verzi.",
+        "Profesní tón zde nebyl otázkou zdvořilých frází navíc.",
+        "Spočíval v přesné evidenci, přiměřeném požadavku, ochotě opravit vlastní údaj a v jasném vymezení dalšího postupu."
+      ]
+    }
+  ],
+  "text_sha256": "7e9ae0b74621333025fbcff54b9ba81eb7116ce77b6f2e7ed95af75f23a40245",
+  "source_file": "content/lessons/B2/B2-U08-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--normal.mp3",
+  "slow_file": "content/audio/files/B2-U08-L01--2026.10.22.1--text--7e9ae0b746--slow.mp3",
+  "duration_seconds": 217.17750566893423,
+  "slow_duration_seconds": 244.99501133786848,
+  "cues": [
+    {
+      "text": "Naše organizace objednala výrobu informačních panelů pro veřejnou výstavu. Podle potvrzeného návrhu měly obsahovat aktuální mapu a tři jazykové verze textu. Při převzetí jsme zjistili, že na dvou panelech zůstala starší mapa a u jednoho chyběla česká úprava názvu. Výstava měla začít za týden. Potřebovali jsme napsat zprávu, která přesně oddělí doložené rozdíly od odhadů jejich příčiny a umožní dodavateli navrhnout opravu.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Naše organizace objednala výrobu informačních panelů pro veřejnou výstavu.",
+        "Podle potvrzeného návrhu měly obsahovat aktuální mapu a tři jazykové verze textu.",
+        "Při převzetí jsme zjistili, že na dvou panelech zůstala starší mapa a u jednoho chyběla česká úprava názvu.",
+        "Výstava měla začít za týden.",
+        "Potřebovali jsme napsat zprávu, která přesně oddělí doložené rozdíly od odhadů jejich příčiny a umožní dodavateli navrhnout opravu."
+      ],
+      "start": 0.0,
+      "end": 36.76897959183673,
+      "sentences": [
+        {
+          "text": "Naše organizace objednala výrobu informačních panelů pro veřejnou výstavu.",
+          "start": 0.0,
+          "end": 6.141678004535147,
+          "slow_start": 0.0,
+          "slow_end": 6.965986394557823
+        },
+        {
+          "text": "Podle potvrzeného návrhu měly obsahovat aktuální mapu a tři jazykové verze textu.",
+          "start": 6.321678004535148,
+          "end": 13.519863945578232,
+          "slow_start": 7.1459863945578235,
+          "slow_end": 15.400680272108843
+        },
+        {
+          "text": "Při převzetí jsme zjistili, že na dvou panelech zůstala starší mapa a u jednoho chyběla česká úprava názvu.",
+          "start": 13.699863945578231,
+          "end": 22.465396825396827,
+          "slow_start": 15.580680272108843,
+          "slow_end": 25.588480725623583
+        },
+        {
+          "text": "Výstava měla začít za týden.",
+          "start": 22.645396825396826,
+          "end": 25.15315192743764,
+          "slow_start": 25.768480725623583,
+          "slow_end": 28.682585034013606
+        },
+        {
+          "text": "Potřebovali jsme napsat zprávu, která přesně oddělí doložené rozdíly od odhadů jejich příčiny a umožní dodavateli navrhnout opravu.",
+          "start": 25.33315192743764,
+          "end": 36.76897959183673,
+          "slow_start": 28.862585034013605,
+          "slow_end": 41.71482993197279
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 41.71482993197279
+    },
+    {
+      "text": "První reakce kolegy byla ostrá: chtěl napsat, že dodavatel naši zakázku odbyl. Takovou motivaci jsme ale nemohli prokázat. Mohlo dojít k záměně souborů nebo k chybě při předání podkladů. V konečné verzi jsme proto uvedli číslo zakázky, datum schválení návrhu a označení dotčených panelů. Fotografie a schválené soubory jsme přiložili odděleně a jasně pojmenovali, aby příjemce nemusel zdlouhavě hledat rozdíly.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "První reakce kolegy byla ostrá: chtěl napsat, že dodavatel naši zakázku odbyl.",
+        "Takovou motivaci jsme ale nemohli prokázat.",
+        "Mohlo dojít k záměně souborů nebo k chybě při předání podkladů.",
+        "V konečné verzi jsme proto uvedli číslo zakázky, datum schválení návrhu a označení dotčených panelů.",
+        "Fotografie a schválené soubory jsme přiložili odděleně a jasně pojmenovali, aby příjemce nemusel zdlouhavě hledat rozdíly."
+      ],
+      "start": 36.94897959183673,
+      "end": 73.24195011337868,
+      "sentences": [
+        {
+          "text": "První reakce kolegy byla ostrá: chtěl napsat, že dodavatel naši zakázku odbyl.",
+          "start": 36.94897959183673,
+          "end": 44.14716553287982,
+          "slow_start": 41.89482993197279,
+          "slow_end": 50.137913832199544
+        },
+        {
+          "text": "Takovou motivaci jsme ale nemohli prokázat.",
+          "start": 44.32716553287982,
+          "end": 48.088798185941044,
+          "slow_start": 50.317913832199544,
+          "slow_end": 54.53233560090703
+        },
+        {
+          "text": "Mohlo dojít k záměně souborů nebo k chybě při předání podkladů.",
+          "start": 48.268798185941044,
+          "end": 53.783537414965984,
+          "slow_start": 54.71233560090703,
+          "slow_end": 60.97011337868481
+        },
+        {
+          "text": "V konečné verzi jsme proto uvedli číslo zakázky, datum schválení návrhu a označení dotčených panelů.",
+          "start": 53.963537414965984,
+          "end": 62.53170068027211,
+          "slow_start": 61.15011337868481,
+          "slow_end": 70.7631746031746
+        },
+        {
+          "text": "Fotografie a schválené soubory jsme přiložili odděleně a jasně pojmenovali, aby příjemce nemusel zdlouhavě hledat rozdíly.",
+          "start": 62.71170068027211,
+          "end": 73.24195011337868,
+          "slow_start": 70.9431746031746,
+          "slow_end": 82.85501133786848
+        }
+      ],
+      "slow_start": 41.89482993197279,
+      "slow_end": 82.85501133786848
+    },
+    {
+      "text": "Hlavní požadavek zněl: „Prosíme o návrh způsobu nápravy a o potvrzení, zda lze opravené panely doručit do středy.“ Neprohlašovali jsme, že už víme, jaké technické řešení je nejlepší. Pro nás byla zásadní správnost obsahu a použití před zahájením výstavy. Dodavateli jsme zároveň nabídli možnost krátkého telefonátu, pokud by potřeboval upřesnit rozdíl mezi schválenou a dodanou verzí.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Hlavní požadavek zněl: „Prosíme o návrh způsobu nápravy a o potvrzení, zda lze opravené panely doručit do středy.“",
+        "Neprohlašovali jsme, že už víme, jaké technické řešení je nejlepší.",
+        "Pro nás byla zásadní správnost obsahu a použití před zahájením výstavy.",
+        "Dodavateli jsme zároveň nabídli možnost krátkého telefonátu, pokud by potřeboval upřesnit rozdíl mezi schválenou a dodanou verzí."
+      ],
+      "start": 73.42195011337868,
+      "end": 108.96603174603175,
+      "sentences": [
+        {
+          "text": "Hlavní požadavek zněl: „Prosíme o návrh způsobu nápravy a o potvrzení, zda lze opravené panely doručit do středy.“",
+          "start": 73.42195011337868,
+          "end": 83.82448979591837,
+          "slow_start": 83.03501133786848,
+          "slow_end": 94.56371882086168
+        },
+        {
+          "text": "Neprohlašovali jsme, že už víme, jaké technické řešení je nejlepší.",
+          "start": 84.00448979591837,
+          "end": 89.85591836734694,
+          "slow_start": 94.74371882086167,
+          "slow_end": 101.37301587301587
+        },
+        {
+          "text": "Pro nás byla zásadní správnost obsahu a použití před zahájením výstavy.",
+          "start": 90.03591836734694,
+          "end": 96.83936507936508,
+          "slow_start": 101.55301587301587,
+          "slow_end": 109.13433106575964
+        },
+        {
+          "text": "Dodavateli jsme zároveň nabídli možnost krátkého telefonátu, pokud by potřeboval upřesnit rozdíl mezi schválenou a dodanou verzí.",
+          "start": 97.01936507936507,
+          "end": 108.96603174603175,
+          "slow_start": 109.31433106575963,
+          "slow_end": 123.19986394557823
+        }
+      ],
+      "slow_start": 83.03501133786848,
+      "slow_end": 123.19986394557823
+    },
+    {
+      "text": "Zpráva obsahovala také rozumně formulovanou lhůtu pro odpověď. Požádali jsme o reakci do následujícího poledne a vysvětlili souvislost s instalací. Tato lhůta byla naším organizačním požadavkem, nikoli tvrzením o zákonné povinnosti. Pokud by ji dodavatel nemohl splnit, měl nám co nejdříve sdělit reálný termín. Chtěli jsme mít informace pro rozhodnutí, ne pouze vyvolat dojem naléhavosti mnoha vykřičníky.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Zpráva obsahovala také rozumně formulovanou lhůtu pro odpověď.",
+        "Požádali jsme o reakci do následujícího poledne a vysvětlili souvislost s instalací.",
+        "Tato lhůta byla naším organizačním požadavkem, nikoli tvrzením o zákonné povinnosti.",
+        "Pokud by ji dodavatel nemohl splnit, měl nám co nejdříve sdělit reálný termín.",
+        "Chtěli jsme mít informace pro rozhodnutí, ne pouze vyvolat dojem naléhavosti mnoha vykřičníky."
+      ],
+      "start": 109.14603174603175,
+      "end": 145.07909297052154,
+      "sentences": [
+        {
+          "text": "Zpráva obsahovala také rozumně formulovanou lhůtu pro odpověď.",
+          "start": 109.14603174603175,
+          "end": 114.74204081632654,
+          "slow_start": 123.37986394557824,
+          "slow_end": 129.5795918367347
+        },
+        {
+          "text": "Požádali jsme o reakci do následujícího poledne a vysvětlili souvislost s instalací.",
+          "start": 114.92204081632653,
+          "end": 122.03895691609978,
+          "slow_start": 129.7595918367347,
+          "slow_end": 138.02589569160997
+        },
+        {
+          "text": "Tato lhůta byla naším organizačním požadavkem, nikoli tvrzením o zákonné povinnosti.",
+          "start": 122.21895691609977,
+          "end": 129.98603174603176,
+          "slow_start": 138.20589569160998,
+          "slow_end": 146.8669387755102
+        },
+        {
+          "text": "Pokud by ji dodavatel nemohl splnit, měl nám co nejdříve sdělit reálný termín.",
+          "start": 130.16603174603173,
+          "end": 137.06235827664398,
+          "slow_start": 147.0469387755102,
+          "slow_end": 154.95333333333335
+        },
+        {
+          "text": "Chtěli jsme mít informace pro rozhodnutí, ne pouze vyvolat dojem naléhavosti mnoha vykřičníky.",
+          "start": 137.24235827664398,
+          "end": 145.07909297052154,
+          "slow_start": 155.13333333333333,
+          "slow_end": 163.9336961451247
+        }
+      ],
+      "slow_start": 123.37986394557824,
+      "slow_end": 163.9336961451247
+    },
+    {
+      "text": "Dodavatel uznal záměnu mapových souborů a navrhl nové přelepy. U názvu požádal o kontrolu, protože v jednom z podkladů našel obě varianty. Tuto část jsme neodmítli jen proto, že chyba přišla z jeho strany. Porovnali jsme historii schválení a zjistili, že poslední potvrzená verze skutečně nebyla v odeslané složce. Odpovědnost za jednotlivé rozdíly tedy nebyla totožná a naše další zpráva to otevřeně rozlišila.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Dodavatel uznal záměnu mapových souborů a navrhl nové přelepy.",
+        "U názvu požádal o kontrolu, protože v jednom z podkladů našel obě varianty.",
+        "Tuto část jsme neodmítli jen proto, že chyba přišla z jeho strany.",
+        "Porovnali jsme historii schválení a zjistili, že poslední potvrzená verze skutečně nebyla v odeslané složce.",
+        "Odpovědnost za jednotlivé rozdíly tedy nebyla totožná a naše další zpráva to otevřeně rozlišila."
+      ],
+      "start": 145.25909297052155,
+      "end": 182.32993197278913,
+      "sentences": [
+        {
+          "text": "Dodavatel uznal záměnu mapových souborů a navrhl nové přelepy.",
+          "start": 145.25909297052155,
+          "end": 151.0524716553288,
+          "slow_start": 164.11369614512472,
+          "slow_end": 170.63850340136054
+        },
+        {
+          "text": "U názvu požádal o kontrolu, protože v jednom z podkladů našel obě varianty.",
+          "start": 151.2324716553288,
+          "end": 158.02430839002267,
+          "slow_start": 170.81850340136054,
+          "slow_end": 178.55074829931974
+        },
+        {
+          "text": "Tuto část jsme neodmítli jen proto, že chyba přišla z jeho strany.",
+          "start": 158.20430839002267,
+          "end": 163.77709750566893,
+          "slow_start": 178.7307482993197,
+          "slow_end": 184.95369614512472
+        },
+        {
+          "text": "Porovnali jsme historii schválení a zjistili, že poslední potvrzená verze skutečně nebyla v odeslané složce.",
+          "start": 163.95709750566894,
+          "end": 173.53532879818593,
+          "slow_start": 185.13369614512473,
+          "slow_end": 195.7219954648526
+        },
+        {
+          "text": "Odpovědnost za jednotlivé rozdíly tedy nebyla totožná a naše další zpráva to otevřeně rozlišila.",
+          "start": 173.71532879818594,
+          "end": 182.32993197278913,
+          "slow_start": 195.9019954648526,
+          "slow_end": 205.54988662131518
+        }
+      ],
+      "slow_start": 164.11369614512472,
+      "slow_end": 205.54988662131518
+    },
+    {
+      "text": "Závěrečná dohoda určovala, kdo dodá správný název, kdo připraví přelepy, kdy proběhne kontrola a kdo potvrdí převzetí. Krátké písemné shrnutí po telefonátu pomohlo oběma stranám ověřit, že mluví o stejné verzi. Profesní tón zde nebyl otázkou zdvořilých frází navíc. Spočíval v přesné evidenci, přiměřeném požadavku, ochotě opravit vlastní údaj a v jasném vymezení dalšího postupu.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Závěrečná dohoda určovala, kdo dodá správný název, kdo připraví přelepy, kdy proběhne kontrola a kdo potvrdí převzetí.",
+        "Krátké písemné shrnutí po telefonátu pomohlo oběma stranám ověřit, že mluví o stejné verzi.",
+        "Profesní tón zde nebyl otázkou zdvořilých frází navíc.",
+        "Spočíval v přesné evidenci, přiměřeném požadavku, ochotě opravit vlastní údaj a v jasném vymezení dalšího postupu."
+      ],
+      "start": 182.5099319727891,
+      "end": 216.99750566893425,
+      "sentences": [
+        {
+          "text": "Závěrečná dohoda určovala, kdo dodá správný název, kdo připraví přelepy, kdy proběhne kontrola a kdo potvrdí převzetí.",
+          "start": 182.5099319727891,
+          "end": 192.3784126984127,
+          "slow_start": 205.7298866213152,
+          "slow_end": 216.8754648526077
+        },
+        {
+          "text": "Krátké písemné shrnutí po telefonátu pomohlo oběma stranám ověřit, že mluví o stejné verzi.",
+          "start": 192.5584126984127,
+          "end": 200.6621768707483,
+          "slow_start": 217.0554648526077,
+          "slow_end": 226.32022675736962
+        },
+        {
+          "text": "Profesní tón zde nebyl otázkou zdvořilých frází navíc.",
+          "start": 200.8421768707483,
+          "end": 206.39174603174604,
+          "slow_start": 226.5002267573696,
+          "slow_end": 232.80444444444444
+        },
+        {
+          "text": "Spočíval v přesné evidenci, přiměřeném požadavku, ochotě opravit vlastní údaj a v jasném vymezení dalšího postupu.",
+          "start": 206.57174603174604,
+          "end": 216.99750566893425,
+          "slow_start": 232.98444444444445,
+          "slow_end": 244.81501133786847
+        }
+      ],
+      "slow_start": 205.7298866213152,
+      "slow_end": 244.81501133786847
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "0c664b2515bf6feaeb5275b4e7163b1ddea7ec4b010df522ca178d1df854a17a",
+    "slow": "efe86460260587619062f51764f54fb47c65a6166b37cd5a5abcea637eac8046"
+  }
+}

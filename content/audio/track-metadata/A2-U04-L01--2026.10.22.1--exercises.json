@@ -1,0 +1,59 @@
+{
+  "id": "A2-U04-L01--2026.10.22.1--exercises",
+  "lesson_id": "A2-U04-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Eva dala Janě svou knihu.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "A2-U04-L01-E01",
+      "parts": [
+        "Eva dala Janě svou knihu."
+      ]
+    }
+  ],
+  "text_sha256": "5e92382d714336e657bccfbc02e4f9c93857744b087a757e615dc8081f2edc40",
+  "source_file": "content/lessons/A2/A2-U04-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U04-L01--2026.10.22.1--exercises--5e92382d71--normal.mp3",
+  "slow_file": "content/audio/files/A2-U04-L01--2026.10.22.1--exercises--5e92382d71--slow.mp3",
+  "duration_seconds": 2.374285714285714,
+  "slow_duration_seconds": 2.7109750566893425,
+  "cues": [
+    {
+      "text": "Eva dala Janě svou knihu.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "A2-U04-L01-E01",
+      "parts": [
+        "Eva dala Janě svou knihu."
+      ],
+      "start": 0.0,
+      "end": 2.1942857142857144,
+      "sentences": [
+        {
+          "text": "Eva dala Janě svou knihu.",
+          "start": 0.0,
+          "end": 2.1942857142857144,
+          "slow_start": 0.0,
+          "slow_end": 2.5309750566893423
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.5309750566893423
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "0f8495a0e655ea623fbf4a1e927126751ad0990b267f796b348635466078dfaf",
+    "slow": "9dfb79647073d8c29b2289b8f5e089bb9c5f81b017b7e1f40800ff1329992163"
+  }
+}

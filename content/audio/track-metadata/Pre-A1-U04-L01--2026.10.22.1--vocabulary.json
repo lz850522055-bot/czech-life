@@ -1,0 +1,144 @@
+{
+  "id": "Pre-A1-U04-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "Pre-A1-U04-L01",
+  "content_version": "2026.10.22.1",
+  "level": "Pre-A1",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "To je dítě.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "To je dítě."
+      ]
+    },
+    {
+      "text": "Díky za pomoc.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Díky za pomoc."
+      ]
+    },
+    {
+      "text": "Praha je město.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Praha je město."
+      ]
+    },
+    {
+      "text": "To je důležitá věc.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "To je důležitá věc."
+      ]
+    }
+  ],
+  "text_sha256": "a2a411cec8d62cadc808cf5d4bc94645c82b5401755a6d1fab9a122719e4ce2b",
+  "source_file": "content/lessons/Pre-A1/Pre-A1-U04-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/Pre-A1-U04-L01--2026.10.22.1--vocabulary--a2a411cec8--normal.mp3",
+  "slow_file": "content/audio/files/Pre-A1-U04-L01--2026.10.22.1--vocabulary--a2a411cec8--slow.mp3",
+  "duration_seconds": 6.5482086167800455,
+  "slow_duration_seconds": 7.488616780045351,
+  "cues": [
+    {
+      "text": "To je dítě.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "To je dítě."
+      ],
+      "start": 0.0,
+      "end": 0.9984580498866213,
+      "sentences": [
+        {
+          "text": "To je dítě.",
+          "start": 0.0,
+          "end": 0.9984580498866213,
+          "slow_start": 0.0,
+          "slow_end": 1.1377777777777778
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.1377777777777778
+    },
+    {
+      "text": "Díky za pomoc.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Díky za pomoc."
+      ],
+      "start": 1.1784580498866213,
+      "end": 2.7225850340136053,
+      "sentences": [
+        {
+          "text": "Díky za pomoc.",
+          "start": 1.1784580498866213,
+          "end": 2.7225850340136053,
+          "slow_start": 1.3177777777777777,
+          "slow_end": 3.128934240362812
+        }
+      ],
+      "slow_start": 1.3177777777777777,
+      "slow_end": 3.128934240362812
+    },
+    {
+      "text": "Praha je město.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Praha je město."
+      ],
+      "start": 2.9025850340136055,
+      "end": 4.388662131519275,
+      "sentences": [
+        {
+          "text": "Praha je město.",
+          "start": 2.9025850340136055,
+          "end": 4.388662131519275,
+          "slow_start": 3.3089342403628117,
+          "slow_end": 4.969160997732426
+        }
+      ],
+      "slow_start": 3.3089342403628117,
+      "slow_end": 4.969160997732426
+    },
+    {
+      "text": "To je důležitá věc.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "To je důležitá věc."
+      ],
+      "start": 4.568662131519274,
+      "end": 6.368208616780046,
+      "sentences": [
+        {
+          "text": "To je důležitá věc.",
+          "start": 4.568662131519274,
+          "end": 6.368208616780046,
+          "slow_start": 5.149160997732427,
+          "slow_end": 7.308616780045352
+        }
+      ],
+      "slow_start": 5.149160997732427,
+      "slow_end": 7.308616780045352
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "c12b60c555ab27bfcd6c03b8d2983ddc81a8f5fac3dc15af9b1db78453332905",
+    "slow": "0f48c229b544cbe034e42c339e82592725b48a5e701e89b45e43ffe48b2734a6"
+  }
+}

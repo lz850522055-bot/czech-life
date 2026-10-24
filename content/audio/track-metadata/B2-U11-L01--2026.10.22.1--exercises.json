@@ -1,0 +1,68 @@
+{
+  "id": "B2-U11-L01--2026.10.22.1--exercises",
+  "lesson_id": "B2-U11-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B2",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Ne celý plán, jen termín. Obsah mi dává smysl.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "B2-U11-L01-E03",
+      "parts": [
+        "Ne celý plán, jen termín.",
+        "Obsah mi dává smysl."
+      ]
+    }
+  ],
+  "text_sha256": "5dec89327c3692a7a51c5efaf98bfb6acf326e323ded06baf17cdf16339e722f",
+  "source_file": "content/lessons/B2/B2-U11-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U11-L01--2026.10.22.1--exercises--5dec89327c--normal.mp3",
+  "slow_file": "content/audio/files/B2-U11-L01--2026.10.22.1--exercises--5dec89327c--slow.mp3",
+  "duration_seconds": 4.899501133786848,
+  "slow_duration_seconds": 5.526439909297052,
+  "cues": [
+    {
+      "text": "Ne celý plán, jen termín. Obsah mi dává smysl.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "B2-U11-L01-E03",
+      "parts": [
+        "Ne celý plán, jen termín.",
+        "Obsah mi dává smysl."
+      ],
+      "start": 0.0,
+      "end": 4.719501133786848,
+      "sentences": [
+        {
+          "text": "Ne celý plán, jen termín.",
+          "start": 0.0,
+          "end": 2.4380952380952383,
+          "slow_start": 0.0,
+          "slow_end": 2.75156462585034
+        },
+        {
+          "text": "Obsah mi dává smysl.",
+          "start": 2.618095238095238,
+          "end": 4.719501133786848,
+          "slow_start": 2.9315646258503403,
+          "slow_end": 5.346439909297052
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 5.346439909297052
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "a5d828dd0fbeba900f17658e2ef3e1fb5ca9104cd7275b4aafd95fba93e8c918",
+    "slow": "3e3c3cee4145b4517728132454af0b8042f51aaceb2182e4f56b6ede4a0535c2"
+  }
+}

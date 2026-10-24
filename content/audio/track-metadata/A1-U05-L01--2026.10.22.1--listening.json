@@ -1,0 +1,75 @@
+{
+  "id": "A1-U05-L01--2026.10.22.1--listening",
+  "lesson_id": "A1-U05-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A1",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Jedno balení má šest kusů. Balení stojí devadesát korun. Dvě balení stojí sto osmdesát.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Jedno balení má šest kusů.",
+        "Balení stojí devadesát korun.",
+        "Dvě balení stojí sto osmdesát."
+      ]
+    }
+  ],
+  "text_sha256": "6ef7d0eab04aaf558ae0a731da021699a2aa838ae73bfadedcb84b51b0251f14",
+  "source_file": "content/lessons/A1/A1-U05-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U05-L01--2026.10.22.1--listening--6ef7d0eab0--normal.mp3",
+  "slow_file": "content/audio/files/A1-U05-L01--2026.10.22.1--listening--6ef7d0eab0--slow.mp3",
+  "duration_seconds": 8.666984126984127,
+  "slow_duration_seconds": 9.781541950113379,
+  "cues": [
+    {
+      "text": "Jedno balení má šest kusů. Balení stojí devadesát korun. Dvě balení stojí sto osmdesát.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Jedno balení má šest kusů.",
+        "Balení stojí devadesát korun.",
+        "Dvě balení stojí sto osmdesát."
+      ],
+      "start": 0.0,
+      "end": 8.486984126984128,
+      "sentences": [
+        {
+          "text": "Jedno balení má šest kusů.",
+          "start": 0.0,
+          "end": 2.5658049886621317,
+          "slow_start": 0.0,
+          "slow_end": 2.9373242630385485
+        },
+        {
+          "text": "Balení stojí devadesát korun.",
+          "start": 2.7458049886621314,
+          "end": 5.4044897959183675,
+          "slow_start": 3.1173242630385487,
+          "slow_end": 6.135918367346939
+        },
+        {
+          "text": "Dvě balení stojí sto osmdesát.",
+          "start": 5.584489795918367,
+          "end": 8.486984126984128,
+          "slow_start": 6.315918367346939,
+          "slow_end": 9.60154195011338
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 9.60154195011338
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "38d27d1bdd7547cf60f8fad586149aab4f3f3b2ead55e49487bc4e17183b0024",
+    "slow": "e7956bf630996b8ce26ce9c83a509bcfe583556311daf454939fbfc761e04aae"
+  }
+}

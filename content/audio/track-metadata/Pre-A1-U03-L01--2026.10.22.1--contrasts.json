@@ -1,0 +1,57 @@
+{
+  "id": "Pre-A1-U03-L01--2026.10.22.1--contrasts",
+  "lesson_id": "Pre-A1-U03-L01",
+  "content_version": "2026.10.22.1",
+  "level": "Pre-A1",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "rada. řada.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "rada. řada."
+      ]
+    }
+  ],
+  "text_sha256": "3695a5ea80f687246ec1ec256f63e49b4ea6def08b06ebb76259c7813093f7bb",
+  "source_file": "content/lessons/Pre-A1/Pre-A1-U03-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/Pre-A1-U03-L01--2026.10.22.1--contrasts--3695a5ea80--normal.mp3",
+  "slow_file": "content/audio/files/Pre-A1-U03-L01--2026.10.22.1--contrasts--3695a5ea80--slow.mp3",
+  "duration_seconds": 1.36421768707483,
+  "slow_duration_seconds": 1.5035374149659864,
+  "cues": [
+    {
+      "text": "rada. řada.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "rada. řada."
+      ],
+      "start": 0.0,
+      "end": 1.18421768707483,
+      "sentences": [
+        {
+          "text": "rada. řada.",
+          "start": 0.0,
+          "end": 1.18421768707483,
+          "slow_start": 0.0,
+          "slow_end": 1.3235374149659864
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.3235374149659864
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "d2528ef06f560fbc51743c213b2d16cc35700772e635e0f8adf7b243bf40d5e9",
+    "slow": "25afd30663d41ff74b15814e17dfe74da482732b477bed01b61cea63e590d898"
+  }
+}

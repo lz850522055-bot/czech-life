@@ -1,0 +1,203 @@
+{
+  "id": "A1-U07-L01--2026.10.23.1--vocabulary",
+  "lesson_id": "A1-U07-L01",
+  "content_version": "2026.10.23.1",
+  "level": "A1",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Moje rodina je velká.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Moje rodina je velká."
+      ]
+    },
+    {
+      "text": "Mám dva sourozence.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Mám dva sourozence."
+      ]
+    },
+    {
+      "text": "To je moje sestra.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "To je moje sestra."
+      ]
+    },
+    {
+      "text": "Můj bratr čte.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Můj bratr čte."
+      ]
+    },
+    {
+      "text": "Petr je kuchař.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Petr je kuchař."
+      ]
+    },
+    {
+      "text": "Ve volném čase čtu.",
+      "index": 5,
+      "role": "vocabulary",
+      "parts": [
+        "Ve volném čase čtu."
+      ]
+    }
+  ],
+  "text_sha256": "9cdf30d37f47551ba35c98b16fa1fe0148d131d4906bb19ce7df5d74514e7cac",
+  "source_file": "content/lessons/A1/A1-U07-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U07-L01--2026.10.22.1--vocabulary--9cdf30d37f--normal.mp3",
+  "slow_file": "content/audio/files/A1-U07-L01--2026.10.22.1--vocabulary--9cdf30d37f--slow.mp3",
+  "duration_seconds": 11.50575963718821,
+  "slow_duration_seconds": 13.015056689342403,
+  "cues": [
+    {
+      "text": "Moje rodina je velká.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Moje rodina je velká."
+      ],
+      "start": 0.0,
+      "end": 2.043356009070295,
+      "sentences": [
+        {
+          "text": "Moje rodina je velká.",
+          "start": 0.0,
+          "end": 2.043356009070295,
+          "slow_start": 0.0,
+          "slow_end": 2.3219954648526078
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.3219954648526078
+    },
+    {
+      "text": "Mám dva sourozence.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Mám dva sourozence."
+      ],
+      "start": 2.2233560090702946,
+      "end": 4.104172335600907,
+      "sentences": [
+        {
+          "text": "Mám dva sourozence.",
+          "start": 2.2233560090702946,
+          "end": 4.104172335600907,
+          "slow_start": 2.501995464852608,
+          "slow_end": 4.64984126984127
+        }
+      ],
+      "slow_start": 2.501995464852608,
+      "slow_end": 4.64984126984127
+    },
+    {
+      "text": "To je moje sestra.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "To je moje sestra."
+      ],
+      "start": 4.284172335600907,
+      "end": 5.839909297052154,
+      "sentences": [
+        {
+          "text": "To je moje sestra.",
+          "start": 4.284172335600907,
+          "end": 5.839909297052154,
+          "slow_start": 4.82984126984127,
+          "slow_end": 6.478458049886621
+        }
+      ],
+      "slow_start": 4.82984126984127,
+      "slow_end": 6.478458049886621
+    },
+    {
+      "text": "Můj bratr čte.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Můj bratr čte."
+      ],
+      "start": 6.019909297052155,
+      "end": 7.575646258503402,
+      "sentences": [
+        {
+          "text": "Můj bratr čte.",
+          "start": 6.019909297052155,
+          "end": 7.575646258503402,
+          "slow_start": 6.6584580498866215,
+          "slow_end": 8.469614512471656
+        }
+      ],
+      "slow_start": 6.6584580498866215,
+      "slow_end": 8.469614512471656
+    },
+    {
+      "text": "Petr je kuchař.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Petr je kuchař."
+      ],
+      "start": 7.755646258503401,
+      "end": 9.20689342403628,
+      "sentences": [
+        {
+          "text": "Petr je kuchař.",
+          "start": 7.755646258503401,
+          "end": 9.20689342403628,
+          "slow_start": 8.649614512471656,
+          "slow_end": 10.4259410430839
+        }
+      ],
+      "slow_start": 8.649614512471656,
+      "slow_end": 10.4259410430839
+    },
+    {
+      "text": "Ve volném čase čtu.",
+      "index": 5,
+      "role": "vocabulary",
+      "parts": [
+        "Ve volném čase čtu."
+      ],
+      "start": 9.38689342403628,
+      "end": 11.32575963718821,
+      "sentences": [
+        {
+          "text": "Ve volném čase čtu.",
+          "start": 9.38689342403628,
+          "end": 11.32575963718821,
+          "slow_start": 10.6059410430839,
+          "slow_end": 12.835056689342403
+        }
+      ],
+      "slow_start": 10.6059410430839,
+      "slow_end": 12.835056689342403
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "4dfb2c732a4dab7dd144df6488984abbd6a53a7b4a0f52b540fcbdedf05ef16c",
+    "slow": "4f1561dd9ed2fd0aa3cd63098e07d3df51f8a9c2696103322f5c7e04d54b7271"
+  },
+  "reused_from_track_id": "A1-U07-L01--2026.10.22.1--vocabulary"
+}

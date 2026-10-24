@@ -1,0 +1,144 @@
+{
+  "id": "B1-U08-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "B1-U08-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Svůj postoj mohu změnit.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Svůj postoj mohu změnit."
+      ]
+    },
+    {
+      "text": "Nemáme dost podkladů.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Nemáme dost podkladů."
+      ]
+    },
+    {
+      "text": "Kolik stojí údržba?",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Kolik stojí údržba?"
+      ]
+    },
+    {
+      "text": "Chceme ověřit spolehlivost zámku.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Chceme ověřit spolehlivost zámku."
+      ]
+    }
+  ],
+  "text_sha256": "c5f4c82c80981d7c3bef9feca9729b7a6df2af98ca02858df8e6c1b855f4df0c",
+  "source_file": "content/lessons/B1/B1-U08-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U08-L01--2026.10.22.1--vocabulary--c5f4c82c80--normal.mp3",
+  "slow_file": "content/audio/files/B1-U08-L01--2026.10.22.1--vocabulary--c5f4c82c80--slow.mp3",
+  "duration_seconds": 10.379501133786848,
+  "slow_duration_seconds": 11.552108843537415,
+  "cues": [
+    {
+      "text": "Svůj postoj mohu změnit.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Svůj postoj mohu změnit."
+      ],
+      "start": 0.0,
+      "end": 2.449705215419501,
+      "sentences": [
+        {
+          "text": "Svůj postoj mohu změnit.",
+          "start": 0.0,
+          "end": 2.449705215419501,
+          "slow_start": 0.0,
+          "slow_end": 2.728344671201814
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.728344671201814
+    },
+    {
+      "text": "Nemáme dost podkladů.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Nemáme dost podkladů."
+      ],
+      "start": 2.6297052154195013,
+      "end": 4.615011337868481,
+      "sentences": [
+        {
+          "text": "Nemáme dost podkladů.",
+          "start": 2.6297052154195013,
+          "end": 4.615011337868481,
+          "slow_start": 2.908344671201814,
+          "slow_end": 5.1374603174603175
+        }
+      ],
+      "slow_start": 2.908344671201814,
+      "slow_end": 5.1374603174603175
+    },
+    {
+      "text": "Kolik stojí údržba?",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Kolik stojí údržba?"
+      ],
+      "start": 4.79501133786848,
+      "end": 6.838367346938775,
+      "sentences": [
+        {
+          "text": "Kolik stojí údržba?",
+          "start": 4.79501133786848,
+          "end": 6.838367346938775,
+          "slow_start": 5.317460317460317,
+          "slow_end": 7.6046258503401365
+        }
+      ],
+      "slow_start": 5.317460317460317,
+      "slow_end": 7.6046258503401365
+    },
+    {
+      "text": "Chceme ověřit spolehlivost zámku.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Chceme ověřit spolehlivost zámku."
+      ],
+      "start": 7.018367346938776,
+      "end": 10.199501133786848,
+      "sentences": [
+        {
+          "text": "Chceme ověřit spolehlivost zámku.",
+          "start": 7.018367346938776,
+          "end": 10.199501133786848,
+          "slow_start": 7.784625850340136,
+          "slow_end": 11.372108843537415
+        }
+      ],
+      "slow_start": 7.784625850340136,
+      "slow_end": 11.372108843537415
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "d1de5b0d3ae2183057225cbc55c9caa66b625de0b5dd42ff2989a52a731b59d8",
+    "slow": "6b4ae568c907725d42fa746cf7145e747199c3e98ccdf21f19f71ff0a50893d5"
+  }
+}

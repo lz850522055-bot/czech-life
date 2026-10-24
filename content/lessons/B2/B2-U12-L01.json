@@ -1,0 +1,1513 @@
+{
+  "id": "B2-U12-L01",
+  "level": "B2",
+  "unit_id": "B2-U12",
+  "order": 58,
+  "version": "2026.10.23.1",
+  "title_zh": "长篇观点写作及修改",
+  "title_cs": "Text, který unese vlastní námitky",
+  "prerequisites": [
+    "B2-U11-L01"
+  ],
+  "can_do": [
+    "写出主题明确、段落推进的论述",
+    "让反对意见真正影响结论而非装饰",
+    "修改重复、指代、证据强度和语域"
+  ],
+  "scene": "长篇观点写作与修改",
+  "skills": [
+    "listening",
+    "speaking",
+    "reading",
+    "writing",
+    "interaction",
+    "mediation"
+  ],
+  "knowledge_points": [
+    "paragraph-architecture",
+    "revision-criteria"
+  ],
+  "intro_zh": "本课主文本就是一篇完整观点文章。先看每段做什么，再写自己的版本；修改不是换几个高级词，而是让主张、证据和边界对得上。",
+  "lesson_text": [
+    {
+      "id": "s01",
+      "cs": "Debata o práci z domova často začíná otázkou, zda je lepší být doma, nebo v kanceláři. Takto položená otázka ale spojuje příliš mnoho rozdílných činností. Samostatné zpracování podkladů, zaučování nového kolegy a společné řešení nejasného problému vyžadují jiné podmínky. Smysluplnější je proto ptát se, pro kterou práci je které prostředí vhodné a jak se tým dozví, že zvolený režim skutečně funguje.",
+      "zh": "居家办公讨论常问家还是办公室好，却混多种任务。独立整理、带新人、共同解模糊问题需不同条件。应问环境适何任务，团队如何知道安排有效。",
+      "note_zh": ""
+    },
+    {
+      "id": "s02",
+      "cs": "Práce z domova může omezit dojíždění a vytvořit delší souvislý čas na soustředění. Tento přínos však není stejný pro každého. Člověk se samostatnou pracovnou má jiné možnosti než někdo, kdo sdílí malý byt s dalšími lidmi. Jestliže firma předpokládá, že všichni mají doma klid, přesouvá část nákladů a organizačních problémů na zaměstnance. Výhoda pro jednoho pracovníka tedy sama o sobě není dostatečným důkazem vhodnosti jednotného pravidla pro celý tým.",
+      "zh": "居家可减通勤、提供连续专注时间，但非人人同享。独立书房与多人小屋不同；默认人人家里安静会把成本与问题转给员工。个人好处不足以证明全员统一规则合适。",
+      "note_zh": ""
+    },
+    {
+      "id": "s03",
+      "cs": "Kancelář naopak usnadňuje některé neplánované konzultace a společné učení. Ani přítomnost na jednom místě však nezaručuje spolupráci. Pokud lidé celý den sedí na oddělených online schůzkách, může se z dojíždění stát náklad bez odpovídajícího přínosu. Argument pro kancelář je silnější tehdy, když popisuje konkrétní společnou činnost: přípravu návrhu, předání zkušeností nebo rychlé vyjasnění sporného bodu. Pouhý počet hodin strávených v budově takovou činnost nenahrazuje.",
+      "zh": "办公室利于临时咨询与共同学习，但共处不保证协作。全天各自开线上会，通勤可能无收益。支持办公室应指出共创、经验传递、快速澄清等活动，而非只数坐楼里几小时。",
+      "note_zh": ""
+    },
+    {
+      "id": "s04",
+      "cs": "Proti pružnému režimu lze namítnout, že zvyšuje nároky na koordinaci. Tato námitka je oprávněná: bez jasných pravidel se mohou kolegové míjet a důležité informace zůstanou v soukromých rozhovorech. Řešením ale nemusí být návrat ke stejnému rozvrhu pro všechny. Tým může určit společné bloky, způsob zaznamenávání rozhodnutí a očekávanou dostupnost. Pravidla musejí být dost konkrétní, aby pomáhala, a zároveň dost přehledná, aby se jejich správa nestala hlavní náplní práce.",
+      "zh": "弹性制增加协调是有效异议：没规则会错开、信息留私人谈话。但解法不必全员同排班，可定共同块、决策记录、响应预期。规则应具体简明，避免管理规则成主要工作。",
+      "note_zh": ""
+    },
+    {
+      "id": "s05",
+      "cs": "Navrhuji proto zkušební uspořádání podle typu úkolů a následné společné vyhodnocení. Nehodnoťme pouze počet dokončených položek, protože úkoly mají různou obtížnost. Sledujme také kvalitu předávání, schopnost zapojit nové kolegy a možnost soustředěné práce. Předem určeme, co by bylo důvodem režim změnit. Pokud zkušební období odhalí nerovné podmínky doma, musí tým nabídnout skutečnou alternativu, ne jen připomenout, že pružnost je pro zaměstnance údajně výhoda.",
+      "zh": "建议按任务试行再共同评估。不只数完成件数因难度不同，还看交接、新人参与、专注。预定何种证据促改变。若家庭条件不平等，要提供真实选择，不只说弹性就是福利。",
+      "note_zh": ""
+    },
+    {
+      "id": "s06",
+      "cs": "Závěr tedy není, že práce z domova je vždy lepší, ani že kancelář patří minulosti. Tvrdím, že prostředí má sloužit konkrétní práci a že pravidla musejí zohlednit rozdílné situace lidí. Takové stanovisko je náročnější než jednoduchý slogan, protože vyžaduje průběžné ověřování. Právě tato možnost opravy je však jeho silnou stránkou: tým nemusí hájit jednou přijaté opatření, když se ukáže, že neplní původně stanovený účel.",
+      "zh": "结论不是居家永远优或办公室过时，而是环境服务任务、规则顾及差异。这比口号费力需持续核验，但可修正正是优点，不用当措施偏离目的仍维护原决定。",
+      "note_zh": ""
+    }
+  ],
+  "grammar": [
+    {
+      "id": "paragraph-architecture",
+      "rule_zh": "一段做一件论证工作，下一段接着推进。",
+      "detail_zh": "开题限定问题→两方案收益和边界→真实异议→回应与实施→有条件结论。首句常提出段意，例子服务观点。tento přínos、tato námitka 等指代必须能找到明确前文；若前面多项并列，应重复具体名词。",
+      "examples": [
+        {
+          "cs": "Tato námitka se týká koordinace, nikoli kvality domácí práce.",
+          "zh": "这个异议针对协调，不是居家工作的质量。",
+          "note_zh": ""
+        }
+      ],
+      "pitfalls": [
+        "每段都以“重要的是”开头却无新信息，只是重复。"
+      ],
+      "exceptions": [
+        "不同文体可有不同结构，不把本六段强定为唯一写法。"
+      ],
+      "term": "篇章组织与衔接"
+    },
+    {
+      "id": "revision-criteria",
+      "rule_zh": "修改时先修论证，再修句子，最后修拼写。",
+      "detail_zh": "第一轮查主张是否超证据、异议是否真实回应、结论是否偷加条件；第二轮查代词、因果、语域、格和一致；第三轮查拼写标点。名词化 zajištění koordinace 可较正式，但若遮主体可改 Kdo bude koordinovat…。原始草稿与修订需保留以便对照。",
+      "examples": [
+        {
+          "cs": "Je nutné zajistit koordinaci.",
+          "zh": "有必要确保协调。",
+          "note_zh": ""
+        },
+        {
+          "cs": "Vedoucí týmu určí společné termíny.",
+          "zh": "团队负责人确定共同时间。",
+          "note_zh": ""
+        }
+      ],
+      "pitfalls": [
+        "加长句子或高级词不能修复没有依据的结论。"
+      ],
+      "exceptions": [
+        "词数目标用于训练展开，不作为自动能力评分。"
+      ],
+      "term": "分层编辑"
+    }
+  ],
+  "vocabulary": [
+    {
+      "lemma": "souvislý",
+      "pos": "形容词",
+      "forms": "souvislá; souvislé",
+      "meaning_zh": "连续完整的",
+      "collocation": "souvislý čas",
+      "example_cs": "Potřebuji souvislý čas na práci.",
+      "example_zh": "需要连续工作时间。",
+      "confusion_zh": "不等于总时长一定更长。"
+    },
+    {
+      "lemma": "koordinace",
+      "pos": "名词，阴性",
+      "forms": "koordinaci",
+      "meaning_zh": "协调",
+      "collocation": "nároky na koordinaci",
+      "example_cs": "Nový režim zvyšuje nároky na koordinaci.",
+      "example_zh": "新制提高协调要求。",
+      "confusion_zh": "不等于管理者单向命令。"
+    },
+    {
+      "lemma": "slogan",
+      "pos": "名词，阳性无生",
+      "forms": "sloganu; slogany",
+      "meaning_zh": "口号",
+      "collocation": "jednoduchý slogan",
+      "example_cs": "Slogan nenahrazuje pravidla.",
+      "example_zh": "口号不能替代规则。",
+      "confusion_zh": "简洁论点不必然是空口号。"
+    },
+    {
+      "lemma": "účel",
+      "pos": "名词，阳性无生",
+      "forms": "účelu; účelem",
+      "meaning_zh": "目的",
+      "collocation": "plnit účel",
+      "example_cs": "Opatření neplní svůj účel.",
+      "example_zh": "措施没达到目的。",
+      "confusion_zh": "实施动作不等于目的实现。"
+    }
+  ],
+  "listening": {
+    "script": [
+      {
+        "cs": "Editorka: Ve druhém odstavci tvrdíte, že doma pracují všichni lépe. Máte pro tak široký závěr podklady? Autor: Ne, vycházím jen ze své zkušenosti. Editorka: Pak buď doplňte relevantní důkaz, nebo tvrzení omezte. A ve čtvrtém odstavci skutečně odpovězte na problém koordinace; nestačí zopakovat, že pružnost je dobrá.",
+        "zh": "编辑说第二段断言人人在家更好，有证据吗。作者仅自身经验。编辑要求补相关证据或限范围，第四段真回应协调，别重复弹性好。",
+        "note_zh": ""
+      }
+    ],
+    "focus_zh": "抓编辑指出的两种不同问题：结论过广、反对意见未回应。",
+    "source": "original"
+  },
+  "pronunciation": {
+    "focus_zh": "长句按从句和论证块停顿；过度强调每个 spojka 会打断连贯。",
+    "contrast": [
+      {
+        "a": "všichni",
+        "b": "někteří",
+        "note_zh": "全称与部分，修改一个量词可改变整个结论。"
+      }
+    ],
+    "task_zh": "先听一句，再按意义块跟读；录下自然语速版本，对照长短元音、句中停顿和关键词。不要追求机械加速。"
+  },
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "主文本核心主张是什么？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "所有人永久居家"
+        },
+        {
+          "id": "b",
+          "text": "环境按任务与人的条件安排并验证"
+        },
+        {
+          "id": "c",
+          "text": "取消所有规则"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "六段论证指向任务适配和可修正。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U12-L01-E01",
+      "knowledge_points": [
+        "paragraph-architecture",
+        "revision-criteria"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "文中认真承认的异议？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "弹性可能增加协调成本"
+        },
+        {
+          "id": "b",
+          "text": "员工一定不工作"
+        },
+        {
+          "id": "c",
+          "text": "办公室永远没用"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "第四段承认真实协调问题。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U12-L01-E02",
+      "knowledge_points": [
+        "paragraph-architecture",
+        "revision-criteria"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "听：作者“所有人更好”根据什么？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "严格全员实验"
+        },
+        {
+          "id": "b",
+          "text": "个人经验"
+        },
+        {
+          "id": "c",
+          "text": "政府规定"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "作者直接说明自身经验。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "listening"
+      ],
+      "error_category": "comprehension",
+      "audio_text_cs": "Autor: Vycházím jen ze své zkušenosti, nemám podklady pro všechny pracovníky.",
+      "id": "B2-U12-L01-E03",
+      "knowledge_points": [
+        "paragraph-architecture",
+        "revision-criteria"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "填明确指向异议的词。",
+      "stimulus_cs": "Tato ___ se týká koordinace.",
+      "answer": "námitka",
+      "accepted_answers": [
+        "námitka"
+      ],
+      "explanation_zh": "对前段异议进行回应。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "meaning",
+      "id": "B2-U12-L01-E04",
+      "knowledge_points": [
+        "paragraph-architecture",
+        "revision-criteria"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "填“不仅……而且还……”对应 také 前词。",
+      "stimulus_cs": "Sledujme nejen počet úkolů, ___ také jejich obtížnost.",
+      "answer": "ale",
+      "accepted_answers": [
+        "ale"
+      ],
+      "explanation_zh": "nejen… ale také。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "collocation",
+      "id": "B2-U12-L01-E05",
+      "knowledge_points": [
+        "paragraph-architecture",
+        "revision-criteria"
+      ]
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "将无依据全称改为有边界主张。",
+      "stimulus_cs": "Doma pracují všichni lépe.",
+      "answer": "Některým lidem může práce z domova vyhovovat lépe.",
+      "accepted_answers": [],
+      "explanation_zh": "缩小主体和确定程度，保留可能性。",
+      "scoring_basis": "开放改写：保留独立作答，按量规逐项自评或交教师评阅。示范句不是唯一答案，不以字符串相同与否自动判定正确。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U12-L01-E06",
+      "knowledge_points": [
+        "paragraph-architecture",
+        "revision-criteria"
+      ],
+      "rubric": [
+        "去掉所有人在家工作都更好的绝对结论",
+        "保留部分人可能更适合的有限判断",
+        "不用新数据或无依据事实支撑结论"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt_zh": "先承认异议，再回应。",
+      "stimulus_cs": "můžeme ji však podpořit jasnými pravidly. / Koordinace je náročnější,",
+      "options": [
+        "můžeme ji však podpořit jasnými pravidly.",
+        "Koordinace je náročnější,"
+      ],
+      "answer": "Koordinace je náročnější, můžeme ji však podpořit jasnými pravidly.",
+      "accepted_answers": [
+        "Koordinace je náročnější, můžeme ji však podpořit jasnými pravidly."
+      ],
+      "explanation_zh": "不是否定成本，而是提出应对。",
+      "scoring_basis": "本题限定句首及语境；不据一个参考语序否定捷语所有语序变体。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "word_order",
+      "id": "B2-U12-L01-E07",
+      "knowledge_points": [
+        "paragraph-architecture",
+        "revision-criteria"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "最优修改顺序？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "先换高级词"
+        },
+        {
+          "id": "b",
+          "text": "先逻辑范围，再句子指代语法，再拼写"
+        },
+        {
+          "id": "c",
+          "text": "只数词数"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "论证问题不能用润色遮盖。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U12-L01-E08",
+      "knowledge_points": [
+        "paragraph-architecture",
+        "revision-criteria"
+      ]
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "用两分钟讲文章主张和最强异议，随后给你自己的有条件立场。",
+      "stimulus_cs": "",
+      "answer": "Text navrhuje uspořádat práci podle úkolů a podmínek lidí. Nejsilnější námitkou je složitější koordinace. Souhlasím se zkušebním režimem, pokud tým stanoví společné bloky a způsob předávání rozhodnutí. Kdyby se noví kolegové nemohli zapojit, režim bych upravil.",
+      "accepted_answers": [],
+      "explanation_zh": "区分作者与自己的观点。",
+      "rubric": [
+        "概括准确",
+        "异议真实",
+        "自我立场有边界"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "error_category": "fluency",
+      "id": "B2-U12-L01-E09",
+      "knowledge_points": [
+        "paragraph-architecture",
+        "revision-criteria"
+      ]
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "写220–280捷语词：是否应所有成人课程提供线上参加？至少五段，含真实异议、回应、条件结论，保留初稿和修订。",
+      "stimulus_cs": "",
+      "answer": "Možnost účastnit se kurzu online může pomoci lidem, kteří by jinak kvůli vzdálenosti nebo směnám nepřišli. Neznamená to však, že každý kurz má být automaticky veden současně v místnosti i na internetu. Rozhodující je povaha činnosti a možnost skutečně se zapojit.\n\nU přednášky lze část obsahu přenášet poměrně snadno, zatímco při praktickém nácviku může vzdálený účastník ztratit důležité informace. Nestačí mu pouze ukázat kamerou tabuli. Potřebuje slyšet otázky ostatních a mít jasný způsob, jak sám reagovat. Pokud to není zajištěno, formální přístup ještě neznamená rovnocennou účast.\n\nProti širší nabídce online účasti lze namítnout, že lektor musí sledovat dvě skupiny a řešit technické problémy. Tato námitka je oprávněná. Náklady nemají být skryty v očekávání, že lektor zvládne všechno navíc bez přípravy. Organizátor by měl rozhodnout, zda zajistí podporu, menší skupinu, nebo oddělenou online lekci.\n\nZároveň by nebylo rozumné odmítnout vzdálenou účast všude jen proto, že některé činnosti vyžadují osobní přítomnost. Navrhuji nejprve rozdělit kurzy podle jejich cíle. U vhodných témat lze zavést zkušební provoz a sledovat, zda účastníci rozumějí, aktivně reagují a zvládají následné úkoly. Samotný počet připojení jako důkaz úspěchu nestačí.\n\nPodporuji tedy dostupnější výuku, nikoli povinný stejný technický režim pro všechny kurzy. Podmínkou má být jasná informace o omezeních a možnost upravit formu podle výsledků. Pokud vzdálení účastníci pouze pasivně sledují obraz bez možnosti procvičování, je třeba nabídku změnit, i kdyby počet přihlášek vypadal příznivě.",
+      "accepted_answers": [],
+      "explanation_zh": "完整示范论述；先独立写，再逐段比功能，不抄句子证明掌握。",
+      "rubric": [
+        "主张范围明确",
+        "至少一真实异议与回应",
+        "段落衔接与准确指代",
+        "条件结论",
+        "修改说明有依据"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U12-L01-E10",
+      "knowledge_points": [
+        "paragraph-architecture",
+        "revision-criteria"
+      ]
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "同伴认为加难词就能提高文章质量，请指出一个实质修改。",
+      "stimulus_cs": "",
+      "answer": "Slovní zásobu můžeme upravit později. Teď je důležitější, že závěr mluví o všech lidech, zatímco příklad popisuje jediného člověka. Navrhuji omezit tvrzení a doplnit odpověď na námitku koordinace.",
+      "accepted_answers": [],
+      "explanation_zh": "用文本问题而非贬低作者。",
+      "rubric": [
+        "具体问题",
+        "证据范围",
+        "可执行修改"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "error_category": "fluency",
+      "id": "B2-U12-L01-E11",
+      "knowledge_points": [
+        "paragraph-architecture",
+        "revision-criteria"
+      ]
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "用中文给不读捷语的人介绍文章两种环境的利弊和条件结论。",
+      "stimulus_cs": "",
+      "answer": "居家可省通勤和利专注，但家庭条件不均；办公室便于协作学习，但人在同楼不自动协作。建议按任务试行，明确共同时间和信息交接，用真实表现调整而不固守口号。",
+      "accepted_answers": [],
+      "explanation_zh": "压缩不等于删掉反对意见。",
+      "rubric": [
+        "两面平衡",
+        "核心异议",
+        "可修正结论"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U12-L01-E12",
+      "knowledge_points": [
+        "paragraph-architecture",
+        "revision-criteria"
+      ]
+    }
+  ],
+  "transfer_task": {
+    "prompt_zh": "给自己旧文做三轮修改记录：逻辑、句子、拼写，各举一个具体改动并说明原因。",
+    "model_answer_cs": "Původní tvrzení o všech účastnících jsem omezil na dotázanou skupinu. Nejasné zájmeno to jsem nahradil názvem problému. Nakonec jsem opravil shodu u slova děti.",
+    "rubric": [
+      "三层证据",
+      "不只换词",
+      "保留前后版本"
+    ]
+  },
+  "review_links": [
+    "B2-U11-L01"
+  ],
+  "sources": [
+    {
+      "source_id": "LANG01",
+      "url": "https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions",
+      "scope": "按实际能做的任务编排能力，不把CEFR说成官方捷语语法课表",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    },
+    {
+      "source_id": "LANG06",
+      "url": "https://www.czechency.org/slovnik/SLOVOSLED",
+      "scope": "语序的信息结构及附着词常见第二位置",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    },
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?id=620",
+      "scope": "动词与名词的格搭配、díky/kvůli的语用边界",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    },
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?id=600",
+      "scope": "主语与谓语的性数及有生性一致",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    }
+  ],
+  "content_status": "authored_crosschecked_not_native_reviewed",
+  "quality_notes": [
+    "原创课文和练习；规则按所列来源交叉核查，未获得捷语母语教师逐句审校。",
+    "本课级别属于教材编排判断，不代表官方能力认证。",
+    "听力为原创可合成脚本；真人多说话人、地区口音与录音自然度尚待现场核验。"
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "B2-U12-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--normal.mp3",
+      "slow_file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U12-L01--2026.10.23.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Debata o práci z domova často začíná otázkou, zda je lepší být doma, nebo v kanceláři. Takto položená otázka ale spojuje příliš mnoho rozdílných činností. Samostatné zpracování podkladů, zaučování nového kolegy a společné řešení nejasného problému vyžadují jiné podmínky. Smysluplnější je proto ptát se, pro kterou práci je které prostředí vhodné a jak se tým dozví, že zvolený režim skutečně funguje. Práce z domova může omezit dojíždění a vytvořit delší souvislý čas na soustředění. Tento přínos však není stejný pro každého. Člověk se samostatnou pracovnou má jiné možnosti než někdo, kdo sdílí malý byt s dalšími lidmi. Jestliže firma předpokládá, že všichni mají doma klid, přesouvá část nákladů a organizačních problémů na zaměstnance. Výhoda pro jednoho pracovníka tedy sama o sobě není dostatečným důkazem vhodnosti jednotného pravidla pro celý tým. Kancelář naopak usnadňuje některé neplánované konzultace a společné učení. Ani přítomnost na jednom místě však nezaručuje spolupráci. Pokud lidé celý den sedí na oddělených online schůzkách, může se z dojíždění stát náklad bez odpovídajícího přínosu. Argument pro kancelář je silnější tehdy, když popisuje konkrétní společnou činnost: přípravu návrhu, předání zkušeností nebo rychlé vyjasnění sporného bodu. Pouhý počet hodin strávených v budově takovou činnost nenahrazuje. Proti pružnému režimu lze namítnout, že zvyšuje nároky na koordinaci. Tato námitka je oprávněná: bez jasných pravidel se mohou kolegové míjet a důležité informace zůstanou v soukromých rozhovorech. Řešením ale nemusí být návrat ke stejnému rozvrhu pro všechny. Tým může určit společné bloky, způsob zaznamenávání rozhodnutí a očekávanou dostupnost. Pravidla musejí být dost konkrétní, aby pomáhala, a zároveň dost přehledná, aby se jejich správa nestala hlavní náplní práce. Navrhuji proto zkušební uspořádání podle typu úkolů a následné společné vyhodnocení. Nehodnoťme pouze počet dokončených položek, protože úkoly mají různou obtížnost. Sledujme také kvalitu předávání, schopnost zapojit nové kolegy a možnost soustředěné práce. Předem určeme, co by bylo důvodem režim změnit. Pokud zkušební období odhalí nerovné podmínky doma, musí tým nabídnout skutečnou alternativu, ne jen připomenout, že pružnost je pro zaměstnance údajně výhoda. Závěr tedy není, že práce z domova je vždy lepší, ani že kancelář patří minulosti. Tvrdím, že prostředí má sloužit konkrétní práci a že pravidla musejí zohlednit rozdílné situace lidí. Takové stanovisko je náročnější než jednoduchý slogan, protože vyžaduje průběžné ověřování. Právě tato možnost opravy je však jeho silnou stránkou: tým nemusí hájit jednou přijaté opatření, když se ukáže, že neplní původně stanovený účel.",
+      "duration_seconds": 240.780589569161,
+      "slow_duration_seconds": 272.2552380952381,
+      "sha256": "4ed27851f6764fa68931a7d9c88edc72cb5152c5f4639f3eea0698e01cf74596",
+      "slow_sha256": "98815b65af8818172cceda95535baa897c182cbc3989e7a63869a012e286bf30"
+    },
+    {
+      "lesson_id": "B2-U12-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--normal.mp3",
+      "slow_file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U12-L01--2026.10.23.1--text--p0",
+      "asset_id": "B2-U12-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Debata o práci z domova často začíná otázkou, zda je lepší být doma, nebo v kanceláři. Takto položená otázka ale spojuje příliš mnoho rozdílných činností. Samostatné zpracování podkladů, zaučování nového kolegy a společné řešení nejasného problému vyžadují jiné podmínky. Smysluplnější je proto ptát se, pro kterou práci je které prostředí vhodné a jak se tým dozví, že zvolený režim skutečně funguje.",
+      "start": 0,
+      "end": 35.126122448979594,
+      "slow_start": 0,
+      "slow_end": 39.71206349206349
+    },
+    {
+      "lesson_id": "B2-U12-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--normal.mp3",
+      "slow_file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U12-L01--2026.10.23.1--text--s0",
+      "asset_id": "B2-U12-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Debata o práci z domova často začíná otázkou, zda je lepší být doma, nebo v kanceláři.",
+      "start": 0,
+      "end": 7.662585034013605,
+      "slow_start": 0,
+      "slow_end": 8.93968253968254
+    },
+    {
+      "lesson_id": "B2-U12-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--normal.mp3",
+      "slow_file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U12-L01--2026.10.23.1--text--s1",
+      "asset_id": "B2-U12-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Takto položená otázka ale spojuje příliš mnoho rozdílných činností.",
+      "start": 7.842585034013606,
+      "end": 13.682403628117914,
+      "slow_start": 9.11968253968254,
+      "slow_end": 15.551609977324263
+    },
+    {
+      "lesson_id": "B2-U12-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--normal.mp3",
+      "slow_file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U12-L01--2026.10.23.1--text--s2",
+      "asset_id": "B2-U12-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Samostatné zpracování podkladů, zaučování nového kolegy a společné řešení nejasného problému vyžadují jiné podmínky.",
+      "start": 13.862403628117914,
+      "end": 24.160453514739228,
+      "slow_start": 15.731609977324263,
+      "slow_end": 27.271927437641722
+    },
+    {
+      "lesson_id": "B2-U12-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--normal.mp3",
+      "slow_file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U12-L01--2026.10.23.1--text--s3",
+      "asset_id": "B2-U12-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 3,
+      "paragraph_index": 0,
+      "sentence_index": 3,
+      "text": "Smysluplnější je proto ptát se, pro kterou práci je které prostředí vhodné a jak se tým dozví, že zvolený režim skutečně funguje.",
+      "start": 24.340453514739227,
+      "end": 35.126122448979594,
+      "slow_start": 27.451927437641725,
+      "slow_end": 39.71206349206349
+    },
+    {
+      "lesson_id": "B2-U12-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--normal.mp3",
+      "slow_file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U12-L01--2026.10.23.1--text--p1",
+      "asset_id": "B2-U12-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Práce z domova může omezit dojíždění a vytvořit delší souvislý čas na soustředění. Tento přínos však není stejný pro každého. Člověk se samostatnou pracovnou má jiné možnosti než někdo, kdo sdílí malý byt s dalšími lidmi. Jestliže firma předpokládá, že všichni mají doma klid, přesouvá část nákladů a organizačních problémů na zaměstnance. Výhoda pro jednoho pracovníka tedy sama o sobě není dostatečným důkazem vhodnosti jednotného pravidla pro celý tým.",
+      "start": 35.30612244897959,
+      "end": 75.31428571428572,
+      "slow_start": 39.89206349206349,
+      "slow_end": 85.56589569160998
+    },
+    {
+      "lesson_id": "B2-U12-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--normal.mp3",
+      "slow_file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U12-L01--2026.10.23.1--text--s4",
+      "asset_id": "B2-U12-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 4,
+      "paragraph_index": 1,
+      "sentence_index": 0,
+      "text": "Práce z domova může omezit dojíždění a vytvořit delší souvislý čas na soustředění.",
+      "start": 35.30612244897959,
+      "end": 42.643628117913835,
+      "slow_start": 39.89206349206349,
+      "slow_end": 48.437006802721086
+    },
+    {
+      "lesson_id": "B2-U12-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--normal.mp3",
+      "slow_file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U12-L01--2026.10.23.1--text--s5",
+      "asset_id": "B2-U12-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 5,
+      "paragraph_index": 1,
+      "sentence_index": 1,
+      "text": "Tento přínos však není stejný pro každého.",
+      "start": 42.823628117913835,
+      "end": 46.4459410430839,
+      "slow_start": 48.617006802721086,
+      "slow_end": 52.80820861678004
+    },
+    {
+      "lesson_id": "B2-U12-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--normal.mp3",
+      "slow_file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U12-L01--2026.10.23.1--text--s6",
+      "asset_id": "B2-U12-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 6,
+      "paragraph_index": 1,
+      "sentence_index": 2,
+      "text": "Člověk se samostatnou pracovnou má jiné možnosti než někdo, kdo sdílí malý byt s dalšími lidmi.",
+      "start": 46.6259410430839,
+      "end": 54.49750566893424,
+      "slow_start": 52.98820861678004,
+      "slow_end": 62.16009070294785
+    },
+    {
+      "lesson_id": "B2-U12-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--normal.mp3",
+      "slow_file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U12-L01--2026.10.23.1--text--s7",
+      "asset_id": "B2-U12-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 7,
+      "paragraph_index": 1,
+      "sentence_index": 3,
+      "text": "Jestliže firma předpokládá, že všichni mají doma klid, přesouvá část nákladů a organizačních problémů na zaměstnance.",
+      "start": 54.67750566893424,
+      "end": 65.04521541950113,
+      "slow_start": 62.34009070294785,
+      "slow_end": 73.98489795918367
+    },
+    {
+      "lesson_id": "B2-U12-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--normal.mp3",
+      "slow_file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U12-L01--2026.10.23.1--text--s8",
+      "asset_id": "B2-U12-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 8,
+      "paragraph_index": 1,
+      "sentence_index": 4,
+      "text": "Výhoda pro jednoho pracovníka tedy sama o sobě není dostatečným důkazem vhodnosti jednotného pravidla pro celý tým.",
+      "start": 65.22521541950114,
+      "end": 75.31428571428572,
+      "slow_start": 74.16489795918368,
+      "slow_end": 85.56589569160998
+    },
+    {
+      "lesson_id": "B2-U12-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--normal.mp3",
+      "slow_file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U12-L01--2026.10.23.1--text--p2",
+      "asset_id": "B2-U12-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Kancelář naopak usnadňuje některé neplánované konzultace a společné učení. Ani přítomnost na jednom místě však nezaručuje spolupráci. Pokud lidé celý den sedí na oddělených online schůzkách, může se z dojíždění stát náklad bez odpovídajícího přínosu. Argument pro kancelář je silnější tehdy, když popisuje konkrétní společnou činnost: přípravu návrhu, předání zkušeností nebo rychlé vyjasnění sporného bodu. Pouhý počet hodin strávených v budově takovou činnost nenahrazuje.",
+      "start": 75.49428571428571,
+      "end": 116.38480725623583,
+      "slow_start": 85.74589569160997,
+      "slow_end": 131.9073469387755
+    },
+    {
+      "lesson_id": "B2-U12-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--normal.mp3",
+      "slow_file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U12-L01--2026.10.23.1--text--s9",
+      "asset_id": "B2-U12-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 9,
+      "paragraph_index": 2,
+      "sentence_index": 0,
+      "text": "Kancelář naopak usnadňuje některé neplánované konzultace a společné učení.",
+      "start": 75.49428571428571,
+      "end": 81.90299319727892,
+      "slow_start": 85.74589569160997,
+      "slow_end": 93.00213151927437
+    },
+    {
+      "lesson_id": "B2-U12-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--normal.mp3",
+      "slow_file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U12-L01--2026.10.23.1--text--s10",
+      "asset_id": "B2-U12-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 10,
+      "paragraph_index": 2,
+      "sentence_index": 1,
+      "text": "Ani přítomnost na jednom místě však nezaručuje spolupráci.",
+      "start": 82.08299319727891,
+      "end": 87.34231292517006,
+      "slow_start": 93.18213151927438,
+      "slow_end": 98.99873015873015
+    },
+    {
+      "lesson_id": "B2-U12-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--normal.mp3",
+      "slow_file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U12-L01--2026.10.23.1--text--s11",
+      "asset_id": "B2-U12-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 11,
+      "paragraph_index": 2,
+      "sentence_index": 2,
+      "text": "Pokud lidé celý den sedí na oddělených online schůzkách, může se z dojíždění stát náklad bez odpovídajícího přínosu.",
+      "start": 87.52231292517007,
+      "end": 97.89002267573696,
+      "slow_start": 99.17873015873016,
+      "slow_end": 110.82353741496598
+    },
+    {
+      "lesson_id": "B2-U12-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--normal.mp3",
+      "slow_file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U12-L01--2026.10.23.1--text--s12",
+      "asset_id": "B2-U12-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 12,
+      "paragraph_index": 2,
+      "sentence_index": 3,
+      "text": "Argument pro kancelář je silnější tehdy, když popisuje konkrétní společnou činnost: přípravu návrhu, předání zkušeností nebo rychlé vyjasnění sporného bodu.",
+      "start": 98.07002267573696,
+      "end": 110.88743764172335,
+      "slow_start": 111.00353741496599,
+      "slow_end": 125.53922902494331
+    },
+    {
+      "lesson_id": "B2-U12-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--normal.mp3",
+      "slow_file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U12-L01--2026.10.23.1--text--s13",
+      "asset_id": "B2-U12-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 13,
+      "paragraph_index": 2,
+      "sentence_index": 4,
+      "text": "Pouhý počet hodin strávených v budově takovou činnost nenahrazuje.",
+      "start": 111.06743764172336,
+      "end": 116.38480725623583,
+      "slow_start": 125.71922902494332,
+      "slow_end": 131.9073469387755
+    },
+    {
+      "lesson_id": "B2-U12-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--normal.mp3",
+      "slow_file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U12-L01--2026.10.23.1--text--p3",
+      "asset_id": "B2-U12-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Proti pružnému režimu lze namítnout, že zvyšuje nároky na koordinaci. Tato námitka je oprávněná: bez jasných pravidel se mohou kolegové míjet a důležité informace zůstanou v soukromých rozhovorech. Řešením ale nemusí být návrat ke stejnému rozvrhu pro všechny. Tým může určit společné bloky, způsob zaznamenávání rozhodnutí a očekávanou dostupnost. Pravidla musejí být dost konkrétní, aby pomáhala, a zároveň dost přehledná, aby se jejich správa nestala hlavní náplní práce.",
+      "start": 116.56480725623582,
+      "end": 159.59156462585034,
+      "slow_start": 132.0873469387755,
+      "slow_end": 180.5824036281179
+    },
+    {
+      "lesson_id": "B2-U12-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--normal.mp3",
+      "slow_file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U12-L01--2026.10.23.1--text--s14",
+      "asset_id": "B2-U12-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 14,
+      "paragraph_index": 3,
+      "sentence_index": 0,
+      "text": "Proti pružnému režimu lze namítnout, že zvyšuje nároky na koordinaci.",
+      "start": 116.56480725623582,
+      "end": 123.15927437641723,
+      "slow_start": 132.0873469387755,
+      "slow_end": 139.47129251700682
+    },
+    {
+      "lesson_id": "B2-U12-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--normal.mp3",
+      "slow_file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U12-L01--2026.10.23.1--text--s15",
+      "asset_id": "B2-U12-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 15,
+      "paragraph_index": 3,
+      "sentence_index": 1,
+      "text": "Tato námitka je oprávněná: bez jasných pravidel se mohou kolegové míjet a důležité informace zůstanou v soukromých rozhovorech.",
+      "start": 123.33927437641724,
+      "end": 133.8695238095238,
+      "slow_start": 139.6512925170068,
+      "slow_end": 151.6792290249433
+    },
+    {
+      "lesson_id": "B2-U12-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--normal.mp3",
+      "slow_file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U12-L01--2026.10.23.1--text--s16",
+      "asset_id": "B2-U12-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 16,
+      "paragraph_index": 3,
+      "sentence_index": 2,
+      "text": "Řešením ale nemusí být návrat ke stejnému rozvrhu pro všechny.",
+      "start": 134.0495238095238,
+      "end": 139.50621315192743,
+      "slow_start": 151.85922902494332,
+      "slow_end": 157.96607709750566
+    },
+    {
+      "lesson_id": "B2-U12-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--normal.mp3",
+      "slow_file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U12-L01--2026.10.23.1--text--s17",
+      "asset_id": "B2-U12-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 17,
+      "paragraph_index": 3,
+      "sentence_index": 3,
+      "text": "Tým může určit společné bloky, způsob zaznamenávání rozhodnutí a očekávanou dostupnost.",
+      "start": 139.68621315192743,
+      "end": 148.21954648526076,
+      "slow_start": 158.14607709750567,
+      "slow_end": 167.8404081632653
+    },
+    {
+      "lesson_id": "B2-U12-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--normal.mp3",
+      "slow_file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U12-L01--2026.10.23.1--text--s18",
+      "asset_id": "B2-U12-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 18,
+      "paragraph_index": 3,
+      "sentence_index": 4,
+      "text": "Pravidla musejí být dost konkrétní, aby pomáhala, a zároveň dost přehledná, aby se jejich správa nestala hlavní náplní práce.",
+      "start": 148.39954648526077,
+      "end": 159.59156462585034,
+      "slow_start": 168.0204081632653,
+      "slow_end": 180.5824036281179
+    },
+    {
+      "lesson_id": "B2-U12-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--normal.mp3",
+      "slow_file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U12-L01--2026.10.23.1--text--p4",
+      "asset_id": "B2-U12-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 4,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Navrhuji proto zkušební uspořádání podle typu úkolů a následné společné vyhodnocení. Nehodnoťme pouze počet dokončených položek, protože úkoly mají různou obtížnost. Sledujme také kvalitu předávání, schopnost zapojit nové kolegy a možnost soustředěné práce. Předem určeme, co by bylo důvodem režim změnit. Pokud zkušební období odhalí nerovné podmínky doma, musí tým nabídnout skutečnou alternativu, ne jen připomenout, že pružnost je pro zaměstnance údajně výhoda.",
+      "start": 159.77156462585035,
+      "end": 202.07850340136054,
+      "slow_start": 180.7624036281179,
+      "slow_end": 228.42154195011338
+    },
+    {
+      "lesson_id": "B2-U12-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--normal.mp3",
+      "slow_file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U12-L01--2026.10.23.1--text--s19",
+      "asset_id": "B2-U12-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 19,
+      "paragraph_index": 4,
+      "sentence_index": 0,
+      "text": "Navrhuji proto zkušební uspořádání podle typu úkolů a následné společné vyhodnocení.",
+      "start": 159.77156462585035,
+      "end": 167.3180498866213,
+      "slow_start": 180.7624036281179,
+      "slow_end": 189.36539682539683
+    },
+    {
+      "lesson_id": "B2-U12-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--normal.mp3",
+      "slow_file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U12-L01--2026.10.23.1--text--s20",
+      "asset_id": "B2-U12-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 20,
+      "paragraph_index": 4,
+      "sentence_index": 1,
+      "text": "Nehodnoťme pouze počet dokončených položek, protože úkoly mají různou obtížnost.",
+      "start": 167.49804988662132,
+      "end": 174.66140589569162,
+      "slow_start": 189.54539682539684,
+      "slow_end": 197.80009070294784
+    },
+    {
+      "lesson_id": "B2-U12-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--normal.mp3",
+      "slow_file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U12-L01--2026.10.23.1--text--s21",
+      "asset_id": "B2-U12-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 21,
+      "paragraph_index": 4,
+      "sentence_index": 2,
+      "text": "Sledujme také kvalitu předávání, schopnost zapojit nové kolegy a možnost soustředěné práce.",
+      "start": 174.84140589569162,
+      "end": 183.78108843537416,
+      "slow_start": 197.98009070294785,
+      "slow_end": 207.8834013605442
+    },
+    {
+      "lesson_id": "B2-U12-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--normal.mp3",
+      "slow_file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U12-L01--2026.10.23.1--text--s22",
+      "asset_id": "B2-U12-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 22,
+      "paragraph_index": 4,
+      "sentence_index": 3,
+      "text": "Předem určeme, co by bylo důvodem režim změnit.",
+      "start": 183.96108843537414,
+      "end": 188.36126984126983,
+      "slow_start": 208.06340136054422,
+      "slow_end": 213.07891156462586
+    },
+    {
+      "lesson_id": "B2-U12-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--normal.mp3",
+      "slow_file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U12-L01--2026.10.23.1--text--s23",
+      "asset_id": "B2-U12-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 23,
+      "paragraph_index": 4,
+      "sentence_index": 4,
+      "text": "Pokud zkušební období odhalí nerovné podmínky doma, musí tým nabídnout skutečnou alternativu, ne jen připomenout, že pružnost je pro zaměstnance údajně výhoda.",
+      "start": 188.54126984126984,
+      "end": 202.07850340136054,
+      "slow_start": 213.25891156462586,
+      "slow_end": 228.42154195011338
+    },
+    {
+      "lesson_id": "B2-U12-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--normal.mp3",
+      "slow_file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U12-L01--2026.10.23.1--text--p5",
+      "asset_id": "B2-U12-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 5,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Závěr tedy není, že práce z domova je vždy lepší, ani že kancelář patří minulosti. Tvrdím, že prostředí má sloužit konkrétní práci a že pravidla musejí zohlednit rozdílné situace lidí. Takové stanovisko je náročnější než jednoduchý slogan, protože vyžaduje průběžné ověřování. Právě tato možnost opravy je však jeho silnou stránkou: tým nemusí hájit jednou přijaté opatření, když se ukáže, že neplní původně stanovený účel.",
+      "start": 202.25850340136054,
+      "end": 240.600589569161,
+      "slow_start": 228.6015419501134,
+      "slow_end": 272.0752380952381
+    },
+    {
+      "lesson_id": "B2-U12-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--normal.mp3",
+      "slow_file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U12-L01--2026.10.23.1--text--s24",
+      "asset_id": "B2-U12-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 24,
+      "paragraph_index": 5,
+      "sentence_index": 0,
+      "text": "Závěr tedy není, že práce z domova je vždy lepší, ani že kancelář patří minulosti.",
+      "start": 202.25850340136054,
+      "end": 210.01396825396824,
+      "slow_start": 228.6015419501134,
+      "slow_end": 237.22775510204082
+    },
+    {
+      "lesson_id": "B2-U12-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--normal.mp3",
+      "slow_file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U12-L01--2026.10.23.1--text--s25",
+      "asset_id": "B2-U12-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 25,
+      "paragraph_index": 5,
+      "sentence_index": 1,
+      "text": "Tvrdím, že prostředí má sloužit konkrétní práci a že pravidla musejí zohlednit rozdílné situace lidí.",
+      "start": 210.19396825396825,
+      "end": 219.2265306122449,
+      "slow_start": 237.40775510204082,
+      "slow_end": 247.8102947845805
+    },
+    {
+      "lesson_id": "B2-U12-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--normal.mp3",
+      "slow_file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U12-L01--2026.10.23.1--text--s26",
+      "asset_id": "B2-U12-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 26,
+      "paragraph_index": 5,
+      "sentence_index": 2,
+      "text": "Takové stanovisko je náročnější než jednoduchý slogan, protože vyžaduje průběžné ověřování.",
+      "start": 219.4065306122449,
+      "end": 226.87174603174603,
+      "slow_start": 247.9902947845805,
+      "slow_end": 256.7790476190476
+    },
+    {
+      "lesson_id": "B2-U12-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--normal.mp3",
+      "slow_file": "audio/files/B2-U12-L01--2026.10.22.1--text--a809c31f54--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U12-L01--2026.10.23.1--text--s27",
+      "asset_id": "B2-U12-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 27,
+      "paragraph_index": 5,
+      "sentence_index": 3,
+      "text": "Právě tato možnost opravy je však jeho silnou stránkou: tým nemusí hájit jednou přijaté opatření, když se ukáže, že neplní původně stanovený účel.",
+      "start": 227.05174603174603,
+      "end": 240.600589569161,
+      "slow_start": 256.9590476190476,
+      "slow_end": 272.0752380952381
+    },
+    {
+      "lesson_id": "B2-U12-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U12-L01--2026.10.22.1--listening--7ac9906030--normal.mp3",
+      "slow_file": "audio/files/B2-U12-L01--2026.10.22.1--listening--7ac9906030--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U12-L01--2026.10.23.1--listening",
+      "role": "listening-full",
+      "index": 0,
+      "text": "Editorka: Ve druhém odstavci tvrdíte, že doma pracují všichni lépe. Máte pro tak široký závěr podklady? Autor: Ne, vycházím jen ze své zkušenosti. Editorka: Pak buď doplňte relevantní důkaz, nebo tvrzení omezte. A ve čtvrtém odstavci skutečně odpovězte na problém koordinace; nestačí zopakovat, že pružnost je dobrá.",
+      "duration_seconds": 29.623083900226757,
+      "slow_duration_seconds": 33.57047619047619,
+      "sha256": "f7888f26a38542b898bc41089b6f51a58918815d9b51c8637efd1a8e1dd82198",
+      "slow_sha256": "0a143f931fc7853ac031f5d097a5a16e0cec24dce506f9d288ca9d5ccccf985a"
+    },
+    {
+      "lesson_id": "B2-U12-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U12-L01--2026.10.22.1--listening--7ac9906030--normal.mp3",
+      "slow_file": "audio/files/B2-U12-L01--2026.10.22.1--listening--7ac9906030--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U12-L01--2026.10.23.1--listening--p0",
+      "asset_id": "B2-U12-L01--2026.10.23.1--listening",
+      "role": "listening",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Editorka: Ve druhém odstavci tvrdíte, že doma pracují všichni lépe. Máte pro tak široký závěr podklady? Autor: Ne, vycházím jen ze své zkušenosti. Editorka: Pak buď doplňte relevantní důkaz, nebo tvrzení omezte. A ve čtvrtém odstavci skutečně odpovězte na problém koordinace; nestačí zopakovat, že pružnost je dobrá.",
+      "start": 0,
+      "end": 29.443083900226757,
+      "slow_start": 0,
+      "slow_end": 33.39047619047619
+    },
+    {
+      "lesson_id": "B2-U12-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U12-L01--2026.10.22.1--vocabulary--ebcd7a6621--normal.mp3",
+      "slow_file": "audio/files/B2-U12-L01--2026.10.22.1--vocabulary--ebcd7a6621--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U12-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary-full",
+      "index": 0,
+      "text": "Potřebuji souvislý čas na práci. Nový režim zvyšuje nároky na koordinaci. Slogan nenahrazuje pravidla. Opatření neplní svůj účel.",
+      "duration_seconds": 12.666666666666666,
+      "slow_duration_seconds": 14.025034013605442,
+      "sha256": "b727799f88bb646255e807bce2bad8da5fd38c5366c5df0be4f6d7559c53259a",
+      "slow_sha256": "d68469c40d3728952f31970642cfe83ed46d5a42c8ca5cb770cc2345c502a99b"
+    },
+    {
+      "lesson_id": "B2-U12-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U12-L01--2026.10.22.1--vocabulary--ebcd7a6621--normal.mp3",
+      "slow_file": "audio/files/B2-U12-L01--2026.10.22.1--vocabulary--ebcd7a6621--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U12-L01--2026.10.23.1--vocabulary--p0",
+      "asset_id": "B2-U12-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Potřebuji souvislý čas na práci.",
+      "start": 0,
+      "end": 2.809614512471655,
+      "slow_start": 0,
+      "slow_end": 3.1579138321995464
+    },
+    {
+      "lesson_id": "B2-U12-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U12-L01--2026.10.22.1--vocabulary--ebcd7a6621--normal.mp3",
+      "slow_file": "audio/files/B2-U12-L01--2026.10.22.1--vocabulary--ebcd7a6621--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U12-L01--2026.10.23.1--vocabulary--p1",
+      "asset_id": "B2-U12-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Nový režim zvyšuje nároky na koordinaci.",
+      "start": 2.9896145124716553,
+      "end": 6.786077097505669,
+      "slow_start": 3.3379138321995465,
+      "slow_end": 7.529115646258504
+    },
+    {
+      "lesson_id": "B2-U12-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U12-L01--2026.10.22.1--vocabulary--ebcd7a6621--normal.mp3",
+      "slow_file": "audio/files/B2-U12-L01--2026.10.22.1--vocabulary--ebcd7a6621--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U12-L01--2026.10.23.1--vocabulary--p2",
+      "asset_id": "B2-U12-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Slogan nenahrazuje pravidla.",
+      "start": 6.966077097505669,
+      "end": 9.276462585034013,
+      "slow_start": 7.709115646258503,
+      "slow_end": 10.286530612244897
+    },
+    {
+      "lesson_id": "B2-U12-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U12-L01--2026.10.22.1--vocabulary--ebcd7a6621--normal.mp3",
+      "slow_file": "audio/files/B2-U12-L01--2026.10.22.1--vocabulary--ebcd7a6621--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U12-L01--2026.10.23.1--vocabulary--p3",
+      "asset_id": "B2-U12-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Opatření neplní svůj účel.",
+      "start": 9.456462585034014,
+      "end": 12.486666666666666,
+      "slow_start": 10.466530612244897,
+      "slow_end": 13.845034013605442
+    },
+    {
+      "lesson_id": "B2-U12-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U12-L01--2026.10.22.1--exercises--6d2bd9180c--normal.mp3",
+      "slow_file": "audio/files/B2-U12-L01--2026.10.22.1--exercises--6d2bd9180c--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U12-L01--2026.10.23.1--exercises",
+      "role": "exercises-full",
+      "index": 0,
+      "text": "Autor: Vycházím jen ze své zkušenosti, nemám podklady pro všechny pracovníky.",
+      "duration_seconds": 7.447845804988662,
+      "slow_duration_seconds": 8.306984126984126,
+      "sha256": "c65a6907ad68e9085bb7fe90a66d86ec6c7295751d77e7fc6eb9b953e0dfd6a5",
+      "slow_sha256": "f02b9cb4b4f2a4e352baee9048d42f8d88e0d9df44a61405a40d6f972449e8d8"
+    },
+    {
+      "lesson_id": "B2-U12-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U12-L01--2026.10.22.1--exercises--6d2bd9180c--normal.mp3",
+      "slow_file": "audio/files/B2-U12-L01--2026.10.22.1--exercises--6d2bd9180c--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U12-L01--2026.10.23.1--exercises--p0",
+      "asset_id": "B2-U12-L01--2026.10.23.1--exercises",
+      "role": "exercise",
+      "index": 0,
+      "exercise_id": "B2-U12-L01-E03",
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Autor: Vycházím jen ze své zkušenosti, nemám podklady pro všechny pracovníky.",
+      "start": 0,
+      "end": 7.267845804988662,
+      "slow_start": 0,
+      "slow_end": 8.126984126984127
+    },
+    {
+      "lesson_id": "B2-U12-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U12-L01--2026.10.22.1--contrasts--51e89bad4f--normal.mp3",
+      "slow_file": "audio/files/B2-U12-L01--2026.10.22.1--contrasts--51e89bad4f--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U12-L01--2026.10.23.1--contrasts",
+      "role": "contrasts-full",
+      "index": 0,
+      "text": "všichni. někteří.",
+      "duration_seconds": 1.7705668934240364,
+      "slow_duration_seconds": 1.991156462585034,
+      "sha256": "d789047e3809098ea163423631ef25b4ea57f3fefbb239fae5bf984330c32746",
+      "slow_sha256": "552cd151c64b391f909648eae2579e6ef7d16fc6758ea0e5a95fa67f5db1c9d4"
+    },
+    {
+      "lesson_id": "B2-U12-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U12-L01--2026.10.22.1--contrasts--51e89bad4f--normal.mp3",
+      "slow_file": "audio/files/B2-U12-L01--2026.10.22.1--contrasts--51e89bad4f--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U12-L01--2026.10.23.1--contrasts--p0",
+      "asset_id": "B2-U12-L01--2026.10.23.1--contrasts",
+      "role": "contrast",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "všichni. někteří.",
+      "start": 0,
+      "end": 1.5905668934240362,
+      "slow_start": 0,
+      "slow_end": 1.811156462585034
+    }
+  ]
+}

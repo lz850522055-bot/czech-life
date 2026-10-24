@@ -1,0 +1,517 @@
+{
+  "id": "C1-FINAL--2026.10.22.1--text",
+  "lesson_id": "C1-FINAL",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Podklad A — zpráva koordinátorky: Spolek obyvatel otevřel na osm týdnů malou půjčovnu vybavení pro domácí práce a sousedské akce. Zaregistrovalo se dvacet tři domácností; evidence zachytila třicet pět výpůjček. Nejde o počet různých uživatelů, protože někteří si půjčili vícekrát. Nejčastěji se vydávaly skládací stoly a drobné nářadí. Zpráva neobsahuje součet dobrovolnických hodin ani srovnání s obdobím před otevřením. Koordinátorka považuje zájem za důvod k pokračování, připouští však, že dosavadní údaje neumožňují určit celkové náklady. Část práce se totiž dělala mimo zveřejněnou dobu a nezapisovala se.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Podklad A — zpráva koordinátorky: Spolek obyvatel otevřel na osm týdnů malou půjčovnu vybavení pro domácí práce a sousedské akce.",
+        "Zaregistrovalo se dvacet tři domácností; evidence zachytila třicet pět výpůjček.",
+        "Nejde o počet různých uživatelů, protože někteří si půjčili vícekrát.",
+        "Nejčastěji se vydávaly skládací stoly a drobné nářadí.",
+        "Zpráva neobsahuje součet dobrovolnických hodin ani srovnání s obdobím před otevřením.",
+        "Koordinátorka považuje zájem za důvod k pokračování, připouští však, že dosavadní údaje neumožňují určit celkové náklady.",
+        "Část práce se totiž dělala mimo zveřejněnou dobu a nezapisovala se."
+      ]
+    },
+    {
+      "text": "Ve zprávě stojí, že většina předání proběhla bez potíží. Přesný počet se však při kontrole nepodařilo doložit, neboť formulář zaznamenával hlavně samotné převzetí a vrácení. Prázdná kolonka tedy nemusí znamenat, že problém nenastal; mohl být vyřešen telefonicky. Před hlasováním chce výbor doplnit jednoduchý způsob evidence změn. Nemá vzniknout složitý systém, který dobrovolníkům přidá více práce než samotné půjčování. Má být alespoň zřejmé, co bylo domluveno, kdo změnu potvrdil a zda se informace dostala k člověku, jehož se týká. Rozsah této evidence dosud schválen nebyl.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Ve zprávě stojí, že většina předání proběhla bez potíží.",
+        "Přesný počet se však při kontrole nepodařilo doložit, neboť formulář zaznamenával hlavně samotné převzetí a vrácení.",
+        "Prázdná kolonka tedy nemusí znamenat, že problém nenastal; mohl být vyřešen telefonicky.",
+        "Před hlasováním chce výbor doplnit jednoduchý způsob evidence změn.",
+        "Nemá vzniknout složitý systém, který dobrovolníkům přidá více práce než samotné půjčování.",
+        "Má být alespoň zřejmé, co bylo domluveno, kdo změnu potvrdil a zda se informace dostala k člověku, jehož se týká.",
+        "Rozsah této evidence dosud schválen nebyl."
+      ]
+    },
+    {
+      "text": "Podklad B — dopis uživatelky: Půjčovnu bych nerada ztratila. Když jsem ale přišla v oznámenou hodinu, nikdo tam nebyl. Až od souseda jsem se dozvěděla, že se služba přesunula. Nečekám, že dobrovolník nikdy neonemocní nebo nezmění plán. Potřebuji vědět, kde najdu platnou informaci a komu mám napsat, když se dvě zprávy liší. Když jsem na problém upozornila, dostala jsem odpověď, že provoz stojí na dobré vůli. To chápu, ale dobrá vůle mi sama nepomůže rozhodnout, zda mám znovu odcházet z práce dříve.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Podklad B — dopis uživatelky: Půjčovnu bych nerada ztratila.",
+        "Když jsem ale přišla v oznámenou hodinu, nikdo tam nebyl.",
+        "Až od souseda jsem se dozvěděla, že se služba přesunula.",
+        "Nečekám, že dobrovolník nikdy neonemocní nebo nezmění plán.",
+        "Potřebuji vědět, kde najdu platnou informaci a komu mám napsat, když se dvě zprávy liší.",
+        "Když jsem na problém upozornila, dostala jsem odpověď, že provoz stojí na dobré vůli.",
+        "To chápu, ale dobrá vůle mi sama nepomůže rozhodnout, zda mám znovu odcházet z práce dříve."
+      ]
+    },
+    {
+      "text": "Autorka dopisu výslovně odmítla návrh označit její stížnost za požadavek placené služby. Nežádala okamžité zavedení poplatku ani náhradu svého času. Navrhla jednu společnou stránku s aktuálním rozpisem a možností potvrdit předání před cestou. Uznala, že ani takový postup nezabrání každé chybě. Její podmínkou dalšího využívání bylo, aby změna pravidel nezůstala pouze v zápisu ze schůze, ale objevila se i v pokynech pro návštěvníky. Výbor dosud neověřil, kolik uživatelů by se ke společné stránce skutečně dostalo bez pomoci jiného člověka.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Autorka dopisu výslovně odmítla návrh označit její stížnost za požadavek placené služby.",
+        "Nežádala okamžité zavedení poplatku ani náhradu svého času.",
+        "Navrhla jednu společnou stránku s aktuálním rozpisem a možností potvrdit předání před cestou.",
+        "Uznala, že ani takový postup nezabrání každé chybě.",
+        "Její podmínkou dalšího využívání bylo, aby změna pravidel nezůstala pouze v zápisu ze schůze, ale objevila se i v pokynech pro návštěvníky.",
+        "Výbor dosud neověřil, kolik uživatelů by se ke společné stránce skutečně dostalo bez pomoci jiného člověka."
+      ]
+    },
+    {
+      "text": "Podklad C — vyjádření správce vybavení: Prodloužení pokusu podpořím, pokud oddělíme půjčování od údržby. Předat čistý stůl není totéž jako zkontrolovat poškozené nářadí. Když píšeme, že provoz nic nestojí, zpravidla tím myslíme, že za něj zatím nikdo nedostal zaplaceno. Práce tím nezmizela. Nechci, aby každý člen musel dělat všechno, ani aby se lidé bez odborných znalostí cítili povinni posuzovat stav každé věci. Potřebujeme určit, kdo řeší běžné předání a koho kontaktovat, když se objeví problém, který přesahuje jeho možnosti. Samotná tabulka s termíny tento rozdíl nevyřeší.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Podklad C — vyjádření správce vybavení: Prodloužení pokusu podpořím, pokud oddělíme půjčování od údržby.",
+        "Předat čistý stůl není totéž jako zkontrolovat poškozené nářadí.",
+        "Když píšeme, že provoz nic nestojí, zpravidla tím myslíme, že za něj zatím nikdo nedostal zaplaceno.",
+        "Práce tím nezmizela.",
+        "Nechci, aby každý člen musel dělat všechno, ani aby se lidé bez odborných znalostí cítili povinni posuzovat stav každé věci.",
+        "Potřebujeme určit, kdo řeší běžné předání a koho kontaktovat, když se objeví problém, který přesahuje jeho možnosti.",
+        "Samotná tabulka s termíny tento rozdíl nevyřeší."
+      ]
+    },
+    {
+      "text": "Na závěrečné schůzi zazněl ještě návrh umožnit členům samoobslužný vstup. Někteří jej pokládali za způsob, jak uvolnit dobrovolníky, jiní se obávali, že se odpovědnost pouze přesune na méně viditelné místo. Návrh neměl popsaný postup při neúplném vrácení ani dohodnuté podmínky přístupu. Výbor proto nerozhodl o jeho zavedení. Požádal o srovnání dvou konkrétních variant: pravidelné služby a půjčování po předchozí dohodě. Každá má uvést potřebný čas, zodpovědné osoby, způsob změny termínu a situace, v nichž nebude služba dostupná. Teprve poté se má jednat o dalším období, nikoli automaticky pokračovat podle dosavadního rozpisu.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Na závěrečné schůzi zazněl ještě návrh umožnit členům samoobslužný vstup.",
+        "Někteří jej pokládali za způsob, jak uvolnit dobrovolníky, jiní se obávali, že se odpovědnost pouze přesune na méně viditelné místo.",
+        "Návrh neměl popsaný postup při neúplném vrácení ani dohodnuté podmínky přístupu.",
+        "Výbor proto nerozhodl o jeho zavedení.",
+        "Požádal o srovnání dvou konkrétních variant: pravidelné služby a půjčování po předchozí dohodě.",
+        "Každá má uvést potřebný čas, zodpovědné osoby, způsob změny termínu a situace, v nichž nebude služba dostupná.",
+        "Teprve poté se má jednat o dalším období, nikoli automaticky pokračovat podle dosavadního rozpisu."
+      ]
+    }
+  ],
+  "text_sha256": "e704892d09119e0eb11fd1c4efcd9abd2c9d2141ebd492e4e9010655ae60cb32",
+  "source_file": "content/assessments/C1-FINAL.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-FINAL--2026.10.22.1--text--e704892d09--normal.mp3",
+  "slow_file": "content/audio/files/C1-FINAL--2026.10.22.1--text--e704892d09--slow.mp3",
+  "duration_seconds": 313.4886621315193,
+  "slow_duration_seconds": 354.62281179138324,
+  "cues": [
+    {
+      "text": "Podklad A — zpráva koordinátorky: Spolek obyvatel otevřel na osm týdnů malou půjčovnu vybavení pro domácí práce a sousedské akce. Zaregistrovalo se dvacet tři domácností; evidence zachytila třicet pět výpůjček. Nejde o počet různých uživatelů, protože někteří si půjčili vícekrát. Nejčastěji se vydávaly skládací stoly a drobné nářadí. Zpráva neobsahuje součet dobrovolnických hodin ani srovnání s obdobím před otevřením. Koordinátorka považuje zájem za důvod k pokračování, připouští však, že dosavadní údaje neumožňují určit celkové náklady. Část práce se totiž dělala mimo zveřejněnou dobu a nezapisovala se.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Podklad A — zpráva koordinátorky: Spolek obyvatel otevřel na osm týdnů malou půjčovnu vybavení pro domácí práce a sousedské akce.",
+        "Zaregistrovalo se dvacet tři domácností; evidence zachytila třicet pět výpůjček.",
+        "Nejde o počet různých uživatelů, protože někteří si půjčili vícekrát.",
+        "Nejčastěji se vydávaly skládací stoly a drobné nářadí.",
+        "Zpráva neobsahuje součet dobrovolnických hodin ani srovnání s obdobím před otevřením.",
+        "Koordinátorka považuje zájem za důvod k pokračování, připouští však, že dosavadní údaje neumožňují určit celkové náklady.",
+        "Část práce se totiž dělala mimo zveřejněnou dobu a nezapisovala se."
+      ],
+      "start": 0.0,
+      "end": 56.343492063492064,
+      "sentences": [
+        {
+          "text": "Podklad A — zpráva koordinátorky: Spolek obyvatel otevřel na osm týdnů malou půjčovnu vybavení pro domácí práce a sousedské akce.",
+          "start": 0.0,
+          "end": 12.49233560090703,
+          "slow_start": 0.0,
+          "slow_end": 14.013242630385488
+        },
+        {
+          "text": "Zaregistrovalo se dvacet tři domácností; evidence zachytila třicet pět výpůjček.",
+          "start": 12.67233560090703,
+          "end": 19.916961451247165,
+          "slow_start": 14.193242630385488,
+          "slow_end": 22.146077097505668
+        },
+        {
+          "text": "Nejde o počet různých uživatelů, protože někteří si půjčili vícekrát.",
+          "start": 20.096961451247164,
+          "end": 26.238639455782312,
+          "slow_start": 22.326077097505667,
+          "slow_end": 29.257233560090704
+        },
+        {
+          "text": "Nejčastěji se vydávaly skládací stoly a drobné nářadí.",
+          "start": 26.418639455782312,
+          "end": 31.19034013605442,
+          "slow_start": 29.437233560090704,
+          "slow_end": 34.801043083900225
+        },
+        {
+          "text": "Zpráva neobsahuje součet dobrovolnických hodin ani srovnání s obdobím před otevřením.",
+          "start": 31.370340136054423,
+          "end": 38.92843537414966,
+          "slow_start": 34.981043083900225,
+          "slow_end": 43.409886621315195
+        },
+        {
+          "text": "Koordinátorka považuje zájem za důvod k pokračování, připouští však, že dosavadní údaje neumožňují určit celkové náklady.",
+          "start": 39.10843537414966,
+          "end": 50.207573696145126,
+          "slow_start": 43.589886621315195,
+          "slow_end": 56.31442176870748
+        },
+        {
+          "text": "Část práce se totiž dělala mimo zveřejněnou dobu a nezapisovala se.",
+          "start": 50.387573696145125,
+          "end": 56.343492063492064,
+          "slow_start": 56.49442176870748,
+          "slow_end": 63.33269841269841
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 63.33269841269841
+    },
+    {
+      "text": "Ve zprávě stojí, že většina předání proběhla bez potíží. Přesný počet se však při kontrole nepodařilo doložit, neboť formulář zaznamenával hlavně samotné převzetí a vrácení. Prázdná kolonka tedy nemusí znamenat, že problém nenastal; mohl být vyřešen telefonicky. Před hlasováním chce výbor doplnit jednoduchý způsob evidence změn. Nemá vzniknout složitý systém, který dobrovolníkům přidá více práce než samotné půjčování. Má být alespoň zřejmé, co bylo domluveno, kdo změnu potvrdil a zda se informace dostala k člověku, jehož se týká. Rozsah této evidence dosud schválen nebyl.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Ve zprávě stojí, že většina předání proběhla bez potíží.",
+        "Přesný počet se však při kontrole nepodařilo doložit, neboť formulář zaznamenával hlavně samotné převzetí a vrácení.",
+        "Prázdná kolonka tedy nemusí znamenat, že problém nenastal; mohl být vyřešen telefonicky.",
+        "Před hlasováním chce výbor doplnit jednoduchý způsob evidence změn.",
+        "Nemá vzniknout složitý systém, který dobrovolníkům přidá více práce než samotné půjčování.",
+        "Má být alespoň zřejmé, co bylo domluveno, kdo změnu potvrdil a zda se informace dostala k člověku, jehož se týká.",
+        "Rozsah této evidence dosud schválen nebyl."
+      ],
+      "start": 56.523492063492064,
+      "end": 107.75859410430839,
+      "sentences": [
+        {
+          "text": "Ve zprávě stojí, že většina předání proběhla bez potíží.",
+          "start": 56.523492063492064,
+          "end": 61.562222222222225,
+          "slow_start": 63.51269841269841,
+          "slow_end": 69.16675736961452
+        },
+        {
+          "text": "Přesný počet se však při kontrole nepodařilo doložit, neboť formulář zaznamenával hlavně samotné převzetí a vrácení.",
+          "start": 61.742222222222225,
+          "end": 71.45977324263039,
+          "slow_start": 69.34675736961451,
+          "slow_end": 80.51555555555555
+        },
+        {
+          "text": "Prázdná kolonka tedy nemusí znamenat, že problém nenastal; mohl být vyřešen telefonicky.",
+          "start": 71.63977324263038,
+          "end": 79.43006802721088,
+          "slow_start": 80.69555555555556,
+          "slow_end": 89.542358276644
+        },
+        {
+          "text": "Před hlasováním chce výbor doplnit jednoduchý způsob evidence změn.",
+          "start": 79.61006802721089,
+          "end": 85.43827664399093,
+          "slow_start": 89.72235827664399,
+          "slow_end": 96.11945578231293
+        },
+        {
+          "text": "Nemá vzniknout složitý systém, který dobrovolníkům přidá více práce než samotné půjčování.",
+          "start": 85.61827664399092,
+          "end": 93.58272108843538,
+          "slow_start": 96.29945578231292,
+          "slow_end": 105.0998185941043
+        },
+        {
+          "text": "Má být alespoň zřejmé, co bylo domluveno, kdo změnu potvrdil a zda se informace dostala k člověku, jehož se týká.",
+          "start": 93.76272108843537,
+          "end": 103.72408163265307,
+          "slow_start": 105.27981859410431,
+          "slow_end": 116.54149659863945
+        },
+        {
+          "text": "Rozsah této evidence dosud schválen nebyl.",
+          "start": 103.90408163265306,
+          "end": 107.75859410430839,
+          "slow_start": 116.72149659863946,
+          "slow_end": 121.07523809523809
+        }
+      ],
+      "slow_start": 63.51269841269841,
+      "slow_end": 121.07523809523809
+    },
+    {
+      "text": "Podklad B — dopis uživatelky: Půjčovnu bych nerada ztratila. Když jsem ale přišla v oznámenou hodinu, nikdo tam nebyl. Až od souseda jsem se dozvěděla, že se služba přesunula. Nečekám, že dobrovolník nikdy neonemocní nebo nezmění plán. Potřebuji vědět, kde najdu platnou informaci a komu mám napsat, když se dvě zprávy liší. Když jsem na problém upozornila, dostala jsem odpověď, že provoz stojí na dobré vůli. To chápu, ale dobrá vůle mi sama nepomůže rozhodnout, zda mám znovu odcházet z práce dříve.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Podklad B — dopis uživatelky: Půjčovnu bych nerada ztratila.",
+        "Když jsem ale přišla v oznámenou hodinu, nikdo tam nebyl.",
+        "Až od souseda jsem se dozvěděla, že se služba přesunula.",
+        "Nečekám, že dobrovolník nikdy neonemocní nebo nezmění plán.",
+        "Potřebuji vědět, kde najdu platnou informaci a komu mám napsat, když se dvě zprávy liší.",
+        "Když jsem na problém upozornila, dostala jsem odpověď, že provoz stojí na dobré vůli.",
+        "To chápu, ale dobrá vůle mi sama nepomůže rozhodnout, zda mám znovu odcházet z práce dříve."
+      ],
+      "start": 107.9385941043084,
+      "end": 153.19455782312926,
+      "sentences": [
+        {
+          "text": "Podklad B — dopis uživatelky: Půjčovnu bych nerada ztratila.",
+          "start": 107.9385941043084,
+          "end": 113.32562358276644,
+          "slow_start": 121.2552380952381,
+          "slow_end": 127.66394557823129
+        },
+        {
+          "text": "Když jsem ale přišla v oznámenou hodinu, nikdo tam nebyl.",
+          "start": 113.50562358276645,
+          "end": 118.83460317460317,
+          "slow_start": 127.8439455782313,
+          "slow_end": 133.79986394557824
+        },
+        {
+          "text": "Až od souseda jsem se dozvěděla, že se služba přesunula.",
+          "start": 119.01460317460318,
+          "end": 123.80952380952381,
+          "slow_start": 133.97986394557824,
+          "slow_end": 139.39011337868482
+        },
+        {
+          "text": "Nečekám, že dobrovolník nikdy neonemocní nebo nezmění plán.",
+          "start": 123.9895238095238,
+          "end": 129.43460317460318,
+          "slow_start": 139.5701133786848,
+          "slow_end": 145.7001814058957
+        },
+        {
+          "text": "Potřebuji vědět, kde najdu platnou informaci a komu mám napsat, když se dvě zprávy liší.",
+          "start": 129.61460317460316,
+          "end": 137.10303854875283,
+          "slow_start": 145.88018140589568,
+          "slow_end": 154.28580498866214
+        },
+        {
+          "text": "Když jsem na problém upozornila, dostala jsem odpověď, že provoz stojí na dobré vůli.",
+          "start": 137.28303854875284,
+          "end": 144.69020408163266,
+          "slow_start": 154.46580498866214,
+          "slow_end": 162.8365986394558
+        },
+        {
+          "text": "To chápu, ale dobrá vůle mi sama nepomůže rozhodnout, zda mám znovu odcházet z práce dříve.",
+          "start": 144.87020408163266,
+          "end": 153.19455782312926,
+          "slow_start": 163.0165986394558,
+          "slow_end": 172.45551020408163
+        }
+      ],
+      "slow_start": 121.2552380952381,
+      "slow_end": 172.45551020408163
+    },
+    {
+      "text": "Autorka dopisu výslovně odmítla návrh označit její stížnost za požadavek placené služby. Nežádala okamžité zavedení poplatku ani náhradu svého času. Navrhla jednu společnou stránku s aktuálním rozpisem a možností potvrdit předání před cestou. Uznala, že ani takový postup nezabrání každé chybě. Její podmínkou dalšího využívání bylo, aby změna pravidel nezůstala pouze v zápisu ze schůze, ale objevila se i v pokynech pro návštěvníky. Výbor dosud neověřil, kolik uživatelů by se ke společné stránce skutečně dostalo bez pomoci jiného člověka.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Autorka dopisu výslovně odmítla návrh označit její stížnost za požadavek placené služby.",
+        "Nežádala okamžité zavedení poplatku ani náhradu svého času.",
+        "Navrhla jednu společnou stránku s aktuálním rozpisem a možností potvrdit předání před cestou.",
+        "Uznala, že ani takový postup nezabrání každé chybě.",
+        "Její podmínkou dalšího využívání bylo, aby změna pravidel nezůstala pouze v zápisu ze schůze, ale objevila se i v pokynech pro návštěvníky.",
+        "Výbor dosud neověřil, kolik uživatelů by se ke společné stránce skutečně dostalo bez pomoci jiného člověka."
+      ],
+      "start": 153.37455782312927,
+      "end": 203.00163265306122,
+      "sentences": [
+        {
+          "text": "Autorka dopisu výslovně odmítla návrh označit její stížnost za požadavek placené služby.",
+          "start": 153.37455782312927,
+          "end": 161.66408163265305,
+          "slow_start": 172.63551020408164,
+          "slow_end": 182.10925170068026
+        },
+        {
+          "text": "Nežádala okamžité zavedení poplatku ani náhradu svého času.",
+          "start": 161.84408163265306,
+          "end": 167.358820861678,
+          "slow_start": 182.28925170068027,
+          "slow_end": 188.65151927437643
+        },
+        {
+          "text": "Navrhla jednu společnou stránku s aktuálním rozpisem a možností potvrdit předání před cestou.",
+          "start": 167.538820861678,
+          "end": 175.8631746031746,
+          "slow_start": 188.8315192743764,
+          "slow_end": 198.34009070294783
+        },
+        {
+          "text": "Uznala, že ani takový postup nezabrání každé chybě.",
+          "start": 176.0431746031746,
+          "end": 180.50140589569162,
+          "slow_start": 198.52009070294784,
+          "slow_end": 203.62848072562358
+        },
+        {
+          "text": "Její podmínkou dalšího využívání bylo, aby změna pravidel nezůstala pouze v zápisu ze schůze, ale objevila se i v pokynech pro návštěvníky.",
+          "start": 180.6814058956916,
+          "end": 193.5917006802721,
+          "slow_start": 203.80848072562358,
+          "slow_end": 218.70408163265307
+        },
+        {
+          "text": "Výbor dosud neověřil, kolik uživatelů by se ke společné stránce skutečně dostalo bez pomoci jiného člověka.",
+          "start": 193.77170068027212,
+          "end": 203.00163265306122,
+          "slow_start": 218.88408163265305,
+          "slow_end": 229.54204081632653
+        }
+      ],
+      "slow_start": 172.63551020408164,
+      "slow_end": 229.54204081632653
+    },
+    {
+      "text": "Podklad C — vyjádření správce vybavení: Prodloužení pokusu podpořím, pokud oddělíme půjčování od údržby. Předat čistý stůl není totéž jako zkontrolovat poškozené nářadí. Když píšeme, že provoz nic nestojí, zpravidla tím myslíme, že za něj zatím nikdo nedostal zaplaceno. Práce tím nezmizela. Nechci, aby každý člen musel dělat všechno, ani aby se lidé bez odborných znalostí cítili povinni posuzovat stav každé věci. Potřebujeme určit, kdo řeší běžné předání a koho kontaktovat, když se objeví problém, který přesahuje jeho možnosti. Samotná tabulka s termíny tento rozdíl nevyřeší.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Podklad C — vyjádření správce vybavení: Prodloužení pokusu podpořím, pokud oddělíme půjčování od údržby.",
+        "Předat čistý stůl není totéž jako zkontrolovat poškozené nářadí.",
+        "Když píšeme, že provoz nic nestojí, zpravidla tím myslíme, že za něj zatím nikdo nedostal zaplaceno.",
+        "Práce tím nezmizela.",
+        "Nechci, aby každý člen musel dělat všechno, ani aby se lidé bez odborných znalostí cítili povinni posuzovat stav každé věci.",
+        "Potřebujeme určit, kdo řeší běžné předání a koho kontaktovat, když se objeví problém, který přesahuje jeho možnosti.",
+        "Samotná tabulka s termíny tento rozdíl nevyřeší."
+      ],
+      "start": 203.18163265306123,
+      "end": 256.05374149659866,
+      "sentences": [
+        {
+          "text": "Podklad C — vyjádření správce vybavení: Prodloužení pokusu podpořím, pokud oddělíme půjčování od údržby.",
+          "start": 203.18163265306123,
+          "end": 213.29392290249433,
+          "slow_start": 229.72204081632654,
+          "slow_end": 241.1694784580499
+        },
+        {
+          "text": "Předat čistý stůl není totéž jako zkontrolovat poškozené nářadí.",
+          "start": 213.47392290249434,
+          "end": 219.56916099773244,
+          "slow_start": 241.34947845804987,
+          "slow_end": 248.43156462585034
+        },
+        {
+          "text": "Když píšeme, že provoz nic nestojí, zpravidla tím myslíme, že za něj zatím nikdo nedostal zaplaceno.",
+          "start": 219.74916099773242,
+          "end": 228.6191836734694,
+          "slow_start": 248.61156462585035,
+          "slow_end": 258.5148752834467
+        },
+        {
+          "text": "Práce tím nezmizela.",
+          "start": 228.7991836734694,
+          "end": 230.68,
+          "slow_start": 258.6948752834467,
+          "slow_end": 260.9356009070295
+        },
+        {
+          "text": "Nechci, aby každý člen musel dělat všechno, ani aby se lidé bez odborných znalostí cítili povinni posuzovat stav každé věci.",
+          "start": 230.86,
+          "end": 242.01718820861677,
+          "slow_start": 261.1156009070295,
+          "slow_end": 273.9562358276644
+        },
+        {
+          "text": "Potřebujeme určit, kdo řeší běžné předání a koho kontaktovat, když se objeví problém, který přesahuje jeho možnosti.",
+          "start": 242.19718820861678,
+          "end": 251.58965986394557,
+          "slow_start": 274.1362358276644,
+          "slow_end": 285.107664399093
+        },
+        {
+          "text": "Samotná tabulka s termíny tento rozdíl nevyřeší.",
+          "start": 251.76965986394558,
+          "end": 256.05374149659866,
+          "slow_start": 285.287664399093,
+          "slow_end": 290.11741496598637
+        }
+      ],
+      "slow_start": 229.72204081632654,
+      "slow_end": 290.11741496598637
+    },
+    {
+      "text": "Na závěrečné schůzi zazněl ještě návrh umožnit členům samoobslužný vstup. Někteří jej pokládali za způsob, jak uvolnit dobrovolníky, jiní se obávali, že se odpovědnost pouze přesune na méně viditelné místo. Návrh neměl popsaný postup při neúplném vrácení ani dohodnuté podmínky přístupu. Výbor proto nerozhodl o jeho zavedení. Požádal o srovnání dvou konkrétních variant: pravidelné služby a půjčování po předchozí dohodě. Každá má uvést potřebný čas, zodpovědné osoby, způsob změny termínu a situace, v nichž nebude služba dostupná. Teprve poté se má jednat o dalším období, nikoli automaticky pokračovat podle dosavadního rozpisu.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Na závěrečné schůzi zazněl ještě návrh umožnit členům samoobslužný vstup.",
+        "Někteří jej pokládali za způsob, jak uvolnit dobrovolníky, jiní se obávali, že se odpovědnost pouze přesune na méně viditelné místo.",
+        "Návrh neměl popsaný postup při neúplném vrácení ani dohodnuté podmínky přístupu.",
+        "Výbor proto nerozhodl o jeho zavedení.",
+        "Požádal o srovnání dvou konkrétních variant: pravidelné služby a půjčování po předchozí dohodě.",
+        "Každá má uvést potřebný čas, zodpovědné osoby, způsob změny termínu a situace, v nichž nebude služba dostupná.",
+        "Teprve poté se má jednat o dalším období, nikoli automaticky pokračovat podle dosavadního rozpisu."
+      ],
+      "start": 256.2337414965986,
+      "end": 313.30866213151927,
+      "sentences": [
+        {
+          "text": "Na závěrečné schůzi zazněl ještě návrh umožnit členům samoobslužný vstup.",
+          "start": 256.2337414965986,
+          "end": 262.82820861678005,
+          "slow_start": 290.2974149659864,
+          "slow_end": 297.9019501133787
+        },
+        {
+          "text": "Někteří jej pokládali za způsob, jak uvolnit dobrovolníky, jiní se obávali, že se odpovědnost pouze přesune na méně viditelné místo.",
+          "start": 263.00820861678005,
+          "end": 274.6878458049887,
+          "slow_start": 298.0819501133787,
+          "slow_end": 311.1780045351474
+        },
+        {
+          "text": "Návrh neměl popsaný postup při neúplném vrácení ani dohodnuté podmínky přístupu.",
+          "start": 274.8678458049887,
+          "end": 281.9499319727891,
+          "slow_start": 311.3580045351474,
+          "slow_end": 319.24117913832197
+        },
+        {
+          "text": "Výbor proto nerozhodl o jeho zavedení.",
+          "start": 282.1299319727891,
+          "end": 285.4039455782313,
+          "slow_start": 319.421179138322,
+          "slow_end": 323.05510204081634
+        },
+        {
+          "text": "Požádal o srovnání dvou konkrétních variant: pravidelné služby a půjčování po předchozí dohodě.",
+          "start": 285.5839455782313,
+          "end": 293.3858503401361,
+          "slow_start": 323.23510204081634,
+          "slow_end": 332.17478458049885
+        },
+        {
+          "text": "Každá má uvést potřebný čas, zodpovědné osoby, způsob změny termínu a situace, v nichž nebude služba dostupná.",
+          "start": 293.5658503401361,
+          "end": 304.56049886621315,
+          "slow_start": 332.35478458049886,
+          "slow_end": 344.67297052154197
+        },
+        {
+          "text": "Teprve poté se má jednat o dalším období, nikoli automaticky pokračovat podle dosavadního rozpisu.",
+          "start": 304.74049886621316,
+          "end": 313.30866213151927,
+          "slow_start": 344.852970521542,
+          "slow_end": 354.44281179138324
+        }
+      ],
+      "slow_start": 290.2974149659864,
+      "slow_end": 354.44281179138324
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "9401899586299f0d18a7aefe6833b44fb67a823d5a26ae44f278a811a66032b7",
+    "slow": "6bc5e4d9fd800b03eef0aece0e69e4a6ab1dd1a78e6fd0062ad51901b2abf13e"
+  }
+}

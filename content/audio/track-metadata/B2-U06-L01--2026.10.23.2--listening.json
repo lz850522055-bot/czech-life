@@ -1,0 +1,114 @@
+{
+  "id": "B2-U06-L01--2026.10.23.2--listening",
+  "lesson_id": "B2-U06-L01",
+  "content_version": "2026.10.23.2",
+  "level": "B2",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Eva: V pátek tedy film promítneme? Martin: Pokud projde dnešní zkouška. Místnost máme, techniku ještě ne. Lenka: A zkouška je ve čtyři? Martin: Spíš v půl páté, ještě to potvrdím. Eva: Dobře, připravím i program bez filmu. Lenka: Já počkám na výsledek a večer napíšu hostům.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Eva: V pátek tedy film promítneme?",
+        "Martin: Pokud projde dnešní zkouška.",
+        "Místnost máme, techniku ještě ne.",
+        "Lenka: A zkouška je ve čtyři?",
+        "Martin: Spíš v půl páté, ještě to potvrdím.",
+        "Eva: Dobře, připravím i program bez filmu.",
+        "Lenka: Já počkám na výsledek a večer napíšu hostům."
+      ]
+    }
+  ],
+  "text_sha256": "d306d5853dbf2f1809b4e9398c4b81029e0899861b7cd38ec308d1b113a79126",
+  "source_file": "content/lessons/B2/B2-U06-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U06-L01--2026.10.22.1--listening--d306d5853d--normal.mp3",
+  "slow_file": "content/audio/files/B2-U06-L01--2026.10.22.1--listening--d306d5853d--slow.mp3",
+  "duration_seconds": 26.035691609977324,
+  "slow_duration_seconds": 29.425804988662133,
+  "cues": [
+    {
+      "text": "Eva: V pátek tedy film promítneme? Martin: Pokud projde dnešní zkouška. Místnost máme, techniku ještě ne. Lenka: A zkouška je ve čtyři? Martin: Spíš v půl páté, ještě to potvrdím. Eva: Dobře, připravím i program bez filmu. Lenka: Já počkám na výsledek a večer napíšu hostům.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Eva: V pátek tedy film promítneme?",
+        "Martin: Pokud projde dnešní zkouška.",
+        "Místnost máme, techniku ještě ne.",
+        "Lenka: A zkouška je ve čtyři?",
+        "Martin: Spíš v půl páté, ještě to potvrdím.",
+        "Eva: Dobře, připravím i program bez filmu.",
+        "Lenka: Já počkám na výsledek a večer napíšu hostům."
+      ],
+      "start": 0.0,
+      "end": 25.855691609977324,
+      "sentences": [
+        {
+          "text": "Eva: V pátek tedy film promítneme?",
+          "start": 0.0,
+          "end": 3.1346938775510202,
+          "slow_start": 0.0,
+          "slow_end": 3.5294331065759637
+        },
+        {
+          "text": "Martin: Pokud projde dnešní zkouška.",
+          "start": 3.3146938775510204,
+          "end": 6.681587301587301,
+          "slow_start": 3.709433106575964,
+          "slow_end": 7.540725623582767
+        },
+        {
+          "text": "Místnost máme, techniku ještě ne.",
+          "start": 6.861587301587302,
+          "end": 9.83374149659864,
+          "slow_start": 7.720725623582767,
+          "slow_end": 11.064399092970522
+        },
+        {
+          "text": "Lenka: A zkouška je ve čtyři?",
+          "start": 10.013741496598639,
+          "end": 12.49827664399093,
+          "slow_start": 11.244399092970522,
+          "slow_end": 14.100453514739229
+        },
+        {
+          "text": "Martin: Spíš v půl páté, ještě to potvrdím.",
+          "start": 12.67827664399093,
+          "end": 16.77659863945578,
+          "slow_start": 14.280453514739229,
+          "slow_end": 18.99410430839002
+        },
+        {
+          "text": "Eva: Dobře, připravím i program bez filmu.",
+          "start": 16.956598639455784,
+          "end": 20.555691609977323,
+          "slow_start": 19.174104308390024,
+          "slow_end": 23.21437641723356
+        },
+        {
+          "text": "Lenka: Já počkám na výsledek a večer napíšu hostům.",
+          "start": 20.735691609977323,
+          "end": 25.855691609977324,
+          "slow_start": 23.39437641723356,
+          "slow_end": 29.245804988662133
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 29.245804988662133
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "45c29892c41f29bb1d86d00cff86e0ec8dcfbf7d38a4db3ca68ff8c6722921de",
+    "slow": "aac8a9adab66f149efd369ccab6f29dfae7ad3044d2d1ed3e46a1827066a6e65"
+  },
+  "reused_from_track_id": "B2-U06-L01--2026.10.23.1--listening",
+  "reused_at": "2026-10-22T20:54:51.190131+00:00",
+  "reuse_reason": "Exact normalized units/text_sha256 match; both original MP3 hashes verified. No speech synthesis in this revision."
+}

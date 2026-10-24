@@ -1,0 +1,202 @@
+{
+  "id": "A1-U03-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "A1-U03-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A1",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Co děláte?",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Co děláte?"
+      ]
+    },
+    {
+      "text": "Pracuju doma.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Pracuju doma."
+      ]
+    },
+    {
+      "text": "Čtu zprávu.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Čtu zprávu."
+      ]
+    },
+    {
+      "text": "Piju vodu.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Piju vodu."
+      ]
+    },
+    {
+      "text": "Učím se česky.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Učím se česky."
+      ]
+    },
+    {
+      "text": "Pracujeme spolu.",
+      "index": 5,
+      "role": "vocabulary",
+      "parts": [
+        "Pracujeme spolu."
+      ]
+    }
+  ],
+  "text_sha256": "c8b34206995548fba55607d3b2f336925f51a4a845a741d6c9a13348c55ea39e",
+  "source_file": "content/lessons/A1/A1-U03-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U03-L01--2026.10.22.1--vocabulary--c8b3420699--normal.mp3",
+  "slow_file": "content/audio/files/A1-U03-L01--2026.10.22.1--vocabulary--c8b3420699--slow.mp3",
+  "duration_seconds": 8.545215419501133,
+  "slow_duration_seconds": 9.578503401360544,
+  "cues": [
+    {
+      "text": "Co děláte?",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Co děláte?"
+      ],
+      "start": 0.0,
+      "end": 1.1493877551020408,
+      "sentences": [
+        {
+          "text": "Co děláte?",
+          "start": 0.0,
+          "end": 1.1493877551020408,
+          "slow_start": 0.0,
+          "slow_end": 1.2654875283446712
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.2654875283446712
+    },
+    {
+      "text": "Pracuju doma.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Pracuju doma."
+      ],
+      "start": 1.3293877551020408,
+      "end": 2.478775510204082,
+      "sentences": [
+        {
+          "text": "Pracuju doma.",
+          "start": 1.3293877551020408,
+          "end": 2.478775510204082,
+          "slow_start": 1.445487528344671,
+          "slow_end": 2.873514739229025
+        }
+      ],
+      "slow_start": 1.445487528344671,
+      "slow_end": 2.873514739229025
+    },
+    {
+      "text": "Čtu zprávu.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Čtu zprávu."
+      ],
+      "start": 2.6587755102040815,
+      "end": 3.8546031746031746,
+      "sentences": [
+        {
+          "text": "Čtu zprávu.",
+          "start": 2.6587755102040815,
+          "end": 3.8546031746031746,
+          "slow_start": 3.053514739229025,
+          "slow_end": 4.423492063492064
+        }
+      ],
+      "slow_start": 3.053514739229025,
+      "slow_end": 4.423492063492064
+    },
+    {
+      "text": "Piju vodu.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Piju vodu."
+      ],
+      "start": 4.034603174603174,
+      "end": 4.963401360544218,
+      "sentences": [
+        {
+          "text": "Piju vodu.",
+          "start": 4.034603174603174,
+          "end": 4.963401360544218,
+          "slow_start": 4.603492063492063,
+          "slow_end": 5.601950113378685
+        }
+      ],
+      "slow_start": 4.603492063492063,
+      "slow_end": 5.601950113378685
+    },
+    {
+      "text": "Učím se česky.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Učím se česky."
+      ],
+      "start": 5.1434013605442175,
+      "end": 6.710748299319728,
+      "sentences": [
+        {
+          "text": "Učím se česky.",
+          "start": 5.1434013605442175,
+          "end": 6.710748299319728,
+          "slow_start": 5.781950113378684,
+          "slow_end": 7.581496598639456
+        }
+      ],
+      "slow_start": 5.781950113378684,
+      "slow_end": 7.581496598639456
+    },
+    {
+      "text": "Pracujeme spolu.",
+      "index": 5,
+      "role": "vocabulary",
+      "parts": [
+        "Pracujeme spolu."
+      ],
+      "start": 6.8907482993197275,
+      "end": 8.365215419501133,
+      "sentences": [
+        {
+          "text": "Pracujeme spolu.",
+          "start": 6.8907482993197275,
+          "end": 8.365215419501133,
+          "slow_start": 7.7614965986394555,
+          "slow_end": 9.398503401360545
+        }
+      ],
+      "slow_start": 7.7614965986394555,
+      "slow_end": 9.398503401360545
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "06bb04f7bcaa1acc75d516fefd8a72016263eb8663baea673306e890972a079d",
+    "slow": "8491f999b518ce5ed2283955409b95cafb425c9f3b0bfad519144a455baef44c"
+  }
+}

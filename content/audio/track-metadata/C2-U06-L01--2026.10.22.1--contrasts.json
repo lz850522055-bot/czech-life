@@ -1,0 +1,66 @@
+{
+  "id": "C2-U06-L01--2026.10.22.1--contrasts",
+  "lesson_id": "C2-U06-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C2",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "To jsem neřekl.. To jsem neřekl já..",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "To jsem neřekl..",
+        "To jsem neřekl já.."
+      ]
+    }
+  ],
+  "text_sha256": "03ae7c1898e5ceac01cd8cc5ef67238b7a63158c5224c043715f0f60c56857a3",
+  "source_file": "content/lessons/C2/C2-U06-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U06-L01--2026.10.22.1--contrasts--03ae7c1898--normal.mp3",
+  "slow_file": "content/audio/files/C2-U06-L01--2026.10.22.1--contrasts--03ae7c1898--slow.mp3",
+  "duration_seconds": 4.0055328798185945,
+  "slow_duration_seconds": 5.073650793650794,
+  "cues": [
+    {
+      "text": "To jsem neřekl.. To jsem neřekl já..",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "To jsem neřekl..",
+        "To jsem neřekl já.."
+      ],
+      "start": 0.0,
+      "end": 3.825532879818594,
+      "sentences": [
+        {
+          "text": "To jsem neřekl..",
+          "start": 0.0,
+          "end": 1.4396371882086167,
+          "slow_start": 0.0,
+          "slow_end": 2.1710657596371883
+        },
+        {
+          "text": "To jsem neřekl já..",
+          "start": 1.6196371882086167,
+          "end": 3.825532879818594,
+          "slow_start": 2.351065759637188,
+          "slow_end": 4.893650793650794
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 4.893650793650794
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "755634a2cae3b8a856a725173f1fada2954abfb626937c57f85dde9bc39e441b",
+    "slow": "674c344951f792c4e8deb66e949a7d3585450134194932dc57b6d857ca2e5bf5"
+  }
+}

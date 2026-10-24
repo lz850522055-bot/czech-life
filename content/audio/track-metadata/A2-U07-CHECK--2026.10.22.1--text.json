@@ -1,0 +1,75 @@
+{
+  "id": "A2-U07-CHECK--2026.10.22.1--text",
+  "lesson_id": "A2-U07-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Prohlídku můžeme přesunout na pondělí v patnáct hodin. Nájem nezahrnuje elektřinu. Podmínky pošleme e-mailem.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Prohlídku můžeme přesunout na pondělí v patnáct hodin.",
+        "Nájem nezahrnuje elektřinu.",
+        "Podmínky pošleme e-mailem."
+      ]
+    }
+  ],
+  "text_sha256": "59c2d3add731dfde32e7916009cc37b59f499d18e462a30ae03a718c5c3cbf09",
+  "source_file": "content/assessments/A2-U07.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U07-CHECK--2026.10.22.1--text--59c2d3add7--normal.mp3",
+  "slow_file": "content/audio/files/A2-U07-CHECK--2026.10.22.1--text--59c2d3add7--slow.mp3",
+  "duration_seconds": 9.851201814058957,
+  "slow_duration_seconds": 11.035419501133786,
+  "cues": [
+    {
+      "text": "Prohlídku můžeme přesunout na pondělí v patnáct hodin. Nájem nezahrnuje elektřinu. Podmínky pošleme e-mailem.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Prohlídku můžeme přesunout na pondělí v patnáct hodin.",
+        "Nájem nezahrnuje elektřinu.",
+        "Podmínky pošleme e-mailem."
+      ],
+      "start": 0.0,
+      "end": 9.671201814058957,
+      "sentences": [
+        {
+          "text": "Prohlídku můžeme přesunout na pondělí v patnáct hodin.",
+          "start": 0.0,
+          "end": 4.73687074829932,
+          "slow_start": 0.0,
+          "slow_end": 5.270929705215419
+        },
+        {
+          "text": "Nájem nezahrnuje elektřinu.",
+          "start": 4.91687074829932,
+          "end": 7.238866213151927,
+          "slow_start": 5.45092970521542,
+          "slow_end": 8.01673469387755
+        },
+        {
+          "text": "Podmínky pošleme e-mailem.",
+          "start": 7.418866213151928,
+          "end": 9.671201814058957,
+          "slow_start": 8.19673469387755,
+          "slow_end": 10.855419501133786
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 10.855419501133786
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "c597c17d3af3f065da3c673e94334987b114c4394203cd1bc7f762d122963a18",
+    "slow": "18b57295eac65aff7c94609fd3e83de227d08466be79f07fba404dbf76f905c8"
+  }
+}

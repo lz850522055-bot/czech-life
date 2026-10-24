@@ -1,0 +1,261 @@
+{
+  "unseen_text": [
+    {
+      "cs": "Klára: Odjezd platí na osmou? Jan: Autobus ano, ale sraz je o půl hodiny dřív. Tedy v půl osmé, ne v sedm. Eva: Já pošlu zprávu, jakmile potvrdíme nástupiště. To ještě neznáme.",
+      "zh": "克拉拉问八点走吗，扬说车八点、集合早半小时，即七点半不是七点。伊娃等站台确认后发消息，站台未知。",
+      "note_zh": ""
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "集合最终时间？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "七点"
+        },
+        {
+          "id": "b",
+          "text": "七点半"
+        },
+        {
+          "id": "c",
+          "text": "八点半"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "自我修正后为 půl osmé。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U06-CHECK-E01",
+      "knowledge_points": [
+        "discourse-repair",
+        "connected-speech"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "填待定信息的名词。",
+      "stimulus_cs": "Zatím neznáme ___.",
+      "answer": "nástupiště",
+      "accepted_answers": [
+        "nástupiště"
+      ],
+      "explanation_zh": "站台未知，不编编号。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U06-CHECK-E02",
+      "knowledge_points": [
+        "discourse-repair",
+        "connected-speech"
+      ]
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "写准确中文提醒，区分集合和出发。",
+      "stimulus_cs": "",
+      "answer": "七点半集合，公交八点出发；站台还没确认，伊娃确认后再发通知。",
+      "accepted_answers": [],
+      "explanation_zh": "不把原错误七点传播。",
+      "rubric": [
+        "两时间",
+        "未知站台",
+        "负责人"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U06-CHECK-E03",
+      "knowledge_points": [
+        "discourse-repair",
+        "connected-speech"
+      ]
+    }
+  ],
+  "id": "B2-U06-CHECK",
+  "kind": "unit",
+  "level": "B2",
+  "unit_id": "B2-U06",
+  "title_zh": "自然速度多说话人理解：换场景检验",
+  "version": "2026.10.22.1",
+  "rubric": [
+    "关键信息准确且没有添加原文没有的信息",
+    "能使用本单元规律完成新情境",
+    "输出能让对方采取下一步行动"
+  ],
+  "remediation": [
+    {
+      "condition_zh": "理解遗漏或把推测说成事实",
+      "lesson_ids": [
+        "B2-U06-L01"
+      ],
+      "action_zh": "对照逐段译文，重新提取人物、限制和下一步。"
+    },
+    {
+      "condition_zh": "表达需要提示或形式反复出错",
+      "lesson_ids": [
+        "B2-U06-L01"
+      ],
+      "action_zh": "复看规律卡后更换人物、时间与限制条件，延后独立重做。"
+    }
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "B2-U06-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U06-CHECK--2026.10.22.1--text--664d526c96--normal.mp3",
+      "slow_file": "audio/files/B2-U06-CHECK--2026.10.22.1--text--664d526c96--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U06-CHECK--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Klára: Odjezd platí na osmou? Jan: Autobus ano, ale sraz je o půl hodiny dřív. Tedy v půl osmé, ne v sedm. Eva: Já pošlu zprávu, jakmile potvrdíme nástupiště. To ještě neznáme.",
+      "duration_seconds": 17.223628117913833,
+      "slow_duration_seconds": 19.243764172335602,
+      "sha256": "d189620ce6428f8d9417619277be9dd335787fc713fe25d3073370a984b5c376",
+      "slow_sha256": "79b0df6ff2dd098895d3b4f45a51abf43daebf4c8df4bd4a42c52a613661e85c"
+    },
+    {
+      "lesson_id": "B2-U06-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U06-CHECK--2026.10.22.1--text--664d526c96--normal.mp3",
+      "slow_file": "audio/files/B2-U06-CHECK--2026.10.22.1--text--664d526c96--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U06-CHECK--2026.10.22.1--text--p0",
+      "asset_id": "B2-U06-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Klára: Odjezd platí na osmou? Jan: Autobus ano, ale sraz je o půl hodiny dřív. Tedy v půl osmé, ne v sedm. Eva: Já pošlu zprávu, jakmile potvrdíme nástupiště. To ještě neznáme.",
+      "start": 0,
+      "end": 17.043628117913833,
+      "slow_start": 0,
+      "slow_end": 19.063764172335603
+    },
+    {
+      "lesson_id": "B2-U06-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U06-CHECK--2026.10.22.1--text--664d526c96--normal.mp3",
+      "slow_file": "audio/files/B2-U06-CHECK--2026.10.22.1--text--664d526c96--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U06-CHECK--2026.10.22.1--text--s0",
+      "asset_id": "B2-U06-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Klára: Odjezd platí na osmou?",
+      "start": 0,
+      "end": 2.670294784580499,
+      "slow_start": 0,
+      "slow_end": 2.948934240362812
+    },
+    {
+      "lesson_id": "B2-U06-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U06-CHECK--2026.10.22.1--text--664d526c96--normal.mp3",
+      "slow_file": "audio/files/B2-U06-CHECK--2026.10.22.1--text--664d526c96--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U06-CHECK--2026.10.22.1--text--s1",
+      "asset_id": "B2-U06-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Jan: Autobus ano, ale sraz je o půl hodiny dřív.",
+      "start": 2.8502947845804987,
+      "end": 7.575555555555556,
+      "slow_start": 3.128934240362812,
+      "slow_end": 8.562403628117913
+    },
+    {
+      "lesson_id": "B2-U06-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U06-CHECK--2026.10.22.1--text--664d526c96--normal.mp3",
+      "slow_file": "audio/files/B2-U06-CHECK--2026.10.22.1--text--664d526c96--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U06-CHECK--2026.10.22.1--text--s2",
+      "asset_id": "B2-U06-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Tedy v půl osmé, ne v sedm.",
+      "start": 7.7555555555555555,
+      "end": 10.309750566893424,
+      "slow_start": 8.742403628117914,
+      "slow_end": 11.63328798185941
+    },
+    {
+      "lesson_id": "B2-U06-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U06-CHECK--2026.10.22.1--text--664d526c96--normal.mp3",
+      "slow_file": "audio/files/B2-U06-CHECK--2026.10.22.1--text--664d526c96--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U06-CHECK--2026.10.22.1--text--s3",
+      "asset_id": "B2-U06-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 3,
+      "paragraph_index": 0,
+      "sentence_index": 3,
+      "text": "Eva: Já pošlu zprávu, jakmile potvrdíme nástupiště.",
+      "start": 10.489750566893424,
+      "end": 15.482040816326531,
+      "slow_start": 11.81328798185941,
+      "slow_end": 17.339637188208616
+    },
+    {
+      "lesson_id": "B2-U06-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U06-CHECK--2026.10.22.1--text--664d526c96--normal.mp3",
+      "slow_file": "audio/files/B2-U06-CHECK--2026.10.22.1--text--664d526c96--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U06-CHECK--2026.10.22.1--text--s4",
+      "asset_id": "B2-U06-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 4,
+      "paragraph_index": 0,
+      "sentence_index": 4,
+      "text": "To ještě neznáme.",
+      "start": 15.662040816326531,
+      "end": 17.043628117913833,
+      "slow_start": 17.519637188208616,
+      "slow_end": 19.063764172335603
+    }
+  ]
+}

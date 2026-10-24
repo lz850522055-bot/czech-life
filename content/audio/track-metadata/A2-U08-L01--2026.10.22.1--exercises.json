@@ -1,0 +1,59 @@
+{
+  "id": "A2-U08-L01--2026.10.22.1--exercises",
+  "lesson_id": "A2-U08-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Přijdu ve dvě, ne ve tři.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "A2-U08-L01-E01",
+      "parts": [
+        "Přijdu ve dvě, ne ve tři."
+      ]
+    }
+  ],
+  "text_sha256": "117417643e34891cfd6a502ca5eb0bdc49c2d82c5424544cd44f5c4b0a8fc031",
+  "source_file": "content/lessons/A2/A2-U08-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U08-L01--2026.10.22.1--exercises--117417643e--normal.mp3",
+  "slow_file": "content/audio/files/A2-U08-L01--2026.10.22.1--exercises--117417643e--slow.mp3",
+  "duration_seconds": 2.3046258503401362,
+  "slow_duration_seconds": 2.560045351473923,
+  "cues": [
+    {
+      "text": "Přijdu ve dvě, ne ve tři.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "A2-U08-L01-E01",
+      "parts": [
+        "Přijdu ve dvě, ne ve tři."
+      ],
+      "start": 0.0,
+      "end": 2.124625850340136,
+      "sentences": [
+        {
+          "text": "Přijdu ve dvě, ne ve tři.",
+          "start": 0.0,
+          "end": 2.124625850340136,
+          "slow_start": 0.0,
+          "slow_end": 2.380045351473923
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.380045351473923
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "5f693d702025c0a4e5ed54f82730d266dd1e610925a15428c1f631fdfd42a8cf",
+    "slow": "9518c6f87cb333e81f594bfe0619d0ff6e438b24389735affa3f133fdd7069b5"
+  }
+}

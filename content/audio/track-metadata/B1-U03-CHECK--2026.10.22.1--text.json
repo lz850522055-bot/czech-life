@@ -1,0 +1,75 @@
+{
+  "id": "B1-U03-CHECK--2026.10.22.1--text",
+  "lesson_id": "B1-U03-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Marek do práce obvykle jezdí na kole. Dnes však jde pěšky, protože kolo nechal v servisu. Zítra si pro něj pojede autobusem a domů už pojede na kole.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Marek do práce obvykle jezdí na kole.",
+        "Dnes však jde pěšky, protože kolo nechal v servisu.",
+        "Zítra si pro něj pojede autobusem a domů už pojede na kole."
+      ]
+    }
+  ],
+  "text_sha256": "984884df2b58b78219c5a84add9d5f91f5b6ba697e5a83d4cecc77e0a7d7263f",
+  "source_file": "content/assessments/B1-U03.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U03-CHECK--2026.10.22.1--text--984884df2b--normal.mp3",
+  "slow_file": "content/audio/files/B1-U03-CHECK--2026.10.22.1--text--984884df2b--slow.mp3",
+  "duration_seconds": 13.043945578231293,
+  "slow_duration_seconds": 14.553242630385487,
+  "cues": [
+    {
+      "text": "Marek do práce obvykle jezdí na kole. Dnes však jde pěšky, protože kolo nechal v servisu. Zítra si pro něj pojede autobusem a domů už pojede na kole.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Marek do práce obvykle jezdí na kole.",
+        "Dnes však jde pěšky, protože kolo nechal v servisu.",
+        "Zítra si pro něj pojede autobusem a domů už pojede na kole."
+      ],
+      "start": 0.0,
+      "end": 12.863945578231293,
+      "sentences": [
+        {
+          "text": "Marek do práce obvykle jezdí na kole.",
+          "start": 0.0,
+          "end": 3.2043537414965986,
+          "slow_start": 0.0,
+          "slow_end": 3.610702947845805
+        },
+        {
+          "text": "Dnes však jde pěšky, protože kolo nechal v servisu.",
+          "start": 3.3843537414965987,
+          "end": 7.703265306122449,
+          "slow_start": 3.790702947845805,
+          "slow_end": 8.643673469387755
+        },
+        {
+          "text": "Zítra si pro něj pojede autobusem a domů už pojede na kole.",
+          "start": 7.883265306122449,
+          "end": 12.863945578231293,
+          "slow_start": 8.823673469387755,
+          "slow_end": 14.373242630385487
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 14.373242630385487
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "33660e6b0e5db4a277807acfe38286fa0cb61e0340d8584ea282e7c2677fff5f",
+    "slow": "ba8486f037d6bdf06bfa80b904e55cf0fe944d537aeb6e77154609b771c37c23"
+  }
+}

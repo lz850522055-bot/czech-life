@@ -1,0 +1,90 @@
+{
+  "id": "Pre-A1-FINAL--2026.10.22.1--exercises",
+  "lesson_id": "Pre-A1-FINAL",
+  "content_version": "2026.10.22.1",
+  "level": "Pre-A1",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Čtyři čaje, prosím.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "Pre-A1-FINAL-E01",
+      "parts": [
+        "Čtyři čaje, prosím."
+      ]
+    },
+    {
+      "text": "pás",
+      "index": 1,
+      "role": "exercise",
+      "exercise_id": "Pre-A1-FINAL-E02",
+      "parts": [
+        "pás"
+      ]
+    }
+  ],
+  "text_sha256": "1ffc8414ee01936a928754e7193aacbb5acca49b36870cc5d99e18385123c73c",
+  "source_file": "content/assessments/Pre-A1-FINAL.json",
+  "status": "generated",
+  "file": "content/audio/files/Pre-A1-FINAL--2026.10.22.1--exercises--1ffc8414ee--normal.mp3",
+  "slow_file": "content/audio/files/Pre-A1-FINAL--2026.10.22.1--exercises--1ffc8414ee--slow.mp3",
+  "duration_seconds": 3.0070748299319727,
+  "slow_duration_seconds": 3.2276643990929705,
+  "cues": [
+    {
+      "text": "Čtyři čaje, prosím.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "Pre-A1-FINAL-E01",
+      "parts": [
+        "Čtyři čaje, prosím."
+      ],
+      "start": 0.0,
+      "end": 1.9853061224489796,
+      "sentences": [
+        {
+          "text": "Čtyři čaje, prosím.",
+          "start": 0.0,
+          "end": 1.9853061224489796,
+          "slow_start": 0.0,
+          "slow_end": 2.124625850340136
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.124625850340136
+    },
+    {
+      "text": "pás",
+      "index": 1,
+      "role": "exercise",
+      "exercise_id": "Pre-A1-FINAL-E02",
+      "parts": [
+        "pás"
+      ],
+      "start": 2.1653061224489796,
+      "end": 2.827074829931973,
+      "sentences": [
+        {
+          "text": "pás",
+          "start": 2.1653061224489796,
+          "end": 2.827074829931973,
+          "slow_start": 2.3046258503401362,
+          "slow_end": 3.0476643990929704
+        }
+      ],
+      "slow_start": 2.3046258503401362,
+      "slow_end": 3.0476643990929704
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "f513e13ab1d0e63aaed2e4a2f703443cd0322c8046d6256d63779a65f717db4d",
+    "slow": "d9a5c7d838211b58d4f859b8d4406cff3a02685c16ad0c01a0fcd4f65d5a1c86"
+  }
+}

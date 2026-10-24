@@ -1,0 +1,145 @@
+{
+  "id": "B2-U09-L01--2026.10.23.1--vocabulary",
+  "lesson_id": "B2-U09-L01",
+  "content_version": "2026.10.23.1",
+  "level": "B2",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Hodinová sazba není celková cena.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Hodinová sazba není celková cena."
+      ]
+    },
+    {
+      "text": "Pošlete cenu včetně úklidu.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Pošlete cenu včetně úklidu."
+      ]
+    },
+    {
+      "text": "Porovnáme využitelný čas.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Porovnáme využitelný čas."
+      ]
+    },
+    {
+      "text": "Studio zůstává alternativou.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Studio zůstává alternativou."
+      ]
+    }
+  ],
+  "text_sha256": "2ab53efc83589d0aac7f481cbb1cb62d9097af79605e0f85ea4a082d87f98cef",
+  "source_file": "content/lessons/B2/B2-U09-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U09-L01--2026.10.22.1--vocabulary--2ab53efc83--normal.mp3",
+  "slow_file": "content/audio/files/B2-U09-L01--2026.10.22.1--vocabulary--2ab53efc83--slow.mp3",
+  "duration_seconds": 11.668208616780046,
+  "slow_duration_seconds": 13.235555555555555,
+  "cues": [
+    {
+      "text": "Hodinová sazba není celková cena.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Hodinová sazba není celková cena."
+      ],
+      "start": 0.0,
+      "end": 3.297233560090703,
+      "sentences": [
+        {
+          "text": "Hodinová sazba není celková cena.",
+          "start": 0.0,
+          "end": 3.297233560090703,
+          "slow_start": 0.0,
+          "slow_end": 3.7500226757369615
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 3.7500226757369615
+    },
+    {
+      "text": "Pošlete cenu včetně úklidu.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Pošlete cenu včetně úklidu."
+      ],
+      "start": 3.477233560090703,
+      "end": 5.892108843537415,
+      "sentences": [
+        {
+          "text": "Pošlete cenu včetně úklidu.",
+          "start": 3.477233560090703,
+          "end": 5.892108843537415,
+          "slow_start": 3.9300226757369616,
+          "slow_end": 6.7280272108843535
+        }
+      ],
+      "slow_start": 3.9300226757369616,
+      "slow_end": 6.7280272108843535
+    },
+    {
+      "text": "Porovnáme využitelný čas.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Porovnáme využitelný čas."
+      ],
+      "start": 6.072108843537415,
+      "end": 8.672743764172335,
+      "sentences": [
+        {
+          "text": "Porovnáme využitelný čas.",
+          "start": 6.072108843537415,
+          "end": 8.672743764172335,
+          "slow_start": 6.908027210884354,
+          "slow_end": 9.868571428571428
+        }
+      ],
+      "slow_start": 6.908027210884354,
+      "slow_end": 9.868571428571428
+    },
+    {
+      "text": "Studio zůstává alternativou.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Studio zůstává alternativou."
+      ],
+      "start": 8.852743764172336,
+      "end": 11.488208616780046,
+      "sentences": [
+        {
+          "text": "Studio zůstává alternativou.",
+          "start": 8.852743764172336,
+          "end": 11.488208616780046,
+          "slow_start": 10.048571428571428,
+          "slow_end": 13.055555555555555
+        }
+      ],
+      "slow_start": 10.048571428571428,
+      "slow_end": 13.055555555555555
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "edc44d8b2db9f2de2e80867a9bf07e0addb3792f30a9b0e86b817681f2ea84e8",
+    "slow": "104932707ea27045e1ac6c1fc3bee0a572e5ef8bedc69629505fb9ab80d64945"
+  },
+  "reused_from_track_id": "B2-U09-L01--2026.10.22.1--vocabulary"
+}

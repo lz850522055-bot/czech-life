@@ -1,0 +1,31 @@
+{
+  "checked_at": "2026-10-22",
+  "scope": "B1/B2结构、答案与编辑残留校验；不是母语审校",
+  "summary": {
+    "B1": {
+      "lessons": 14,
+      "lesson_exercises": 168,
+      "unit_assessments": 14,
+      "unit_assessment_exercises": 42,
+      "level_assessments": 1,
+      "level_assessment_exercises": 12,
+      "main_text_words": 3196,
+      "min_main_words": 222,
+      "max_main_words": 234,
+      "vocabulary_entries": 59
+    },
+    "B2": {
+      "lessons": 14,
+      "lesson_exercises": 168,
+      "unit_assessments": 14,
+      "unit_assessment_exercises": 42,
+      "level_assessments": 1,
+      "level_assessment_exercises": 12,
+      "main_text_words": 5053,
+      "min_main_words": 339,
+      "max_main_words": 389,
+      "vocabulary_entries": 56
+    }
+  },
+  "issues": []
+}

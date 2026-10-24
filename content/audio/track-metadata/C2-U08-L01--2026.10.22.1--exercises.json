@@ -1,0 +1,68 @@
+{
+  "id": "C2-U08-L01--2026.10.22.1--exercises",
+  "lesson_id": "C2-U08-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C2",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Na konci přijme návrh spolku. Nejde tedy nutně o úplné odmítnutí změny.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "C2-U08-L01-E06",
+      "parts": [
+        "Na konci přijme návrh spolku.",
+        "Nejde tedy nutně o úplné odmítnutí změny."
+      ]
+    }
+  ],
+  "text_sha256": "8b152dbe8074ab0cb37517cb5c328e3469b85cfa51191957f8d0b0b8a0ef0895",
+  "source_file": "content/lessons/C2/C2-U08-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U08-L01--2026.10.22.1--exercises--8b152dbe80--normal.mp3",
+  "slow_file": "content/audio/files/C2-U08-L01--2026.10.22.1--exercises--8b152dbe80--slow.mp3",
+  "duration_seconds": 6.66421768707483,
+  "slow_duration_seconds": 7.69750566893424,
+  "cues": [
+    {
+      "text": "Na konci přijme návrh spolku. Nejde tedy nutně o úplné odmítnutí změny.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "C2-U08-L01-E06",
+      "parts": [
+        "Na konci přijme návrh spolku.",
+        "Nejde tedy nutně o úplné odmítnutí změny."
+      ],
+      "start": 0.0,
+      "end": 6.48421768707483,
+      "sentences": [
+        {
+          "text": "Na konci přijme návrh spolku.",
+          "start": 0.0,
+          "end": 2.6122448979591835,
+          "slow_start": 0.0,
+          "slow_end": 3.076643990929705
+        },
+        {
+          "text": "Nejde tedy nutně o úplné odmítnutí změny.",
+          "start": 2.7922448979591836,
+          "end": 6.48421768707483,
+          "slow_start": 3.2566439909297054,
+          "slow_end": 7.51750566893424
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 7.51750566893424
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "bd04370876255a8dcd56cf0b4486f1a53201c703365778688e39cccc2c1776ca",
+    "slow": "05ab99999bb6aea8eef759d235a343d2858cd46fc7306cf2f2b92a60d97e7884"
+  }
+}

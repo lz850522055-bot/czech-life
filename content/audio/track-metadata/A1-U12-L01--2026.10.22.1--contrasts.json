@@ -1,0 +1,57 @@
+{
+  "id": "A1-U12-L01--2026.10.22.1--contrasts",
+  "lesson_id": "A1-U12-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A1",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "dvanáct. dvacet.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "dvanáct. dvacet."
+      ]
+    }
+  ],
+  "text_sha256": "dd5c83c5669a8bf427f0efd81524c291bb85d3e096e36ee5cf0221c8691e89a2",
+  "source_file": "content/lessons/A1/A1-U12-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U12-L01--2026.10.22.1--contrasts--dd5c83c566--normal.mp3",
+  "slow_file": "content/audio/files/A1-U12-L01--2026.10.22.1--contrasts--dd5c83c566--slow.mp3",
+  "duration_seconds": 1.8053968253968253,
+  "slow_duration_seconds": 1.991156462585034,
+  "cues": [
+    {
+      "text": "dvanáct. dvacet.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "dvanáct. dvacet."
+      ],
+      "start": 0.0,
+      "end": 1.6253968253968254,
+      "sentences": [
+        {
+          "text": "dvanáct. dvacet.",
+          "start": 0.0,
+          "end": 1.6253968253968254,
+          "slow_start": 0.0,
+          "slow_end": 1.811156462585034
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.811156462585034
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "99fad0885a550cc7b12cd83d35b9480b2ef0af7cb5d5904dca3a0f6eafbd734d",
+    "slow": "85abef396e1c2c945427d888a9a3fd11c60260fb4c6d72357a09b9b06206fe97"
+  }
+}

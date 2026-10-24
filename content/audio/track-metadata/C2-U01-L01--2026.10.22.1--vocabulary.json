@@ -1,0 +1,173 @@
+{
+  "id": "C2-U01-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "C2-U01-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C2",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Techniku nenecháme bez převzetí.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Techniku nenecháme bez převzetí."
+      ]
+    },
+    {
+      "text": "Výpustku doplníme z kontextu.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Výpustku doplníme z kontextu."
+      ]
+    },
+    {
+      "text": "Upřesnění změnilo další krok.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Upřesnění změnilo další krok."
+      ]
+    },
+    {
+      "text": "Vedoucího zatím nemáme zajištěného.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Vedoucího zatím nemáme zajištěného."
+      ]
+    },
+    {
+      "text": "Cedule vyřadíme z programu.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Cedule vyřadíme z programu."
+      ]
+    }
+  ],
+  "text_sha256": "8a0b89c9c2b61fe174b1eb1b3551acb1f44d6bec567c4059a897a9ca0bdfe8a4",
+  "source_file": "content/lessons/C2/C2-U01-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U01-L01--2026.10.22.1--vocabulary--8a0b89c9c2--normal.mp3",
+  "slow_file": "content/audio/files/C2-U01-L01--2026.10.22.1--vocabulary--8a0b89c9c2--slow.mp3",
+  "duration_seconds": 14.762312925170068,
+  "slow_duration_seconds": 16.445759637188207,
+  "cues": [
+    {
+      "text": "Techniku nenecháme bez převzetí.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Techniku nenecháme bez převzetí."
+      ],
+      "start": 0.0,
+      "end": 2.716734693877551,
+      "sentences": [
+        {
+          "text": "Techniku nenecháme bez převzetí.",
+          "start": 0.0,
+          "end": 2.716734693877551,
+          "slow_start": 0.0,
+          "slow_end": 3.0998639455782313
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 3.0998639455782313
+    },
+    {
+      "text": "Výpustku doplníme z kontextu.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Výpustku doplníme z kontextu."
+      ],
+      "start": 2.896734693877551,
+      "end": 5.776009070294784,
+      "sentences": [
+        {
+          "text": "Výpustku doplníme z kontextu.",
+          "start": 2.896734693877551,
+          "end": 5.776009070294784,
+          "slow_start": 3.2798639455782315,
+          "slow_end": 6.507437641723356
+        }
+      ],
+      "slow_start": 3.2798639455782315,
+      "slow_end": 6.507437641723356
+    },
+    {
+      "text": "Upřesnění změnilo další krok.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Upřesnění změnilo další krok."
+      ],
+      "start": 5.956009070294785,
+      "end": 8.76562358276644,
+      "sentences": [
+        {
+          "text": "Upřesnění změnilo další krok.",
+          "start": 5.956009070294785,
+          "end": 8.76562358276644,
+          "slow_start": 6.687437641723356,
+          "slow_end": 9.845351473922902
+        }
+      ],
+      "slow_start": 6.687437641723356,
+      "slow_end": 9.845351473922902
+    },
+    {
+      "text": "Vedoucího zatím nemáme zajištěného.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Vedoucího zatím nemáme zajištěného."
+      ],
+      "start": 8.94562358276644,
+      "end": 12.208027210884353,
+      "sentences": [
+        {
+          "text": "Vedoucího zatím nemáme zajištěného.",
+          "start": 8.94562358276644,
+          "end": 12.208027210884353,
+          "slow_start": 10.025351473922903,
+          "slow_end": 13.647664399092971
+        }
+      ],
+      "slow_start": 10.025351473922903,
+      "slow_end": 13.647664399092971
+    },
+    {
+      "text": "Cedule vyřadíme z programu.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Cedule vyřadíme z programu."
+      ],
+      "start": 12.388027210884355,
+      "end": 14.582312925170068,
+      "sentences": [
+        {
+          "text": "Cedule vyřadíme z programu.",
+          "start": 12.388027210884355,
+          "end": 14.582312925170068,
+          "slow_start": 13.82766439909297,
+          "slow_end": 16.265759637188207
+        }
+      ],
+      "slow_start": 13.82766439909297,
+      "slow_end": 16.265759637188207
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "fd999c751c34c50add1e31d9f65b4de66b85245fa98bf7090830db27b8e2cd85",
+    "slow": "61a617a512f8125c007ffbfe7a9626df204f81701a3b6d07b0891aa35ed2970e"
+  }
+}

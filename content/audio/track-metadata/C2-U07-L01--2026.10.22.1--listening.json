@@ -1,0 +1,84 @@
+{
+  "id": "C2-U07-L01--2026.10.22.1--listening",
+  "lesson_id": "C2-U07-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C2",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Moderátorka: Takže tomu vůbec nevěříte? Host: V tomhle rozsahu ne. Přesněji: jako pomůcku to použiji, ale konečnou dohodu ověřím. A opravím se ještě v jednom bodě: problém nemusí být v přepisu slov, nýbrž v jejich shrnutí.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Moderátorka: Takže tomu vůbec nevěříte?",
+        "Host: V tomhle rozsahu ne.",
+        "Přesněji: jako pomůcku to použiji, ale konečnou dohodu ověřím.",
+        "A opravím se ještě v jednom bodě: problém nemusí být v přepisu slov, nýbrž v jejich shrnutí."
+      ]
+    }
+  ],
+  "text_sha256": "a2b31679ddeb88035b8b0e74d290384975b38d4b61a795221d9a40b3dfb2620c",
+  "source_file": "content/lessons/C2/C2-U07-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U07-L01--2026.10.22.1--listening--a2b31679dd--normal.mp3",
+  "slow_file": "content/audio/files/C2-U07-L01--2026.10.22.1--listening--a2b31679dd--slow.mp3",
+  "duration_seconds": 20.189931972789115,
+  "slow_duration_seconds": 22.709297052154195,
+  "cues": [
+    {
+      "text": "Moderátorka: Takže tomu vůbec nevěříte? Host: V tomhle rozsahu ne. Přesněji: jako pomůcku to použiji, ale konečnou dohodu ověřím. A opravím se ještě v jednom bodě: problém nemusí být v přepisu slov, nýbrž v jejich shrnutí.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Moderátorka: Takže tomu vůbec nevěříte?",
+        "Host: V tomhle rozsahu ne.",
+        "Přesněji: jako pomůcku to použiji, ale konečnou dohodu ověřím.",
+        "A opravím se ještě v jednom bodě: problém nemusí být v přepisu slov, nýbrž v jejich shrnutí."
+      ],
+      "start": 0.0,
+      "end": 20.009931972789115,
+      "sentences": [
+        {
+          "text": "Moderátorka: Takže tomu vůbec nevěříte?",
+          "start": 0.0,
+          "end": 3.81968253968254,
+          "slow_start": 0.0,
+          "slow_end": 4.35374149659864
+        },
+        {
+          "text": "Host: V tomhle rozsahu ne.",
+          "start": 3.9996825396825395,
+          "end": 6.252018140589569,
+          "slow_start": 4.53374149659864,
+          "slow_end": 7.053106575963719
+        },
+        {
+          "text": "Přesněji: jako pomůcku to použiji, ale konečnou dohodu ověřím.",
+          "start": 6.4320181405895696,
+          "end": 11.958367346938775,
+          "slow_start": 7.233106575963719,
+          "slow_end": 13.293514739229025
+        },
+        {
+          "text": "A opravím se ještě v jednom bodě: problém nemusí být v přepisu slov, nýbrž v jejich shrnutí.",
+          "start": 12.138367346938775,
+          "end": 20.009931972789115,
+          "slow_start": 13.473514739229024,
+          "slow_end": 22.529297052154195
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 22.529297052154195
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "30e69a2f4e11f41036cb84c4de0f87a5a03926e19a1ac6387ad5583dd805f1ee",
+    "slow": "c794a7dbb9d73a99ab6f84575adc0db1666d25054c02d40710b0cd22084529e4"
+  }
+}

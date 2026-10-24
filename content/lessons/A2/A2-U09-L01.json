@@ -1,0 +1,1288 @@
+{
+  "id": "A2-U09-L01",
+  "level": "A2",
+  "unit_id": "A2-U09",
+  "order": 27,
+  "version": "2026.10.22.1",
+  "title_zh": "比较两种选择，把理由说具体",
+  "title_cs": "Porovnáváme možnosti",
+  "prerequisites": [
+    "A2-U08-L01"
+  ],
+  "can_do": [
+    "使用比较级与最高级",
+    "用než和stejně比较",
+    "给出带限制的选择理由"
+  ],
+  "scene": "选择与评价",
+  "skills": [
+    "listening",
+    "speaking",
+    "reading",
+    "writing",
+    "interaction",
+    "mediation"
+  ],
+  "knowledge_points": [
+    "comparison",
+    "degree-equality"
+  ],
+  "intro_zh": "选住所、交通或商品时，不只说“好”和“不好”。说明比较什么、差多少、哪项对你更重要。",
+  "lesson_text": [
+    {
+      "id": "s01",
+      "cs": "Hledáme místo pro malé setkání. Máme dvě možnosti: kavárnu u nádraží a sál v komunitním centru. Každé místo má jiné výhody.",
+      "zh": "我们为小聚会找地方，有车站咖啡馆和社区中心大厅两个选项，各有优点。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s02",
+      "cs": "Kavárna je menší, ale je blíž k zastávce. Lidé ji snadno najdou a nemusíme nic připravovat. Obsluha nám přinese nápoje.",
+      "zh": "咖啡馆较小，但离车站近，大家容易找，也不用自己准备，店员会送饮料。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s03",
+      "cs": "Sál je větší a tišší. Můžeme tam přesouvat stoly a pracovat ve skupinách. Je ale dál od centra a musíme po sobě uklidit.",
+      "zh": "大厅更大更安静，可搬桌子分组活动，但离市中心更远，用完要清理。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s04",
+      "cs": "Petr říká, že levnější varianta nemusí být vždy lepší. Pokud zaplatíme méně za prostor, ale více za dopravu, celkové náklady budou podobné.",
+      "zh": "彼得说，更便宜的选项未必更好。场地省钱而交通多花，总费用可能差不多。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s05",
+      "cs": "Jana má jiný názor. Pro ni je nejdůležitější klid, protože během setkání budeme hodně mluvit a poslouchat nahrávky.",
+      "zh": "雅娜观点不同，对她最重要的是安静，因为活动中要多交流并听录音。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s06",
+      "cs": "Já chci vědět, jestli jsou obě místa stejně dostupná pro člověka, který nemůže chodit po schodech. Potřebujeme jasnou odpověď od provozovatele.",
+      "zh": "我想知道两个地方对不能爬楼梯的人是否同样方便，需要场地方明确答复。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s07",
+      "cs": "Nakonec se rozhodneme až po krátké návštěvě. Fotografie vypadají dobře, ale neukazují hluk, pohodlí židlí ani skutečnou šířku dveří.",
+      "zh": "最终决定实地看过再做。照片不错，但看不出噪声、椅子舒适度和真实门宽。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "comparison",
+      "rule_zh": "比较要说清参照对象，别只给一个“更”。",
+      "detail_zh": "levný→levnější，drahý→dražší，tichý→tišší，velký→větší，malý→menší，dobrý→lepší，špatný→horší。最高级加nej-：nejlepší、nejdražší。A je levnější než B表示A比B便宜。",
+      "examples": [
+        {
+          "cs": "Sál je větší než kavárna.",
+          "zh": "大厅比咖啡馆大。",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        },
+        {
+          "cs": "Je to nejlepší možnost.",
+          "zh": "这是最好选项。",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        }
+      ],
+      "pitfalls": [
+        "所有词机械加-ejší，忽略lepší等不规则。"
+      ],
+      "exceptions": [
+        "“最好”必须有评价维度与选项范围，语言形式不提供事实保证。"
+      ],
+      "term": "比较级与最高级"
+    },
+    {
+      "id": "degree-equality",
+      "rule_zh": "同样、稍微、明显不同，能把判断说得更准确。",
+      "detail_zh": "stejně velký jako…与…一样大；o trochu levnější便宜一点；mnohem dražší贵得多。副词：blízko→blíž/blíže，daleko→dál/dále，dobře→lépe/líp。rád→raději表示更愿意。",
+      "examples": [
+        {
+          "cs": "Je stejně drahý jako druhý.",
+          "zh": "它与另一个一样贵。",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        },
+        {
+          "cs": "Raději zvolím klidnější místo.",
+          "zh": "我更愿选安静些的地方。",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        }
+      ],
+      "pitfalls": [
+        "把stejně…jako误配než。"
+      ],
+      "exceptions": [
+        "副词与形容词用途不同：lepší jídlo与vaří lépe。"
+      ],
+      "term": "程度与同等比较"
+    }
+  ],
+  "vocabulary": [
+    {
+      "lemma": "výhoda",
+      "pos": "名词，阴性",
+      "forms": "výhody; výhod",
+      "meaning_zh": "优点；优势",
+      "collocation": "hlavní výhoda",
+      "example_cs": "To je hlavní výhoda.",
+      "example_zh": "这是主要优点。",
+      "confusion_zh": "nevýhoda缺点。"
+    },
+    {
+      "lemma": "možnost",
+      "pos": "名词，阴性",
+      "forms": "možnosti; možností",
+      "meaning_zh": "选项；可能性",
+      "collocation": "dvě možnosti",
+      "example_cs": "Máme dvě možnosti.",
+      "example_zh": "我们有两个选项。",
+      "confusion_zh": "不是一定可行。"
+    },
+    {
+      "lemma": "levný",
+      "pos": "形容词",
+      "forms": "levnější; nejlevnější",
+      "meaning_zh": "便宜",
+      "collocation": "levnější varianta",
+      "example_cs": "Ta varianta je levnější.",
+      "example_zh": "那个方案便宜些。",
+      "confusion_zh": "不自动表示划算。"
+    },
+    {
+      "lemma": "dostupný",
+      "pos": "形容词",
+      "forms": "dostupná; dostupné",
+      "meaning_zh": "可达；可获得",
+      "collocation": "dostupné místo",
+      "example_cs": "Je místo dostupné?",
+      "example_zh": "地方方便到达吗？",
+      "confusion_zh": "需说明对谁、何种交通。"
+    },
+    {
+      "lemma": "hluk",
+      "pos": "名词，阳性无生",
+      "forms": "hluku",
+      "meaning_zh": "噪声",
+      "collocation": "velký hluk",
+      "example_cs": "Je tam hluk.",
+      "example_zh": "那里吵。",
+      "confusion_zh": "声音zvuk不必是噪声。"
+    },
+    {
+      "lemma": "náklady",
+      "pos": "名词，阳性无生复数",
+      "forms": "nákladů",
+      "meaning_zh": "成本",
+      "collocation": "celkové náklady",
+      "example_cs": "Náklady jsou vyšší.",
+      "example_zh": "成本更高。",
+      "confusion_zh": "不是只看标价。"
+    }
+  ],
+  "listening": {
+    "script": [
+      {
+        "cs": "První byt je levnější, ale menší. Druhý je dražší o tisíc korun měsíčně a je blíž k práci.",
+        "zh": "第一套公寓更便宜但更小；第二套每月贵一千克朗，离工作地更近。",
+        "note_zh": "先理解整句意图，再回看本课规律。"
+      }
+    ],
+    "focus_zh": "先不看文本听出任务关键信息；第二遍核对词形、数字与否定；最后对照中文。",
+    "source": "original"
+  },
+  "pronunciation": {
+    "focus_zh": "lepší/lépe分别收尾，比较长词按第一音节重音，后缀不吞掉。",
+    "contrast": [
+      {
+        "a": "lepší",
+        "b": "lépe",
+        "note_zh": "形容词与副词。"
+      }
+    ],
+    "task_zh": "用两句录出选择和一个保留条件。"
+  },
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "第二套每月贵多少？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "一千"
+        },
+        {
+          "id": "b",
+          "text": "一百"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "o tisíc korun měsíčně。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "listening"
+      ],
+      "error_category": "comprehension",
+      "audio_text_cs": "Druhý byt je dražší o tisíc korun měsíčně.",
+      "id": "A2-U09-L01-E01",
+      "knowledge_points": [
+        "comparison",
+        "degree-equality"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "dobrý的比较级。",
+      "stimulus_cs": "",
+      "answer": "lepší",
+      "accepted_answers": [
+        "lepší"
+      ],
+      "explanation_zh": "不规则比较级。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "A2-U09-L01-E02",
+      "knowledge_points": [
+        "comparison",
+        "degree-equality"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "填比较连接词。",
+      "stimulus_cs": "Sál je větší ___ kavárna.",
+      "answer": "než",
+      "accepted_answers": [
+        "než"
+      ],
+      "explanation_zh": "差等比较než。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "A2-U09-L01-E03",
+      "knowledge_points": [
+        "comparison",
+        "degree-equality"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "同样贵应使用？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "stejně drahý jako"
+        },
+        {
+          "id": "b",
+          "text": "stejně drahý než"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "同等比较jako。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "A2-U09-L01-E04",
+      "knowledge_points": [
+        "comparison",
+        "degree-equality"
+      ]
+    },
+    {
+      "type": "correct",
+      "prompt_zh": "改正最高级。",
+      "stimulus_cs": "To je nejdobřejší možnost.",
+      "answer": "To je nejlepší možnost.",
+      "accepted_answers": [
+        "To je nejlepší možnost."
+      ],
+      "explanation_zh": "dobrý→lepší→nejlepší。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "A2-U09-L01-E05",
+      "knowledge_points": [
+        "comparison",
+        "degree-equality"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt_zh": "排列“第二个离工作更近”。",
+      "stimulus_cs": "k práci. / Druhý je / blíž",
+      "answer": "Druhý je blíž k práci.",
+      "accepted_answers": [
+        "Druhý je blíž k práci."
+      ],
+      "explanation_zh": "blíž表示距离更近。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "word_order",
+      "options": [
+        "k práci.",
+        "Druhý je",
+        "blíž"
+      ],
+      "id": "A2-U09-L01-E06",
+      "knowledge_points": [
+        "comparison",
+        "degree-equality"
+      ]
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "比较两种你熟悉的选择，至少两个维度。",
+      "stimulus_cs": "",
+      "answer": "První je levnější, ale druhý je pohodlnější a blíž.",
+      "accepted_answers": [],
+      "explanation_zh": "不要只重复好/不好。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A2-U09-L01-E07",
+      "knowledge_points": [
+        "comparison",
+        "degree-equality"
+      ]
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "对方说最便宜最好，提出一个具体比较条件。",
+      "stimulus_cs": "",
+      "answer": "A co doprava? Kolik budou celkové náklady?",
+      "accepted_answers": [],
+      "explanation_zh": "追问遗漏成本。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A2-U09-L01-E08",
+      "knowledge_points": [
+        "comparison",
+        "degree-equality"
+      ]
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "用四句写选择建议，含一个优点、一个缺点和结论。",
+      "stimulus_cs": "",
+      "answer": "Kavárna je blíž. Sál je tišší. Musíme ale uklidit. Pro poslech zvolím sál.",
+      "accepted_answers": [],
+      "explanation_zh": "结论与维度相关。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A2-U09-L01-E09",
+      "knowledge_points": [
+        "comparison",
+        "degree-equality"
+      ]
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "不替别人决策，只转述听力两套公寓的差别。",
+      "stimulus_cs": "",
+      "answer": "第一套便宜小，第二套每月多1000但离工作近。",
+      "accepted_answers": [],
+      "explanation_zh": "不把“近”自动等同最佳。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A2-U09-L01-E10",
+      "knowledge_points": [
+        "comparison",
+        "degree-equality"
+      ]
+    }
+  ],
+  "transfer_task": {
+    "prompt_zh": "把房价比较改成交通方案比较，写出你还缺的一项信息。",
+    "model_answer_cs": "Autobus je levnější, ale vlak je rychlejší. Kolik stojí cesta celkem?",
+    "rubric": [
+      "任务信息完整",
+      "用目标规律表达",
+      "独立完成并回听/回看"
+    ]
+  },
+  "review_links": [
+    "A2-U08-L01"
+  ],
+  "sources": [
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/",
+      "scope": "本课涉及的声音/词形/语法规则；编排与例句为原创",
+      "verification": "官方来源用于相关规则交叉核查；具体查核范围见content/sources/foundation-verification.md；本课例句为原创，未逐句母语审校。"
+    }
+  ],
+  "content_status": "authored_crosschecked_not_native_reviewed",
+  "quality_notes": [
+    "课程及题目原创；自动检查结构、唯一ID与答案。",
+    "已对照所列官方发音、数词、条件式、物主词等章节核查相应规则；其余内容做内部语言一致性复核，未逐句外部审校。",
+    "CEFR级别为教学编排，不构成官方达标或考试认证。"
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "A2-U09-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--normal.mp3",
+      "slow_file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U09-L01--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Hledáme místo pro malé setkání. Máme dvě možnosti: kavárnu u nádraží a sál v komunitním centru. Každé místo má jiné výhody. Kavárna je menší, ale je blíž k zastávce. Lidé ji snadno najdou a nemusíme nic připravovat. Obsluha nám přinese nápoje. Sál je větší a tišší. Můžeme tam přesouvat stoly a pracovat ve skupinách. Je ale dál od centra a musíme po sobě uklidit. Petr říká, že levnější varianta nemusí být vždy lepší. Pokud zaplatíme méně za prostor, ale více za dopravu, celkové náklady budou podobné. Jana má jiný názor. Pro ni je nejdůležitější klid, protože během setkání budeme hodně mluvit a poslouchat nahrávky. Já chci vědět, jestli jsou obě místa stejně dostupná pro člověka, který nemůže chodit po schodech. Potřebujeme jasnou odpověď od provozovatele. Nakonec se rozhodneme až po krátké návštěvě. Fotografie vypadají dobře, ale neukazují hluk, pohodlí židlí ani skutečnou šířku dveří.",
+      "duration_seconds": 81.52022675736961,
+      "slow_duration_seconds": 91.45836734693877,
+      "sha256": "62219d0c0d7ffba3f7f1a47ec218ad86eeb37eae8ebd9bae03581c1c656a2974",
+      "slow_sha256": "41e6637f820a5a178f2dbb956bc72cfb7f657ab1facfea398d1a66d651c1ddcd"
+    },
+    {
+      "lesson_id": "A2-U09-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--normal.mp3",
+      "slow_file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U09-L01--2026.10.22.1--text--p0",
+      "asset_id": "A2-U09-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Hledáme místo pro malé setkání. Máme dvě možnosti: kavárnu u nádraží a sál v komunitním centru. Každé místo má jiné výhody.",
+      "start": 0,
+      "end": 11.389478458049886,
+      "slow_start": 0,
+      "slow_end": 12.96843537414966
+    },
+    {
+      "lesson_id": "A2-U09-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--normal.mp3",
+      "slow_file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U09-L01--2026.10.22.1--text--s0",
+      "asset_id": "A2-U09-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Hledáme místo pro malé setkání.",
+      "start": 0,
+      "end": 2.7747845804988662,
+      "slow_start": 0,
+      "slow_end": 3.320453514739229
+    },
+    {
+      "lesson_id": "A2-U09-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--normal.mp3",
+      "slow_file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U09-L01--2026.10.22.1--text--s1",
+      "asset_id": "A2-U09-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Máme dvě možnosti: kavárnu u nádraží a sál v komunitním centru.",
+      "start": 2.9547845804988664,
+      "end": 8.794603174603175,
+      "slow_start": 3.500453514739229,
+      "slow_end": 10.094920634920635
+    },
+    {
+      "lesson_id": "A2-U09-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--normal.mp3",
+      "slow_file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U09-L01--2026.10.22.1--text--s2",
+      "asset_id": "A2-U09-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Každé místo má jiné výhody.",
+      "start": 8.974603174603175,
+      "end": 11.389478458049886,
+      "slow_start": 10.274920634920635,
+      "slow_end": 12.96843537414966
+    },
+    {
+      "lesson_id": "A2-U09-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--normal.mp3",
+      "slow_file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U09-L01--2026.10.22.1--text--p1",
+      "asset_id": "A2-U09-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Kavárna je menší, ale je blíž k zastávce. Lidé ji snadno najdou a nemusíme nic připravovat. Obsluha nám přinese nápoje.",
+      "start": 11.569478458049886,
+      "end": 22.83124716553288,
+      "slow_start": 13.14843537414966,
+      "slow_end": 25.53637188208617
+    },
+    {
+      "lesson_id": "A2-U09-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--normal.mp3",
+      "slow_file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U09-L01--2026.10.22.1--text--s3",
+      "asset_id": "A2-U09-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 3,
+      "paragraph_index": 1,
+      "sentence_index": 0,
+      "text": "Kavárna je menší, ale je blíž k zastávce.",
+      "start": 11.569478458049886,
+      "end": 15.656190476190476,
+      "slow_start": 13.14843537414966,
+      "slow_end": 17.676326530612243
+    },
+    {
+      "lesson_id": "A2-U09-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--normal.mp3",
+      "slow_file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U09-L01--2026.10.22.1--text--s4",
+      "asset_id": "A2-U09-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 4,
+      "paragraph_index": 1,
+      "sentence_index": 1,
+      "text": "Lidé ji snadno najdou a nemusíme nic připravovat.",
+      "start": 15.836190476190476,
+      "end": 20.108662131519274,
+      "slow_start": 17.856326530612243,
+      "slow_end": 22.558367346938777
+    },
+    {
+      "lesson_id": "A2-U09-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--normal.mp3",
+      "slow_file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U09-L01--2026.10.22.1--text--s5",
+      "asset_id": "A2-U09-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 5,
+      "paragraph_index": 1,
+      "sentence_index": 2,
+      "text": "Obsluha nám přinese nápoje.",
+      "start": 20.288662131519274,
+      "end": 22.83124716553288,
+      "slow_start": 22.738367346938777,
+      "slow_end": 25.53637188208617
+    },
+    {
+      "lesson_id": "A2-U09-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--normal.mp3",
+      "slow_file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U09-L01--2026.10.22.1--text--p2",
+      "asset_id": "A2-U09-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Sál je větší a tišší. Můžeme tam přesouvat stoly a pracovat ve skupinách. Je ale dál od centra a musíme po sobě uklidit.",
+      "start": 23.01124716553288,
+      "end": 34.14530612244898,
+      "slow_start": 25.716371882086168,
+      "slow_end": 38.20879818594104
+    },
+    {
+      "lesson_id": "A2-U09-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--normal.mp3",
+      "slow_file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U09-L01--2026.10.22.1--text--s6",
+      "asset_id": "A2-U09-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 6,
+      "paragraph_index": 2,
+      "sentence_index": 0,
+      "text": "Sál je větší a tišší.",
+      "start": 23.01124716553288,
+      "end": 25.15909297052154,
+      "slow_start": 25.716371882086168,
+      "slow_end": 28.119637188208618
+    },
+    {
+      "lesson_id": "A2-U09-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--normal.mp3",
+      "slow_file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U09-L01--2026.10.22.1--text--s7",
+      "asset_id": "A2-U09-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 7,
+      "paragraph_index": 2,
+      "sentence_index": 1,
+      "text": "Můžeme tam přesouvat stoly a pracovat ve skupinách.",
+      "start": 25.33909297052154,
+      "end": 29.72766439909297,
+      "slow_start": 28.299637188208617,
+      "slow_end": 33.291927437641725
+    },
+    {
+      "lesson_id": "A2-U09-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--normal.mp3",
+      "slow_file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U09-L01--2026.10.22.1--text--s8",
+      "asset_id": "A2-U09-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 8,
+      "paragraph_index": 2,
+      "sentence_index": 2,
+      "text": "Je ale dál od centra a musíme po sobě uklidit.",
+      "start": 29.90766439909297,
+      "end": 34.14530612244898,
+      "slow_start": 33.471927437641725,
+      "slow_end": 38.20879818594104
+    },
+    {
+      "lesson_id": "A2-U09-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--normal.mp3",
+      "slow_file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U09-L01--2026.10.22.1--text--p3",
+      "asset_id": "A2-U09-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Petr říká, že levnější varianta nemusí být vždy lepší. Pokud zaplatíme méně za prostor, ale více za dopravu, celkové náklady budou podobné.",
+      "start": 34.32530612244898,
+      "end": 47.020861678004536,
+      "slow_start": 38.38879818594104,
+      "slow_end": 52.40789115646258
+    },
+    {
+      "lesson_id": "A2-U09-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--normal.mp3",
+      "slow_file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U09-L01--2026.10.22.1--text--s9",
+      "asset_id": "A2-U09-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 9,
+      "paragraph_index": 3,
+      "sentence_index": 0,
+      "text": "Petr říká, že levnější varianta nemusí být vždy lepší.",
+      "start": 34.32530612244898,
+      "end": 39.63106575963719,
+      "slow_start": 38.38879818594104,
+      "slow_end": 44.309886621315194
+    },
+    {
+      "lesson_id": "A2-U09-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--normal.mp3",
+      "slow_file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U09-L01--2026.10.22.1--text--s10",
+      "asset_id": "A2-U09-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 10,
+      "paragraph_index": 3,
+      "sentence_index": 1,
+      "text": "Pokud zaplatíme méně za prostor, ale více za dopravu, celkové náklady budou podobné.",
+      "start": 39.81106575963719,
+      "end": 47.020861678004536,
+      "slow_start": 44.48988662131519,
+      "slow_end": 52.40789115646258
+    },
+    {
+      "lesson_id": "A2-U09-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--normal.mp3",
+      "slow_file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U09-L01--2026.10.22.1--text--p4",
+      "asset_id": "A2-U09-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 4,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Jana má jiný názor. Pro ni je nejdůležitější klid, protože během setkání budeme hodně mluvit a poslouchat nahrávky.",
+      "start": 47.200861678004536,
+      "end": 57.42349206349206,
+      "slow_start": 52.58789115646258,
+      "slow_end": 64.06439909297052
+    },
+    {
+      "lesson_id": "A2-U09-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--normal.mp3",
+      "slow_file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U09-L01--2026.10.22.1--text--s11",
+      "asset_id": "A2-U09-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 11,
+      "paragraph_index": 4,
+      "sentence_index": 0,
+      "text": "Jana má jiný názor.",
+      "start": 47.200861678004536,
+      "end": 49.383537414965986,
+      "slow_start": 52.58789115646258,
+      "slow_end": 55.10725623582766
+    },
+    {
+      "lesson_id": "A2-U09-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--normal.mp3",
+      "slow_file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U09-L01--2026.10.22.1--text--s12",
+      "asset_id": "A2-U09-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 12,
+      "paragraph_index": 4,
+      "sentence_index": 1,
+      "text": "Pro ni je nejdůležitější klid, protože během setkání budeme hodně mluvit a poslouchat nahrávky.",
+      "start": 49.563537414965985,
+      "end": 57.42349206349206,
+      "slow_start": 55.28725623582766,
+      "slow_end": 64.06439909297052
+    },
+    {
+      "lesson_id": "A2-U09-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--normal.mp3",
+      "slow_file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U09-L01--2026.10.22.1--text--p5",
+      "asset_id": "A2-U09-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 5,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Já chci vědět, jestli jsou obě místa stejně dostupná pro člověka, který nemůže chodit po schodech. Potřebujeme jasnou odpověď od provozovatele.",
+      "start": 57.60349206349206,
+      "end": 69.55600907029478,
+      "slow_start": 64.24439909297053,
+      "slow_end": 77.86875283446712
+    },
+    {
+      "lesson_id": "A2-U09-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--normal.mp3",
+      "slow_file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U09-L01--2026.10.22.1--text--s13",
+      "asset_id": "A2-U09-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 13,
+      "paragraph_index": 5,
+      "sentence_index": 0,
+      "text": "Já chci vědět, jestli jsou obě místa stejně dostupná pro člověka, který nemůže chodit po schodech.",
+      "start": 57.60349206349206,
+      "end": 65.57954648526078,
+      "slow_start": 64.24439909297053,
+      "slow_end": 73.38145124716553
+    },
+    {
+      "lesson_id": "A2-U09-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--normal.mp3",
+      "slow_file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U09-L01--2026.10.22.1--text--s14",
+      "asset_id": "A2-U09-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 14,
+      "paragraph_index": 5,
+      "sentence_index": 1,
+      "text": "Potřebujeme jasnou odpověď od provozovatele.",
+      "start": 65.75954648526077,
+      "end": 69.55600907029478,
+      "slow_start": 73.56145124716554,
+      "slow_end": 77.86875283446712
+    },
+    {
+      "lesson_id": "A2-U09-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--normal.mp3",
+      "slow_file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U09-L01--2026.10.22.1--text--p6",
+      "asset_id": "A2-U09-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 6,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Nakonec se rozhodneme až po krátké návštěvě. Fotografie vypadají dobře, ale neukazují hluk, pohodlí židlí ani skutečnou šířku dveří.",
+      "start": 69.73600907029478,
+      "end": 81.34022675736962,
+      "slow_start": 78.04875283446712,
+      "slow_end": 91.27836734693878
+    },
+    {
+      "lesson_id": "A2-U09-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--normal.mp3",
+      "slow_file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U09-L01--2026.10.22.1--text--s15",
+      "asset_id": "A2-U09-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 15,
+      "paragraph_index": 6,
+      "sentence_index": 0,
+      "text": "Nakonec se rozhodneme až po krátké návštěvě.",
+      "start": 69.73600907029478,
+      "end": 73.41637188208617,
+      "slow_start": 78.04875283446712,
+      "slow_end": 82.2631746031746
+    },
+    {
+      "lesson_id": "A2-U09-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--normal.mp3",
+      "slow_file": "audio/files/A2-U09-L01--2026.10.22.1--text--e891043b83--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U09-L01--2026.10.22.1--text--s16",
+      "asset_id": "A2-U09-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 16,
+      "paragraph_index": 6,
+      "sentence_index": 1,
+      "text": "Fotografie vypadají dobře, ale neukazují hluk, pohodlí židlí ani skutečnou šířku dveří.",
+      "start": 73.59637188208617,
+      "end": 81.34022675736962,
+      "slow_start": 82.4431746031746,
+      "slow_end": 91.27836734693878
+    },
+    {
+      "lesson_id": "A2-U09-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U09-L01--2026.10.22.1--listening--d767c6ad15--normal.mp3",
+      "slow_file": "audio/files/A2-U09-L01--2026.10.22.1--listening--d767c6ad15--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U09-L01--2026.10.22.1--listening",
+      "role": "listening-full",
+      "index": 0,
+      "text": "První byt je levnější, ale menší. Druhý je dražší o tisíc korun měsíčně a je blíž k práci.",
+      "duration_seconds": 8.603083900226757,
+      "slow_duration_seconds": 9.706031746031746,
+      "sha256": "44551883fcd6925ca529b888d3dd19f121d30f5e102fe66964bc200a3144f387",
+      "slow_sha256": "24e129051cf98550593f51aac0733241e2001312feb6bd6509553496c2aecca9"
+    },
+    {
+      "lesson_id": "A2-U09-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U09-L01--2026.10.22.1--listening--d767c6ad15--normal.mp3",
+      "slow_file": "audio/files/A2-U09-L01--2026.10.22.1--listening--d767c6ad15--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U09-L01--2026.10.22.1--listening--p0",
+      "asset_id": "A2-U09-L01--2026.10.22.1--listening",
+      "role": "listening",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "První byt je levnější, ale menší. Druhý je dražší o tisíc korun měsíčně a je blíž k práci.",
+      "start": 0,
+      "end": 8.423083900226757,
+      "slow_start": 0,
+      "slow_end": 9.526031746031746
+    },
+    {
+      "lesson_id": "A2-U09-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U09-L01--2026.10.22.1--vocabulary--1aac19cc31--normal.mp3",
+      "slow_file": "audio/files/A2-U09-L01--2026.10.22.1--vocabulary--1aac19cc31--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U09-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary-full",
+      "index": 0,
+      "text": "To je hlavní výhoda. Máme dvě možnosti. Ta varianta je levnější. Je místo dostupné? Je tam hluk. Náklady jsou vyšší.",
+      "duration_seconds": 11.006530612244898,
+      "slow_duration_seconds": 12.550657596371883,
+      "sha256": "0392d920b4745c279209febd968223b501bb094d89774971cd9be5ab80add55e",
+      "slow_sha256": "1b2487a0bcc2db2f39e21e457bfc1139ceebd536771a5d8372f31f5604c39b2c"
+    },
+    {
+      "lesson_id": "A2-U09-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U09-L01--2026.10.22.1--vocabulary--1aac19cc31--normal.mp3",
+      "slow_file": "audio/files/A2-U09-L01--2026.10.22.1--vocabulary--1aac19cc31--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U09-L01--2026.10.22.1--vocabulary--p0",
+      "asset_id": "A2-U09-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "To je hlavní výhoda.",
+      "start": 0,
+      "end": 1.6602267573696146,
+      "slow_start": 0,
+      "slow_end": 1.8924263038548752
+    },
+    {
+      "lesson_id": "A2-U09-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U09-L01--2026.10.22.1--vocabulary--1aac19cc31--normal.mp3",
+      "slow_file": "audio/files/A2-U09-L01--2026.10.22.1--vocabulary--1aac19cc31--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U09-L01--2026.10.22.1--vocabulary--p1",
+      "asset_id": "A2-U09-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Máme dvě možnosti.",
+      "start": 1.8402267573696145,
+      "end": 3.570113378684807,
+      "slow_start": 2.072426303854875,
+      "slow_end": 4.127392290249433
+    },
+    {
+      "lesson_id": "A2-U09-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U09-L01--2026.10.22.1--vocabulary--1aac19cc31--normal.mp3",
+      "slow_file": "audio/files/A2-U09-L01--2026.10.22.1--vocabulary--1aac19cc31--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U09-L01--2026.10.22.1--vocabulary--p2",
+      "asset_id": "A2-U09-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Ta varianta je levnější.",
+      "start": 3.7501133786848073,
+      "end": 5.839909297052154,
+      "slow_start": 4.3073922902494335,
+      "slow_end": 6.6177777777777775
+    },
+    {
+      "lesson_id": "A2-U09-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U09-L01--2026.10.22.1--vocabulary--1aac19cc31--normal.mp3",
+      "slow_file": "audio/files/A2-U09-L01--2026.10.22.1--vocabulary--1aac19cc31--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U09-L01--2026.10.22.1--vocabulary--p3",
+      "asset_id": "A2-U09-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Je místo dostupné?",
+      "start": 6.019909297052155,
+      "end": 7.587256235827664,
+      "slow_start": 6.797777777777778,
+      "slow_end": 8.562494331065759
+    },
+    {
+      "lesson_id": "A2-U09-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U09-L01--2026.10.22.1--vocabulary--1aac19cc31--normal.mp3",
+      "slow_file": "audio/files/A2-U09-L01--2026.10.22.1--vocabulary--1aac19cc31--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U09-L01--2026.10.22.1--vocabulary--p4",
+      "asset_id": "A2-U09-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 4,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Je tam hluk.",
+      "start": 7.767256235827665,
+      "end": 8.939863945578232,
+      "slow_start": 8.74249433106576,
+      "slow_end": 10.112471655328799
+    },
+    {
+      "lesson_id": "A2-U09-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U09-L01--2026.10.22.1--vocabulary--1aac19cc31--normal.mp3",
+      "slow_file": "audio/files/A2-U09-L01--2026.10.22.1--vocabulary--1aac19cc31--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U09-L01--2026.10.22.1--vocabulary--p5",
+      "asset_id": "A2-U09-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 5,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Náklady jsou vyšší.",
+      "start": 9.119863945578231,
+      "end": 10.826530612244898,
+      "slow_start": 10.292471655328798,
+      "slow_end": 12.370657596371881
+    },
+    {
+      "lesson_id": "A2-U09-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U09-L01--2026.10.22.1--exercises--583dc02b65--normal.mp3",
+      "slow_file": "audio/files/A2-U09-L01--2026.10.22.1--exercises--583dc02b65--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U09-L01--2026.10.22.1--exercises",
+      "role": "exercises-full",
+      "index": 0,
+      "text": "Druhý byt je dražší o tisíc korun měsíčně.",
+      "duration_seconds": 4.394421768707483,
+      "slow_duration_seconds": 4.789160997732426,
+      "sha256": "18c406dcaae71b0a50b9a6432386099132cae1957ad31d394e64f9a830554618",
+      "slow_sha256": "00e7d4489998c3bcc7a3ab6cd45e1246410d317e3725783cceee818e8bedd333"
+    },
+    {
+      "lesson_id": "A2-U09-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U09-L01--2026.10.22.1--exercises--583dc02b65--normal.mp3",
+      "slow_file": "audio/files/A2-U09-L01--2026.10.22.1--exercises--583dc02b65--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U09-L01--2026.10.22.1--exercises--p0",
+      "asset_id": "A2-U09-L01--2026.10.22.1--exercises",
+      "role": "exercise",
+      "index": 0,
+      "exercise_id": "A2-U09-L01-E01",
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Druhý byt je dražší o tisíc korun měsíčně.",
+      "start": 0,
+      "end": 4.214421768707483,
+      "slow_start": 0,
+      "slow_end": 4.609160997732427
+    },
+    {
+      "lesson_id": "A2-U09-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U09-L01--2026.10.22.1--contrasts--22115e367b--normal.mp3",
+      "slow_file": "audio/files/A2-U09-L01--2026.10.22.1--contrasts--22115e367b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U09-L01--2026.10.22.1--contrasts",
+      "role": "contrasts-full",
+      "index": 0,
+      "text": "lepší. lépe.",
+      "duration_seconds": 1.5499773242630386,
+      "slow_duration_seconds": 1.7821768707482992,
+      "sha256": "bd3cc21f4acbfd7015de5e0c5d6c3128f0349ddc35aef22451f412b3a22ae670",
+      "slow_sha256": "c3099dd3e949c3ea5fc9922b9cd957635a6196e1b4cb351758f6390cf6723a0e"
+    },
+    {
+      "lesson_id": "A2-U09-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U09-L01--2026.10.22.1--contrasts--22115e367b--normal.mp3",
+      "slow_file": "audio/files/A2-U09-L01--2026.10.22.1--contrasts--22115e367b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U09-L01--2026.10.22.1--contrasts--p0",
+      "asset_id": "A2-U09-L01--2026.10.22.1--contrasts",
+      "role": "contrast",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "lepší. lépe.",
+      "start": 0,
+      "end": 1.3699773242630386,
+      "slow_start": 0,
+      "slow_end": 1.6021768707482993
+    }
+  ]
+}

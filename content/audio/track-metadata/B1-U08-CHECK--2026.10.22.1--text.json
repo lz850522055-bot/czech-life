@@ -1,0 +1,84 @@
+{
+  "id": "B1-U08-CHECK--2026.10.22.1--text",
+  "lesson_id": "B1-U08-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Obec chce vysadit stromy místo části parkoviště. Jana návrh podporuje kvůli stínu. Petr se bojí nedostatku míst pro řidiče s omezenou pohyblivostí. Oba chtějí nejprve vidět přesný plán.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Obec chce vysadit stromy místo části parkoviště.",
+        "Jana návrh podporuje kvůli stínu.",
+        "Petr se bojí nedostatku míst pro řidiče s omezenou pohyblivostí.",
+        "Oba chtějí nejprve vidět přesný plán."
+      ]
+    }
+  ],
+  "text_sha256": "403d071194d4b29d936fd4dbb1cbd1f6f134635d3c0e2348f17fc48278b8230c",
+  "source_file": "content/assessments/B1-U08.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U08-CHECK--2026.10.22.1--text--403d071194--normal.mp3",
+  "slow_file": "content/audio/files/B1-U08-CHECK--2026.10.22.1--text--403d071194--slow.mp3",
+  "duration_seconds": 16.556009070294785,
+  "slow_duration_seconds": 18.61097505668934,
+  "cues": [
+    {
+      "text": "Obec chce vysadit stromy místo části parkoviště. Jana návrh podporuje kvůli stínu. Petr se bojí nedostatku míst pro řidiče s omezenou pohyblivostí. Oba chtějí nejprve vidět přesný plán.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Obec chce vysadit stromy místo části parkoviště.",
+        "Jana návrh podporuje kvůli stínu.",
+        "Petr se bojí nedostatku míst pro řidiče s omezenou pohyblivostí.",
+        "Oba chtějí nejprve vidět přesný plán."
+      ],
+      "start": 0.0,
+      "end": 16.376009070294785,
+      "sentences": [
+        {
+          "text": "Obec chce vysadit stromy místo části parkoviště.",
+          "start": 0.0,
+          "end": 4.214421768707483,
+          "slow_start": 0.0,
+          "slow_end": 4.841360544217687
+        },
+        {
+          "text": "Jana návrh podporuje kvůli stínu.",
+          "start": 4.394421768707483,
+          "end": 7.308526077097506,
+          "slow_start": 5.021360544217687,
+          "slow_end": 8.330204081632653
+        },
+        {
+          "text": "Petr se bojí nedostatku míst pro řidiče s omezenou pohyblivostí.",
+          "start": 7.4885260770975055,
+          "end": 12.933605442176871,
+          "slow_start": 8.510204081632653,
+          "slow_end": 14.675102040816327
+        },
+        {
+          "text": "Oba chtějí nejprve vidět přesný plán.",
+          "start": 13.11360544217687,
+          "end": 16.376009070294785,
+          "slow_start": 14.855102040816327,
+          "slow_end": 18.43097505668934
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 18.43097505668934
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "c70ef4f2427d114627938590a9506d1932cf3e003d158357a3bec145b08a7950",
+    "slow": "7a443cec2b0747e91607a6601de8c5caa7b00e0097ffc9ef700923f9479c6073"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "C1-U11-CHECK--2026.10.22.1--text",
+  "lesson_id": "C1-U11-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Neformální zápis: Hele, ty nový pravidla jsme chtěli zavést v lednu. Teda jen vyzkoušet, ne rovnou natrvalo. A možná až v únoru, podle školení.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Neformální zápis: Hele, ty nový pravidla jsme chtěli zavést v lednu.",
+        "Teda jen vyzkoušet, ne rovnou natrvalo.",
+        "A možná až v únoru, podle školení."
+      ]
+    }
+  ],
+  "text_sha256": "177379d6e44b082c465b572b2decd19447e58e93e98cb10691e3b97e45db6f63",
+  "source_file": "content/assessments/C1-U11.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U11-CHECK--2026.10.22.1--text--177379d6e4--normal.mp3",
+  "slow_file": "content/audio/files/C1-U11-CHECK--2026.10.22.1--text--177379d6e4--slow.mp3",
+  "duration_seconds": 12.951065759637189,
+  "slow_duration_seconds": 14.86671201814059,
+  "cues": [
+    {
+      "text": "Neformální zápis: Hele, ty nový pravidla jsme chtěli zavést v lednu. Teda jen vyzkoušet, ne rovnou natrvalo. A možná až v únoru, podle školení.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Neformální zápis: Hele, ty nový pravidla jsme chtěli zavést v lednu.",
+        "Teda jen vyzkoušet, ne rovnou natrvalo.",
+        "A možná až v únoru, podle školení."
+      ],
+      "start": 0.0,
+      "end": 12.771065759637189,
+      "sentences": [
+        {
+          "text": "Neformální zápis: Hele, ty nový pravidla jsme chtěli zavést v lednu.",
+          "start": 0.0,
+          "end": 5.851428571428571,
+          "slow_start": 0.0,
+          "slow_end": 6.907936507936508
+        },
+        {
+          "text": "Teda jen vyzkoušet, ne rovnou natrvalo.",
+          "start": 6.031428571428571,
+          "end": 9.456371882086168,
+          "slow_start": 7.087936507936508,
+          "slow_end": 10.930839002267573
+        },
+        {
+          "text": "A možná až v únoru, podle školení.",
+          "start": 9.636371882086168,
+          "end": 12.771065759637189,
+          "slow_start": 11.110839002267573,
+          "slow_end": 14.68671201814059
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 14.68671201814059
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "135019af0b5a99b602df25d6c5a9be723485cd327057c5f40c2cb72efbbd5cfe",
+    "slow": "5e607f4c13386798aa57d2d7e3f11679f2ed60e80a2d48c5a8a6110bacdf9275"
+  }
+}

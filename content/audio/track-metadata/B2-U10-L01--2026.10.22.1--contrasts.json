@@ -1,0 +1,57 @@
+{
+  "id": "B2-U10-L01--2026.10.22.1--contrasts",
+  "lesson_id": "B2-U10-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B2",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "kdyby pršelo. i kdyby pršelo.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "kdyby pršelo. i kdyby pršelo."
+      ]
+    }
+  ],
+  "text_sha256": "ab697a4c5d0c119101ecadba72cd3c4f89f746f2c31ec8462320b306cc0d501e",
+  "source_file": "content/lessons/B2/B2-U10-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U10-L01--2026.10.22.1--contrasts--ab697a4c5d--normal.mp3",
+  "slow_file": "content/audio/files/B2-U10-L01--2026.10.22.1--contrasts--ab697a4c5d--slow.mp3",
+  "duration_seconds": 2.7341950113378686,
+  "slow_duration_seconds": 3.0824943310657598,
+  "cues": [
+    {
+      "text": "kdyby pršelo. i kdyby pršelo.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "kdyby pršelo. i kdyby pršelo."
+      ],
+      "start": 0.0,
+      "end": 2.5541950113378684,
+      "sentences": [
+        {
+          "text": "kdyby pršelo. i kdyby pršelo.",
+          "start": 0.0,
+          "end": 2.5541950113378684,
+          "slow_start": 0.0,
+          "slow_end": 2.9024943310657596
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.9024943310657596
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "34e8b9ac52eacf60f9bedfd38df925a6c910aa1a3328dce2dd89f04d06e0edcf",
+    "slow": "4300940b25c983778e5b40b56f6de22ec9fb0616515d293e18c5257937e2ced2"
+  }
+}

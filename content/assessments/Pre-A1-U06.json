@@ -1,0 +1,281 @@
+{
+  "id": "Pre-A1-U06-CHECK",
+  "kind": "unit",
+  "level": "Pre-A1",
+  "unit_id": "Pre-A1-U06",
+  "title_zh": "先完成一次小对话：换情境独立完成",
+  "version": "2026.10.22.1",
+  "unseen_text": [
+    {
+      "cs": "Kávu, prosím. S mlékem, bez cukru.",
+      "zh": "请给咖啡，加牛奶，不加糖。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "cs": "Tady máte.",
+      "zh": "给您。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "顾客要哪两个条件？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "加奶、不加糖"
+        },
+        {
+          "id": "b",
+          "text": "不加奶、加糖"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "s是带有，bez是不带。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "listening"
+      ],
+      "error_category": "comprehension",
+      "audio_text_cs": "S mlékem, bez cukru.",
+      "id": "Pre-A1-U06-CHECK-E01",
+      "knowledge_points": [
+        "repair-basic",
+        "chunk-basic"
+      ]
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "改成你要茶，不加糖，口头点单。",
+      "stimulus_cs": "",
+      "answer": "Čaj bez cukru, prosím.",
+      "accepted_answers": [],
+      "explanation_zh": "新物品保持要求。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "Pre-A1-U06-CHECK-E02",
+      "knowledge_points": [
+        "repair-basic",
+        "chunk-basic"
+      ]
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "向中文同伴解释这杯咖啡能否理解成“什么都不加”。",
+      "stimulus_cs": "",
+      "answer": "不能：加了奶，只是不加糖。",
+      "accepted_answers": [],
+      "explanation_zh": "保留两个不同条件。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "Pre-A1-U06-CHECK-E03",
+      "knowledge_points": [
+        "repair-basic",
+        "chunk-basic"
+      ]
+    }
+  ],
+  "rubric": [
+    "能提取新材料中的关键事实，不靠背诵原文",
+    "能根据变化的条件组织一句或一段表达",
+    "能指出不确定之处并请求澄清"
+  ],
+  "remediation": [
+    {
+      "condition_zh": "目标规律使用不稳定或未能提取关键信息",
+      "lesson_ids": [
+        "Pre-A1-U06-L01"
+      ],
+      "action_zh": "返回规律卡，对照两例；隔一次其他练习后重做未见情境。"
+    }
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "Pre-A1-U06-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U06-CHECK--2026.10.22.1--text--fa4c17bccf--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U06-CHECK--2026.10.22.1--text--fa4c17bccf--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U06-CHECK--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Kávu, prosím. S mlékem, bez cukru. Tady máte.",
+      "duration_seconds": 5.183990929705216,
+      "slow_duration_seconds": 5.752879818594105,
+      "sha256": "ae1dbd43abedf38b82028269bde200ad7d0f5c5514c1f38f311e02ea4620d111",
+      "slow_sha256": "08814416994e16c6ad7c74df115cc4e3cfc945d144001c30741c37339fd644d7"
+    },
+    {
+      "lesson_id": "Pre-A1-U06-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U06-CHECK--2026.10.22.1--text--fa4c17bccf--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U06-CHECK--2026.10.22.1--text--fa4c17bccf--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U06-CHECK--2026.10.22.1--text--p0",
+      "asset_id": "Pre-A1-U06-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Kávu, prosím. S mlékem, bez cukru.",
+      "start": 0,
+      "end": 3.7210430839002266,
+      "slow_start": 0,
+      "slow_end": 4.127392290249433
+    },
+    {
+      "lesson_id": "Pre-A1-U06-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U06-CHECK--2026.10.22.1--text--fa4c17bccf--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U06-CHECK--2026.10.22.1--text--fa4c17bccf--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U06-CHECK--2026.10.22.1--text--s0",
+      "asset_id": "Pre-A1-U06-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Kávu, prosím.",
+      "start": 0,
+      "end": 1.474467120181406,
+      "slow_start": 0,
+      "slow_end": 1.6370068027210884
+    },
+    {
+      "lesson_id": "Pre-A1-U06-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U06-CHECK--2026.10.22.1--text--fa4c17bccf--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U06-CHECK--2026.10.22.1--text--fa4c17bccf--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U06-CHECK--2026.10.22.1--text--s1",
+      "asset_id": "Pre-A1-U06-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "S mlékem, bez cukru.",
+      "start": 1.6544671201814058,
+      "end": 3.7210430839002266,
+      "slow_start": 1.8170068027210884,
+      "slow_end": 4.127392290249433
+    },
+    {
+      "lesson_id": "Pre-A1-U06-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U06-CHECK--2026.10.22.1--text--fa4c17bccf--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U06-CHECK--2026.10.22.1--text--fa4c17bccf--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U06-CHECK--2026.10.22.1--text--p1",
+      "asset_id": "Pre-A1-U06-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Tady máte.",
+      "start": 3.901043083900227,
+      "end": 5.003990929705216,
+      "slow_start": 4.3073922902494335,
+      "slow_end": 5.572879818594104
+    },
+    {
+      "lesson_id": "Pre-A1-U06-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U06-CHECK--2026.10.22.1--text--fa4c17bccf--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U06-CHECK--2026.10.22.1--text--fa4c17bccf--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U06-CHECK--2026.10.22.1--text--s2",
+      "asset_id": "Pre-A1-U06-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 1,
+      "sentence_index": 0,
+      "text": "Tady máte.",
+      "start": 3.901043083900227,
+      "end": 5.003990929705216,
+      "slow_start": 4.3073922902494335,
+      "slow_end": 5.572879818594104
+    },
+    {
+      "lesson_id": "Pre-A1-U06-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U06-CHECK--2026.10.22.1--exercises--8ee5dbf785--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U06-CHECK--2026.10.22.1--exercises--8ee5dbf785--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U06-CHECK--2026.10.22.1--exercises",
+      "role": "exercises-full",
+      "index": 0,
+      "text": "S mlékem, bez cukru.",
+      "duration_seconds": 2.2233560090702946,
+      "slow_duration_seconds": 2.4903854875283447,
+      "sha256": "abc72c4b437c1039b70b4397320f2fd5aef951d3a39d18c46b37fe0d41fd8a71",
+      "slow_sha256": "22cf082e6187243937fc24016a911a8e177e478268a68cd66cbb6cf11c3debaa"
+    },
+    {
+      "lesson_id": "Pre-A1-U06-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U06-CHECK--2026.10.22.1--exercises--8ee5dbf785--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U06-CHECK--2026.10.22.1--exercises--8ee5dbf785--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U06-CHECK--2026.10.22.1--exercises--p0",
+      "asset_id": "Pre-A1-U06-CHECK--2026.10.22.1--exercises",
+      "role": "exercise",
+      "index": 0,
+      "exercise_id": "Pre-A1-U06-CHECK-E01",
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "S mlékem, bez cukru.",
+      "start": 0,
+      "end": 2.043356009070295,
+      "slow_start": 0,
+      "slow_end": 2.3103854875283445
+    }
+  ]
+}

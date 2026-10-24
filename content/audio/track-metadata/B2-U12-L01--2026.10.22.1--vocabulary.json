@@ -1,0 +1,144 @@
+{
+  "id": "B2-U12-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "B2-U12-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B2",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Potřebuji souvislý čas na práci.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Potřebuji souvislý čas na práci."
+      ]
+    },
+    {
+      "text": "Nový režim zvyšuje nároky na koordinaci.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Nový režim zvyšuje nároky na koordinaci."
+      ]
+    },
+    {
+      "text": "Slogan nenahrazuje pravidla.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Slogan nenahrazuje pravidla."
+      ]
+    },
+    {
+      "text": "Opatření neplní svůj účel.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Opatření neplní svůj účel."
+      ]
+    }
+  ],
+  "text_sha256": "ebcd7a662131894d5c68214731882c6e4eb432ea76bf371bbc6f9a06904caa8b",
+  "source_file": "content/lessons/B2/B2-U12-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U12-L01--2026.10.22.1--vocabulary--ebcd7a6621--normal.mp3",
+  "slow_file": "content/audio/files/B2-U12-L01--2026.10.22.1--vocabulary--ebcd7a6621--slow.mp3",
+  "duration_seconds": 12.666666666666666,
+  "slow_duration_seconds": 14.025034013605442,
+  "cues": [
+    {
+      "text": "Potřebuji souvislý čas na práci.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Potřebuji souvislý čas na práci."
+      ],
+      "start": 0.0,
+      "end": 2.809614512471655,
+      "sentences": [
+        {
+          "text": "Potřebuji souvislý čas na práci.",
+          "start": 0.0,
+          "end": 2.809614512471655,
+          "slow_start": 0.0,
+          "slow_end": 3.1579138321995464
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 3.1579138321995464
+    },
+    {
+      "text": "Nový režim zvyšuje nároky na koordinaci.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Nový režim zvyšuje nároky na koordinaci."
+      ],
+      "start": 2.9896145124716553,
+      "end": 6.786077097505669,
+      "sentences": [
+        {
+          "text": "Nový režim zvyšuje nároky na koordinaci.",
+          "start": 2.9896145124716553,
+          "end": 6.786077097505669,
+          "slow_start": 3.3379138321995465,
+          "slow_end": 7.529115646258504
+        }
+      ],
+      "slow_start": 3.3379138321995465,
+      "slow_end": 7.529115646258504
+    },
+    {
+      "text": "Slogan nenahrazuje pravidla.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Slogan nenahrazuje pravidla."
+      ],
+      "start": 6.966077097505669,
+      "end": 9.276462585034013,
+      "sentences": [
+        {
+          "text": "Slogan nenahrazuje pravidla.",
+          "start": 6.966077097505669,
+          "end": 9.276462585034013,
+          "slow_start": 7.709115646258503,
+          "slow_end": 10.286530612244897
+        }
+      ],
+      "slow_start": 7.709115646258503,
+      "slow_end": 10.286530612244897
+    },
+    {
+      "text": "Opatření neplní svůj účel.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Opatření neplní svůj účel."
+      ],
+      "start": 9.456462585034014,
+      "end": 12.486666666666666,
+      "sentences": [
+        {
+          "text": "Opatření neplní svůj účel.",
+          "start": 9.456462585034014,
+          "end": 12.486666666666666,
+          "slow_start": 10.466530612244897,
+          "slow_end": 13.845034013605442
+        }
+      ],
+      "slow_start": 10.466530612244897,
+      "slow_end": 13.845034013605442
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "b727799f88bb646255e807bce2bad8da5fd38c5366c5df0be4f6d7559c53259a",
+    "slow": "d68469c40d3728952f31970642cfe83ed46d5a42c8ca5cb770cc2345c502a99b"
+  }
+}

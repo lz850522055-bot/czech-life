@@ -1,0 +1,511 @@
+{
+  "id": "C1-U04-L01--2026.10.23.1--text",
+  "lesson_id": "C1-U04-L01",
+  "content_version": "2026.10.23.1",
+  "level": "C1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Místní spolek chtěl zpřístupnit sbírku starých fotografií. Na první schůzce dodavatel oznámil, že navrhuje digitalizaci, doplnění metadat a zavedení dlouhodobé správy souborů. Někteří dobrovolníci přikývli, přestože přesně nevěděli, co jednotlivé části znamenají. Jeden z nich se nakonec zeptal, zda po digitalizaci budou moci papírové fotografie vyhodit. Tato otázka odhalila mezeru, kterou by samotný souhlas s nabídkou nezachytil: společný výraz ještě nezaručoval společné porozumění.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Místní spolek chtěl zpřístupnit sbírku starých fotografií.",
+        "Na první schůzce dodavatel oznámil, že navrhuje digitalizaci, doplnění metadat a zavedení dlouhodobé správy souborů.",
+        "Někteří dobrovolníci přikývli, přestože přesně nevěděli, co jednotlivé části znamenají.",
+        "Jeden z nich se nakonec zeptal, zda po digitalizaci budou moci papírové fotografie vyhodit.",
+        "Tato otázka odhalila mezeru, kterou by samotný souhlas s nabídkou nezachytil: společný výraz ještě nezaručoval společné porozumění."
+      ]
+    },
+    {
+      "text": "Odbornice vysvětlila, že digitalizací zde myslí vytvoření digitální podoby předlohy, nikoli automatické vyřešení všech otázek uchovávání. Kvalitní snímek může zpřístupnit detaily a usnadnit práci, ale nezachytí vždy všechny vlastnosti původního předmětu. Rozhodnutí o uchování originálu proto vyžaduje další posouzení. Definice byla úmyslně omezena slovy zde myslíme. Stejný pojem může mít v různých oborech širší nebo užší význam a účastníci potřebovali dohodnout význam platný pro tento projekt.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Odbornice vysvětlila, že digitalizací zde myslí vytvoření digitální podoby předlohy, nikoli automatické vyřešení všech otázek uchovávání.",
+        "Kvalitní snímek může zpřístupnit detaily a usnadnit práci, ale nezachytí vždy všechny vlastnosti původního předmětu.",
+        "Rozhodnutí o uchování originálu proto vyžaduje další posouzení.",
+        "Definice byla úmyslně omezena slovy zde myslíme.",
+        "Stejný pojem může mít v různých oborech širší nebo užší význam a účastníci potřebovali dohodnout význam platný pro tento projekt."
+      ]
+    },
+    {
+      "text": "Metadata pak nepopsala jako záhadnou vrstvu technologie. Řekla, že jde o údaje, díky nimž bude možné snímek najít a pochopit: kdo je na něm, kdy přibližně vznikl, odkud pochází a jak jistá tato informace je. U jedné fotografie uvedla příklad: nápis na obálce tvrdí, že byla pořízena v létě, ale samotný obraz to nepotvrzuje. V záznamu proto nemá stát přesné datum jako ověřený fakt. Je třeba odlišit popis zdroje od jistoty tvrzení.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Metadata pak nepopsala jako záhadnou vrstvu technologie.",
+        "Řekla, že jde o údaje, díky nimž bude možné snímek najít a pochopit: kdo je na něm, kdy přibližně vznikl, odkud pochází a jak jistá tato informace je.",
+        "U jedné fotografie uvedla příklad: nápis na obálce tvrdí, že byla pořízena v létě, ale samotný obraz to nepotvrzuje.",
+        "V záznamu proto nemá stát přesné datum jako ověřený fakt.",
+        "Je třeba odlišit popis zdroje od jistoty tvrzení."
+      ]
+    },
+    {
+      "text": "Předseda se obával, že takový postup bude příliš pomalý. Navrhl neznámé údaje automaticky doplnit, aby evidence vypadala úplně. Odbornice upozornila, že prázdné pole a chybný údaj nejsou stejné nedostatky. Chybějící informace může badatele vést k další otázce, zatímco sebejistě zapsaný omyl jej navede špatným směrem. Smyslem evidence není vytvořit dojem bezchybnosti, nýbrž umožnit pozdější kontrolu. Údaj neznámý je někdy přesnější než údaj, který pouze zní přesvědčivě.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Předseda se obával, že takový postup bude příliš pomalý.",
+        "Navrhl neznámé údaje automaticky doplnit, aby evidence vypadala úplně.",
+        "Odbornice upozornila, že prázdné pole a chybný údaj nejsou stejné nedostatky.",
+        "Chybějící informace může badatele vést k další otázce, zatímco sebejistě zapsaný omyl jej navede špatným směrem.",
+        "Smyslem evidence není vytvořit dojem bezchybnosti, nýbrž umožnit pozdější kontrolu.",
+        "Údaj neznámý je někdy přesnější než údaj, který pouze zní přesvědčivě."
+      ]
+    },
+    {
+      "text": "Další diskuse se týkala slova dostupnost. Pro dodavatele znamenalo, že soubor lze technicky otevřít; pro návštěvnici to znamenalo, že fotografii najde, přečte popis a smí ji použít. Ani jeden význam nebyl nesmyslný, ale pro plánování nestačilo ponechat je smíšené. Tým proto zvlášť vymezil technický přístup, srozumitelnost popisu a oprávnění k dalšímu užití. Teprve poté mohl určit, co se bude kontrolovat při převzetí práce a co zůstane odpovědností spolku.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Další diskuse se týkala slova dostupnost.",
+        "Pro dodavatele znamenalo, že soubor lze technicky otevřít; pro návštěvnici to znamenalo, že fotografii najde, přečte popis a smí ji použít.",
+        "Ani jeden význam nebyl nesmyslný, ale pro plánování nestačilo ponechat je smíšené.",
+        "Tým proto zvlášť vymezil technický přístup, srozumitelnost popisu a oprávnění k dalšímu užití.",
+        "Teprve poté mohl určit, co se bude kontrolovat při převzetí práce a co zůstane odpovědností spolku."
+      ]
+    },
+    {
+      "text": "Na závěr odbornice požádala dobrovolníky, aby vlastními slovy vysvětlili, co se stane s jednou vybranou fotografií. Nešlo o zkoušení odborné slovní zásoby. Chtěla zjistit, zda dokážou rozlišit kroky, rozpoznat nejistotu a vědí, kdy se mají zeptat. Dobré odborné vysvětlení neodstraňuje složitost tím, že ji zatají. Rozdělí ji tak, aby druhý člověk mohl odpovědně jednat, aniž by se nejprve musel stát specialistou. Přesnost a srozumitelnost se za těchto podmínek navzájem podporují.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Na závěr odbornice požádala dobrovolníky, aby vlastními slovy vysvětlili, co se stane s jednou vybranou fotografií.",
+        "Nešlo o zkoušení odborné slovní zásoby.",
+        "Chtěla zjistit, zda dokážou rozlišit kroky, rozpoznat nejistotu a vědí, kdy se mají zeptat.",
+        "Dobré odborné vysvětlení neodstraňuje složitost tím, že ji zatají.",
+        "Rozdělí ji tak, aby druhý člověk mohl odpovědně jednat, aniž by se nejprve musel stát specialistou.",
+        "Přesnost a srozumitelnost se za těchto podmínek navzájem podporují."
+      ]
+    },
+    {
+      "text": "Při praktické ukázce dostali dva dobrovolníci stejnou fotografii, ale různé doprovodné poznámky. Každý vytvořil poněkud jiný popis. Rozdíl nebyl hned důvodem určit jednoho z nich jako chybujícího. Nejdříve porovnali, které informace měli k dispozici a jak z nich vyvozovali závěr. Teprve potom mohli sjednotit postup: přímý popis obrazu oddělit od údajů převzatých z poznámek a vlastní odhad označit jako odhad. Tato malá zkouška ukázala, že znalost správné definice je začátek; skutečné porozumění se projeví až při práci s nejednoznačným případem.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Při praktické ukázce dostali dva dobrovolníci stejnou fotografii, ale různé doprovodné poznámky.",
+        "Každý vytvořil poněkud jiný popis.",
+        "Rozdíl nebyl hned důvodem určit jednoho z nich jako chybujícího.",
+        "Nejdříve porovnali, které informace měli k dispozici a jak z nich vyvozovali závěr.",
+        "Teprve potom mohli sjednotit postup: přímý popis obrazu oddělit od údajů převzatých z poznámek a vlastní odhad označit jako odhad.",
+        "Tato malá zkouška ukázala, že znalost správné definice je začátek; skutečné porozumění se projeví až při práci s nejednoznačným případem."
+      ]
+    }
+  ],
+  "text_sha256": "87470dbcd257d06f1ca1abc5248ed29419dd7818ce6cc6ad672ea962305bd2b8",
+  "source_file": "content/lessons/C1/C1-U04-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U04-L01--2026.10.22.1--text--87470dbcd2--normal.mp3",
+  "slow_file": "content/audio/files/C1-U04-L01--2026.10.22.1--text--87470dbcd2--slow.mp3",
+  "duration_seconds": 301.0019954648526,
+  "slow_duration_seconds": 338.78086167800456,
+  "cues": [
+    {
+      "text": "Místní spolek chtěl zpřístupnit sbírku starých fotografií. Na první schůzce dodavatel oznámil, že navrhuje digitalizaci, doplnění metadat a zavedení dlouhodobé správy souborů. Někteří dobrovolníci přikývli, přestože přesně nevěděli, co jednotlivé části znamenají. Jeden z nich se nakonec zeptal, zda po digitalizaci budou moci papírové fotografie vyhodit. Tato otázka odhalila mezeru, kterou by samotný souhlas s nabídkou nezachytil: společný výraz ještě nezaručoval společné porozumění.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Místní spolek chtěl zpřístupnit sbírku starých fotografií.",
+        "Na první schůzce dodavatel oznámil, že navrhuje digitalizaci, doplnění metadat a zavedení dlouhodobé správy souborů.",
+        "Někteří dobrovolníci přikývli, přestože přesně nevěděli, co jednotlivé části znamenají.",
+        "Jeden z nich se nakonec zeptal, zda po digitalizaci budou moci papírové fotografie vyhodit.",
+        "Tato otázka odhalila mezeru, kterou by samotný souhlas s nabídkou nezachytil: společný výraz ještě nezaručoval společné porozumění."
+      ],
+      "start": 0.0,
+      "end": 43.17768707482993,
+      "sentences": [
+        {
+          "text": "Místní spolek chtěl zpřístupnit sbírku starých fotografií.",
+          "start": 0.0,
+          "end": 5.178049886621316,
+          "slow_start": 0.0,
+          "slow_end": 5.851428571428571
+        },
+        {
+          "text": "Na první schůzce dodavatel oznámil, že navrhuje digitalizaci, doplnění metadat a zavedení dlouhodobé správy souborů.",
+          "start": 5.358049886621315,
+          "end": 15.690929705215419,
+          "slow_start": 6.031428571428571,
+          "slow_end": 17.37437641723356
+        },
+        {
+          "text": "Někteří dobrovolníci přikývli, přestože přesně nevěděli, co jednotlivé části znamenají.",
+          "start": 15.870929705215419,
+          "end": 23.5102947845805,
+          "slow_start": 17.55437641723356,
+          "slow_end": 25.867120181405895
+        },
+        {
+          "text": "Jeden z nich se nakonec zeptal, zda po digitalizaci budou moci papírové fotografie vyhodit.",
+          "start": 23.690294784580498,
+          "end": 31.445759637188207,
+          "slow_start": 26.047120181405894,
+          "slow_end": 34.95197278911564
+        },
+        {
+          "text": "Tato otázka odhalila mezeru, kterou by samotný souhlas s nabídkou nezachytil: společný výraz ještě nezaručoval společné porozumění.",
+          "start": 31.62575963718821,
+          "end": 43.17768707482993,
+          "slow_start": 35.13197278911564,
+          "slow_end": 48.204807256235824
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 48.204807256235824
+    },
+    {
+      "text": "Odbornice vysvětlila, že digitalizací zde myslí vytvoření digitální podoby předlohy, nikoli automatické vyřešení všech otázek uchovávání. Kvalitní snímek může zpřístupnit detaily a usnadnit práci, ale nezachytí vždy všechny vlastnosti původního předmětu. Rozhodnutí o uchování originálu proto vyžaduje další posouzení. Definice byla úmyslně omezena slovy zde myslíme. Stejný pojem může mít v různých oborech širší nebo užší význam a účastníci potřebovali dohodnout význam platný pro tento projekt.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Odbornice vysvětlila, že digitalizací zde myslí vytvoření digitální podoby předlohy, nikoli automatické vyřešení všech otázek uchovávání.",
+        "Kvalitní snímek může zpřístupnit detaily a usnadnit práci, ale nezachytí vždy všechny vlastnosti původního předmětu.",
+        "Rozhodnutí o uchování originálu proto vyžaduje další posouzení.",
+        "Definice byla úmyslně omezena slovy zde myslíme.",
+        "Stejný pojem může mít v různých oborech širší nebo užší význam a účastníci potřebovali dohodnout význam platný pro tento projekt."
+      ],
+      "start": 43.35768707482993,
+      "end": 86.40766439909297,
+      "sentences": [
+        {
+          "text": "Odbornice vysvětlila, že digitalizací zde myslí vytvoření digitální podoby předlohy, nikoli automatické vyřešení všech otázek uchovávání.",
+          "start": 43.35768707482993,
+          "end": 55.02571428571429,
+          "slow_start": 48.38480725623583,
+          "slow_end": 61.60857142857143
+        },
+        {
+          "text": "Kvalitní snímek může zpřístupnit detaily a usnadnit práci, ale nezachytí vždy všechny vlastnosti původního předmětu.",
+          "start": 55.205714285714286,
+          "end": 64.76072562358277,
+          "slow_start": 61.78857142857143,
+          "slow_end": 72.62068027210884
+        },
+        {
+          "text": "Rozhodnutí o uchování originálu proto vyžaduje další posouzení.",
+          "start": 64.94072562358276,
+          "end": 70.3625850340136,
+          "slow_start": 72.80068027210885,
+          "slow_end": 78.96557823129251
+        },
+        {
+          "text": "Definice byla úmyslně omezena slovy zde myslíme.",
+          "start": 70.54258503401361,
+          "end": 74.93115646258504,
+          "slow_start": 79.14557823129252,
+          "slow_end": 84.07981859410431
+        },
+        {
+          "text": "Stejný pojem může mít v různých oborech širší nebo užší význam a účastníci potřebovali dohodnout význam platný pro tento projekt.",
+          "start": 75.11115646258503,
+          "end": 86.40766439909297,
+          "slow_start": 84.2598185941043,
+          "slow_end": 96.57800453514739
+        }
+      ],
+      "slow_start": 48.38480725623583,
+      "slow_end": 96.57800453514739
+    },
+    {
+      "text": "Metadata pak nepopsala jako záhadnou vrstvu technologie. Řekla, že jde o údaje, díky nimž bude možné snímek najít a pochopit: kdo je na něm, kdy přibližně vznikl, odkud pochází a jak jistá tato informace je. U jedné fotografie uvedla příklad: nápis na obálce tvrdí, že byla pořízena v létě, ale samotný obraz to nepotvrzuje. V záznamu proto nemá stát přesné datum jako ověřený fakt. Je třeba odlišit popis zdroje od jistoty tvrzení.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Metadata pak nepopsala jako záhadnou vrstvu technologie.",
+        "Řekla, že jde o údaje, díky nimž bude možné snímek najít a pochopit: kdo je na něm, kdy přibližně vznikl, odkud pochází a jak jistá tato informace je.",
+        "U jedné fotografie uvedla příklad: nápis na obálce tvrdí, že byla pořízena v létě, ale samotný obraz to nepotvrzuje.",
+        "V záznamu proto nemá stát přesné datum jako ověřený fakt.",
+        "Je třeba odlišit popis zdroje od jistoty tvrzení."
+      ],
+      "start": 86.58766439909297,
+      "end": 124.5524716553288,
+      "sentences": [
+        {
+          "text": "Metadata pak nepopsala jako záhadnou vrstvu technologie.",
+          "start": 86.58766439909297,
+          "end": 90.98784580498867,
+          "slow_start": 96.75800453514739,
+          "slow_end": 101.7502947845805
+        },
+        {
+          "text": "Řekla, že jde o údaje, díky nimž bude možné snímek najít a pochopit: kdo je na něm, kdy přibližně vznikl, odkud pochází a jak jistá tato informace je.",
+          "start": 91.16784580498866,
+          "end": 103.8459410430839,
+          "slow_start": 101.9302947845805,
+          "slow_end": 116.28022675736962
+        },
+        {
+          "text": "U jedné fotografie uvedla příklad: nápis na obálce tvrdí, že byla pořízena v létě, ale samotný obraz to nepotvrzuje.",
+          "start": 104.0259410430839,
+          "end": 114.77678004535147,
+          "slow_start": 116.46022675736961,
+          "slow_end": 128.75519274376418
+        },
+        {
+          "text": "V záznamu proto nemá stát přesné datum jako ověřený fakt.",
+          "start": 114.95678004535148,
+          "end": 120.34380952380953,
+          "slow_start": 128.93519274376416,
+          "slow_end": 134.97238095238095
+        },
+        {
+          "text": "Je třeba odlišit popis zdroje od jistoty tvrzení.",
+          "start": 120.52380952380952,
+          "end": 124.5524716553288,
+          "slow_start": 135.15238095238095,
+          "slow_end": 139.76154195011338
+        }
+      ],
+      "slow_start": 96.75800453514739,
+      "slow_end": 139.76154195011338
+    },
+    {
+      "text": "Předseda se obával, že takový postup bude příliš pomalý. Navrhl neznámé údaje automaticky doplnit, aby evidence vypadala úplně. Odbornice upozornila, že prázdné pole a chybný údaj nejsou stejné nedostatky. Chybějící informace může badatele vést k další otázce, zatímco sebejistě zapsaný omyl jej navede špatným směrem. Smyslem evidence není vytvořit dojem bezchybnosti, nýbrž umožnit pozdější kontrolu. Údaj neznámý je někdy přesnější než údaj, který pouze zní přesvědčivě.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Předseda se obával, že takový postup bude příliš pomalý.",
+        "Navrhl neznámé údaje automaticky doplnit, aby evidence vypadala úplně.",
+        "Odbornice upozornila, že prázdné pole a chybný údaj nejsou stejné nedostatky.",
+        "Chybějící informace může badatele vést k další otázce, zatímco sebejistě zapsaný omyl jej navede špatným směrem.",
+        "Smyslem evidence není vytvořit dojem bezchybnosti, nýbrž umožnit pozdější kontrolu.",
+        "Údaj neznámý je někdy přesnější než údaj, který pouze zní přesvědčivě."
+      ],
+      "start": 124.7324716553288,
+      "end": 168.14820861678004,
+      "sentences": [
+        {
+          "text": "Předseda se obával, že takový postup bude příliš pomalý.",
+          "start": 124.7324716553288,
+          "end": 129.5390022675737,
+          "slow_start": 139.9415419501134,
+          "slow_end": 145.4678911564626
+        },
+        {
+          "text": "Navrhl neznámé údaje automaticky doplnit, aby evidence vypadala úplně.",
+          "start": 129.7190022675737,
+          "end": 136.03482993197278,
+          "slow_start": 145.64789115646258,
+          "slow_end": 152.7415873015873
+        },
+        {
+          "text": "Odbornice upozornila, že prázdné pole a chybný údaj nejsou stejné nedostatky.",
+          "start": 136.2148299319728,
+          "end": 143.13437641723357,
+          "slow_start": 152.9215873015873,
+          "slow_end": 160.51451247165534
+        },
+        {
+          "text": "Chybějící informace může badatele vést k další otázce, zatímco sebejistě zapsaný omyl jej navede špatným směrem.",
+          "start": 143.31437641723355,
+          "end": 154.1697052154195,
+          "slow_start": 160.69451247165532,
+          "slow_end": 172.72244897959183
+        },
+        {
+          "text": "Smyslem evidence není vytvořit dojem bezchybnosti, nýbrž umožnit pozdější kontrolu.",
+          "start": 154.3497052154195,
+          "end": 161.73365079365078,
+          "slow_start": 172.90244897959184,
+          "slow_end": 181.36612244897958
+        },
+        {
+          "text": "Údaj neznámý je někdy přesnější než údaj, který pouze zní přesvědčivě.",
+          "start": 161.9136507936508,
+          "end": 168.14820861678004,
+          "slow_start": 181.5461224489796,
+          "slow_end": 188.83718820861677
+        }
+      ],
+      "slow_start": 139.9415419501134,
+      "slow_end": 188.83718820861677
+    },
+    {
+      "text": "Další diskuse se týkala slova dostupnost. Pro dodavatele znamenalo, že soubor lze technicky otevřít; pro návštěvnici to znamenalo, že fotografii najde, přečte popis a smí ji použít. Ani jeden význam nebyl nesmyslný, ale pro plánování nestačilo ponechat je smíšené. Tým proto zvlášť vymezil technický přístup, srozumitelnost popisu a oprávnění k dalšímu užití. Teprve poté mohl určit, co se bude kontrolovat při převzetí práce a co zůstane odpovědností spolku.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Další diskuse se týkala slova dostupnost.",
+        "Pro dodavatele znamenalo, že soubor lze technicky otevřít; pro návštěvnici to znamenalo, že fotografii najde, přečte popis a smí ji použít.",
+        "Ani jeden význam nebyl nesmyslný, ale pro plánování nestačilo ponechat je smíšené.",
+        "Tým proto zvlášť vymezil technický přístup, srozumitelnost popisu a oprávnění k dalšímu užití.",
+        "Teprve poté mohl určit, co se bude kontrolovat při převzetí práce a co zůstane odpovědností spolku."
+      ],
+      "start": 168.32820861678005,
+      "end": 209.76439909297054,
+      "sentences": [
+        {
+          "text": "Další diskuse se týkala slova dostupnost.",
+          "start": 168.32820861678005,
+          "end": 172.0201814058957,
+          "slow_start": 189.01718820861677,
+          "slow_end": 193.1271201814059
+        },
+        {
+          "text": "Pro dodavatele znamenalo, že soubor lze technicky otevřít; pro návštěvnici to znamenalo, že fotografii najde, přečte popis a smí ji použít.",
+          "start": 172.2001814058957,
+          "end": 184.30938775510205,
+          "slow_start": 193.3071201814059,
+          "slow_end": 206.7514739229025
+        },
+        {
+          "text": "Ani jeden význam nebyl nesmyslný, ale pro plánování nestačilo ponechat je smíšené.",
+          "start": 184.48938775510203,
+          "end": 192.50027210884355,
+          "slow_start": 206.93147392290248,
+          "slow_end": 215.90598639455783
+        },
+        {
+          "text": "Tým proto zvlášť vymezil technický přístup, srozumitelnost popisu a oprávnění k dalšímu užití.",
+          "start": 192.68027210884352,
+          "end": 200.99301587301588,
+          "slow_start": 216.08598639455784,
+          "slow_end": 225.57133786848073
+        },
+        {
+          "text": "Teprve poté mohl určit, co se bude kontrolovat při převzetí práce a co zůstane odpovědností spolku.",
+          "start": 201.17301587301588,
+          "end": 209.76439909297054,
+          "slow_start": 225.75133786848073,
+          "slow_end": 235.57337868480727
+        }
+      ],
+      "slow_start": 189.01718820861677,
+      "slow_end": 235.57337868480727
+    },
+    {
+      "text": "Na závěr odbornice požádala dobrovolníky, aby vlastními slovy vysvětlili, co se stane s jednou vybranou fotografií. Nešlo o zkoušení odborné slovní zásoby. Chtěla zjistit, zda dokážou rozlišit kroky, rozpoznat nejistotu a vědí, kdy se mají zeptat. Dobré odborné vysvětlení neodstraňuje složitost tím, že ji zatají. Rozdělí ji tak, aby druhý člověk mohl odpovědně jednat, aniž by se nejprve musel stát specialistou. Přesnost a srozumitelnost se za těchto podmínek navzájem podporují.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Na závěr odbornice požádala dobrovolníky, aby vlastními slovy vysvětlili, co se stane s jednou vybranou fotografií.",
+        "Nešlo o zkoušení odborné slovní zásoby.",
+        "Chtěla zjistit, zda dokážou rozlišit kroky, rozpoznat nejistotu a vědí, kdy se mají zeptat.",
+        "Dobré odborné vysvětlení neodstraňuje složitost tím, že ji zatají.",
+        "Rozdělí ji tak, aby druhý člověk mohl odpovědně jednat, aniž by se nejprve musel stát specialistou.",
+        "Přesnost a srozumitelnost se za těchto podmínek navzájem podporují."
+      ],
+      "start": 209.9443990929705,
+      "end": 252.3152380952381,
+      "sentences": [
+        {
+          "text": "Na závěr odbornice požádala dobrovolníky, aby vlastními slovy vysvětlili, co se stane s jednou vybranou fotografií.",
+          "start": 209.9443990929705,
+          "end": 220.32371882086167,
+          "slow_start": 235.75337868480725,
+          "slow_end": 247.38657596371883
+        },
+        {
+          "text": "Nešlo o zkoušení odborné slovní zásoby.",
+          "start": 220.50371882086168,
+          "end": 224.14925170068028,
+          "slow_start": 247.56657596371883,
+          "slow_end": 251.7809977324263
+        },
+        {
+          "text": "Chtěla zjistit, zda dokážou rozlišit kroky, rozpoznat nejistotu a vědí, kdy se mají zeptat.",
+          "start": 224.32925170068026,
+          "end": 232.11954648526077,
+          "slow_start": 251.9609977324263,
+          "slow_end": 261.1328798185941
+        },
+        {
+          "text": "Dobré odborné vysvětlení neodstraňuje složitost tím, že ji zatají.",
+          "start": 232.29954648526078,
+          "end": 238.10453514739228,
+          "slow_start": 261.3128798185941,
+          "slow_end": 267.88412698412696
+        },
+        {
+          "text": "Rozdělí ji tak, aby druhý člověk mohl odpovědně jednat, aniž by se nejprve musel stát specialistou.",
+          "start": 238.2845351473923,
+          "end": 246.95718820861677,
+          "slow_start": 268.064126984127,
+          "slow_end": 277.6075283446712
+        },
+        {
+          "text": "Přesnost a srozumitelnost se za těchto podmínek navzájem podporují.",
+          "start": 247.13718820861678,
+          "end": 252.3152380952381,
+          "slow_start": 277.7875283446712,
+          "slow_end": 283.76666666666665
+        }
+      ],
+      "slow_start": 235.75337868480725,
+      "slow_end": 283.76666666666665
+    },
+    {
+      "text": "Při praktické ukázce dostali dva dobrovolníci stejnou fotografii, ale různé doprovodné poznámky. Každý vytvořil poněkud jiný popis. Rozdíl nebyl hned důvodem určit jednoho z nich jako chybujícího. Nejdříve porovnali, které informace měli k dispozici a jak z nich vyvozovali závěr. Teprve potom mohli sjednotit postup: přímý popis obrazu oddělit od údajů převzatých z poznámek a vlastní odhad označit jako odhad. Tato malá zkouška ukázala, že znalost správné definice je začátek; skutečné porozumění se projeví až při práci s nejednoznačným případem.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Při praktické ukázce dostali dva dobrovolníci stejnou fotografii, ale různé doprovodné poznámky.",
+        "Každý vytvořil poněkud jiný popis.",
+        "Rozdíl nebyl hned důvodem určit jednoho z nich jako chybujícího.",
+        "Nejdříve porovnali, které informace měli k dispozici a jak z nich vyvozovali závěr.",
+        "Teprve potom mohli sjednotit postup: přímý popis obrazu oddělit od údajů převzatých z poznámek a vlastní odhad označit jako odhad.",
+        "Tato malá zkouška ukázala, že znalost správné definice je začátek; skutečné porozumění se projeví až při práci s nejednoznačným případem."
+      ],
+      "start": 252.4952380952381,
+      "end": 300.8219954648526,
+      "sentences": [
+        {
+          "text": "Při praktické ukázce dostali dva dobrovolníci stejnou fotografii, ale různé doprovodné poznámky.",
+          "start": 252.4952380952381,
+          "end": 260.7963718820862,
+          "slow_start": 283.94666666666666,
+          "slow_end": 293.3855782312925
+        },
+        {
+          "text": "Každý vytvořil poněkud jiný popis.",
+          "start": 260.97637188208614,
+          "end": 264.12267573696147,
+          "slow_start": 293.56557823129253,
+          "slow_end": 297.07179138321993
+        },
+        {
+          "text": "Rozdíl nebyl hned důvodem určit jednoho z nich jako chybujícího.",
+          "start": 264.3026757369615,
+          "end": 269.99156462585034,
+          "slow_start": 297.25179138321994,
+          "slow_end": 303.76498866213154
+        },
+        {
+          "text": "Nejdříve porovnali, které informace měli k dispozici a jak z nich vyvozovali závěr.",
+          "start": 270.17156462585035,
+          "end": 277.1259410430839,
+          "slow_start": 303.9449886621315,
+          "slow_end": 311.909433106576
+        },
+        {
+          "text": "Teprve potom mohli sjednotit postup: přímý popis obrazu oddělit od údajů převzatých z poznámek a vlastní odhad označit jako odhad.",
+          "start": 277.3059410430839,
+          "end": 288.54439909297054,
+          "slow_start": 312.08943310657594,
+          "slow_end": 324.87201814058955
+        },
+        {
+          "text": "Tato malá zkouška ukázala, že znalost správné definice je začátek; skutečné porozumění se projeví až při práci s nejednoznačným případem.",
+          "start": 288.72439909297054,
+          "end": 300.8219954648526,
+          "slow_start": 325.05201814058955,
+          "slow_end": 338.60086167800455
+        }
+      ],
+      "slow_start": 283.94666666666666,
+      "slow_end": 338.60086167800455
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "e2b0346087093b2998dca4978eb1012b736d902dd0252f15c4acdd67d1c34782",
+    "slow": "1a9033d91212df2587db0df37b6789e93b0ca582a3072847a63530a9c667b587"
+  },
+  "reused_from_track_id": "C1-U04-L01--2026.10.22.1--text"
+}

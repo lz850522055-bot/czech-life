@@ -1,0 +1,306 @@
+{
+  "id": "B1-U09-L01--2026.10.22.1--text",
+  "lesson_id": "B1-U09-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Objednal jsem šest modrých hrnků jako dárek pro přátele. Když zásilka dorazila, byly v krabici čtyři modré a dva bílé hrnky. Jeden z modrých měl navíc poškozené ucho. Nejdřív jsem porovnal zboží s potvrzením objednávky. Chtěl jsem si být jistý, že jsem při nákupu sám nezvolil smíšené balení. V potvrzení však stálo šest kusů v modré barvě.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Objednal jsem šest modrých hrnků jako dárek pro přátele.",
+        "Když zásilka dorazila, byly v krabici čtyři modré a dva bílé hrnky.",
+        "Jeden z modrých měl navíc poškozené ucho.",
+        "Nejdřív jsem porovnal zboží s potvrzením objednávky.",
+        "Chtěl jsem si být jistý, že jsem při nákupu sám nezvolil smíšené balení.",
+        "V potvrzení však stálo šest kusů v modré barvě."
+      ]
+    },
+    {
+      "text": "Prodejci jsem poslal číslo objednávky, stručný popis rozdílu a fotografie. Nepsal jsem, že firma vždy posílá špatné zboží, protože jsem to nevěděl. Požádal jsem o výměnu dvou bílých hrnků a poškozeného kusu. Současně jsem uvedl, že dárek potřebuji před sobotou. To byl můj časový požadavek, nikoli tvrzení, že mi prodejce tento termín už slíbil.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Prodejci jsem poslal číslo objednávky, stručný popis rozdílu a fotografie.",
+        "Nepsal jsem, že firma vždy posílá špatné zboží, protože jsem to nevěděl.",
+        "Požádal jsem o výměnu dvou bílých hrnků a poškozeného kusu.",
+        "Současně jsem uvedl, že dárek potřebuji před sobotou.",
+        "To byl můj časový požadavek, nikoli tvrzení, že mi prodejce tento termín už slíbil."
+      ]
+    },
+    {
+      "text": "První odpověď byla nejasná. Prodejce napsal: „Chybějící kusy pošleme zítra.“ Zeptal jsem se, zda tím myslí tři správné hrnky, nebo jen jeden náhradní za poškozený. Ukázalo se, že si nevšiml informace o barvě. Po krátkém upřesnění potvrdil zaslání tří modrých kusů a vysvětlil, jak vrátit ty nesprávné. Náklady na tento konkrétní postup jsme si potvrdili písemně.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "První odpověď byla nejasná.",
+        "Prodejce napsal: „Chybějící kusy pošleme zítra.“",
+        "Zeptal jsem se, zda tím myslí tři správné hrnky, nebo jen jeden náhradní za poškozený.",
+        "Ukázalo se, že si nevšiml informace o barvě.",
+        "Po krátkém upřesnění potvrdil zaslání tří modrých kusů a vysvětlil, jak vrátit ty nesprávné.",
+        "Náklady na tento konkrétní postup jsme si potvrdili písemně."
+      ]
+    },
+    {
+      "text": "Druhý den přišlo potvrzení o odeslání. Poděkoval jsem za vyřešení a uložil si komunikaci, dokud nebyla výměna dokončena. Kdyby náhradní zboží nemohlo dorazit včas, přijal bych jiné řešení, například vrácení peněz za dotčené kusy. Podmínky by ale bylo nutné domluvit zvlášť. V tomto příběhu trénujeme jazyk konkrétní dohody, ne obecnou právní radu o všech reklamacích.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Druhý den přišlo potvrzení o odeslání.",
+        "Poděkoval jsem za vyřešení a uložil si komunikaci, dokud nebyla výměna dokončena.",
+        "Kdyby náhradní zboží nemohlo dorazit včas, přijal bych jiné řešení, například vrácení peněz za dotčené kusy.",
+        "Podmínky by ale bylo nutné domluvit zvlášť.",
+        "V tomto příběhu trénujeme jazyk konkrétní dohody, ne obecnou právní radu o všech reklamacích."
+      ]
+    }
+  ],
+  "text_sha256": "feb49d89c3f1b367554ef9cb9a8928ead942dd8a6fae746c0d534788b4891cea",
+  "source_file": "content/lessons/B1/B1-U09-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--normal.mp3",
+  "slow_file": "content/audio/files/B1-U09-L01--2026.10.22.1--text--feb49d89c3--slow.mp3",
+  "duration_seconds": 129.80054421768708,
+  "slow_duration_seconds": 146.77433106575964,
+  "cues": [
+    {
+      "text": "Objednal jsem šest modrých hrnků jako dárek pro přátele. Když zásilka dorazila, byly v krabici čtyři modré a dva bílé hrnky. Jeden z modrých měl navíc poškozené ucho. Nejdřív jsem porovnal zboží s potvrzením objednávky. Chtěl jsem si být jistý, že jsem při nákupu sám nezvolil smíšené balení. V potvrzení však stálo šest kusů v modré barvě.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Objednal jsem šest modrých hrnků jako dárek pro přátele.",
+        "Když zásilka dorazila, byly v krabici čtyři modré a dva bílé hrnky.",
+        "Jeden z modrých měl navíc poškozené ucho.",
+        "Nejdřív jsem porovnal zboží s potvrzením objednávky.",
+        "Chtěl jsem si být jistý, že jsem při nákupu sám nezvolil smíšené balení.",
+        "V potvrzení však stálo šest kusů v modré barvě."
+      ],
+      "start": 0.0,
+      "end": 31.863809523809525,
+      "sentences": [
+        {
+          "text": "Objednal jsem šest modrých hrnků jako dárek pro přátele.",
+          "start": 0.0,
+          "end": 4.73687074829932,
+          "slow_start": 0.0,
+          "slow_end": 5.572789115646258
+        },
+        {
+          "text": "Když zásilka dorazila, byly v krabici čtyři modré a dva bílé hrnky.",
+          "start": 4.91687074829932,
+          "end": 11.10498866213152,
+          "slow_start": 5.752789115646259,
+          "slow_end": 12.765215419501134
+        },
+        {
+          "text": "Jeden z modrých měl navíc poškozené ucho.",
+          "start": 11.28498866213152,
+          "end": 15.22077097505669,
+          "slow_start": 12.945215419501134,
+          "slow_end": 17.647256235827665
+        },
+        {
+          "text": "Nejdřív jsem porovnal zboží s potvrzením objednávky.",
+          "start": 15.40077097505669,
+          "end": 20.25374149659864,
+          "slow_start": 17.827256235827665,
+          "slow_end": 23.34199546485261
+        },
+        {
+          "text": "Chtěl jsem si být jistý, že jsem při nákupu sám nezvolil smíšené balení.",
+          "start": 20.43374149659864,
+          "end": 27.446167800453516,
+          "slow_start": 23.52199546485261,
+          "slow_end": 31.370340136054423
+        },
+        {
+          "text": "V potvrzení však stálo šest kusů v modré barvě.",
+          "start": 27.626167800453516,
+          "end": 31.863809523809525,
+          "slow_start": 31.550340136054423,
+          "slow_end": 36.310430839002265
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 36.310430839002265
+    },
+    {
+      "text": "Prodejci jsem poslal číslo objednávky, stručný popis rozdílu a fotografie. Nepsal jsem, že firma vždy posílá špatné zboží, protože jsem to nevěděl. Požádal jsem o výměnu dvou bílých hrnků a poškozeného kusu. Současně jsem uvedl, že dárek potřebuji před sobotou. To byl můj časový požadavek, nikoli tvrzení, že mi prodejce tento termín už slíbil.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Prodejci jsem poslal číslo objednávky, stručný popis rozdílu a fotografie.",
+        "Nepsal jsem, že firma vždy posílá špatné zboží, protože jsem to nevěděl.",
+        "Požádal jsem o výměnu dvou bílých hrnků a poškozeného kusu.",
+        "Současně jsem uvedl, že dárek potřebuji před sobotou.",
+        "To byl můj časový požadavek, nikoli tvrzení, že mi prodejce tento termín už slíbil."
+      ],
+      "start": 32.04380952380952,
+      "end": 63.43736961451247,
+      "sentences": [
+        {
+          "text": "Prodejci jsem poslal číslo objednávky, stručný popis rozdílu a fotografie.",
+          "start": 32.04380952380952,
+          "end": 38.98657596371882,
+          "slow_start": 36.490430839002265,
+          "slow_end": 44.32716553287982
+        },
+        {
+          "text": "Nepsal jsem, že firma vždy posílá špatné zboží, protože jsem to nevěděl.",
+          "start": 39.16657596371882,
+          "end": 45.749433106575964,
+          "slow_start": 44.50716553287982,
+          "slow_end": 51.80984126984127
+        },
+        {
+          "text": "Požádal jsem o výměnu dvou bílých hrnků a poškozeného kusu.",
+          "start": 45.929433106575964,
+          "end": 51.32807256235828,
+          "slow_start": 51.98984126984127,
+          "slow_end": 58.236009070294784
+        },
+        {
+          "text": "Současně jsem uvedl, že dárek potřebuji před sobotou.",
+          "start": 51.50807256235828,
+          "end": 56.2449433106576,
+          "slow_start": 58.416009070294784,
+          "slow_end": 63.663718820861675
+        },
+        {
+          "text": "To byl můj časový požadavek, nikoli tvrzení, že mi prodejce tento termín už slíbil.",
+          "start": 56.424943310657596,
+          "end": 63.43736961451247,
+          "slow_start": 63.843718820861675,
+          "slow_end": 71.86621315192744
+        }
+      ],
+      "slow_start": 36.490430839002265,
+      "slow_end": 71.86621315192744
+    },
+    {
+      "text": "První odpověď byla nejasná. Prodejce napsal: „Chybějící kusy pošleme zítra.“ Zeptal jsem se, zda tím myslí tři správné hrnky, nebo jen jeden náhradní za poškozený. Ukázalo se, že si nevšiml informace o barvě. Po krátkém upřesnění potvrdil zaslání tří modrých kusů a vysvětlil, jak vrátit ty nesprávné. Náklady na tento konkrétní postup jsme si potvrdili písemně.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "První odpověď byla nejasná.",
+        "Prodejce napsal: „Chybějící kusy pošleme zítra.“",
+        "Zeptal jsem se, zda tím myslí tři správné hrnky, nebo jen jeden náhradní za poškozený.",
+        "Ukázalo se, že si nevšiml informace o barvě.",
+        "Po krátkém upřesnění potvrdil zaslání tří modrých kusů a vysvětlil, jak vrátit ty nesprávné.",
+        "Náklady na tento konkrétní postup jsme si potvrdili písemně."
+      ],
+      "start": 63.61736961451247,
+      "end": 96.49124716553288,
+      "sentences": [
+        {
+          "text": "První odpověď byla nejasná.",
+          "start": 63.61736961451247,
+          "end": 66.49664399092971,
+          "slow_start": 72.04621315192743,
+          "slow_end": 75.25056689342404
+        },
+        {
+          "text": "Prodejce napsal: „Chybějící kusy pošleme zítra.“",
+          "start": 66.6766439909297,
+          "end": 70.7285260770975,
+          "slow_start": 75.43056689342404,
+          "slow_end": 80.2487074829932
+        },
+        {
+          "text": "Zeptal jsem se, zda tím myslí tři správné hrnky, nebo jen jeden náhradní za poškozený.",
+          "start": 70.9085260770975,
+          "end": 78.54789115646258,
+          "slow_start": 80.4287074829932,
+          "slow_end": 89.13619047619048
+        },
+        {
+          "text": "Ukázalo se, že si nevšiml informace o barvě.",
+          "start": 78.72789115646259,
+          "end": 82.73333333333333,
+          "slow_start": 89.31619047619047,
+          "slow_end": 93.93696145124717
+        },
+        {
+          "text": "Po krátkém upřesnění potvrdil zaslání tří modrých kusů a vysvětlil, jak vrátit ty nesprávné.",
+          "start": 82.91333333333333,
+          "end": 91.31895691609978,
+          "slow_start": 94.11696145124716,
+          "slow_end": 103.61392290249434
+        },
+        {
+          "text": "Náklady na tento konkrétní postup jsme si potvrdili písemně.",
+          "start": 91.49895691609977,
+          "end": 96.49124716553288,
+          "slow_start": 103.79392290249433,
+          "slow_end": 109.34349206349206
+        }
+      ],
+      "slow_start": 72.04621315192743,
+      "slow_end": 109.34349206349206
+    },
+    {
+      "text": "Druhý den přišlo potvrzení o odeslání. Poděkoval jsem za vyřešení a uložil si komunikaci, dokud nebyla výměna dokončena. Kdyby náhradní zboží nemohlo dorazit včas, přijal bych jiné řešení, například vrácení peněz za dotčené kusy. Podmínky by ale bylo nutné domluvit zvlášť. V tomto příběhu trénujeme jazyk konkrétní dohody, ne obecnou právní radu o všech reklamacích.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Druhý den přišlo potvrzení o odeslání.",
+        "Poděkoval jsem za vyřešení a uložil si komunikaci, dokud nebyla výměna dokončena.",
+        "Kdyby náhradní zboží nemohlo dorazit včas, přijal bych jiné řešení, například vrácení peněz za dotčené kusy.",
+        "Podmínky by ale bylo nutné domluvit zvlášť.",
+        "V tomto příběhu trénujeme jazyk konkrétní dohody, ne obecnou právní radu o všech reklamacích."
+      ],
+      "start": 96.67124716553288,
+      "end": 129.62054421768707,
+      "sentences": [
+        {
+          "text": "Druhý den přišlo potvrzení o odeslání.",
+          "start": 96.67124716553288,
+          "end": 100.34,
+          "slow_start": 109.52349206349206,
+          "slow_end": 113.65664399092971
+        },
+        {
+          "text": "Poděkoval jsem za vyřešení a uložil si komunikaci, dokud nebyla výměna dokončena.",
+          "start": 100.52,
+          "end": 107.53242630385488,
+          "slow_start": 113.8366439909297,
+          "slow_end": 121.68498866213152
+        },
+        {
+          "text": "Kdyby náhradní zboží nemohlo dorazit včas, přijal bych jiné řešení, například vrácení peněz za dotčené kusy.",
+          "start": 107.71242630385487,
+          "end": 117.5692970521542,
+          "slow_start": 121.86498866213152,
+          "slow_end": 133.05700680272108
+        },
+        {
+          "text": "Podmínky by ale bylo nutné domluvit zvlášť.",
+          "start": 117.74929705215419,
+          "end": 121.51092970521542,
+          "slow_start": 133.23700680272108,
+          "slow_end": 137.4746485260771
+        },
+        {
+          "text": "V tomto příběhu trénujeme jazyk konkrétní dohody, ne obecnou právní radu o všech reklamacích.",
+          "start": 121.69092970521542,
+          "end": 129.62054421768707,
+          "slow_start": 137.6546485260771,
+          "slow_end": 146.59433106575963
+        }
+      ],
+      "slow_start": 109.52349206349206,
+      "slow_end": 146.59433106575963
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "af05f7a3b1bad9db99d97bb17c006f68d1830754a45e2a441e2b36bc04064344",
+    "slow": "7610ed294532540e41a3b4c23a3fe2ce674efa3eac0c672f8309b87d67d983af"
+  }
+}

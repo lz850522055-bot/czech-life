@@ -1,0 +1,58 @@
+{
+  "id": "B2-U08-L01--2026.10.23.1--contrasts",
+  "lesson_id": "B2-U08-L01",
+  "content_version": "2026.10.23.1",
+  "level": "B2",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "náhled. návrh.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "náhled. návrh."
+      ]
+    }
+  ],
+  "text_sha256": "e0a5d1c3bb1a59078065fd661709b1e011e6579cf92beced3d686593fa44b3c7",
+  "source_file": "content/lessons/B2/B2-U08-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U08-L01--2026.10.22.1--contrasts--e0a5d1c3bb--normal.mp3",
+  "slow_file": "content/audio/files/B2-U08-L01--2026.10.22.1--contrasts--e0a5d1c3bb--slow.mp3",
+  "duration_seconds": 1.8286167800453514,
+  "slow_duration_seconds": 1.991156462585034,
+  "cues": [
+    {
+      "text": "náhled. návrh.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "náhled. návrh."
+      ],
+      "start": 0.0,
+      "end": 1.6486167800453515,
+      "sentences": [
+        {
+          "text": "náhled. návrh.",
+          "start": 0.0,
+          "end": 1.6486167800453515,
+          "slow_start": 0.0,
+          "slow_end": 1.811156462585034
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.811156462585034
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "e5ca2488a7c97a6fe71c9cec7341a1cb216f0adaf3efbed20b1fc9875e15d17f",
+    "slow": "7d172db607ad9d4e858e2b0de1b5816dde93c1814f948f1388d51d701f013e65"
+  },
+  "reused_from_track_id": "B2-U08-L01--2026.10.22.1--contrasts"
+}

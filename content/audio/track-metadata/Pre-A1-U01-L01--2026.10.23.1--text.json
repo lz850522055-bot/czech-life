@@ -1,0 +1,288 @@
+{
+  "id": "Pre-A1-U01-L01--2026.10.23.1--text",
+  "lesson_id": "Pre-A1-U01-L01",
+  "content_version": "2026.10.23.1",
+  "level": "Pre-A1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "A, á, e, é, i, í, o, ó, u, ú, ů, y, ý.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "A, á, e, é, i, í, o, ó, u, ú, ů, y, ý."
+      ]
+    },
+    {
+      "text": "C, č, s, š, z, ž, r, ř.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "C, č, s, š, z, ž, r, ř."
+      ]
+    },
+    {
+      "text": "Čaj. Káva. Voda.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Čaj.",
+        "Káva.",
+        "Voda."
+      ]
+    },
+    {
+      "text": "Dobrý den.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Dobrý den."
+      ]
+    },
+    {
+      "text": "Prosím, ještě jednou.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Prosím, ještě jednou."
+      ]
+    },
+    {
+      "text": "Jak se jmenujete?",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Jak se jmenujete?"
+      ]
+    },
+    {
+      "text": "Jmenuju se Li.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Jmenuju se Li."
+      ]
+    },
+    {
+      "text": "Děkuju. Na shledanou.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Děkuju.",
+        "Na shledanou."
+      ]
+    }
+  ],
+  "text_sha256": "737c6aecd35fd0e8b689a01b1204fdf0916ef6f239995dfe2fc03f930628303c",
+  "source_file": "content/lessons/Pre-A1/Pre-A1-U01-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/Pre-A1-U01-L01--2026.10.22.1--text--737c6aecd3--normal.mp3",
+  "slow_file": "content/audio/files/Pre-A1-U01-L01--2026.10.22.1--text--737c6aecd3--slow.mp3",
+  "duration_seconds": 22.657369614512472,
+  "slow_duration_seconds": 25.188344671201815,
+  "cues": [
+    {
+      "text": "A, á, e, é, i, í, o, ó, u, ú, ů, y, ý.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "A, á, e, é, i, í, o, ó, u, ú, ů, y, ý."
+      ],
+      "start": 0.0,
+      "end": 7.523265306122449,
+      "sentences": [
+        {
+          "text": "A, á, e, é, i, í, o, ó, u, ú, ů, y, ý.",
+          "start": 0.0,
+          "end": 7.523265306122449,
+          "slow_start": 0.0,
+          "slow_end": 8.266303854875284
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 8.266303854875284
+    },
+    {
+      "text": "C, č, s, š, z, ž, r, ř.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "C, č, s, š, z, ž, r, ř."
+      ],
+      "start": 7.703265306122449,
+      "end": 10.837959183673469,
+      "sentences": [
+        {
+          "text": "C, č, s, š, z, ž, r, ř.",
+          "start": 7.703265306122449,
+          "end": 10.837959183673469,
+          "slow_start": 8.446303854875284,
+          "slow_end": 12.115056689342403
+        }
+      ],
+      "slow_start": 8.446303854875284,
+      "slow_end": 12.115056689342403
+    },
+    {
+      "text": "Čaj. Káva. Voda.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Čaj.",
+        "Káva.",
+        "Voda."
+      ],
+      "start": 11.017959183673469,
+      "end": 13.502585034013606,
+      "sentences": [
+        {
+          "text": "Čaj.",
+          "start": 11.017959183673469,
+          "end": 11.726167800453515,
+          "slow_start": 12.295056689342404,
+          "slow_end": 13.038095238095238
+        },
+        {
+          "text": "Káva.",
+          "start": 11.906167800453515,
+          "end": 12.567936507936508,
+          "slow_start": 13.218095238095238,
+          "slow_end": 13.91469387755102
+        },
+        {
+          "text": "Voda.",
+          "start": 12.747936507936508,
+          "end": 13.502585034013606,
+          "slow_start": 14.09469387755102,
+          "slow_end": 14.93061224489796
+        }
+      ],
+      "slow_start": 12.295056689342404,
+      "slow_end": 14.93061224489796
+    },
+    {
+      "text": "Dobrý den.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Dobrý den."
+      ],
+      "start": 13.682585034013606,
+      "end": 14.739092970521542,
+      "sentences": [
+        {
+          "text": "Dobrý den.",
+          "start": 13.682585034013606,
+          "end": 14.739092970521542,
+          "slow_start": 15.11061224489796,
+          "slow_end": 16.271609977324264
+        }
+      ],
+      "slow_start": 15.11061224489796,
+      "slow_end": 16.271609977324264
+    },
+    {
+      "text": "Prosím, ještě jednou.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Prosím, ještě jednou."
+      ],
+      "start": 14.919092970521541,
+      "end": 16.881179138321997,
+      "sentences": [
+        {
+          "text": "Prosím, ještě jednou.",
+          "start": 14.919092970521541,
+          "end": 16.881179138321997,
+          "slow_start": 16.451609977324264,
+          "slow_end": 18.72716553287982
+        }
+      ],
+      "slow_start": 16.451609977324264,
+      "slow_end": 18.72716553287982
+    },
+    {
+      "text": "Jak se jmenujete?",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Jak se jmenujete?"
+      ],
+      "start": 17.061179138321997,
+      "end": 18.582086167800455,
+      "sentences": [
+        {
+          "text": "Jak se jmenujete?",
+          "start": 17.061179138321997,
+          "end": 18.582086167800455,
+          "slow_start": 18.90716553287982,
+          "slow_end": 20.648662131519274
+        }
+      ],
+      "slow_start": 18.90716553287982,
+      "slow_end": 20.648662131519274
+    },
+    {
+      "text": "Jmenuju se Li.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Jmenuju se Li."
+      ],
+      "start": 18.762086167800454,
+      "end": 20.12045351473923,
+      "sentences": [
+        {
+          "text": "Jmenuju se Li.",
+          "start": 18.762086167800454,
+          "end": 20.12045351473923,
+          "slow_start": 20.828662131519273,
+          "slow_end": 22.37278911564626
+        }
+      ],
+      "slow_start": 20.828662131519273,
+      "slow_end": 22.37278911564626
+    },
+    {
+      "text": "Děkuju. Na shledanou.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Děkuju.",
+        "Na shledanou."
+      ],
+      "start": 20.300453514739228,
+      "end": 22.477369614512472,
+      "sentences": [
+        {
+          "text": "Děkuju.",
+          "start": 20.300453514739228,
+          "end": 21.10154195011338,
+          "slow_start": 22.55278911564626,
+          "slow_end": 23.51641723356009
+        },
+        {
+          "text": "Na shledanou.",
+          "start": 21.28154195011338,
+          "end": 22.477369614512472,
+          "slow_start": 23.69641723356009,
+          "slow_end": 25.008344671201815
+        }
+      ],
+      "slow_start": 22.55278911564626,
+      "slow_end": 25.008344671201815
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "c2a87360da9c1029a211377932d89eb032e5026b5c6225597f61855ac91edee4",
+    "slow": "54789abc223817868eb539be96cf5f4311364c448fe9c4dd08a062a489a60afd"
+  },
+  "reused_from_track_id": "Pre-A1-U01-L01--2026.10.22.1--text"
+}

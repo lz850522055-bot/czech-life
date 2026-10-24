@@ -1,0 +1,202 @@
+{
+  "id": "A1-U01-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "A1-U01-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A1",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Moje jméno je Li.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Moje jméno je Li."
+      ]
+    },
+    {
+      "text": "Moje příjmení je Li.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Moje příjmení je Li."
+      ]
+    },
+    {
+      "text": "Petr je soused.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Petr je soused."
+      ]
+    },
+    {
+      "text": "Rozumím trochu česky.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Rozumím trochu česky."
+      ]
+    },
+    {
+      "text": "Mluvím pomalu.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Mluvím pomalu."
+      ]
+    },
+    {
+      "text": "Těší mě.",
+      "index": 5,
+      "role": "vocabulary",
+      "parts": [
+        "Těší mě."
+      ]
+    }
+  ],
+  "text_sha256": "23aa54896baa9c1d1ccffb6a2936e705949df8ac6ab8997e8cda7a087bd61732",
+  "source_file": "content/lessons/A1/A1-U01-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U01-L01--2026.10.22.1--vocabulary--23aa54896b--normal.mp3",
+  "slow_file": "content/audio/files/A1-U01-L01--2026.10.22.1--vocabulary--23aa54896b--slow.mp3",
+  "duration_seconds": 10.611791383219956,
+  "slow_duration_seconds": 11.8540589569161,
+  "cues": [
+    {
+      "text": "Moje jméno je Li.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Moje jméno je Li."
+      ],
+      "start": 0.0,
+      "end": 1.5789569160997732,
+      "sentences": [
+        {
+          "text": "Moje jméno je Li.",
+          "start": 0.0,
+          "end": 1.5789569160997732,
+          "slow_start": 0.0,
+          "slow_end": 1.822766439909297
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.822766439909297
+    },
+    {
+      "text": "Moje příjmení je Li.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Moje příjmení je Li."
+      ],
+      "start": 1.7589569160997733,
+      "end": 3.535283446712018,
+      "sentences": [
+        {
+          "text": "Moje příjmení je Li.",
+          "start": 1.7589569160997733,
+          "end": 3.535283446712018,
+          "slow_start": 2.0027664399092973,
+          "slow_end": 4.011292517006803
+        }
+      ],
+      "slow_start": 2.0027664399092973,
+      "slow_end": 4.011292517006803
+    },
+    {
+      "text": "Petr je soused.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Petr je soused."
+      ],
+      "start": 3.715283446712018,
+      "end": 5.236190476190476,
+      "sentences": [
+        {
+          "text": "Petr je soused.",
+          "start": 3.715283446712018,
+          "end": 5.236190476190476,
+          "slow_start": 4.1912925170068025,
+          "slow_end": 5.932789115646258
+        }
+      ],
+      "slow_start": 4.1912925170068025,
+      "slow_end": 5.932789115646258
+    },
+    {
+      "text": "Rozumím trochu česky.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Rozumím trochu česky."
+      ],
+      "start": 5.416190476190476,
+      "end": 7.436326530612245,
+      "sentences": [
+        {
+          "text": "Rozumím trochu česky.",
+          "start": 5.416190476190476,
+          "end": 7.436326530612245,
+          "slow_start": 6.112789115646258,
+          "slow_end": 8.365124716553288
+        }
+      ],
+      "slow_start": 6.112789115646258,
+      "slow_end": 8.365124716553288
+    },
+    {
+      "text": "Mluvím pomalu.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Mluvím pomalu."
+      ],
+      "start": 7.616326530612245,
+      "end": 9.137233560090703,
+      "sentences": [
+        {
+          "text": "Mluvím pomalu.",
+          "start": 7.616326530612245,
+          "end": 9.137233560090703,
+          "slow_start": 8.545124716553287,
+          "slow_end": 10.251791383219954
+        }
+      ],
+      "slow_start": 8.545124716553287,
+      "slow_end": 10.251791383219954
+    },
+    {
+      "text": "Těší mě.",
+      "index": 5,
+      "role": "vocabulary",
+      "parts": [
+        "Těší mě."
+      ],
+      "start": 9.317233560090703,
+      "end": 10.431791383219954,
+      "sentences": [
+        {
+          "text": "Těší mě.",
+          "start": 9.317233560090703,
+          "end": 10.431791383219954,
+          "slow_start": 10.431791383219954,
+          "slow_end": 11.6740589569161
+        }
+      ],
+      "slow_start": 10.431791383219954,
+      "slow_end": 11.6740589569161
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "74e74bcee6e367eb8a80ac9535900bc4fef5609bd93fe2cc448ed7adc25b39fc",
+    "slow": "2db9d4d0c6957b723591477a7dbdfe102e6849b1d3c88d9b552b8c69827cc5d4"
+  }
+}

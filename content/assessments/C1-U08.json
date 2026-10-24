@@ -1,0 +1,221 @@
+{
+  "id": "C1-U08-CHECK",
+  "kind": "unit",
+  "level": "C1",
+  "unit_id": "C1-U08",
+  "title_zh": "反驳对方真正说的那句话：新情境检验",
+  "version": "2026.10.22.1",
+  "unseen_text": [
+    {
+      "cs": "Členka spolku navrhla platbu předem pouze u dražších kurzů. Oponent prohlásil, že chce zavést povinné zálohy na všechny akce. Ona odpověděla, že se návrh týká jen kurzů s nevratnými náklady na materiál.",
+      "zh": "成员仅建议材料成本不可退的高价课程预付，对方说她要所有活动预收。"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "对方错误扩大了哪个范围？",
+      "stimulus_cs": "",
+      "answer": "b",
+      "explanation_zh": "保留限定是准确反驳前提。",
+      "skill_ids": [
+        "reading"
+      ],
+      "knowledge_points": [
+        "c1-steelman-scope",
+        "c1-concession-revision"
+      ],
+      "error_category": "comprehension",
+      "options": [
+        {
+          "id": "a",
+          "text": "所有材料"
+        },
+        {
+          "id": "b",
+          "text": "从部分课程扩大为所有活动"
+        },
+        {
+          "id": "c",
+          "text": "所有老师"
+        }
+      ],
+      "scoring_basis": "封闭题以答案核对；解析说明本题边界。",
+      "id": "C1-U08-CHECK-E01"
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "写一句忠实转述与一句实质问题。",
+      "stimulus_cs": "",
+      "answer": "Návrh se týká kurzů s nevratnými náklady. Jak se stanoví částka, která těmto nákladům odpovídá?",
+      "explanation_zh": "先准确理解，再询问计算规则。",
+      "skill_ids": [
+        "writing"
+      ],
+      "knowledge_points": [
+        "c1-steelman-scope",
+        "c1-concession-revision"
+      ],
+      "error_category": "comprehension",
+      "rubric": [
+        "回应具体任务，信息不失真",
+        "逻辑有衔接，能说明证据与限制",
+        "语法与搭配基本准确，语域适合对象",
+        "能自主组织语言而非照读范文"
+      ],
+      "scoring_basis": "开放表达：示范不是唯一答案；依量规自评或人工评阅，未接受人工评阅时不自动判定能力达标。",
+      "id": "C1-U08-CHECK-E02"
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "请双方回到共同讨论对象。",
+      "stimulus_cs": "",
+      "answer": "Shodněme se nejprve, které kurzy návrh zahrnuje. Potom můžeme posoudit výši a podmínky zálohy.",
+      "explanation_zh": "对齐范围，不假装已无分歧。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "knowledge_points": [
+        "c1-steelman-scope",
+        "c1-concession-revision"
+      ],
+      "error_category": "comprehension",
+      "rubric": [
+        "回应具体任务，信息不失真",
+        "逻辑有衔接，能说明证据与限制",
+        "语法与搭配基本准确，语域适合对象",
+        "能自主组织语言而非照读范文"
+      ],
+      "scoring_basis": "开放表达：示范不是唯一答案；依量规自评或人工评阅，未接受人工评阅时不自动判定能力达标。",
+      "id": "C1-U08-CHECK-E03"
+    }
+  ],
+  "rubric": [
+    "理解未见材料中的主张及限定",
+    "主动表达时准确转述不同立场",
+    "区分事实、推断与建议",
+    "能针对误解调整解释方式"
+  ],
+  "remediation": [
+    {
+      "condition_zh": "误把可能性说成事实，或遗漏反方条件",
+      "lesson_ids": [
+        "C1-U08-L01"
+      ],
+      "action_zh": "重做信息定位与转述，标出每个判断的来源和语气词。"
+    },
+    {
+      "condition_zh": "表达卡住或只有单句结论",
+      "lesson_ids": [
+        "C1-U08-L01"
+      ],
+      "action_zh": "先列论点—依据—限制—行动四点，再换对象重录一次。"
+    }
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "C1-U08-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U08-CHECK--2026.10.22.1--text--4601bff9c9--normal.mp3",
+      "slow_file": "audio/files/C1-U08-CHECK--2026.10.22.1--text--4601bff9c9--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U08-CHECK--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Členka spolku navrhla platbu předem pouze u dražších kurzů. Oponent prohlásil, že chce zavést povinné zálohy na všechny akce. Ona odpověděla, že se návrh týká jen kurzů s nevratnými náklady na materiál.",
+      "duration_seconds": 18.094285714285714,
+      "slow_duration_seconds": 20.787800453514738,
+      "sha256": "9918fa0c6fb7db9a34c539ce6797d9da349796b51827a8bd154c8fecb88a9ad3",
+      "slow_sha256": "20936ee4368f0659e01818cd26c67e4b4daf79cf1b64471abb1a642f53d84ec4"
+    },
+    {
+      "lesson_id": "C1-U08-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U08-CHECK--2026.10.22.1--text--4601bff9c9--normal.mp3",
+      "slow_file": "audio/files/C1-U08-CHECK--2026.10.22.1--text--4601bff9c9--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U08-CHECK--2026.10.22.1--text--p0",
+      "asset_id": "C1-U08-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Členka spolku navrhla platbu předem pouze u dražších kurzů. Oponent prohlásil, že chce zavést povinné zálohy na všechny akce. Ona odpověděla, že se návrh týká jen kurzů s nevratnými náklady na materiál.",
+      "start": 0,
+      "end": 17.914285714285715,
+      "slow_start": 0,
+      "slow_end": 20.607800453514738
+    },
+    {
+      "lesson_id": "C1-U08-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U08-CHECK--2026.10.22.1--text--4601bff9c9--normal.mp3",
+      "slow_file": "audio/files/C1-U08-CHECK--2026.10.22.1--text--4601bff9c9--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U08-CHECK--2026.10.22.1--text--s0",
+      "asset_id": "C1-U08-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Členka spolku navrhla platbu předem pouze u dražších kurzů.",
+      "start": 0,
+      "end": 4.9458503401360545,
+      "slow_start": 0,
+      "slow_end": 5.688888888888889
+    },
+    {
+      "lesson_id": "C1-U08-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U08-CHECK--2026.10.22.1--text--4601bff9c9--normal.mp3",
+      "slow_file": "audio/files/C1-U08-CHECK--2026.10.22.1--text--4601bff9c9--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U08-CHECK--2026.10.22.1--text--s1",
+      "asset_id": "C1-U08-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Oponent prohlásil, že chce zavést povinné zálohy na všechny akce.",
+      "start": 5.125850340136054,
+      "end": 10.779909297052154,
+      "slow_start": 5.868888888888889,
+      "slow_end": 12.393696145124716
+    },
+    {
+      "lesson_id": "C1-U08-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U08-CHECK--2026.10.22.1--text--4601bff9c9--normal.mp3",
+      "slow_file": "audio/files/C1-U08-CHECK--2026.10.22.1--text--4601bff9c9--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U08-CHECK--2026.10.22.1--text--s2",
+      "asset_id": "C1-U08-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Ona odpověděla, že se návrh týká jen kurzů s nevratnými náklady na materiál.",
+      "start": 10.959909297052155,
+      "end": 17.914285714285715,
+      "slow_start": 12.573696145124716,
+      "slow_end": 20.607800453514738
+    }
+  ]
+}

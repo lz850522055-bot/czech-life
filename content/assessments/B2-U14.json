@@ -1,0 +1,240 @@
+{
+  "unseen_text": [
+    {
+      "cs": "Divadlo umožní přístup technikům od čtyř. Dopravce odhaduje příjezd mezi třetí a pátou. Vykládka trvá přibližně hodinu. Představení začíná v šest a zkouška musí skončit před příchodem publika.",
+      "zh": "剧院四点后让技术员入，物流预计三到五到，卸货约一小时，演出六点且观众入前需试演结束。",
+      "note_zh": ""
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "最需要澄清什么？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "能否按进场卸货与测试链赶上观众入场"
+        },
+        {
+          "id": "b",
+          "text": "只问晚饭"
+        },
+        {
+          "id": "c",
+          "text": "演员姓名全部"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "时间窗口冲突与不确定工序决定可行。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U14-CHECK-E01",
+      "knowledge_points": [
+        "complex-task-state",
+        "independent-evidence"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "填“预计的”这一形容词与 čas 一致的阳性无生单数形式。",
+      "stimulus_cs": "Čas příjezdu je pouze ___.",
+      "answer": "odhadovaný",
+      "accepted_answers": [
+        "odhadovaný"
+      ],
+      "explanation_zh": "不可写 potvrzený。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "meaning",
+      "id": "B2-U14-CHECK-E02",
+      "knowledge_points": [
+        "complex-task-state",
+        "independent-evidence"
+      ]
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "提出三个能改变方案的澄清问题，不给虚假保证。",
+      "stimulus_cs": "",
+      "answer": "Lze potvrdit příjezd nejpozději ve čtyři? Kdy přesně začne přicházet publikum? Kolik času potřebujeme po vykládce na technickou zkoušku? Bez těchto údajů nemůžeme potvrdit, že harmonogram vyjde.",
+      "accepted_answers": [],
+      "explanation_zh": "先完善依赖链再承诺。",
+      "rubric": [
+        "三核心时间",
+        "不伪装保证",
+        "条件清楚"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "error_category": "fluency",
+      "id": "B2-U14-CHECK-E03",
+      "knowledge_points": [
+        "complex-task-state",
+        "independent-evidence"
+      ]
+    }
+  ],
+  "id": "B2-U14-CHECK",
+  "kind": "unit",
+  "level": "B2",
+  "unit_id": "B2-U14",
+  "title_zh": "独立解决复杂事务：换场景检验",
+  "version": "2026.10.23.1",
+  "rubric": [
+    "关键信息准确且没有添加原文没有的信息",
+    "能使用本单元规律完成新情境",
+    "输出能让对方采取下一步行动"
+  ],
+  "remediation": [
+    {
+      "condition_zh": "理解遗漏或把推测说成事实",
+      "lesson_ids": [
+        "B2-U14-L01"
+      ],
+      "action_zh": "对照逐段译文，重新提取人物、限制和下一步。"
+    },
+    {
+      "condition_zh": "表达需要提示或形式反复出错",
+      "lesson_ids": [
+        "B2-U14-L01"
+      ],
+      "action_zh": "复看规律卡后更换人物、时间与限制条件，延后独立重做。"
+    }
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "B2-U14-CHECK",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U14-CHECK--2026.10.22.1--text--a7a53573ea--normal.mp3",
+      "slow_file": "audio/files/B2-U14-CHECK--2026.10.22.1--text--a7a53573ea--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U14-CHECK--2026.10.23.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Divadlo umožní přístup technikům od čtyř. Dopravce odhaduje příjezd mezi třetí a pátou. Vykládka trvá přibližně hodinu. Představení začíná v šest a zkouška musí skončit před příchodem publika.",
+      "duration_seconds": 17.658956916099772,
+      "slow_duration_seconds": 19.78358276643991,
+      "sha256": "313f335ebcb1f0d36db0eb76127edbf9ea691b50235e753bee7d58c04d392ece",
+      "slow_sha256": "8d786706ed47573ecae428111702976ce74437656db6cd6a02115f2d5f2b8bf1"
+    },
+    {
+      "lesson_id": "B2-U14-CHECK",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U14-CHECK--2026.10.22.1--text--a7a53573ea--normal.mp3",
+      "slow_file": "audio/files/B2-U14-CHECK--2026.10.22.1--text--a7a53573ea--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U14-CHECK--2026.10.23.1--text--p0",
+      "asset_id": "B2-U14-CHECK--2026.10.23.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Divadlo umožní přístup technikům od čtyř. Dopravce odhaduje příjezd mezi třetí a pátou. Vykládka trvá přibližně hodinu. Představení začíná v šest a zkouška musí skončit před příchodem publika.",
+      "start": 0,
+      "end": 17.478956916099772,
+      "slow_start": 0,
+      "slow_end": 19.60358276643991
+    },
+    {
+      "lesson_id": "B2-U14-CHECK",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U14-CHECK--2026.10.22.1--text--a7a53573ea--normal.mp3",
+      "slow_file": "audio/files/B2-U14-CHECK--2026.10.22.1--text--a7a53573ea--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U14-CHECK--2026.10.23.1--text--s0",
+      "asset_id": "B2-U14-CHECK--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Divadlo umožní přístup technikům od čtyř.",
+      "start": 0,
+      "end": 4.028662131519274,
+      "slow_start": 0,
+      "slow_end": 4.4117913832199545
+    },
+    {
+      "lesson_id": "B2-U14-CHECK",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U14-CHECK--2026.10.22.1--text--a7a53573ea--normal.mp3",
+      "slow_file": "audio/files/B2-U14-CHECK--2026.10.22.1--text--a7a53573ea--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U14-CHECK--2026.10.23.1--text--s1",
+      "asset_id": "B2-U14-CHECK--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Dopravce odhaduje příjezd mezi třetí a pátou.",
+      "start": 4.208662131519274,
+      "end": 8.248934240362813,
+      "slow_start": 4.591791383219955,
+      "slow_end": 9.166122448979593
+    },
+    {
+      "lesson_id": "B2-U14-CHECK",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U14-CHECK--2026.10.22.1--text--a7a53573ea--normal.mp3",
+      "slow_file": "audio/files/B2-U14-CHECK--2026.10.22.1--text--a7a53573ea--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U14-CHECK--2026.10.23.1--text--s2",
+      "asset_id": "B2-U14-CHECK--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Vykládka trvá přibližně hodinu.",
+      "start": 8.428934240362812,
+      "end": 11.168888888888889,
+      "slow_start": 9.346122448979592,
+      "slow_end": 12.457596371882087
+    },
+    {
+      "lesson_id": "B2-U14-CHECK",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U14-CHECK--2026.10.22.1--text--a7a53573ea--normal.mp3",
+      "slow_file": "audio/files/B2-U14-CHECK--2026.10.22.1--text--a7a53573ea--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U14-CHECK--2026.10.23.1--text--s3",
+      "asset_id": "B2-U14-CHECK--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 3,
+      "paragraph_index": 0,
+      "sentence_index": 3,
+      "text": "Představení začíná v šest a zkouška musí skončit před příchodem publika.",
+      "start": 11.348888888888888,
+      "end": 17.478956916099772,
+      "slow_start": 12.637596371882086,
+      "slow_end": 19.60358276643991
+    }
+  ]
+}

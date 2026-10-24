@@ -1,0 +1,68 @@
+{
+  "id": "B1-U12-L01--2026.10.22.1--exercises",
+  "lesson_id": "B1-U12-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Po konzultaci vyplníte formulář. Materiál není v ceně.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "B1-U12-L01-E03",
+      "parts": [
+        "Po konzultaci vyplníte formulář.",
+        "Materiál není v ceně."
+      ]
+    }
+  ],
+  "text_sha256": "1df018009dd6291bd346660c66422c269feb36d0530556352a92046248cf6088",
+  "source_file": "content/lessons/B1/B1-U12-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U12-L01--2026.10.22.1--exercises--1df018009d--normal.mp3",
+  "slow_file": "content/audio/files/B1-U12-L01--2026.10.22.1--exercises--1df018009d--slow.mp3",
+  "duration_seconds": 5.538049886621315,
+  "slow_duration_seconds": 6.1649886621315195,
+  "cues": [
+    {
+      "text": "Po konzultaci vyplníte formulář. Materiál není v ceně.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "B1-U12-L01-E03",
+      "parts": [
+        "Po konzultaci vyplníte formulář.",
+        "Materiál není v ceně."
+      ],
+      "start": 0.0,
+      "end": 5.358049886621315,
+      "sentences": [
+        {
+          "text": "Po konzultaci vyplníte formulář.",
+          "start": 0.0,
+          "end": 2.9837641723356008,
+          "slow_start": 0.0,
+          "slow_end": 3.297233560090703
+        },
+        {
+          "text": "Materiál není v ceně.",
+          "start": 3.163764172335601,
+          "end": 5.358049886621315,
+          "slow_start": 3.477233560090703,
+          "slow_end": 5.984988662131519
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 5.984988662131519
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "976180c447cf7a65631a19a8974339770ce4a4186527e22a9bc7943c466cbaee",
+    "slow": "c643fb215f1d1924058b64614ff4a4ee2de51ddb7d78bfcae8bfe6662d2301a4"
+  }
+}

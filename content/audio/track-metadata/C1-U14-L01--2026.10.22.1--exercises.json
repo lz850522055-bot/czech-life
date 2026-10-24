@@ -1,0 +1,59 @@
+{
+  "id": "C1-U14-L01--2026.10.22.1--exercises",
+  "lesson_id": "C1-U14-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Chci vědět, jak předem domluvíme výjimku, když budu potřebovat večer navíc.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "C1-U14-L01-E06",
+      "parts": [
+        "Chci vědět, jak předem domluvíme výjimku, když budu potřebovat večer navíc."
+      ]
+    }
+  ],
+  "text_sha256": "af9ec8c34d6b679d4fdc28befcdd2bdd08d5bfbc2c4d8ba53f0545d32cf1d3bb",
+  "source_file": "content/lessons/C1/C1-U14-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U14-L01--2026.10.22.1--exercises--af9ec8c34d--normal.mp3",
+  "slow_file": "content/audio/files/C1-U14-L01--2026.10.22.1--exercises--af9ec8c34d--slow.mp3",
+  "duration_seconds": 7.087936507936508,
+  "slow_duration_seconds": 7.772925170068027,
+  "cues": [
+    {
+      "text": "Chci vědět, jak předem domluvíme výjimku, když budu potřebovat večer navíc.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "C1-U14-L01-E06",
+      "parts": [
+        "Chci vědět, jak předem domluvíme výjimku, když budu potřebovat večer navíc."
+      ],
+      "start": 0.0,
+      "end": 6.907936507936508,
+      "sentences": [
+        {
+          "text": "Chci vědět, jak předem domluvíme výjimku, když budu potřebovat večer navíc.",
+          "start": 0.0,
+          "end": 6.907936507936508,
+          "slow_start": 0.0,
+          "slow_end": 7.592925170068027
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 7.592925170068027
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "ee611feb89716d3e5ec5f7266155e3fc98e6616834a8e111f4628c5b1a2f9dca",
+    "slow": "ebfc3b6b1cf32a1be1fe41d2699527807ea903d0245e448a317664186992d561"
+  }
+}

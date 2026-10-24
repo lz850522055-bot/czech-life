@@ -1,0 +1,173 @@
+{
+  "id": "B1-U03-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "B1-U03-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Projděte tímto průchodem.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Projděte tímto průchodem."
+      ]
+    },
+    {
+      "text": "Ulici přejděte na přechodu.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Ulici přejděte na přechodu."
+      ]
+    },
+    {
+      "text": "Vystupte na třetí zastávce.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Vystupte na třetí zastávce."
+      ]
+    },
+    {
+      "text": "Jedeme opačným směrem.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Jedeme opačným směrem."
+      ]
+    },
+    {
+      "text": "Počkám u hlavního vchodu.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Počkám u hlavního vchodu."
+      ]
+    }
+  ],
+  "text_sha256": "b5918b6ce43a5fc11faed90fa3996a9cd7e33f65e489041bc3aa1e6f784537f0",
+  "source_file": "content/lessons/B1/B1-U03-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U03-L01--2026.10.22.1--vocabulary--b5918b6ce4--normal.mp3",
+  "slow_file": "content/audio/files/B1-U03-L01--2026.10.22.1--vocabulary--b5918b6ce4--slow.mp3",
+  "duration_seconds": 12.347437641723356,
+  "slow_duration_seconds": 13.752244897959184,
+  "cues": [
+    {
+      "text": "Projděte tímto průchodem.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Projděte tímto průchodem."
+      ],
+      "start": 0.0,
+      "end": 2.3103854875283445,
+      "sentences": [
+        {
+          "text": "Projděte tímto průchodem.",
+          "start": 0.0,
+          "end": 2.3103854875283445,
+          "slow_start": 0.0,
+          "slow_end": 2.5658049886621317
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.5658049886621317
+    },
+    {
+      "text": "Ulici přejděte na přechodu.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Ulici přejděte na přechodu."
+      ],
+      "start": 2.4903854875283447,
+      "end": 4.777551020408163,
+      "sentences": [
+        {
+          "text": "Ulici přejděte na přechodu.",
+          "start": 2.4903854875283447,
+          "end": 4.777551020408163,
+          "slow_start": 2.7458049886621314,
+          "slow_end": 5.253560090702948
+        }
+      ],
+      "slow_start": 2.7458049886621314,
+      "slow_end": 5.253560090702948
+    },
+    {
+      "text": "Vystupte na třetí zastávce.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Vystupte na třetí zastávce."
+      ],
+      "start": 4.957551020408164,
+      "end": 7.46530612244898,
+      "sentences": [
+        {
+          "text": "Vystupte na třetí zastávce.",
+          "start": 4.957551020408164,
+          "end": 7.46530612244898,
+          "slow_start": 5.433560090702948,
+          "slow_end": 8.208344671201814
+        }
+      ],
+      "slow_start": 5.433560090702948,
+      "slow_end": 8.208344671201814
+    },
+    {
+      "text": "Jedeme opačným směrem.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Jedeme opačným směrem."
+      ],
+      "start": 7.64530612244898,
+      "end": 9.723492063492063,
+      "sentences": [
+        {
+          "text": "Jedeme opačným směrem.",
+          "start": 7.64530612244898,
+          "end": 9.723492063492063,
+          "slow_start": 8.388344671201814,
+          "slow_end": 10.849659863945579
+        }
+      ],
+      "slow_start": 8.388344671201814,
+      "slow_end": 10.849659863945579
+    },
+    {
+      "text": "Počkám u hlavního vchodu.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Počkám u hlavního vchodu."
+      ],
+      "start": 9.903492063492063,
+      "end": 12.167437641723357,
+      "sentences": [
+        {
+          "text": "Počkám u hlavního vchodu.",
+          "start": 9.903492063492063,
+          "end": 12.167437641723357,
+          "slow_start": 11.029659863945579,
+          "slow_end": 13.572244897959184
+        }
+      ],
+      "slow_start": 11.029659863945579,
+      "slow_end": 13.572244897959184
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "07299fa663f6348e44b595f6a6e89af60b94f61a928f0fa12ae07b7e40062142",
+    "slow": "ef99c7aa3f8bae4a43b56ad6805b74850a3d051cca10544e76926670458633e1"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "A2-U06-L01--2026.10.22.1--exercises",
+  "lesson_id": "A2-U06-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Krabici dejte za dveře, ne před ně.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "A2-U06-L01-E01",
+      "parts": [
+        "Krabici dejte za dveře, ne před ně."
+      ]
+    }
+  ],
+  "text_sha256": "3437704205f2f1ffdfd06182550b3c6b6b116ee78420d80803c9a30f6957900d",
+  "source_file": "content/lessons/A2/A2-U06-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U06-L01--2026.10.22.1--exercises--3437704205--normal.mp3",
+  "slow_file": "content/audio/files/A2-U06-L01--2026.10.22.1--exercises--3437704205--slow.mp3",
+  "duration_seconds": 2.861904761904762,
+  "slow_duration_seconds": 3.152154195011338,
+  "cues": [
+    {
+      "text": "Krabici dejte za dveře, ne před ně.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "A2-U06-L01-E01",
+      "parts": [
+        "Krabici dejte za dveře, ne před ně."
+      ],
+      "start": 0.0,
+      "end": 2.681904761904762,
+      "sentences": [
+        {
+          "text": "Krabici dejte za dveře, ne před ně.",
+          "start": 0.0,
+          "end": 2.681904761904762,
+          "slow_start": 0.0,
+          "slow_end": 2.972154195011338
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.972154195011338
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "950502154dd04d3cbe73e8f7279d598f396ef91870d64a19b43befe92befe5d1",
+    "slow": "844af2b10812527704604992a00ed2ba736a21eaafd3d251ab650a811f14470d"
+  }
+}

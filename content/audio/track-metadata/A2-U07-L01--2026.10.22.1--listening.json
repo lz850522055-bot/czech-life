@@ -1,0 +1,75 @@
+{
+  "id": "A2-U07-L01--2026.10.22.1--listening",
+  "lesson_id": "A2-U07-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Dobrý den, potřebuju se objednat. Od pondělí kašlu. Ve čtvrtek dopoledne nemůžu, ale odpoledne mám čas.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Dobrý den, potřebuju se objednat.",
+        "Od pondělí kašlu.",
+        "Ve čtvrtek dopoledne nemůžu, ale odpoledne mám čas."
+      ]
+    }
+  ],
+  "text_sha256": "e44918d470f4098f44b7cfc6384701ac515342313cb2178400bba2ee0eae80a2",
+  "source_file": "content/lessons/A2/A2-U07-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U07-L01--2026.10.22.1--listening--e44918d470--normal.mp3",
+  "slow_file": "content/audio/files/A2-U07-L01--2026.10.22.1--listening--e44918d470--slow.mp3",
+  "duration_seconds": 10.373650793650794,
+  "slow_duration_seconds": 11.604308390022675,
+  "cues": [
+    {
+      "text": "Dobrý den, potřebuju se objednat. Od pondělí kašlu. Ve čtvrtek dopoledne nemůžu, ale odpoledne mám čas.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Dobrý den, potřebuju se objednat.",
+        "Od pondělí kašlu.",
+        "Ve čtvrtek dopoledne nemůžu, ale odpoledne mám čas."
+      ],
+      "start": 0.0,
+      "end": 10.193650793650793,
+      "sentences": [
+        {
+          "text": "Dobrý den, potřebuju se objednat.",
+          "start": 0.0,
+          "end": 3.0418140589569163,
+          "slow_start": 0.0,
+          "slow_end": 3.4249433106575964
+        },
+        {
+          "text": "Od pondělí kašlu.",
+          "start": 3.221814058956916,
+          "end": 5.009750566893424,
+          "slow_start": 3.6049433106575965,
+          "slow_end": 5.555419501133787
+        },
+        {
+          "text": "Ve čtvrtek dopoledne nemůžu, ale odpoledne mám čas.",
+          "start": 5.189750566893424,
+          "end": 10.193650793650793,
+          "slow_start": 5.735419501133787,
+          "slow_end": 11.424308390022675
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 11.424308390022675
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "c7cabc2bc8ce6002b4c245381ca476a84470aed5b5cca10946630c17374db65d",
+    "slow": "8b621ad14b7aa4dbb1a6f2daccbfa649e4bd7d5ba7299be96dbab7b79322c53e"
+  }
+}

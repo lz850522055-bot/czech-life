@@ -1,0 +1,90 @@
+{
+  "id": "Pre-A1-U02-L01--2026.10.22.1--exercises",
+  "lesson_id": "Pre-A1-U02-L01",
+  "content_version": "2026.10.22.1",
+  "level": "Pre-A1",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "pás",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "Pre-A1-U02-L01-E01",
+      "parts": [
+        "pás"
+      ]
+    },
+    {
+      "text": "na stole",
+      "index": 1,
+      "role": "exercise",
+      "exercise_id": "Pre-A1-U02-L01-E05",
+      "parts": [
+        "na stole"
+      ]
+    }
+  ],
+  "text_sha256": "c2ff555f070dd45ae5240249f35c7af85c2c402259561d9f2f6a73cd26a6a8da",
+  "source_file": "content/lessons/Pre-A1/Pre-A1-U02-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/Pre-A1-U02-L01--2026.10.22.1--exercises--c2ff555f07--normal.mp3",
+  "slow_file": "content/audio/files/Pre-A1-U02-L01--2026.10.22.1--exercises--c2ff555f07--slow.mp3",
+  "duration_seconds": 1.8460770975056688,
+  "slow_duration_seconds": 2.1131065759637186,
+  "cues": [
+    {
+      "text": "pás",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "Pre-A1-U02-L01-E01",
+      "parts": [
+        "pás"
+      ],
+      "start": 0.0,
+      "end": 0.603718820861678,
+      "sentences": [
+        {
+          "text": "pás",
+          "start": 0.0,
+          "end": 0.603718820861678,
+          "slow_start": 0.0,
+          "slow_end": 0.7430385487528345
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 0.7430385487528345
+    },
+    {
+      "text": "na stole",
+      "index": 1,
+      "role": "exercise",
+      "exercise_id": "Pre-A1-U02-L01-E05",
+      "parts": [
+        "na stole"
+      ],
+      "start": 0.783718820861678,
+      "end": 1.666077097505669,
+      "sentences": [
+        {
+          "text": "na stole",
+          "start": 0.783718820861678,
+          "end": 1.666077097505669,
+          "slow_start": 0.9230385487528344,
+          "slow_end": 1.933106575963719
+        }
+      ],
+      "slow_start": 0.9230385487528344,
+      "slow_end": 1.933106575963719
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "01151923e27041431e487d8c1bca1215be67c1fc70ee1c3fad5945ae8016f7ef",
+    "slow": "1c91d506a144c964adeadd9177eeb6f906bde2521d4eff6487b7bc53ccfa5f23"
+  }
+}

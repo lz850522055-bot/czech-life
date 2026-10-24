@@ -1,0 +1,75 @@
+{
+  "id": "A2-U05-L01--2026.10.22.1--listening",
+  "lesson_id": "A2-U05-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "V balení jsou čtyři lahve. Každá má půl litru. Zákazník chce tři balení, tedy dvanáct lahví a šest litrů.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "V balení jsou čtyři lahve.",
+        "Každá má půl litru.",
+        "Zákazník chce tři balení, tedy dvanáct lahví a šest litrů."
+      ]
+    }
+  ],
+  "text_sha256": "922cc96a634372a8775aa2923963347e4717f3d9368b8f9562534aaa724b1953",
+  "source_file": "content/lessons/A2/A2-U05-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U05-L01--2026.10.22.1--listening--922cc96a63--normal.mp3",
+  "slow_file": "content/audio/files/A2-U05-L01--2026.10.22.1--listening--922cc96a63--slow.mp3",
+  "duration_seconds": 9.990521541950113,
+  "slow_duration_seconds": 11.221179138321995,
+  "cues": [
+    {
+      "text": "V balení jsou čtyři lahve. Každá má půl litru. Zákazník chce tři balení, tedy dvanáct lahví a šest litrů.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "V balení jsou čtyři lahve.",
+        "Každá má půl litru.",
+        "Zákazník chce tři balení, tedy dvanáct lahví a šest litrů."
+      ],
+      "start": 0.0,
+      "end": 9.810521541950113,
+      "sentences": [
+        {
+          "text": "V balení jsou čtyři lahve.",
+          "start": 0.0,
+          "end": 2.3103854875283445,
+          "slow_start": 0.0,
+          "slow_end": 2.6238548752834467
+        },
+        {
+          "text": "Každá má půl litru.",
+          "start": 2.4903854875283447,
+          "end": 4.324761904761905,
+          "slow_start": 2.803854875283447,
+          "slow_end": 4.998140589569161
+        },
+        {
+          "text": "Zákazník chce tři balení, tedy dvanáct lahví a šest litrů.",
+          "start": 4.504761904761905,
+          "end": 9.810521541950113,
+          "slow_start": 5.178140589569161,
+          "slow_end": 11.041179138321995
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 11.041179138321995
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "783486fb19a1eaa74b8f68c750abc120d2389bd5e64c0ee0add0e19ccd4f9d94",
+    "slow": "63d40416901edb52cfd37303ca26b78a2c8859a887cc43def02898bb12ec59b2"
+  }
+}

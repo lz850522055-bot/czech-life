@@ -1,0 +1,59 @@
+{
+  "id": "C1-U11-L01--2026.10.22.1--exercises",
+  "lesson_id": "C1-U11-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Neříkám, že to určitě uděláme, jen že to pak můžeme znovu probrat.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "C1-U11-L01-E06",
+      "parts": [
+        "Neříkám, že to určitě uděláme, jen že to pak můžeme znovu probrat."
+      ]
+    }
+  ],
+  "text_sha256": "8d426425976b4583f28b5a62456e72bbb010fecf573f0a6462e747e43808efcd",
+  "source_file": "content/lessons/C1/C1-U11-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U11-L01--2026.10.22.1--exercises--8d42642597--normal.mp3",
+  "slow_file": "content/audio/files/C1-U11-L01--2026.10.22.1--exercises--8d42642597--slow.mp3",
+  "duration_seconds": 6.286848072562358,
+  "slow_duration_seconds": 7.041496598639456,
+  "cues": [
+    {
+      "text": "Neříkám, že to určitě uděláme, jen že to pak můžeme znovu probrat.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "C1-U11-L01-E06",
+      "parts": [
+        "Neříkám, že to určitě uděláme, jen že to pak můžeme znovu probrat."
+      ],
+      "start": 0.0,
+      "end": 6.106848072562358,
+      "sentences": [
+        {
+          "text": "Neříkám, že to určitě uděláme, jen že to pak můžeme znovu probrat.",
+          "start": 0.0,
+          "end": 6.106848072562358,
+          "slow_start": 0.0,
+          "slow_end": 6.861496598639456
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 6.861496598639456
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "d6fe5738f4fdab99254e2d2ff5e3f8fbd20332fc2c6ff9f98243a71f9186f034",
+    "slow": "684e3e2be395d9532307d5b7da169a32fdfd90a359ef2ac9c6803c2967f47db5"
+  }
+}

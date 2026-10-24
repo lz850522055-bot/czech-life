@@ -1,0 +1,75 @@
+{
+  "id": "A1-U03-CHECK--2026.10.22.1--text",
+  "lesson_id": "A1-U03-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "A1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Pavel dopoledne studuje. My odpoledne pracujeme. Večer máme volno.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Pavel dopoledne studuje.",
+        "My odpoledne pracujeme.",
+        "Večer máme volno."
+      ]
+    }
+  ],
+  "text_sha256": "0833246289378e31b46ecc0973bf29b498d2a6217c5532ef1e72d68dc7ec430b",
+  "source_file": "content/assessments/A1-U03.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U03-CHECK--2026.10.22.1--text--0833246289--normal.mp3",
+  "slow_file": "content/audio/files/A1-U03-CHECK--2026.10.22.1--text--0833246289--slow.mp3",
+  "duration_seconds": 6.344988662131519,
+  "slow_duration_seconds": 7.1112471655328795,
+  "cues": [
+    {
+      "text": "Pavel dopoledne studuje. My odpoledne pracujeme. Večer máme volno.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Pavel dopoledne studuje.",
+        "My odpoledne pracujeme.",
+        "Večer máme volno."
+      ],
+      "start": 0.0,
+      "end": 6.1649886621315195,
+      "sentences": [
+        {
+          "text": "Pavel dopoledne studuje.",
+          "start": 0.0,
+          "end": 1.8924263038548752,
+          "slow_start": 0.0,
+          "slow_end": 2.182675736961451
+        },
+        {
+          "text": "My odpoledne pracujeme.",
+          "start": 2.072426303854875,
+          "end": 4.2667120181405895,
+          "slow_start": 2.3626757369614513,
+          "slow_end": 4.80077097505669
+        },
+        {
+          "text": "Večer máme volno.",
+          "start": 4.446712018140589,
+          "end": 6.1649886621315195,
+          "slow_start": 4.980770975056689,
+          "slow_end": 6.93124716553288
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 6.93124716553288
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "17d55ff2d54c3909231d3acf4a87a89e33baab6da31217570cfede088a6bcdb4",
+    "slow": "237637b33578f1939db9cf379e5988a2da780bdfe9a3f2f03d1d2bab361e1da0"
+  }
+}

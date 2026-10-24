@@ -1,0 +1,75 @@
+{
+  "id": "C1-U08-CHECK--2026.10.22.1--text",
+  "lesson_id": "C1-U08-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Členka spolku navrhla platbu předem pouze u dražších kurzů. Oponent prohlásil, že chce zavést povinné zálohy na všechny akce. Ona odpověděla, že se návrh týká jen kurzů s nevratnými náklady na materiál.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Členka spolku navrhla platbu předem pouze u dražších kurzů.",
+        "Oponent prohlásil, že chce zavést povinné zálohy na všechny akce.",
+        "Ona odpověděla, že se návrh týká jen kurzů s nevratnými náklady na materiál."
+      ]
+    }
+  ],
+  "text_sha256": "4601bff9c92eaea8e22e4856a5a4aefbec2142fca029a294bbe2c6cdeee1cfc4",
+  "source_file": "content/assessments/C1-U08.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U08-CHECK--2026.10.22.1--text--4601bff9c9--normal.mp3",
+  "slow_file": "content/audio/files/C1-U08-CHECK--2026.10.22.1--text--4601bff9c9--slow.mp3",
+  "duration_seconds": 18.094285714285714,
+  "slow_duration_seconds": 20.787800453514738,
+  "cues": [
+    {
+      "text": "Členka spolku navrhla platbu předem pouze u dražších kurzů. Oponent prohlásil, že chce zavést povinné zálohy na všechny akce. Ona odpověděla, že se návrh týká jen kurzů s nevratnými náklady na materiál.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Členka spolku navrhla platbu předem pouze u dražších kurzů.",
+        "Oponent prohlásil, že chce zavést povinné zálohy na všechny akce.",
+        "Ona odpověděla, že se návrh týká jen kurzů s nevratnými náklady na materiál."
+      ],
+      "start": 0.0,
+      "end": 17.914285714285715,
+      "sentences": [
+        {
+          "text": "Členka spolku navrhla platbu předem pouze u dražších kurzů.",
+          "start": 0.0,
+          "end": 4.9458503401360545,
+          "slow_start": 0.0,
+          "slow_end": 5.688888888888889
+        },
+        {
+          "text": "Oponent prohlásil, že chce zavést povinné zálohy na všechny akce.",
+          "start": 5.125850340136054,
+          "end": 10.779909297052154,
+          "slow_start": 5.868888888888889,
+          "slow_end": 12.393696145124716
+        },
+        {
+          "text": "Ona odpověděla, že se návrh týká jen kurzů s nevratnými náklady na materiál.",
+          "start": 10.959909297052155,
+          "end": 17.914285714285715,
+          "slow_start": 12.573696145124716,
+          "slow_end": 20.607800453514738
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 20.607800453514738
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "9918fa0c6fb7db9a34c539ce6797d9da349796b51827a8bd154c8fecb88a9ad3",
+    "slow": "20936ee4368f0659e01818cd26c67e4b4daf79cf1b64471abb1a642f53d84ec4"
+  }
+}

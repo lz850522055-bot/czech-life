@@ -1,0 +1,203 @@
+{
+  "id": "C1-U01-L01--2026.10.23.1--vocabulary",
+  "lesson_id": "C1-U01-L01",
+  "content_version": "2026.10.23.1",
+  "level": "C1",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Rozvoj musí mít jasný cíl.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Rozvoj musí mít jasný cíl."
+      ]
+    },
+    {
+      "text": "Město přijalo konkrétní závazek.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Město přijalo konkrétní závazek."
+      ]
+    },
+    {
+      "text": "Podmínky musí být vymahatelné.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Podmínky musí být vymahatelné."
+      ]
+    },
+    {
+      "text": "Posuzujeme dostupnost služeb.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Posuzujeme dostupnost služeb."
+      ]
+    },
+    {
+      "text": "Kdo ponese náklady změny?",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Kdo ponese náklady změny?"
+      ]
+    },
+    {
+      "text": "Po vysvětlení změnila stanovisko.",
+      "index": 5,
+      "role": "vocabulary",
+      "parts": [
+        "Po vysvětlení změnila stanovisko."
+      ]
+    }
+  ],
+  "text_sha256": "cb62e63f438712591ea2870bae3292581f8bdac39d38dafebfc2a2b6cf0b19f2",
+  "source_file": "content/lessons/C1/C1-U01-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U01-L01--2026.10.22.1--vocabulary--cb62e63f43--normal.mp3",
+  "slow_file": "content/audio/files/C1-U01-L01--2026.10.22.1--vocabulary--cb62e63f43--slow.mp3",
+  "duration_seconds": 17.786757369614513,
+  "slow_duration_seconds": 19.911383219954647,
+  "cues": [
+    {
+      "text": "Rozvoj musí mít jasný cíl.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Rozvoj musí mít jasný cíl."
+      ],
+      "start": 0.0,
+      "end": 3.1463038548752835,
+      "sentences": [
+        {
+          "text": "Rozvoj musí mít jasný cíl.",
+          "start": 0.0,
+          "end": 3.1463038548752835,
+          "slow_start": 0.0,
+          "slow_end": 3.5294331065759637
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 3.5294331065759637
+    },
+    {
+      "text": "Město přijalo konkrétní závazek.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Město přijalo konkrétní závazek."
+      ],
+      "start": 3.3263038548752832,
+      "end": 6.3100680272108844,
+      "sentences": [
+        {
+          "text": "Město přijalo konkrétní závazek.",
+          "start": 3.3263038548752832,
+          "end": 6.3100680272108844,
+          "slow_start": 3.709433106575964,
+          "slow_end": 7.122766439909297
+        }
+      ],
+      "slow_start": 3.709433106575964,
+      "slow_end": 7.122766439909297
+    },
+    {
+      "text": "Podmínky musí být vymahatelné.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Podmínky musí být vymahatelné."
+      ],
+      "start": 6.490068027210884,
+      "end": 9.392562358276644,
+      "sentences": [
+        {
+          "text": "Podmínky musí být vymahatelné.",
+          "start": 6.490068027210884,
+          "end": 9.392562358276644,
+          "slow_start": 7.302766439909297,
+          "slow_end": 10.658049886621315
+        }
+      ],
+      "slow_start": 7.302766439909297,
+      "slow_end": 10.658049886621315
+    },
+    {
+      "text": "Posuzujeme dostupnost služeb.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Posuzujeme dostupnost služeb."
+      ],
+      "start": 9.572562358276643,
+      "end": 12.138367346938775,
+      "sentences": [
+        {
+          "text": "Posuzujeme dostupnost služeb.",
+          "start": 9.572562358276643,
+          "end": 12.138367346938775,
+          "slow_start": 10.838049886621315,
+          "slow_end": 13.636054421768707
+        }
+      ],
+      "slow_start": 10.838049886621315,
+      "slow_end": 13.636054421768707
+    },
+    {
+      "text": "Kdo ponese náklady změny?",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Kdo ponese náklady změny?"
+      ],
+      "start": 12.318367346938775,
+      "end": 14.442993197278911,
+      "sentences": [
+        {
+          "text": "Kdo ponese náklady změny?",
+          "start": 12.318367346938775,
+          "end": 14.442993197278911,
+          "slow_start": 13.816054421768708,
+          "slow_end": 16.20770975056689
+        }
+      ],
+      "slow_start": 13.816054421768708,
+      "slow_end": 16.20770975056689
+    },
+    {
+      "text": "Po vysvětlení změnila stanovisko.",
+      "index": 5,
+      "role": "vocabulary",
+      "parts": [
+        "Po vysvětlení změnila stanovisko."
+      ],
+      "start": 14.622993197278912,
+      "end": 17.606757369614513,
+      "sentences": [
+        {
+          "text": "Po vysvětlení změnila stanovisko.",
+          "start": 14.622993197278912,
+          "end": 17.606757369614513,
+          "slow_start": 16.387709750566895,
+          "slow_end": 19.731383219954648
+        }
+      ],
+      "slow_start": 16.387709750566895,
+      "slow_end": 19.731383219954648
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "0ef89a4141bf09aa0cfea95478b1eac1e7dc1a9d8dd2f1f0b5f1abe6a3bd0412",
+    "slow": "d0821bb448d7cb91006f66aafb525ed5920a25447e3d5030501dc2f1ea5e6fa9"
+  },
+  "reused_from_track_id": "C1-U01-L01--2026.10.22.1--vocabulary"
+}

@@ -1,0 +1,84 @@
+{
+  "id": "C2-U08-CHECK--2026.10.22.1--text",
+  "lesson_id": "C2-U08-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "C2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Žena každý večer rovnala dvě sklenice, ačkoli bydlela sama. Návštěva se zeptala, na koho čeká. Ona odpověděla, že na nikoho; druhou sklenici používá na vodu pro květinu. Když návštěva odešla, květinu zalila z konvice a sklenici nechala stát.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Žena každý večer rovnala dvě sklenice, ačkoli bydlela sama.",
+        "Návštěva se zeptala, na koho čeká.",
+        "Ona odpověděla, že na nikoho; druhou sklenici používá na vodu pro květinu.",
+        "Když návštěva odešla, květinu zalila z konvice a sklenici nechala stát."
+      ]
+    }
+  ],
+  "text_sha256": "7fa9c63608240a2787b953f1c6af407cac03e66b7036ec62a0190c87620ef7eb",
+  "source_file": "content/assessments/C2-U08.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U08-CHECK--2026.10.22.1--text--7fa9c63608--normal.mp3",
+  "slow_file": "content/audio/files/C2-U08-CHECK--2026.10.22.1--text--7fa9c63608--slow.mp3",
+  "duration_seconds": 22.024308390022675,
+  "slow_duration_seconds": 24.532063492063493,
+  "cues": [
+    {
+      "text": "Žena každý večer rovnala dvě sklenice, ačkoli bydlela sama. Návštěva se zeptala, na koho čeká. Ona odpověděla, že na nikoho; druhou sklenici používá na vodu pro květinu. Když návštěva odešla, květinu zalila z konvice a sklenici nechala stát.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Žena každý večer rovnala dvě sklenice, ačkoli bydlela sama.",
+        "Návštěva se zeptala, na koho čeká.",
+        "Ona odpověděla, že na nikoho; druhou sklenici používá na vodu pro květinu.",
+        "Když návštěva odešla, květinu zalila z konvice a sklenici nechala stát."
+      ],
+      "start": 0.0,
+      "end": 21.844308390022675,
+      "sentences": [
+        {
+          "text": "Žena každý večer rovnala dvě sklenice, ačkoli bydlela sama.",
+          "start": 0.0,
+          "end": 5.328979591836735,
+          "slow_start": 0.0,
+          "slow_end": 6.141678004535147
+        },
+        {
+          "text": "Návštěva se zeptala, na koho čeká.",
+          "start": 5.508979591836734,
+          "end": 8.515963718820862,
+          "slow_start": 6.321678004535148,
+          "slow_end": 9.758231292517006
+        },
+        {
+          "text": "Ona odpověděla, že na nikoho; druhou sklenici používá na vodu pro květinu.",
+          "start": 8.695963718820861,
+          "end": 14.965351473922903,
+          "slow_start": 9.938231292517006,
+          "slow_end": 16.93904761904762
+        },
+        {
+          "text": "Když návštěva odešla, květinu zalila z konvice a sklenici nechala stát.",
+          "start": 15.145351473922902,
+          "end": 21.844308390022675,
+          "slow_start": 17.11904761904762,
+          "slow_end": 24.352063492063493
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 24.352063492063493
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "8b45675c991f303078ebf7fc888a790a3724c12ab8760d9ff27fb1a733057d7f",
+    "slow": "6e2de27cca24c6927e36b2a7ff1843a1f5cb104a39f2be59237dac80ff1c6209"
+  }
+}

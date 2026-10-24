@@ -1,0 +1,350 @@
+{
+  "id": "A2-U02-L01--2026.10.22.1--text",
+  "lesson_id": "A2-U02-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Naše jazyková skupina má novou učebnu. Není velká, ale je světlá a má dvě velká okna. U oken stojí tři nové stoly.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Naše jazyková skupina má novou učebnu.",
+        "Není velká, ale je světlá a má dvě velká okna.",
+        "U oken stojí tři nové stoly."
+      ]
+    },
+    {
+      "text": "Staré židle jsme nechali v kanceláři. Do učebny jsme přinesli nové židle, protože na nich sedíme několik hodin.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Staré židle jsme nechali v kanceláři.",
+        "Do učebny jsme přinesli nové židle, protože na nich sedíme několik hodin."
+      ]
+    },
+    {
+      "text": "Dnes přišli dva noví studenti a tři nové studentky. Učitelka jim ukázala knihy, mapy a malé slovníky na polici.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Dnes přišli dva noví studenti a tři nové studentky.",
+        "Učitelka jim ukázala knihy, mapy a malé slovníky na polici."
+      ]
+    },
+    {
+      "text": "Jeden student je kuchař a druhý pracuje v dopravě. Studentky mají různé práce, ale všechny chtějí lépe mluvit česky.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Jeden student je kuchař a druhý pracuje v dopravě.",
+        "Studentky mají různé práce, ale všechny chtějí lépe mluvit česky."
+      ]
+    },
+    {
+      "text": "Na zdi jsou fotografie různých měst. Jedno město známe všichni, ostatní ještě neznáme. Příště o nich budeme mluvit.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Na zdi jsou fotografie různých měst.",
+        "Jedno město známe všichni, ostatní ještě neznáme.",
+        "Příště o nich budeme mluvit."
+      ]
+    },
+    {
+      "text": "V místnosti je také malé rádio. Dvě stará rádia už nefungují, proto používáme jen to nové.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "V místnosti je také malé rádio.",
+        "Dvě stará rádia už nefungují, proto používáme jen to nové."
+      ]
+    },
+    {
+      "text": "Učitelka říká, že každý člověk se učí jinak. Lidé potřebují různé příklady a děti někdy vyslovují nové zvuky rychleji než dospělí.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Učitelka říká, že každý člověk se učí jinak.",
+        "Lidé potřebují různé příklady a děti někdy vyslovují nové zvuky rychleji než dospělí."
+      ]
+    },
+    {
+      "text": "Dnes proto nebudeme jen číst. Budeme také poslouchat, mluvit spolu a popisovat věci kolem sebe.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Dnes proto nebudeme jen číst.",
+        "Budeme také poslouchat, mluvit spolu a popisovat věci kolem sebe."
+      ]
+    }
+  ],
+  "text_sha256": "8797c4f516edeee272717c0f954a6b148da733e8401a1dfa926fc54e213f5c6c",
+  "source_file": "content/lessons/A2/A2-U02-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--normal.mp3",
+  "slow_file": "content/audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--slow.mp3",
+  "duration_seconds": 80.92235827664399,
+  "slow_duration_seconds": 90.82566893424037,
+  "cues": [
+    {
+      "text": "Naše jazyková skupina má novou učebnu. Není velká, ale je světlá a má dvě velká okna. U oken stojí tři nové stoly.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Naše jazyková skupina má novou učebnu.",
+        "Není velká, ale je světlá a má dvě velká okna.",
+        "U oken stojí tři nové stoly."
+      ],
+      "start": 0.0,
+      "end": 10.832199546485262,
+      "sentences": [
+        {
+          "text": "Naše jazyková skupina má novou učebnu.",
+          "start": 0.0,
+          "end": 3.4017233560090703,
+          "slow_start": 0.0,
+          "slow_end": 3.6919727891156464
+        },
+        {
+          "text": "Není velká, ale je světlá a má dvě velká okna.",
+          "start": 3.5817233560090704,
+          "end": 7.993514739229025,
+          "slow_start": 3.871972789115646,
+          "slow_end": 8.724943310657597
+        },
+        {
+          "text": "U oken stojí tři nové stoly.",
+          "start": 8.173514739229025,
+          "end": 10.832199546485262,
+          "slow_start": 8.904943310657597,
+          "slow_end": 11.935147392290249
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 11.935147392290249
+    },
+    {
+      "text": "Staré židle jsme nechali v kanceláři. Do učebny jsme přinesli nové židle, protože na nich sedíme několik hodin.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Staré židle jsme nechali v kanceláři.",
+        "Do učebny jsme přinesli nové židle, protože na nich sedíme několik hodin."
+      ],
+      "start": 11.012199546485261,
+      "end": 19.876462585034012,
+      "sentences": [
+        {
+          "text": "Staré židle jsme nechali v kanceláři.",
+          "start": 11.012199546485261,
+          "end": 14.030793650793651,
+          "slow_start": 12.115147392290249,
+          "slow_end": 15.540090702947845
+        },
+        {
+          "text": "Do učebny jsme přinesli nové židle, protože na nich sedíme několik hodin.",
+          "start": 14.21079365079365,
+          "end": 19.876462585034012,
+          "slow_start": 15.720090702947846,
+          "slow_end": 22.16362811791383
+        }
+      ],
+      "slow_start": 12.115147392290249,
+      "slow_end": 22.16362811791383
+    },
+    {
+      "text": "Dnes přišli dva noví studenti a tři nové studentky. Učitelka jim ukázala knihy, mapy a malé slovníky na polici.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Dnes přišli dva noví studenti a tři nové studentky.",
+        "Učitelka jim ukázala knihy, mapy a malé slovníky na polici."
+      ],
+      "start": 20.056462585034012,
+      "end": 29.942403628117916,
+      "sentences": [
+        {
+          "text": "Dnes přišli dva noví studenti a tři nové studentky.",
+          "start": 20.056462585034012,
+          "end": 24.375374149659866,
+          "slow_start": 22.34362811791383,
+          "slow_end": 27.15015873015873
+        },
+        {
+          "text": "Učitelka jim ukázala knihy, mapy a malé slovníky na polici.",
+          "start": 24.555374149659865,
+          "end": 29.942403628117916,
+          "slow_start": 27.33015873015873,
+          "slow_end": 33.52988662131519
+        }
+      ],
+      "slow_start": 22.34362811791383,
+      "slow_end": 33.52988662131519
+    },
+    {
+      "text": "Jeden student je kuchař a druhý pracuje v dopravě. Studentky mají různé práce, ale všechny chtějí lépe mluvit česky.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Jeden student je kuchař a druhý pracuje v dopravě.",
+        "Studentky mají různé práce, ale všechny chtějí lépe mluvit česky."
+      ],
+      "start": 30.122403628117915,
+      "end": 40.36825396825397,
+      "sentences": [
+        {
+          "text": "Jeden student je kuchař a druhý pracuje v dopravě.",
+          "start": 30.122403628117915,
+          "end": 34.40648526077098,
+          "slow_start": 33.70988662131519,
+          "slow_end": 38.51641723356009
+        },
+        {
+          "text": "Studentky mají různé práce, ale všechny chtějí lépe mluvit česky.",
+          "start": 34.58648526077098,
+          "end": 40.36825396825397,
+          "slow_start": 38.69641723356009,
+          "slow_end": 45.2908843537415
+        }
+      ],
+      "slow_start": 33.70988662131519,
+      "slow_end": 45.2908843537415
+    },
+    {
+      "text": "Na zdi jsou fotografie různých měst. Jedno město známe všichni, ostatní ještě neznáme. Příště o nich budeme mluvit.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Na zdi jsou fotografie různých měst.",
+        "Jedno město známe všichni, ostatní ještě neznáme.",
+        "Příště o nich budeme mluvit."
+      ],
+      "start": 40.54825396825397,
+      "end": 50.74190476190476,
+      "sentences": [
+        {
+          "text": "Na zdi jsou fotografie různých měst.",
+          "start": 40.54825396825397,
+          "end": 43.9615873015873,
+          "slow_start": 45.470884353741496,
+          "slow_end": 49.3021768707483
+        },
+        {
+          "text": "Jedno město známe všichni, ostatní ještě neznáme.",
+          "start": 44.1415873015873,
+          "end": 48.216689342403626,
+          "slow_start": 49.4821768707483,
+          "slow_end": 54.14938775510204
+        },
+        {
+          "text": "Příště o nich budeme mluvit.",
+          "start": 48.396689342403626,
+          "end": 50.74190476190476,
+          "slow_start": 54.32938775510204,
+          "slow_end": 56.81392290249433
+        }
+      ],
+      "slow_start": 45.470884353741496,
+      "slow_end": 56.81392290249433
+    },
+    {
+      "text": "V místnosti je také malé rádio. Dvě stará rádia už nefungují, proto používáme jen to nové.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "V místnosti je také malé rádio.",
+        "Dvě stará rádia už nefungují, proto používáme jen to nové."
+      ],
+      "start": 50.92190476190476,
+      "end": 59.47269841269841,
+      "sentences": [
+        {
+          "text": "V místnosti je také malé rádio.",
+          "start": 50.92190476190476,
+          "end": 53.69668934240363,
+          "slow_start": 56.99392290249433,
+          "slow_end": 60.105396825396824
+        },
+        {
+          "text": "Dvě stará rádia už nefungují, proto používáme jen to nové.",
+          "start": 53.87668934240363,
+          "end": 59.47269841269841,
+          "slow_start": 60.28539682539682,
+          "slow_end": 66.6360544217687
+        }
+      ],
+      "slow_start": 56.99392290249433,
+      "slow_end": 66.6360544217687
+    },
+    {
+      "text": "Učitelka říká, že každý člověk se učí jinak. Lidé potřebují různé příklady a děti někdy vyslovují nové zvuky rychleji než dospělí.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Učitelka říká, že každý člověk se učí jinak.",
+        "Lidé potřebují různé příklady a děti někdy vyslovují nové zvuky rychleji než dospělí."
+      ],
+      "start": 59.65269841269841,
+      "end": 71.69809523809523,
+      "sentences": [
+        {
+          "text": "Učitelka říká, že každý člověk se učí jinak.",
+          "start": 59.65269841269841,
+          "end": 63.63492063492063,
+          "slow_start": 66.81605442176871,
+          "slow_end": 71.36716553287982
+        },
+        {
+          "text": "Lidé potřebují různé příklady a děti někdy vyslovují nové zvuky rychleji než dospělí.",
+          "start": 63.81492063492063,
+          "end": 71.69809523809523,
+          "slow_start": 71.54716553287982,
+          "slow_end": 80.45201814058957
+        }
+      ],
+      "slow_start": 66.81605442176871,
+      "slow_end": 80.45201814058957
+    },
+    {
+      "text": "Dnes proto nebudeme jen číst. Budeme také poslouchat, mluvit spolu a popisovat věci kolem sebe.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Dnes proto nebudeme jen číst.",
+        "Budeme také poslouchat, mluvit spolu a popisovat věci kolem sebe."
+      ],
+      "start": 71.87809523809524,
+      "end": 80.742358276644,
+      "sentences": [
+        {
+          "text": "Dnes proto nebudeme jen číst.",
+          "start": 71.87809523809524,
+          "end": 74.57160997732426,
+          "slow_start": 80.63201814058957,
+          "slow_end": 83.67383219954648
+        },
+        {
+          "text": "Budeme také poslouchat, mluvit spolu a popisovat věci kolem sebe.",
+          "start": 74.75160997732426,
+          "end": 80.742358276644,
+          "slow_start": 83.85383219954649,
+          "slow_end": 90.64566893424036
+        }
+      ],
+      "slow_start": 80.63201814058957,
+      "slow_end": 90.64566893424036
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "0f58cfb552815080ab3b55b34c8d1de3ce6d5346b425fd7f8114d670c2fc954e",
+    "slow": "3b7a8104c92f07acd0c6c773b7fa95dd94912d45d0d43a5be679404cd7c053c2"
+  }
+}

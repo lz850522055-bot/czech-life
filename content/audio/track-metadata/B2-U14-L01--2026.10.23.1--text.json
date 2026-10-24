@@ -1,0 +1,437 @@
+{
+  "id": "B2-U14-L01--2026.10.23.1--text",
+  "lesson_id": "B2-U14-L01",
+  "content_version": "2026.10.23.1",
+  "level": "B2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Připravujeme stěhování z pronajatého bytu do nového domu. Pronajímatel potvrdil předání starého bytu v pondělí ve tři odpoledne. Stěhovací firma nabídla příjezd mezi osmou a desátou a předpokládá tři hodiny práce. Na webu městské části se však objevilo oznámení, že ulice u domu bude od devíti do dvanácti omezena kvůli opravě. Z těchto tří zdrojů zatím není jasné, zda se časový plán dá bezpečně dodržet.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Připravujeme stěhování z pronajatého bytu do nového domu.",
+        "Pronajímatel potvrdil předání starého bytu v pondělí ve tři odpoledne.",
+        "Stěhovací firma nabídla příjezd mezi osmou a desátou a předpokládá tři hodiny práce.",
+        "Na webu městské části se však objevilo oznámení, že ulice u domu bude od devíti do dvanácti omezena kvůli opravě.",
+        "Z těchto tří zdrojů zatím není jasné, zda se časový plán dá bezpečně dodržet."
+      ]
+    },
+    {
+      "text": "Nejprve jsme rozlišili, co jednotlivé formulace skutečně znamenají. Příjezd mezi osmou a desátou není slib příjezdu přesně v osm. Tři hodiny jsou odhad, nikoli potvrzený čas dokončení. Omezení ulice nemusí automaticky znamenat zákaz veškerého přístupu, ale ani nelze předpokládat, že stěhovací vůz dostane výjimku. Bylo třeba ověřit rozsah omezení a velikost vozidla, které firma plánuje použít.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Nejprve jsme rozlišili, co jednotlivé formulace skutečně znamenají.",
+        "Příjezd mezi osmou a desátou není slib příjezdu přesně v osm.",
+        "Tři hodiny jsou odhad, nikoli potvrzený čas dokončení.",
+        "Omezení ulice nemusí automaticky znamenat zákaz veškerého přístupu, ale ani nelze předpokládat, že stěhovací vůz dostane výjimku.",
+        "Bylo třeba ověřit rozsah omezení a velikost vozidla, které firma plánuje použít."
+      ]
+    },
+    {
+      "text": "Na informační lince jsme zjistili, že průchod pro pěší zůstane zachován, avšak vjezd větších vozidel bude během prací uzavřen. Pro malé vozidlo existuje objízdná trasa, kterou je nutné potvrdit podle aktuálního značení. Stěhovací firma má menší vůz, ale při jeho použití by musela jet dvakrát. To by zvýšilo čas i cenu. Výhodou by byla menší závislost na jediném ranním příjezdu. Žádná varianta tedy neměla pouze výhody.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Na informační lince jsme zjistili, že průchod pro pěší zůstane zachován, avšak vjezd větších vozidel bude během prací uzavřen.",
+        "Pro malé vozidlo existuje objízdná trasa, kterou je nutné potvrdit podle aktuálního značení.",
+        "Stěhovací firma má menší vůz, ale při jeho použití by musela jet dvakrát.",
+        "To by zvýšilo čas i cenu.",
+        "Výhodou by byla menší závislost na jediném ranním příjezdu.",
+        "Žádná varianta tedy neměla pouze výhody."
+      ]
+    },
+    {
+      "text": "Současně jsme kontaktovali pronajímatele a vysvětlili, proč může původní termín předání představovat problém. Nenapsali jsme, že se předání jednostranně přesouvá. Zeptali jsme se, zda by bylo možné přijet o hodinu později, pokud by se doprava zdržela. Pronajímatel souhlasil s rezervním termínem, ale požádal o potvrzení nejpozději dopoledne. Tento souhlas měl konkrétní podmínku, kterou bylo nutné zapsat spolu s novým časem.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Současně jsme kontaktovali pronajímatele a vysvětlili, proč může původní termín předání představovat problém.",
+        "Nenapsali jsme, že se předání jednostranně přesouvá.",
+        "Zeptali jsme se, zda by bylo možné přijet o hodinu později, pokud by se doprava zdržela.",
+        "Pronajímatel souhlasil s rezervním termínem, ale požádal o potvrzení nejpozději dopoledne.",
+        "Tento souhlas měl konkrétní podmínku, kterou bylo nutné zapsat spolu s novým časem."
+      ]
+    },
+    {
+      "text": "Nakonec jsme zvolili větší vůz s písemně potvrzeným příjezdem před osmou a záložní možnost menšího vozidla. V potvrzení jsme odlišili základní cenu od případného doplatku a popsali, kdo rozhodne o změně varianty. Součástí přípravy byla také kontrola, které kusy nábytku se musejí rozebrat předem. Kdybychom tento úkol přehlédli, ani dobrá dopravní dohoda by nám nezaručila včasné dokončení. Časový plán závisí na více než jednom článku.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Nakonec jsme zvolili větší vůz s písemně potvrzeným příjezdem před osmou a záložní možnost menšího vozidla.",
+        "V potvrzení jsme odlišili základní cenu od případného doplatku a popsali, kdo rozhodne o změně varianty.",
+        "Součástí přípravy byla také kontrola, které kusy nábytku se musejí rozebrat předem.",
+        "Kdybychom tento úkol přehlédli, ani dobrá dopravní dohoda by nám nezaručila včasné dokončení.",
+        "Časový plán závisí na více než jednom článku."
+      ]
+    },
+    {
+      "text": "Po dokončení příprav jsme vytvořili krátké zprávy pro tři různé příjemce. Řidič dostal adresu, časové omezení a kontakt. Pronajímatel dostal postup potvrzení případného zpoždění. Rodina dostala seznam věcí, které musí být zabalené a rozebrané. Každý text obsahoval jen potřebné podrobnosti, ale žádný nesměl změnit nejistotu v jistotu. Závěrečné ústní shrnutí bez nápovědy ukázalo, zda člověk plán skutečně chápe, nebo pouze umí opsat několik vět z podkladů.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Po dokončení příprav jsme vytvořili krátké zprávy pro tři různé příjemce.",
+        "Řidič dostal adresu, časové omezení a kontakt.",
+        "Pronajímatel dostal postup potvrzení případného zpoždění.",
+        "Rodina dostala seznam věcí, které musí být zabalené a rozebrané.",
+        "Každý text obsahoval jen potřebné podrobnosti, ale žádný nesměl změnit nejistotu v jistotu.",
+        "Závěrečné ústní shrnutí bez nápovědy ukázalo, zda člověk plán skutečně chápe, nebo pouze umí opsat několik vět z podkladů."
+      ]
+    }
+  ],
+  "text_sha256": "80ced592d4fd9729e7e49bb474ece966f26c5b9718838f51cec4228494aaf476",
+  "source_file": "content/lessons/B2/B2-U14-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U14-L01--2026.10.22.1--text--80ced592d4--normal.mp3",
+  "slow_file": "content/audio/files/B2-U14-L01--2026.10.22.1--text--80ced592d4--slow.mp3",
+  "duration_seconds": 230.57560090702947,
+  "slow_duration_seconds": 260.29714285714283,
+  "cues": [
+    {
+      "text": "Připravujeme stěhování z pronajatého bytu do nového domu. Pronajímatel potvrdil předání starého bytu v pondělí ve tři odpoledne. Stěhovací firma nabídla příjezd mezi osmou a desátou a předpokládá tři hodiny práce. Na webu městské části se však objevilo oznámení, že ulice u domu bude od devíti do dvanácti omezena kvůli opravě. Z těchto tří zdrojů zatím není jasné, zda se časový plán dá bezpečně dodržet.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Připravujeme stěhování z pronajatého bytu do nového domu.",
+        "Pronajímatel potvrdil předání starého bytu v pondělí ve tři odpoledne.",
+        "Stěhovací firma nabídla příjezd mezi osmou a desátou a předpokládá tři hodiny práce.",
+        "Na webu městské části se však objevilo oznámení, že ulice u domu bude od devíti do dvanácti omezena kvůli opravě.",
+        "Z těchto tří zdrojů zatím není jasné, zda se časový plán dá bezpečně dodržet."
+      ],
+      "start": 0.0,
+      "end": 36.50195011337868,
+      "sentences": [
+        {
+          "text": "Připravujeme stěhování z pronajatého bytu do nového domu.",
+          "start": 0.0,
+          "end": 4.342131519274377,
+          "slow_start": 0.0,
+          "slow_end": 4.899410430839002
+        },
+        {
+          "text": "Pronajímatel potvrdil předání starého bytu v pondělí ve tři odpoledne.",
+          "start": 4.522131519274376,
+          "end": 10.698639455782313,
+          "slow_start": 5.079410430839002,
+          "slow_end": 12.091836734693878
+        },
+        {
+          "text": "Stěhovací firma nabídla příjezd mezi osmou a desátou a předpokládá tři hodiny práce.",
+          "start": 10.878639455782313,
+          "end": 19.063673469387755,
+          "slow_start": 12.271836734693878,
+          "slow_end": 21.40888888888889
+        },
+        {
+          "text": "Na webu městské části se však objevilo oznámení, že ulice u domu bude od devíti do dvanácti omezena kvůli opravě.",
+          "start": 19.243673469387755,
+          "end": 29.030884353741495,
+          "slow_start": 21.58888888888889,
+          "slow_end": 32.664807256235825
+        },
+        {
+          "text": "Z těchto tří zdrojů zatím není jasné, zda se časový plán dá bezpečně dodržet.",
+          "start": 29.210884353741495,
+          "end": 36.50195011337868,
+          "slow_start": 32.844807256235825,
+          "slow_end": 40.98340136054422
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 40.98340136054422
+    },
+    {
+      "text": "Nejprve jsme rozlišili, co jednotlivé formulace skutečně znamenají. Příjezd mezi osmou a desátou není slib příjezdu přesně v osm. Tři hodiny jsou odhad, nikoli potvrzený čas dokončení. Omezení ulice nemusí automaticky znamenat zákaz veškerého přístupu, ale ani nelze předpokládat, že stěhovací vůz dostane výjimku. Bylo třeba ověřit rozsah omezení a velikost vozidla, které firma plánuje použít.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Nejprve jsme rozlišili, co jednotlivé formulace skutečně znamenají.",
+        "Příjezd mezi osmou a desátou není slib příjezdu přesně v osm.",
+        "Tři hodiny jsou odhad, nikoli potvrzený čas dokončení.",
+        "Omezení ulice nemusí automaticky znamenat zákaz veškerého přístupu, ale ani nelze předpokládat, že stěhovací vůz dostane výjimku.",
+        "Bylo třeba ověřit rozsah omezení a velikost vozidla, které firma plánuje použít."
+      ],
+      "start": 36.68195011337868,
+      "end": 72.06934240362811,
+      "sentences": [
+        {
+          "text": "Nejprve jsme rozlišili, co jednotlivé formulace skutečně znamenají.",
+          "start": 36.68195011337868,
+          "end": 42.20829931972789,
+          "slow_start": 41.16340136054422,
+          "slow_end": 47.572108843537414
+        },
+        {
+          "text": "Příjezd mezi osmou a desátou není slib příjezdu přesně v osm.",
+          "start": 42.38829931972789,
+          "end": 47.7869387755102,
+          "slow_start": 47.752108843537414,
+          "slow_end": 53.85895691609977
+        },
+        {
+          "text": "Tři hodiny jsou odhad, nikoli potvrzený čas dokončení.",
+          "start": 47.9669387755102,
+          "end": 52.703809523809525,
+          "slow_start": 54.03895691609977,
+          "slow_end": 59.472426303854874
+        },
+        {
+          "text": "Omezení ulice nemusí automaticky znamenat zákaz veškerého přístupu, ale ani nelze předpokládat, že stěhovací vůz dostane výjimku.",
+          "start": 52.883809523809525,
+          "end": 64.72598639455782,
+          "slow_start": 59.652426303854874,
+          "slow_end": 73.12
+        },
+        {
+          "text": "Bylo třeba ověřit rozsah omezení a velikost vozidla, které firma plánuje použít.",
+          "start": 64.90598639455783,
+          "end": 72.06934240362811,
+          "slow_start": 73.3,
+          "slow_end": 81.49664399092971
+        }
+      ],
+      "slow_start": 41.16340136054422,
+      "slow_end": 81.49664399092971
+    },
+    {
+      "text": "Na informační lince jsme zjistili, že průchod pro pěší zůstane zachován, avšak vjezd větších vozidel bude během prací uzavřen. Pro malé vozidlo existuje objízdná trasa, kterou je nutné potvrdit podle aktuálního značení. Stěhovací firma má menší vůz, ale při jeho použití by musela jet dvakrát. To by zvýšilo čas i cenu. Výhodou by byla menší závislost na jediném ranním příjezdu. Žádná varianta tedy neměla pouze výhody.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Na informační lince jsme zjistili, že průchod pro pěší zůstane zachován, avšak vjezd větších vozidel bude během prací uzavřen.",
+        "Pro malé vozidlo existuje objízdná trasa, kterou je nutné potvrdit podle aktuálního značení.",
+        "Stěhovací firma má menší vůz, ale při jeho použití by musela jet dvakrát.",
+        "To by zvýšilo čas i cenu.",
+        "Výhodou by byla menší závislost na jediném ranním příjezdu.",
+        "Žádná varianta tedy neměla pouze výhody."
+      ],
+      "start": 72.24934240362812,
+      "end": 111.1604081632653,
+      "sentences": [
+        {
+          "text": "Na informační lince jsme zjistili, že průchod pro pěší zůstane zachován, avšak vjezd větších vozidel bude během prací uzavřen.",
+          "start": 72.24934240362812,
+          "end": 83.7548299319728,
+          "slow_start": 81.6766439909297,
+          "slow_end": 94.69142857142857
+        },
+        {
+          "text": "Pro malé vozidlo existuje objízdná trasa, kterou je nutné potvrdit podle aktuálního značení.",
+          "start": 83.93482993197279,
+          "end": 92.08503401360544,
+          "slow_start": 94.87142857142857,
+          "slow_end": 103.61374149659864
+        },
+        {
+          "text": "Stěhovací firma má menší vůz, ale při jeho použití by musela jet dvakrát.",
+          "start": 92.26503401360544,
+          "end": 99.13814058956916,
+          "slow_start": 103.79374149659864,
+          "slow_end": 111.42149659863945
+        },
+        {
+          "text": "To by zvýšilo čas i cenu.",
+          "start": 99.31814058956915,
+          "end": 101.6285260770975,
+          "slow_start": 111.60149659863946,
+          "slow_end": 114.23696145124717
+        },
+        {
+          "text": "Výhodou by byla menší závislost na jediném ranním příjezdu.",
+          "start": 101.80852607709751,
+          "end": 107.21877551020408,
+          "slow_start": 114.41696145124716,
+          "slow_end": 120.5934693877551
+        },
+        {
+          "text": "Žádná varianta tedy neměla pouze výhody.",
+          "start": 107.39877551020408,
+          "end": 111.1604081632653,
+          "slow_start": 120.7734693877551,
+          "slow_end": 124.92984126984128
+        }
+      ],
+      "slow_start": 81.6766439909297,
+      "slow_end": 124.92984126984128
+    },
+    {
+      "text": "Současně jsme kontaktovali pronajímatele a vysvětlili, proč může původní termín předání představovat problém. Nenapsali jsme, že se předání jednostranně přesouvá. Zeptali jsme se, zda by bylo možné přijet o hodinu později, pokud by se doprava zdržela. Pronajímatel souhlasil s rezervním termínem, ale požádal o potvrzení nejpozději dopoledne. Tento souhlas měl konkrétní podmínku, kterou bylo nutné zapsat spolu s novým časem.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Současně jsme kontaktovali pronajímatele a vysvětlili, proč může původní termín předání představovat problém.",
+        "Nenapsali jsme, že se předání jednostranně přesouvá.",
+        "Zeptali jsme se, zda by bylo možné přijet o hodinu později, pokud by se doprava zdržela.",
+        "Pronajímatel souhlasil s rezervním termínem, ale požádal o potvrzení nejpozději dopoledne.",
+        "Tento souhlas měl konkrétní podmínku, kterou bylo nutné zapsat spolu s novým časem."
+      ],
+      "start": 111.34040816326531,
+      "end": 148.1906575963719,
+      "sentences": [
+        {
+          "text": "Současně jsme kontaktovali pronajímatele a vysvětlili, proč může původní termín předání představovat problém.",
+          "start": 111.34040816326531,
+          "end": 120.53551020408163,
+          "slow_start": 125.10984126984127,
+          "slow_end": 135.47755102040816
+        },
+        {
+          "text": "Nenapsali jsme, že se předání jednostranně přesouvá.",
+          "start": 120.71551020408164,
+          "end": 125.30145124716553,
+          "slow_start": 135.65755102040816,
+          "slow_end": 140.99814058956918
+        },
+        {
+          "text": "Zeptali jsme se, zda by bylo možné přijet o hodinu později, pokud by se doprava zdržela.",
+          "start": 125.48145124716554,
+          "end": 132.6564172335601,
+          "slow_start": 141.17814058956915,
+          "slow_end": 149.30512471655328
+        },
+        {
+          "text": "Pronajímatel souhlasil s rezervním termínem, ale požádal o potvrzení nejpozději dopoledne.",
+          "start": 132.8364172335601,
+          "end": 140.5918820861678,
+          "slow_start": 149.4851247165533,
+          "slow_end": 158.30870748299319
+        },
+        {
+          "text": "Tento souhlas měl konkrétní podmínku, kterou bylo nutné zapsat spolu s novým časem.",
+          "start": 140.7718820861678,
+          "end": 148.1906575963719,
+          "slow_start": 158.4887074829932,
+          "slow_end": 166.75501133786847
+        }
+      ],
+      "slow_start": 125.10984126984127,
+      "slow_end": 166.75501133786847
+    },
+    {
+      "text": "Nakonec jsme zvolili větší vůz s písemně potvrzeným příjezdem před osmou a záložní možnost menšího vozidla. V potvrzení jsme odlišili základní cenu od případného doplatku a popsali, kdo rozhodne o změně varianty. Součástí přípravy byla také kontrola, které kusy nábytku se musejí rozebrat předem. Kdybychom tento úkol přehlédli, ani dobrá dopravní dohoda by nám nezaručila včasné dokončení. Časový plán závisí na více než jednom článku.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Nakonec jsme zvolili větší vůz s písemně potvrzeným příjezdem před osmou a záložní možnost menšího vozidla.",
+        "V potvrzení jsme odlišili základní cenu od případného doplatku a popsali, kdo rozhodne o změně varianty.",
+        "Součástí přípravy byla také kontrola, které kusy nábytku se musejí rozebrat předem.",
+        "Kdybychom tento úkol přehlédli, ani dobrá dopravní dohoda by nám nezaručila včasné dokončení.",
+        "Časový plán závisí na více než jednom článku."
+      ],
+      "start": 148.37065759637187,
+      "end": 187.24104308390022,
+      "sentences": [
+        {
+          "text": "Nakonec jsme zvolili větší vůz s písemně potvrzeným příjezdem před osmou a záložní možnost menšího vozidla.",
+          "start": 148.37065759637187,
+          "end": 157.92566893424035,
+          "slow_start": 166.93501133786847,
+          "slow_end": 177.88321995464852
+        },
+        {
+          "text": "V potvrzení jsme odlišili základní cenu od případného doplatku a popsali, kdo rozhodne o změně varianty.",
+          "start": 158.10566893424036,
+          "end": 166.68544217687074,
+          "slow_start": 178.06321995464853,
+          "slow_end": 187.97814058956916
+        },
+        {
+          "text": "Součástí přípravy byla také kontrola, které kusy nábytku se musejí rozebrat předem.",
+          "start": 166.86544217687074,
+          "end": 174.2261678004535,
+          "slow_start": 188.15814058956917,
+          "slow_end": 196.36639455782313
+        },
+        {
+          "text": "Kdybychom tento úkol přehlédli, ani dobrá dopravní dohoda by nám nezaručila včasné dokončení.",
+          "start": 174.40616780045352,
+          "end": 182.9162811791383,
+          "slow_start": 196.54639455782313,
+          "slow_end": 205.8575963718821
+        },
+        {
+          "text": "Časový plán závisí na více než jednom článku.",
+          "start": 183.09628117913832,
+          "end": 187.24104308390022,
+          "slow_start": 206.03759637188207,
+          "slow_end": 210.79768707482992
+        }
+      ],
+      "slow_start": 166.93501133786847,
+      "slow_end": 210.79768707482992
+    },
+    {
+      "text": "Po dokončení příprav jsme vytvořili krátké zprávy pro tři různé příjemce. Řidič dostal adresu, časové omezení a kontakt. Pronajímatel dostal postup potvrzení případného zpoždění. Rodina dostala seznam věcí, které musí být zabalené a rozebrané. Každý text obsahoval jen potřebné podrobnosti, ale žádný nesměl změnit nejistotu v jistotu. Závěrečné ústní shrnutí bez nápovědy ukázalo, zda člověk plán skutečně chápe, nebo pouze umí opsat několik vět z podkladů.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Po dokončení příprav jsme vytvořili krátké zprávy pro tři různé příjemce.",
+        "Řidič dostal adresu, časové omezení a kontakt.",
+        "Pronajímatel dostal postup potvrzení případného zpoždění.",
+        "Rodina dostala seznam věcí, které musí být zabalené a rozebrané.",
+        "Každý text obsahoval jen potřebné podrobnosti, ale žádný nesměl změnit nejistotu v jistotu.",
+        "Závěrečné ústní shrnutí bez nápovědy ukázalo, zda člověk plán skutečně chápe, nebo pouze umí opsat několik vět z podkladů."
+      ],
+      "start": 187.42104308390023,
+      "end": 230.3956009070295,
+      "sentences": [
+        {
+          "text": "Po dokončení příprav jsme vytvořili krátké zprávy pro tři různé příjemce.",
+          "start": 187.42104308390023,
+          "end": 193.6439909297052,
+          "slow_start": 210.97768707482993,
+          "slow_end": 217.9320634920635
+        },
+        {
+          "text": "Řidič dostal adresu, časové omezení a kontakt.",
+          "start": 193.82399092970522,
+          "end": 198.2241723356009,
+          "slow_start": 218.1120634920635,
+          "slow_end": 223.1972335600907
+        },
+        {
+          "text": "Pronajímatel dostal postup potvrzení případného zpoždění.",
+          "start": 198.40417233560092,
+          "end": 203.6751020408163,
+          "slow_start": 223.3772335600907,
+          "slow_end": 229.64662131519273
+        },
+        {
+          "text": "Rodina dostala seznam věcí, které musí být zabalené a rozebrané.",
+          "start": 203.85510204081632,
+          "end": 209.9851700680272,
+          "slow_start": 229.82662131519274,
+          "slow_end": 236.88548752834467
+        },
+        {
+          "text": "Každý text obsahoval jen potřebné podrobnosti, ale žádný nesměl změnit nejistotu v jistotu.",
+          "start": 210.1651700680272,
+          "end": 218.3966439909297,
+          "slow_start": 237.06548752834468,
+          "slow_end": 246.60888888888888
+        },
+        {
+          "text": "Závěrečné ústní shrnutí bez nápovědy ukázalo, zda člověk plán skutečně chápe, nebo pouze umí opsat několik vět z podkladů.",
+          "start": 218.5766439909297,
+          "end": 230.3956009070295,
+          "slow_start": 246.7888888888889,
+          "slow_end": 260.1171428571429
+        }
+      ],
+      "slow_start": 210.97768707482993,
+      "slow_end": 260.1171428571429
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "e27b65b0bf7e65b6b1745ef27686fed4d6d8800898a15f91d56d13ddd282deec",
+    "slow": "baa016401ffd79e5e8bf12641797fef4d4d34b808bfdfe5b36b3d054f664cd0f"
+  },
+  "reused_from_track_id": "B2-U14-L01--2026.10.22.1--text"
+}

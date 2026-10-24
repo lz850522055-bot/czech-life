@@ -1,0 +1,174 @@
+{
+  "id": "C2-U02-L01--2026.10.23.1--vocabulary",
+  "lesson_id": "C2-U02-L01",
+  "content_version": "2026.10.23.1",
+  "level": "C2",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Rozsah záporu mění závěr.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Rozsah záporu mění závěr."
+      ]
+    },
+    {
+      "text": "Souhlas nebyl jednomyslný.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Souhlas nebyl jednomyslný."
+      ]
+    },
+    {
+      "text": "Člen se zdržel hlasování.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Člen se zdržel hlasování."
+      ]
+    },
+    {
+      "text": "Předpoklad není potvrzený fakt.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Předpoklad není potvrzený fakt."
+      ]
+    },
+    {
+      "text": "Přidáme výslovné upřesnění.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Přidáme výslovné upřesnění."
+      ]
+    }
+  ],
+  "text_sha256": "18afbae889461e641aa8ef8bf2e469f8a3b7f3dec7e309da21c6e306903c61ea",
+  "source_file": "content/lessons/C2/C2-U02-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U02-L01--2026.10.22.1--vocabulary--18afbae889--normal.mp3",
+  "slow_file": "content/audio/files/C2-U02-L01--2026.10.22.1--vocabulary--18afbae889--slow.mp3",
+  "duration_seconds": 14.135374149659864,
+  "slow_duration_seconds": 15.795600907029478,
+  "cues": [
+    {
+      "text": "Rozsah záporu mění závěr.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Rozsah záporu mění závěr."
+      ],
+      "start": 0.0,
+      "end": 2.8676643990929707,
+      "sentences": [
+        {
+          "text": "Rozsah záporu mění závěr.",
+          "start": 0.0,
+          "end": 2.8676643990929707,
+          "slow_start": 0.0,
+          "slow_end": 3.1695238095238096
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 3.1695238095238096
+    },
+    {
+      "text": "Souhlas nebyl jednomyslný.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Souhlas nebyl jednomyslný."
+      ],
+      "start": 3.0476643990929704,
+      "end": 5.555419501133787,
+      "sentences": [
+        {
+          "text": "Souhlas nebyl jednomyslný.",
+          "start": 3.0476643990929704,
+          "end": 5.555419501133787,
+          "slow_start": 3.3495238095238093,
+          "slow_end": 6.1591383219954645
+        }
+      ],
+      "slow_start": 3.3495238095238093,
+      "slow_end": 6.1591383219954645
+    },
+    {
+      "text": "Člen se zdržel hlasování.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Člen se zdržel hlasování."
+      ],
+      "start": 5.735419501133787,
+      "end": 8.150294784580499,
+      "sentences": [
+        {
+          "text": "Člen se zdržel hlasování.",
+          "start": 5.735419501133787,
+          "end": 8.150294784580499,
+          "slow_start": 6.339138321995465,
+          "slow_end": 9.125532879818595
+        }
+      ],
+      "slow_start": 6.339138321995465,
+      "slow_end": 9.125532879818595
+    },
+    {
+      "text": "Předpoklad není potvrzený fakt.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Předpoklad není potvrzený fakt."
+      ],
+      "start": 8.330294784580499,
+      "end": 11.290839002267573,
+      "sentences": [
+        {
+          "text": "Předpoklad není potvrzený fakt.",
+          "start": 8.330294784580499,
+          "end": 11.290839002267573,
+          "slow_start": 9.305532879818594,
+          "slow_end": 12.649206349206349
+        }
+      ],
+      "slow_start": 9.305532879818594,
+      "slow_end": 12.649206349206349
+    },
+    {
+      "text": "Přidáme výslovné upřesnění.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Přidáme výslovné upřesnění."
+      ],
+      "start": 11.470839002267574,
+      "end": 13.955374149659864,
+      "sentences": [
+        {
+          "text": "Přidáme výslovné upřesnění.",
+          "start": 11.470839002267574,
+          "end": 13.955374149659864,
+          "slow_start": 12.829206349206348,
+          "slow_end": 15.615600907029478
+        }
+      ],
+      "slow_start": 12.829206349206348,
+      "slow_end": 15.615600907029478
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "1412fb79793ec7d512cdba66b3688922e3c025a505855c3b4e88b777f9a7e453",
+    "slow": "e05626ee66b0993b386cfd1b935624f3ea1b5a48c571dde686b8f0c5417607ed"
+  },
+  "reused_from_track_id": "C2-U02-L01--2026.10.22.1--vocabulary"
+}

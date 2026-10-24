@@ -1,0 +1,208 @@
+{
+  "id": "A1-U07-CHECK",
+  "kind": "unit",
+  "level": "A1",
+  "unit_id": "A1-U07",
+  "title_zh": "谈家人和工作，不只会报名字：换情境独立完成",
+  "version": "2026.10.22.1",
+  "unseen_text": [
+    {
+      "cs": "Petr má bratra. Jeho bratr je lékař a rád plave. Petr rád vaří.",
+      "zh": "彼得有一个兄弟，他的兄弟是医生，喜欢游泳。彼得喜欢做饭。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "谁是医生？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "Petr"
+        },
+        {
+          "id": "b",
+          "text": "Petr的兄弟"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "jeho bratr指彼得的兄弟。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "A1-U07-CHECK-E01",
+      "knowledge_points": [
+        "possessive-basic",
+        "likes-rad"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "填“我们的家人”。",
+      "stimulus_cs": "___ rodina",
+      "answer": "naše",
+      "accepted_answers": [
+        "naše"
+      ],
+      "explanation_zh": "rodina阴性。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "A1-U07-CHECK-E02",
+      "knowledge_points": [
+        "possessive-basic",
+        "likes-rad"
+      ]
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "转告两人的爱好，避免用不明的“他”。",
+      "stimulus_cs": "",
+      "answer": "彼得喜欢做饭，彼得的兄弟喜欢游泳。",
+      "accepted_answers": [],
+      "explanation_zh": "明确名字或关系。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A1-U07-CHECK-E03",
+      "knowledge_points": [
+        "possessive-basic",
+        "likes-rad"
+      ]
+    }
+  ],
+  "rubric": [
+    "能提取新材料中的关键事实，不靠背诵原文",
+    "能根据变化的条件组织一句或一段表达",
+    "能指出不确定之处并请求澄清"
+  ],
+  "remediation": [
+    {
+      "condition_zh": "目标规律使用不稳定或未能提取关键信息",
+      "lesson_ids": [
+        "A1-U07-L01"
+      ],
+      "action_zh": "返回规律卡，对照两例；隔一次其他练习后重做未见情境。"
+    }
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "A1-U07-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U07-CHECK--2026.10.22.1--text--1c5a697c17--normal.mp3",
+      "slow_file": "audio/files/A1-U07-CHECK--2026.10.22.1--text--1c5a697c17--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U07-CHECK--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Petr má bratra. Jeho bratr je lékař a rád plave. Petr rád vaří.",
+      "duration_seconds": 6.995147392290249,
+      "slow_duration_seconds": 7.807845804988662,
+      "sha256": "c6d96580b50c4addec85eb58db35db582f6c9691a01e1100f526fbd0a026d97f",
+      "slow_sha256": "30156c2fe9d7cacafeecd843c4088d1be26534d7f3ff0d593762401774c6fd79"
+    },
+    {
+      "lesson_id": "A1-U07-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U07-CHECK--2026.10.22.1--text--1c5a697c17--normal.mp3",
+      "slow_file": "audio/files/A1-U07-CHECK--2026.10.22.1--text--1c5a697c17--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U07-CHECK--2026.10.22.1--text--p0",
+      "asset_id": "A1-U07-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Petr má bratra. Jeho bratr je lékař a rád plave. Petr rád vaří.",
+      "start": 0,
+      "end": 6.81514739229025,
+      "slow_start": 0,
+      "slow_end": 7.627845804988662
+    },
+    {
+      "lesson_id": "A1-U07-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U07-CHECK--2026.10.22.1--text--1c5a697c17--normal.mp3",
+      "slow_file": "audio/files/A1-U07-CHECK--2026.10.22.1--text--1c5a697c17--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U07-CHECK--2026.10.22.1--text--s0",
+      "asset_id": "A1-U07-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Petr má bratra.",
+      "start": 0,
+      "end": 1.6486167800453515,
+      "slow_start": 0,
+      "slow_end": 1.8343764172335602
+    },
+    {
+      "lesson_id": "A1-U07-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U07-CHECK--2026.10.22.1--text--1c5a697c17--normal.mp3",
+      "slow_file": "audio/files/A1-U07-CHECK--2026.10.22.1--text--1c5a697c17--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U07-CHECK--2026.10.22.1--text--s1",
+      "asset_id": "A1-U07-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Jeho bratr je lékař a rád plave.",
+      "start": 1.8286167800453514,
+      "end": 5.021360544217687,
+      "slow_start": 2.01437641723356,
+      "slow_end": 5.590249433106576
+    },
+    {
+      "lesson_id": "A1-U07-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U07-CHECK--2026.10.22.1--text--1c5a697c17--normal.mp3",
+      "slow_file": "audio/files/A1-U07-CHECK--2026.10.22.1--text--1c5a697c17--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U07-CHECK--2026.10.22.1--text--s2",
+      "asset_id": "A1-U07-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Petr rád vaří.",
+      "start": 5.201360544217687,
+      "end": 6.81514739229025,
+      "slow_start": 5.770249433106576,
+      "slow_end": 7.627845804988662
+    }
+  ]
+}

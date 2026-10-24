@@ -1,0 +1,229 @@
+{
+  "id": "A2-U14-CHECK",
+  "kind": "unit",
+  "level": "A2",
+  "unit_id": "A2-U14",
+  "title_zh": "把一次活动从约定做到交接：换情境独立完成",
+  "version": "2026.10.22.1",
+  "unseen_text": [
+    {
+      "cs": "Setkání začne v sobotu ve čtyři odpoledne. Hostů bude patnáct. Objednávka vody je potvrzená, ale klíče ještě nemáme. Jana je vyzvedne v pátek.",
+      "zh": "聚会周六16点，15人；水订单已确认，但还没钥匙，雅娜周五去取。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "现在已拿到钥匙了吗？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "拿到"
+        },
+        {
+          "id": "b",
+          "text": "未拿到"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "ještě nemáme，周五是计划。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "A2-U14-CHECK-E01",
+      "knowledge_points": [
+        "simple-clause-links",
+        "project-evidence"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "开始时间，写HH:MM。",
+      "stimulus_cs": "",
+      "answer": "16:00",
+      "accepted_answers": [
+        "16:00"
+      ],
+      "explanation_zh": "ve čtyři按活动下午语境，材料中文明确16点。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "comprehension",
+      "id": "A2-U14-CHECK-E02",
+      "knowledge_points": [
+        "simple-clause-links",
+        "project-evidence"
+      ]
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "给Jana写确认取钥匙的请求，并说明周六需要用。",
+      "stimulus_cs": "",
+      "answer": "Jano, potvrdíš prosím vyzvednutí klíčů v pátek? V sobotu je potřebujeme.",
+      "accepted_answers": [],
+      "explanation_zh": "确认计划，不假称已取。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A2-U14-CHECK-E03",
+      "knowledge_points": [
+        "simple-clause-links",
+        "project-evidence"
+      ]
+    }
+  ],
+  "rubric": [
+    "能提取新材料中的关键事实，不靠背诵原文",
+    "能根据变化的条件组织一句或一段表达",
+    "能指出不确定之处并请求澄清"
+  ],
+  "remediation": [
+    {
+      "condition_zh": "目标规律使用不稳定或未能提取关键信息",
+      "lesson_ids": [
+        "A2-U14-L01"
+      ],
+      "action_zh": "返回规律卡，对照两例；隔一次其他练习后重做未见情境。"
+    }
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "A2-U14-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U14-CHECK--2026.10.22.1--text--92339ba714--normal.mp3",
+      "slow_file": "audio/files/A2-U14-CHECK--2026.10.22.1--text--92339ba714--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U14-CHECK--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Setkání začne v sobotu ve čtyři odpoledne. Hostů bude patnáct. Objednávka vody je potvrzená, ale klíče ještě nemáme. Jana je vyzvedne v pátek.",
+      "duration_seconds": 13.21233560090703,
+      "slow_duration_seconds": 14.59392290249433,
+      "sha256": "cd26eae81a8f8ee8c86d18ef2c3ab494c214264d6e40da5f461dd71b7bfe2a53",
+      "slow_sha256": "98d374ab3409c0a66c7dac5e733f38ea879d913f39c641afc2c87c04f98233d5"
+    },
+    {
+      "lesson_id": "A2-U14-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U14-CHECK--2026.10.22.1--text--92339ba714--normal.mp3",
+      "slow_file": "audio/files/A2-U14-CHECK--2026.10.22.1--text--92339ba714--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U14-CHECK--2026.10.22.1--text--p0",
+      "asset_id": "A2-U14-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Setkání začne v sobotu ve čtyři odpoledne. Hostů bude patnáct. Objednávka vody je potvrzená, ale klíče ještě nemáme. Jana je vyzvedne v pátek.",
+      "start": 0,
+      "end": 13.032335600907029,
+      "slow_start": 0,
+      "slow_end": 14.413922902494331
+    },
+    {
+      "lesson_id": "A2-U14-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U14-CHECK--2026.10.22.1--text--92339ba714--normal.mp3",
+      "slow_file": "audio/files/A2-U14-CHECK--2026.10.22.1--text--92339ba714--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U14-CHECK--2026.10.22.1--text--s0",
+      "asset_id": "A2-U14-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Setkání začne v sobotu ve čtyři odpoledne.",
+      "start": 0,
+      "end": 3.657142857142857,
+      "slow_start": 0,
+      "slow_end": 4.237641723356009
+    },
+    {
+      "lesson_id": "A2-U14-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U14-CHECK--2026.10.22.1--text--92339ba714--normal.mp3",
+      "slow_file": "audio/files/A2-U14-CHECK--2026.10.22.1--text--92339ba714--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U14-CHECK--2026.10.22.1--text--s1",
+      "asset_id": "A2-U14-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Hostů bude patnáct.",
+      "start": 3.837142857142857,
+      "end": 5.845668934240363,
+      "slow_start": 4.4176417233560095,
+      "slow_end": 6.658367346938776
+    },
+    {
+      "lesson_id": "A2-U14-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U14-CHECK--2026.10.22.1--text--92339ba714--normal.mp3",
+      "slow_file": "audio/files/A2-U14-CHECK--2026.10.22.1--text--92339ba714--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U14-CHECK--2026.10.22.1--text--s2",
+      "asset_id": "A2-U14-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Objednávka vody je potvrzená, ale klíče ještě nemáme.",
+      "start": 6.025668934240363,
+      "end": 10.669659863945578,
+      "slow_start": 6.838367346938775,
+      "slow_end": 11.78421768707483
+    },
+    {
+      "lesson_id": "A2-U14-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U14-CHECK--2026.10.22.1--text--92339ba714--normal.mp3",
+      "slow_file": "audio/files/A2-U14-CHECK--2026.10.22.1--text--92339ba714--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U14-CHECK--2026.10.22.1--text--s3",
+      "asset_id": "A2-U14-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 3,
+      "paragraph_index": 0,
+      "sentence_index": 3,
+      "text": "Jana je vyzvedne v pátek.",
+      "start": 10.849659863945579,
+      "end": 13.032335600907029,
+      "slow_start": 11.96421768707483,
+      "slow_end": 14.413922902494331
+    }
+  ]
+}

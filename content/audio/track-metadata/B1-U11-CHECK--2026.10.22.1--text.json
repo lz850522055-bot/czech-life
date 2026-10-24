@@ -1,0 +1,75 @@
+{
+  "id": "B1-U11-CHECK--2026.10.22.1--text",
+  "lesson_id": "B1-U11-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Sál je rezervovaný na pátek, ale ozvučení musí potvrdit jiný pracovník. Odpověď slibuje do středy. Organizátoři mohou převzít klíče hodinu před začátkem.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Sál je rezervovaný na pátek, ale ozvučení musí potvrdit jiný pracovník.",
+        "Odpověď slibuje do středy.",
+        "Organizátoři mohou převzít klíče hodinu před začátkem."
+      ]
+    }
+  ],
+  "text_sha256": "8d40ff79225a2643cdba3d6efb4d4eb5a418f491c08357e0d1baf9b9c2f0130c",
+  "source_file": "content/assessments/B1-U11.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U11-CHECK--2026.10.22.1--text--8d40ff7922--normal.mp3",
+  "slow_file": "content/audio/files/B1-U11-CHECK--2026.10.22.1--text--8d40ff7922--slow.mp3",
+  "duration_seconds": 14.274603174603175,
+  "slow_duration_seconds": 15.78390022675737,
+  "cues": [
+    {
+      "text": "Sál je rezervovaný na pátek, ale ozvučení musí potvrdit jiný pracovník. Odpověď slibuje do středy. Organizátoři mohou převzít klíče hodinu před začátkem.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Sál je rezervovaný na pátek, ale ozvučení musí potvrdit jiný pracovník.",
+        "Odpověď slibuje do středy.",
+        "Organizátoři mohou převzít klíče hodinu před začátkem."
+      ],
+      "start": 0.0,
+      "end": 14.094603174603174,
+      "sentences": [
+        {
+          "text": "Sál je rezervovaný na pátek, ale ozvučení musí potvrdit jiný pracovník.",
+          "start": 0.0,
+          "end": 6.733786848072563,
+          "slow_start": 0.0,
+          "slow_end": 7.511655328798186
+        },
+        {
+          "text": "Odpověď slibuje do středy.",
+          "start": 6.913786848072562,
+          "end": 9.11968253968254,
+          "slow_start": 7.691655328798186,
+          "slow_end": 10.141360544217687
+        },
+        {
+          "text": "Organizátoři mohou převzít klíče hodinu před začátkem.",
+          "start": 9.29968253968254,
+          "end": 14.094603174603174,
+          "slow_start": 10.321360544217686,
+          "slow_end": 15.60390022675737
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 15.60390022675737
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "c1749dac1c85f662a5e08ce0ad5a242c6db1454bbbb8a4cac50f987882ddbb97",
+    "slow": "0dacdf2c6880dc003dc4a4668d44f40a8641a1de2da5c0206e5203a0e842f0c3"
+  }
+}

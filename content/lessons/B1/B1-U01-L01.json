@@ -1,0 +1,1485 @@
+{
+  "id": "B1-U01-L01",
+  "level": "B1",
+  "unit_id": "B1-U01",
+  "order": 33,
+  "version": "2026.10.22.1",
+  "title_zh": "连贯叙述与事件顺序",
+  "title_cs": "Den, který se nevyvíjel podle plánu",
+  "prerequisites": [
+    "A2-U14-L01"
+  ],
+  "can_do": [
+    "按先后顺序讲清一次意外经历",
+    "区分背景、转折、结果并说明原因",
+    "向没在场的人交代下一步"
+  ],
+  "scene": "办事与经历叙述",
+  "skills": [
+    "listening",
+    "speaking",
+    "reading",
+    "writing",
+    "interaction",
+    "mediation"
+  ],
+  "knowledge_points": [
+    "narrative-sequence",
+    "reported-plan"
+  ],
+  "intro_zh": "你不需要把每个细节都讲出来；先让对方听懂原计划、出了什么问题、你怎样处理。今天把一段办事经历组织成可跟上的故事。",
+  "lesson_text": [
+    {
+      "id": "s01",
+      "cs": "V pondělí jsem měl vyzvednout opravený počítač a potom odnést několik dokumentů do kanceláře. Oprava měla být hotová už v pátek, ale technik mi napsal, že ještě čeká na náhradní součástku. Nejdřív jsem si proto ověřil, zda má smysl do servisu jezdit. Po telefonu mi potvrdil, že počítač už funguje a že si ho mohu vyzvednout dopoledne.",
+      "zh": "周一我原本要取修好的电脑，然后把几份文件送到办公室。维修本应周五完成，但技术员说还在等配件。所以我先确认是否值得跑一趟。他在电话里确认电脑已经能用，可以上午取。",
+      "note_zh": "měl jsem / měla být 表示原计划或预期，不能直接推断已经实现。"
+    },
+    {
+      "id": "s02",
+      "cs": "Když jsem dorazil na zastávku, všiml jsem si oznámení o výluce. Autobus odjížděl z jiné ulice. Zatímco jsem hledal náhradní zastávku, začalo pršet. Naštěstí mi jedna paní ukázala správný směr. Cestou jsem zavolal kolegyni, aby na mě zbytečně nečekala. Řekl jsem jí, že přijdu později, ale dokumenty určitě přinesu ještě před obědem.",
+      "zh": "到车站时，我看见停运改线通知。公交从另一条街发车。我找临时站点的时候开始下雨。幸好一位女士指了方向。我路上打电话给女同事，让她不要白等，并说我会晚到，但午饭前一定送到文件。",
+      "note_zh": ""
+    },
+    {
+      "id": "s03",
+      "cs": "V servisu jsem nejprve počítač zapnul a zkontroloval několik souborů. Technik mi vysvětlil, co vyměnil, a doporučil pravidelné zálohování. Teprve potom jsem zaplatil a převzal doklad. Měl jsem radost, že se žádná data neztratila. Před odchodem jsem se ještě zeptal, komu mám zavolat, pokud se stejná chyba objeví znovu.",
+      "zh": "在维修点我先开机检查几个文件。技术员解释更换了什么，并建议定期备份。之后我才付款拿凭证。数据没有丢失让我很高兴。离开前又问，如果同样的问题再次出现该联系谁。",
+      "note_zh": ""
+    },
+    {
+      "id": "s04",
+      "cs": "Do kanceláře jsem nakonec dorazil v půl dvanácté. Kolegyně už měla připravenou smlouvu, takže jsme všechno stihli. Večer jsem celý den popsal kamarádovi. Neříkal jsem pouze, že to bylo hrozné. Vysvětlil jsem, co se změnilo a jak jsem problém vyřešil. Příště si před cestou ověřím nejen otevírací dobu servisu, ale také případné změny dopravy. Kolegyně ocenila, že jsem jí změnu oznámil předem, protože si díky tomu mohla jinak uspořádat dopoledne.",
+      "zh": "最后我十一点半到了办公室。女同事已经准备好合同，因此都赶上了。晚上向朋友叙述时，我没有只说“糟透了”，而是说明变化和解决方式。下次出发前，除了维修点营业时间，我也会确认交通变化。 女同事感谢我提前通知变化，因为这样她能重新安排上午。",
+      "note_zh": ""
+    }
+  ],
+  "grammar": [
+    {
+      "id": "narrative-sequence",
+      "rule_zh": "先交代背景，再用时间连接词把关键动作串起来。",
+      "detail_zh": "nejdřív/nejprve 是首先，potom/pak 是然后，nakonec 是最终；teprve potom 强调直到前一步完成之后才做。když 引出时间场景，zatímco 常连接同时发生的事情，也可用于对比。叙述中持续背景常用未完成体，推进结果的动作常用完成体，不能把二者简化成“慢”和“快”。",
+      "examples": [
+        {
+          "cs": "Když jsem čekal, zavolala mi kolegyně.",
+          "zh": "我等候时，女同事打来了电话。",
+          "note_zh": ""
+        },
+        {
+          "cs": "Nejprve jsem doklad zkontroloval, teprve potom jsem zaplatil.",
+          "zh": "我先核查凭证，之后才付款。",
+          "note_zh": ""
+        }
+      ],
+      "pitfalls": [
+        "只有 potom 连用会让层次不清；要标出转折与结果。",
+        "později 是较晚时候，pozdě 是迟了，不能互换所有语境。"
+      ],
+      "exceptions": [
+        "když 也能表达反复发生的条件，需看上下文。"
+      ],
+      "term": "时间从句与叙事连接"
+    },
+    {
+      "id": "reported-plan",
+      "rule_zh": "“原本要做”与“已经做了”分开说。",
+      "detail_zh": "měl jsem + 不定式可表达原计划、义务或预期；是否完成要用后文说明。měl jsem vyzvednout 并不自动等于 vyzvedl jsem。汉语“本来”可提示，但不能给所有 měl jsem 都硬加“没实现”。",
+      "examples": [
+        {
+          "cs": "Měl jsem přijít v deset, ale přišel jsem v jedenáct.",
+          "zh": "我原本应十点来，但十一点才来。",
+          "note_zh": ""
+        }
+      ],
+      "pitfalls": [
+        "不要用计划句替代结果句。"
+      ],
+      "exceptions": [
+        "mít + 名词也可只是拥有，例如 měl jsem doklad。"
+      ],
+      "term": "情态与叙事视角"
+    }
+  ],
+  "vocabulary": [
+    {
+      "lemma": "výluka",
+      "pos": "名词，阴性",
+      "forms": "výluky; o výluce",
+      "meaning_zh": "临时停运或交通改线",
+      "collocation": "oznámení o výluce",
+      "example_cs": "Kvůli výluce jedeme jinudy.",
+      "example_zh": "因为改线，我们走别的路。",
+      "confusion_zh": "不是永久关闭。"
+    },
+    {
+      "lemma": "vyzvednout",
+      "pos": "动词，完成体",
+      "forms": "vyzvednu; vyzvedl",
+      "meaning_zh": "领取、接取",
+      "collocation": "vyzvednout počítač",
+      "example_cs": "Počítač vyzvednu zítra.",
+      "example_zh": "我明天取电脑。",
+      "confusion_zh": "过程或惯常用 vyzvedávat。"
+    },
+    {
+      "lemma": "stihnout",
+      "pos": "动词，完成体",
+      "forms": "stihnu; stihl",
+      "meaning_zh": "赶得及",
+      "collocation": "stihnout schůzku",
+      "example_cs": "Schůzku jsme stihli.",
+      "example_zh": "我们赶上了会面。",
+      "confusion_zh": "不是到达本身，而是及时完成。"
+    },
+    {
+      "lemma": "zálohování",
+      "pos": "名词，中性",
+      "forms": "bez zálohování",
+      "meaning_zh": "备份操作",
+      "collocation": "pravidelné zálohování",
+      "example_cs": "Zálohování chrání důležitá data.",
+      "example_zh": "备份保护重要数据。",
+      "confusion_zh": "záloha 也可表示订金，需看情境。"
+    },
+    {
+      "lemma": "náhradní",
+      "pos": "形容词",
+      "forms": "náhradní zastávka; náhradního dílu",
+      "meaning_zh": "替代的、备用的",
+      "collocation": "náhradní součástka",
+      "example_cs": "Čekáme na náhradní díl.",
+      "example_zh": "我们在等替换零件。",
+      "confusion_zh": "与原来的 původní 相对。"
+    }
+  ],
+  "listening": {
+    "script": [
+      {
+        "cs": "Ráno jsem měl vyzvednout zásilku. Nejdřív jsem šel na poštu, ale tam mi řekli, že balík čeká ve výdejně vedle nádraží. Když jsem tam dorazil, zjistil jsem, že nemám kód. Naštěstí mi ho sestra poslala znovu. Balík jsem tedy převzal až odpoledne.",
+        "zh": "早上我本来要取包裹。我先去了邮局，那里说包裹在车站旁的提货点。到那里才发现没带取件码，幸好姐姐又发给我一次。所以我下午才拿到包裹。",
+        "note_zh": ""
+      }
+    ],
+    "focus_zh": "第一次抓原计划与结果；第二次记转折；不要把 pošta 与 výdejna 混为同一地点。",
+    "source": "original"
+  },
+  "pronunciation": {
+    "focus_zh": "按意义块朗读 Nejprve jsem / potom jsem / nakonec jsem。jsem 不要逐字重读；保留 náhradní 的 á 长度。",
+    "contrast": [
+      {
+        "a": "pozdě",
+        "b": "později",
+        "note_zh": "词尾区别影响“迟到”与“之后”的意思，不是最小音对。"
+      }
+    ],
+    "task_zh": "先听一句，再按意义块跟读；录下自然语速版本，对照长短元音、句中停顿和关键词。不要追求机械加速。"
+  },
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "为什么出发前要给维修点打电话？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "因为维修曾因配件延迟"
+        },
+        {
+          "id": "b",
+          "text": "因为电脑已经丢了"
+        },
+        {
+          "id": "c",
+          "text": "因为办公室关闭了"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "前段明确提到等待配件，打电话是确认维修结果。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U01-L01-E01",
+      "knowledge_points": [
+        "narrative-sequence",
+        "reported-plan"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "哪一项是真实完成的动作？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "电脑星期五已经取回"
+        },
+        {
+          "id": "b",
+          "text": "在维修点核查文件后付款"
+        },
+        {
+          "id": "c",
+          "text": "先付款再开机检查"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "teprve potom 把付款放在检查之后。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U01-L01-E02",
+      "knowledge_points": [
+        "narrative-sequence",
+        "reported-plan"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "只听录音：包裹最后在哪里领取？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "邮局"
+        },
+        {
+          "id": "b",
+          "text": "车站旁提货点"
+        },
+        {
+          "id": "c",
+          "text": "妹妹家"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "邮局是第一次去错的地点；最终交付在 výdejna。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "listening"
+      ],
+      "error_category": "comprehension",
+      "audio_text_cs": "Nejdřív jsem šel na poštu. Balík ale čekal ve výdejně vedle nádraží, kde jsem ho odpoledne převzal.",
+      "id": "B1-U01-L01-E03",
+      "knowledge_points": [
+        "narrative-sequence",
+        "reported-plan"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "填入“最终”：___ jsme všechno stihli.",
+      "stimulus_cs": "___ jsme všechno stihli.",
+      "answer": "Nakonec",
+      "accepted_answers": [
+        "Nakonec"
+      ],
+      "explanation_zh": "结果用 nakonec；nejdřív 表示开头。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "meaning",
+      "id": "B1-U01-L01-E04",
+      "knowledge_points": [
+        "narrative-sequence",
+        "reported-plan"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "按原文：我原本要取电脑。měl jsem 后填不定式。",
+      "stimulus_cs": "Měl jsem ___ počítač.",
+      "answer": "vyzvednout",
+      "accepted_answers": [
+        "vyzvednout"
+      ],
+      "explanation_zh": "měl jsem + 不定式，不用过去分词 vyzvedl。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "B1-U01-L01-E05",
+      "knowledge_points": [
+        "narrative-sequence",
+        "reported-plan"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt_zh": "以 Když 开头排列，主句表达电话突然打来。",
+      "stimulus_cs": "zavolala mi kolegyně. / Když jsem čekal,",
+      "options": [
+        "zavolala mi kolegyně.",
+        "Když jsem čekal,"
+      ],
+      "answer": "Když jsem čekal, zavolala mi kolegyně.",
+      "accepted_answers": [
+        "Když jsem čekal, zavolala mi kolegyně."
+      ],
+      "explanation_zh": "时间背景先说，主句电话动作推进故事。",
+      "scoring_basis": "本题限定句首及语境；不据一个参考语序否定捷语所有语序变体。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "word_order",
+      "id": "B1-U01-L01-E06",
+      "knowledge_points": [
+        "narrative-sequence",
+        "reported-plan"
+      ]
+    },
+    {
+      "type": "correct",
+      "prompt_zh": "只改一处：女性主语对应的过去式。",
+      "stimulus_cs": "Kolegyně připravil smlouvu.",
+      "answer": "Kolegyně připravila smlouvu.",
+      "accepted_answers": [
+        "Kolegyně připravila smlouvu."
+      ],
+      "explanation_zh": "kolegyně 为女性，过去分词用 připravila。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "B1-U01-L01-E07",
+      "knowledge_points": [
+        "narrative-sequence",
+        "reported-plan"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "měl jsem přijít 本身能证明什么？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "我确实按时来了"
+        },
+        {
+          "id": "b",
+          "text": "我原本应该或计划来"
+        },
+        {
+          "id": "c",
+          "text": "我一定没有来"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "计划是否实现要看后文，不能靠结构自行补结论。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U01-L01-E08",
+      "knowledge_points": [
+        "narrative-sequence",
+        "reported-plan"
+      ]
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "用六至八句讲述一次改计划的经历，包含原计划、障碍、处理与结果。",
+      "stimulus_cs": "",
+      "answer": "Měl jsem odjet ráno. Když jsem přišel na nádraží, vlak měl zpoždění. Nejdřív jsem zavolal kolegovi. Potom jsem našel jiné spojení. Nakonec jsem dorazil včas. Příště si nechám větší rezervu.",
+      "accepted_answers": [],
+      "explanation_zh": "先让听众建立时间线，再补细节。",
+      "rubric": [
+        "时间顺序清楚",
+        "区别计划与结果",
+        "至少一次原因或转折"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "error_category": "fluency",
+      "id": "B1-U01-L01-E09",
+      "knowledge_points": [
+        "narrative-sequence",
+        "reported-plan"
+      ]
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "给等你的同事写消息：修电脑耽误，你十二点前到，不要求对方继续等。",
+      "stimulus_cs": "",
+      "answer": "Dobrý den, vyzvednutí počítače trvá déle, než jsem čekal. Dorazím před dvanáctou. Nemusíte na mě čekat, dokumenty vám nechám na stole. Děkuji za pochopení.",
+      "accepted_answers": [],
+      "explanation_zh": "保留时间承诺、原因和安排；不要写没有依据的保证。",
+      "rubric": [
+        "说明变化",
+        "给出具体时间",
+        "说清对方怎么做"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U01-L01-E10",
+      "knowledge_points": [
+        "narrative-sequence",
+        "reported-plan"
+      ]
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "对方问：Proč jsi nepřišel v deset? 用事实解释并提出补救。",
+      "stimulus_cs": "",
+      "answer": "Omlouvám se, autobus jel kvůli výluce jinudy. Měl jsem ti zavolat dřív. Můžeme si dokumenty projít teď?",
+      "accepted_answers": [],
+      "explanation_zh": "解释原因后承认沟通缺口，再提出可做的下一步。",
+      "rubric": [
+        "回应迟到问题",
+        "语气不推卸",
+        "提出下一步"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "error_category": "fluency",
+      "id": "B1-U01-L01-E11",
+      "knowledge_points": [
+        "narrative-sequence",
+        "reported-plan"
+      ]
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "向不懂捷语的朋友用中文转述：原计划、交通变化和最终结果。",
+      "stimulus_cs": "",
+      "answer": "原计划上午取电脑再送文件；公交因临时改线换了站点；我通知了同事，最后十一点半到办公室，仍然办完了事情。",
+      "accepted_answers": [],
+      "explanation_zh": "转述可删掉雨天等次要细节，但不能把配件延迟说成电脑丢失。",
+      "rubric": [
+        "保留时间线",
+        "不添加情节",
+        "解释 výluka 的实际影响"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U01-L01-E12",
+      "knowledge_points": [
+        "narrative-sequence",
+        "reported-plan"
+      ]
+    }
+  ],
+  "transfer_task": {
+    "prompt_zh": "把场景换成预约看房：房东改时间、你改交通，录音讲清计划和结果。",
+    "model_answer_cs": "Nejdřív jsme se domluvili na páté. Majitel mi pak napsal, že přijde až v šest. Změnil jsem spojení a nakonec jsme si byt prohlédli v klidu.",
+    "rubric": [
+      "三阶段齐全",
+      "时间与人物一致",
+      "能够脱稿"
+    ]
+  },
+  "review_links": [
+    "A2-U14-L01"
+  ],
+  "sources": [
+    {
+      "source_id": "LANG01",
+      "url": "https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions",
+      "scope": "按实际能做的任务编排能力，不把CEFR说成官方捷语语法课表",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    },
+    {
+      "source_id": "LANG05",
+      "url": "https://www.czechency.org/slovnik/VID",
+      "scope": "体的形式、过程与整体视角、未来及阶段动词的搭配",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    },
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?id=600",
+      "scope": "主语与谓语的性数及有生性一致",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    }
+  ],
+  "content_status": "authored_crosschecked_not_native_reviewed",
+  "quality_notes": [
+    "原创课文和练习；规则按所列来源交叉核查，未获得捷语母语教师逐句审校。",
+    "本课级别属于教材编排判断，不代表官方能力认证。",
+    "听力为原创可合成脚本；真人多说话人、地区口音与录音自然度尚待现场核验。"
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "B1-U01-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--normal.mp3",
+      "slow_file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U01-L01--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "V pondělí jsem měl vyzvednout opravený počítač a potom odnést několik dokumentů do kanceláře. Oprava měla být hotová už v pátek, ale technik mi napsal, že ještě čeká na náhradní součástku. Nejdřív jsem si proto ověřil, zda má smysl do servisu jezdit. Po telefonu mi potvrdil, že počítač už funguje a že si ho mohu vyzvednout dopoledne. Když jsem dorazil na zastávku, všiml jsem si oznámení o výluce. Autobus odjížděl z jiné ulice. Zatímco jsem hledal náhradní zastávku, začalo pršet. Naštěstí mi jedna paní ukázala správný směr. Cestou jsem zavolal kolegyni, aby na mě zbytečně nečekala. Řekl jsem jí, že přijdu později, ale dokumenty určitě přinesu ještě před obědem. V servisu jsem nejprve počítač zapnul a zkontroloval několik souborů. Technik mi vysvětlil, co vyměnil, a doporučil pravidelné zálohování. Teprve potom jsem zaplatil a převzal doklad. Měl jsem radost, že se žádná data neztratila. Před odchodem jsem se ještě zeptal, komu mám zavolat, pokud se stejná chyba objeví znovu. Do kanceláře jsem nakonec dorazil v půl dvanácté. Kolegyně už měla připravenou smlouvu, takže jsme všechno stihli. Večer jsem celý den popsal kamarádovi. Neříkal jsem pouze, že to bylo hrozné. Vysvětlil jsem, co se změnilo a jak jsem problém vyřešil. Příště si před cestou ověřím nejen otevírací dobu servisu, ale také případné změny dopravy. Kolegyně ocenila, že jsem jí změnu oznámil předem, protože si díky tomu mohla jinak uspořádat dopoledne.",
+      "duration_seconds": 130.7641723356009,
+      "slow_duration_seconds": 147.50575963718822,
+      "sha256": "cca8055303fc1fb69bff810b33ccc81a715df8fbfb2c8aaecf7079d669e15a84",
+      "slow_sha256": "4b3ef0ca0402a4b928c5dc43e1dfa063bcc738db678b326d8555042b962bbc7c"
+    },
+    {
+      "lesson_id": "B1-U01-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--normal.mp3",
+      "slow_file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U01-L01--2026.10.22.1--text--p0",
+      "asset_id": "B1-U01-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "V pondělí jsem měl vyzvednout opravený počítač a potom odnést několik dokumentů do kanceláře. Oprava měla být hotová už v pátek, ale technik mi napsal, že ještě čeká na náhradní součástku. Nejdřív jsem si proto ověřil, zda má smysl do servisu jezdit. Po telefonu mi potvrdil, že počítač už funguje a že si ho mohu vyzvednout dopoledne.",
+      "start": 0,
+      "end": 29.58816326530612,
+      "slow_start": 0,
+      "slow_end": 33.3962358276644
+    },
+    {
+      "lesson_id": "B1-U01-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--normal.mp3",
+      "slow_file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U01-L01--2026.10.22.1--text--s0",
+      "asset_id": "B1-U01-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "V pondělí jsem měl vyzvednout opravený počítač a potom odnést několik dokumentů do kanceláře.",
+      "start": 0,
+      "end": 8.277913832199546,
+      "slow_start": 0,
+      "slow_end": 9.299591836734693
+    },
+    {
+      "lesson_id": "B1-U01-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--normal.mp3",
+      "slow_file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U01-L01--2026.10.22.1--text--s1",
+      "asset_id": "B1-U01-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Oprava měla být hotová už v pátek, ale technik mi napsal, že ještě čeká na náhradní součástku.",
+      "start": 8.457913832199546,
+      "end": 16.550068027210884,
+      "slow_start": 9.479591836734693,
+      "slow_end": 18.62825396825397
+    },
+    {
+      "lesson_id": "B1-U01-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--normal.mp3",
+      "slow_file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U01-L01--2026.10.22.1--text--s2",
+      "asset_id": "B1-U01-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Nejdřív jsem si proto ověřil, zda má smysl do servisu jezdit.",
+      "start": 16.730068027210883,
+      "end": 22.360907029478458,
+      "slow_start": 18.80825396825397,
+      "slow_end": 25.216961451247165
+    },
+    {
+      "lesson_id": "B1-U01-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--normal.mp3",
+      "slow_file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U01-L01--2026.10.22.1--text--s3",
+      "asset_id": "B1-U01-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 3,
+      "paragraph_index": 0,
+      "sentence_index": 3,
+      "text": "Po telefonu mi potvrdil, že počítač už funguje a že si ho mohu vyzvednout dopoledne.",
+      "start": 22.540907029478458,
+      "end": 29.58816326530612,
+      "slow_start": 25.396961451247165,
+      "slow_end": 33.3962358276644
+    },
+    {
+      "lesson_id": "B1-U01-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--normal.mp3",
+      "slow_file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U01-L01--2026.10.22.1--text--p1",
+      "asset_id": "B1-U01-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Když jsem dorazil na zastávku, všiml jsem si oznámení o výluce. Autobus odjížděl z jiné ulice. Zatímco jsem hledal náhradní zastávku, začalo pršet. Naštěstí mi jedna paní ukázala správný směr. Cestou jsem zavolal kolegyni, aby na mě zbytečně nečekala. Řekl jsem jí, že přijdu později, ale dokumenty určitě přinesu ještě před obědem.",
+      "start": 29.76816326530612,
+      "end": 61.35333333333333,
+      "slow_start": 33.5762358276644,
+      "slow_end": 69.21328798185941
+    },
+    {
+      "lesson_id": "B1-U01-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--normal.mp3",
+      "slow_file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U01-L01--2026.10.22.1--text--s4",
+      "asset_id": "B1-U01-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 4,
+      "paragraph_index": 1,
+      "sentence_index": 0,
+      "text": "Když jsem dorazil na zastávku, všiml jsem si oznámení o výluce.",
+      "start": 29.76816326530612,
+      "end": 36.26975056689342,
+      "slow_start": 33.5762358276644,
+      "slow_end": 40.82086167800453
+    },
+    {
+      "lesson_id": "B1-U01-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--normal.mp3",
+      "slow_file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U01-L01--2026.10.22.1--text--s5",
+      "asset_id": "B1-U01-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 5,
+      "paragraph_index": 1,
+      "sentence_index": 1,
+      "text": "Autobus odjížděl z jiné ulice.",
+      "start": 36.44975056689342,
+      "end": 39.44512471655329,
+      "slow_start": 41.00086167800453,
+      "slow_end": 44.36775510204082
+    },
+    {
+      "lesson_id": "B1-U01-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--normal.mp3",
+      "slow_file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U01-L01--2026.10.22.1--text--s6",
+      "asset_id": "B1-U01-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 6,
+      "paragraph_index": 1,
+      "sentence_index": 2,
+      "text": "Zatímco jsem hledal náhradní zastávku, začalo pršet.",
+      "start": 39.62512471655329,
+      "end": 44.88444444444445,
+      "slow_start": 44.54775510204082,
+      "slow_end": 50.39918367346939
+    },
+    {
+      "lesson_id": "B1-U01-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--normal.mp3",
+      "slow_file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U01-L01--2026.10.22.1--text--s7",
+      "asset_id": "B1-U01-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 7,
+      "paragraph_index": 1,
+      "sentence_index": 3,
+      "text": "Naštěstí mi jedna paní ukázala správný směr.",
+      "start": 45.06444444444445,
+      "end": 49.17437641723356,
+      "slow_start": 50.57918367346939,
+      "slow_end": 55.36249433106576
+    },
+    {
+      "lesson_id": "B1-U01-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--normal.mp3",
+      "slow_file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U01-L01--2026.10.22.1--text--s8",
+      "asset_id": "B1-U01-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 8,
+      "paragraph_index": 1,
+      "sentence_index": 4,
+      "text": "Cestou jsem zavolal kolegyni, aby na mě zbytečně nečekala.",
+      "start": 49.35437641723356,
+      "end": 54.2421768707483,
+      "slow_start": 55.54249433106576,
+      "slow_end": 61.15011337868481
+    },
+    {
+      "lesson_id": "B1-U01-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--normal.mp3",
+      "slow_file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U01-L01--2026.10.22.1--text--s9",
+      "asset_id": "B1-U01-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 9,
+      "paragraph_index": 1,
+      "sentence_index": 5,
+      "text": "Řekl jsem jí, že přijdu později, ale dokumenty určitě přinesu ještě před obědem.",
+      "start": 54.4221768707483,
+      "end": 61.35333333333333,
+      "slow_start": 61.33011337868481,
+      "slow_end": 69.21328798185941
+    },
+    {
+      "lesson_id": "B1-U01-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--normal.mp3",
+      "slow_file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U01-L01--2026.10.22.1--text--p2",
+      "asset_id": "B1-U01-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "V servisu jsem nejprve počítač zapnul a zkontroloval několik souborů. Technik mi vysvětlil, co vyměnil, a doporučil pravidelné zálohování. Teprve potom jsem zaplatil a převzal doklad. Měl jsem radost, že se žádná data neztratila. Před odchodem jsem se ještě zeptal, komu mám zavolat, pokud se stejná chyba objeví znovu.",
+      "start": 61.53333333333333,
+      "end": 88.94467120181406,
+      "slow_start": 69.39328798185942,
+      "slow_end": 100.35727891156462
+    },
+    {
+      "lesson_id": "B1-U01-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--normal.mp3",
+      "slow_file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U01-L01--2026.10.22.1--text--s10",
+      "asset_id": "B1-U01-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 10,
+      "paragraph_index": 2,
+      "sentence_index": 0,
+      "text": "V servisu jsem nejprve počítač zapnul a zkontroloval několik souborů.",
+      "start": 61.53333333333333,
+      "end": 67.40798185941043,
+      "slow_start": 69.39328798185942,
+      "slow_end": 75.99936507936508
+    },
+    {
+      "lesson_id": "B1-U01-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--normal.mp3",
+      "slow_file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U01-L01--2026.10.22.1--text--s11",
+      "asset_id": "B1-U01-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 11,
+      "paragraph_index": 2,
+      "sentence_index": 1,
+      "text": "Technik mi vysvětlil, co vyměnil, a doporučil pravidelné zálohování.",
+      "start": 67.58798185941043,
+      "end": 73.21882086167801,
+      "slow_start": 76.17936507936508,
+      "slow_end": 82.80866213151927
+    },
+    {
+      "lesson_id": "B1-U01-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--normal.mp3",
+      "slow_file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U01-L01--2026.10.22.1--text--s12",
+      "asset_id": "B1-U01-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 12,
+      "paragraph_index": 2,
+      "sentence_index": 2,
+      "text": "Teprve potom jsem zaplatil a převzal doklad.",
+      "start": 73.398820861678,
+      "end": 77.3578231292517,
+      "slow_start": 82.98866213151928,
+      "slow_end": 87.40045351473923
+    },
+    {
+      "lesson_id": "B1-U01-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--normal.mp3",
+      "slow_file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U01-L01--2026.10.22.1--text--s13",
+      "asset_id": "B1-U01-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 13,
+      "paragraph_index": 2,
+      "sentence_index": 3,
+      "text": "Měl jsem radost, že se žádná data neztratila.",
+      "start": 77.5378231292517,
+      "end": 81.79868480725624,
+      "slow_start": 87.58045351473923,
+      "slow_end": 92.34054421768707
+    },
+    {
+      "lesson_id": "B1-U01-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--normal.mp3",
+      "slow_file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U01-L01--2026.10.22.1--text--s14",
+      "asset_id": "B1-U01-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 14,
+      "paragraph_index": 2,
+      "sentence_index": 4,
+      "text": "Před odchodem jsem se ještě zeptal, komu mám zavolat, pokud se stejná chyba objeví znovu.",
+      "start": 81.97868480725623,
+      "end": 88.94467120181406,
+      "slow_start": 92.52054421768707,
+      "slow_end": 100.35727891156462
+    },
+    {
+      "lesson_id": "B1-U01-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--normal.mp3",
+      "slow_file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U01-L01--2026.10.22.1--text--p3",
+      "asset_id": "B1-U01-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Do kanceláře jsem nakonec dorazil v půl dvanácté. Kolegyně už měla připravenou smlouvu, takže jsme všechno stihli. Večer jsem celý den popsal kamarádovi. Neříkal jsem pouze, že to bylo hrozné. Vysvětlil jsem, co se změnilo a jak jsem problém vyřešil. Příště si před cestou ověřím nejen otevírací dobu servisu, ale také případné změny dopravy. Kolegyně ocenila, že jsem jí změnu oznámil předem, protože si díky tomu mohla jinak uspořádat dopoledne.",
+      "start": 89.12467120181405,
+      "end": 130.5841723356009,
+      "slow_start": 100.53727891156463,
+      "slow_end": 147.3257596371882
+    },
+    {
+      "lesson_id": "B1-U01-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--normal.mp3",
+      "slow_file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U01-L01--2026.10.22.1--text--s15",
+      "asset_id": "B1-U01-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 15,
+      "paragraph_index": 3,
+      "sentence_index": 0,
+      "text": "Do kanceláře jsem nakonec dorazil v půl dvanácté.",
+      "start": 89.12467120181405,
+      "end": 93.61773242630386,
+      "slow_start": 100.53727891156463,
+      "slow_end": 105.6340589569161
+    },
+    {
+      "lesson_id": "B1-U01-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--normal.mp3",
+      "slow_file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U01-L01--2026.10.22.1--text--s16",
+      "asset_id": "B1-U01-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 16,
+      "paragraph_index": 3,
+      "sentence_index": 1,
+      "text": "Kolegyně už měla připravenou smlouvu, takže jsme všechno stihli.",
+      "start": 93.79773242630385,
+      "end": 99.39374149659864,
+      "slow_start": 105.8140589569161,
+      "slow_end": 112.06022675736962
+    },
+    {
+      "lesson_id": "B1-U01-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--normal.mp3",
+      "slow_file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U01-L01--2026.10.22.1--text--s17",
+      "asset_id": "B1-U01-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 17,
+      "paragraph_index": 3,
+      "sentence_index": 2,
+      "text": "Večer jsem celý den popsal kamarádovi.",
+      "start": 99.57374149659864,
+      "end": 103.17283446712018,
+      "slow_start": 112.24022675736961,
+      "slow_end": 116.44303854875284
+    },
+    {
+      "lesson_id": "B1-U01-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--normal.mp3",
+      "slow_file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U01-L01--2026.10.22.1--text--s18",
+      "asset_id": "B1-U01-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 18,
+      "paragraph_index": 3,
+      "sentence_index": 3,
+      "text": "Neříkal jsem pouze, že to bylo hrozné.",
+      "start": 103.35283446712018,
+      "end": 106.91709750566893,
+      "slow_start": 116.62303854875283,
+      "slow_end": 120.558820861678
+    },
+    {
+      "lesson_id": "B1-U01-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--normal.mp3",
+      "slow_file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U01-L01--2026.10.22.1--text--s19",
+      "asset_id": "B1-U01-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 19,
+      "paragraph_index": 3,
+      "sentence_index": 4,
+      "text": "Vysvětlil jsem, co se změnilo a jak jsem problém vyřešil.",
+      "start": 107.09709750566894,
+      "end": 112.40285714285714,
+      "slow_start": 120.73882086167801,
+      "slow_end": 126.84566893424036
+    },
+    {
+      "lesson_id": "B1-U01-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--normal.mp3",
+      "slow_file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U01-L01--2026.10.22.1--text--s20",
+      "asset_id": "B1-U01-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 20,
+      "paragraph_index": 3,
+      "sentence_index": 5,
+      "text": "Příště si před cestou ověřím nejen otevírací dobu servisu, ale také případné změny dopravy.",
+      "start": 112.58285714285714,
+      "end": 121.06975056689342,
+      "slow_start": 127.02566893424036,
+      "slow_end": 136.45297052154194
+    },
+    {
+      "lesson_id": "B1-U01-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--normal.mp3",
+      "slow_file": "audio/files/B1-U01-L01--2026.10.22.1--text--22009c0d18--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U01-L01--2026.10.22.1--text--s21",
+      "asset_id": "B1-U01-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 21,
+      "paragraph_index": 3,
+      "sentence_index": 6,
+      "text": "Kolegyně ocenila, že jsem jí změnu oznámil předem, protože si díky tomu mohla jinak uspořádat dopoledne.",
+      "start": 121.24975056689343,
+      "end": 130.5841723356009,
+      "slow_start": 136.63297052154195,
+      "slow_end": 147.3257596371882
+    },
+    {
+      "lesson_id": "B1-U01-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U01-L01--2026.10.22.1--listening--13ccb15ffd--normal.mp3",
+      "slow_file": "audio/files/B1-U01-L01--2026.10.22.1--listening--13ccb15ffd--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U01-L01--2026.10.22.1--listening",
+      "role": "listening-full",
+      "index": 0,
+      "text": "Ráno jsem měl vyzvednout zásilku. Nejdřív jsem šel na poštu, ale tam mi řekli, že balík čeká ve výdejně vedle nádraží. Když jsem tam dorazil, zjistil jsem, že nemám kód. Naštěstí mi ho sestra poslala znovu. Balík jsem tedy převzal až odpoledne.",
+      "duration_seconds": 22.91251700680272,
+      "slow_duration_seconds": 25.73374149659864,
+      "sha256": "4d014c7d2f22fd9139f7b1a397bb12cbe5406f7f0ee3502dba5537fa20e1818d",
+      "slow_sha256": "8bdb50546b698350bac8b03f1544f30b4cd0cedc2280f37a8e1c37ef1a6cc2e4"
+    },
+    {
+      "lesson_id": "B1-U01-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U01-L01--2026.10.22.1--listening--13ccb15ffd--normal.mp3",
+      "slow_file": "audio/files/B1-U01-L01--2026.10.22.1--listening--13ccb15ffd--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U01-L01--2026.10.22.1--listening--p0",
+      "asset_id": "B1-U01-L01--2026.10.22.1--listening",
+      "role": "listening",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Ráno jsem měl vyzvednout zásilku. Nejdřív jsem šel na poštu, ale tam mi řekli, že balík čeká ve výdejně vedle nádraží. Když jsem tam dorazil, zjistil jsem, že nemám kód. Naštěstí mi ho sestra poslala znovu. Balík jsem tedy převzal až odpoledne.",
+      "start": 0,
+      "end": 22.73251700680272,
+      "slow_start": 0,
+      "slow_end": 25.55374149659864
+    },
+    {
+      "lesson_id": "B1-U01-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U01-L01--2026.10.22.1--vocabulary--d404d8a29b--normal.mp3",
+      "slow_file": "audio/files/B1-U01-L01--2026.10.22.1--vocabulary--d404d8a29b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U01-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary-full",
+      "index": 0,
+      "text": "Kvůli výluce jedeme jinudy. Počítač vyzvednu zítra. Schůzku jsme stihli. Zálohování chrání důležitá data. Čekáme na náhradní díl.",
+      "duration_seconds": 12.544807256235828,
+      "slow_duration_seconds": 14.19342403628118,
+      "sha256": "42b76fe4ba5c454c33f92855b553584788696299edb8bb6e67af90eef2651abc",
+      "slow_sha256": "c0c6fe59c6c5e6a0ba8fbabd242f432f22669b2da4db1e9ea46599da5caa3a4e"
+    },
+    {
+      "lesson_id": "B1-U01-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U01-L01--2026.10.22.1--vocabulary--d404d8a29b--normal.mp3",
+      "slow_file": "audio/files/B1-U01-L01--2026.10.22.1--vocabulary--d404d8a29b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U01-L01--2026.10.22.1--vocabulary--p0",
+      "asset_id": "B1-U01-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Kvůli výluce jedeme jinudy.",
+      "start": 0,
+      "end": 2.414875283446712,
+      "slow_start": 0,
+      "slow_end": 2.7399546485260773
+    },
+    {
+      "lesson_id": "B1-U01-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U01-L01--2026.10.22.1--vocabulary--d404d8a29b--normal.mp3",
+      "slow_file": "audio/files/B1-U01-L01--2026.10.22.1--vocabulary--d404d8a29b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U01-L01--2026.10.22.1--vocabulary--p1",
+      "asset_id": "B1-U01-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Počítač vyzvednu zítra.",
+      "start": 2.594875283446712,
+      "end": 4.823990929705215,
+      "slow_start": 2.919954648526077,
+      "slow_end": 5.497369614512472
+    },
+    {
+      "lesson_id": "B1-U01-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U01-L01--2026.10.22.1--vocabulary--d404d8a29b--normal.mp3",
+      "slow_file": "audio/files/B1-U01-L01--2026.10.22.1--vocabulary--d404d8a29b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U01-L01--2026.10.22.1--vocabulary--p2",
+      "asset_id": "B1-U01-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Schůzku jsme stihli.",
+      "start": 5.003990929705216,
+      "end": 6.675827664399093,
+      "slow_start": 5.677369614512472,
+      "slow_end": 7.593015873015873
+    },
+    {
+      "lesson_id": "B1-U01-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U01-L01--2026.10.22.1--vocabulary--d404d8a29b--normal.mp3",
+      "slow_file": "audio/files/B1-U01-L01--2026.10.22.1--vocabulary--d404d8a29b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U01-L01--2026.10.22.1--vocabulary--p3",
+      "asset_id": "B1-U01-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Zálohování chrání důležitá data.",
+      "start": 6.855827664399093,
+      "end": 10.002131519274377,
+      "slow_start": 7.773015873015873,
+      "slow_end": 11.267619047619048
+    },
+    {
+      "lesson_id": "B1-U01-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U01-L01--2026.10.22.1--vocabulary--d404d8a29b--normal.mp3",
+      "slow_file": "audio/files/B1-U01-L01--2026.10.22.1--vocabulary--d404d8a29b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U01-L01--2026.10.22.1--vocabulary--p4",
+      "asset_id": "B1-U01-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 4,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Čekáme na náhradní díl.",
+      "start": 10.182131519274376,
+      "end": 12.364807256235828,
+      "slow_start": 11.447619047619048,
+      "slow_end": 14.01342403628118
+    },
+    {
+      "lesson_id": "B1-U01-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U01-L01--2026.10.22.1--exercises--3e95619566--normal.mp3",
+      "slow_file": "audio/files/B1-U01-L01--2026.10.22.1--exercises--3e95619566--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U01-L01--2026.10.22.1--exercises",
+      "role": "exercises-full",
+      "index": 0,
+      "text": "Nejdřív jsem šel na poštu. Balík ale čekal ve výdejně vedle nádraží, kde jsem ho odpoledne převzal.",
+      "duration_seconds": 8.846893424036281,
+      "slow_duration_seconds": 10.100770975056689,
+      "sha256": "7262979ef4fa602ab532fc713ea657b15bc4c216231a6b8a5228916045882b49",
+      "slow_sha256": "d4e8b81ab60ccfb9636bdcb484ccb0638c89826371f9f0e6a02af9bbc673d230"
+    },
+    {
+      "lesson_id": "B1-U01-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U01-L01--2026.10.22.1--exercises--3e95619566--normal.mp3",
+      "slow_file": "audio/files/B1-U01-L01--2026.10.22.1--exercises--3e95619566--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U01-L01--2026.10.22.1--exercises--p0",
+      "asset_id": "B1-U01-L01--2026.10.22.1--exercises",
+      "role": "exercise",
+      "index": 0,
+      "exercise_id": "B1-U01-L01-E03",
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Nejdřív jsem šel na poštu. Balík ale čekal ve výdejně vedle nádraží, kde jsem ho odpoledne převzal.",
+      "start": 0,
+      "end": 8.666893424036282,
+      "slow_start": 0,
+      "slow_end": 9.920770975056689
+    },
+    {
+      "lesson_id": "B1-U01-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U01-L01--2026.10.22.1--contrasts--974e6bb6cd--normal.mp3",
+      "slow_file": "audio/files/B1-U01-L01--2026.10.22.1--contrasts--974e6bb6cd--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U01-L01--2026.10.22.1--contrasts",
+      "role": "contrasts-full",
+      "index": 0,
+      "text": "pozdě. později.",
+      "duration_seconds": 1.399047619047619,
+      "slow_duration_seconds": 1.4803174603174603,
+      "sha256": "ec731eb4f50e876792fca151c95f32b11b434d42f410aa03d8f4c45c630caba3",
+      "slow_sha256": "368345f0bd6f50ee844cae8c2f516c6880078372db0e5afe17d2c1c71246bc23"
+    },
+    {
+      "lesson_id": "B1-U01-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U01-L01--2026.10.22.1--contrasts--974e6bb6cd--normal.mp3",
+      "slow_file": "audio/files/B1-U01-L01--2026.10.22.1--contrasts--974e6bb6cd--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U01-L01--2026.10.22.1--contrasts--p0",
+      "asset_id": "B1-U01-L01--2026.10.22.1--contrasts",
+      "role": "contrast",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "pozdě. později.",
+      "start": 0,
+      "end": 1.2190476190476192,
+      "slow_start": 0,
+      "slow_end": 1.3003174603174603
+    },
+    {
+      "lesson_id": "B1-U01-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U01-L01--2026.10.22.1--scenario-SC-B1-01--b5e5c89819--normal.mp3",
+      "slow_file": "audio/files/B1-U01-L01--2026.10.22.1--scenario-SC-B1-01--b5e5c89819--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U01-L01--2026.10.22.1--scenario-SC-B1-01",
+      "role": "scenario-SC-B1-01-full",
+      "index": 0,
+      "text": "V seznamu jste vedený jako nepřítomný. Proč jste nepřišel na první lekci? Děkuji za vysvětlení. Pošlete mi prosím tu zprávu. Mohu vám nabídnout náhradní úvod v úterý v šest. Rád to prověřím. Potřebuji ale vědět, kam jste přišel a podle jaké zprávy. Zapíšu vás na úterý v šest. Místnost je dvanáct a pošlu vám potvrzení. Pošlu vám podklady. Náhradní lekci zatím nerezervuji; další termín domluvíme zvlášť.",
+      "duration_seconds": 38.5746485260771,
+      "slow_duration_seconds": 43.218639455782316,
+      "sha256": "974d142359fe889cd561ba8bf8cc7f2b2137c4a66d833da215ec252336447ca6",
+      "slow_sha256": "82c6aed71eeab1ae36ec4a74c1fe320064601ee6c51fc30902207027d2fee4ca"
+    },
+    {
+      "lesson_id": "B1-U01-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U01-L01--2026.10.22.1--scenario-SC-B1-01--b5e5c89819--normal.mp3",
+      "slow_file": "audio/files/B1-U01-L01--2026.10.22.1--scenario-SC-B1-01--b5e5c89819--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U01-L01--2026.10.22.1--scenario-SC-B1-01--p0",
+      "asset_id": "B1-U01-L01--2026.10.22.1--scenario-SC-B1-01",
+      "role": "scenario",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": "SC-B1-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "start",
+      "text": "V seznamu jste vedený jako nepřítomný. Proč jste nepřišel na první lekci?",
+      "start": 0,
+      "end": 6.739637188208617,
+      "slow_start": 0,
+      "slow_end": 7.436235827664399
+    },
+    {
+      "lesson_id": "B1-U01-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U01-L01--2026.10.22.1--scenario-SC-B1-01--b5e5c89819--normal.mp3",
+      "slow_file": "audio/files/B1-U01-L01--2026.10.22.1--scenario-SC-B1-01--b5e5c89819--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U01-L01--2026.10.22.1--scenario-SC-B1-01--p1",
+      "asset_id": "B1-U01-L01--2026.10.22.1--scenario-SC-B1-01",
+      "role": "scenario",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": "SC-B1-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "solution",
+      "text": "Děkuji za vysvětlení. Pošlete mi prosím tu zprávu. Mohu vám nabídnout náhradní úvod v úterý v šest.",
+      "start": 6.9196371882086165,
+      "end": 16.6140589569161,
+      "slow_start": 7.616235827664399,
+      "slow_end": 18.669024943310657
+    },
+    {
+      "lesson_id": "B1-U01-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U01-L01--2026.10.22.1--scenario-SC-B1-01--b5e5c89819--normal.mp3",
+      "slow_file": "audio/files/B1-U01-L01--2026.10.22.1--scenario-SC-B1-01--b5e5c89819--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U01-L01--2026.10.22.1--scenario-SC-B1-01--p2",
+      "asset_id": "B1-U01-L01--2026.10.22.1--scenario-SC-B1-01",
+      "role": "scenario",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": "SC-B1-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "repair",
+      "text": "Rád to prověřím. Potřebuji ale vědět, kam jste přišel a podle jaké zprávy.",
+      "start": 16.7940589569161,
+      "end": 23.59174603174603,
+      "slow_start": 18.849024943310656,
+      "slow_end": 26.51746031746032
+    },
+    {
+      "lesson_id": "B1-U01-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U01-L01--2026.10.22.1--scenario-SC-B1-01--b5e5c89819--normal.mp3",
+      "slow_file": "audio/files/B1-U01-L01--2026.10.22.1--scenario-SC-B1-01--b5e5c89819--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U01-L01--2026.10.22.1--scenario-SC-B1-01--p3",
+      "asset_id": "B1-U01-L01--2026.10.22.1--scenario-SC-B1-01",
+      "role": "scenario",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": "SC-B1-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "done",
+      "text": "Zapíšu vás na úterý v šest. Místnost je dvanáct a pošlu vám potvrzení.",
+      "start": 23.77174603174603,
+      "end": 30.43011337868481,
+      "slow_start": 26.69746031746032,
+      "slow_end": 34.34267573696145
+    },
+    {
+      "lesson_id": "B1-U01-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U01-L01--2026.10.22.1--scenario-SC-B1-01--b5e5c89819--normal.mp3",
+      "slow_file": "audio/files/B1-U01-L01--2026.10.22.1--scenario-SC-B1-01--b5e5c89819--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U01-L01--2026.10.22.1--scenario-SC-B1-01--p4",
+      "asset_id": "B1-U01-L01--2026.10.22.1--scenario-SC-B1-01",
+      "role": "scenario",
+      "index": 4,
+      "exercise_id": null,
+      "scenario_id": "SC-B1-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "materials",
+      "text": "Pošlu vám podklady. Náhradní lekci zatím nerezervuji; další termín domluvíme zvlášť.",
+      "start": 30.610113378684808,
+      "end": 38.3946485260771,
+      "slow_start": 34.52267573696145,
+      "slow_end": 43.03863945578231
+    }
+  ]
+}

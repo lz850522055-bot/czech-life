@@ -1,0 +1,187 @@
+{
+  "id": "A1-U11-CHECK",
+  "kind": "unit",
+  "level": "A1",
+  "unit_id": "A1-U11",
+  "title_zh": "先把格用在真句子里：换情境独立完成",
+  "version": "2026.10.22.1",
+  "unseen_text": [
+    {
+      "cs": "Pavel jde do parku. V parku mluví s Evou o filmu.",
+      "zh": "帕维尔去公园，在公园和伊娃聊电影。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "s Evou说明什么？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "和谁"
+        },
+        {
+          "id": "b",
+          "text": "聊什么"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "第七格同伴。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "A1-U11-CHECK-E01",
+      "knowledge_points": [
+        "case-functions-intro",
+        "case-preposition-chunks"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "填“关于电影”。",
+      "stimulus_cs": "o ___（film）",
+      "answer": "filmu",
+      "accepted_answers": [
+        "filmu"
+      ],
+      "explanation_zh": "o+第六格，film→filmu。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "A1-U11-CHECK-E02",
+      "knowledge_points": [
+        "case-functions-intro",
+        "case-preposition-chunks"
+      ]
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "转告谁在哪里和谁谈什么。",
+      "stimulus_cs": "",
+      "answer": "帕维尔在公园和伊娃谈电影。",
+      "accepted_answers": [],
+      "explanation_zh": "保留四类关系。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A1-U11-CHECK-E03",
+      "knowledge_points": [
+        "case-functions-intro",
+        "case-preposition-chunks"
+      ]
+    }
+  ],
+  "rubric": [
+    "能提取新材料中的关键事实，不靠背诵原文",
+    "能根据变化的条件组织一句或一段表达",
+    "能指出不确定之处并请求澄清"
+  ],
+  "remediation": [
+    {
+      "condition_zh": "目标规律使用不稳定或未能提取关键信息",
+      "lesson_ids": [
+        "A1-U11-L01"
+      ],
+      "action_zh": "返回规律卡，对照两例；隔一次其他练习后重做未见情境。"
+    }
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "A1-U11-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U11-CHECK--2026.10.22.1--text--ba66237198--normal.mp3",
+      "slow_file": "audio/files/A1-U11-CHECK--2026.10.22.1--text--ba66237198--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U11-CHECK--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Pavel jde do parku. V parku mluví s Evou o filmu.",
+      "duration_seconds": 4.56281179138322,
+      "slow_duration_seconds": 5.0620408163265305,
+      "sha256": "eb03d60e74af0c9cffd7bf1d8fef27d77e9031b1d53d747d836ef13d1574f2df",
+      "slow_sha256": "159c1d1ea110bd524bc8b61fa29461fddcc62e46b9e35d2599e5d164bb68c3fd"
+    },
+    {
+      "lesson_id": "A1-U11-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U11-CHECK--2026.10.22.1--text--ba66237198--normal.mp3",
+      "slow_file": "audio/files/A1-U11-CHECK--2026.10.22.1--text--ba66237198--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U11-CHECK--2026.10.22.1--text--p0",
+      "asset_id": "A1-U11-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Pavel jde do parku. V parku mluví s Evou o filmu.",
+      "start": 0,
+      "end": 4.38281179138322,
+      "slow_start": 0,
+      "slow_end": 4.882040816326531
+    },
+    {
+      "lesson_id": "A1-U11-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U11-CHECK--2026.10.22.1--text--ba66237198--normal.mp3",
+      "slow_file": "audio/files/A1-U11-CHECK--2026.10.22.1--text--ba66237198--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U11-CHECK--2026.10.22.1--text--s0",
+      "asset_id": "A1-U11-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Pavel jde do parku.",
+      "start": 0,
+      "end": 1.5441269841269842,
+      "slow_start": 0,
+      "slow_end": 1.6834467120181407
+    },
+    {
+      "lesson_id": "A1-U11-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U11-CHECK--2026.10.22.1--text--ba66237198--normal.mp3",
+      "slow_file": "audio/files/A1-U11-CHECK--2026.10.22.1--text--ba66237198--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U11-CHECK--2026.10.22.1--text--s1",
+      "asset_id": "A1-U11-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "V parku mluví s Evou o filmu.",
+      "start": 1.7241269841269842,
+      "end": 4.38281179138322,
+      "slow_start": 1.8634467120181406,
+      "slow_end": 4.882040816326531
+    }
+  ]
+}

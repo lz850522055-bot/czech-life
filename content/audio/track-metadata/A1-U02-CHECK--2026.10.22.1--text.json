@@ -1,0 +1,95 @@
+{
+  "id": "A1-U02-CHECK--2026.10.22.1--text",
+  "lesson_id": "A1-U02-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "A1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "To je malé auto. Ten řidič je můj kolega.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "To je malé auto.",
+        "Ten řidič je můj kolega."
+      ]
+    },
+    {
+      "text": "Ta mapa je stará.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Ta mapa je stará."
+      ]
+    }
+  ],
+  "text_sha256": "d1159f83d2eb929f8ef2a248c52692860fcd89f2a9ef088d897a77d0b5b462d5",
+  "source_file": "content/assessments/A1-U02.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U02-CHECK--2026.10.22.1--text--d1159f83d2--normal.mp3",
+  "slow_file": "content/audio/files/A1-U02-CHECK--2026.10.22.1--text--d1159f83d2--slow.mp3",
+  "duration_seconds": 5.810929705215419,
+  "slow_duration_seconds": 6.414648526077097,
+  "cues": [
+    {
+      "text": "To je malé auto. Ten řidič je můj kolega.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "To je malé auto.",
+        "Ten řidič je můj kolega."
+      ],
+      "start": 0.0,
+      "end": 4.0345124716553284,
+      "sentences": [
+        {
+          "text": "To je malé auto.",
+          "start": 0.0,
+          "end": 1.5905668934240362,
+          "slow_start": 0.0,
+          "slow_end": 1.7647165532879818
+        },
+        {
+          "text": "Ten řidič je můj kolega.",
+          "start": 1.7705668934240364,
+          "end": 4.0345124716553284,
+          "slow_start": 1.9447165532879818,
+          "slow_end": 4.487301587301587
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 4.487301587301587
+    },
+    {
+      "text": "Ta mapa je stará.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Ta mapa je stará."
+      ],
+      "start": 4.214512471655329,
+      "end": 5.6309297052154195,
+      "sentences": [
+        {
+          "text": "Ta mapa je stará.",
+          "start": 4.214512471655329,
+          "end": 5.6309297052154195,
+          "slow_start": 4.667301587301587,
+          "slow_end": 6.234648526077097
+        }
+      ],
+      "slow_start": 4.667301587301587,
+      "slow_end": 6.234648526077097
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "e0a2f2f3e9a416153a2b15e308c5ed50463453f529e29e05f55785be6c70d519",
+    "slow": "f4b3b66ec5cdca6f4ff5da83dac71ccdb246287d6c8881b678b08f5a426c19d7"
+  }
+}

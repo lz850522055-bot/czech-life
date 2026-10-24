@@ -1,0 +1,93 @@
+{
+  "id": "B1-U12-L01--2026.10.22.1--listening",
+  "lesson_id": "B1-U12-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Nejdřív prosím ukažte předmět lektorovi. Po konzultaci vyplníte formulář a zaplatíte vstup. Materiál není v ceně. Než začnete pracovat, kolega vám vysvětlí použití nářadí. Pokud si nejste jistý, zastavte se a zeptejte se.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Nejdřív prosím ukažte předmět lektorovi.",
+        "Po konzultaci vyplníte formulář a zaplatíte vstup.",
+        "Materiál není v ceně.",
+        "Než začnete pracovat, kolega vám vysvětlí použití nářadí.",
+        "Pokud si nejste jistý, zastavte se a zeptejte se."
+      ]
+    }
+  ],
+  "text_sha256": "a4bc9bb2729044b46271ff2646c10a13e9fe6bb757c82a477e2ef73fe0fe2ced",
+  "source_file": "content/lessons/B1/B1-U12-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U12-L01--2026.10.22.1--listening--a4bc9bb272--normal.mp3",
+  "slow_file": "content/audio/files/B1-U12-L01--2026.10.22.1--listening--a4bc9bb272--slow.mp3",
+  "duration_seconds": 20.3118820861678,
+  "slow_duration_seconds": 23.109886621315194,
+  "cues": [
+    {
+      "text": "Nejdřív prosím ukažte předmět lektorovi. Po konzultaci vyplníte formulář a zaplatíte vstup. Materiál není v ceně. Než začnete pracovat, kolega vám vysvětlí použití nářadí. Pokud si nejste jistý, zastavte se a zeptejte se.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Nejdřív prosím ukažte předmět lektorovi.",
+        "Po konzultaci vyplníte formulář a zaplatíte vstup.",
+        "Materiál není v ceně.",
+        "Než začnete pracovat, kolega vám vysvětlí použití nářadí.",
+        "Pokud si nejste jistý, zastavte se a zeptejte se."
+      ],
+      "start": 0.0,
+      "end": 20.1318820861678,
+      "sentences": [
+        {
+          "text": "Nejdřív prosím ukažte předmět lektorovi.",
+          "start": 0.0,
+          "end": 3.6687528344671203,
+          "slow_start": 0.0,
+          "slow_end": 4.20281179138322
+        },
+        {
+          "text": "Po konzultaci vyplníte formulář a zaplatíte vstup.",
+          "start": 3.84875283446712,
+          "end": 8.086394557823128,
+          "slow_start": 4.38281179138322,
+          "slow_end": 9.131292517006802
+        },
+        {
+          "text": "Materiál není v ceně.",
+          "start": 8.26639455782313,
+          "end": 10.507120181405895,
+          "slow_start": 9.311292517006803,
+          "slow_end": 11.853877551020409
+        },
+        {
+          "text": "Než začnete pracovat, kolega vám vysvětlí použití nářadí.",
+          "start": 10.687120181405895,
+          "end": 15.958049886621316,
+          "slow_start": 12.033877551020408,
+          "slow_end": 18.187165532879817
+        },
+        {
+          "text": "Pokud si nejste jistý, zastavte se a zeptejte se.",
+          "start": 16.138049886621314,
+          "end": 20.1318820861678,
+          "slow_start": 18.36716553287982,
+          "slow_end": 22.92988662131519
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 22.92988662131519
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "9bf0d4ed7dc4da6e7876e6c9a049a3f750c3cdd83eb849920c66cb5b3394540a",
+    "slow": "61a2197913ce7f42f642dbbccdae422f07ba9ae71fe62e2bfa8bc4bbaa93f4ea"
+  }
+}

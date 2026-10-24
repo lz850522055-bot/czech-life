@@ -1,0 +1,240 @@
+{
+  "id": "C1-U01-L01--2026.10.23.1--scenario-SC-C1-01",
+  "lesson_id": "C1-U01-L01",
+  "content_version": "2026.10.23.1",
+  "level": "C1",
+  "group": "scenario-SC-C1-01",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Veřejný přístup je samozřejmý. Nechme podrobnosti stranou, jinak projekt nikdy nezačne.",
+      "index": 0,
+      "role": "scenario",
+      "scenario_id": "SC-C1-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "start",
+      "parts": [
+        "Veřejný přístup je samozřejmý.",
+        "Nechme podrobnosti stranou, jinak projekt nikdy nezačne."
+      ]
+    },
+    {
+      "text": "U vstupní haly mohu jednat o pobytu bez nákupu ve zveřejněných hodinách. Nízké nájemné všem prodejcům teď slíbit nemohu.",
+      "index": 1,
+      "role": "scenario",
+      "scenario_id": "SC-C1-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "negotiate",
+      "parts": [
+        "U vstupní haly mohu jednat o pobytu bez nákupu ve zveřejněných hodinách.",
+        "Nízké nájemné všem prodejcům teď slíbit nemohu."
+      ]
+    },
+    {
+      "text": "Výborně, zapíšu tedy, že s návrhem souhlasíte bez dalších podmínek.",
+      "index": 2,
+      "role": "scenario",
+      "scenario_id": "SC-C1-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "repair",
+      "parts": [
+        "Výborně, zapíšu tedy, že s návrhem souhlasíte bez dalších podmínek."
+      ]
+    },
+    {
+      "text": "Zapíšeme dílčí shodu k přístupu do haly. O celém projektu se rozhodne až po doplnění nájemních a provozních podmínek.",
+      "index": 3,
+      "role": "scenario",
+      "scenario_id": "SC-C1-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "done",
+      "parts": [
+        "Zapíšeme dílčí shodu k přístupu do haly.",
+        "O celém projektu se rozhodne až po doplnění nájemních a provozních podmínek."
+      ]
+    },
+    {
+      "text": "Celkový souhlas zatím do zápisu nedáme. Připravíme konkrétní podmínky a varianty pro další jednání.",
+      "index": 4,
+      "role": "scenario",
+      "scenario_id": "SC-C1-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "pending",
+      "parts": [
+        "Celkový souhlas zatím do zápisu nedáme.",
+        "Připravíme konkrétní podmínky a varianty pro další jednání."
+      ]
+    }
+  ],
+  "text_sha256": "ebd243612aa399382787ff8a88875c655ff4a6a8ea46abc528f3b24b3168407f",
+  "source_file": "content/scenarios.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U01-L01--2026.10.22.1--scenario-SC-C1-01--ebd243612a--normal.mp3",
+  "slow_file": "content/audio/files/C1-U01-L01--2026.10.22.1--scenario-SC-C1-01--ebd243612a--slow.mp3",
+  "duration_seconds": 43.45074829931973,
+  "slow_duration_seconds": 48.91904761904762,
+  "cues": [
+    {
+      "text": "Veřejný přístup je samozřejmý. Nechme podrobnosti stranou, jinak projekt nikdy nezačne.",
+      "index": 0,
+      "role": "scenario",
+      "scenario_id": "SC-C1-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "start",
+      "parts": [
+        "Veřejný přístup je samozřejmý.",
+        "Nechme podrobnosti stranou, jinak projekt nikdy nezačne."
+      ],
+      "start": 0.0,
+      "end": 7.645215419501134,
+      "sentences": [
+        {
+          "text": "Veřejný přístup je samozřejmý.",
+          "start": 0.0,
+          "end": 2.670294784580499,
+          "slow_start": 0.0,
+          "slow_end": 2.972154195011338
+        },
+        {
+          "text": "Nechme podrobnosti stranou, jinak projekt nikdy nezačne.",
+          "start": 2.8502947845804987,
+          "end": 7.645215419501134,
+          "slow_start": 3.152154195011338,
+          "slow_end": 8.608843537414966
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 8.608843537414966
+    },
+    {
+      "text": "U vstupní haly mohu jednat o pobytu bez nákupu ve zveřejněných hodinách. Nízké nájemné všem prodejcům teď slíbit nemohu.",
+      "index": 1,
+      "role": "scenario",
+      "scenario_id": "SC-C1-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "negotiate",
+      "parts": [
+        "U vstupní haly mohu jednat o pobytu bez nákupu ve zveřejněných hodinách.",
+        "Nízké nájemné všem prodejcům teď slíbit nemohu."
+      ],
+      "start": 7.825215419501133,
+      "end": 18.0362358276644,
+      "sentences": [
+        {
+          "text": "U vstupní haly mohu jednat o pobytu bez nákupu ve zveřejněných hodinách.",
+          "start": 7.825215419501133,
+          "end": 13.572154195011338,
+          "slow_start": 8.788843537414966,
+          "slow_end": 15.290430839002267
+        },
+        {
+          "text": "Nízké nájemné všem prodejcům teď slíbit nemohu.",
+          "start": 13.752154195011338,
+          "end": 18.0362358276644,
+          "slow_start": 15.470430839002267,
+          "slow_end": 20.381451247165533
+        }
+      ],
+      "slow_start": 8.788843537414966,
+      "slow_end": 20.381451247165533
+    },
+    {
+      "text": "Výborně, zapíšu tedy, že s návrhem souhlasíte bez dalších podmínek.",
+      "index": 2,
+      "role": "scenario",
+      "scenario_id": "SC-C1-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "repair",
+      "parts": [
+        "Výborně, zapíšu tedy, že s návrhem souhlasíte bez dalších podmínek."
+      ],
+      "start": 18.2162358276644,
+      "end": 24.056054421768707,
+      "sentences": [
+        {
+          "text": "Výborně, zapíšu tedy, že s návrhem souhlasíte bez dalších podmínek.",
+          "start": 18.2162358276644,
+          "end": 24.056054421768707,
+          "slow_start": 20.561451247165532,
+          "slow_end": 27.12108843537415
+        }
+      ],
+      "slow_start": 20.561451247165532,
+      "slow_end": 27.12108843537415
+    },
+    {
+      "text": "Zapíšeme dílčí shodu k přístupu do haly. O celém projektu se rozhodne až po doplnění nájemních a provozních podmínek.",
+      "index": 3,
+      "role": "scenario",
+      "scenario_id": "SC-C1-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "done",
+      "parts": [
+        "Zapíšeme dílčí shodu k přístupu do haly.",
+        "O celém projektu se rozhodne až po doplnění nájemních a provozních podmínek."
+      ],
+      "start": 24.236054421768706,
+      "end": 34.3774149659864,
+      "sentences": [
+        {
+          "text": "Zapíšeme dílčí shodu k přístupu do haly.",
+          "start": 24.236054421768706,
+          "end": 27.83514739229025,
+          "slow_start": 27.30108843537415,
+          "slow_end": 31.271700680272108
+        },
+        {
+          "text": "O celém projektu se rozhodne až po doplnění nájemních a provozních podmínek.",
+          "start": 28.01514739229025,
+          "end": 34.3774149659864,
+          "slow_start": 31.451700680272108,
+          "slow_end": 38.69632653061225
+        }
+      ],
+      "slow_start": 27.30108843537415,
+      "slow_end": 38.69632653061225
+    },
+    {
+      "text": "Celkový souhlas zatím do zápisu nedáme. Připravíme konkrétní podmínky a varianty pro další jednání.",
+      "index": 4,
+      "role": "scenario",
+      "scenario_id": "SC-C1-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "pending",
+      "parts": [
+        "Celkový souhlas zatím do zápisu nedáme.",
+        "Připravíme konkrétní podmínky a varianty pro další jednání."
+      ],
+      "start": 34.557414965986396,
+      "end": 43.27074829931973,
+      "sentences": [
+        {
+          "text": "Celkový souhlas zatím do zápisu nedáme.",
+          "start": 34.557414965986396,
+          "end": 38.02879818594104,
+          "slow_start": 38.876326530612246,
+          "slow_end": 42.812108843537416
+        },
+        {
+          "text": "Připravíme konkrétní podmínky a varianty pro další jednání.",
+          "start": 38.20879818594104,
+          "end": 43.27074829931973,
+          "slow_start": 42.992108843537416,
+          "slow_end": 48.73904761904762
+        }
+      ],
+      "slow_start": 38.876326530612246,
+      "slow_end": 48.73904761904762
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "aabfaf40ff85b7c2efcd8023729b7e437be45bbe7e8a1417863b91d0990b8d36",
+    "slow": "ff112f0c2778c42c8a64b8d7f88764dde40e69e4a4e876bbf5380ff94f224f6c"
+  },
+  "reused_from_track_id": "C1-U01-L01--2026.10.22.1--scenario-SC-C1-01"
+}

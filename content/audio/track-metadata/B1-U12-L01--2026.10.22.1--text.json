@@ -1,0 +1,306 @@
+{
+  "id": "B1-U12-L01--2026.10.22.1--text",
+  "lesson_id": "B1-U12-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Přišel jsem poprvé do komunitní dílny, kde si lidé mohou opravovat vlastní věci. Chtěl jsem opravit uvolněnou nohu židle, ale nevěděl jsem, zda se musím předem přihlásit. U vchodu nikdo neseděl a na nástěnce bylo několik různých oznámení. Místo toho, abych náhodně vstoupil do pracovního prostoru, počkal jsem u označeného informačního místa a oslovil dobrovolníka.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Přišel jsem poprvé do komunitní dílny, kde si lidé mohou opravovat vlastní věci.",
+        "Chtěl jsem opravit uvolněnou nohu židle, ale nevěděl jsem, zda se musím předem přihlásit.",
+        "U vchodu nikdo neseděl a na nástěnce bylo několik různých oznámení.",
+        "Místo toho, abych náhodně vstoupil do pracovního prostoru, počkal jsem u označeného informačního místa a oslovil dobrovolníka."
+      ]
+    },
+    {
+      "text": "„Dobrý den, jsem tu poprvé. Můžete mi prosím vysvětlit, jak to funguje?“ Dobrovolník mluvil rychle a použil slovo, které jsem neznal. Požádal jsem ho, aby ho napsal a ukázal mi příklad. Vysvětlil, že před použitím nářadí potřebuji krátké zaškolení. Neznamenalo to, že musím absolvovat celý dlouhý kurz. Měl mi ukázat konkrétní zařízení, které budu používat.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "„Dobrý den, jsem tu poprvé.",
+        "Můžete mi prosím vysvětlit, jak to funguje?“",
+        "Dobrovolník mluvil rychle a použil slovo, které jsem neznal.",
+        "Požádal jsem ho, aby ho napsal a ukázal mi příklad.",
+        "Vysvětlil, že před použitím nářadí potřebuji krátké zaškolení.",
+        "Neznamenalo to, že musím absolvovat celý dlouhý kurz.",
+        "Měl mi ukázat konkrétní zařízení, které budu používat."
+      ]
+    },
+    {
+      "text": "Potom jsem se zeptal na cenu, dostupný čas a potřebný materiál. Některé nástroje byly zahrnuté ve vstupním poplatku, ale lepidlo se platilo zvlášť. Dobrovolník mi doporučil, abych židli nejdřív ukázal lektorovi. Ten měl rozhodnout, jaký postup je bezpečný. Sám jsem tedy nic nerozebíral. Zapsal jsem si jméno lektora i místo, kde ho najdu.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Potom jsem se zeptal na cenu, dostupný čas a potřebný materiál.",
+        "Některé nástroje byly zahrnuté ve vstupním poplatku, ale lepidlo se platilo zvlášť.",
+        "Dobrovolník mi doporučil, abych židli nejdřív ukázal lektorovi.",
+        "Ten měl rozhodnout, jaký postup je bezpečný.",
+        "Sám jsem tedy nic nerozebíral.",
+        "Zapsal jsem si jméno lektora i místo, kde ho najdu."
+      ]
+    },
+    {
+      "text": "Na závěr jsem vlastními slovy zopakoval postup: nejdřív registrace, potom konzultace a zaškolení, teprve pak práce. Dobrovolník opravil jeden detail: registrační formulář se vyplňuje až po konzultaci, aby bylo jasné, jakou službu potřebuji. Byl jsem rád, že jsem si porozumění ověřil. Kdybych pouze přikývl, mohl bych udělat špatný první krok, přestože bych rozuměl většině jednotlivých slov. Dobrovolník ocenil moje otázky a ujistil mě, že podobné nejasnosti řeší s novými návštěvníky běžně.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Na závěr jsem vlastními slovy zopakoval postup: nejdřív registrace, potom konzultace a zaškolení, teprve pak práce.",
+        "Dobrovolník opravil jeden detail: registrační formulář se vyplňuje až po konzultaci, aby bylo jasné, jakou službu potřebuji.",
+        "Byl jsem rád, že jsem si porozumění ověřil.",
+        "Kdybych pouze přikývl, mohl bych udělat špatný první krok, přestože bych rozuměl většině jednotlivých slov.",
+        "Dobrovolník ocenil moje otázky a ujistil mě, že podobné nejasnosti řeší s novými návštěvníky běžně."
+      ]
+    }
+  ],
+  "text_sha256": "2cb15a20990c3fe313237ff171f67da5ec1ece6f3893c34c317e83b5be38961a",
+  "source_file": "content/lessons/B1/B1-U12-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--normal.mp3",
+  "slow_file": "content/audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--slow.mp3",
+  "duration_seconds": 143.09396825396826,
+  "slow_duration_seconds": 162.54068027210883,
+  "cues": [
+    {
+      "text": "Přišel jsem poprvé do komunitní dílny, kde si lidé mohou opravovat vlastní věci. Chtěl jsem opravit uvolněnou nohu židle, ale nevěděl jsem, zda se musím předem přihlásit. U vchodu nikdo neseděl a na nástěnce bylo několik různých oznámení. Místo toho, abych náhodně vstoupil do pracovního prostoru, počkal jsem u označeného informačního místa a oslovil dobrovolníka.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Přišel jsem poprvé do komunitní dílny, kde si lidé mohou opravovat vlastní věci.",
+        "Chtěl jsem opravit uvolněnou nohu židle, ale nevěděl jsem, zda se musím předem přihlásit.",
+        "U vchodu nikdo neseděl a na nástěnce bylo několik různých oznámení.",
+        "Místo toho, abych náhodně vstoupil do pracovního prostoru, počkal jsem u označeného informačního místa a oslovil dobrovolníka."
+      ],
+      "start": 0.0,
+      "end": 33.1756462585034,
+      "sentences": [
+        {
+          "text": "Přišel jsem poprvé do komunitní dílny, kde si lidé mohou opravovat vlastní věci.",
+          "start": 0.0,
+          "end": 6.849886621315193,
+          "slow_start": 0.0,
+          "slow_end": 7.569705215419501
+        },
+        {
+          "text": "Chtěl jsem opravit uvolněnou nohu židle, ale nevěděl jsem, zda se musím předem přihlásit.",
+          "start": 7.0298866213151925,
+          "end": 14.553151927437641,
+          "slow_start": 7.749705215419501,
+          "slow_end": 16.561678004535146
+        },
+        {
+          "text": "U vchodu nikdo neseděl a na nástěnce bylo několik různých oznámení.",
+          "start": 14.733151927437643,
+          "end": 21.199909297052155,
+          "slow_start": 16.741678004535146,
+          "slow_end": 24.12562358276644
+        },
+        {
+          "text": "Místo toho, abych náhodně vstoupil do pracovního prostoru, počkal jsem u označeného informačního místa a oslovil dobrovolníka.",
+          "start": 21.379909297052155,
+          "end": 33.1756462585034,
+          "slow_start": 24.30562358276644,
+          "slow_end": 37.84285714285714
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 37.84285714285714
+    },
+    {
+      "text": "„Dobrý den, jsem tu poprvé. Můžete mi prosím vysvětlit, jak to funguje?“ Dobrovolník mluvil rychle a použil slovo, které jsem neznal. Požádal jsem ho, aby ho napsal a ukázal mi příklad. Vysvětlil, že před použitím nářadí potřebuji krátké zaškolení. Neznamenalo to, že musím absolvovat celý dlouhý kurz. Měl mi ukázat konkrétní zařízení, které budu používat.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "„Dobrý den, jsem tu poprvé.",
+        "Můžete mi prosím vysvětlit, jak to funguje?“",
+        "Dobrovolník mluvil rychle a použil slovo, které jsem neznal.",
+        "Požádal jsem ho, aby ho napsal a ukázal mi příklad.",
+        "Vysvětlil, že před použitím nářadí potřebuji krátké zaškolení.",
+        "Neznamenalo to, že musím absolvovat celý dlouhý kurz.",
+        "Měl mi ukázat konkrétní zařízení, které budu používat."
+      ],
+      "start": 33.3556462585034,
+      "end": 67.15256235827664,
+      "sentences": [
+        {
+          "text": "„Dobrý den, jsem tu poprvé.",
+          "start": 33.3556462585034,
+          "end": 35.81696145124717,
+          "slow_start": 38.02285714285714,
+          "slow_end": 40.936961451247164
+        },
+        {
+          "text": "Můžete mi prosím vysvětlit, jak to funguje?“",
+          "start": 35.99696145124717,
+          "end": 39.87469387755102,
+          "slow_start": 41.116961451247164,
+          "slow_end": 45.52875283446712
+        },
+        {
+          "text": "Dobrovolník mluvil rychle a použil slovo, které jsem neznal.",
+          "start": 40.05469387755102,
+          "end": 45.65070294784581,
+          "slow_start": 45.70875283446712,
+          "slow_end": 52.10585034013605
+        },
+        {
+          "text": "Požádal jsem ho, aby ho napsal a ukázal mi příklad.",
+          "start": 45.83070294784581,
+          "end": 50.77655328798186,
+          "slow_start": 52.28585034013606,
+          "slow_end": 57.951519274376416
+        },
+        {
+          "text": "Vysvětlil, že před použitím nářadí potřebuji krátké zaškolení.",
+          "start": 50.95655328798186,
+          "end": 56.62222222222222,
+          "slow_start": 58.131519274376416,
+          "slow_end": 64.36607709750567
+        },
+        {
+          "text": "Neznamenalo to, že musím absolvovat celý dlouhý kurz.",
+          "start": 56.80222222222222,
+          "end": 61.922222222222224,
+          "slow_start": 64.54607709750567,
+          "slow_end": 70.32784580498866
+        },
+        {
+          "text": "Měl mi ukázat konkrétní zařízení, které budu používat.",
+          "start": 62.102222222222224,
+          "end": 67.15256235827664,
+          "slow_start": 70.50784580498866,
+          "slow_end": 76.16190476190476
+        }
+      ],
+      "slow_start": 38.02285714285714,
+      "slow_end": 76.16190476190476
+    },
+    {
+      "text": "Potom jsem se zeptal na cenu, dostupný čas a potřebný materiál. Některé nástroje byly zahrnuté ve vstupním poplatku, ale lepidlo se platilo zvlášť. Dobrovolník mi doporučil, abych židli nejdřív ukázal lektorovi. Ten měl rozhodnout, jaký postup je bezpečný. Sám jsem tedy nic nerozebíral. Zapsal jsem si jméno lektora i místo, kde ho najdu.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Potom jsem se zeptal na cenu, dostupný čas a potřebný materiál.",
+        "Některé nástroje byly zahrnuté ve vstupním poplatku, ale lepidlo se platilo zvlášť.",
+        "Dobrovolník mi doporučil, abych židli nejdřív ukázal lektorovi.",
+        "Ten měl rozhodnout, jaký postup je bezpečný.",
+        "Sám jsem tedy nic nerozebíral.",
+        "Zapsal jsem si jméno lektora i místo, kde ho najdu."
+      ],
+      "start": 67.33256235827665,
+      "end": 98.00054421768708,
+      "sentences": [
+        {
+          "text": "Potom jsem se zeptal na cenu, dostupný čas a potřebný materiál.",
+          "start": 67.33256235827665,
+          "end": 73.23043083900227,
+          "slow_start": 76.34190476190476,
+          "slow_end": 82.92476190476191
+        },
+        {
+          "text": "Některé nástroje byly zahrnuté ve vstupním poplatku, ale lepidlo se platilo zvlášť.",
+          "start": 73.41043083900227,
+          "end": 80.66666666666667,
+          "slow_start": 83.1047619047619,
+          "slow_end": 91.32462585034014
+        },
+        {
+          "text": "Dobrovolník mi doporučil, abych židli nejdřív ukázal lektorovi.",
+          "start": 80.84666666666666,
+          "end": 86.29174603174603,
+          "slow_start": 91.50462585034013,
+          "slow_end": 97.68113378684808
+        },
+        {
+          "text": "Ten měl rozhodnout, jaký postup je bezpečný.",
+          "start": 86.47174603174604,
+          "end": 90.43074829931973,
+          "slow_start": 97.86113378684807,
+          "slow_end": 102.30775510204082
+        },
+        {
+          "text": "Sám jsem tedy nic nerozebíral.",
+          "start": 90.61074829931972,
+          "end": 93.42036281179138,
+          "slow_start": 102.48775510204082,
+          "slow_end": 105.7269387755102
+        },
+        {
+          "text": "Zapsal jsem si jméno lektora i místo, kde ho najdu.",
+          "start": 93.60036281179138,
+          "end": 98.00054421768708,
+          "slow_start": 105.9069387755102,
+          "slow_end": 110.98049886621315
+        }
+      ],
+      "slow_start": 76.34190476190476,
+      "slow_end": 110.98049886621315
+    },
+    {
+      "text": "Na závěr jsem vlastními slovy zopakoval postup: nejdřív registrace, potom konzultace a zaškolení, teprve pak práce. Dobrovolník opravil jeden detail: registrační formulář se vyplňuje až po konzultaci, aby bylo jasné, jakou službu potřebuji. Byl jsem rád, že jsem si porozumění ověřil. Kdybych pouze přikývl, mohl bych udělat špatný první krok, přestože bych rozuměl většině jednotlivých slov. Dobrovolník ocenil moje otázky a ujistil mě, že podobné nejasnosti řeší s novými návštěvníky běžně.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Na závěr jsem vlastními slovy zopakoval postup: nejdřív registrace, potom konzultace a zaškolení, teprve pak práce.",
+        "Dobrovolník opravil jeden detail: registrační formulář se vyplňuje až po konzultaci, aby bylo jasné, jakou službu potřebuji.",
+        "Byl jsem rád, že jsem si porozumění ověřil.",
+        "Kdybych pouze přikývl, mohl bych udělat špatný první krok, přestože bych rozuměl většině jednotlivých slov.",
+        "Dobrovolník ocenil moje otázky a ujistil mě, že podobné nejasnosti řeší s novými návštěvníky běžně."
+      ],
+      "start": 98.18054421768707,
+      "end": 142.91396825396825,
+      "sentences": [
+        {
+          "text": "Na závěr jsem vlastními slovy zopakoval postup: nejdřív registrace, potom konzultace a zaškolení, teprve pak práce.",
+          "start": 98.18054421768707,
+          "end": 108.67596371882087,
+          "slow_start": 111.16049886621315,
+          "slow_end": 123.33936507936508
+        },
+        {
+          "text": "Dobrovolník opravil jeden detail: registrační formulář se vyplňuje až po konzultaci, aby bylo jasné, jakou službu potřebuji.",
+          "start": 108.85596371882086,
+          "end": 119.87383219954648,
+          "slow_start": 123.51936507936507,
+          "slow_end": 136.0813605442177
+        },
+        {
+          "text": "Byl jsem rád, že jsem si porozumění ověřil.",
+          "start": 120.05383219954649,
+          "end": 124.26825396825397,
+          "slow_start": 136.2613605442177,
+          "slow_end": 141.10272108843537
+        },
+        {
+          "text": "Kdybych pouze přikývl, mohl bych udělat špatný první krok, přestože bych rozuměl většině jednotlivých slov.",
+          "start": 124.44825396825397,
+          "end": 133.78267573696147,
+          "slow_start": 141.28272108843538,
+          "slow_end": 151.90585034013606
+        },
+        {
+          "text": "Dobrovolník ocenil moje otázky a ujistil mě, že podobné nejasnosti řeší s novými návštěvníky běžně.",
+          "start": 133.96267573696144,
+          "end": 142.91396825396825,
+          "slow_start": 152.08585034013606,
+          "slow_end": 162.36068027210885
+        }
+      ],
+      "slow_start": 111.16049886621315,
+      "slow_end": 162.36068027210885
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "9049761cde51f5c392cdb9d32160ad03b0e8e92378c353ce1e0f034a1bbbcf65",
+    "slow": "651d1deda48bcdd5d29e489e600b4c9d20ca364b6521ca5dd8be0570d4adae4e"
+  }
+}

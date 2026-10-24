@@ -1,0 +1,173 @@
+{
+  "id": "C2-U06-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "C2-U06-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C2",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Navrhneme vhodnou nápravu.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Navrhneme vhodnou nápravu."
+      ]
+    },
+    {
+      "text": "Přímá odpověď omezuje mlžení.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Přímá odpověď omezuje mlžení."
+      ]
+    },
+    {
+      "text": "Prověříme výrobní podklad.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Prověříme výrobní podklad."
+      ]
+    },
+    {
+      "text": "Hledáme uskutečnitelnou cestu.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Hledáme uskutečnitelnou cestu."
+      ]
+    },
+    {
+      "text": "Chyba patrně souvisí s verzí podkladu.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Chyba patrně souvisí s verzí podkladu."
+      ]
+    }
+  ],
+  "text_sha256": "cf9aeb448a4218c4f77fcba41102a0ffbf0129905d2fcd161f64bcda88cb3683",
+  "source_file": "content/lessons/C2/C2-U06-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U06-L01--2026.10.22.1--vocabulary--cf9aeb448a--normal.mp3",
+  "slow_file": "content/audio/files/C2-U06-L01--2026.10.22.1--vocabulary--cf9aeb448a--slow.mp3",
+  "duration_seconds": 14.588163265306122,
+  "slow_duration_seconds": 16.561859410430838,
+  "cues": [
+    {
+      "text": "Navrhneme vhodnou nápravu.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Navrhneme vhodnou nápravu."
+      ],
+      "start": 0.0,
+      "end": 2.3568253968253967,
+      "sentences": [
+        {
+          "text": "Navrhneme vhodnou nápravu.",
+          "start": 0.0,
+          "end": 2.3568253968253967,
+          "slow_start": 0.0,
+          "slow_end": 2.693514739229025
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.693514739229025
+    },
+    {
+      "text": "Přímá odpověď omezuje mlžení.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Přímá odpověď omezuje mlžení."
+      ],
+      "start": 2.536825396825397,
+      "end": 5.149070294784581,
+      "sentences": [
+        {
+          "text": "Přímá odpověď omezuje mlžení.",
+          "start": 2.536825396825397,
+          "end": 5.149070294784581,
+          "slow_start": 2.873514739229025,
+          "slow_end": 5.880498866213152
+        }
+      ],
+      "slow_start": 2.873514739229025,
+      "slow_end": 5.880498866213152
+    },
+    {
+      "text": "Prověříme výrobní podklad.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Prověříme výrobní podklad."
+      ],
+      "start": 5.3290702947845805,
+      "end": 7.987755102040817,
+      "sentences": [
+        {
+          "text": "Prověříme výrobní podklad.",
+          "start": 5.3290702947845805,
+          "end": 7.987755102040817,
+          "slow_start": 6.060498866213152,
+          "slow_end": 9.044263038548753
+        }
+      ],
+      "slow_start": 6.060498866213152,
+      "slow_end": 9.044263038548753
+    },
+    {
+      "text": "Hledáme uskutečnitelnou cestu.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Hledáme uskutečnitelnou cestu."
+      ],
+      "start": 8.167755102040816,
+      "end": 11.04702947845805,
+      "sentences": [
+        {
+          "text": "Hledáme uskutečnitelnou cestu.",
+          "start": 8.167755102040816,
+          "end": 11.04702947845805,
+          "slow_start": 9.224263038548752,
+          "slow_end": 12.49827664399093
+        }
+      ],
+      "slow_start": 9.224263038548752,
+      "slow_end": 12.49827664399093
+    },
+    {
+      "text": "Chyba patrně souvisí s verzí podkladu.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Chyba patrně souvisí s verzí podkladu."
+      ],
+      "start": 11.22702947845805,
+      "end": 14.408163265306122,
+      "sentences": [
+        {
+          "text": "Chyba patrně souvisí s verzí podkladu.",
+          "start": 11.22702947845805,
+          "end": 14.408163265306122,
+          "slow_start": 12.67827664399093,
+          "slow_end": 16.381859410430838
+        }
+      ],
+      "slow_start": 12.67827664399093,
+      "slow_end": 16.381859410430838
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "4fa09d028073d325deee5c57c22a32686fbf15ca13ab95580a4b7fb169efbde6",
+    "slow": "04ec996f6e961343d9297acd7540c617cd0a92b39a4d51b75addc8237c9f5ccd"
+  }
+}

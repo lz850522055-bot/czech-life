@@ -1,0 +1,1315 @@
+{
+  "id": "B1-U06-L01",
+  "level": "B1",
+  "unit_id": "B1-U06",
+  "order": 38,
+  "version": "2026.10.22.1",
+  "title_zh": "反身及格支配深化",
+  "title_cs": "Kdo se učí a kdo učí koho",
+  "prerequisites": [
+    "B1-U05-L01"
+  ],
+  "can_do": [
+    "判断 se/si 是否属于词义或指向自身",
+    "按动词要求选择格和介词",
+    "描述担心、兴趣、约定与求助"
+  ],
+  "scene": "学习合作与反身搭配",
+  "skills": [
+    "listening",
+    "speaking",
+    "reading",
+    "writing",
+    "interaction",
+    "mediation"
+  ],
+  "knowledge_points": [
+    "reflexive-functions",
+    "valency-patterns"
+  ],
+  "intro_zh": "同一个“学”字，在捷语里“学东西”和“教别人”要用不同结构。不要把 se/si 当可有可无的小词；它们有时直接决定是谁对谁做什么。",
+  "lesson_text": [
+    {
+      "id": "s01",
+      "cs": "V jazykové kavárně jsme si vytvořili malou skupinu. Každý se chtěl zlepšit v něčem jiném. Jana se učila česky kvůli práci, Amir se zajímal hlavně o běžné rozhovory a já jsem potřeboval lépe rozumět telefonátům. Domluvili jsme se na jednoduchém pravidle: nikdo se nesměje cizím chybám a každý se může zeptat na to, čemu nerozumí.",
+      "zh": "语言咖啡馆里我们组成小组，各自想改进不同方面。雅娜为工作学捷语，阿米尔关注日常对话，我需要听懂电话。我们约定不嘲笑错误，每个人都能问不理解的地方。",
+      "note_zh": ""
+    },
+    {
+      "id": "s02",
+      "cs": "Na první schůzce jsem řekl, že učím češtinu. Jana byla překvapená, protože si myslela, že jsem lektor. Hned jsem se opravil: učím se česky, zatím nikoho neučím. Potom jsme si zapsali několik podobných dvojic. Když si kupuji knihu, kupuji ji pro sebe. Když myji dítě, pečuji o někoho jiného; když se myji, provádím činnost na sobě.",
+      "zh": "第一次碰面，我说成了“我教捷语”。雅娜以为我是老师，感到惊讶。我马上改成我在学捷语，目前不教别人。我们记了类似对比：kupuji si knihu 是给自己买；myji dítě 是给孩子洗，myji se 是洗自己。",
+      "note_zh": ""
+    },
+    {
+      "id": "s03",
+      "cs": "Brzy jsme zjistili, že ne každé se lze přeložit jako sebe. U sloves bát se nebo těšit se je součástí běžné vazby. Amir se bál telefonování, ale těšil se na možnost trénovat s námi. Požádal Janu o pomoc a poděkoval jí za trpělivost. Jana mu doporučila, aby si nejprve připravil otázky a při hovoru se nesnažil rozumět každému slovu.",
+      "zh": "我们很快发现不是每个 se 都可译成“自己”。bát se、těšit se 的 se 属于固定结构。阿米尔害怕打电话，但期待跟我们练习。他请雅娜帮忙并感谢耐心。她建议先准备问题，通话时别强求每个词都懂。",
+      "note_zh": ""
+    },
+    {
+      "id": "s04",
+      "cs": "Na další schůzce jsme se bavili o tom, co se podařilo. Amir už zavolal do knihovny a zeptal se na otevírací dobu. Já jsem si všiml, že mi pomáhá zapisovat celé vazby místo samostatných slov. Nestačí tedy znát pouze sloveso čekat. Potřebuji vědět, že čekám na odpověď, zatímco děkuji za odpověď a rozumím odpovědi. Taková přesnost usnadňuje skutečný rozhovor.",
+      "zh": "下次我们谈做成了什么。阿米尔已打电话问图书馆时间。我发现记完整搭配比单词有用。只知道 čekat 不够，还要知道等回复用 na odpověď、感谢回复用 za odpověď、理解回复用 odpovědi。这种准确性帮助真实交谈。",
+      "note_zh": ""
+    }
+  ],
+  "grammar": [
+    {
+      "id": "reflexive-functions",
+      "rule_zh": "小词先跟着完整动词记，再判断是不是“自己”。",
+      "detail_zh": "učit někoho něco 是教某人；učit se něco / učit se česky 是学。se 可表自身、彼此、固定动词成分或反身被动；si 常关联给自己/为自己。bát se + 第二格、těšit se na + 第四格、zajímat se o + 第四格不可按中文自由换介词。",
+      "examples": [
+        {
+          "cs": "Učím děti češtinu.",
+          "zh": "我教孩子捷语。",
+          "note_zh": ""
+        },
+        {
+          "cs": "Učím se česky.",
+          "zh": "我学捷语。",
+          "note_zh": ""
+        },
+        {
+          "cs": "Koupil jsem si slovník.",
+          "zh": "我给自己买了词典。",
+          "note_zh": ""
+        }
+      ],
+      "pitfalls": [
+        "把 učím se 的 se 丢掉会改变角色。",
+        "不要把所有 se 翻译成自己。"
+      ],
+      "exceptions": [
+        "učit se 也有其它规范搭配，本课优先练常用口语表达。"
+      ],
+      "term": "反身词与词汇搭配"
+    },
+    {
+      "id": "valency-patterns",
+      "rule_zh": "谁要求哪种词尾，要随动词整组学习。",
+      "detail_zh": "čekat na + 第四格；děkovat někomu za něco：人第三格、事 za+第四格；rozumět + 第三格；požádat někoho o něco：两项第四格。先把人物和事物关系标出来，再选择形式，不能只按中文“对/给”翻译。",
+      "examples": [
+        {
+          "cs": "Děkuji Janě za pomoc.",
+          "zh": "感谢雅娜的帮助。",
+          "note_zh": ""
+        },
+        {
+          "cs": "Požádal jsem Janu o pomoc.",
+          "zh": "我请求雅娜帮助。",
+          "note_zh": ""
+        }
+      ],
+      "pitfalls": [
+        "Jana 在感谢与请求中不是同一个词尾。"
+      ],
+      "exceptions": [
+        "词典可能列出多个义项和搭配，须结合具体意义。"
+      ],
+      "term": "动词格支配"
+    }
+  ],
+  "vocabulary": [
+    {
+      "lemma": "bát se",
+      "pos": "反身动词，未完成体",
+      "forms": "bojím se; bál se; čeho",
+      "meaning_zh": "害怕",
+      "collocation": "bát se chyby",
+      "example_cs": "Nebojím se otázky.",
+      "example_zh": "我不怕这个问题。",
+      "confusion_zh": "后接第二格。"
+    },
+    {
+      "lemma": "těšit se",
+      "pos": "反身动词，未完成体",
+      "forms": "těším se; na koho/co",
+      "meaning_zh": "期待",
+      "collocation": "těšit se na setkání",
+      "example_cs": "Těším se na setkání.",
+      "example_zh": "我期待见面。",
+      "confusion_zh": "不是害怕，介词 na 要保留。"
+    },
+    {
+      "lemma": "všimnout si",
+      "pos": "反身动词，完成体",
+      "forms": "všimnu si; všiml si; čeho",
+      "meaning_zh": "注意到",
+      "collocation": "všimnout si chyby",
+      "example_cs": "Všiml jsem si chyby.",
+      "example_zh": "我发现了错误。",
+      "confusion_zh": "用 si，不是 se。"
+    },
+    {
+      "lemma": "trpělivost",
+      "pos": "名词，阴性",
+      "forms": "trpělivosti; trpělivostí",
+      "meaning_zh": "耐心",
+      "collocation": "děkovat za trpělivost",
+      "example_cs": "Děkuji vám za trpělivost.",
+      "example_zh": "谢谢您的耐心。",
+      "confusion_zh": "不是耐久度。"
+    }
+  ],
+  "listening": {
+    "script": [
+      {
+        "cs": "Bojím se mluvit po telefonu, protože nevidím druhému člověku do tváře. Těším se ale na společný trénink. Chtěl bych Janu požádat o pomoc. Potom jí poděkuji za čas a domluvím se s ní na dalším setkání.",
+        "zh": "我害怕电话交谈，因为看不到对方脸。但期待共同训练，想请雅娜帮忙，然后感谢她花时间，约下一次见面。",
+        "note_zh": ""
+      }
+    ],
+    "focus_zh": "分别听害怕、期待、请求和感谢；关注 se/si 与介词。",
+    "source": "original"
+  },
+  "pronunciation": {
+    "focus_zh": "se/si 在节奏中轻读，但元音 e/i 必须保留；先对照 koupil se（本语境不成立）与 koupil si。",
+    "contrast": [
+      {
+        "a": "se",
+        "b": "si",
+        "note_zh": "元音不同，功能也可能不同；不能吞掉。"
+      }
+    ],
+    "task_zh": "先听一句，再按意义块跟读；录下自然语速版本，对照长短元音、句中停顿和关键词。不要追求机械加速。"
+  },
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "第一场见面为什么出现误会？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "他说成教捷语而不是学捷语"
+        },
+        {
+          "id": "b",
+          "text": "Jana 没来"
+        },
+        {
+          "id": "c",
+          "text": "所有人都不学捷语"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "省略 se 影响动词角色。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U06-L01-E01",
+      "knowledge_points": [
+        "reflexive-functions",
+        "valency-patterns"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "哪一个 se 不能逐字理解为“自己”？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "bát se"
+        },
+        {
+          "id": "b",
+          "text": "mýt se"
+        },
+        {
+          "id": "c",
+          "text": "vidět sebe"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "bát se 的 se 为词汇结构组成，不是洗自己那种动作对象。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U06-L01-E02",
+      "knowledge_points": [
+        "reflexive-functions",
+        "valency-patterns"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "听：说话人要向谁求助？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "向 Jana"
+        },
+        {
+          "id": "b",
+          "text": "向医生"
+        },
+        {
+          "id": "c",
+          "text": "向房东"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "Janu 为请求的宾语形式。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "listening"
+      ],
+      "error_category": "comprehension",
+      "audio_text_cs": "Chtěl bych Janu požádat o pomoc. Potom jí poděkuji za čas.",
+      "id": "B1-U06-L01-E03",
+      "knowledge_points": [
+        "reflexive-functions",
+        "valency-patterns"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "感谢 Jana，填名字正确形式。",
+      "stimulus_cs": "Děkuji ___ za pomoc.",
+      "answer": "Janě",
+      "accepted_answers": [
+        "Janě"
+      ],
+      "explanation_zh": "děkovat 人用第三格。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "B1-U06-L01-E04",
+      "knowledge_points": [
+        "reflexive-functions",
+        "valency-patterns"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "我给自己买词典，填反身小词。",
+      "stimulus_cs": "Koupil jsem ___ slovník.",
+      "answer": "si",
+      "accepted_answers": [
+        "si"
+      ],
+      "explanation_zh": "为自己购买用 si。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "B1-U06-L01-E05",
+      "knowledge_points": [
+        "reflexive-functions",
+        "valency-patterns"
+      ]
+    },
+    {
+      "type": "correct",
+      "prompt_zh": "只改固定搭配：我期待见面。",
+      "stimulus_cs": "Těším se o setkání.",
+      "answer": "Těším se na setkání.",
+      "accepted_answers": [
+        "Těším se na setkání."
+      ],
+      "explanation_zh": "těšit se na + 第四格。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "B1-U06-L01-E06",
+      "knowledge_points": [
+        "reflexive-functions",
+        "valency-patterns"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt_zh": "以 Včera 开头排列。",
+      "stimulus_cs": "jsem se / Včera / zeptal na termín.",
+      "options": [
+        "jsem se",
+        "Včera",
+        "zeptal na termín."
+      ],
+      "answer": "Včera jsem se zeptal na termín.",
+      "accepted_answers": [
+        "Včera jsem se zeptal na termín."
+      ],
+      "explanation_zh": "过去助动词 jsem 在 se 前，整组随句首。",
+      "scoring_basis": "本题限定句首及语境；不据一个参考语序否定捷语所有语序变体。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "word_order",
+      "id": "B1-U06-L01-E07",
+      "knowledge_points": [
+        "reflexive-functions",
+        "valency-patterns"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "“我理解这个回复”哪句正确？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "Rozumím odpovědi."
+        },
+        {
+          "id": "b",
+          "text": "Rozumím na odpověď."
+        },
+        {
+          "id": "c",
+          "text": "Rozumím za odpověď."
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "rozumět 接第三格；其它介词来自不同动词。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U06-L01-E08",
+      "knowledge_points": [
+        "reflexive-functions",
+        "valency-patterns"
+      ]
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "说明你的一个担心、一个期待和一个求助请求。",
+      "stimulus_cs": "",
+      "answer": "Bojím se rychlých telefonátů, ale těším se na trénink. Chtěl bych vás požádat o pomoc s přípravou otázek.",
+      "accepted_answers": [],
+      "explanation_zh": "把感受和行动连起来。",
+      "rubric": [
+        "三意图齐全",
+        "反身词完整",
+        "搭配可理解"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "error_category": "fluency",
+      "id": "B1-U06-L01-E09",
+      "knowledge_points": [
+        "reflexive-functions",
+        "valency-patterns"
+      ]
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "给练习伙伴写感谢并约下次。",
+      "stimulus_cs": "",
+      "answer": "Děkuji ti za trpělivost při dnešním hovoru. Všiml jsem si, že lépe rozumím krátkým otázkám. Můžeme se domluvit na dalším setkání v pátek?",
+      "accepted_answers": [],
+      "explanation_zh": "感谢人第三格、感谢事 za+第四格。",
+      "rubric": [
+        "感谢对象事项",
+        "一个具体收获",
+        "下次安排"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U06-L01-E10",
+      "knowledge_points": [
+        "reflexive-functions",
+        "valency-patterns"
+      ]
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "对方误以为你是教师，立即纠正并介绍实际学习目标。",
+      "stimulus_cs": "",
+      "answer": "Asi jsem se vyjádřil nepřesně. Češtinu zatím neučím, učím se česky. Potřebuji hlavně lépe rozumět telefonátům.",
+      "accepted_answers": [],
+      "explanation_zh": "直接纠正 učit/učit se，而不只说“不对”。",
+      "rubric": [
+        "纠正角色",
+        "说明目标",
+        "语气合作"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "error_category": "fluency",
+      "id": "B1-U06-L01-E11",
+      "knowledge_points": [
+        "reflexive-functions",
+        "valency-patterns"
+      ]
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "向中文伙伴解释为什么 děkuji Janě 与 požádal jsem Janu 词尾不同。",
+      "stimulus_cs": "",
+      "answer": "前者感谢某人，动词要求第三格 Janě；后者请求某人，动词要求第四格 Janu。不是人变了，而是句子里的关系不同。",
+      "accepted_answers": [],
+      "explanation_zh": "用具体关系解释术语。",
+      "rubric": [
+        "两结构正确",
+        "不照中文介词推格",
+        "普通中文清楚"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U06-L01-E12",
+      "knowledge_points": [
+        "reflexive-functions",
+        "valency-patterns"
+      ]
+    }
+  ],
+  "transfer_task": {
+    "prompt_zh": "换成运动社团：期待训练、担心受伤、请教练帮忙、感谢建议。",
+    "model_answer_cs": "Těším se na trénink, ale bojím se zranění. Požádám trenéra o pomoc a poděkuji mu za radu.",
+    "rubric": [
+      "四种搭配",
+      "se/si恰当",
+      "语境可迁移"
+    ]
+  },
+  "review_links": [
+    "B1-U05-L01"
+  ],
+  "sources": [
+    {
+      "source_id": "LANG01",
+      "url": "https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions",
+      "scope": "按实际能做的任务编排能力，不把CEFR说成官方捷语语法课表",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    },
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?id=580",
+      "scope": "se/si的不同功能与反身结构",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    },
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?id=620",
+      "scope": "动词与名词的格搭配、díky/kvůli的语用边界",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    },
+    {
+      "source_id": "LANG06",
+      "url": "https://www.czechency.org/slovnik/SLOVOSLED",
+      "scope": "语序的信息结构及附着词常见第二位置",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    }
+  ],
+  "content_status": "authored_crosschecked_not_native_reviewed",
+  "quality_notes": [
+    "原创课文和练习；规则按所列来源交叉核查，未获得捷语母语教师逐句审校。",
+    "本课级别属于教材编排判断，不代表官方能力认证。",
+    "听力为原创可合成脚本；真人多说话人、地区口音与录音自然度尚待现场核验。"
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "B1-U06-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--normal.mp3",
+      "slow_file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U06-L01--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "V jazykové kavárně jsme si vytvořili malou skupinu. Každý se chtěl zlepšit v něčem jiném. Jana se učila česky kvůli práci, Amir se zajímal hlavně o běžné rozhovory a já jsem potřeboval lépe rozumět telefonátům. Domluvili jsme se na jednoduchém pravidle: nikdo se nesměje cizím chybám a každý se může zeptat na to, čemu nerozumí. Na první schůzce jsem řekl, že učím češtinu. Jana byla překvapená, protože si myslela, že jsem lektor. Hned jsem se opravil: učím se česky, zatím nikoho neučím. Potom jsme si zapsali několik podobných dvojic. Když si kupuji knihu, kupuji ji pro sebe. Když myji dítě, pečuji o někoho jiného; když se myji, provádím činnost na sobě. Brzy jsme zjistili, že ne každé se lze přeložit jako sebe. U sloves bát se nebo těšit se je součástí běžné vazby. Amir se bál telefonování, ale těšil se na možnost trénovat s námi. Požádal Janu o pomoc a poděkoval jí za trpělivost. Jana mu doporučila, aby si nejprve připravil otázky a při hovoru se nesnažil rozumět každému slovu. Na další schůzce jsme se bavili o tom, co se podařilo. Amir už zavolal do knihovny a zeptal se na otevírací dobu. Já jsem si všiml, že mi pomáhá zapisovat celé vazby místo samostatných slov. Nestačí tedy znát pouze sloveso čekat. Potřebuji vědět, že čekám na odpověď, zatímco děkuji za odpověď a rozumím odpovědi. Taková přesnost usnadňuje skutečný rozhovor.",
+      "duration_seconds": 121.93473922902494,
+      "slow_duration_seconds": 137.51532879818595,
+      "sha256": "8b87b287c7476fb8e17c0c2f09ed2447d1e483256b2d89b1d7127070218000ef",
+      "slow_sha256": "ad8da0f77105ddfb35088d67db37a8d781de506fe6d8ab25ba98b665fe13f23a"
+    },
+    {
+      "lesson_id": "B1-U06-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--normal.mp3",
+      "slow_file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U06-L01--2026.10.22.1--text--p0",
+      "asset_id": "B1-U06-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "V jazykové kavárně jsme si vytvořili malou skupinu. Každý se chtěl zlepšit v něčem jiném. Jana se učila česky kvůli práci, Amir se zajímal hlavně o běžné rozhovory a já jsem potřeboval lépe rozumět telefonátům. Domluvili jsme se na jednoduchém pravidle: nikdo se nesměje cizím chybám a každý se může zeptat na to, čemu nerozumí.",
+      "start": 0,
+      "end": 29.762312925170068,
+      "slow_start": 0,
+      "slow_end": 33.988344671201816
+    },
+    {
+      "lesson_id": "B1-U06-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--normal.mp3",
+      "slow_file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U06-L01--2026.10.22.1--text--s0",
+      "asset_id": "B1-U06-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "V jazykové kavárně jsme si vytvořili malou skupinu.",
+      "start": 0,
+      "end": 4.3769614512471655,
+      "slow_start": 0,
+      "slow_end": 5.050340136054421
+    },
+    {
+      "lesson_id": "B1-U06-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--normal.mp3",
+      "slow_file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U06-L01--2026.10.22.1--text--s1",
+      "asset_id": "B1-U06-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Každý se chtěl zlepšit v něčem jiném.",
+      "start": 4.556961451247165,
+      "end": 7.78453514739229,
+      "slow_start": 5.230340136054422,
+      "slow_end": 8.910702947845804
+    },
+    {
+      "lesson_id": "B1-U06-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--normal.mp3",
+      "slow_file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U06-L01--2026.10.22.1--text--s2",
+      "asset_id": "B1-U06-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Jana se učila česky kvůli práci, Amir se zajímal hlavně o běžné rozhovory a já jsem potřeboval lépe rozumět telefonátům.",
+      "start": 7.96453514739229,
+      "end": 19.365532879818595,
+      "slow_start": 9.090702947845806,
+      "slow_end": 21.884897959183675
+    },
+    {
+      "lesson_id": "B1-U06-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--normal.mp3",
+      "slow_file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U06-L01--2026.10.22.1--text--s3",
+      "asset_id": "B1-U06-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 3,
+      "paragraph_index": 0,
+      "sentence_index": 3,
+      "text": "Domluvili jsme se na jednoduchém pravidle: nikdo se nesměje cizím chybám a každý se může zeptat na to, čemu nerozumí.",
+      "start": 19.545532879818595,
+      "end": 29.762312925170068,
+      "slow_start": 22.064897959183675,
+      "slow_end": 33.988344671201816
+    },
+    {
+      "lesson_id": "B1-U06-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--normal.mp3",
+      "slow_file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U06-L01--2026.10.22.1--text--p1",
+      "asset_id": "B1-U06-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Na první schůzce jsem řekl, že učím češtinu. Jana byla překvapená, protože si myslela, že jsem lektor. Hned jsem se opravil: učím se česky, zatím nikoho neučím. Potom jsme si zapsali několik podobných dvojic. Když si kupuji knihu, kupuji ji pro sebe. Když myji dítě, pečuji o někoho jiného; když se myji, provádím činnost na sobě.",
+      "start": 29.942312925170068,
+      "end": 59.87886621315193,
+      "slow_start": 34.168344671201815,
+      "slow_end": 67.90136054421768
+    },
+    {
+      "lesson_id": "B1-U06-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--normal.mp3",
+      "slow_file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U06-L01--2026.10.22.1--text--s4",
+      "asset_id": "B1-U06-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 4,
+      "paragraph_index": 1,
+      "sentence_index": 0,
+      "text": "Na první schůzce jsem řekl, že učím češtinu.",
+      "start": 29.942312925170068,
+      "end": 34.052244897959184,
+      "slow_start": 34.168344671201815,
+      "slow_end": 38.85877551020408
+    },
+    {
+      "lesson_id": "B1-U06-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--normal.mp3",
+      "slow_file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U06-L01--2026.10.22.1--text--s5",
+      "asset_id": "B1-U06-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 5,
+      "paragraph_index": 1,
+      "sentence_index": 1,
+      "text": "Jana byla překvapená, protože si myslela, že jsem lektor.",
+      "start": 34.232244897959184,
+      "end": 39.30580498866213,
+      "slow_start": 39.03877551020408,
+      "slow_end": 44.77410430839002
+    },
+    {
+      "lesson_id": "B1-U06-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--normal.mp3",
+      "slow_file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U06-L01--2026.10.22.1--text--s6",
+      "asset_id": "B1-U06-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 6,
+      "paragraph_index": 1,
+      "sentence_index": 2,
+      "text": "Hned jsem se opravil: učím se česky, zatím nikoho neučím.",
+      "start": 39.48580498866213,
+      "end": 44.82639455782313,
+      "slow_start": 44.95410430839002,
+      "slow_end": 51.06095238095238
+    },
+    {
+      "lesson_id": "B1-U06-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--normal.mp3",
+      "slow_file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U06-L01--2026.10.22.1--text--s7",
+      "asset_id": "B1-U06-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 7,
+      "paragraph_index": 1,
+      "sentence_index": 3,
+      "text": "Potom jsme si zapsali několik podobných dvojic.",
+      "start": 45.00639455782313,
+      "end": 49.12793650793651,
+      "slow_start": 51.24095238095238,
+      "slow_end": 55.83850340136055
+    },
+    {
+      "lesson_id": "B1-U06-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--normal.mp3",
+      "slow_file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U06-L01--2026.10.22.1--text--s8",
+      "asset_id": "B1-U06-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 8,
+      "paragraph_index": 1,
+      "sentence_index": 4,
+      "text": "Když si kupuji knihu, kupuji ji pro sebe.",
+      "start": 49.30793650793651,
+      "end": 52.69804988662131,
+      "slow_start": 56.01850340136055,
+      "slow_end": 59.90784580498866
+    },
+    {
+      "lesson_id": "B1-U06-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--normal.mp3",
+      "slow_file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U06-L01--2026.10.22.1--text--s9",
+      "asset_id": "B1-U06-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 9,
+      "paragraph_index": 1,
+      "sentence_index": 5,
+      "text": "Když myji dítě, pečuji o někoho jiného; když se myji, provádím činnost na sobě.",
+      "start": 52.87804988662131,
+      "end": 59.87886621315193,
+      "slow_start": 60.08784580498866,
+      "slow_end": 67.90136054421768
+    },
+    {
+      "lesson_id": "B1-U06-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--normal.mp3",
+      "slow_file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U06-L01--2026.10.22.1--text--p2",
+      "asset_id": "B1-U06-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Brzy jsme zjistili, že ne každé se lze přeložit jako sebe. U sloves bát se nebo těšit se je součástí běžné vazby. Amir se bál telefonování, ale těšil se na možnost trénovat s námi. Požádal Janu o pomoc a poděkoval jí za trpělivost. Jana mu doporučila, aby si nejprve připravil otázky a při hovoru se nesnažil rozumět každému slovu.",
+      "start": 60.05886621315193,
+      "end": 90.0592290249433,
+      "slow_start": 68.08136054421769,
+      "slow_end": 101.69242630385487
+    },
+    {
+      "lesson_id": "B1-U06-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--normal.mp3",
+      "slow_file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U06-L01--2026.10.22.1--text--s10",
+      "asset_id": "B1-U06-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 10,
+      "paragraph_index": 2,
+      "sentence_index": 0,
+      "text": "Brzy jsme zjistili, že ne každé se lze přeložit jako sebe.",
+      "start": 60.05886621315193,
+      "end": 65.05115646258503,
+      "slow_start": 68.08136054421769,
+      "slow_end": 73.72380952380952
+    },
+    {
+      "lesson_id": "B1-U06-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--normal.mp3",
+      "slow_file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U06-L01--2026.10.22.1--text--s11",
+      "asset_id": "B1-U06-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 11,
+      "paragraph_index": 2,
+      "sentence_index": 1,
+      "text": "U sloves bát se nebo těšit se je součástí běžné vazby.",
+      "start": 65.23115646258503,
+      "end": 70.15378684807256,
+      "slow_start": 73.90380952380953,
+      "slow_end": 79.4069387755102
+    },
+    {
+      "lesson_id": "B1-U06-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--normal.mp3",
+      "slow_file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U06-L01--2026.10.22.1--text--s12",
+      "asset_id": "B1-U06-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 12,
+      "paragraph_index": 2,
+      "sentence_index": 2,
+      "text": "Amir se bál telefonování, ale těšil se na možnost trénovat s námi.",
+      "start": 70.33378684807256,
+      "end": 76.45224489795919,
+      "slow_start": 79.5869387755102,
+      "slow_end": 86.57614512471655
+    },
+    {
+      "lesson_id": "B1-U06-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--normal.mp3",
+      "slow_file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U06-L01--2026.10.22.1--text--s13",
+      "asset_id": "B1-U06-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 13,
+      "paragraph_index": 2,
+      "sentence_index": 3,
+      "text": "Požádal Janu o pomoc a poděkoval jí za trpělivost.",
+      "start": 76.63224489795918,
+      "end": 81.39233560090703,
+      "slow_start": 86.75614512471655,
+      "slow_end": 91.98063492063493
+    },
+    {
+      "lesson_id": "B1-U06-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--normal.mp3",
+      "slow_file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U06-L01--2026.10.22.1--text--s14",
+      "asset_id": "B1-U06-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 14,
+      "paragraph_index": 2,
+      "sentence_index": 4,
+      "text": "Jana mu doporučila, aby si nejprve připravil otázky a při hovoru se nesnažil rozumět každému slovu.",
+      "start": 81.57233560090702,
+      "end": 90.0592290249433,
+      "slow_start": 92.16063492063492,
+      "slow_end": 101.69242630385487
+    },
+    {
+      "lesson_id": "B1-U06-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--normal.mp3",
+      "slow_file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U06-L01--2026.10.22.1--text--p3",
+      "asset_id": "B1-U06-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Na další schůzce jsme se bavili o tom, co se podařilo. Amir už zavolal do knihovny a zeptal se na otevírací dobu. Já jsem si všiml, že mi pomáhá zapisovat celé vazby místo samostatných slov. Nestačí tedy znát pouze sloveso čekat. Potřebuji vědět, že čekám na odpověď, zatímco děkuji za odpověď a rozumím odpovědi. Taková přesnost usnadňuje skutečný rozhovor.",
+      "start": 90.23922902494331,
+      "end": 121.75473922902495,
+      "slow_start": 101.87242630385488,
+      "slow_end": 137.33532879818594
+    },
+    {
+      "lesson_id": "B1-U06-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--normal.mp3",
+      "slow_file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U06-L01--2026.10.22.1--text--s15",
+      "asset_id": "B1-U06-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 15,
+      "paragraph_index": 3,
+      "sentence_index": 0,
+      "text": "Na další schůzce jsme se bavili o tom, co se podařilo.",
+      "start": 90.23922902494331,
+      "end": 94.5465306122449,
+      "slow_start": 101.87242630385488,
+      "slow_end": 106.77183673469388
+    },
+    {
+      "lesson_id": "B1-U06-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--normal.mp3",
+      "slow_file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U06-L01--2026.10.22.1--text--s16",
+      "asset_id": "B1-U06-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 16,
+      "paragraph_index": 3,
+      "sentence_index": 1,
+      "text": "Amir už zavolal do knihovny a zeptal se na otevírací dobu.",
+      "start": 94.7265306122449,
+      "end": 99.5330612244898,
+      "slow_start": 106.95183673469388,
+      "slow_end": 112.4085260770975
+    },
+    {
+      "lesson_id": "B1-U06-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--normal.mp3",
+      "slow_file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U06-L01--2026.10.22.1--text--s17",
+      "asset_id": "B1-U06-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 17,
+      "paragraph_index": 3,
+      "sentence_index": 2,
+      "text": "Já jsem si všiml, že mi pomáhá zapisovat celé vazby místo samostatných slov.",
+      "start": 99.71306122448979,
+      "end": 106.70226757369615,
+      "slow_start": 112.58852607709751,
+      "slow_end": 120.42526077097506
+    },
+    {
+      "lesson_id": "B1-U06-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--normal.mp3",
+      "slow_file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U06-L01--2026.10.22.1--text--s18",
+      "asset_id": "B1-U06-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 18,
+      "paragraph_index": 3,
+      "sentence_index": 3,
+      "text": "Nestačí tedy znát pouze sloveso čekat.",
+      "start": 106.88226757369614,
+      "end": 110.40009070294785,
+      "slow_start": 120.60526077097505,
+      "slow_end": 124.5178231292517
+    },
+    {
+      "lesson_id": "B1-U06-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--normal.mp3",
+      "slow_file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U06-L01--2026.10.22.1--text--s19",
+      "asset_id": "B1-U06-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 19,
+      "paragraph_index": 3,
+      "sentence_index": 4,
+      "text": "Potřebuji vědět, že čekám na odpověď, zatímco děkuji za odpověď a rozumím odpovědi.",
+      "start": 110.58009070294784,
+      "end": 117.8827664399093,
+      "slow_start": 124.6978231292517,
+      "slow_end": 132.84802721088437
+    },
+    {
+      "lesson_id": "B1-U06-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--normal.mp3",
+      "slow_file": "audio/files/B1-U06-L01--2026.10.22.1--text--01cd948028--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U06-L01--2026.10.22.1--text--s20",
+      "asset_id": "B1-U06-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 20,
+      "paragraph_index": 3,
+      "sentence_index": 5,
+      "text": "Taková přesnost usnadňuje skutečný rozhovor.",
+      "start": 118.0627664399093,
+      "end": 121.75473922902495,
+      "slow_start": 133.02802721088435,
+      "slow_end": 137.33532879818594
+    },
+    {
+      "lesson_id": "B1-U06-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U06-L01--2026.10.22.1--listening--3d220b86ca--normal.mp3",
+      "slow_file": "audio/files/B1-U06-L01--2026.10.22.1--listening--3d220b86ca--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U06-L01--2026.10.22.1--listening",
+      "role": "listening-full",
+      "index": 0,
+      "text": "Bojím se mluvit po telefonu, protože nevidím druhému člověku do tváře. Těším se ale na společný trénink. Chtěl bych Janu požádat o pomoc. Potom jí poděkuji za čas a domluvím se s ní na dalším setkání.",
+      "duration_seconds": 18.29750566893424,
+      "slow_duration_seconds": 20.89814058956916,
+      "sha256": "8dbc498d01efe5c72ffaf361298772149b0106f9bba1fab8f623eace349f1395",
+      "slow_sha256": "d201e86fe8c88d767e86967f52110496ea7c0cfa759d49b1f8218b6493bf5910"
+    },
+    {
+      "lesson_id": "B1-U06-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U06-L01--2026.10.22.1--listening--3d220b86ca--normal.mp3",
+      "slow_file": "audio/files/B1-U06-L01--2026.10.22.1--listening--3d220b86ca--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U06-L01--2026.10.22.1--listening--p0",
+      "asset_id": "B1-U06-L01--2026.10.22.1--listening",
+      "role": "listening",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Bojím se mluvit po telefonu, protože nevidím druhému člověku do tváře. Těším se ale na společný trénink. Chtěl bych Janu požádat o pomoc. Potom jí poděkuji za čas a domluvím se s ní na dalším setkání.",
+      "start": 0,
+      "end": 18.11750566893424,
+      "slow_start": 0,
+      "slow_end": 20.71814058956916
+    },
+    {
+      "lesson_id": "B1-U06-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U06-L01--2026.10.22.1--vocabulary--7520930f61--normal.mp3",
+      "slow_file": "audio/files/B1-U06-L01--2026.10.22.1--vocabulary--7520930f61--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U06-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary-full",
+      "index": 0,
+      "text": "Nebojím se otázky. Těším se na setkání. Všiml jsem si chyby. Děkuji vám za trpělivost.",
+      "duration_seconds": 8.417414965986394,
+      "slow_duration_seconds": 9.59002267573696,
+      "sha256": "f4a49ba4e42dd0a1d781abdd3324399af53568f68ee0fe094b3dabe3fd7681e8",
+      "slow_sha256": "a942196a9a904cb9ddbe4b7a13c78c871b12a228391b6f4641a014af6aab6ca9"
+    },
+    {
+      "lesson_id": "B1-U06-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U06-L01--2026.10.22.1--vocabulary--7520930f61--normal.mp3",
+      "slow_file": "audio/files/B1-U06-L01--2026.10.22.1--vocabulary--7520930f61--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U06-L01--2026.10.22.1--vocabulary--p0",
+      "asset_id": "B1-U06-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Nebojím se otázky.",
+      "start": 0,
+      "end": 1.7763265306122449,
+      "slow_start": 0,
+      "slow_end": 1.9969160997732427
+    },
+    {
+      "lesson_id": "B1-U06-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U06-L01--2026.10.22.1--vocabulary--7520930f61--normal.mp3",
+      "slow_file": "audio/files/B1-U06-L01--2026.10.22.1--vocabulary--7520930f61--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U06-L01--2026.10.22.1--vocabulary--p1",
+      "asset_id": "B1-U06-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Těším se na setkání.",
+      "start": 1.9563265306122448,
+      "end": 3.8603628117913833,
+      "slow_start": 2.176916099773243,
+      "slow_end": 4.347981859410431
+    },
+    {
+      "lesson_id": "B1-U06-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U06-L01--2026.10.22.1--vocabulary--7520930f61--normal.mp3",
+      "slow_file": "audio/files/B1-U06-L01--2026.10.22.1--vocabulary--7520930f61--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U06-L01--2026.10.22.1--vocabulary--p2",
+      "asset_id": "B1-U06-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Všiml jsem si chyby.",
+      "start": 4.0403628117913835,
+      "end": 5.805079365079365,
+      "slow_start": 4.52798185941043,
+      "slow_end": 6.594557823129252
+    },
+    {
+      "lesson_id": "B1-U06-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U06-L01--2026.10.22.1--vocabulary--7520930f61--normal.mp3",
+      "slow_file": "audio/files/B1-U06-L01--2026.10.22.1--vocabulary--7520930f61--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U06-L01--2026.10.22.1--vocabulary--p3",
+      "asset_id": "B1-U06-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Děkuji vám za trpělivost.",
+      "start": 5.985079365079365,
+      "end": 8.237414965986394,
+      "slow_start": 6.774557823129252,
+      "slow_end": 9.410022675736961
+    },
+    {
+      "lesson_id": "B1-U06-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U06-L01--2026.10.22.1--exercises--8f6a7a0ee2--normal.mp3",
+      "slow_file": "audio/files/B1-U06-L01--2026.10.22.1--exercises--8f6a7a0ee2--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U06-L01--2026.10.22.1--exercises",
+      "role": "exercises-full",
+      "index": 0,
+      "text": "Chtěl bych Janu požádat o pomoc. Potom jí poděkuji za čas.",
+      "duration_seconds": 5.793469387755102,
+      "slow_duration_seconds": 6.524897959183673,
+      "sha256": "1d8c9997c3d62e6120de17144b1d2d17b33e5075a0be128e4587e34c25b9203e",
+      "slow_sha256": "67bbb08e018dd9850ed25c9d6822b08a38e23247e2bf927e4eb705ded97a05c5"
+    },
+    {
+      "lesson_id": "B1-U06-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U06-L01--2026.10.22.1--exercises--8f6a7a0ee2--normal.mp3",
+      "slow_file": "audio/files/B1-U06-L01--2026.10.22.1--exercises--8f6a7a0ee2--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U06-L01--2026.10.22.1--exercises--p0",
+      "asset_id": "B1-U06-L01--2026.10.22.1--exercises",
+      "role": "exercise",
+      "index": 0,
+      "exercise_id": "B1-U06-L01-E03",
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Chtěl bych Janu požádat o pomoc. Potom jí poděkuji za čas.",
+      "start": 0,
+      "end": 5.613469387755102,
+      "slow_start": 0,
+      "slow_end": 6.344897959183673
+    },
+    {
+      "lesson_id": "B1-U06-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U06-L01--2026.10.22.1--contrasts--9fd3e0e970--normal.mp3",
+      "slow_file": "audio/files/B1-U06-L01--2026.10.22.1--contrasts--9fd3e0e970--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U06-L01--2026.10.22.1--contrasts",
+      "role": "contrasts-full",
+      "index": 0,
+      "text": "se. si.",
+      "duration_seconds": 1.0043083900226757,
+      "slow_duration_seconds": 1.085578231292517,
+      "sha256": "265f5e1bcefa6f9f8497f86de3c91a61b743a0831cf18a3e8e0bef8dcafeecd5",
+      "slow_sha256": "7c7dfa2d23390d9a3b06d44bbd67757f19e2264fb2de63dfd1994a290f1043e4"
+    },
+    {
+      "lesson_id": "B1-U06-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U06-L01--2026.10.22.1--contrasts--9fd3e0e970--normal.mp3",
+      "slow_file": "audio/files/B1-U06-L01--2026.10.22.1--contrasts--9fd3e0e970--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U06-L01--2026.10.22.1--contrasts--p0",
+      "asset_id": "B1-U06-L01--2026.10.22.1--contrasts",
+      "role": "contrast",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "se. si.",
+      "start": 0,
+      "end": 0.8243083900226758,
+      "slow_start": 0,
+      "slow_end": 0.905578231292517
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "objects": [
+    {
+      "id": "st-nicholas",
+      "cs": "Kostel svatého Mikuláše",
+      "zh": "圣尼古拉教堂",
+      "url": "/game/scenes/st-nicholas-foreground-v1.webp",
+      "bounds": {
+        "left": -1929.453125,
+        "top": -1495.390625,
+        "width": 171.09375,
+        "height": 139.0625
+      },
+      "depth_y": -1356.71875,
+      "scope": "layer cut from the existing authored illustration; artistic facade, not surveyed 3D geometry"
+    }
+  ]
+}

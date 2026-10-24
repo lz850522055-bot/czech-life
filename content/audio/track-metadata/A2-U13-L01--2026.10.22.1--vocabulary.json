@@ -1,0 +1,202 @@
+{
+  "id": "A2-U13-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "A2-U13-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Vchod je uzavřený.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Vchod je uzavřený."
+      ]
+    },
+    {
+      "text": "Program je dočasně přesunut.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Program je dočasně přesunut."
+      ]
+    },
+    {
+      "text": "Použijte boční vchod.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Použijte boční vchod."
+      ]
+    },
+    {
+      "text": "Potvrďte účast.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Potvrďte účast."
+      ]
+    },
+    {
+      "text": "Napište předem.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Napište předem."
+      ]
+    },
+    {
+      "text": "Rozhodneme později.",
+      "index": 5,
+      "role": "vocabulary",
+      "parts": [
+        "Rozhodneme později."
+      ]
+    }
+  ],
+  "text_sha256": "e69cbebffa631ced1b18424467283909c883eb5d52b847e6054c4c2850f658b0",
+  "source_file": "content/lessons/A2/A2-U13-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U13-L01--2026.10.22.1--vocabulary--e69cbebffa--normal.mp3",
+  "slow_file": "content/audio/files/A2-U13-L01--2026.10.22.1--vocabulary--e69cbebffa--slow.mp3",
+  "duration_seconds": 11.842448979591836,
+  "slow_duration_seconds": 13.293696145124716,
+  "cues": [
+    {
+      "text": "Vchod je uzavřený.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Vchod je uzavřený."
+      ],
+      "start": 0.0,
+      "end": 1.5209070294784581,
+      "sentences": [
+        {
+          "text": "Vchod je uzavřený.",
+          "start": 0.0,
+          "end": 1.5209070294784581,
+          "slow_start": 0.0,
+          "slow_end": 1.6718367346938776
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.6718367346938776
+    },
+    {
+      "text": "Program je dočasně přesunut.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Program je dočasně přesunut."
+      ],
+      "start": 1.700907029478458,
+      "end": 4.289931972789116,
+      "sentences": [
+        {
+          "text": "Program je dočasně přesunut.",
+          "start": 1.700907029478458,
+          "end": 4.289931972789116,
+          "slow_start": 1.8518367346938776,
+          "slow_end": 4.789160997732426
+        }
+      ],
+      "slow_start": 1.8518367346938776,
+      "slow_end": 4.789160997732426
+    },
+    {
+      "text": "Použijte boční vchod.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Použijte boční vchod."
+      ],
+      "start": 4.469931972789116,
+      "end": 6.373968253968254,
+      "sentences": [
+        {
+          "text": "Použijte boční vchod.",
+          "start": 4.469931972789116,
+          "end": 6.373968253968254,
+          "slow_start": 4.969160997732426,
+          "slow_end": 7.175056689342403
+        }
+      ],
+      "slow_start": 4.969160997732426,
+      "slow_end": 7.175056689342403
+    },
+    {
+      "text": "Potvrďte účast.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Potvrďte účast."
+      ],
+      "start": 6.553968253968254,
+      "end": 8.26063492063492,
+      "sentences": [
+        {
+          "text": "Potvrďte účast.",
+          "start": 6.553968253968254,
+          "end": 8.26063492063492,
+          "slow_start": 7.355056689342404,
+          "slow_end": 9.293922902494332
+        }
+      ],
+      "slow_start": 7.355056689342404,
+      "slow_end": 9.293922902494332
+    },
+    {
+      "text": "Napište předem.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Napište předem."
+      ],
+      "start": 8.44063492063492,
+      "end": 9.799002267573696,
+      "sentences": [
+        {
+          "text": "Napište předem.",
+          "start": 8.44063492063492,
+          "end": 9.799002267573696,
+          "slow_start": 9.473922902494332,
+          "slow_end": 10.99482993197279
+        }
+      ],
+      "slow_start": 9.473922902494332,
+      "slow_end": 10.99482993197279
+    },
+    {
+      "text": "Rozhodneme později.",
+      "index": 5,
+      "role": "vocabulary",
+      "parts": [
+        "Rozhodneme později."
+      ],
+      "start": 9.979002267573696,
+      "end": 11.662448979591836,
+      "sentences": [
+        {
+          "text": "Rozhodneme později.",
+          "start": 9.979002267573696,
+          "end": 11.662448979591836,
+          "slow_start": 11.17482993197279,
+          "slow_end": 13.113696145124717
+        }
+      ],
+      "slow_start": 11.17482993197279,
+      "slow_end": 13.113696145124717
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "39874dfd1bdfd2854f225d09751642cb850eb1b3f9f113477c732aaf9c7b2a98",
+    "slow": "caeca3af112b4f31e25f9ab60346cb7823b685410ff8706ddf5ed22192320246"
+  }
+}

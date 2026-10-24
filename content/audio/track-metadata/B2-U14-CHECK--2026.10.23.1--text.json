@@ -1,0 +1,85 @@
+{
+  "id": "B2-U14-CHECK--2026.10.23.1--text",
+  "lesson_id": "B2-U14-CHECK",
+  "content_version": "2026.10.23.1",
+  "level": "B2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Divadlo umožní přístup technikům od čtyř. Dopravce odhaduje příjezd mezi třetí a pátou. Vykládka trvá přibližně hodinu. Představení začíná v šest a zkouška musí skončit před příchodem publika.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Divadlo umožní přístup technikům od čtyř.",
+        "Dopravce odhaduje příjezd mezi třetí a pátou.",
+        "Vykládka trvá přibližně hodinu.",
+        "Představení začíná v šest a zkouška musí skončit před příchodem publika."
+      ]
+    }
+  ],
+  "text_sha256": "a7a53573ea5abebe0b562a5634ed0142c4eae421db5258e70bd72189dce01e53",
+  "source_file": "content/assessments/B2-U14.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U14-CHECK--2026.10.22.1--text--a7a53573ea--normal.mp3",
+  "slow_file": "content/audio/files/B2-U14-CHECK--2026.10.22.1--text--a7a53573ea--slow.mp3",
+  "duration_seconds": 17.658956916099772,
+  "slow_duration_seconds": 19.78358276643991,
+  "cues": [
+    {
+      "text": "Divadlo umožní přístup technikům od čtyř. Dopravce odhaduje příjezd mezi třetí a pátou. Vykládka trvá přibližně hodinu. Představení začíná v šest a zkouška musí skončit před příchodem publika.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Divadlo umožní přístup technikům od čtyř.",
+        "Dopravce odhaduje příjezd mezi třetí a pátou.",
+        "Vykládka trvá přibližně hodinu.",
+        "Představení začíná v šest a zkouška musí skončit před příchodem publika."
+      ],
+      "start": 0.0,
+      "end": 17.478956916099772,
+      "sentences": [
+        {
+          "text": "Divadlo umožní přístup technikům od čtyř.",
+          "start": 0.0,
+          "end": 4.028662131519274,
+          "slow_start": 0.0,
+          "slow_end": 4.4117913832199545
+        },
+        {
+          "text": "Dopravce odhaduje příjezd mezi třetí a pátou.",
+          "start": 4.208662131519274,
+          "end": 8.248934240362813,
+          "slow_start": 4.591791383219955,
+          "slow_end": 9.166122448979593
+        },
+        {
+          "text": "Vykládka trvá přibližně hodinu.",
+          "start": 8.428934240362812,
+          "end": 11.168888888888889,
+          "slow_start": 9.346122448979592,
+          "slow_end": 12.457596371882087
+        },
+        {
+          "text": "Představení začíná v šest a zkouška musí skončit před příchodem publika.",
+          "start": 11.348888888888888,
+          "end": 17.478956916099772,
+          "slow_start": 12.637596371882086,
+          "slow_end": 19.60358276643991
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 19.60358276643991
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "313f335ebcb1f0d36db0eb76127edbf9ea691b50235e753bee7d58c04d392ece",
+    "slow": "8d786706ed47573ecae428111702976ce74437656db6cd6a02115f2d5f2b8bf1"
+  },
+  "reused_from_track_id": "B2-U14-CHECK--2026.10.22.1--text"
+}

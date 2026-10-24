@@ -1,0 +1,219 @@
+{
+  "unseen_text": [
+    {
+      "cs": "Lucie celý večer četla smlouvu. Poslední dvě strany však nestihla. Ráno je dočetla, označila nejasné body a smlouvu poslala právníkovi.",
+      "zh": "露茜整晚读合同，但最后两页没来得及。早上读完，标出不清楚处，再发给律师。",
+      "note_zh": ""
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "哪一步在早上完成？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "开始看合同"
+        },
+        {
+          "id": "b",
+          "text": "读完最后两页"
+        },
+        {
+          "id": "c",
+          "text": "签署合同"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "dočetla 指接着读到结束；文本没有签署。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U02-CHECK-E01",
+      "knowledge_points": [
+        "aspect-result",
+        "aspect-future-phase"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "按语境填 dočíst 的第三人称过去式女性。",
+      "stimulus_cs": "Ráno Lucie poslední dvě strany ___.",
+      "answer": "dočetla",
+      "accepted_answers": [
+        "dočetla"
+      ],
+      "explanation_zh": "主语女性并到达阅读终点。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "B1-U02-CHECK-E02",
+      "knowledge_points": [
+        "aspect-result",
+        "aspect-future-phase"
+      ]
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "用两句给同事更新合同进度，避免让人误以为已签。",
+      "stimulus_cs": "",
+      "answer": "Smlouvu jsem už přečetla a označila jsem nejasné body. Poslala jsem ji právníkovi, ale zatím jsem ji nepodepsala.",
+      "accepted_answers": [],
+      "explanation_zh": "补充未签状态可以作为题目要求的澄清，不能说律师已回复。",
+      "rubric": [
+        "读完与发送分开",
+        "不说已签署",
+        "保留未完成下一步"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U02-CHECK-E03",
+      "knowledge_points": [
+        "aspect-result",
+        "aspect-future-phase"
+      ]
+    }
+  ],
+  "id": "B1-U02-CHECK",
+  "kind": "unit",
+  "level": "B1",
+  "unit_id": "B1-U02",
+  "title_zh": "动词体与语境选择：换场景检验",
+  "version": "2026.10.22.1",
+  "rubric": [
+    "关键信息准确且没有添加原文没有的信息",
+    "能使用本单元规律完成新情境",
+    "输出能让对方采取下一步行动"
+  ],
+  "remediation": [
+    {
+      "condition_zh": "理解遗漏或把推测说成事实",
+      "lesson_ids": [
+        "B1-U02-L01"
+      ],
+      "action_zh": "对照逐段译文，重新提取人物、限制和下一步。"
+    },
+    {
+      "condition_zh": "表达需要提示或形式反复出错",
+      "lesson_ids": [
+        "B1-U02-L01"
+      ],
+      "action_zh": "复看规律卡后更换人物、时间与限制条件，延后独立重做。"
+    }
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "B1-U02-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U02-CHECK--2026.10.22.1--text--71f0e63cc0--normal.mp3",
+      "slow_file": "audio/files/B1-U02-CHECK--2026.10.22.1--text--71f0e63cc0--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U02-CHECK--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Lucie celý večer četla smlouvu. Poslední dvě strany však nestihla. Ráno je dočetla, označila nejasné body a smlouvu poslala právníkovi.",
+      "duration_seconds": 13.090385487528344,
+      "slow_duration_seconds": 14.622902494331067,
+      "sha256": "b7fc7427ff7e8e32caa61822df0debc83b008921825869d39872e74bc7bc1396",
+      "slow_sha256": "63c054c3f39880d34c8ef5ac54cb31be7aabba649254ad7623f3e52f8df062d5"
+    },
+    {
+      "lesson_id": "B1-U02-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U02-CHECK--2026.10.22.1--text--71f0e63cc0--normal.mp3",
+      "slow_file": "audio/files/B1-U02-CHECK--2026.10.22.1--text--71f0e63cc0--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U02-CHECK--2026.10.22.1--text--p0",
+      "asset_id": "B1-U02-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Lucie celý večer četla smlouvu. Poslední dvě strany však nestihla. Ráno je dočetla, označila nejasné body a smlouvu poslala právníkovi.",
+      "start": 0,
+      "end": 12.910385487528345,
+      "slow_start": 0,
+      "slow_end": 14.442902494331065
+    },
+    {
+      "lesson_id": "B1-U02-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U02-CHECK--2026.10.22.1--text--71f0e63cc0--normal.mp3",
+      "slow_file": "audio/files/B1-U02-CHECK--2026.10.22.1--text--71f0e63cc0--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U02-CHECK--2026.10.22.1--text--s0",
+      "asset_id": "B1-U02-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Lucie celý večer četla smlouvu.",
+      "start": 0,
+      "end": 3.0998639455782313,
+      "slow_start": 0,
+      "slow_end": 3.4597732426303853
+    },
+    {
+      "lesson_id": "B1-U02-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U02-CHECK--2026.10.22.1--text--71f0e63cc0--normal.mp3",
+      "slow_file": "audio/files/B1-U02-CHECK--2026.10.22.1--text--71f0e63cc0--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U02-CHECK--2026.10.22.1--text--s1",
+      "asset_id": "B1-U02-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Poslední dvě strany však nestihla.",
+      "start": 3.2798639455782315,
+      "end": 6.170748299319728,
+      "slow_start": 3.6397732426303855,
+      "slow_end": 6.797687074829932
+    },
+    {
+      "lesson_id": "B1-U02-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U02-CHECK--2026.10.22.1--text--71f0e63cc0--normal.mp3",
+      "slow_file": "audio/files/B1-U02-CHECK--2026.10.22.1--text--71f0e63cc0--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U02-CHECK--2026.10.22.1--text--s2",
+      "asset_id": "B1-U02-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Ráno je dočetla, označila nejasné body a smlouvu poslala právníkovi.",
+      "start": 6.3507482993197275,
+      "end": 12.910385487528345,
+      "slow_start": 6.977687074829932,
+      "slow_end": 14.442902494331065
+    }
+  ]
+}

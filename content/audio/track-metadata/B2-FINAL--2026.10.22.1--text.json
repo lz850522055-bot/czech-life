@@ -1,0 +1,380 @@
+{
+  "id": "B2-FINAL--2026.10.22.1--text",
+  "lesson_id": "B2-FINAL",
+  "content_version": "2026.10.22.1",
+  "level": "B2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Město chce na šest měsíců zpřístupnit nevyužitou budovu pro komunitní aktivity. Základní nabídka počítá se dvěma místnostmi a společnou kuchyňkou. Za běžný úklid odpovídá uživatel; odborný servis techniky zajišťuje správce. Program má být přístupný různým skupinám, nikoli pouze členům jednoho spolku. Večerní akce mohou probíhat do devíti, ale venkovní prostor se po osmé používat nemá. Text zatím neuvádí, kdo ověří dodržování těchto podmínek.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Město chce na šest měsíců zpřístupnit nevyužitou budovu pro komunitní aktivity.",
+        "Základní nabídka počítá se dvěma místnostmi a společnou kuchyňkou.",
+        "Za běžný úklid odpovídá uživatel; odborný servis techniky zajišťuje správce.",
+        "Program má být přístupný různým skupinám, nikoli pouze členům jednoho spolku.",
+        "Večerní akce mohou probíhat do devíti, ale venkovní prostor se po osmé používat nemá.",
+        "Text zatím neuvádí, kdo ověří dodržování těchto podmínek."
+      ]
+    },
+    {
+      "text": "Spolek Most podporuje projekt, protože v okolí chybí místo pro nekomerční setkávání. Navrhuje pravidelné jazykové večery a poradenství k běžným každodenním situacím. Současně požaduje možnost uložit pomůcky a předvídatelný rozvrh. Upozorňuje, že dobrovolníci nemohou bez přípravy převzít odpovědnost za celou budovu. Je ochoten zajistit koordinátora vlastních akcí, ne však nepřetržitou správu prostoru. Nabídka koordinátora platí jen tehdy, pokud budou úkoly a rozsah dostupnosti předem vyjasněny.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Spolek Most podporuje projekt, protože v okolí chybí místo pro nekomerční setkávání.",
+        "Navrhuje pravidelné jazykové večery a poradenství k běžným každodenním situacím.",
+        "Současně požaduje možnost uložit pomůcky a předvídatelný rozvrh.",
+        "Upozorňuje, že dobrovolníci nemohou bez přípravy převzít odpovědnost za celou budovu.",
+        "Je ochoten zajistit koordinátora vlastních akcí, ne však nepřetržitou správu prostoru.",
+        "Nabídka koordinátora platí jen tehdy, pokud budou úkoly a rozsah dostupnosti předem vyjasněny."
+      ]
+    },
+    {
+      "text": "Obyvatelé sousedního domu vítají opravu dlouho prázdné budovy, ale obávají se večerního hluku a přetížení parkování. V dopise nepíší, že odmítají všechny komunitní aktivity. Žádají konkrétní kontaktní osobu, postup řešení podnětů a možnost vyhodnotit zkušební provoz. Dva signatáři navrhují zákaz všech večerních akcí; ostatní tento požadavek výslovně nepodpořili. Z počtu podpisů pod společným dopisem proto nelze bez dalšího odvodit podporu každého jednotlivého návrhu.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Obyvatelé sousedního domu vítají opravu dlouho prázdné budovy, ale obávají se večerního hluku a přetížení parkování.",
+        "V dopise nepíší, že odmítají všechny komunitní aktivity.",
+        "Žádají konkrétní kontaktní osobu, postup řešení podnětů a možnost vyhodnotit zkušební provoz.",
+        "Dva signatáři navrhují zákaz všech večerních akcí; ostatní tento požadavek výslovně nepodpořili.",
+        "Z počtu podpisů pod společným dopisem proto nelze bez dalšího odvodit podporu každého jednotlivého návrhu."
+      ]
+    },
+    {
+      "text": "Externí firma nabízí večerní dohled za pevnou částku na jeden večer; nabídka nezahrnuje mimořádný úklid. V internetové anketě se vyjádřilo čtyřicet lidí, z nichž dvacet šest projekt podpořilo. Odpovědi byly sbírány pouze ve skupině, která sdružuje zájemce o místní kulturní akce. Není známo, kolik obyvatel bez přístupu do této skupiny by se vyjádřilo jinak. Výsledky tedy popisují účastníky ankety, nikoli automaticky celou čtvrť.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Externí firma nabízí večerní dohled za pevnou částku na jeden večer; nabídka nezahrnuje mimořádný úklid.",
+        "V internetové anketě se vyjádřilo čtyřicet lidí, z nichž dvacet šest projekt podpořilo.",
+        "Odpovědi byly sbírány pouze ve skupině, která sdružuje zájemce o místní kulturní akce.",
+        "Není známo, kolik obyvatel bez přístupu do této skupiny by se vyjádřilo jinak.",
+        "Výsledky tedy popisují účastníky ankety, nikoli automaticky celou čtvrť."
+      ]
+    },
+    {
+      "text": "Máte připravit doporučení pro společnou schůzku. Musíte oddělit společné cíle, skutečné rozpory a dosud nejasné odpovědnosti. Zkušební provoz se může upravit, ale nemáte oprávnění za město ani spolek uzavírat smlouvy. V doporučení proto navrhujte podmínky a potřebná potvrzení. Představte nejméně jednu alternativu a uveďte, jaké nové zjištění by vedlo ke změně Vašeho stanoviska. Veškeré částky, termíny a pravomoci, které materiály neobsahují, ponechte jako otázky k ověření.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Máte připravit doporučení pro společnou schůzku.",
+        "Musíte oddělit společné cíle, skutečné rozpory a dosud nejasné odpovědnosti.",
+        "Zkušební provoz se může upravit, ale nemáte oprávnění za město ani spolek uzavírat smlouvy.",
+        "V doporučení proto navrhujte podmínky a potřebná potvrzení.",
+        "Představte nejméně jednu alternativu a uveďte, jaké nové zjištění by vedlo ke změně Vašeho stanoviska.",
+        "Veškeré částky, termíny a pravomoci, které materiály neobsahují, ponechte jako otázky k ověření."
+      ]
+    }
+  ],
+  "text_sha256": "bae63a58495b11955e09a264bea73c0ed4fe94b0c5b4d9239bfc00cfe745bbea",
+  "source_file": "content/assessments/B2-FINAL.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--normal.mp3",
+  "slow_file": "content/audio/files/B2-FINAL--2026.10.22.1--text--bae63a5849--slow.mp3",
+  "duration_seconds": 210.4088888888889,
+  "slow_duration_seconds": 237.59945578231293,
+  "cues": [
+    {
+      "text": "Město chce na šest měsíců zpřístupnit nevyužitou budovu pro komunitní aktivity. Základní nabídka počítá se dvěma místnostmi a společnou kuchyňkou. Za běžný úklid odpovídá uživatel; odborný servis techniky zajišťuje správce. Program má být přístupný různým skupinám, nikoli pouze členům jednoho spolku. Večerní akce mohou probíhat do devíti, ale venkovní prostor se po osmé používat nemá. Text zatím neuvádí, kdo ověří dodržování těchto podmínek.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Město chce na šest měsíců zpřístupnit nevyužitou budovu pro komunitní aktivity.",
+        "Základní nabídka počítá se dvěma místnostmi a společnou kuchyňkou.",
+        "Za běžný úklid odpovídá uživatel; odborný servis techniky zajišťuje správce.",
+        "Program má být přístupný různým skupinám, nikoli pouze členům jednoho spolku.",
+        "Večerní akce mohou probíhat do devíti, ale venkovní prostor se po osmé používat nemá.",
+        "Text zatím neuvádí, kdo ověří dodržování těchto podmínek."
+      ],
+      "start": 0.0,
+      "end": 40.82671201814059,
+      "sentences": [
+        {
+          "text": "Město chce na šest měsíců zpřístupnit nevyužitou budovu pro komunitní aktivity.",
+          "start": 0.0,
+          "end": 6.919546485260771,
+          "slow_start": 0.0,
+          "slow_end": 7.929614512471655
+        },
+        {
+          "text": "Základní nabídka počítá se dvěma místnostmi a společnou kuchyňkou.",
+          "start": 7.099546485260771,
+          "end": 12.741995464852607,
+          "slow_start": 8.109614512471655,
+          "slow_end": 14.564761904761905
+        },
+        {
+          "text": "Za běžný úklid odpovídá uživatel; odborný servis techniky zajišťuje správce.",
+          "start": 12.921995464852607,
+          "end": 20.35238095238095,
+          "slow_start": 14.744761904761905,
+          "slow_end": 23.103945578231293
+        },
+        {
+          "text": "Program má být přístupný různým skupinám, nikoli pouze členům jednoho spolku.",
+          "start": 20.53238095238095,
+          "end": 27.28938775510204,
+          "slow_start": 23.283945578231293,
+          "slow_end": 31.167120181405895
+        },
+        {
+          "text": "Večerní akce mohou probíhat do devíti, ale venkovní prostor se po osmé používat nemá.",
+          "start": 27.46938775510204,
+          "end": 35.28290249433107,
+          "slow_start": 31.347120181405895,
+          "slow_end": 39.99655328798186
+        },
+        {
+          "text": "Text zatím neuvádí, kdo ověří dodržování těchto podmínek.",
+          "start": 35.46290249433107,
+          "end": 40.82671201814059,
+          "slow_start": 40.17655328798186,
+          "slow_end": 46.26018140589569
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 46.26018140589569
+    },
+    {
+      "text": "Spolek Most podporuje projekt, protože v okolí chybí místo pro nekomerční setkávání. Navrhuje pravidelné jazykové večery a poradenství k běžným každodenním situacím. Současně požaduje možnost uložit pomůcky a předvídatelný rozvrh. Upozorňuje, že dobrovolníci nemohou bez přípravy převzít odpovědnost za celou budovu. Je ochoten zajistit koordinátora vlastních akcí, ne však nepřetržitou správu prostoru. Nabídka koordinátora platí jen tehdy, pokud budou úkoly a rozsah dostupnosti předem vyjasněny.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Spolek Most podporuje projekt, protože v okolí chybí místo pro nekomerční setkávání.",
+        "Navrhuje pravidelné jazykové večery a poradenství k běžným každodenním situacím.",
+        "Současně požaduje možnost uložit pomůcky a předvídatelný rozvrh.",
+        "Upozorňuje, že dobrovolníci nemohou bez přípravy převzít odpovědnost za celou budovu.",
+        "Je ochoten zajistit koordinátora vlastních akcí, ne však nepřetržitou správu prostoru.",
+        "Nabídka koordinátora platí jen tehdy, pokud budou úkoly a rozsah dostupnosti předem vyjasněny."
+      ],
+      "start": 41.00671201814059,
+      "end": 84.91006802721088,
+      "sentences": [
+        {
+          "text": "Spolek Most podporuje projekt, protože v okolí chybí místo pro nekomerční setkávání.",
+          "start": 41.00671201814059,
+          "end": 48.15845804988662,
+          "slow_start": 46.44018140589569,
+          "slow_end": 54.636825396825394
+        },
+        {
+          "text": "Navrhuje pravidelné jazykové večery a poradenství k běžným každodenním situacím.",
+          "start": 48.33845804988662,
+          "end": 55.33927437641724,
+          "slow_start": 54.816825396825394,
+          "slow_end": 62.68839002267574
+        },
+        {
+          "text": "Současně požaduje možnost uložit pomůcky a předvídatelný rozvrh.",
+          "start": 55.519274376417236,
+          "end": 61.32426303854875,
+          "slow_start": 62.86839002267574,
+          "slow_end": 69.59056689342404
+        },
+        {
+          "text": "Upozorňuje, že dobrovolníci nemohou bez přípravy převzít odpovědnost za celou budovu.",
+          "start": 61.50426303854875,
+          "end": 69.23650793650793,
+          "slow_start": 69.77056689342403,
+          "slow_end": 78.43160997732426
+        },
+        {
+          "text": "Je ochoten zajistit koordinátora vlastních akcí, ne však nepřetržitou správu prostoru.",
+          "start": 69.41650793650794,
+          "end": 76.76562358276644,
+          "slow_start": 78.61160997732426,
+          "slow_end": 87.06367346938775
+        },
+        {
+          "text": "Nabídka koordinátora platí jen tehdy, pokud budou úkoly a rozsah dostupnosti předem vyjasněny.",
+          "start": 76.94562358276644,
+          "end": 84.91006802721088,
+          "slow_start": 87.24367346938776,
+          "slow_end": 96.45038548752835
+        }
+      ],
+      "slow_start": 46.44018140589569,
+      "slow_end": 96.45038548752835
+    },
+    {
+      "text": "Obyvatelé sousedního domu vítají opravu dlouho prázdné budovy, ale obávají se večerního hluku a přetížení parkování. V dopise nepíší, že odmítají všechny komunitní aktivity. Žádají konkrétní kontaktní osobu, postup řešení podnětů a možnost vyhodnotit zkušební provoz. Dva signatáři navrhují zákaz všech večerních akcí; ostatní tento požadavek výslovně nepodpořili. Z počtu podpisů pod společným dopisem proto nelze bez dalšího odvodit podporu každého jednotlivého návrhu.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Obyvatelé sousedního domu vítají opravu dlouho prázdné budovy, ale obávají se večerního hluku a přetížení parkování.",
+        "V dopise nepíší, že odmítají všechny komunitní aktivity.",
+        "Žádají konkrétní kontaktní osobu, postup řešení podnětů a možnost vyhodnotit zkušební provoz.",
+        "Dva signatáři navrhují zákaz všech večerních akcí; ostatní tento požadavek výslovně nepodpořili.",
+        "Z počtu podpisů pod společným dopisem proto nelze bez dalšího odvodit podporu každého jednotlivého návrhu."
+      ],
+      "start": 85.09006802721089,
+      "end": 127.22285714285714,
+      "sentences": [
+        {
+          "text": "Obyvatelé sousedního domu vítají opravu dlouho prázdné budovy, ale obávají se večerního hluku a přetížení parkování.",
+          "start": 85.09006802721089,
+          "end": 95.29523809523809,
+          "slow_start": 96.63038548752834,
+          "slow_end": 107.97333333333333
+        },
+        {
+          "text": "V dopise nepíší, že odmítají všechny komunitní aktivity.",
+          "start": 95.4752380952381,
+          "end": 100.45591836734694,
+          "slow_start": 108.15333333333334,
+          "slow_end": 113.70290249433107
+        },
+        {
+          "text": "Žádají konkrétní kontaktní osobu, postup řešení podnětů a možnost vyhodnotit zkušební provoz.",
+          "start": 100.63591836734693,
+          "end": 109.26213151927438,
+          "slow_start": 113.88290249433106,
+          "slow_end": 123.73977324263039
+        },
+        {
+          "text": "Dva signatáři navrhují zákaz všech večerních akcí; ostatní tento požadavek výslovně nepodpořili.",
+          "start": 109.44213151927438,
+          "end": 118.27732426303855,
+          "slow_start": 123.91977324263038,
+          "slow_end": 133.74181405895692
+        },
+        {
+          "text": "Z počtu podpisů pod společným dopisem proto nelze bez dalšího odvodit podporu každého jednotlivého návrhu.",
+          "start": 118.45732426303854,
+          "end": 127.22285714285714,
+          "slow_start": 133.92181405895693,
+          "slow_end": 143.7322448979592
+        }
+      ],
+      "slow_start": 96.63038548752834,
+      "slow_end": 143.7322448979592
+    },
+    {
+      "text": "Externí firma nabízí večerní dohled za pevnou částku na jeden večer; nabídka nezahrnuje mimořádný úklid. V internetové anketě se vyjádřilo čtyřicet lidí, z nichž dvacet šest projekt podpořilo. Odpovědi byly sbírány pouze ve skupině, která sdružuje zájemce o místní kulturní akce. Není známo, kolik obyvatel bez přístupu do této skupiny by se vyjádřilo jinak. Výsledky tedy popisují účastníky ankety, nikoli automaticky celou čtvrť.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Externí firma nabízí večerní dohled za pevnou částku na jeden večer; nabídka nezahrnuje mimořádný úklid.",
+        "V internetové anketě se vyjádřilo čtyřicet lidí, z nichž dvacet šest projekt podpořilo.",
+        "Odpovědi byly sbírány pouze ve skupině, která sdružuje zájemce o místní kulturní akce.",
+        "Není známo, kolik obyvatel bez přístupu do této skupiny by se vyjádřilo jinak.",
+        "Výsledky tedy popisují účastníky ankety, nikoli automaticky celou čtvrť."
+      ],
+      "start": 127.40285714285714,
+      "end": 167.43424036281178,
+      "sentences": [
+        {
+          "text": "Externí firma nabízí večerní dohled za pevnou částku na jeden večer; nabídka nezahrnuje mimořádný úklid.",
+          "start": 127.40285714285714,
+          "end": 137.30616780045352,
+          "slow_start": 143.91224489795917,
+          "slow_end": 154.94172335600908
+        },
+        {
+          "text": "V internetové anketě se vyjádřilo čtyřicet lidí, z nichž dvacet šest projekt podpořilo.",
+          "start": 137.4861678004535,
+          "end": 144.97460317460317,
+          "slow_start": 155.12172335600906,
+          "slow_end": 163.66666666666666
+        },
+        {
+          "text": "Odpovědi byly sbírány pouze ve skupině, která sdružuje zájemce o místní kulturní akce.",
+          "start": 145.15460317460318,
+          "end": 153.1887074829932,
+          "slow_start": 163.84666666666666,
+          "slow_end": 173.2855782312925
+        },
+        {
+          "text": "Není známo, kolik obyvatel bez přístupu do této skupiny by se vyjádřilo jinak.",
+          "start": 153.3687074829932,
+          "end": 160.2534240362812,
+          "slow_start": 173.4655782312925,
+          "slow_end": 181.24426303854875
+        },
+        {
+          "text": "Výsledky tedy popisují účastníky ankety, nikoli automaticky celou čtvrť.",
+          "start": 160.43342403628117,
+          "end": 167.43424036281178,
+          "slow_start": 181.42426303854876,
+          "slow_end": 189.37709750566893
+        }
+      ],
+      "slow_start": 143.91224489795917,
+      "slow_end": 189.37709750566893
+    },
+    {
+      "text": "Máte připravit doporučení pro společnou schůzku. Musíte oddělit společné cíle, skutečné rozpory a dosud nejasné odpovědnosti. Zkušební provoz se může upravit, ale nemáte oprávnění za město ani spolek uzavírat smlouvy. V doporučení proto navrhujte podmínky a potřebná potvrzení. Představte nejméně jednu alternativu a uveďte, jaké nové zjištění by vedlo ke změně Vašeho stanoviska. Veškeré částky, termíny a pravomoci, které materiály neobsahují, ponechte jako otázky k ověření.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Máte připravit doporučení pro společnou schůzku.",
+        "Musíte oddělit společné cíle, skutečné rozpory a dosud nejasné odpovědnosti.",
+        "Zkušební provoz se může upravit, ale nemáte oprávnění za město ani spolek uzavírat smlouvy.",
+        "V doporučení proto navrhujte podmínky a potřebná potvrzení.",
+        "Představte nejméně jednu alternativu a uveďte, jaké nové zjištění by vedlo ke změně Vašeho stanoviska.",
+        "Veškeré částky, termíny a pravomoci, které materiály neobsahují, ponechte jako otázky k ověření."
+      ],
+      "start": 167.61424036281178,
+      "end": 210.2288888888889,
+      "sentences": [
+        {
+          "text": "Máte připravit doporučení pro společnou schůzku.",
+          "start": 167.61424036281178,
+          "end": 171.82866213151928,
+          "slow_start": 189.55709750566893,
+          "slow_end": 194.31718820861678
+        },
+        {
+          "text": "Musíte oddělit společné cíle, skutečné rozpory a dosud nejasné odpovědnosti.",
+          "start": 172.0086621315193,
+          "end": 179.1952380952381,
+          "slow_start": 194.4971882086168,
+          "slow_end": 202.79832199546485
+        },
+        {
+          "text": "Zkušební provoz se může upravit, ale nemáte oprávnění za město ani spolek uzavírat smlouvy.",
+          "start": 179.3752380952381,
+          "end": 187.5138321995465,
+          "slow_start": 202.97832199546485,
+          "slow_end": 212.11537414965986
+        },
+        {
+          "text": "V doporučení proto navrhujte podmínky a potřebná potvrzení.",
+          "start": 187.69383219954648,
+          "end": 192.72095238095238,
+          "slow_start": 212.29537414965986,
+          "slow_end": 217.94943310657595
+        },
+        {
+          "text": "Představte nejméně jednu alternativu a uveďte, jaké nové zjištění by vedlo ke změně Vašeho stanoviska.",
+          "start": 192.9009523809524,
+          "end": 201.3994557823129,
+          "slow_start": 218.12943310657596,
+          "slow_end": 227.57995464852607
+        },
+        {
+          "text": "Veškeré částky, termíny a pravomoci, které materiály neobsahují, ponechte jako otázky k ověření.",
+          "start": 201.57945578231292,
+          "end": 210.2288888888889,
+          "slow_start": 227.75995464852608,
+          "slow_end": 237.41945578231292
+        }
+      ],
+      "slow_start": 189.55709750566893,
+      "slow_end": 237.41945578231292
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "6b05b070784d7b6f00e54b7b262e3e1df97e44ad287ef8b6fcac6aa848acc798",
+    "slow": "b77d55de0552df8a954c2802b17c81a43730ec6f3379f735815a5d91eed1fefd"
+  }
+}

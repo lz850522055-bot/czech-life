@@ -1,0 +1,1535 @@
+{
+  "id": "B2-U05-L01",
+  "level": "B2",
+  "unit_id": "B2-U05",
+  "order": 51,
+  "version": "2026.10.22.1",
+  "title_zh": "被动表达及信息组织",
+  "title_cs": "Kdo jedná a co je hotové",
+  "prerequisites": [
+    "B2-U04-L01"
+  ],
+  "can_do": [
+    "选择主动、迂回被动与反身被动来组织重点",
+    "区分过程、结果和长期性质",
+    "在需要责任人时不以被动隐去主体"
+  ],
+  "scene": "被动与信息组织",
+  "skills": [
+    "listening",
+    "speaking",
+    "reading",
+    "writing",
+    "interaction",
+    "mediation"
+  ],
+  "knowledge_points": [
+    "passive-forms",
+    "passive-process-state"
+  ],
+  "intro_zh": "“已经处理”听起来像交代了进度，却可能没人知道谁处理、处理到哪一步。今天学被动表达，也学什么时候应改回主动。",
+  "lesson_text": [
+    {
+      "id": "s01",
+      "cs": "Na nástěnce domu se objevilo oznámení: „Žádosti o nové klíče jsou vyřizovány postupně.“ Obyvatelé rozuměli, že zpracování probíhá, ale nevěděli, kdy se dostane na jejich žádost. Jeden soused větu pochopil tak, že všechny žádosti už jsou vyřízeny. Rozdíl mezi probíhajícím procesem a hotovým výsledkem se v krátkém úředním sdělení snadno ztratí, zejména když čtenář sleduje hlavně praktickou otázku, zda už může klíč převzít.",
+      "zh": "楼里通知申请新钥匙正在依次处理，住户不知轮到自己何时。一人误以为全部已完成。短公告易让过程与结果混，尤其读者只关心能否拿钥匙。",
+      "note_zh": ""
+    },
+    {
+      "id": "s02",
+      "cs": "Správkyně vysvětlila, že sloveso vyřizovat popisuje činnost, zatímco vyřídit ji představuje jako dokončenou. Věta „Žádosti jsou vyřizovány“ zdůrazňuje průběh; „Žádosti byly vyřízeny“ v daném kontextu oznamuje dokončení. Když chceme sdělit konkrétní stav jedné žádosti, je lepší uvést její označení a další krok. Samotná gramatická forma nenahradí informaci o rozsahu: některé žádosti mohou být hotové, jiné nikoli.",
+      "zh": "管理员解释 vyřizovat 强调过程，vyřídit 呈现完成整体。jsou vyřizovány 强调处理中，byly vyřízeny 在此表示完成。要说某份申请状态，最好给标识和下一步；语法不能代替范围说明。",
+      "note_zh": ""
+    },
+    {
+      "id": "s03",
+      "cs": "Potom jsme porovnali tři formulace. „Správkyně zkontroluje žádost“ uvádí činitele jako podmět. „Žádost bude zkontrolována správkyní“ přesouvá pozornost k žádosti a činitele vyjadřuje sedmým pádem. „Žádosti se kontrolují v kanceláři“ popisuje obvyklý postup bez uvedení konkrétní osoby. Všechny mohou být užitečné, ale nejsou zaměnitelné v každé situaci. Pokud se ptáme, kdo má úkol převzít, poslední věta nám nestačí.",
+      "zh": "对比三句：管理员查申请，是主动；申请将由管理员检查，用被动、工具格表达施事；申请在办公室检查，用反身结构说明常规流程，不指具体人。问责任人时第三句不够。",
+      "note_zh": ""
+    },
+    {
+      "id": "s04",
+      "cs": "U výsledných stavů jsme narazili na další dvojici: „Dveře jsou zavřeny“ a „Dveře jsou zavřené.“ V běžné komunikaci se jejich významy mohou překrývat. Nelze mechanicky tvrdit, že první věta vždy znamená právě probíhající zavírání a druhá vždy trvalou vlastnost. Rozhoduje slovesný vid, okolní text i styl. Když chceme oznámit děj probíhající právě teď, můžeme říct například „Pracovník právě zavírá dveře“.",
+      "zh": "结果状态又有 zavřeny 与 zavřené，两者日常含义可能重叠。不能说前者永远正在关、后者永远永久属性。要看体、语境、风格；要表达正关门可直接说工作人员正在关。",
+      "note_zh": ""
+    },
+    {
+      "id": "s05",
+      "cs": "Nové oznámení jsme proto rozdělili na stav a odpovědnost: „Žádosti přijaté do pondělí byly zkontrolovány. Klíče připraví paní Dvořáková do čtvrtka. Jakmile bude vaše žádost vyřízena, pošleme vám zprávu.“ Čtenář teď ví, kterou skupinu se podařilo zkontrolovat, kdo provede další krok a jak dostane informaci. Nezaměňuje samotnou kontrolu s konečným vydáním klíče ani příslib budoucí činnosti s hotovým výsledkem.",
+      "zh": "新公告分状态与责任：周一前收到的申请已核查；德沃夏科娃女士周四前备钥匙；你的申请完成即通知。读者知道已查哪批、谁做下一步、怎么得消息，不把核查等同发钥匙或把承诺当完成。",
+      "note_zh": ""
+    },
+    {
+      "id": "s06",
+      "cs": "Pasivní vyjádření tedy nemusí být ani špatné, ani automaticky odbornější. Hodí se, když je důležitý předmět, postup nebo výsledek a činitel je známý či nepodstatný. Nevhodné je tehdy, když zakrývá informaci, kterou příjemce potřebuje k jednání. Při psaní se proto ptáme, co má čtenář sledovat: člověka, proces, dokončený krok, nebo trvající stav. Podle toho volíme konstrukci i potřebné doplnění.",
+      "zh": "被动并非不好，也不自动更专业。适于重点在对象、流程或结果、施事已知或不重要；若遮住行动必需的责任信息则不合适。写作先判断读者应跟人、过程、完成步骤还是状态，再选结构。",
+      "note_zh": ""
+    }
+  ],
+  "grammar": [
+    {
+      "id": "passive-forms",
+      "rule_zh": "把对象放到句首时，被动可以保持重点，但词尾仍要一致。",
+      "detail_zh": "迂回被动 být + 被动分词：žádost byla vyřízena；žádosti byly vyřízeny；dopis byl odeslán；data byla zkontrolována。需要说明施事可用第七格，如 správkyní。反身被动 se+动词，如 Žádosti se přijímají online，常不直接说施事。",
+      "examples": [
+        {
+          "cs": "Technik zkontroloval zařízení.",
+          "zh": "技术员检查了设备。",
+          "note_zh": ""
+        },
+        {
+          "cs": "Zařízení bylo zkontrolováno technikem.",
+          "zh": "设备由技术员检查了。",
+          "note_zh": ""
+        }
+      ],
+      "pitfalls": [
+        "不能把所有 se 结构都当被动。",
+        "反身被动不要生硬塞入同样的工具格施事。"
+      ],
+      "exceptions": [
+        "有些动词或意义不自然形成被动；不能自动转换所有句子。"
+      ],
+      "term": "主动与被动结构"
+    },
+    {
+      "id": "passive-process-state",
+      "rule_zh": "是否完成要把体、时间、范围一起看。",
+      "detail_zh": "vyřizovány 是过程视角；vyřízeny 为结果视角。短分词和长形容词的作用存在重叠，不能按拼写末尾机械判现在动作/永久状态。部分完成要给范围：žádosti přijaté do pondělí。",
+      "examples": [
+        {
+          "cs": "Dopis se právě píše.",
+          "zh": "信正在写。",
+          "note_zh": ""
+        },
+        {
+          "cs": "Dopis je napsán.",
+          "zh": "信已写好。",
+          "note_zh": ""
+        }
+      ],
+      "pitfalls": [
+        "“已检查”不自动等于后续“已发出”。"
+      ],
+      "exceptions": [
+        "日常口语长形容词可承担结果说明，正式写作有不同偏好，不一律判错。"
+      ],
+      "term": "被动态、体与结果状态"
+    }
+  ],
+  "vocabulary": [
+    {
+      "lemma": "vyřizovat",
+      "pos": "动词，未完成体",
+      "forms": "vyřizuje; vyřizoval",
+      "meaning_zh": "处理",
+      "collocation": "vyřizovat žádosti",
+      "example_cs": "Žádosti vyřizujeme postupně.",
+      "example_zh": "依次处理申请。",
+      "confusion_zh": "完成对应 vyřídit。"
+    },
+    {
+      "lemma": "činitel",
+      "pos": "名词，阳性有生/术语按义",
+      "forms": "činitele",
+      "meaning_zh": "施事、因素",
+      "collocation": "uvést činitele děje",
+      "example_cs": "Věta neuvádí činitele děje.",
+      "example_zh": "句子未指明动作执行者。",
+      "confusion_zh": "语法术语不是官方职位。"
+    },
+    {
+      "lemma": "převzetí",
+      "pos": "名词，中性",
+      "forms": "převzetí",
+      "meaning_zh": "领取、接收",
+      "collocation": "připraveno k převzetí",
+      "example_cs": "Klíč je připraven k převzetí.",
+      "example_zh": "钥匙可以领取。",
+      "confusion_zh": "不代表已被领走。"
+    },
+    {
+      "lemma": "postupně",
+      "pos": "副词",
+      "forms": "不变化",
+      "meaning_zh": "逐步、依次",
+      "collocation": "vyřizovat postupně",
+      "example_cs": "Požadavky řešíme postupně.",
+      "example_zh": "依次处理需求。",
+      "confusion_zh": "没有具体截止承诺。"
+    }
+  ],
+  "listening": {
+    "script": [
+      {
+        "cs": "Žádosti přijaté minulý týden už byly zkontrolovány. Novější žádosti se teprve kontrolují. Klíče k první skupině připraví správkyně zítra. Až budou připraveny k převzetí, dostanete samostatnou zprávu. Prosíme, nechoďte pro ně před potvrzením.",
+        "zh": "上周申请已核查，新申请仍查。第一批钥匙管理员明天备；能领时单独通知，确认前别来取。",
+        "note_zh": ""
+      }
+    ],
+    "focus_zh": "画三阶段：已查→将备→通知领取，不把任意一项等同领取完成。",
+    "source": "original"
+  },
+  "pronunciation": {
+    "focus_zh": "注意 vyřizovány 比 vyřízeny 多过程词干音节；两词长元音不要因快读丢失。",
+    "contrast": [
+      {
+        "a": "vyřizovány",
+        "b": "vyřízeny",
+        "note_zh": "过程与结果词干不同，不能只听尾音。"
+      }
+    ],
+    "task_zh": "先听一句，再按意义块跟读；录下自然语速版本，对照长短元音、句中停顿和关键词。不要追求机械加速。"
+  },
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "“Žádosti jsou vyřizovány”表达什么？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "所有申请完成"
+        },
+        {
+          "id": "b",
+          "text": "申请正在依次处理的过程"
+        },
+        {
+          "id": "c",
+          "text": "所有钥匙已领走"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "过程视角，不保证每件已完。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U05-L01-E01",
+      "knowledge_points": [
+        "passive-forms",
+        "passive-process-state"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "什么情况下应补主动责任人？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "对方需要知道谁执行下一步"
+        },
+        {
+          "id": "b",
+          "text": "任何时候都不可被动"
+        },
+        {
+          "id": "c",
+          "text": "施事完全无关时"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "信息需要决定表达。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U05-L01-E02",
+      "knowledge_points": [
+        "passive-forms",
+        "passive-process-state"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "听：哪些已完成核查？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "上周收到的申请"
+        },
+        {
+          "id": "b",
+          "text": "所有新旧申请"
+        },
+        {
+          "id": "c",
+          "text": "所有钥匙"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "范围是 minulý týden。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "listening"
+      ],
+      "error_category": "comprehension",
+      "audio_text_cs": "Žádosti přijaté minulý týden už byly zkontrolovány. Novější žádosti se teprve kontrolují.",
+      "id": "B2-U05-L01-E03",
+      "knowledge_points": [
+        "passive-forms",
+        "passive-process-state"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "单份阴性申请，填被动分词。",
+      "stimulus_cs": "Žádost byla ___. (vyřídit)",
+      "answer": "vyřízena",
+      "accepted_answers": [
+        "vyřízena"
+      ],
+      "explanation_zh": "阴性单数短被动形式。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "B2-U05-L01-E04",
+      "knowledge_points": [
+        "passive-forms",
+        "passive-process-state"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "由技术员检查，填 technik 的形式。",
+      "stimulus_cs": "Zařízení bylo zkontrolováno ___.",
+      "answer": "technikem",
+      "accepted_answers": [
+        "technikem"
+      ],
+      "explanation_zh": "施事用第七格。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "B2-U05-L01-E05",
+      "knowledge_points": [
+        "passive-forms",
+        "passive-process-state"
+      ]
+    },
+    {
+      "type": "correct",
+      "prompt_zh": "修正中性复数 data 的一致。",
+      "stimulus_cs": "Data byly zkontrolovány.",
+      "answer": "Data byla zkontrolována.",
+      "accepted_answers": [
+        "Data byla zkontrolována."
+      ],
+      "explanation_zh": "data 中性复数，助动词与分词一致。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "B2-U05-L01-E06",
+      "knowledge_points": [
+        "passive-forms",
+        "passive-process-state"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt_zh": "先范围再状态。",
+      "stimulus_cs": "byly zkontrolovány. / Žádosti přijaté do pondělí",
+      "options": [
+        "byly zkontrolovány.",
+        "Žádosti přijaté do pondělí"
+      ],
+      "answer": "Žádosti přijaté do pondělí byly zkontrolovány.",
+      "accepted_answers": [
+        "Žádosti přijaté do pondělí byly zkontrolovány."
+      ],
+      "explanation_zh": "范围限定避免误说所有申请。",
+      "scoring_basis": "本题限定句首及语境；不据一个参考语序否定捷语所有语序变体。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "word_order",
+      "id": "B2-U05-L01-E07",
+      "knowledge_points": [
+        "passive-forms",
+        "passive-process-state"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "zavřeny/zavřené 哪项认识准确？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "永远分别等于当前动作/永久状态"
+        },
+        {
+          "id": "b",
+          "text": "语义可重叠，需结合语境"
+        },
+        {
+          "id": "c",
+          "text": "只有一个形式存在"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "官方手册说明倾向和重叠，不可绝对化。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U05-L01-E08",
+      "knowledge_points": [
+        "passive-forms",
+        "passive-process-state"
+      ]
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "用主动和被动各汇报一次同一处理流程，保留责任人。",
+      "stimulus_cs": "",
+      "answer": "Správkyně zkontrolovala žádosti a zítra připraví klíče. Žádosti byly zkontrolovány správkyní; klíče budou připraveny zítra. O možnosti převzetí obyvatele informuje kancelář.",
+      "accepted_answers": [],
+      "explanation_zh": "转换后不能丢掉未来状态。",
+      "rubric": [
+        "结构转换",
+        "责任清楚",
+        "完成与未来区别"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "error_category": "fluency",
+      "id": "B2-U05-L01-E09",
+      "knowledge_points": [
+        "passive-forms",
+        "passive-process-state"
+      ]
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "改写“Věc se řeší”：写范围、当前步骤、负责人和下一次通知条件。",
+      "stimulus_cs": "",
+      "answer": "Žádost číslo 18 byla zkontrolována. Doplnění chybějícího údaje nyní vyřizuje paní Dvořáková. Jakmile obdrží potvrzení, připraví odpověď. O dalším postupu Vás budeme informovat nejpozději v pátek.",
+      "accepted_answers": [],
+      "explanation_zh": "题目是设计具体示例，不冒充已有真实进度。",
+      "rubric": [
+        "范围标识",
+        "责任与步骤",
+        "通知条件明确"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U05-L01-E10",
+      "knowledge_points": [
+        "passive-forms",
+        "passive-process-state"
+      ]
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "对方以为核查完成就可领钥匙，清楚解释阶段。",
+      "stimulus_cs": "",
+      "answer": "Kontrola žádosti už skončila, klíč ale ještě není připraven k převzetí. Správkyně ho připraví zítra a potom vám pošleme potvrzení. Prosím počkejte na tuto zprávu.",
+      "accepted_answers": [],
+      "explanation_zh": "说明可行动的触发条件。",
+      "rubric": [
+        "纠正混淆",
+        "下一步谁做",
+        "何时行动"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "error_category": "fluency",
+      "id": "B2-U05-L01-E11",
+      "knowledge_points": [
+        "passive-forms",
+        "passive-process-state"
+      ]
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "用中文向住户解释“正在处理”“已处理”“可领取”的不同。",
+      "stimulus_cs": "",
+      "answer": "正在处理只表流程进行；已处理表相应申请步骤结束；可领取还需要钥匙准备与通知。必须看公告具体说哪一阶段、哪一批。",
+      "accepted_answers": [],
+      "explanation_zh": "不把三个标签合为完成。",
+      "rubric": [
+        "三阶段",
+        "范围",
+        "不自行承诺时间"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "error_category": "comprehension",
+      "id": "B2-U05-L01-E12",
+      "knowledge_points": [
+        "passive-forms",
+        "passive-process-state"
+      ]
+    }
+  ],
+  "transfer_task": {
+    "prompt_zh": "迁移到维修：设备检测完成、零件待到、师傅安装、测试后通知领取。",
+    "model_answer_cs": "Zařízení bylo zkontrolováno. Na náhradní díl se čeká. Po jeho doručení technik provede opravu a zkoušku. O možnosti převzetí vás budeme informovat.",
+    "rubric": [
+      "过程结果",
+      "责任清楚",
+      "领取触发"
+    ]
+  },
+  "review_links": [
+    "B2-U04-L01"
+  ],
+  "sources": [
+    {
+      "source_id": "LANG01",
+      "url": "https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions",
+      "scope": "按实际能做的任务编排能力，不把CEFR说成官方捷语语法课表",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    },
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?id=420",
+      "scope": "被动分词与形容词、动作和结果状态的表达倾向",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    },
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?id=580",
+      "scope": "se/si的不同功能与反身结构",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    },
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?id=600",
+      "scope": "主语与谓语的性数及有生性一致",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    }
+  ],
+  "content_status": "authored_crosschecked_not_native_reviewed",
+  "quality_notes": [
+    "原创课文和练习；规则按所列来源交叉核查，未获得捷语母语教师逐句审校。",
+    "本课级别属于教材编排判断，不代表官方能力认证。",
+    "听力为原创可合成脚本；真人多说话人、地区口音与录音自然度尚待现场核验。"
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "B2-U05-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--normal.mp3",
+      "slow_file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U05-L01--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Na nástěnce domu se objevilo oznámení: „Žádosti o nové klíče jsou vyřizovány postupně.“ Obyvatelé rozuměli, že zpracování probíhá, ale nevěděli, kdy se dostane na jejich žádost. Jeden soused větu pochopil tak, že všechny žádosti už jsou vyřízeny. Rozdíl mezi probíhajícím procesem a hotovým výsledkem se v krátkém úředním sdělení snadno ztratí, zejména když čtenář sleduje hlavně praktickou otázku, zda už může klíč převzít. Správkyně vysvětlila, že sloveso vyřizovat popisuje činnost, zatímco vyřídit ji představuje jako dokončenou. Věta „Žádosti jsou vyřizovány“ zdůrazňuje průběh; „Žádosti byly vyřízeny“ v daném kontextu oznamuje dokončení. Když chceme sdělit konkrétní stav jedné žádosti, je lepší uvést její označení a další krok. Samotná gramatická forma nenahradí informaci o rozsahu: některé žádosti mohou být hotové, jiné nikoli. Potom jsme porovnali tři formulace. „Správkyně zkontroluje žádost“ uvádí činitele jako podmět. „Žádost bude zkontrolována správkyní“ přesouvá pozornost k žádosti a činitele vyjadřuje sedmým pádem. „Žádosti se kontrolují v kanceláři“ popisuje obvyklý postup bez uvedení konkrétní osoby. Všechny mohou být užitečné, ale nejsou zaměnitelné v každé situaci. Pokud se ptáme, kdo má úkol převzít, poslední věta nám nestačí. U výsledných stavů jsme narazili na další dvojici: „Dveře jsou zavřeny“ a „Dveře jsou zavřené.“ V běžné komunikaci se jejich významy mohou překrývat. Nelze mechanicky tvrdit, že první věta vždy znamená právě probíhající zavírání a druhá vždy trvalou vlastnost. Rozhoduje slovesný vid, okolní text i styl. Když chceme oznámit děj probíhající právě teď, můžeme říct například „Pracovník právě zavírá dveře“. Nové oznámení jsme proto rozdělili na stav a odpovědnost: „Žádosti přijaté do pondělí byly zkontrolovány. Klíče připraví paní Dvořáková do čtvrtka. Jakmile bude vaše žádost vyřízena, pošleme vám zprávu.“ Čtenář teď ví, kterou skupinu se podařilo zkontrolovat, kdo provede další krok a jak dostane informaci. Nezaměňuje samotnou kontrolu s konečným vydáním klíče ani příslib budoucí činnosti s hotovým výsledkem. Pasivní vyjádření tedy nemusí být ani špatné, ani automaticky odbornější. Hodí se, když je důležitý předmět, postup nebo výsledek a činitel je známý či nepodstatný. Nevhodné je tehdy, když zakrývá informaci, kterou příjemce potřebuje k jednání. Při psaní se proto ptáme, co má čtenář sledovat: člověka, proces, dokončený krok, nebo trvající stav. Podle toho volíme konstrukci i potřebné doplnění.",
+      "duration_seconds": 221.90861678004535,
+      "slow_duration_seconds": 249.9699319727891,
+      "sha256": "591869e52022fd4114c68415623671fdb3754446391078ef263a0cf7275bf37d",
+      "slow_sha256": "fb77325309e50cfc01d2cfe3c0e6721ddc6c40bd795efd309f1c383ef6637a41"
+    },
+    {
+      "lesson_id": "B2-U05-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--normal.mp3",
+      "slow_file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U05-L01--2026.10.22.1--text--p0",
+      "asset_id": "B2-U05-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Na nástěnce domu se objevilo oznámení: „Žádosti o nové klíče jsou vyřizovány postupně.“ Obyvatelé rozuměli, že zpracování probíhá, ale nevěděli, kdy se dostane na jejich žádost. Jeden soused větu pochopil tak, že všechny žádosti už jsou vyřízeny. Rozdíl mezi probíhajícím procesem a hotovým výsledkem se v krátkém úředním sdělení snadno ztratí, zejména když čtenář sleduje hlavně praktickou otázku, zda už může klíč převzít.",
+      "start": 0,
+      "end": 38.65555555555556,
+      "slow_start": 0,
+      "slow_end": 43.589795918367344
+    },
+    {
+      "lesson_id": "B2-U05-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--normal.mp3",
+      "slow_file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U05-L01--2026.10.22.1--text--s0",
+      "asset_id": "B2-U05-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Na nástěnce domu se objevilo oznámení: „Žádosti o nové klíče jsou vyřizovány postupně.“",
+      "start": 0,
+      "end": 7.825124716553288,
+      "slow_start": 0,
+      "slow_end": 8.928072562358278
+    },
+    {
+      "lesson_id": "B2-U05-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--normal.mp3",
+      "slow_file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U05-L01--2026.10.22.1--text--s1",
+      "asset_id": "B2-U05-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Obyvatelé rozuměli, že zpracování probíhá, ale nevěděli, kdy se dostane na jejich žádost.",
+      "start": 8.005124716553288,
+      "end": 16.027619047619048,
+      "slow_start": 9.108072562358277,
+      "slow_end": 18.070975056689342
+    },
+    {
+      "lesson_id": "B2-U05-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--normal.mp3",
+      "slow_file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U05-L01--2026.10.22.1--text--s2",
+      "asset_id": "B2-U05-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Jeden soused větu pochopil tak, že všechny žádosti už jsou vyřízeny.",
+      "start": 16.207619047619048,
+      "end": 22.360907029478458,
+      "slow_start": 18.25097505668934,
+      "slow_end": 25.182131519274375
+    },
+    {
+      "lesson_id": "B2-U05-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--normal.mp3",
+      "slow_file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U05-L01--2026.10.22.1--text--s3",
+      "asset_id": "B2-U05-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 3,
+      "paragraph_index": 0,
+      "sentence_index": 3,
+      "text": "Rozdíl mezi probíhajícím procesem a hotovým výsledkem se v krátkém úředním sdělení snadno ztratí, zejména když čtenář sleduje hlavně praktickou otázku, zda už může klíč převzít.",
+      "start": 22.540907029478458,
+      "end": 38.65555555555556,
+      "slow_start": 25.362131519274378,
+      "slow_end": 43.589795918367344
+    },
+    {
+      "lesson_id": "B2-U05-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--normal.mp3",
+      "slow_file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U05-L01--2026.10.22.1--text--p1",
+      "asset_id": "B2-U05-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Správkyně vysvětlila, že sloveso vyřizovat popisuje činnost, zatímco vyřídit ji představuje jako dokončenou. Věta „Žádosti jsou vyřizovány“ zdůrazňuje průběh; „Žádosti byly vyřízeny“ v daném kontextu oznamuje dokončení. Když chceme sdělit konkrétní stav jedné žádosti, je lepší uvést její označení a další krok. Samotná gramatická forma nenahradí informaci o rozsahu: některé žádosti mohou být hotové, jiné nikoli.",
+      "start": 38.83555555555556,
+      "end": 76.16757369614513,
+      "slow_start": 43.76979591836735,
+      "slow_end": 86.2914739229025
+    },
+    {
+      "lesson_id": "B2-U05-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--normal.mp3",
+      "slow_file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U05-L01--2026.10.22.1--text--s4",
+      "asset_id": "B2-U05-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 4,
+      "paragraph_index": 1,
+      "sentence_index": 0,
+      "text": "Správkyně vysvětlila, že sloveso vyřizovat popisuje činnost, zatímco vyřídit ji představuje jako dokončenou.",
+      "start": 38.83555555555556,
+      "end": 48.13514739229025,
+      "slow_start": 43.76979591836735,
+      "slow_end": 54.497414965986394
+    },
+    {
+      "lesson_id": "B2-U05-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--normal.mp3",
+      "slow_file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U05-L01--2026.10.22.1--text--s5",
+      "asset_id": "B2-U05-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 5,
+      "paragraph_index": 1,
+      "sentence_index": 1,
+      "text": "Věta „Žádosti jsou vyřizovány“ zdůrazňuje průběh; „Žádosti byly vyřízeny“ v daném kontextu oznamuje dokončení.",
+      "start": 48.31514739229025,
+      "end": 57.89337868480725,
+      "slow_start": 54.677414965986394,
+      "slow_end": 65.47469387755102
+    },
+    {
+      "lesson_id": "B2-U05-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--normal.mp3",
+      "slow_file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U05-L01--2026.10.22.1--text--s6",
+      "asset_id": "B2-U05-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 6,
+      "paragraph_index": 1,
+      "sentence_index": 2,
+      "text": "Když chceme sdělit konkrétní stav jedné žádosti, je lepší uvést její označení a další krok.",
+      "start": 58.07337868480726,
+      "end": 66.2584126984127,
+      "slow_start": 65.65469387755103,
+      "slow_end": 74.8962358276644
+    },
+    {
+      "lesson_id": "B2-U05-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--normal.mp3",
+      "slow_file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U05-L01--2026.10.22.1--text--s7",
+      "asset_id": "B2-U05-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 7,
+      "paragraph_index": 1,
+      "sentence_index": 3,
+      "text": "Samotná gramatická forma nenahradí informaci o rozsahu: některé žádosti mohou být hotové, jiné nikoli.",
+      "start": 66.4384126984127,
+      "end": 76.16757369614513,
+      "slow_start": 75.0762358276644,
+      "slow_end": 86.2914739229025
+    },
+    {
+      "lesson_id": "B2-U05-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--normal.mp3",
+      "slow_file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U05-L01--2026.10.22.1--text--p2",
+      "asset_id": "B2-U05-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Potom jsme porovnali tři formulace. „Správkyně zkontroluje žádost“ uvádí činitele jako podmět. „Žádost bude zkontrolována správkyní“ přesouvá pozornost k žádosti a činitele vyjadřuje sedmým pádem. „Žádosti se kontrolují v kanceláři“ popisuje obvyklý postup bez uvedení konkrétní osoby. Všechny mohou být užitečné, ale nejsou zaměnitelné v každé situaci. Pokud se ptáme, kdo má úkol převzít, poslední věta nám nestačí.",
+      "start": 76.34757369614512,
+      "end": 113.3778231292517,
+      "slow_start": 86.47147392290249,
+      "slow_end": 127.84385487528344
+    },
+    {
+      "lesson_id": "B2-U05-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--normal.mp3",
+      "slow_file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U05-L01--2026.10.22.1--text--s8",
+      "asset_id": "B2-U05-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 8,
+      "paragraph_index": 2,
+      "sentence_index": 0,
+      "text": "Potom jsme porovnali tři formulace.",
+      "start": 76.34757369614512,
+      "end": 79.41260770975056,
+      "slow_start": 86.47147392290249,
+      "slow_end": 89.97768707482993
+    },
+    {
+      "lesson_id": "B2-U05-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--normal.mp3",
+      "slow_file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U05-L01--2026.10.22.1--text--s9",
+      "asset_id": "B2-U05-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 9,
+      "paragraph_index": 2,
+      "sentence_index": 1,
+      "text": "„Správkyně zkontroluje žádost“ uvádí činitele jako podmět.",
+      "start": 79.59260770975057,
+      "end": 84.7358276643991,
+      "slow_start": 90.15768707482994,
+      "slow_end": 95.86979591836734
+    },
+    {
+      "lesson_id": "B2-U05-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--normal.mp3",
+      "slow_file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U05-L01--2026.10.22.1--text--s10",
+      "asset_id": "B2-U05-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 10,
+      "paragraph_index": 2,
+      "sentence_index": 2,
+      "text": "„Žádost bude zkontrolována správkyní“ přesouvá pozornost k žádosti a činitele vyjadřuje sedmým pádem.",
+      "start": 84.91582766439909,
+      "end": 93.84390022675737,
+      "slow_start": 96.04979591836735,
+      "slow_end": 106.03437641723356
+    },
+    {
+      "lesson_id": "B2-U05-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--normal.mp3",
+      "slow_file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U05-L01--2026.10.22.1--text--s11",
+      "asset_id": "B2-U05-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 11,
+      "paragraph_index": 2,
+      "sentence_index": 3,
+      "text": "„Žádosti se kontrolují v kanceláři“ popisuje obvyklý postup bez uvedení konkrétní osoby.",
+      "start": 94.02390022675738,
+      "end": 101.67487528344671,
+      "slow_start": 106.21437641723357,
+      "slow_end": 114.70126984126985
+    },
+    {
+      "lesson_id": "B2-U05-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--normal.mp3",
+      "slow_file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U05-L01--2026.10.22.1--text--s12",
+      "asset_id": "B2-U05-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 12,
+      "paragraph_index": 2,
+      "sentence_index": 4,
+      "text": "Všechny mohou být užitečné, ale nejsou zaměnitelné v každé situaci.",
+      "start": 101.85487528344672,
+      "end": 107.56698412698412,
+      "slow_start": 114.88126984126984,
+      "slow_end": 121.41768707482993
+    },
+    {
+      "lesson_id": "B2-U05-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--normal.mp3",
+      "slow_file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U05-L01--2026.10.22.1--text--s13",
+      "asset_id": "B2-U05-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 13,
+      "paragraph_index": 2,
+      "sentence_index": 5,
+      "text": "Pokud se ptáme, kdo má úkol převzít, poslední věta nám nestačí.",
+      "start": 107.74698412698413,
+      "end": 113.3778231292517,
+      "slow_start": 121.59768707482993,
+      "slow_end": 127.84385487528344
+    },
+    {
+      "lesson_id": "B2-U05-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--normal.mp3",
+      "slow_file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U05-L01--2026.10.22.1--text--p3",
+      "asset_id": "B2-U05-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "U výsledných stavů jsme narazili na další dvojici: „Dveře jsou zavřeny“ a „Dveře jsou zavřené.“ V běžné komunikaci se jejich významy mohou překrývat. Nelze mechanicky tvrdit, že první věta vždy znamená právě probíhající zavírání a druhá vždy trvalou vlastnost. Rozhoduje slovesný vid, okolní text i styl. Když chceme oznámit děj probíhající právě teď, můžeme říct například „Pracovník právě zavírá dveře“.",
+      "start": 113.5578231292517,
+      "end": 149.8972335600907,
+      "slow_start": 128.02385487528343,
+      "slow_end": 168.96081632653062
+    },
+    {
+      "lesson_id": "B2-U05-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--normal.mp3",
+      "slow_file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U05-L01--2026.10.22.1--text--s14",
+      "asset_id": "B2-U05-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 14,
+      "paragraph_index": 3,
+      "sentence_index": 0,
+      "text": "U výsledných stavů jsme narazili na další dvojici: „Dveře jsou zavřeny“ a „Dveře jsou zavřené.“",
+      "start": 113.5578231292517,
+      "end": 121.37133786848072,
+      "slow_start": 128.02385487528343,
+      "slow_end": 136.81260770975058
+    },
+    {
+      "lesson_id": "B2-U05-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--normal.mp3",
+      "slow_file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U05-L01--2026.10.22.1--text--s15",
+      "asset_id": "B2-U05-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 15,
+      "paragraph_index": 3,
+      "sentence_index": 1,
+      "text": "V běžné komunikaci se jejich významy mohou překrývat.",
+      "start": 121.55133786848073,
+      "end": 125.87024943310658,
+      "slow_start": 136.99260770975056,
+      "slow_end": 141.89201814058956
+    },
+    {
+      "lesson_id": "B2-U05-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--normal.mp3",
+      "slow_file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U05-L01--2026.10.22.1--text--s16",
+      "asset_id": "B2-U05-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 16,
+      "paragraph_index": 3,
+      "sentence_index": 2,
+      "text": "Nelze mechanicky tvrdit, že první věta vždy znamená právě probíhající zavírání a druhá vždy trvalou vlastnost.",
+      "start": 126.05024943310657,
+      "end": 135.95356009070295,
+      "slow_start": 142.07201814058956,
+      "slow_end": 153.25242630385486
+    },
+    {
+      "lesson_id": "B2-U05-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--normal.mp3",
+      "slow_file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U05-L01--2026.10.22.1--text--s17",
+      "asset_id": "B2-U05-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 17,
+      "paragraph_index": 3,
+      "sentence_index": 3,
+      "text": "Rozhoduje slovesný vid, okolní text i styl.",
+      "start": 136.13356009070296,
+      "end": 140.0461224489796,
+      "slow_start": 153.43242630385487,
+      "slow_end": 157.83260770975056
+    },
+    {
+      "lesson_id": "B2-U05-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--normal.mp3",
+      "slow_file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U05-L01--2026.10.22.1--text--s18",
+      "asset_id": "B2-U05-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 18,
+      "paragraph_index": 3,
+      "sentence_index": 4,
+      "text": "Když chceme oznámit děj probíhající právě teď, můžeme říct například „Pracovník právě zavírá dveře“.",
+      "start": 140.2261224489796,
+      "end": 149.8972335600907,
+      "slow_start": 158.01260770975057,
+      "slow_end": 168.96081632653062
+    },
+    {
+      "lesson_id": "B2-U05-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--normal.mp3",
+      "slow_file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U05-L01--2026.10.22.1--text--p4",
+      "asset_id": "B2-U05-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 4,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Nové oznámení jsme proto rozdělili na stav a odpovědnost: „Žádosti přijaté do pondělí byly zkontrolovány. Klíče připraví paní Dvořáková do čtvrtka. Jakmile bude vaše žádost vyřízena, pošleme vám zprávu.“ Čtenář teď ví, kterou skupinu se podařilo zkontrolovat, kdo provede další krok a jak dostane informaci. Nezaměňuje samotnou kontrolu s konečným vydáním klíče ani příslib budoucí činnosti s hotovým výsledkem.",
+      "start": 150.0772335600907,
+      "end": 186.40503401360544,
+      "slow_start": 169.14081632653063,
+      "slow_end": 209.96167800453514
+    },
+    {
+      "lesson_id": "B2-U05-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--normal.mp3",
+      "slow_file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U05-L01--2026.10.22.1--text--s19",
+      "asset_id": "B2-U05-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 19,
+      "paragraph_index": 4,
+      "sentence_index": 0,
+      "text": "Nové oznámení jsme proto rozdělili na stav a odpovědnost: „Žádosti přijaté do pondělí byly zkontrolovány.",
+      "start": 150.0772335600907,
+      "end": 159.12140589569162,
+      "slow_start": 169.14081632653063,
+      "slow_end": 179.52013605442176
+    },
+    {
+      "lesson_id": "B2-U05-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--normal.mp3",
+      "slow_file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U05-L01--2026.10.22.1--text--s20",
+      "asset_id": "B2-U05-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 20,
+      "paragraph_index": 4,
+      "sentence_index": 1,
+      "text": "Klíče připraví paní Dvořáková do čtvrtka.",
+      "start": 159.3014058956916,
+      "end": 162.93532879818594,
+      "slow_start": 179.70013605442176,
+      "slow_end": 183.87972789115645
+    },
+    {
+      "lesson_id": "B2-U05-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--normal.mp3",
+      "slow_file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U05-L01--2026.10.22.1--text--s21",
+      "asset_id": "B2-U05-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 21,
+      "paragraph_index": 4,
+      "sentence_index": 2,
+      "text": "Jakmile bude vaše žádost vyřízena, pošleme vám zprávu.“",
+      "start": 163.11532879818594,
+      "end": 168.20049886621314,
+      "slow_start": 184.05972789115646,
+      "slow_end": 189.41192743764174
+    },
+    {
+      "lesson_id": "B2-U05-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--normal.mp3",
+      "slow_file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U05-L01--2026.10.22.1--text--s22",
+      "asset_id": "B2-U05-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 22,
+      "paragraph_index": 4,
+      "sentence_index": 3,
+      "text": "Čtenář teď ví, kterou skupinu se podařilo zkontrolovat, kdo provede další krok a jak dostane informaci.",
+      "start": 168.38049886621314,
+      "end": 177.0995918367347,
+      "slow_start": 189.59192743764171,
+      "slow_end": 199.26303854875283
+    },
+    {
+      "lesson_id": "B2-U05-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--normal.mp3",
+      "slow_file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U05-L01--2026.10.22.1--text--s23",
+      "asset_id": "B2-U05-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 23,
+      "paragraph_index": 4,
+      "sentence_index": 4,
+      "text": "Nezaměňuje samotnou kontrolu s konečným vydáním klíče ani příslib budoucí činnosti s hotovým výsledkem.",
+      "start": 177.27959183673468,
+      "end": 186.40503401360544,
+      "slow_start": 199.44303854875284,
+      "slow_end": 209.96167800453514
+    },
+    {
+      "lesson_id": "B2-U05-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--normal.mp3",
+      "slow_file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U05-L01--2026.10.22.1--text--p5",
+      "asset_id": "B2-U05-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 5,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Pasivní vyjádření tedy nemusí být ani špatné, ani automaticky odbornější. Hodí se, když je důležitý předmět, postup nebo výsledek a činitel je známý či nepodstatný. Nevhodné je tehdy, když zakrývá informaci, kterou příjemce potřebuje k jednání. Při psaní se proto ptáme, co má čtenář sledovat: člověka, proces, dokončený krok, nebo trvající stav. Podle toho volíme konstrukci i potřebné doplnění.",
+      "start": 186.58503401360545,
+      "end": 221.72861678004534,
+      "slow_start": 210.14167800453515,
+      "slow_end": 249.7899319727891
+    },
+    {
+      "lesson_id": "B2-U05-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--normal.mp3",
+      "slow_file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U05-L01--2026.10.22.1--text--s24",
+      "asset_id": "B2-U05-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 24,
+      "paragraph_index": 5,
+      "sentence_index": 0,
+      "text": "Pasivní vyjádření tedy nemusí být ani špatné, ani automaticky odbornější.",
+      "start": 186.58503401360545,
+      "end": 193.37687074829932,
+      "slow_start": 210.14167800453515,
+      "slow_end": 217.79265306122448
+    },
+    {
+      "lesson_id": "B2-U05-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--normal.mp3",
+      "slow_file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U05-L01--2026.10.22.1--text--s25",
+      "asset_id": "B2-U05-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 25,
+      "paragraph_index": 5,
+      "sentence_index": 1,
+      "text": "Hodí se, když je důležitý předmět, postup nebo výsledek a činitel je známý či nepodstatný.",
+      "start": 193.55687074829933,
+      "end": 201.25428571428571,
+      "slow_start": 217.9726530612245,
+      "slow_end": 226.71496598639456
+    },
+    {
+      "lesson_id": "B2-U05-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--normal.mp3",
+      "slow_file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U05-L01--2026.10.22.1--text--s26",
+      "asset_id": "B2-U05-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 26,
+      "paragraph_index": 5,
+      "sentence_index": 2,
+      "text": "Nevhodné je tehdy, když zakrývá informaci, kterou příjemce potřebuje k jednání.",
+      "start": 201.43428571428572,
+      "end": 207.90104308390022,
+      "slow_start": 226.89496598639457,
+      "slow_end": 234.18603174603174
+    },
+    {
+      "lesson_id": "B2-U05-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--normal.mp3",
+      "slow_file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U05-L01--2026.10.22.1--text--s27",
+      "asset_id": "B2-U05-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 27,
+      "paragraph_index": 5,
+      "sentence_index": 3,
+      "text": "Při psaní se proto ptáme, co má čtenář sledovat: člověka, proces, dokončený krok, nebo trvající stav.",
+      "start": 208.08104308390023,
+      "end": 217.53156462585034,
+      "slow_start": 234.36603174603175,
+      "slow_end": 245.0239909297052
+    },
+    {
+      "lesson_id": "B2-U05-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--normal.mp3",
+      "slow_file": "audio/files/B2-U05-L01--2026.10.22.1--text--84d5e5b052--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U05-L01--2026.10.22.1--text--s28",
+      "asset_id": "B2-U05-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 28,
+      "paragraph_index": 5,
+      "sentence_index": 4,
+      "text": "Podle toho volíme konstrukci i potřebné doplnění.",
+      "start": 217.71156462585034,
+      "end": 221.72861678004534,
+      "slow_start": 245.2039909297052,
+      "slow_end": 249.7899319727891
+    },
+    {
+      "lesson_id": "B2-U05-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U05-L01--2026.10.22.1--listening--5fb3284090--normal.mp3",
+      "slow_file": "audio/files/B2-U05-L01--2026.10.22.1--listening--5fb3284090--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U05-L01--2026.10.22.1--listening",
+      "role": "listening-full",
+      "index": 0,
+      "text": "Žádosti přijaté minulý týden už byly zkontrolovány. Novější žádosti se teprve kontrolují. Klíče k první skupině připraví správkyně zítra. Až budou připraveny k převzetí, dostanete samostatnou zprávu. Prosíme, nechoďte pro ně před potvrzením.",
+      "duration_seconds": 21.49609977324263,
+      "slow_duration_seconds": 24.39859410430839,
+      "sha256": "c91538a3fda3a675ff4fd9214a1ea01c97d12581bf9bef6dd1ba129a4a2ed41f",
+      "slow_sha256": "6c1f9d0674f7f6eb630451a9e3c82ce033a4e24f0a32ecc08292d80e948c57b9"
+    },
+    {
+      "lesson_id": "B2-U05-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U05-L01--2026.10.22.1--listening--5fb3284090--normal.mp3",
+      "slow_file": "audio/files/B2-U05-L01--2026.10.22.1--listening--5fb3284090--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U05-L01--2026.10.22.1--listening--p0",
+      "asset_id": "B2-U05-L01--2026.10.22.1--listening",
+      "role": "listening",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Žádosti přijaté minulý týden už byly zkontrolovány. Novější žádosti se teprve kontrolují. Klíče k první skupině připraví správkyně zítra. Až budou připraveny k převzetí, dostanete samostatnou zprávu. Prosíme, nechoďte pro ně před potvrzením.",
+      "start": 0,
+      "end": 21.31609977324263,
+      "slow_start": 0,
+      "slow_end": 24.21859410430839
+    },
+    {
+      "lesson_id": "B2-U05-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U05-L01--2026.10.22.1--vocabulary--c319c381be--normal.mp3",
+      "slow_file": "audio/files/B2-U05-L01--2026.10.22.1--vocabulary--c319c381be--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U05-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary-full",
+      "index": 0,
+      "text": "Žádosti vyřizujeme postupně. Věta neuvádí činitele děje. Klíč je připraven k převzetí. Požadavky řešíme postupně.",
+      "duration_seconds": 10.646530612244899,
+      "slow_duration_seconds": 11.923628117913832,
+      "sha256": "2d3e70626aaecc97220c12ad9b80213e36c638aeb0c978ed562d36b28d55d2e1",
+      "slow_sha256": "cf240135afaa5dbcefb2e2cde3463dbbb65cec73b3ce1fa61f8e0e1d1840af5d"
+    },
+    {
+      "lesson_id": "B2-U05-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U05-L01--2026.10.22.1--vocabulary--c319c381be--normal.mp3",
+      "slow_file": "audio/files/B2-U05-L01--2026.10.22.1--vocabulary--c319c381be--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U05-L01--2026.10.22.1--vocabulary--p0",
+      "asset_id": "B2-U05-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Žádosti vyřizujeme postupně.",
+      "start": 0,
+      "end": 2.5425850340136056,
+      "slow_start": 0,
+      "slow_end": 2.8328344671201813
+    },
+    {
+      "lesson_id": "B2-U05-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U05-L01--2026.10.22.1--vocabulary--c319c381be--normal.mp3",
+      "slow_file": "audio/files/B2-U05-L01--2026.10.22.1--vocabulary--c319c381be--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U05-L01--2026.10.22.1--vocabulary--p1",
+      "asset_id": "B2-U05-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Věta neuvádí činitele děje.",
+      "start": 2.7225850340136053,
+      "end": 5.102630385487529,
+      "slow_start": 3.0128344671201814,
+      "slow_end": 5.787619047619048
+    },
+    {
+      "lesson_id": "B2-U05-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U05-L01--2026.10.22.1--vocabulary--c319c381be--normal.mp3",
+      "slow_file": "audio/files/B2-U05-L01--2026.10.22.1--vocabulary--c319c381be--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U05-L01--2026.10.22.1--vocabulary--p2",
+      "asset_id": "B2-U05-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Klíč je připraven k převzetí.",
+      "start": 5.282630385487528,
+      "end": 7.84843537414966,
+      "slow_start": 5.967619047619047,
+      "slow_end": 8.835283446712019
+    },
+    {
+      "lesson_id": "B2-U05-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U05-L01--2026.10.22.1--vocabulary--c319c381be--normal.mp3",
+      "slow_file": "audio/files/B2-U05-L01--2026.10.22.1--vocabulary--c319c381be--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U05-L01--2026.10.22.1--vocabulary--p3",
+      "asset_id": "B2-U05-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Požadavky řešíme postupně.",
+      "start": 8.02843537414966,
+      "end": 10.466530612244897,
+      "slow_start": 9.015283446712019,
+      "slow_end": 11.743628117913833
+    },
+    {
+      "lesson_id": "B2-U05-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U05-L01--2026.10.22.1--exercises--ec3ca3fd1e--normal.mp3",
+      "slow_file": "audio/files/B2-U05-L01--2026.10.22.1--exercises--ec3ca3fd1e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U05-L01--2026.10.22.1--exercises",
+      "role": "exercises-full",
+      "index": 0,
+      "text": "Žádosti přijaté minulý týden už byly zkontrolovány. Novější žádosti se teprve kontrolují.",
+      "duration_seconds": 8.428934240362812,
+      "slow_duration_seconds": 9.322902494331066,
+      "sha256": "5cd927208a4107b18e48dbbff48c89464577d5195dfd13936e1b4a908ef24fb3",
+      "slow_sha256": "cd9a78b1404987b524d475332efc7d8af7e7e0641ed68c23cd200f338f3ed35c"
+    },
+    {
+      "lesson_id": "B2-U05-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U05-L01--2026.10.22.1--exercises--ec3ca3fd1e--normal.mp3",
+      "slow_file": "audio/files/B2-U05-L01--2026.10.22.1--exercises--ec3ca3fd1e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U05-L01--2026.10.22.1--exercises--p0",
+      "asset_id": "B2-U05-L01--2026.10.22.1--exercises",
+      "role": "exercise",
+      "index": 0,
+      "exercise_id": "B2-U05-L01-E03",
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Žádosti přijaté minulý týden už byly zkontrolovány. Novější žádosti se teprve kontrolují.",
+      "start": 0,
+      "end": 8.248934240362813,
+      "slow_start": 0,
+      "slow_end": 9.142902494331066
+    },
+    {
+      "lesson_id": "B2-U05-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U05-L01--2026.10.22.1--contrasts--bd0535ed71--normal.mp3",
+      "slow_file": "audio/files/B2-U05-L01--2026.10.22.1--contrasts--bd0535ed71--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U05-L01--2026.10.22.1--contrasts",
+      "role": "contrasts-full",
+      "index": 0,
+      "text": "vyřizovány. vyřízeny.",
+      "duration_seconds": 2.1536961451247167,
+      "slow_duration_seconds": 2.269795918367347,
+      "sha256": "bcc27722cac0c022c6f4faffd6b6d1a24c8cfe819c166bb381abef2a88703e8c",
+      "slow_sha256": "b23d25391290949b258705bbdc5ada0b86b44bf5f7e4913b9c099e39abf03de9"
+    },
+    {
+      "lesson_id": "B2-U05-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B2-U05-L01--2026.10.22.1--contrasts--bd0535ed71--normal.mp3",
+      "slow_file": "audio/files/B2-U05-L01--2026.10.22.1--contrasts--bd0535ed71--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B2-U05-L01--2026.10.22.1--contrasts--p0",
+      "asset_id": "B2-U05-L01--2026.10.22.1--contrasts",
+      "role": "contrast",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "vyřizovány. vyřízeny.",
+      "start": 0,
+      "end": 1.9736961451247166,
+      "slow_start": 0,
+      "slow_end": 2.089795918367347
+    }
+  ]
+}

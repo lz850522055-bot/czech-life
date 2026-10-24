@@ -1,0 +1,75 @@
+{
+  "id": "B1-U04-CHECK--2026.10.22.1--text",
+  "lesson_id": "B1-U04-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Kurz se koná online, protože se opravuje učebna. Odkaz pošleme večer, aby se každý mohl připojit. Přestože se mění forma výuky, cena zůstává stejná.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Kurz se koná online, protože se opravuje učebna.",
+        "Odkaz pošleme večer, aby se každý mohl připojit.",
+        "Přestože se mění forma výuky, cena zůstává stejná."
+      ]
+    }
+  ],
+  "text_sha256": "200dbe8f9f6a49072d4da4170ac8e7f29ba5a4e65cde35f582d766dc02ddcdec",
+  "source_file": "content/assessments/B1-U04.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U04-CHECK--2026.10.22.1--text--200dbe8f9f--normal.mp3",
+  "slow_file": "content/audio/files/B1-U04-CHECK--2026.10.22.1--text--200dbe8f9f--slow.mp3",
+  "duration_seconds": 13.752154195011338,
+  "slow_duration_seconds": 15.423990929705216,
+  "cues": [
+    {
+      "text": "Kurz se koná online, protože se opravuje učebna. Odkaz pošleme večer, aby se každý mohl připojit. Přestože se mění forma výuky, cena zůstává stejná.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Kurz se koná online, protože se opravuje učebna.",
+        "Odkaz pošleme večer, aby se každý mohl připojit.",
+        "Přestože se mění forma výuky, cena zůstává stejná."
+      ],
+      "start": 0.0,
+      "end": 13.572154195011338,
+      "sentences": [
+        {
+          "text": "Kurz se koná online, protože se opravuje učebna.",
+          "start": 0.0,
+          "end": 4.017052154195011,
+          "slow_start": 0.0,
+          "slow_end": 4.504671201814059
+        },
+        {
+          "text": "Odkaz pošleme večer, aby se každý mohl připojit.",
+          "start": 4.197052154195012,
+          "end": 8.73655328798186,
+          "slow_start": 4.684671201814059,
+          "slow_end": 9.781451247165533
+        },
+        {
+          "text": "Přestože se mění forma výuky, cena zůstává stejná.",
+          "start": 8.91655328798186,
+          "end": 13.572154195011338,
+          "slow_start": 9.961451247165533,
+          "slow_end": 15.243990929705216
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 15.243990929705216
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "16299bcc4121b0a3ac656a99252c8a5c2ca333a069b726955fca530b37610964",
+    "slow": "9e3d20c4c7bba49284d76da0478a146832d754bdcf76a22c04da371dac54f73a"
+  }
+}

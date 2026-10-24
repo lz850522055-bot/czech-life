@@ -1,0 +1,474 @@
+{
+  "id": "C1-U01-L01--2026.10.22.1--text",
+  "lesson_id": "C1-U01-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Když se v městské čtvrti začalo mluvit o přestavbě staré tržnice, spor se rychle zúžil na zdánlivě jednoduchou otázku: má město podporovat rozvoj, nebo chránit minulost? Takové rozdělení však zakrývalo podstatnější problém. Nikdo přesně neřekl, co se rozvojem myslí, kdo ponese jeho náklady a podle čeho se za několik let pozná, zda byl projekt úspěšný. Účastníci používali stejná slova, ale představovali si za nimi různé věci.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Když se v městské čtvrti začalo mluvit o přestavbě staré tržnice, spor se rychle zúžil na zdánlivě jednoduchou otázku: má město podporovat rozvoj, nebo chránit minulost?",
+        "Takové rozdělení však zakrývalo podstatnější problém.",
+        "Nikdo přesně neřekl, co se rozvojem myslí, kdo ponese jeho náklady a podle čeho se za několik let pozná, zda byl projekt úspěšný.",
+        "Účastníci používali stejná slova, ale představovali si za nimi různé věci."
+      ]
+    },
+    {
+      "text": "Investor předložil vizualizaci světlé budovy s kavárnami a kancelářemi. Zdůraznil, že zanedbaný objekt přestane chátrat a že okolí získá nová pracovní místa. Jeho argument měl určitou váhu; bez investice by se stav domu pravděpodobně dále zhoršoval. Zároveň však počet pracovních míst sám o sobě nevypovídal o tom, zda je budou moci získat místní obyvatelé ani zda nové služby odpovídají jejich potřebám. Příslib přínosu ještě nebyl jeho doložením.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Investor předložil vizualizaci světlé budovy s kavárnami a kancelářemi.",
+        "Zdůraznil, že zanedbaný objekt přestane chátrat a že okolí získá nová pracovní místa.",
+        "Jeho argument měl určitou váhu; bez investice by se stav domu pravděpodobně dále zhoršoval.",
+        "Zároveň však počet pracovních míst sám o sobě nevypovídal o tom, zda je budou moci získat místní obyvatelé ani zda nové služby odpovídají jejich potřebám.",
+        "Příslib přínosu ještě nebyl jeho doložením."
+      ]
+    },
+    {
+      "text": "Prodavačka, která v tržnici pracovala téměř třicet let, namítla, že se z veřejně přístupného místa stane prostor, kde bude pobyt podmíněn spotřebou. Nešlo jí přitom pouze o vlastní stánek. Připomněla, že se zde setkávají lidé, kteří si dražší restauraci nemohou dovolit. Jiný obyvatel jí oponoval, že současná budova neslouží všem stejně dobře: vozíčkář se do některých částí nedostane a večer působí průchod nejistě. Ani zachování stávajícího stavu tedy není rozhodnutí bez následků.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Prodavačka, která v tržnici pracovala téměř třicet let, namítla, že se z veřejně přístupného místa stane prostor, kde bude pobyt podmíněn spotřebou.",
+        "Nešlo jí přitom pouze o vlastní stánek.",
+        "Připomněla, že se zde setkávají lidé, kteří si dražší restauraci nemohou dovolit.",
+        "Jiný obyvatel jí oponoval, že současná budova neslouží všem stejně dobře: vozíčkář se do některých částí nedostane a večer působí průchod nejistě.",
+        "Ani zachování stávajícího stavu tedy není rozhodnutí bez následků."
+      ]
+    },
+    {
+      "text": "Architektka navrhla oddělit otázku vlastnictví od otázky užívání. Soukromě spravovaná budova může podle ní plnit veřejnou funkci, pokud jsou podmínky přístupu jasně stanoveny a dlouhodobě vymahatelné. Naopak samotné obecní vlastnictví nezaručuje, že se v prostoru budou lidé cítit vítáni. Rozhodující by proto neměla být pouze podoba fasády, nýbrž také pravidla provozu: otevírací doba, dostupnost nájmů, možnost posedět bez objednávky a způsob řešení stížností.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Architektka navrhla oddělit otázku vlastnictví od otázky užívání.",
+        "Soukromě spravovaná budova může podle ní plnit veřejnou funkci, pokud jsou podmínky přístupu jasně stanoveny a dlouhodobě vymahatelné.",
+        "Naopak samotné obecní vlastnictví nezaručuje, že se v prostoru budou lidé cítit vítáni.",
+        "Rozhodující by proto neměla být pouze podoba fasády, nýbrž také pravidla provozu: otevírací doba, dostupnost nájmů, možnost posedět bez objednávky a způsob řešení stížností."
+      ]
+    },
+    {
+      "text": "Tím se debata posunula od hesel ke konkrétním závazkům. Místo neurčitého požadavku, aby tržnice zůstala pro všechny, vznikl návrh vyhradit část plochy drobným prodejcům a pravidelně zveřejňovat údaje o obsazenosti. Nevyřešilo se tím vše. Příliš přísné podmínky by mohly investici odradit, příliš volné by naopak ponechaly veřejný přínos pouze na dobré vůli provozovatele. Smyslem jednání proto nebylo odstranit každé riziko, ale určit, která rizika jsou přijatelná a kdo za ně odpovídá.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Tím se debata posunula od hesel ke konkrétním závazkům.",
+        "Místo neurčitého požadavku, aby tržnice zůstala pro všechny, vznikl návrh vyhradit část plochy drobným prodejcům a pravidelně zveřejňovat údaje o obsazenosti.",
+        "Nevyřešilo se tím vše.",
+        "Příliš přísné podmínky by mohly investici odradit, příliš volné by naopak ponechaly veřejný přínos pouze na dobré vůli provozovatele.",
+        "Smyslem jednání proto nebylo odstranit každé riziko, ale určit, která rizika jsou přijatelná a kdo za ně odpovídá."
+      ]
+    },
+    {
+      "text": "Závěrem moderátor požádal účastníky, aby uvedli podmínku, za níž by byli ochotni svůj názor změnit. Tato otázka ukázala rozdíl mezi stanoviskem a pouhou identitou tábora. Kdo dokáže pojmenovat důkaz, který by jej přesvědčil, nemusí být méně rozhodný; spíše přiznává, že jeho rozhodnutí závisí na skutečnosti. Dohoda zatím nevznikla, ale spor už nebyl veden jen o to, kdo má město raději. Začalo se jednat o tom, jak bude město skutečně fungovat.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Závěrem moderátor požádal účastníky, aby uvedli podmínku, za níž by byli ochotni svůj názor změnit.",
+        "Tato otázka ukázala rozdíl mezi stanoviskem a pouhou identitou tábora.",
+        "Kdo dokáže pojmenovat důkaz, který by jej přesvědčil, nemusí být méně rozhodný; spíše přiznává, že jeho rozhodnutí závisí na skutečnosti.",
+        "Dohoda zatím nevznikla, ale spor už nebyl veden jen o to, kdo má město raději.",
+        "Začalo se jednat o tom, jak bude město skutečně fungovat."
+      ]
+    },
+    {
+      "text": "Před dalším setkáním si pracovní skupina připravila tabulku s odlišnými hledisky. U každého návrhu se ptala na přístupnost, náklady, odpovědnost a možnost pozdější úpravy. Nebyl to neutrální stroj na správné rozhodnutí: už výběr hledisek odrážel určité hodnoty. Tabulka však zabránila tomu, aby se jedna varianta posuzovala jen podle výhod a druhá jen podle nevýhod. Zároveň ukázala, kde se účastníci neshodují v údajích a kde mají stejné údaje, ale přikládají jim jinou váhu. Tyto dva druhy sporu vyžadují rozdílný další krok.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Před dalším setkáním si pracovní skupina připravila tabulku s odlišnými hledisky.",
+        "U každého návrhu se ptala na přístupnost, náklady, odpovědnost a možnost pozdější úpravy.",
+        "Nebyl to neutrální stroj na správné rozhodnutí: už výběr hledisek odrážel určité hodnoty.",
+        "Tabulka však zabránila tomu, aby se jedna varianta posuzovala jen podle výhod a druhá jen podle nevýhod.",
+        "Zároveň ukázala, kde se účastníci neshodují v údajích a kde mají stejné údaje, ale přikládají jim jinou váhu.",
+        "Tyto dva druhy sporu vyžadují rozdílný další krok."
+      ]
+    }
+  ],
+  "text_sha256": "ea81516b4861a696047751ec5f8d3e7fcffd3b5a62b4c91d86a33f4999545c51",
+  "source_file": "content/lessons/C1/C1-U01-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U01-L01--2026.10.22.1--text--ea81516b48--normal.mp3",
+  "slow_file": "content/audio/files/C1-U01-L01--2026.10.22.1--text--ea81516b48--slow.mp3",
+  "duration_seconds": 298.09931972789116,
+  "slow_duration_seconds": 336.70249433106574,
+  "cues": [
+    {
+      "text": "Když se v městské čtvrti začalo mluvit o přestavbě staré tržnice, spor se rychle zúžil na zdánlivě jednoduchou otázku: má město podporovat rozvoj, nebo chránit minulost? Takové rozdělení však zakrývalo podstatnější problém. Nikdo přesně neřekl, co se rozvojem myslí, kdo ponese jeho náklady a podle čeho se za několik let pozná, zda byl projekt úspěšný. Účastníci používali stejná slova, ale představovali si za nimi různé věci.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Když se v městské čtvrti začalo mluvit o přestavbě staré tržnice, spor se rychle zúžil na zdánlivě jednoduchou otázku: má město podporovat rozvoj, nebo chránit minulost?",
+        "Takové rozdělení však zakrývalo podstatnější problém.",
+        "Nikdo přesně neřekl, co se rozvojem myslí, kdo ponese jeho náklady a podle čeho se za několik let pozná, zda byl projekt úspěšný.",
+        "Účastníci používali stejná slova, ale představovali si za nimi různé věci."
+      ],
+      "start": 0.0,
+      "end": 38.24920634920635,
+      "sentences": [
+        {
+          "text": "Když se v městské čtvrti začalo mluvit o přestavbě staré tržnice, spor se rychle zúžil na zdánlivě jednoduchou otázku: má město podporovat rozvoj, nebo chránit minulost?",
+          "start": 0.0,
+          "end": 14.895600907029479,
+          "slow_start": 0.0,
+          "slow_end": 16.99700680272109
+        },
+        {
+          "text": "Takové rozdělení však zakrývalo podstatnější problém.",
+          "start": 15.075600907029479,
+          "end": 19.847301587301587,
+          "slow_start": 17.17700680272109,
+          "slow_end": 22.552426303854876
+        },
+        {
+          "text": "Nikdo přesně neřekl, co se rozvojem myslí, kdo ponese jeho náklady a podle čeho se za několik let pozná, zda byl projekt úspěšný.",
+          "start": 20.027301587301586,
+          "end": 31.021950113378686,
+          "slow_start": 22.732426303854876,
+          "slow_end": 35.09705215419501
+        },
+        {
+          "text": "Účastníci používali stejná slova, ale představovali si za nimi různé věci.",
+          "start": 31.201950113378686,
+          "end": 38.24920634920635,
+          "slow_start": 35.27705215419501,
+          "slow_end": 43.07895691609977
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 43.07895691609977
+    },
+    {
+      "text": "Investor předložil vizualizaci světlé budovy s kavárnami a kancelářemi. Zdůraznil, že zanedbaný objekt přestane chátrat a že okolí získá nová pracovní místa. Jeho argument měl určitou váhu; bez investice by se stav domu pravděpodobně dále zhoršoval. Zároveň však počet pracovních míst sám o sobě nevypovídal o tom, zda je budou moci získat místní obyvatelé ani zda nové služby odpovídají jejich potřebám. Příslib přínosu ještě nebyl jeho doložením.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Investor předložil vizualizaci světlé budovy s kavárnami a kancelářemi.",
+        "Zdůraznil, že zanedbaný objekt přestane chátrat a že okolí získá nová pracovní místa.",
+        "Jeho argument měl určitou váhu; bez investice by se stav domu pravděpodobně dále zhoršoval.",
+        "Zároveň však počet pracovních míst sám o sobě nevypovídal o tom, zda je budou moci získat místní obyvatelé ani zda nové služby odpovídají jejich potřebám.",
+        "Příslib přínosu ještě nebyl jeho doložením."
+      ],
+      "start": 38.429206349206346,
+      "end": 79.78412698412698,
+      "sentences": [
+        {
+          "text": "Investor předložil vizualizaci světlé budovy s kavárnami a kancelářemi.",
+          "start": 38.429206349206346,
+          "end": 44.988843537414965,
+          "slow_start": 43.25895691609977,
+          "slow_end": 50.677732426303855
+        },
+        {
+          "text": "Zdůraznil, že zanedbaný objekt přestane chátrat a že okolí získá nová pracovní místa.",
+          "start": 45.168843537414965,
+          "end": 52.86625850340136,
+          "slow_start": 50.857732426303855,
+          "slow_end": 59.5768253968254
+        },
+        {
+          "text": "Jeho argument měl určitou váhu; bez investice by se stav domu pravděpodobně dále zhoršoval.",
+          "start": 53.04625850340136,
+          "end": 61.01070294784581,
+          "slow_start": 59.7568253968254,
+          "slow_end": 68.87065759637188
+        },
+        {
+          "text": "Zároveň však počet pracovních míst sám o sobě nevypovídal o tom, zda je budou moci získat místní obyvatelé ani zda nové služby odpovídají jejich potřebám.",
+          "start": 61.19070294784581,
+          "end": 75.91215419501134,
+          "slow_start": 69.05065759637188,
+          "slow_end": 85.8154648526077
+        },
+        {
+          "text": "Příslib přínosu ještě nebyl jeho doložením.",
+          "start": 76.09215419501133,
+          "end": 79.78412698412698,
+          "slow_start": 85.99546485260771,
+          "slow_end": 90.0473469387755
+        }
+      ],
+      "slow_start": 43.25895691609977,
+      "slow_end": 90.0473469387755
+    },
+    {
+      "text": "Prodavačka, která v tržnici pracovala téměř třicet let, namítla, že se z veřejně přístupného místa stane prostor, kde bude pobyt podmíněn spotřebou. Nešlo jí přitom pouze o vlastní stánek. Připomněla, že se zde setkávají lidé, kteří si dražší restauraci nemohou dovolit. Jiný obyvatel jí oponoval, že současná budova neslouží všem stejně dobře: vozíčkář se do některých částí nedostane a večer působí průchod nejistě. Ani zachování stávajícího stavu tedy není rozhodnutí bez následků.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Prodavačka, která v tržnici pracovala téměř třicet let, namítla, že se z veřejně přístupného místa stane prostor, kde bude pobyt podmíněn spotřebou.",
+        "Nešlo jí přitom pouze o vlastní stánek.",
+        "Připomněla, že se zde setkávají lidé, kteří si dražší restauraci nemohou dovolit.",
+        "Jiný obyvatel jí oponoval, že současná budova neslouží všem stejně dobře: vozíčkář se do některých částí nedostane a večer působí průchod nejistě.",
+        "Ani zachování stávajícího stavu tedy není rozhodnutí bez následků."
+      ],
+      "start": 79.96412698412698,
+      "end": 122.8980045351474,
+      "sentences": [
+        {
+          "text": "Prodavačka, která v tržnici pracovala téměř třicet let, namítla, že se z veřejně přístupného místa stane prostor, kde bude pobyt podmíněn spotřebou.",
+          "start": 79.96412698412698,
+          "end": 92.41002267573697,
+          "slow_start": 90.22734693877551,
+          "slow_end": 104.25219954648526
+        },
+        {
+          "text": "Nešlo jí přitom pouze o vlastní stánek.",
+          "start": 92.59002267573696,
+          "end": 96.04979591836735,
+          "slow_start": 104.43219954648526,
+          "slow_end": 108.26349206349207
+        },
+        {
+          "text": "Připomněla, že se zde setkávají lidé, kteří si dražší restauraci nemohou dovolit.",
+          "start": 96.22979591836734,
+          "end": 102.84748299319727,
+          "slow_start": 108.44349206349206,
+          "slow_end": 115.98997732426304
+        },
+        {
+          "text": "Jiný obyvatel jí oponoval, že současná budova neslouží všem stejně dobře: vozíčkář se do některých částí nedostane a večer působí průchod nejistě.",
+          "start": 103.02748299319728,
+          "end": 116.46022675736961,
+          "slow_start": 116.16997732426304,
+          "slow_end": 131.18167800453514
+        },
+        {
+          "text": "Ani zachování stávajícího stavu tedy není rozhodnutí bez následků.",
+          "start": 116.64022675736962,
+          "end": 122.8980045351474,
+          "slow_start": 131.36167800453515,
+          "slow_end": 139.08231292517007
+        }
+      ],
+      "slow_start": 90.22734693877551,
+      "slow_end": 139.08231292517007
+    },
+    {
+      "text": "Architektka navrhla oddělit otázku vlastnictví od otázky užívání. Soukromě spravovaná budova může podle ní plnit veřejnou funkci, pokud jsou podmínky přístupu jasně stanoveny a dlouhodobě vymahatelné. Naopak samotné obecní vlastnictví nezaručuje, že se v prostoru budou lidé cítit vítáni. Rozhodující by proto neměla být pouze podoba fasády, nýbrž také pravidla provozu: otevírací doba, dostupnost nájmů, možnost posedět bez objednávky a způsob řešení stížností.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Architektka navrhla oddělit otázku vlastnictví od otázky užívání.",
+        "Soukromě spravovaná budova může podle ní plnit veřejnou funkci, pokud jsou podmínky přístupu jasně stanoveny a dlouhodobě vymahatelné.",
+        "Naopak samotné obecní vlastnictví nezaručuje, že se v prostoru budou lidé cítit vítáni.",
+        "Rozhodující by proto neměla být pouze podoba fasády, nýbrž také pravidla provozu: otevírací doba, dostupnost nájmů, možnost posedět bez objednávky a způsob řešení stížností."
+      ],
+      "start": 123.07800453514739,
+      "end": 166.09891156462584,
+      "sentences": [
+        {
+          "text": "Architektka navrhla oddělit otázku vlastnictví od otázky užívání.",
+          "start": 123.07800453514739,
+          "end": 129.31256235827664,
+          "slow_start": 139.26231292517008,
+          "slow_end": 146.30956916099774
+        },
+        {
+          "text": "Soukromě spravovaná budova může podle ní plnit veřejnou funkci, pokud jsou podmínky přístupu jasně stanoveny a dlouhodobě vymahatelné.",
+          "start": 129.49256235827664,
+          "end": 141.18380952380951,
+          "slow_start": 146.48956916099775,
+          "slow_end": 159.8526530612245
+        },
+        {
+          "text": "Naopak samotné obecní vlastnictví nezaručuje, že se v prostoru budou lidé cítit vítáni.",
+          "start": 141.36380952380952,
+          "end": 149.10766439909298,
+          "slow_start": 160.0326530612245,
+          "slow_end": 168.83301587301588
+        },
+        {
+          "text": "Rozhodující by proto neměla být pouze podoba fasády, nýbrž také pravidla provozu: otevírací doba, dostupnost nájmů, možnost posedět bez objednávky a způsob řešení stížností.",
+          "start": 149.28766439909296,
+          "end": 166.09891156462584,
+          "slow_start": 169.01301587301586,
+          "slow_end": 187.90244897959184
+        }
+      ],
+      "slow_start": 139.26231292517008,
+      "slow_end": 187.90244897959184
+    },
+    {
+      "text": "Tím se debata posunula od hesel ke konkrétním závazkům. Místo neurčitého požadavku, aby tržnice zůstala pro všechny, vznikl návrh vyhradit část plochy drobným prodejcům a pravidelně zveřejňovat údaje o obsazenosti. Nevyřešilo se tím vše. Příliš přísné podmínky by mohly investici odradit, příliš volné by naopak ponechaly veřejný přínos pouze na dobré vůli provozovatele. Smyslem jednání proto nebylo odstranit každé riziko, ale určit, která rizika jsou přijatelná a kdo za ně odpovídá.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Tím se debata posunula od hesel ke konkrétním závazkům.",
+        "Místo neurčitého požadavku, aby tržnice zůstala pro všechny, vznikl návrh vyhradit část plochy drobným prodejcům a pravidelně zveřejňovat údaje o obsazenosti.",
+        "Nevyřešilo se tím vše.",
+        "Příliš přísné podmínky by mohly investici odradit, příliš volné by naopak ponechaly veřejný přínos pouze na dobré vůli provozovatele.",
+        "Smyslem jednání proto nebylo odstranit každé riziko, ale určit, která rizika jsou přijatelná a kdo za ně odpovídá."
+      ],
+      "start": 166.27891156462584,
+      "end": 209.27083900226756,
+      "sentences": [
+        {
+          "text": "Tím se debata posunula od hesel ke konkrétním závazkům.",
+          "start": 166.27891156462584,
+          "end": 171.20154195011338,
+          "slow_start": 188.08244897959185,
+          "slow_end": 193.58557823129252
+        },
+        {
+          "text": "Místo neurčitého požadavku, aby tržnice zůstala pro všechny, vznikl návrh vyhradit část plochy drobným prodejcům a pravidelně zveřejňovat údaje o obsazenosti.",
+          "start": 171.3815419501134,
+          "end": 185.37156462585034,
+          "slow_start": 193.76557823129252,
+          "slow_end": 209.764126984127
+        },
+        {
+          "text": "Nevyřešilo se tím vše.",
+          "start": 185.55156462585035,
+          "end": 187.7342403628118,
+          "slow_start": 209.944126984127,
+          "slow_end": 212.3938321995465
+        },
+        {
+          "text": "Příliš přísné podmínky by mohly investici odradit, příliš volné by naopak ponechaly veřejný přínos pouze na dobré vůli provozovatele.",
+          "start": 187.9142403628118,
+          "end": 199.0249886621315,
+          "slow_start": 212.57383219954647,
+          "slow_end": 224.76430839002268
+        },
+        {
+          "text": "Smyslem jednání proto nebylo odstranit každé riziko, ale určit, která rizika jsou přijatelná a kdo za ně odpovídá.",
+          "start": 199.2049886621315,
+          "end": 209.27083900226756,
+          "slow_start": 224.94430839002268,
+          "slow_end": 236.4962358276644
+        }
+      ],
+      "slow_start": 188.08244897959185,
+      "slow_end": 236.4962358276644
+    },
+    {
+      "text": "Závěrem moderátor požádal účastníky, aby uvedli podmínku, za níž by byli ochotni svůj názor změnit. Tato otázka ukázala rozdíl mezi stanoviskem a pouhou identitou tábora. Kdo dokáže pojmenovat důkaz, který by jej přesvědčil, nemusí být méně rozhodný; spíše přiznává, že jeho rozhodnutí závisí na skutečnosti. Dohoda zatím nevznikla, ale spor už nebyl veden jen o to, kdo má město raději. Začalo se jednat o tom, jak bude město skutečně fungovat.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Závěrem moderátor požádal účastníky, aby uvedli podmínku, za níž by byli ochotni svůj názor změnit.",
+        "Tato otázka ukázala rozdíl mezi stanoviskem a pouhou identitou tábora.",
+        "Kdo dokáže pojmenovat důkaz, který by jej přesvědčil, nemusí být méně rozhodný; spíše přiznává, že jeho rozhodnutí závisí na skutečnosti.",
+        "Dohoda zatím nevznikla, ale spor už nebyl veden jen o to, kdo má město raději.",
+        "Začalo se jednat o tom, jak bude město skutečně fungovat."
+      ],
+      "start": 209.45083900226757,
+      "end": 250.26009070294785,
+      "sentences": [
+        {
+          "text": "Závěrem moderátor požádal účastníky, aby uvedli podmínku, za níž by byli ochotni svůj názor změnit.",
+          "start": 209.45083900226757,
+          "end": 219.23804988662133,
+          "slow_start": 236.67623582766439,
+          "slow_end": 247.99596371882086
+        },
+        {
+          "text": "Tato otázka ukázala rozdíl mezi stanoviskem a pouhou identitou tábora.",
+          "start": 219.4180498866213,
+          "end": 226.05895691609976,
+          "slow_start": 248.17596371882087,
+          "slow_end": 255.68761904761905
+        },
+        {
+          "text": "Kdo dokáže pojmenovat důkaz, který by jej přesvědčil, nemusí být méně rozhodný; spíše přiznává, že jeho rozhodnutí závisí na skutečnosti.",
+          "start": 226.23895691609977,
+          "end": 238.3249433106576,
+          "slow_start": 255.86761904761906,
+          "slow_end": 269.3235827664399
+        },
+        {
+          "text": "Dohoda zatím nevznikla, ale spor už nebyl veden jen o to, kdo má město raději.",
+          "start": 238.5049433106576,
+          "end": 245.29678004535148,
+          "slow_start": 269.50358276643993,
+          "slow_end": 277.0500680272109
+        },
+        {
+          "text": "Začalo se jednat o tom, jak bude město skutečně fungovat.",
+          "start": 245.47678004535146,
+          "end": 250.26009070294785,
+          "slow_start": 277.2300680272109,
+          "slow_end": 282.6403174603175
+        }
+      ],
+      "slow_start": 236.67623582766439,
+      "slow_end": 282.6403174603175
+    },
+    {
+      "text": "Před dalším setkáním si pracovní skupina připravila tabulku s odlišnými hledisky. U každého návrhu se ptala na přístupnost, náklady, odpovědnost a možnost pozdější úpravy. Nebyl to neutrální stroj na správné rozhodnutí: už výběr hledisek odrážel určité hodnoty. Tabulka však zabránila tomu, aby se jedna varianta posuzovala jen podle výhod a druhá jen podle nevýhod. Zároveň ukázala, kde se účastníci neshodují v údajích a kde mají stejné údaje, ale přikládají jim jinou váhu. Tyto dva druhy sporu vyžadují rozdílný další krok.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Před dalším setkáním si pracovní skupina připravila tabulku s odlišnými hledisky.",
+        "U každého návrhu se ptala na přístupnost, náklady, odpovědnost a možnost pozdější úpravy.",
+        "Nebyl to neutrální stroj na správné rozhodnutí: už výběr hledisek odrážel určité hodnoty.",
+        "Tabulka však zabránila tomu, aby se jedna varianta posuzovala jen podle výhod a druhá jen podle nevýhod.",
+        "Zároveň ukázala, kde se účastníci neshodují v údajích a kde mají stejné údaje, ale přikládají jim jinou váhu.",
+        "Tyto dva druhy sporu vyžadují rozdílný další krok."
+      ],
+      "start": 250.44009070294786,
+      "end": 297.91931972789115,
+      "sentences": [
+        {
+          "text": "Před dalším setkáním si pracovní skupina připravila tabulku s odlišnými hledisky.",
+          "start": 250.44009070294786,
+          "end": 257.16226757369617,
+          "slow_start": 282.8203174603175,
+          "slow_end": 290.51773242630384
+        },
+        {
+          "text": "U každého návrhu se ptala na přístupnost, náklady, odpovědnost a možnost pozdější úpravy.",
+          "start": 257.3422675736961,
+          "end": 265.190612244898,
+          "slow_start": 290.69773242630384,
+          "slow_end": 299.5561451247166
+        },
+        {
+          "text": "Nebyl to neutrální stroj na správné rozhodnutí: už výběr hledisek odrážel určité hodnoty.",
+          "start": 265.370612244898,
+          "end": 273.7762358276644,
+          "slow_start": 299.73614512471653,
+          "slow_end": 309.18666666666667
+        },
+        {
+          "text": "Tabulka však zabránila tomu, aby se jedna varianta posuzovala jen podle výhod a druhá jen podle nevýhod.",
+          "start": 273.9562358276644,
+          "end": 283.0932879818594,
+          "slow_start": 309.3666666666667,
+          "slow_end": 319.61827664399095
+        },
+        {
+          "text": "Zároveň ukázala, kde se účastníci neshodují v údajích a kde mají stejné údaje, ale přikládají jim jinou váhu.",
+          "start": 283.2732879818594,
+          "end": 293.3855782312925,
+          "slow_start": 319.7982766439909,
+          "slow_end": 331.32698412698414
+        },
+        {
+          "text": "Tyto dva druhy sporu vyžadují rozdílný další krok.",
+          "start": 293.56557823129253,
+          "end": 297.91931972789115,
+          "slow_start": 331.50698412698415,
+          "slow_end": 336.5224943310658
+        }
+      ],
+      "slow_start": 282.8203174603175,
+      "slow_end": 336.5224943310658
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "8596971d816b8cadb2ed0bac318d10858518312ab4936594b9f14c98c619755d",
+    "slow": "8f4e9add88af399e70bd3beb3e9d38e6932f14cabb671c2de530d3ec726f85f4"
+  }
+}

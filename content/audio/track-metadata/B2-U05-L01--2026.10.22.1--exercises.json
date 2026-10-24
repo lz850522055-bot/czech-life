@@ -1,0 +1,68 @@
+{
+  "id": "B2-U05-L01--2026.10.22.1--exercises",
+  "lesson_id": "B2-U05-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B2",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Žádosti přijaté minulý týden už byly zkontrolovány. Novější žádosti se teprve kontrolují.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "B2-U05-L01-E03",
+      "parts": [
+        "Žádosti přijaté minulý týden už byly zkontrolovány.",
+        "Novější žádosti se teprve kontrolují."
+      ]
+    }
+  ],
+  "text_sha256": "ec3ca3fd1e6b6301f8465bfe2801100b785c607d8bd40e62f21cd0891577e2bc",
+  "source_file": "content/lessons/B2/B2-U05-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U05-L01--2026.10.22.1--exercises--ec3ca3fd1e--normal.mp3",
+  "slow_file": "content/audio/files/B2-U05-L01--2026.10.22.1--exercises--ec3ca3fd1e--slow.mp3",
+  "duration_seconds": 8.428934240362812,
+  "slow_duration_seconds": 9.322902494331066,
+  "cues": [
+    {
+      "text": "Žádosti přijaté minulý týden už byly zkontrolovány. Novější žádosti se teprve kontrolují.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "B2-U05-L01-E03",
+      "parts": [
+        "Žádosti přijaté minulý týden už byly zkontrolovány.",
+        "Novější žádosti se teprve kontrolují."
+      ],
+      "start": 0.0,
+      "end": 8.248934240362813,
+      "sentences": [
+        {
+          "text": "Žádosti přijaté minulý týden už byly zkontrolovány.",
+          "start": 0.0,
+          "end": 4.702040816326531,
+          "slow_start": 0.0,
+          "slow_end": 5.23609977324263
+        },
+        {
+          "text": "Novější žádosti se teprve kontrolují.",
+          "start": 4.882040816326531,
+          "end": 8.248934240362813,
+          "slow_start": 5.416099773242631,
+          "slow_end": 9.142902494331066
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 9.142902494331066
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "5cd927208a4107b18e48dbbff48c89464577d5195dfd13936e1b4a908ef24fb3",
+    "slow": "cd9a78b1404987b524d475332efc7d8af7e7e0641ed68c23cd200f338f3ed35c"
+  }
+}

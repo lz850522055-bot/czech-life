@@ -1,0 +1,220 @@
+{
+  "id" : "b8cffcd1-6b03-458b-a9e8-8474fe7cec5a",
+  "uuid" : "b8cffcd1-6b03-458b-a9e8-8474fe7cec5a",
+  "name" : "AudioPSP 24.01: Audio recordings of proceedings of the Chamber of Deputies of the Parliament of the Czech Republic",
+  "handle" : "11234/1-5404",
+  "metadata" : {
+    "dc.contributor.author" : [ {
+      "value" : "Kopp, Matyáš",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.date.accessioned" : [ {
+      "value" : "2024-01-31T14:19:55Z",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.date.available" : [ {
+      "value" : "2024-01-31T14:19:55Z",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.date.issued" : [ {
+      "value" : "2024-01-01",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.description" : [ {
+      "value" : "This record contains audio recordings of proceedings of the Chamber of Deputies of the Parliament of the Czech Republic. The recordings have been provided by the official websites of the Chamber of Deputies, and the set contains them in their original format with no further processing.\r\n\r\nRecordings cover all available audio files from 2013-11-25 to 2023-07-26. Audio files are packed by year (2013-2023) and quarter (Q1-Q4) in tar archives audioPSP-YYYY-QN.tar. \r\nFurthermore, there are two TSV files: audioPSP-meta.quarterArchive.tsv contains metadata about archives, and audioPSP-meta.audioFile.tsv contains metadata about individual audio files.",
+      "language" : "en_US",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.identifier.uri" : [ {
+      "value" : "http://hdl.handle.net/11234/1-5404",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.language.iso" : [ {
+      "value" : "ces",
+      "language" : "en_US",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.publisher" : [ {
+      "value" : "Charles University, Faculty of Mathematics and Physics, Institute of Formal and Applied Linguistics (UFAL)",
+      "language" : "en_US",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.rights" : [ {
+      "value" : "Public Domain Dedication (CC Zero)",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.rights.label" : [ {
+      "value" : "PUB",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.rights.uri" : [ {
+      "value" : "http://creativecommons.org/publicdomain/zero/1.0/",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.source.uri" : [ {
+      "value" : "https://ufal.mff.cuni.cz/parczech",
+      "language" : "en_US",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.subject" : [ {
+      "value" : "Parliament of the Czech Republic",
+      "language" : "en_US",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.title" : [ {
+      "value" : "AudioPSP 24.01: Audio recordings of proceedings of the Chamber of Deputies of the Parliament of the Czech Republic",
+      "language" : "en_US",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "dc.type" : [ {
+      "value" : "corpus",
+      "language" : "en_US",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "local.branding" : [ {
+      "value" : "LINDAT / CLARIAH-CZ",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "local.contact.person" : [ {
+      "value" : "Matyáš;Kopp;kopp@ufal.mff.cuni.cz;Charles University, Faculty of Mathematics and Physics, Institute of Formal and Applied Linguistics (UFAL)",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "local.files.count" : [ {
+      "value" : "42",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "local.files.size" : [ {
+      "value" : "370443904971",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "local.has.files" : [ {
+      "value" : "yes",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "local.language.name" : [ {
+      "value" : "Czech",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "local.size.info" : [ {
+      "value" : "4590;hours",
+      "language" : null,
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ],
+    "local.sponsor" : [ {
+      "value" : "nationalFunds;LM2023062;Ministerstvo školství, mládeže a tělovýchovy České republiky;LINDAT/CLARIAH-CZ: Digitální výzkumná infrastruktura pro jazykové technologie, umění a humanitní vědy;",
+      "language" : "",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    }, {
+      "value" : "Other;-;CLARIN ERIC;ParlaMint: Towards Comparable Parliamentary Corpora;",
+      "language" : "",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 1
+    } ],
+    "metashare.ResourceInfo#ContentInfo.mediaType" : [ {
+      "value" : "audio",
+      "language" : "en_US",
+      "authority" : null,
+      "confidence" : -1,
+      "place" : 0
+    } ]
+  },
+  "inArchive" : true,
+  "discoverable" : true,
+  "withdrawn" : false,
+  "lastModified" : "2026-08-13T12:38:45.674+00:00",
+  "entityType" : null,
+  "type" : "item",
+  "_links" : {
+    "accessStatus" : {
+      "href" : "https://lindat.mff.cuni.cz/repository/server/api/core/items/b8cffcd1-6b03-458b-a9e8-8474fe7cec5a/accessStatus"
+    },
+    "bundles" : {
+      "href" : "https://lindat.mff.cuni.cz/repository/server/api/core/items/b8cffcd1-6b03-458b-a9e8-8474fe7cec5a/bundles"
+    },
+    "identifiers" : {
+      "href" : "https://lindat.mff.cuni.cz/repository/server/api/core/items/b8cffcd1-6b03-458b-a9e8-8474fe7cec5a/identifiers"
+    },
+    "mappedCollections" : {
+      "href" : "https://lindat.mff.cuni.cz/repository/server/api/core/items/b8cffcd1-6b03-458b-a9e8-8474fe7cec5a/mappedCollections"
+    },
+    "owningCollection" : {
+      "href" : "https://lindat.mff.cuni.cz/repository/server/api/core/items/b8cffcd1-6b03-458b-a9e8-8474fe7cec5a/owningCollection"
+    },
+    "relationships" : {
+      "href" : "https://lindat.mff.cuni.cz/repository/server/api/core/items/b8cffcd1-6b03-458b-a9e8-8474fe7cec5a/relationships"
+    },
+    "version" : {
+      "href" : "https://lindat.mff.cuni.cz/repository/server/api/core/items/b8cffcd1-6b03-458b-a9e8-8474fe7cec5a/version"
+    },
+    "templateItemOf" : {
+      "href" : "https://lindat.mff.cuni.cz/repository/server/api/core/items/b8cffcd1-6b03-458b-a9e8-8474fe7cec5a/templateItemOf"
+    },
+    "thumbnail" : {
+      "href" : "https://lindat.mff.cuni.cz/repository/server/api/core/items/b8cffcd1-6b03-458b-a9e8-8474fe7cec5a/thumbnail"
+    },
+    "self" : {
+      "href" : "https://lindat.mff.cuni.cz/repository/server/api/core/items/b8cffcd1-6b03-458b-a9e8-8474fe7cec5a"
+    }
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "id": "A1-U04-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "A1-U04-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A1",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Kde je centrum?",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Kde je centrum?"
+      ]
+    },
+    {
+      "text": "Kolik stojí mapa?",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Kolik stojí mapa?"
+      ]
+    },
+    {
+      "text": "Mapa je zdarma.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Mapa je zdarma."
+      ]
+    },
+    {
+      "text": "Můžete to napsat?",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Můžete to napsat?"
+      ]
+    },
+    {
+      "text": "Nemusíte platit.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Nemusíte platit."
+      ]
+    },
+    {
+      "text": "Tady nesmíte kouřit.",
+      "index": 5,
+      "role": "vocabulary",
+      "parts": [
+        "Tady nesmíte kouřit."
+      ]
+    }
+  ],
+  "text_sha256": "c8f055c215b63dd16d62e8ad492993f18d0789f0fcefbdafc61789928272ee28",
+  "source_file": "content/lessons/A1/A1-U04-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U04-L01--2026.10.22.1--vocabulary--c8f055c215--normal.mp3",
+  "slow_file": "content/audio/files/A1-U04-L01--2026.10.22.1--vocabulary--c8f055c215--slow.mp3",
+  "duration_seconds": 10.890430839002267,
+  "slow_duration_seconds": 11.8540589569161,
+  "cues": [
+    {
+      "text": "Kde je centrum?",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Kde je centrum?"
+      ],
+      "start": 0.0,
+      "end": 1.4280272108843537,
+      "sentences": [
+        {
+          "text": "Kde je centrum?",
+          "start": 0.0,
+          "end": 1.4280272108843537,
+          "slow_start": 0.0,
+          "slow_end": 1.5325170068027212
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.5325170068027212
+    },
+    {
+      "text": "Kolik stojí mapa?",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Kolik stojí mapa?"
+      ],
+      "start": 1.6080272108843536,
+      "end": 3.221814058956916,
+      "sentences": [
+        {
+          "text": "Kolik stojí mapa?",
+          "start": 1.6080272108843536,
+          "end": 3.221814058956916,
+          "slow_start": 1.7125170068027211,
+          "slow_end": 3.488843537414966
+        }
+      ],
+      "slow_start": 1.7125170068027211,
+      "slow_end": 3.488843537414966
+    },
+    {
+      "text": "Mapa je zdarma.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Mapa je zdarma."
+      ],
+      "start": 3.401814058956916,
+      "end": 4.82984126984127,
+      "sentences": [
+        {
+          "text": "Mapa je zdarma.",
+          "start": 3.401814058956916,
+          "end": 4.82984126984127,
+          "slow_start": 3.668843537414966,
+          "slow_end": 5.317460317460317
+        }
+      ],
+      "slow_start": 3.668843537414966,
+      "slow_end": 5.317460317460317
+    },
+    {
+      "text": "Můžete to napsat?",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Můžete to napsat?"
+      ],
+      "start": 5.00984126984127,
+      "end": 6.728117913832199,
+      "sentences": [
+        {
+          "text": "Můžete to napsat?",
+          "start": 5.00984126984127,
+          "end": 6.728117913832199,
+          "slow_start": 5.497460317460318,
+          "slow_end": 7.355056689342404
+        }
+      ],
+      "slow_start": 5.497460317460318,
+      "slow_end": 7.355056689342404
+    },
+    {
+      "text": "Nemusíte platit.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Nemusíte platit."
+      ],
+      "start": 6.9081179138322,
+      "end": 8.603174603174603,
+      "sentences": [
+        {
+          "text": "Nemusíte platit.",
+          "start": 6.9081179138322,
+          "end": 8.603174603174603,
+          "slow_start": 7.535056689342404,
+          "slow_end": 9.415873015873016
+        }
+      ],
+      "slow_start": 7.535056689342404,
+      "slow_end": 9.415873015873016
+    },
+    {
+      "text": "Tady nesmíte kouřit.",
+      "index": 5,
+      "role": "vocabulary",
+      "parts": [
+        "Tady nesmíte kouřit."
+      ],
+      "start": 8.783174603174603,
+      "end": 10.710430839002267,
+      "sentences": [
+        {
+          "text": "Tady nesmíte kouřit.",
+          "start": 8.783174603174603,
+          "end": 10.710430839002267,
+          "slow_start": 9.595873015873016,
+          "slow_end": 11.6740589569161
+        }
+      ],
+      "slow_start": 9.595873015873016,
+      "slow_end": 11.6740589569161
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "3358fb4fe7f4705e7ece46d4aadaeae7bbb8c5a3b96b9f11c0fb1b983dfb9f3a",
+    "slow": "a085e9040b9b9b041db7e0d9db36b15b6a072ad48a170a797458d4f7811f9eb4"
+  }
+}

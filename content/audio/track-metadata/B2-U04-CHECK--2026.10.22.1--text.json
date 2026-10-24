@@ -1,0 +1,75 @@
+{
+  "id": "B2-U04-CHECK--2026.10.22.1--text",
+  "lesson_id": "B2-U04-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "B2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Kolega napsal příteli: „Čau, pošlu ti návrh zítra.“ Stejný slib chce poslat novému obchodnímu partnerovi. Termín je již potvrzený a nemá se měnit.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Kolega napsal příteli: „Čau, pošlu ti návrh zítra.“",
+        "Stejný slib chce poslat novému obchodnímu partnerovi.",
+        "Termín je již potvrzený a nemá se měnit."
+      ]
+    }
+  ],
+  "text_sha256": "0fcf4da169eb1b8cbc803af352abbd07cb71adc2ad70c3a6e6de8514bc6fe4b5",
+  "source_file": "content/assessments/B2-U04.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U04-CHECK--2026.10.22.1--text--0fcf4da169--normal.mp3",
+  "slow_file": "content/audio/files/B2-U04-CHECK--2026.10.22.1--text--0fcf4da169--slow.mp3",
+  "duration_seconds": 13.473514739229024,
+  "slow_duration_seconds": 15.098911564625851,
+  "cues": [
+    {
+      "text": "Kolega napsal příteli: „Čau, pošlu ti návrh zítra.“ Stejný slib chce poslat novému obchodnímu partnerovi. Termín je již potvrzený a nemá se měnit.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Kolega napsal příteli: „Čau, pošlu ti návrh zítra.“",
+        "Stejný slib chce poslat novému obchodnímu partnerovi.",
+        "Termín je již potvrzený a nemá se měnit."
+      ],
+      "start": 0.0,
+      "end": 13.293514739229025,
+      "sentences": [
+        {
+          "text": "Kolega napsal příteli: „Čau, pošlu ti návrh zítra.“",
+          "start": 0.0,
+          "end": 4.493061224489796,
+          "slow_start": 0.0,
+          "slow_end": 5.143219954648526
+        },
+        {
+          "text": "Stejný slib chce poslat novému obchodnímu partnerovi.",
+          "start": 4.673061224489796,
+          "end": 9.398321995464853,
+          "slow_start": 5.323219954648526,
+          "slow_end": 10.605759637188209
+        },
+        {
+          "text": "Termín je již potvrzený a nemá se měnit.",
+          "start": 9.578321995464853,
+          "end": 13.293514739229025,
+          "slow_start": 10.785759637188209,
+          "slow_end": 14.91891156462585
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 14.91891156462585
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "54501e8faf09ebe5b0c06d947da7eb6b6468e52bf2ff9541e94d9bd7a685795e",
+    "slow": "bb3f16a16df6d2ff46ea0aa0497846f9041fcca63cee5778349c01bf55da9028"
+  }
+}

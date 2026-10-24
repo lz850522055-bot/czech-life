@@ -1,0 +1,1349 @@
+{
+  "id": "A1-U03-L01",
+  "level": "A1",
+  "unit_id": "A1-U03",
+  "order": 9,
+  "version": "2026.10.22.1",
+  "title_zh": "动词告诉别人谁在做什么",
+  "title_cs": "Co děláme",
+  "prerequisites": [
+    "A1-U02-L01"
+  ],
+  "can_do": [
+    "按人称使用常用动词",
+    "区分现在经常做和此刻做",
+    "把需要与具体行动连起来"
+  ],
+  "scene": "工作与日常",
+  "skills": [
+    "listening",
+    "speaking",
+    "reading",
+    "writing",
+    "interaction",
+    "mediation"
+  ],
+  "knowledge_points": [
+    "verb-present-patterns",
+    "present-context"
+  ],
+  "intro_zh": "介绍普通一天：你做什么、同事做什么、大家一起做什么。先学几组高频变化，再识别例外。",
+  "lesson_text": [
+    {
+      "id": "s01",
+      "cs": "Ráno vstávám v sedm a doma snídám. Potom pracuju v malé firmě.",
+      "zh": "早上我七点起床，在家吃早饭。然后在一家小公司工作。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s02",
+      "cs": "Moje kolegyně Eva mluví s lidmi a já píšu krátké zprávy.",
+      "zh": "我的同事伊娃和人交谈，我写简短消息。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s03",
+      "cs": "Petr má obchod. Prodává čaj, kávu a malé dárky.",
+      "zh": "彼得有一家商店，卖茶、咖啡和小礼物。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s04",
+      "cs": "Co děláš ty? Studuješ, nebo pracuješ?",
+      "zh": "你做什么？你在学习还是工作？",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s05",
+      "cs": "Teď pracuju, ale večer se učím česky. Každý den čtu krátký text.",
+      "zh": "现在我工作，不过晚上学捷语。每天读一段短文。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s06",
+      "cs": "My obvykle obědváme spolu. Eva pije vodu a já piju čaj.",
+      "zh": "我们通常一起吃午饭。伊娃喝水，我喝茶。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s07",
+      "cs": "Odpoledne máme čas na telefon. Potřebujeme jednu informaci.",
+      "zh": "下午我们有时间打电话。我们需要一条信息。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s08",
+      "cs": "Večer už nepracuju. Vařím, poslouchám hudbu a odpočívám.",
+      "zh": "晚上我不工作了。我做饭、听音乐、休息。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s09",
+      "cs": "O víkendu obvykle nepracuju. Mám čas na přátele a na rodinu.",
+      "zh": "周末我通常不工作，有时间陪朋友和家人。",
+      "note_zh": "把新信息与前文连接，再独立复述。"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "verb-present-patterns",
+      "rule_zh": "同一个动作，末尾随着“谁”变化。",
+      "detail_zh": "dělat：dělám, děláš, dělá, děláme, děláte, dělají；mluvit：mluvím, mluvíš, mluví, mluvíme, mluvíte, mluví；pracovat：pracuju/pracuji, pracuješ, pracuje, pracujeme, pracujete, pracují/pracujou（后者口语）。人称顺序是我、你、他/她、我们、你们/您、他们。常见mít：mám, máš, má, máme, máte, mají。",
+      "examples": [
+        {
+          "cs": "Pracuju doma.",
+          "zh": "我在家工作。",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        },
+        {
+          "cs": "Pracujeme spolu.",
+          "zh": "我们一起工作。",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        }
+      ],
+      "pitfalls": [
+        "用不定式直接代替所有人称，如já pracovat。"
+      ],
+      "exceptions": [
+        "不是所有动词都能照一组套：číst→čtu, čteš；pít→piju, piješ。"
+      ],
+      "term": "现在时人称变化"
+    },
+    {
+      "id": "present-context",
+      "rule_zh": "现在时既可说此刻，也可说日常习惯，靠时间词分清。",
+      "detail_zh": "Teď čtu是现在在读，Každý den čtu是每天读。捷语不需要复制中文“正在”或英语进行时结构才能说明进行中的动作。否定通常ne-加动词：nepracuju、nemám。",
+      "examples": [
+        {
+          "cs": "Teď píšu.",
+          "zh": "我现在在写。",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        },
+        {
+          "cs": "Každý den píšu.",
+          "zh": "我每天写。",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        }
+      ],
+      "pitfalls": [
+        "以为出现现在时就一定是正在此刻发生。"
+      ],
+      "exceptions": [
+        "有些现在形式的完成体表示未来，A2系统学体后再处理。"
+      ],
+      "term": "时间语境"
+    }
+  ],
+  "vocabulary": [
+    {
+      "lemma": "dělat",
+      "pos": "动词，未完成体",
+      "forms": "dělám; dělal",
+      "meaning_zh": "做",
+      "collocation": "dělat doma",
+      "example_cs": "Co děláte?",
+      "example_zh": "您在做什么？",
+      "confusion_zh": "很通用，具体工作常用pracovat。"
+    },
+    {
+      "lemma": "pracovat",
+      "pos": "动词，未完成体",
+      "forms": "pracuju/pracuji; pracoval",
+      "meaning_zh": "工作",
+      "collocation": "pracovat ve firmě",
+      "example_cs": "Pracuju doma.",
+      "example_zh": "我在家工作。",
+      "confusion_zh": "不是pracovám。"
+    },
+    {
+      "lemma": "číst",
+      "pos": "动词，未完成体",
+      "forms": "čtu; četl",
+      "meaning_zh": "读",
+      "collocation": "číst zprávu",
+      "example_cs": "Čtu zprávu.",
+      "example_zh": "我读消息。",
+      "confusion_zh": "词干变化。"
+    },
+    {
+      "lemma": "pít",
+      "pos": "动词，未完成体",
+      "forms": "piju/piji; pil",
+      "meaning_zh": "喝",
+      "collocation": "pít vodu",
+      "example_cs": "Piju vodu.",
+      "example_zh": "我喝水。",
+      "confusion_zh": "宾语水是vodu。"
+    },
+    {
+      "lemma": "učit se",
+      "pos": "反身动词，未完成体",
+      "forms": "učím se; učil jsem se",
+      "meaning_zh": "学习",
+      "collocation": "učit se česky",
+      "example_cs": "Učím se česky.",
+      "example_zh": "我学捷语。",
+      "confusion_zh": "别漏se。"
+    },
+    {
+      "lemma": "spolu",
+      "pos": "副词",
+      "forms": "不变",
+      "meaning_zh": "一起",
+      "collocation": "pracovat spolu",
+      "example_cs": "Pracujeme spolu.",
+      "example_zh": "我们一起工作。",
+      "confusion_zh": "不是所有权。"
+    }
+  ],
+  "listening": {
+    "script": [
+      {
+        "cs": "Eva ráno pracuje. Odpoledne čte a večer vaří. Petr večer nepracuje.",
+        "zh": "伊娃早上工作，下午阅读，晚上做饭。彼得晚上不工作。",
+        "note_zh": "先理解整句意图，再回看本课规律。"
+      }
+    ],
+    "focus_zh": "先不看文本听出任务关键信息；第二遍核对词形、数字与否定；最后对照中文。",
+    "source": "original"
+  },
+  "pronunciation": {
+    "focus_zh": "mluvím和mluvíme末尾长度与音节不同；ne-与动词连读。",
+    "contrast": [
+      {
+        "a": "mluvím",
+        "b": "mluvíme",
+        "note_zh": "我说与我们说不能混。"
+      }
+    ],
+    "task_zh": "录同一动作的“我、我们、您”三句。"
+  },
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "Eva什么时候做饭？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "早上"
+        },
+        {
+          "id": "b",
+          "text": "晚上"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "večer vaří。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "listening"
+      ],
+      "error_category": "comprehension",
+      "audio_text_cs": "Eva ráno pracuje a večer vaří.",
+      "id": "A1-U03-L01-E01",
+      "knowledge_points": [
+        "verb-present-patterns",
+        "present-context"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "填“我们做”。",
+      "stimulus_cs": "My ___.",
+      "answer": "děláme",
+      "accepted_answers": [
+        "děláme"
+      ],
+      "explanation_zh": "dělat的my形式。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "A1-U03-L01-E02",
+      "knowledge_points": [
+        "verb-present-patterns",
+        "present-context"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "填“您有时间吗”。",
+      "stimulus_cs": "___ čas?（mít，vy）",
+      "answer": "Máte",
+      "accepted_answers": [
+        "Máte",
+        "máte"
+      ],
+      "explanation_zh": "礼貌vy对应máte。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "A1-U03-L01-E03",
+      "knowledge_points": [
+        "verb-present-patterns",
+        "present-context"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "Každý den čtu表示？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "每天读"
+        },
+        {
+          "id": "b",
+          "text": "只表示此刻正在读"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "každý den规定习惯语境。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "A1-U03-L01-E04",
+      "knowledge_points": [
+        "verb-present-patterns",
+        "present-context"
+      ]
+    },
+    {
+      "type": "correct",
+      "prompt_zh": "只改动词，让句子正确。",
+      "stimulus_cs": "Já pracovat doma.",
+      "answer": "Já pracuju doma.",
+      "accepted_answers": [
+        "Já pracuju doma.",
+        "Já pracuji doma."
+      ],
+      "explanation_zh": "第一人称现在式pracuju或pracuji。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "A1-U03-L01-E05",
+      "knowledge_points": [
+        "verb-present-patterns",
+        "present-context"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt_zh": "排列“我晚上学捷语”。",
+      "stimulus_cs": "se / Večer / učím / česky.",
+      "answer": "Večer se učím česky.",
+      "accepted_answers": [
+        "Večer se učím česky."
+      ],
+      "explanation_zh": "se通常靠近句首第一个成分之后。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "word_order",
+      "options": [
+        "se",
+        "Večer",
+        "učím",
+        "česky."
+      ],
+      "id": "A1-U03-L01-E06",
+      "knowledge_points": [
+        "verb-present-patterns",
+        "present-context"
+      ]
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "说三件你平时做的事，再说一件你现在做的事。",
+      "stimulus_cs": "",
+      "answer": "Každý den pracuju. Večer vařím. Čtu česky. Teď se učím.",
+      "accepted_answers": [],
+      "explanation_zh": "区分习惯与此刻。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A1-U03-L01-E07",
+      "knowledge_points": [
+        "verb-present-patterns",
+        "present-context"
+      ]
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "问对方是学习还是工作，并回答同样问题。",
+      "stimulus_cs": "",
+      "answer": "Studujete, nebo pracujete? Pracuju a učím se česky.",
+      "accepted_answers": [],
+      "explanation_zh": "与陌生人用vy形式。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A1-U03-L01-E08",
+      "knowledge_points": [
+        "verb-present-patterns",
+        "present-context"
+      ]
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "给同伴写两句你和朋友各自的行动。",
+      "stimulus_cs": "",
+      "answer": "Já píšu zprávu. Eva čte knihu.",
+      "accepted_answers": [],
+      "explanation_zh": "检查不同人称。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A1-U03-L01-E09",
+      "knowledge_points": [
+        "verb-present-patterns",
+        "present-context"
+      ]
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "用中文转告听力中两个人晚上的安排。",
+      "stimulus_cs": "",
+      "answer": "伊娃晚上做饭，彼得晚上不工作。",
+      "accepted_answers": [],
+      "explanation_zh": "保留否定信息。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A1-U03-L01-E10",
+      "knowledge_points": [
+        "verb-present-patterns",
+        "present-context"
+      ]
+    }
+  ],
+  "transfer_task": {
+    "prompt_zh": "把自己的安排换成“我们”的安排，口头改三句。",
+    "model_answer_cs": "Pracujeme. Čteme. Vaříme.",
+    "rubric": [
+      "任务信息完整",
+      "用目标规律表达",
+      "独立完成并回听/回看"
+    ]
+  },
+  "review_links": [
+    "A1-U02-L01"
+  ],
+  "sources": [
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/",
+      "scope": "本课涉及的声音/词形/语法规则；编排与例句为原创",
+      "verification": "官方来源用于相关规则交叉核查；具体查核范围见content/sources/foundation-verification.md；本课例句为原创，未逐句母语审校。"
+    }
+  ],
+  "content_status": "authored_crosschecked_not_native_reviewed",
+  "quality_notes": [
+    "课程及题目原创；自动检查结构、唯一ID与答案。",
+    "已对照所列官方发音、数词、条件式、物主词等章节核查相应规则；其余内容做内部语言一致性复核，未逐句外部审校。",
+    "CEFR级别为教学编排，不构成官方达标或考试认证。"
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "A1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--normal.mp3",
+      "slow_file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U03-L01--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Ráno vstávám v sedm a doma snídám. Potom pracuju v malé firmě. Moje kolegyně Eva mluví s lidmi a já píšu krátké zprávy. Petr má obchod. Prodává čaj, kávu a malé dárky. Co děláš ty? Studuješ, nebo pracuješ? Teď pracuju, ale večer se učím česky. Každý den čtu krátký text. My obvykle obědváme spolu. Eva pije vodu a já piju čaj. Odpoledne máme čas na telefon. Potřebujeme jednu informaci. Večer už nepracuju. Vařím, poslouchám hudbu a odpočívám. O víkendu obvykle nepracuju. Mám čas na přátele a na rodinu.",
+      "duration_seconds": 49.84820861678005,
+      "slow_duration_seconds": 56.0827664399093,
+      "sha256": "37d78007c48acfaa8ed90ef0e3b0eb586af743b46bad7b965b030a48cd1210ba",
+      "slow_sha256": "8a5a84a9b105710f0b5c88797793edbeb9818bf879e35c8eb28271c8ebd50695"
+    },
+    {
+      "lesson_id": "A1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--normal.mp3",
+      "slow_file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U03-L01--2026.10.22.1--text--p0",
+      "asset_id": "A1-U03-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Ráno vstávám v sedm a doma snídám. Potom pracuju v malé firmě.",
+      "start": 0,
+      "end": 6.043038548752834,
+      "slow_start": 0,
+      "slow_end": 6.855736961451247
+    },
+    {
+      "lesson_id": "A1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--normal.mp3",
+      "slow_file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U03-L01--2026.10.22.1--text--s0",
+      "asset_id": "A1-U03-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Ráno vstávám v sedm a doma snídám.",
+      "start": 0,
+      "end": 3.3668934240362813,
+      "slow_start": 0,
+      "slow_end": 3.866122448979592
+    },
+    {
+      "lesson_id": "A1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--normal.mp3",
+      "slow_file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U03-L01--2026.10.22.1--text--s1",
+      "asset_id": "A1-U03-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Potom pracuju v malé firmě.",
+      "start": 3.546893424036281,
+      "end": 6.043038548752834,
+      "slow_start": 4.046122448979592,
+      "slow_end": 6.855736961451247
+    },
+    {
+      "lesson_id": "A1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--normal.mp3",
+      "slow_file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U03-L01--2026.10.22.1--text--p1",
+      "asset_id": "A1-U03-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Moje kolegyně Eva mluví s lidmi a já píšu krátké zprávy.",
+      "start": 6.223038548752834,
+      "end": 11.459138321995464,
+      "slow_start": 7.0357369614512475,
+      "slow_end": 13.061315192743765
+    },
+    {
+      "lesson_id": "A1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--normal.mp3",
+      "slow_file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U03-L01--2026.10.22.1--text--s2",
+      "asset_id": "A1-U03-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 1,
+      "sentence_index": 0,
+      "text": "Moje kolegyně Eva mluví s lidmi a já píšu krátké zprávy.",
+      "start": 6.223038548752834,
+      "end": 11.459138321995464,
+      "slow_start": 7.0357369614512475,
+      "slow_end": 13.061315192743765
+    },
+    {
+      "lesson_id": "A1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--normal.mp3",
+      "slow_file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U03-L01--2026.10.22.1--text--p2",
+      "asset_id": "A1-U03-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Petr má obchod. Prodává čaj, kávu a malé dárky.",
+      "start": 11.639138321995464,
+      "end": 16.6140589569161,
+      "slow_start": 13.241315192743764,
+      "slow_end": 18.785124716553288
+    },
+    {
+      "lesson_id": "A1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--normal.mp3",
+      "slow_file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U03-L01--2026.10.22.1--text--s3",
+      "asset_id": "A1-U03-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 3,
+      "paragraph_index": 2,
+      "sentence_index": 0,
+      "text": "Petr má obchod.",
+      "start": 11.639138321995464,
+      "end": 13.171655328798186,
+      "slow_start": 13.241315192743764,
+      "slow_end": 14.959591836734694
+    },
+    {
+      "lesson_id": "A1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--normal.mp3",
+      "slow_file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U03-L01--2026.10.22.1--text--s4",
+      "asset_id": "A1-U03-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 4,
+      "paragraph_index": 2,
+      "sentence_index": 1,
+      "text": "Prodává čaj, kávu a malé dárky.",
+      "start": 13.351655328798186,
+      "end": 16.6140589569161,
+      "slow_start": 15.139591836734693,
+      "slow_end": 18.785124716553288
+    },
+    {
+      "lesson_id": "A1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--normal.mp3",
+      "slow_file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U03-L01--2026.10.22.1--text--p3",
+      "asset_id": "A1-U03-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Co děláš ty? Studuješ, nebo pracuješ?",
+      "start": 16.7940589569161,
+      "end": 20.863401360544216,
+      "slow_start": 18.965124716553287,
+      "slow_end": 23.464036281179137
+    },
+    {
+      "lesson_id": "A1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--normal.mp3",
+      "slow_file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U03-L01--2026.10.22.1--text--s5",
+      "asset_id": "A1-U03-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 5,
+      "paragraph_index": 3,
+      "sentence_index": 0,
+      "text": "Co děláš ty?",
+      "start": 16.7940589569161,
+      "end": 18.082766439909296,
+      "slow_start": 18.965124716553287,
+      "slow_end": 20.42798185941043
+    },
+    {
+      "lesson_id": "A1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--normal.mp3",
+      "slow_file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U03-L01--2026.10.22.1--text--s6",
+      "asset_id": "A1-U03-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 6,
+      "paragraph_index": 3,
+      "sentence_index": 1,
+      "text": "Studuješ, nebo pracuješ?",
+      "start": 18.262766439909296,
+      "end": 20.863401360544216,
+      "slow_start": 20.60798185941043,
+      "slow_end": 23.464036281179137
+    },
+    {
+      "lesson_id": "A1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--normal.mp3",
+      "slow_file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U03-L01--2026.10.22.1--text--p4",
+      "asset_id": "A1-U03-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 4,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Teď pracuju, ale večer se učím česky. Každý den čtu krátký text.",
+      "start": 21.043401360544216,
+      "end": 27.30702947845805,
+      "slow_start": 23.644036281179137,
+      "slow_end": 30.74358276643991
+    },
+    {
+      "lesson_id": "A1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--normal.mp3",
+      "slow_file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U03-L01--2026.10.22.1--text--s7",
+      "asset_id": "A1-U03-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 7,
+      "paragraph_index": 4,
+      "sentence_index": 0,
+      "text": "Teď pracuju, ale večer se učím česky.",
+      "start": 21.043401360544216,
+      "end": 24.79342403628118,
+      "slow_start": 23.644036281179137,
+      "slow_end": 27.84684807256236
+    },
+    {
+      "lesson_id": "A1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--normal.mp3",
+      "slow_file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U03-L01--2026.10.22.1--text--s8",
+      "asset_id": "A1-U03-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 8,
+      "paragraph_index": 4,
+      "sentence_index": 1,
+      "text": "Každý den čtu krátký text.",
+      "start": 24.97342403628118,
+      "end": 27.30702947845805,
+      "slow_start": 28.02684807256236,
+      "slow_end": 30.74358276643991
+    },
+    {
+      "lesson_id": "A1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--normal.mp3",
+      "slow_file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U03-L01--2026.10.22.1--text--p5",
+      "asset_id": "A1-U03-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 5,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "My obvykle obědváme spolu. Eva pije vodu a já piju čaj.",
+      "start": 27.48702947845805,
+      "end": 32.75219954648526,
+      "slow_start": 30.92358276643991,
+      "slow_end": 36.955011337868484
+    },
+    {
+      "lesson_id": "A1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--normal.mp3",
+      "slow_file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U03-L01--2026.10.22.1--text--s9",
+      "asset_id": "A1-U03-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 9,
+      "paragraph_index": 5,
+      "sentence_index": 0,
+      "text": "My obvykle obědváme spolu.",
+      "start": 27.48702947845805,
+      "end": 29.994784580498866,
+      "slow_start": 30.92358276643991,
+      "slow_end": 33.709977324263036
+    },
+    {
+      "lesson_id": "A1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--normal.mp3",
+      "slow_file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U03-L01--2026.10.22.1--text--s10",
+      "asset_id": "A1-U03-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 10,
+      "paragraph_index": 5,
+      "sentence_index": 1,
+      "text": "Eva pije vodu a já piju čaj.",
+      "start": 30.174784580498866,
+      "end": 32.75219954648526,
+      "slow_start": 33.889977324263036,
+      "slow_end": 36.955011337868484
+    },
+    {
+      "lesson_id": "A1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--normal.mp3",
+      "slow_file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U03-L01--2026.10.22.1--text--p6",
+      "asset_id": "A1-U03-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 6,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Odpoledne máme čas na telefon. Potřebujeme jednu informaci.",
+      "start": 32.93219954648526,
+      "end": 38.42956916099773,
+      "slow_start": 37.135011337868484,
+      "slow_end": 43.25931972789115
+    },
+    {
+      "lesson_id": "A1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--normal.mp3",
+      "slow_file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U03-L01--2026.10.22.1--text--s11",
+      "asset_id": "A1-U03-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 11,
+      "paragraph_index": 6,
+      "sentence_index": 0,
+      "text": "Odpoledne máme čas na telefon.",
+      "start": 32.93219954648526,
+      "end": 35.706984126984125,
+      "slow_start": 37.135011337868484,
+      "slow_end": 40.16521541950113
+    },
+    {
+      "lesson_id": "A1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--normal.mp3",
+      "slow_file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U03-L01--2026.10.22.1--text--s12",
+      "asset_id": "A1-U03-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 12,
+      "paragraph_index": 6,
+      "sentence_index": 1,
+      "text": "Potřebujeme jednu informaci.",
+      "start": 35.886984126984125,
+      "end": 38.42956916099773,
+      "slow_start": 40.34521541950113,
+      "slow_end": 43.25931972789115
+    },
+    {
+      "lesson_id": "A1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--normal.mp3",
+      "slow_file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U03-L01--2026.10.22.1--text--p7",
+      "asset_id": "A1-U03-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 7,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Večer už nepracuju. Vařím, poslouchám hudbu a odpočívám.",
+      "start": 38.60956916099773,
+      "end": 44.26947845804989,
+      "slow_start": 43.43931972789115,
+      "slow_end": 49.95836734693878
+    },
+    {
+      "lesson_id": "A1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--normal.mp3",
+      "slow_file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U03-L01--2026.10.22.1--text--s13",
+      "asset_id": "A1-U03-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 13,
+      "paragraph_index": 7,
+      "sentence_index": 0,
+      "text": "Večer už nepracuju.",
+      "start": 38.60956916099773,
+      "end": 40.57165532879819,
+      "slow_start": 43.43931972789115,
+      "slow_end": 45.691655328798184
+    },
+    {
+      "lesson_id": "A1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--normal.mp3",
+      "slow_file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U03-L01--2026.10.22.1--text--s14",
+      "asset_id": "A1-U03-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 14,
+      "paragraph_index": 7,
+      "sentence_index": 1,
+      "text": "Vařím, poslouchám hudbu a odpočívám.",
+      "start": 40.751655328798186,
+      "end": 44.26947845804989,
+      "slow_start": 45.871655328798184,
+      "slow_end": 49.95836734693878
+    },
+    {
+      "lesson_id": "A1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--normal.mp3",
+      "slow_file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U03-L01--2026.10.22.1--text--p8",
+      "asset_id": "A1-U03-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 8,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "O víkendu obvykle nepracuju. Mám čas na přátele a na rodinu.",
+      "start": 44.44947845804989,
+      "end": 49.66820861678004,
+      "slow_start": 50.13836734693878,
+      "slow_end": 55.9027664399093
+    },
+    {
+      "lesson_id": "A1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--normal.mp3",
+      "slow_file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U03-L01--2026.10.22.1--text--s15",
+      "asset_id": "A1-U03-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 15,
+      "paragraph_index": 8,
+      "sentence_index": 0,
+      "text": "O víkendu obvykle nepracuju.",
+      "start": 44.44947845804989,
+      "end": 46.8643537414966,
+      "slow_start": 50.13836734693878,
+      "slow_end": 52.86671201814059
+    },
+    {
+      "lesson_id": "A1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--normal.mp3",
+      "slow_file": "audio/files/A1-U03-L01--2026.10.22.1--text--230914621d--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U03-L01--2026.10.22.1--text--s16",
+      "asset_id": "A1-U03-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 16,
+      "paragraph_index": 8,
+      "sentence_index": 1,
+      "text": "Mám čas na přátele a na rodinu.",
+      "start": 47.0443537414966,
+      "end": 49.66820861678004,
+      "slow_start": 53.04671201814059,
+      "slow_end": 55.9027664399093
+    },
+    {
+      "lesson_id": "A1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U03-L01--2026.10.22.1--listening--13143f7f0a--normal.mp3",
+      "slow_file": "audio/files/A1-U03-L01--2026.10.22.1--listening--13143f7f0a--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U03-L01--2026.10.22.1--listening",
+      "role": "listening-full",
+      "index": 0,
+      "text": "Eva ráno pracuje. Odpoledne čte a večer vaří. Petr večer nepracuje.",
+      "duration_seconds": 6.890657596371882,
+      "slow_duration_seconds": 7.726575963718821,
+      "sha256": "53fe508b59566488cd14352cfa7e887abcde592df03de098a9f0bf269e348a6a",
+      "slow_sha256": "d0888007e02cf0d761cfd64c8b0113ebc2d3f51877c50e36a9941aafe4fb624f"
+    },
+    {
+      "lesson_id": "A1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U03-L01--2026.10.22.1--listening--13143f7f0a--normal.mp3",
+      "slow_file": "audio/files/A1-U03-L01--2026.10.22.1--listening--13143f7f0a--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U03-L01--2026.10.22.1--listening--p0",
+      "asset_id": "A1-U03-L01--2026.10.22.1--listening",
+      "role": "listening",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Eva ráno pracuje. Odpoledne čte a večer vaří. Petr večer nepracuje.",
+      "start": 0,
+      "end": 6.710657596371882,
+      "slow_start": 0,
+      "slow_end": 7.546575963718821
+    },
+    {
+      "lesson_id": "A1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U03-L01--2026.10.22.1--vocabulary--c8b3420699--normal.mp3",
+      "slow_file": "audio/files/A1-U03-L01--2026.10.22.1--vocabulary--c8b3420699--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U03-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary-full",
+      "index": 0,
+      "text": "Co děláte? Pracuju doma. Čtu zprávu. Piju vodu. Učím se česky. Pracujeme spolu.",
+      "duration_seconds": 8.545215419501133,
+      "slow_duration_seconds": 9.578503401360544,
+      "sha256": "06bb04f7bcaa1acc75d516fefd8a72016263eb8663baea673306e890972a079d",
+      "slow_sha256": "8491f999b518ce5ed2283955409b95cafb425c9f3b0bfad519144a455baef44c"
+    },
+    {
+      "lesson_id": "A1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U03-L01--2026.10.22.1--vocabulary--c8b3420699--normal.mp3",
+      "slow_file": "audio/files/A1-U03-L01--2026.10.22.1--vocabulary--c8b3420699--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U03-L01--2026.10.22.1--vocabulary--p0",
+      "asset_id": "A1-U03-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Co děláte?",
+      "start": 0,
+      "end": 1.1493877551020408,
+      "slow_start": 0,
+      "slow_end": 1.2654875283446712
+    },
+    {
+      "lesson_id": "A1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U03-L01--2026.10.22.1--vocabulary--c8b3420699--normal.mp3",
+      "slow_file": "audio/files/A1-U03-L01--2026.10.22.1--vocabulary--c8b3420699--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U03-L01--2026.10.22.1--vocabulary--p1",
+      "asset_id": "A1-U03-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Pracuju doma.",
+      "start": 1.3293877551020408,
+      "end": 2.478775510204082,
+      "slow_start": 1.445487528344671,
+      "slow_end": 2.873514739229025
+    },
+    {
+      "lesson_id": "A1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U03-L01--2026.10.22.1--vocabulary--c8b3420699--normal.mp3",
+      "slow_file": "audio/files/A1-U03-L01--2026.10.22.1--vocabulary--c8b3420699--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U03-L01--2026.10.22.1--vocabulary--p2",
+      "asset_id": "A1-U03-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Čtu zprávu.",
+      "start": 2.6587755102040815,
+      "end": 3.8546031746031746,
+      "slow_start": 3.053514739229025,
+      "slow_end": 4.423492063492064
+    },
+    {
+      "lesson_id": "A1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U03-L01--2026.10.22.1--vocabulary--c8b3420699--normal.mp3",
+      "slow_file": "audio/files/A1-U03-L01--2026.10.22.1--vocabulary--c8b3420699--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U03-L01--2026.10.22.1--vocabulary--p3",
+      "asset_id": "A1-U03-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Piju vodu.",
+      "start": 4.034603174603174,
+      "end": 4.963401360544218,
+      "slow_start": 4.603492063492063,
+      "slow_end": 5.601950113378685
+    },
+    {
+      "lesson_id": "A1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U03-L01--2026.10.22.1--vocabulary--c8b3420699--normal.mp3",
+      "slow_file": "audio/files/A1-U03-L01--2026.10.22.1--vocabulary--c8b3420699--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U03-L01--2026.10.22.1--vocabulary--p4",
+      "asset_id": "A1-U03-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 4,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Učím se česky.",
+      "start": 5.1434013605442175,
+      "end": 6.710748299319728,
+      "slow_start": 5.781950113378684,
+      "slow_end": 7.581496598639456
+    },
+    {
+      "lesson_id": "A1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U03-L01--2026.10.22.1--vocabulary--c8b3420699--normal.mp3",
+      "slow_file": "audio/files/A1-U03-L01--2026.10.22.1--vocabulary--c8b3420699--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U03-L01--2026.10.22.1--vocabulary--p5",
+      "asset_id": "A1-U03-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 5,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Pracujeme spolu.",
+      "start": 6.8907482993197275,
+      "end": 8.365215419501133,
+      "slow_start": 7.7614965986394555,
+      "slow_end": 9.398503401360545
+    },
+    {
+      "lesson_id": "A1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U03-L01--2026.10.22.1--exercises--a9e15c2961--normal.mp3",
+      "slow_file": "audio/files/A1-U03-L01--2026.10.22.1--exercises--a9e15c2961--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U03-L01--2026.10.22.1--exercises",
+      "role": "exercises-full",
+      "index": 0,
+      "text": "Eva ráno pracuje a večer vaří.",
+      "duration_seconds": 3.105714285714286,
+      "slow_duration_seconds": 3.5933333333333333,
+      "sha256": "ea75a3b0a21805c6980c4f6a563a367a259e57648fe4f92d9fac46ab6081e825",
+      "slow_sha256": "905a336178d85087a605e442df88a9501612f4959cad37d451fa0e55eb367d9d"
+    },
+    {
+      "lesson_id": "A1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U03-L01--2026.10.22.1--exercises--a9e15c2961--normal.mp3",
+      "slow_file": "audio/files/A1-U03-L01--2026.10.22.1--exercises--a9e15c2961--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U03-L01--2026.10.22.1--exercises--p0",
+      "asset_id": "A1-U03-L01--2026.10.22.1--exercises",
+      "role": "exercise",
+      "index": 0,
+      "exercise_id": "A1-U03-L01-E01",
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Eva ráno pracuje a večer vaří.",
+      "start": 0,
+      "end": 2.9257142857142857,
+      "slow_start": 0,
+      "slow_end": 3.4133333333333336
+    },
+    {
+      "lesson_id": "A1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U03-L01--2026.10.22.1--contrasts--322fb3ef98--normal.mp3",
+      "slow_file": "audio/files/A1-U03-L01--2026.10.22.1--contrasts--322fb3ef98--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U03-L01--2026.10.22.1--contrasts",
+      "role": "contrasts-full",
+      "index": 0,
+      "text": "mluvím. mluvíme.",
+      "duration_seconds": 1.8170068027210884,
+      "slow_duration_seconds": 2.0608163265306123,
+      "sha256": "5534cdcfdbc4f2520f9d0bdeba3b3c1457f40d1050215a54ff6578a6e3d5875e",
+      "slow_sha256": "a09bd67434592740623b600ddb9510f0818fa79d49081a82d288bae11bf4f4d3"
+    },
+    {
+      "lesson_id": "A1-U03-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U03-L01--2026.10.22.1--contrasts--322fb3ef98--normal.mp3",
+      "slow_file": "audio/files/A1-U03-L01--2026.10.22.1--contrasts--322fb3ef98--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U03-L01--2026.10.22.1--contrasts--p0",
+      "asset_id": "A1-U03-L01--2026.10.22.1--contrasts",
+      "role": "contrast",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "mluvím. mluvíme.",
+      "start": 0,
+      "end": 1.6370068027210884,
+      "slow_start": 0,
+      "slow_end": 1.8808163265306121
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "id": "C2-U01-L01--2026.10.22.1--scenario-SC-C2-01",
+  "lesson_id": "C2-U01-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C2",
+  "group": "scenario-SC-C2-01",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Eva: Tak to necháme na pátek — tedy převoz, ne montáž. Marek: Pokud dostaneme klíče. Tereza: Zeptám se, zda je můžu vyzvednout, ale nemohu slíbit, že je dostaneme.",
+      "index": 0,
+      "role": "scenario",
+      "scenario_id": "SC-C2-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "start",
+      "parts": [
+        "Eva: Tak to necháme na pátek — tedy převoz, ne montáž.",
+        "Marek: Pokud dostaneme klíče.",
+        "Tereza: Zeptám se, zda je můžu vyzvednout, ale nemohu slíbit, že je dostaneme."
+      ]
+    },
+    {
+      "text": "Marek: Správce potvrdí klíče zítra do poledne. Převoz v pátek je zatím možnost. Eva: Montáž plánujeme na sobotu; bez dopraveného vybavení ji ale musíme přehodnotit.",
+      "index": 1,
+      "role": "scenario",
+      "scenario_id": "SC-C2-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "clarify",
+      "parts": [
+        "Marek: Správce potvrdí klíče zítra do poledne.",
+        "Převoz v pátek je zatím možnost.",
+        "Eva: Montáž plánujeme na sobotu; bez dopraveného vybavení ji ale musíme přehodnotit."
+      ]
+    },
+    {
+      "text": "Tereza: Počkej. Slíbila jsem, že se zeptám, ne že klíče budou. Eva: A pátek se týkal pouze převozu.",
+      "index": 2,
+      "role": "scenario",
+      "scenario_id": "SC-C2-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "repair",
+      "parts": [
+        "Tereza: Počkej.",
+        "Slíbila jsem, že se zeptám, ne že klíče budou.",
+        "Eva: A pátek se týkal pouze převozu."
+      ]
+    },
+    {
+      "text": "Eva: Přesně tak. Zpráva uvede podmíněný plán a zítřejší ověření. Tereza neslibuje výsledek, který zatím nemá potvrzený.",
+      "index": 3,
+      "role": "scenario",
+      "scenario_id": "SC-C2-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "done",
+      "parts": [
+        "Eva: Přesně tak.",
+        "Zpráva uvede podmíněný plán a zítřejší ověření.",
+        "Tereza neslibuje výsledek, který zatím nemá potvrzený."
+      ]
+    },
+    {
+      "text": "Marek: Dobře, pevný termín zatím neoznamujeme. Po ověření klíčů společně aktualizujeme dopravu i návaznou montáž.",
+      "index": 4,
+      "role": "scenario",
+      "scenario_id": "SC-C2-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "pending",
+      "parts": [
+        "Marek: Dobře, pevný termín zatím neoznamujeme.",
+        "Po ověření klíčů společně aktualizujeme dopravu i návaznou montáž."
+      ]
+    }
+  ],
+  "text_sha256": "ecb7c1c59a6d59ec56430e1a5edfe39e2c9d2ed1ebbe3664a1a0ce61dd7286e8",
+  "source_file": "content/scenarios.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U01-L01--2026.10.22.1--scenario-SC-C2-01--ecb7c1c59a--normal.mp3",
+  "slow_file": "content/audio/files/C2-U01-L01--2026.10.22.1--scenario-SC-C2-01--ecb7c1c59a--slow.mp3",
+  "duration_seconds": 62.2649433106576,
+  "slow_duration_seconds": 70.03201814058957,
+  "cues": [
+    {
+      "text": "Eva: Tak to necháme na pátek — tedy převoz, ne montáž. Marek: Pokud dostaneme klíče. Tereza: Zeptám se, zda je můžu vyzvednout, ale nemohu slíbit, že je dostaneme.",
+      "index": 0,
+      "role": "scenario",
+      "scenario_id": "SC-C2-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "start",
+      "parts": [
+        "Eva: Tak to necháme na pátek — tedy převoz, ne montáž.",
+        "Marek: Pokud dostaneme klíče.",
+        "Tereza: Zeptám se, zda je můžu vyzvednout, ale nemohu slíbit, že je dostaneme."
+      ],
+      "start": 0.0,
+      "end": 14.849251700680272,
+      "sentences": [
+        {
+          "text": "Eva: Tak to necháme na pátek — tedy převoz, ne montáž.",
+          "start": 0.0,
+          "end": 4.760090702947846,
+          "slow_start": 0.0,
+          "slow_end": 5.410249433106576
+        },
+        {
+          "text": "Marek: Pokud dostaneme klíče.",
+          "start": 4.940090702947846,
+          "end": 7.656825396825397,
+          "slow_start": 5.590249433106576,
+          "slow_end": 8.73655328798186
+        },
+        {
+          "text": "Tereza: Zeptám se, zda je můžu vyzvednout, ale nemohu slíbit, že je dostaneme.",
+          "start": 7.836825396825397,
+          "end": 14.849251700680272,
+          "slow_start": 8.91655328798186,
+          "slow_end": 16.892607709750568
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 16.892607709750568
+    },
+    {
+      "text": "Marek: Správce potvrdí klíče zítra do poledne. Převoz v pátek je zatím možnost. Eva: Montáž plánujeme na sobotu; bez dopraveného vybavení ji ale musíme přehodnotit.",
+      "index": 1,
+      "role": "scenario",
+      "scenario_id": "SC-C2-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "clarify",
+      "parts": [
+        "Marek: Správce potvrdí klíče zítra do poledne.",
+        "Převoz v pátek je zatím možnost.",
+        "Eva: Montáž plánujeme na sobotu; bez dopraveného vybavení ji ale musíme přehodnotit."
+      ],
+      "start": 15.029251700680271,
+      "end": 30.28485260770975,
+      "sentences": [
+        {
+          "text": "Marek: Správce potvrdí klíče zítra do poledne.",
+          "start": 15.029251700680271,
+          "end": 19.139183673469386,
+          "slow_start": 17.072607709750567,
+          "slow_end": 21.716598639455782
+        },
+        {
+          "text": "Převoz v pátek je zatím možnost.",
+          "start": 19.31918367346939,
+          "end": 22.430657596371883,
+          "slow_start": 21.89659863945578,
+          "slow_end": 25.414421768707484
+        },
+        {
+          "text": "Eva: Montáž plánujeme na sobotu; bez dopraveného vybavení ji ale musíme přehodnotit.",
+          "start": 22.610657596371883,
+          "end": 30.28485260770975,
+          "slow_start": 25.594421768707484,
+          "slow_end": 34.11614512471655
+        }
+      ],
+      "slow_start": 17.072607709750567,
+      "slow_end": 34.11614512471655
+    },
+    {
+      "text": "Tereza: Počkej. Slíbila jsem, že se zeptám, ne že klíče budou. Eva: A pátek se týkal pouze převozu.",
+      "index": 2,
+      "role": "scenario",
+      "scenario_id": "SC-C2-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "repair",
+      "parts": [
+        "Tereza: Počkej.",
+        "Slíbila jsem, že se zeptám, ne že klíče budou.",
+        "Eva: A pátek se týkal pouze převozu."
+      ],
+      "start": 30.46485260770975,
+      "end": 39.869024943310656,
+      "sentences": [
+        {
+          "text": "Tereza: Počkej.",
+          "start": 30.46485260770975,
+          "end": 31.95092970521542,
+          "slow_start": 34.29614512471655,
+          "slow_end": 35.95637188208617
+        },
+        {
+          "text": "Slíbila jsem, že se zeptám, ne že klíče budou.",
+          "start": 32.13092970521542,
+          "end": 36.38018140589569,
+          "slow_start": 36.136371882086166,
+          "slow_end": 40.9312925170068
+        },
+        {
+          "text": "Eva: A pátek se týkal pouze převozu.",
+          "start": 36.56018140589569,
+          "end": 39.869024943310656,
+          "slow_start": 41.1112925170068,
+          "slow_end": 44.896145124716554
+        }
+      ],
+      "slow_start": 34.29614512471655,
+      "slow_end": 44.896145124716554
+    },
+    {
+      "text": "Eva: Přesně tak. Zpráva uvede podmíněný plán a zítřejší ověření. Tereza neslibuje výsledek, který zatím nemá potvrzený.",
+      "index": 3,
+      "role": "scenario",
+      "scenario_id": "SC-C2-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "done",
+      "parts": [
+        "Eva: Přesně tak.",
+        "Zpráva uvede podmíněný plán a zítřejší ověření.",
+        "Tereza neslibuje výsledek, který zatím nemá potvrzený."
+      ],
+      "start": 40.049024943310656,
+      "end": 51.33401360544217,
+      "sentences": [
+        {
+          "text": "Eva: Přesně tak.",
+          "start": 40.049024943310656,
+          "end": 41.79052154195011,
+          "slow_start": 45.076145124716554,
+          "slow_end": 46.945351473922905
+        },
+        {
+          "text": "Zpráva uvede podmíněný plán a zítřejší ověření.",
+          "start": 41.97052154195011,
+          "end": 46.637732426303856,
+          "slow_start": 47.125351473922905,
+          "slow_end": 52.33823129251701
+        },
+        {
+          "text": "Tereza neslibuje výsledek, který zatím nemá potvrzený.",
+          "start": 46.817732426303856,
+          "end": 51.33401360544217,
+          "slow_start": 52.51823129251701,
+          "slow_end": 57.70789115646259
+        }
+      ],
+      "slow_start": 45.076145124716554,
+      "slow_end": 57.70789115646259
+    },
+    {
+      "text": "Marek: Dobře, pevný termín zatím neoznamujeme. Po ověření klíčů společně aktualizujeme dopravu i návaznou montáž.",
+      "index": 4,
+      "role": "scenario",
+      "scenario_id": "SC-C2-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "pending",
+      "parts": [
+        "Marek: Dobře, pevný termín zatím neoznamujeme.",
+        "Po ověření klíčů společně aktualizujeme dopravu i návaznou montáž."
+      ],
+      "start": 51.51401360544218,
+      "end": 62.08494331065759,
+      "sentences": [
+        {
+          "text": "Marek: Dobře, pevný termín zatím neoznamujeme.",
+          "start": 51.51401360544218,
+          "end": 55.786485260770974,
+          "slow_start": 57.88789115646259,
+          "slow_end": 62.787301587301585
+        },
+        {
+          "text": "Po ověření klíčů společně aktualizujeme dopravu i návaznou montáž.",
+          "start": 55.96648526077097,
+          "end": 62.08494331065759,
+          "slow_start": 62.967301587301584,
+          "slow_end": 69.85201814058956
+        }
+      ],
+      "slow_start": 57.88789115646259,
+      "slow_end": 69.85201814058956
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "9a319254db82f3c264547e19630616d7a2164fc243f20dd9879086735a13890a",
+    "slow": "3589c137e78746a5756624a65c1a7f979715357abc52b0eedfe5e50cf6cfdac4"
+  }
+}

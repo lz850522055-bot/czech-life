@@ -1,0 +1,75 @@
+{
+  "id": "A1-U08-CHECK--2026.10.22.1--text",
+  "lesson_id": "A1-U08-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "A1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Dám si čaj a jednu housku. Čaj bez cukru. Zaplatím hotově.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Dám si čaj a jednu housku.",
+        "Čaj bez cukru.",
+        "Zaplatím hotově."
+      ]
+    }
+  ],
+  "text_sha256": "694da922117dfc64a89942899cc3ad3dd13a2f2d27faa16b08fd80ddf10d9a29",
+  "source_file": "content/assessments/A1-U08.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U08-CHECK--2026.10.22.1--text--694da92211--normal.mp3",
+  "slow_file": "content/audio/files/A1-U08-CHECK--2026.10.22.1--text--694da92211--slow.mp3",
+  "duration_seconds": 6.136009070294785,
+  "slow_duration_seconds": 6.995147392290249,
+  "cues": [
+    {
+      "text": "Dám si čaj a jednu housku. Čaj bez cukru. Zaplatím hotově.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Dám si čaj a jednu housku.",
+        "Čaj bez cukru.",
+        "Zaplatím hotově."
+      ],
+      "start": 0.0,
+      "end": 5.956009070294785,
+      "sentences": [
+        {
+          "text": "Dám si čaj a jednu housku.",
+          "start": 0.0,
+          "end": 2.6006349206349206,
+          "slow_start": 0.0,
+          "slow_end": 2.9373242630385485
+        },
+        {
+          "text": "Čaj bez cukru.",
+          "start": 2.780634920634921,
+          "end": 4.150612244897959,
+          "slow_start": 3.1173242630385487,
+          "slow_end": 4.684671201814059
+        },
+        {
+          "text": "Zaplatím hotově.",
+          "start": 4.330612244897959,
+          "end": 5.956009070294785,
+          "slow_start": 4.864671201814059,
+          "slow_end": 6.81514739229025
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 6.81514739229025
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "4ea207bc886e7e9fa80a71f7993a493a45fda5d5881e670ceaba0a265c6c6db7",
+    "slow": "98c19c0c1add96f27129ee5629e2b7f394b5cba1b23a1c474055d293d2a3144b"
+  }
+}

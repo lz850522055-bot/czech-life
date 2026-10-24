@@ -1,0 +1,59 @@
+{
+  "id": "A2-U03-L01--2026.10.22.1--exercises",
+  "lesson_id": "A2-U03-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Eva dá knihu Janě.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "A2-U03-L01-E01",
+      "parts": [
+        "Eva dá knihu Janě."
+      ]
+    }
+  ],
+  "text_sha256": "a85f2428b9a54edb59c6c831036c72bf8b3d965ac188a2fcd60b170c3854e32d",
+  "source_file": "content/lessons/A2/A2-U03-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U03-L01--2026.10.22.1--exercises--a85f2428b9--normal.mp3",
+  "slow_file": "content/audio/files/A2-U03-L01--2026.10.22.1--exercises--a85f2428b9--slow.mp3",
+  "duration_seconds": 1.8634467120181406,
+  "slow_duration_seconds": 2.258185941043084,
+  "cues": [
+    {
+      "text": "Eva dá knihu Janě.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "A2-U03-L01-E01",
+      "parts": [
+        "Eva dá knihu Janě."
+      ],
+      "start": 0.0,
+      "end": 1.6834467120181407,
+      "sentences": [
+        {
+          "text": "Eva dá knihu Janě.",
+          "start": 0.0,
+          "end": 1.6834467120181407,
+          "slow_start": 0.0,
+          "slow_end": 2.078185941043084
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.078185941043084
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "e3a93f83425149cd411603b900a09f080ff57ce3bb5a6aad8a0d76e68b44e3a2",
+    "slow": "16a21120dfff8ff89df24aa51ada13db56a07186f2163ec8e72aa9488842b863"
+  }
+}

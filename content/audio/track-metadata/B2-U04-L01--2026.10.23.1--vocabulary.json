@@ -1,0 +1,145 @@
+{
+  "id": "B2-U04-L01--2026.10.23.1--vocabulary",
+  "lesson_id": "B2-U04-L01",
+  "content_version": "2026.10.23.1",
+  "level": "B2",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Zvažte vztah k adresátovi.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Zvažte vztah k adresátovi."
+      ]
+    },
+    {
+      "text": "Je termín pro Vás přijatelný?",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Je termín pro Vás přijatelný?"
+      ]
+    },
+    {
+      "text": "Žádáme o posunutí termínu.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Žádáme o posunutí termínu."
+      ]
+    },
+    {
+      "text": "Smíšené oslovování působí nesourodě.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Smíšené oslovování působí nesourodě."
+      ]
+    }
+  ],
+  "text_sha256": "f77d44c69e51955e521bb395d75778e0d57408d88a04a718f7bd60598cf03683",
+  "source_file": "content/lessons/B2/B2-U04-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U04-L01--2026.10.22.1--vocabulary--f77d44c69e--normal.mp3",
+  "slow_file": "content/audio/files/B2-U04-L01--2026.10.22.1--vocabulary--f77d44c69e--slow.mp3",
+  "duration_seconds": 12.202267573696146,
+  "slow_duration_seconds": 13.746394557823129,
+  "cues": [
+    {
+      "text": "Zvažte vztah k adresátovi.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Zvažte vztah k adresátovi."
+      ],
+      "start": 0.0,
+      "end": 2.414875283446712,
+      "sentences": [
+        {
+          "text": "Zvažte vztah k adresátovi.",
+          "start": 0.0,
+          "end": 2.414875283446712,
+          "slow_start": 0.0,
+          "slow_end": 2.705124716553288
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.705124716553288
+    },
+    {
+      "text": "Je termín pro Vás přijatelný?",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Je termín pro Vás přijatelný?"
+      ],
+      "start": 2.594875283446712,
+      "end": 5.1722902494331064,
+      "sentences": [
+        {
+          "text": "Je termín pro Vás přijatelný?",
+          "start": 2.594875283446712,
+          "end": 5.1722902494331064,
+          "slow_start": 2.885124716553288,
+          "slow_end": 5.892108843537415
+        }
+      ],
+      "slow_start": 2.885124716553288,
+      "slow_end": 5.892108843537415
+    },
+    {
+      "text": "Žádáme o posunutí termínu.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Žádáme o posunutí termínu."
+      ],
+      "start": 5.352290249433106,
+      "end": 8.11546485260771,
+      "sentences": [
+        {
+          "text": "Žádáme o posunutí termínu.",
+          "start": 5.352290249433106,
+          "end": 8.11546485260771,
+          "slow_start": 6.072108843537415,
+          "slow_end": 9.160362811791384
+        }
+      ],
+      "slow_start": 6.072108843537415,
+      "slow_end": 9.160362811791384
+    },
+    {
+      "text": "Smíšené oslovování působí nesourodě.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Smíšené oslovování působí nesourodě."
+      ],
+      "start": 8.29546485260771,
+      "end": 12.022267573696146,
+      "sentences": [
+        {
+          "text": "Smíšené oslovování působí nesourodě.",
+          "start": 8.29546485260771,
+          "end": 12.022267573696146,
+          "slow_start": 9.340362811791383,
+          "slow_end": 13.566394557823129
+        }
+      ],
+      "slow_start": 9.340362811791383,
+      "slow_end": 13.566394557823129
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "c13a3963622613fc68c0a6b5b93b0ceacca1a5d72986dfe0859045ad59d08a9e",
+    "slow": "87b985c077643513e8f57cdaed4f1accb6d87c75e35c6677f2e8062067eea2ae"
+  },
+  "reused_from_track_id": "B2-U04-L01--2026.10.22.1--vocabulary"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "B2-U02-L01--2026.10.22.1--exercises",
+  "lesson_id": "B2-U02-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B2",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Minimum můžeme snížit na šest set kusů, ale doprava by byla zvlášť.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "B2-U02-L01-E03",
+      "parts": [
+        "Minimum můžeme snížit na šest set kusů, ale doprava by byla zvlášť."
+      ]
+    }
+  ],
+  "text_sha256": "a6ff1bc31e852660d070dd186d370ec92a06d24b2beaa8e80c46b570bab429ca",
+  "source_file": "content/lessons/B2/B2-U02-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U02-L01--2026.10.22.1--exercises--a6ff1bc31e--normal.mp3",
+  "slow_file": "content/audio/files/B2-U02-L01--2026.10.22.1--exercises--a6ff1bc31e--slow.mp3",
+  "duration_seconds": 6.5770975056689345,
+  "slow_duration_seconds": 7.540725623582767,
+  "cues": [
+    {
+      "text": "Minimum můžeme snížit na šest set kusů, ale doprava by byla zvlášť.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "B2-U02-L01-E03",
+      "parts": [
+        "Minimum můžeme snížit na šest set kusů, ale doprava by byla zvlášť."
+      ],
+      "start": 0.0,
+      "end": 6.397097505668934,
+      "sentences": [
+        {
+          "text": "Minimum můžeme snížit na šest set kusů, ale doprava by byla zvlášť.",
+          "start": 0.0,
+          "end": 6.397097505668934,
+          "slow_start": 0.0,
+          "slow_end": 7.360725623582766
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 7.360725623582766
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "8cd522e4db393a5e259d67ffff384d34d04ab1fd6810b6ce70eb10d9b149fbb2",
+    "slow": "a936e0e8513d80966eb42c935b6a04c8f4a4da737de82c3e7c4e068b21bf6c77"
+  }
+}

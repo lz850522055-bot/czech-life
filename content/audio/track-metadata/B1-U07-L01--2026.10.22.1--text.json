@@ -1,0 +1,297 @@
+{
+  "id": "B1-U07-L01--2026.10.22.1--text",
+  "lesson_id": "B1-U07-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Po schůzce jsem měl kolegovi poslat krátké shrnutí. Napsal jsem větu: „Včera večer já se jsem rozhodl změnit termín.“ Kolegyně rozuměla tomu, co chci říct, ale upozornila mě na nepřirozené pořadí malých slov. Navrhla jednodušší podobu: „Včera večer jsem se rozhodl změnit termín.“ První část věty tvořilo celé spojení včera večer, nikoli jen první napsané slovo.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Po schůzce jsem měl kolegovi poslat krátké shrnutí.",
+        "Napsal jsem větu: „Včera večer já se jsem rozhodl změnit termín.“",
+        "Kolegyně rozuměla tomu, co chci říct, ale upozornila mě na nepřirozené pořadí malých slov.",
+        "Navrhla jednodušší podobu: „Včera večer jsem se rozhodl změnit termín.“",
+        "První část věty tvořilo celé spojení včera večer, nikoli jen první napsané slovo."
+      ]
+    },
+    {
+      "text": "Potom jsme zkusili začít jinak: „Na poslední schůzce jsme se domluvili na úterý.“ Skupina jsme se opět následovala za prvním významovým celkem. Když jsem chtěl zdůraznit osobu, použil jsem delší zájmeno: „Mně jste to neřekli, pouze Petrovi.“ Nebylo to stejné jako neutrální „Neřekli jste mi to.“ Důraz měnil to, co měl posluchač považovat za hlavní sdělení.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Potom jsme zkusili začít jinak: „Na poslední schůzce jsme se domluvili na úterý.“",
+        "Skupina jsme se opět následovala za prvním významovým celkem.",
+        "Když jsem chtěl zdůraznit osobu, použil jsem delší zájmeno: „Mně jste to neřekli, pouze Petrovi.“",
+        "Nebylo to stejné jako neutrální „Neřekli jste mi to.“",
+        "Důraz měnil to, co měl posluchač považovat za hlavní sdělení."
+      ]
+    },
+    {
+      "text": "Také konec věty může nést důležitou novou informaci. Když se někdo zeptá, kdo připravil návrh, můžeme odpovědět: „Návrh připravila Jana.“ Pokud se ptá, co Jana připravila, přirozeně řekneme: „Jana připravila návrh.“ Samotná správná slova tedy nestačí. Pořadí závisí také na otázce, předchozím rozhovoru a na tom, co už oba lidé vědí.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Také konec věty může nést důležitou novou informaci.",
+        "Když se někdo zeptá, kdo připravil návrh, můžeme odpovědět: „Návrh připravila Jana.“",
+        "Pokud se ptá, co Jana připravila, přirozeně řekneme: „Jana připravila návrh.“",
+        "Samotná správná slova tedy nestačí.",
+        "Pořadí závisí také na otázce, předchozím rozhovoru a na tom, co už oba lidé vědí."
+      ]
+    },
+    {
+      "text": "Do konečné zprávy jsem napsal: „Na dnešní schůzce jsme se dohodli, že vám pošleme nový návrh. Zítra vám ho ukážeme. Kdyby vám některý bod nebyl jasný, rád vám ho vysvětlím.“ Zprávu jsem si přečetl nahlas. Malá slova jsem nezdůrazňoval jedno po druhém; spojil jsem je do plynulých skupin. Díky tomu text zněl přirozeněji a zároveň bylo jasnější, kdo komu co pošle.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Do konečné zprávy jsem napsal: „Na dnešní schůzce jsme se dohodli, že vám pošleme nový návrh.",
+        "Zítra vám ho ukážeme.",
+        "Kdyby vám některý bod nebyl jasný, rád vám ho vysvětlím.“",
+        "Zprávu jsem si přečetl nahlas.",
+        "Malá slova jsem nezdůrazňoval jedno po druhém; spojil jsem je do plynulých skupin.",
+        "Díky tomu text zněl přirozeněji a zároveň bylo jasnější, kdo komu co pošle."
+      ]
+    }
+  ],
+  "text_sha256": "f31a94236bdbcb01783669e832a0b7144e308d8bf4bf77636bcf0aceba64ab51",
+  "source_file": "content/lessons/B1/B1-U07-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--normal.mp3",
+  "slow_file": "content/audio/files/B1-U07-L01--2026.10.22.1--text--f31a94236b--slow.mp3",
+  "duration_seconds": 130.41002267573697,
+  "slow_duration_seconds": 146.8265306122449,
+  "cues": [
+    {
+      "text": "Po schůzce jsem měl kolegovi poslat krátké shrnutí. Napsal jsem větu: „Včera večer já se jsem rozhodl změnit termín.“ Kolegyně rozuměla tomu, co chci říct, ale upozornila mě na nepřirozené pořadí malých slov. Navrhla jednodušší podobu: „Včera večer jsem se rozhodl změnit termín.“ První část věty tvořilo celé spojení včera večer, nikoli jen první napsané slovo.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Po schůzce jsem měl kolegovi poslat krátké shrnutí.",
+        "Napsal jsem větu: „Včera večer já se jsem rozhodl změnit termín.“",
+        "Kolegyně rozuměla tomu, co chci říct, ale upozornila mě na nepřirozené pořadí malých slov.",
+        "Navrhla jednodušší podobu: „Včera večer jsem se rozhodl změnit termín.“",
+        "První část věty tvořilo celé spojení včera večer, nikoli jen první napsané slovo."
+      ],
+      "start": 0.0,
+      "end": 33.611065759637185,
+      "sentences": [
+        {
+          "text": "Po schůzce jsem měl kolegovi poslat krátké shrnutí.",
+          "start": 0.0,
+          "end": 4.597551020408163,
+          "slow_start": 0.0,
+          "slow_end": 5.12
+        },
+        {
+          "text": "Napsal jsem větu: „Včera večer já se jsem rozhodl změnit termín.“",
+          "start": 4.777551020408163,
+          "end": 11.174648526077098,
+          "slow_start": 5.3,
+          "slow_end": 12.509795918367347
+        },
+        {
+          "text": "Kolegyně rozuměla tomu, co chci říct, ale upozornila mě na nepřirozené pořadí malých slov.",
+          "start": 11.354648526077098,
+          "end": 19.214603174603173,
+          "slow_start": 12.689795918367347,
+          "slow_end": 21.513378684807257
+        },
+        {
+          "text": "Navrhla jednodušší podobu: „Včera večer jsem se rozhodl změnit termín.“",
+          "start": 19.394603174603173,
+          "end": 25.90780045351474,
+          "slow_start": 21.693378684807257,
+          "slow_end": 29.15859410430839
+        },
+        {
+          "text": "První část věty tvořilo celé spojení včera večer, nikoli jen první napsané slovo.",
+          "start": 26.08780045351474,
+          "end": 33.611065759637185,
+          "slow_start": 29.33859410430839,
+          "slow_end": 37.89514739229025
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 37.89514739229025
+    },
+    {
+      "text": "Potom jsme zkusili začít jinak: „Na poslední schůzce jsme se domluvili na úterý.“ Skupina jsme se opět následovala za prvním významovým celkem. Když jsem chtěl zdůraznit osobu, použil jsem delší zájmeno: „Mně jste to neřekli, pouze Petrovi.“ Nebylo to stejné jako neutrální „Neřekli jste mi to.“ Důraz měnil to, co měl posluchač považovat za hlavní sdělení.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Potom jsme zkusili začít jinak: „Na poslední schůzce jsme se domluvili na úterý.“",
+        "Skupina jsme se opět následovala za prvním významovým celkem.",
+        "Když jsem chtěl zdůraznit osobu, použil jsem delší zájmeno: „Mně jste to neřekli, pouze Petrovi.“",
+        "Nebylo to stejné jako neutrální „Neřekli jste mi to.“",
+        "Důraz měnil to, co měl posluchač považovat za hlavní sdělení."
+      ],
+      "start": 33.791065759637185,
+      "end": 65.39360544217688,
+      "sentences": [
+        {
+          "text": "Potom jsme zkusili začít jinak: „Na poslední schůzce jsme se domluvili na úterý.“",
+          "start": 33.791065759637185,
+          "end": 40.687392290249434,
+          "slow_start": 38.07514739229025,
+          "slow_end": 46.08603174603174
+        },
+        {
+          "text": "Skupina jsme se opět následovala za prvním významovým celkem.",
+          "start": 40.867392290249434,
+          "end": 46.50984126984127,
+          "slow_start": 46.26603174603174,
+          "slow_end": 52.80244897959184
+        },
+        {
+          "text": "Když jsem chtěl zdůraznit osobu, použil jsem delší zájmeno: „Mně jste to neřekli, pouze Petrovi.“",
+          "start": 46.68984126984127,
+          "end": 55.23478458049887,
+          "slow_start": 52.98244897959184,
+          "slow_end": 62.51424036281179
+        },
+        {
+          "text": "Nebylo to stejné jako neutrální „Neřekli jste mi to.“",
+          "start": 55.41478458049887,
+          "end": 59.5827664399093,
+          "slow_start": 62.69424036281179,
+          "slow_end": 67.34984126984126
+        },
+        {
+          "text": "Důraz měnil to, co měl posluchač považovat za hlavní sdělení.",
+          "start": 59.7627664399093,
+          "end": 65.39360544217688,
+          "slow_start": 67.52984126984127,
+          "slow_end": 73.76439909297052
+        }
+      ],
+      "slow_start": 38.07514739229025,
+      "slow_end": 73.76439909297052
+    },
+    {
+      "text": "Také konec věty může nést důležitou novou informaci. Když se někdo zeptá, kdo připravil návrh, můžeme odpovědět: „Návrh připravila Jana.“ Pokud se ptá, co Jana připravila, přirozeně řekneme: „Jana připravila návrh.“ Samotná správná slova tedy nestačí. Pořadí závisí také na otázce, předchozím rozhovoru a na tom, co už oba lidé vědí.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Také konec věty může nést důležitou novou informaci.",
+        "Když se někdo zeptá, kdo připravil návrh, můžeme odpovědět: „Návrh připravila Jana.“",
+        "Pokud se ptá, co Jana připravila, přirozeně řekneme: „Jana připravila návrh.“",
+        "Samotná správná slova tedy nestačí.",
+        "Pořadí závisí také na otázce, předchozím rozhovoru a na tom, co už oba lidé vědí."
+      ],
+      "start": 65.57360544217687,
+      "end": 96.7233560090703,
+      "sentences": [
+        {
+          "text": "Také konec věty může nést důležitou novou informaci.",
+          "start": 65.57360544217687,
+          "end": 70.57750566893424,
+          "slow_start": 73.94439909297053,
+          "slow_end": 79.61006802721089
+        },
+        {
+          "text": "Když se někdo zeptá, kdo připravil návrh, můžeme odpovědět: „Návrh připravila Jana.“",
+          "start": 70.75750566893424,
+          "end": 78.32721088435375,
+          "slow_start": 79.79006802721088,
+          "slow_end": 88.43950113378685
+        },
+        {
+          "text": "Pokud se ptá, co Jana připravila, přirozeně řekneme: „Jana připravila návrh.“",
+          "start": 78.50721088435374,
+          "end": 85.18294784580499,
+          "slow_start": 88.61950113378686,
+          "slow_end": 96.10793650793651
+        },
+        {
+          "text": "Samotná správná slova tedy nestačí.",
+          "start": 85.36294784580498,
+          "end": 88.70662131519275,
+          "slow_start": 96.28793650793651,
+          "slow_end": 100.03795918367346
+        },
+        {
+          "text": "Pořadí závisí také na otázce, předchozím rozhovoru a na tom, co už oba lidé vědí.",
+          "start": 88.88662131519274,
+          "end": 96.7233560090703,
+          "slow_start": 100.21795918367347,
+          "slow_end": 108.8790022675737
+        }
+      ],
+      "slow_start": 73.94439909297053,
+      "slow_end": 108.8790022675737
+    },
+    {
+      "text": "Do konečné zprávy jsem napsal: „Na dnešní schůzce jsme se dohodli, že vám pošleme nový návrh. Zítra vám ho ukážeme. Kdyby vám některý bod nebyl jasný, rád vám ho vysvětlím.“ Zprávu jsem si přečetl nahlas. Malá slova jsem nezdůrazňoval jedno po druhém; spojil jsem je do plynulých skupin. Díky tomu text zněl přirozeněji a zároveň bylo jasnější, kdo komu co pošle.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Do konečné zprávy jsem napsal: „Na dnešní schůzce jsme se dohodli, že vám pošleme nový návrh.",
+        "Zítra vám ho ukážeme.",
+        "Kdyby vám některý bod nebyl jasný, rád vám ho vysvětlím.“",
+        "Zprávu jsem si přečetl nahlas.",
+        "Malá slova jsem nezdůrazňoval jedno po druhém; spojil jsem je do plynulých skupin.",
+        "Díky tomu text zněl přirozeněji a zároveň bylo jasnější, kdo komu co pošle."
+      ],
+      "start": 96.9033560090703,
+      "end": 130.23002267573696,
+      "sentences": [
+        {
+          "text": "Do konečné zprávy jsem napsal: „Na dnešní schůzce jsme se dohodli, že vám pošleme nový návrh.",
+          "start": 96.9033560090703,
+          "end": 104.9142403628118,
+          "slow_start": 109.0590022675737,
+          "slow_end": 117.90580498866213
+        },
+        {
+          "text": "Zítra vám ho ukážeme.",
+          "start": 105.09424036281179,
+          "end": 107.05632653061224,
+          "slow_start": 118.08580498866213,
+          "slow_end": 120.36136054421769
+        },
+        {
+          "text": "Kdyby vám některý bod nebyl jasný, rád vám ho vysvětlím.“",
+          "start": 107.23632653061225,
+          "end": 112.62335600907029,
+          "slow_start": 120.54136054421768,
+          "slow_end": 126.54371882086168
+        },
+        {
+          "text": "Zprávu jsem si přečetl nahlas.",
+          "start": 112.8033560090703,
+          "end": 115.85678004535147,
+          "slow_start": 126.72371882086168,
+          "slow_end": 130.2647619047619
+        },
+        {
+          "text": "Malá slova jsem nezdůrazňoval jedno po druhém; spojil jsem je do plynulých skupin.",
+          "start": 116.03678004535148,
+          "end": 123.13047619047619,
+          "slow_start": 130.44476190476192,
+          "slow_end": 138.4904761904762
+        },
+        {
+          "text": "Díky tomu text zněl přirozeněji a zároveň bylo jasnější, kdo komu co pošle.",
+          "start": 123.3104761904762,
+          "end": 130.23002267573696,
+          "slow_start": 138.6704761904762,
+          "slow_end": 146.6465306122449
+        }
+      ],
+      "slow_start": 109.0590022675737,
+      "slow_end": 146.6465306122449
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "e2b4b673960669bb772fa6f2da167c6dbec136de93c71edcf17a2e423ad4294f",
+    "slow": "5f506afe0112e5be795c01b19b14ed107a5afcb0b7cda282537c6cb2c8d4c307"
+  }
+}

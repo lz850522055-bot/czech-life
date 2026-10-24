@@ -1,0 +1,1338 @@
+{
+  "id": "A2-U02-L01",
+  "level": "A2",
+  "unit_id": "A2-U02",
+  "order": 20,
+  "version": "2026.10.22.1",
+  "title_zh": "一个、几个、一群：让词一起变",
+  "title_cs": "Jednotné a množné číslo",
+  "prerequisites": [
+    "A2-U01-L01"
+  ],
+  "can_do": [
+    "使用常见主格复数",
+    "让形容词与复数类别一致",
+    "识别常见不规则复数"
+  ],
+  "scene": "物品与人物",
+  "skills": [
+    "listening",
+    "speaking",
+    "reading",
+    "writing",
+    "interaction",
+    "mediation"
+  ],
+  "knowledge_points": [
+    "plural-nouns",
+    "plural-agreement"
+  ],
+  "intro_zh": "描述一间新布置的教室：谁来了、哪些东西是新的。重点是整组词共同变化，不只改名词末尾。",
+  "lesson_text": [
+    {
+      "id": "s01",
+      "cs": "Naše jazyková skupina má novou učebnu. Není velká, ale je světlá a má dvě velká okna. U oken stojí tři nové stoly.",
+      "zh": "我们的语言小组有一间新教室。不大，但明亮，有两扇大窗。窗边有三张新桌子。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s02",
+      "cs": "Staré židle jsme nechali v kanceláři. Do učebny jsme přinesli nové židle, protože na nich sedíme několik hodin.",
+      "zh": "旧椅子留在办公室。我们搬了新椅子进教室，因为一坐就是几个小时。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s03",
+      "cs": "Dnes přišli dva noví studenti a tři nové studentky. Učitelka jim ukázala knihy, mapy a malé slovníky na polici.",
+      "zh": "今天来了两名新男学员和三名新女学员，老师给他们看架上的书、地图和小词典。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s04",
+      "cs": "Jeden student je kuchař a druhý pracuje v dopravě. Studentky mají různé práce, ale všechny chtějí lépe mluvit česky.",
+      "zh": "一名男学员是厨师，另一名从事交通工作。女学员职业不同，但都想捷语说得更好。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s05",
+      "cs": "Na zdi jsou fotografie různých měst. Jedno město známe všichni, ostatní ještě neznáme. Příště o nich budeme mluvit.",
+      "zh": "墙上有不同城市的照片。有一座城市大家都认识，其他的还不认识，下次会谈它们。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s06",
+      "cs": "V místnosti je také malé rádio. Dvě stará rádia už nefungují, proto používáme jen to nové.",
+      "zh": "房间里还有一台小收音机。两台旧的坏了，所以只用新的。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s07",
+      "cs": "Učitelka říká, že každý člověk se učí jinak. Lidé potřebují různé příklady a děti někdy vyslovují nové zvuky rychleji než dospělí.",
+      "zh": "老师说，每个人学法不同，人们需要不同例子，孩子有时比成人更快学会新声音。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s08",
+      "cs": "Dnes proto nebudeme jen číst. Budeme také poslouchat, mluvit spolu a popisovat věci kolem sebe.",
+      "zh": "所以今天不只阅读，也要听、互相交流，描述周围事物。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "plural-nouns",
+      "rule_zh": "复数不是统一加一个尾巴，要按词类和常见范式记。",
+      "detail_zh": "stůl→stoly，telefon→telefony；žena→ženy，kniha→knihy，židle→židle；město→města，okno→okna；student→studenti，muž→muži，kolega→kolegové。常见不规则：člověk→lidé，dítě→děti，bratr→bratři。",
+      "examples": [
+        {
+          "cs": "Nové knihy jsou tady.",
+          "zh": "新书在这里。",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        },
+        {
+          "cs": "Noví studenti přišli.",
+          "zh": "新男学员来了。",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        }
+      ],
+      "pitfalls": [
+        "把所有复数都加-y。"
+      ],
+      "exceptions": [
+        "有些词通常只有复数，如dveře、kalhoty；一些物质名词通常不按件直接数。"
+      ],
+      "term": "名词复数"
+    },
+    {
+      "id": "plural-agreement",
+      "rule_zh": "“新的”也跟一群东西的类别变化。",
+      "detail_zh": "主格复数硬形容词：阳性有生noví studenti；阳性无生nové stoly；阴性nové ženy；中性nová města。软形容词如jarní在这些主格形式表面相同。过去式：studenti přišli，studentky přišly，auta přijela。",
+      "examples": [
+        {
+          "cs": "Dvě velká okna.",
+          "zh": "两扇大窗。",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        },
+        {
+          "cs": "Dva noví kolegové.",
+          "zh": "两名新男同事。",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        }
+      ],
+      "pitfalls": [
+        "中性复数仍用nové，或忽略阳性有生-í。"
+      ],
+      "exceptions": [
+        "混合类别的一致需要看组合，B2再系统处理复杂主语。"
+      ],
+      "term": "复数一致"
+    }
+  ],
+  "vocabulary": [
+    {
+      "lemma": "student",
+      "pos": "名词，阳性有生",
+      "forms": "studenta; studenti",
+      "meaning_zh": "男学员",
+      "collocation": "nový student",
+      "example_cs": "Přišli dva studenti.",
+      "example_zh": "来了两名男学员。",
+      "confusion_zh": "复数-i。"
+    },
+    {
+      "lemma": "studentka",
+      "pos": "名词，阴性",
+      "forms": "studentky; studentky",
+      "meaning_zh": "女学员",
+      "collocation": "nová studentka",
+      "example_cs": "Studentky čtou.",
+      "example_zh": "女学员们读书。",
+      "confusion_zh": "过去读过četly。"
+    },
+    {
+      "lemma": "člověk",
+      "pos": "名词，阳性有生",
+      "forms": "člověka; lidé",
+      "meaning_zh": "人",
+      "collocation": "každý člověk",
+      "example_cs": "Každý člověk je jiný.",
+      "example_zh": "每个人不同。",
+      "confusion_zh": "复数lidé不规则。"
+    },
+    {
+      "lemma": "dítě",
+      "pos": "名词，中性",
+      "forms": "dítěte; děti",
+      "meaning_zh": "孩子",
+      "collocation": "malé dítě",
+      "example_cs": "Děti si hrají.",
+      "example_zh": "孩子们玩耍。",
+      "confusion_zh": "复数děti阴性一致：malé děti。"
+    },
+    {
+      "lemma": "slovník",
+      "pos": "名词，阳性无生",
+      "forms": "slovníku; slovníky",
+      "meaning_zh": "词典",
+      "collocation": "malý slovník",
+      "example_cs": "Používám slovník.",
+      "example_zh": "我用词典。",
+      "confusion_zh": "不同于slovo词。"
+    },
+    {
+      "lemma": "světlý",
+      "pos": "形容词",
+      "forms": "světlá; světlé; světlí",
+      "meaning_zh": "明亮；浅色",
+      "collocation": "světlá místnost",
+      "example_cs": "Učebna je světlá.",
+      "example_zh": "教室明亮。",
+      "confusion_zh": "场景决定颜色或光线。"
+    }
+  ],
+  "listening": {
+    "script": [
+      {
+        "cs": "Do kanceláře přišly dvě nové kolegyně. Přinesly tři malé krabice a dvě nová rádia.",
+        "zh": "办公室来了两位新女同事，带来三个小箱子和两台新收音机。",
+        "note_zh": "先理解整句意图，再回看本课规律。"
+      }
+    ],
+    "focus_zh": "先不看文本听出任务关键信息；第二遍核对词形、数字与否定；最后对照中文。",
+    "source": "original"
+  },
+  "pronunciation": {
+    "focus_zh": "noví与nový在标准语中常同音，不能靠声音判断所有拼写；要看名词与语法关系。",
+    "contrast": [
+      {
+        "a": "noví studenti",
+        "b": "nové studentky",
+        "note_zh": "听结尾同时看类别。"
+      }
+    ],
+    "task_zh": "录三组复数，写下对应拼写再核对。"
+  },
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "听力中带来几台收音机？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "两"
+        },
+        {
+          "id": "b",
+          "text": "三"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "dvě nová rádia。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "listening"
+      ],
+      "error_category": "comprehension",
+      "audio_text_cs": "Přinesly tři krabice a dvě nová rádia.",
+      "id": "A2-U02-L01-E01",
+      "knowledge_points": [
+        "plural-nouns",
+        "plural-agreement"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "填“新男学员们”。",
+      "stimulus_cs": "___ studenti（nový）",
+      "answer": "noví",
+      "accepted_answers": [
+        "noví"
+      ],
+      "explanation_zh": "阳性有生主格复数-í。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "A2-U02-L01-E02",
+      "knowledge_points": [
+        "plural-nouns",
+        "plural-agreement"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "填“两个大窗”。",
+      "stimulus_cs": "dvě ___ okna（velký）",
+      "answer": "velká",
+      "accepted_answers": [
+        "velká"
+      ],
+      "explanation_zh": "中性复数-á。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "A2-U02-L01-E03",
+      "knowledge_points": [
+        "plural-nouns",
+        "plural-agreement"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "člověk的常用复数是？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "člověky"
+        },
+        {
+          "id": "b",
+          "text": "lidé"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "不规则变化。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "A2-U02-L01-E04",
+      "knowledge_points": [
+        "plural-nouns",
+        "plural-agreement"
+      ]
+    },
+    {
+      "type": "correct",
+      "prompt_zh": "改正一致。",
+      "stimulus_cs": "Nové města jsou krásné.",
+      "answer": "Nová města jsou krásná.",
+      "accepted_answers": [
+        "Nová města jsou krásná."
+      ],
+      "explanation_zh": "města中性复数，两形容词都-á。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "A2-U02-L01-E05",
+      "knowledge_points": [
+        "plural-nouns",
+        "plural-agreement"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt_zh": "排列“来了两位新女同事”。",
+      "stimulus_cs": "nové kolegyně. / Přišly / dvě",
+      "answer": "Přišly dvě nové kolegyně.",
+      "accepted_answers": [
+        "Přišly dvě nové kolegyně."
+      ],
+      "explanation_zh": "女性复数过去-y。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "word_order",
+      "options": [
+        "nové kolegyně.",
+        "Přišly",
+        "dvě"
+      ],
+      "id": "A2-U02-L01-E06",
+      "knowledge_points": [
+        "plural-nouns",
+        "plural-agreement"
+      ]
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "描述房间里两组不同类别的物品。",
+      "stimulus_cs": "",
+      "answer": "Tady jsou nové stoly a velká okna.",
+      "accepted_answers": [],
+      "explanation_zh": "复数形容词一起变。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A2-U02-L01-E07",
+      "knowledge_points": [
+        "plural-nouns",
+        "plural-agreement"
+      ]
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "同伴把一名新学员听成多名，澄清只有一个。",
+      "stimulus_cs": "",
+      "answer": "Je tady jen jeden nový student, ne dva.",
+      "accepted_answers": [],
+      "explanation_zh": "数量、名词、形容词同步改。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A2-U02-L01-E08",
+      "knowledge_points": [
+        "plural-nouns",
+        "plural-agreement"
+      ]
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "写三句，分别谈男学员、女学员和窗户。",
+      "stimulus_cs": "",
+      "answer": "Studenti jsou noví. Studentky jsou nové. Okna jsou velká.",
+      "accepted_answers": [],
+      "explanation_zh": "类别与复数一致。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A2-U02-L01-E09",
+      "knowledge_points": [
+        "plural-nouns",
+        "plural-agreement"
+      ]
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "用中文说明听力中来人和携带物品的数量。",
+      "stimulus_cs": "",
+      "answer": "两位女同事，三个箱子，两台收音机。",
+      "accepted_answers": [],
+      "explanation_zh": "三组数字分别对应。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A2-U02-L01-E10",
+      "knowledge_points": [
+        "plural-nouns",
+        "plural-agreement"
+      ]
+    }
+  ],
+  "transfer_task": {
+    "prompt_zh": "把“一个新同事带来一个大箱子”改成“两名女同事带来三个大箱子”。",
+    "model_answer_cs": "Dvě nové kolegyně přinesly tři velké krabice.",
+    "rubric": [
+      "任务信息完整",
+      "用目标规律表达",
+      "独立完成并回听/回看"
+    ]
+  },
+  "review_links": [
+    "A2-U01-L01"
+  ],
+  "sources": [
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?id=202",
+      "scope": "本课涉及的声音/词形/语法规则；编排与例句为原创",
+      "verification": "官方来源用于相关规则交叉核查；具体查核范围见content/sources/foundation-verification.md；本课例句为原创，未逐句母语审校。"
+    }
+  ],
+  "content_status": "authored_crosschecked_not_native_reviewed",
+  "quality_notes": [
+    "课程及题目原创；自动检查结构、唯一ID与答案。",
+    "已对照所列官方发音、数词、条件式、物主词等章节核查相应规则；其余内容做内部语言一致性复核，未逐句外部审校。",
+    "CEFR级别为教学编排，不构成官方达标或考试认证。"
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "A2-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--normal.mp3",
+      "slow_file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U02-L01--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Naše jazyková skupina má novou učebnu. Není velká, ale je světlá a má dvě velká okna. U oken stojí tři nové stoly. Staré židle jsme nechali v kanceláři. Do učebny jsme přinesli nové židle, protože na nich sedíme několik hodin. Dnes přišli dva noví studenti a tři nové studentky. Učitelka jim ukázala knihy, mapy a malé slovníky na polici. Jeden student je kuchař a druhý pracuje v dopravě. Studentky mají různé práce, ale všechny chtějí lépe mluvit česky. Na zdi jsou fotografie různých měst. Jedno město známe všichni, ostatní ještě neznáme. Příště o nich budeme mluvit. V místnosti je také malé rádio. Dvě stará rádia už nefungují, proto používáme jen to nové. Učitelka říká, že každý člověk se učí jinak. Lidé potřebují různé příklady a děti někdy vyslovují nové zvuky rychleji než dospělí. Dnes proto nebudeme jen číst. Budeme také poslouchat, mluvit spolu a popisovat věci kolem sebe.",
+      "duration_seconds": 80.92235827664399,
+      "slow_duration_seconds": 90.82566893424037,
+      "sha256": "0f58cfb552815080ab3b55b34c8d1de3ce6d5346b425fd7f8114d670c2fc954e",
+      "slow_sha256": "3b7a8104c92f07acd0c6c773b7fa95dd94912d45d0d43a5be679404cd7c053c2"
+    },
+    {
+      "lesson_id": "A2-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--normal.mp3",
+      "slow_file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U02-L01--2026.10.22.1--text--p0",
+      "asset_id": "A2-U02-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Naše jazyková skupina má novou učebnu. Není velká, ale je světlá a má dvě velká okna. U oken stojí tři nové stoly.",
+      "start": 0,
+      "end": 10.832199546485262,
+      "slow_start": 0,
+      "slow_end": 11.935147392290249
+    },
+    {
+      "lesson_id": "A2-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--normal.mp3",
+      "slow_file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U02-L01--2026.10.22.1--text--s0",
+      "asset_id": "A2-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Naše jazyková skupina má novou učebnu.",
+      "start": 0,
+      "end": 3.4017233560090703,
+      "slow_start": 0,
+      "slow_end": 3.6919727891156464
+    },
+    {
+      "lesson_id": "A2-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--normal.mp3",
+      "slow_file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U02-L01--2026.10.22.1--text--s1",
+      "asset_id": "A2-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Není velká, ale je světlá a má dvě velká okna.",
+      "start": 3.5817233560090704,
+      "end": 7.993514739229025,
+      "slow_start": 3.871972789115646,
+      "slow_end": 8.724943310657597
+    },
+    {
+      "lesson_id": "A2-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--normal.mp3",
+      "slow_file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U02-L01--2026.10.22.1--text--s2",
+      "asset_id": "A2-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "U oken stojí tři nové stoly.",
+      "start": 8.173514739229025,
+      "end": 10.832199546485262,
+      "slow_start": 8.904943310657597,
+      "slow_end": 11.935147392290249
+    },
+    {
+      "lesson_id": "A2-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--normal.mp3",
+      "slow_file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U02-L01--2026.10.22.1--text--p1",
+      "asset_id": "A2-U02-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Staré židle jsme nechali v kanceláři. Do učebny jsme přinesli nové židle, protože na nich sedíme několik hodin.",
+      "start": 11.012199546485261,
+      "end": 19.876462585034012,
+      "slow_start": 12.115147392290249,
+      "slow_end": 22.16362811791383
+    },
+    {
+      "lesson_id": "A2-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--normal.mp3",
+      "slow_file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U02-L01--2026.10.22.1--text--s3",
+      "asset_id": "A2-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 3,
+      "paragraph_index": 1,
+      "sentence_index": 0,
+      "text": "Staré židle jsme nechali v kanceláři.",
+      "start": 11.012199546485261,
+      "end": 14.030793650793651,
+      "slow_start": 12.115147392290249,
+      "slow_end": 15.540090702947845
+    },
+    {
+      "lesson_id": "A2-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--normal.mp3",
+      "slow_file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U02-L01--2026.10.22.1--text--s4",
+      "asset_id": "A2-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 4,
+      "paragraph_index": 1,
+      "sentence_index": 1,
+      "text": "Do učebny jsme přinesli nové židle, protože na nich sedíme několik hodin.",
+      "start": 14.21079365079365,
+      "end": 19.876462585034012,
+      "slow_start": 15.720090702947846,
+      "slow_end": 22.16362811791383
+    },
+    {
+      "lesson_id": "A2-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--normal.mp3",
+      "slow_file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U02-L01--2026.10.22.1--text--p2",
+      "asset_id": "A2-U02-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Dnes přišli dva noví studenti a tři nové studentky. Učitelka jim ukázala knihy, mapy a malé slovníky na polici.",
+      "start": 20.056462585034012,
+      "end": 29.942403628117916,
+      "slow_start": 22.34362811791383,
+      "slow_end": 33.52988662131519
+    },
+    {
+      "lesson_id": "A2-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--normal.mp3",
+      "slow_file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U02-L01--2026.10.22.1--text--s5",
+      "asset_id": "A2-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 5,
+      "paragraph_index": 2,
+      "sentence_index": 0,
+      "text": "Dnes přišli dva noví studenti a tři nové studentky.",
+      "start": 20.056462585034012,
+      "end": 24.375374149659866,
+      "slow_start": 22.34362811791383,
+      "slow_end": 27.15015873015873
+    },
+    {
+      "lesson_id": "A2-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--normal.mp3",
+      "slow_file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U02-L01--2026.10.22.1--text--s6",
+      "asset_id": "A2-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 6,
+      "paragraph_index": 2,
+      "sentence_index": 1,
+      "text": "Učitelka jim ukázala knihy, mapy a malé slovníky na polici.",
+      "start": 24.555374149659865,
+      "end": 29.942403628117916,
+      "slow_start": 27.33015873015873,
+      "slow_end": 33.52988662131519
+    },
+    {
+      "lesson_id": "A2-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--normal.mp3",
+      "slow_file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U02-L01--2026.10.22.1--text--p3",
+      "asset_id": "A2-U02-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Jeden student je kuchař a druhý pracuje v dopravě. Studentky mají různé práce, ale všechny chtějí lépe mluvit česky.",
+      "start": 30.122403628117915,
+      "end": 40.36825396825397,
+      "slow_start": 33.70988662131519,
+      "slow_end": 45.2908843537415
+    },
+    {
+      "lesson_id": "A2-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--normal.mp3",
+      "slow_file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U02-L01--2026.10.22.1--text--s7",
+      "asset_id": "A2-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 7,
+      "paragraph_index": 3,
+      "sentence_index": 0,
+      "text": "Jeden student je kuchař a druhý pracuje v dopravě.",
+      "start": 30.122403628117915,
+      "end": 34.40648526077098,
+      "slow_start": 33.70988662131519,
+      "slow_end": 38.51641723356009
+    },
+    {
+      "lesson_id": "A2-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--normal.mp3",
+      "slow_file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U02-L01--2026.10.22.1--text--s8",
+      "asset_id": "A2-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 8,
+      "paragraph_index": 3,
+      "sentence_index": 1,
+      "text": "Studentky mají různé práce, ale všechny chtějí lépe mluvit česky.",
+      "start": 34.58648526077098,
+      "end": 40.36825396825397,
+      "slow_start": 38.69641723356009,
+      "slow_end": 45.2908843537415
+    },
+    {
+      "lesson_id": "A2-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--normal.mp3",
+      "slow_file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U02-L01--2026.10.22.1--text--p4",
+      "asset_id": "A2-U02-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 4,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Na zdi jsou fotografie různých měst. Jedno město známe všichni, ostatní ještě neznáme. Příště o nich budeme mluvit.",
+      "start": 40.54825396825397,
+      "end": 50.74190476190476,
+      "slow_start": 45.470884353741496,
+      "slow_end": 56.81392290249433
+    },
+    {
+      "lesson_id": "A2-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--normal.mp3",
+      "slow_file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U02-L01--2026.10.22.1--text--s9",
+      "asset_id": "A2-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 9,
+      "paragraph_index": 4,
+      "sentence_index": 0,
+      "text": "Na zdi jsou fotografie různých měst.",
+      "start": 40.54825396825397,
+      "end": 43.9615873015873,
+      "slow_start": 45.470884353741496,
+      "slow_end": 49.3021768707483
+    },
+    {
+      "lesson_id": "A2-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--normal.mp3",
+      "slow_file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U02-L01--2026.10.22.1--text--s10",
+      "asset_id": "A2-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 10,
+      "paragraph_index": 4,
+      "sentence_index": 1,
+      "text": "Jedno město známe všichni, ostatní ještě neznáme.",
+      "start": 44.1415873015873,
+      "end": 48.216689342403626,
+      "slow_start": 49.4821768707483,
+      "slow_end": 54.14938775510204
+    },
+    {
+      "lesson_id": "A2-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--normal.mp3",
+      "slow_file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U02-L01--2026.10.22.1--text--s11",
+      "asset_id": "A2-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 11,
+      "paragraph_index": 4,
+      "sentence_index": 2,
+      "text": "Příště o nich budeme mluvit.",
+      "start": 48.396689342403626,
+      "end": 50.74190476190476,
+      "slow_start": 54.32938775510204,
+      "slow_end": 56.81392290249433
+    },
+    {
+      "lesson_id": "A2-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--normal.mp3",
+      "slow_file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U02-L01--2026.10.22.1--text--p5",
+      "asset_id": "A2-U02-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 5,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "V místnosti je také malé rádio. Dvě stará rádia už nefungují, proto používáme jen to nové.",
+      "start": 50.92190476190476,
+      "end": 59.47269841269841,
+      "slow_start": 56.99392290249433,
+      "slow_end": 66.6360544217687
+    },
+    {
+      "lesson_id": "A2-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--normal.mp3",
+      "slow_file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U02-L01--2026.10.22.1--text--s12",
+      "asset_id": "A2-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 12,
+      "paragraph_index": 5,
+      "sentence_index": 0,
+      "text": "V místnosti je také malé rádio.",
+      "start": 50.92190476190476,
+      "end": 53.69668934240363,
+      "slow_start": 56.99392290249433,
+      "slow_end": 60.105396825396824
+    },
+    {
+      "lesson_id": "A2-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--normal.mp3",
+      "slow_file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U02-L01--2026.10.22.1--text--s13",
+      "asset_id": "A2-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 13,
+      "paragraph_index": 5,
+      "sentence_index": 1,
+      "text": "Dvě stará rádia už nefungují, proto používáme jen to nové.",
+      "start": 53.87668934240363,
+      "end": 59.47269841269841,
+      "slow_start": 60.28539682539682,
+      "slow_end": 66.6360544217687
+    },
+    {
+      "lesson_id": "A2-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--normal.mp3",
+      "slow_file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U02-L01--2026.10.22.1--text--p6",
+      "asset_id": "A2-U02-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 6,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Učitelka říká, že každý člověk se učí jinak. Lidé potřebují různé příklady a děti někdy vyslovují nové zvuky rychleji než dospělí.",
+      "start": 59.65269841269841,
+      "end": 71.69809523809523,
+      "slow_start": 66.81605442176871,
+      "slow_end": 80.45201814058957
+    },
+    {
+      "lesson_id": "A2-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--normal.mp3",
+      "slow_file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U02-L01--2026.10.22.1--text--s14",
+      "asset_id": "A2-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 14,
+      "paragraph_index": 6,
+      "sentence_index": 0,
+      "text": "Učitelka říká, že každý člověk se učí jinak.",
+      "start": 59.65269841269841,
+      "end": 63.63492063492063,
+      "slow_start": 66.81605442176871,
+      "slow_end": 71.36716553287982
+    },
+    {
+      "lesson_id": "A2-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--normal.mp3",
+      "slow_file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U02-L01--2026.10.22.1--text--s15",
+      "asset_id": "A2-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 15,
+      "paragraph_index": 6,
+      "sentence_index": 1,
+      "text": "Lidé potřebují různé příklady a děti někdy vyslovují nové zvuky rychleji než dospělí.",
+      "start": 63.81492063492063,
+      "end": 71.69809523809523,
+      "slow_start": 71.54716553287982,
+      "slow_end": 80.45201814058957
+    },
+    {
+      "lesson_id": "A2-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--normal.mp3",
+      "slow_file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U02-L01--2026.10.22.1--text--p7",
+      "asset_id": "A2-U02-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 7,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Dnes proto nebudeme jen číst. Budeme také poslouchat, mluvit spolu a popisovat věci kolem sebe.",
+      "start": 71.87809523809524,
+      "end": 80.742358276644,
+      "slow_start": 80.63201814058957,
+      "slow_end": 90.64566893424036
+    },
+    {
+      "lesson_id": "A2-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--normal.mp3",
+      "slow_file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U02-L01--2026.10.22.1--text--s16",
+      "asset_id": "A2-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 16,
+      "paragraph_index": 7,
+      "sentence_index": 0,
+      "text": "Dnes proto nebudeme jen číst.",
+      "start": 71.87809523809524,
+      "end": 74.57160997732426,
+      "slow_start": 80.63201814058957,
+      "slow_end": 83.67383219954648
+    },
+    {
+      "lesson_id": "A2-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--normal.mp3",
+      "slow_file": "audio/files/A2-U02-L01--2026.10.22.1--text--8797c4f516--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U02-L01--2026.10.22.1--text--s17",
+      "asset_id": "A2-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 17,
+      "paragraph_index": 7,
+      "sentence_index": 1,
+      "text": "Budeme také poslouchat, mluvit spolu a popisovat věci kolem sebe.",
+      "start": 74.75160997732426,
+      "end": 80.742358276644,
+      "slow_start": 83.85383219954649,
+      "slow_end": 90.64566893424036
+    },
+    {
+      "lesson_id": "A2-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U02-L01--2026.10.22.1--listening--7b3a3f9fad--normal.mp3",
+      "slow_file": "audio/files/A2-U02-L01--2026.10.22.1--listening--7b3a3f9fad--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U02-L01--2026.10.22.1--listening",
+      "role": "listening-full",
+      "index": 0,
+      "text": "Do kanceláře přišly dvě nové kolegyně. Přinesly tři malé krabice a dvě nová rádia.",
+      "duration_seconds": 7.58140589569161,
+      "slow_duration_seconds": 8.452154195011337,
+      "sha256": "794029daa0761c9f7eaffbff7e580b80bfa88db6c25231b3dc36dcca64a931ca",
+      "slow_sha256": "7b301b884f741f370735d608dfd534bbba8e9f83cf950635243f3bacf7397449"
+    },
+    {
+      "lesson_id": "A2-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U02-L01--2026.10.22.1--listening--7b3a3f9fad--normal.mp3",
+      "slow_file": "audio/files/A2-U02-L01--2026.10.22.1--listening--7b3a3f9fad--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U02-L01--2026.10.22.1--listening--p0",
+      "asset_id": "A2-U02-L01--2026.10.22.1--listening",
+      "role": "listening",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Do kanceláře přišly dvě nové kolegyně. Přinesly tři malé krabice a dvě nová rádia.",
+      "start": 0,
+      "end": 7.40140589569161,
+      "slow_start": 0,
+      "slow_end": 8.272154195011337
+    },
+    {
+      "lesson_id": "A2-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U02-L01--2026.10.22.1--vocabulary--410dbc1ca1--normal.mp3",
+      "slow_file": "audio/files/A2-U02-L01--2026.10.22.1--vocabulary--410dbc1ca1--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U02-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary-full",
+      "index": 0,
+      "text": "Přišli dva studenti. Studentky čtou. Každý člověk je jiný. Děti si hrají. Používám slovník. Učebna je světlá.",
+      "duration_seconds": 11.122630385487529,
+      "slow_duration_seconds": 12.573877551020407,
+      "sha256": "bb9669b5dc773d5de7c554e86416f4fd2839353ff13f29d6593de16b14564a03",
+      "slow_sha256": "3ff14fe03d036bbcaa9f0f2a410079328358cc4c99db571f11d94defee84f955"
+    },
+    {
+      "lesson_id": "A2-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U02-L01--2026.10.22.1--vocabulary--410dbc1ca1--normal.mp3",
+      "slow_file": "audio/files/A2-U02-L01--2026.10.22.1--vocabulary--410dbc1ca1--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U02-L01--2026.10.22.1--vocabulary--p0",
+      "asset_id": "A2-U02-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Přišli dva studenti.",
+      "start": 0,
+      "end": 1.7414965986394557,
+      "slow_start": 0,
+      "slow_end": 2.020136054421769
+    },
+    {
+      "lesson_id": "A2-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U02-L01--2026.10.22.1--vocabulary--410dbc1ca1--normal.mp3",
+      "slow_file": "audio/files/A2-U02-L01--2026.10.22.1--vocabulary--410dbc1ca1--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U02-L01--2026.10.22.1--vocabulary--p1",
+      "asset_id": "A2-U02-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Studentky čtou.",
+      "start": 1.9214965986394559,
+      "end": 3.512063492063492,
+      "slow_start": 2.2001360544217685,
+      "slow_end": 4.022902494331066
+    },
+    {
+      "lesson_id": "A2-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U02-L01--2026.10.22.1--vocabulary--410dbc1ca1--normal.mp3",
+      "slow_file": "audio/files/A2-U02-L01--2026.10.22.1--vocabulary--410dbc1ca1--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U02-L01--2026.10.22.1--vocabulary--p2",
+      "asset_id": "A2-U02-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Každý člověk je jiný.",
+      "start": 3.6920634920634923,
+      "end": 5.654149659863946,
+      "slow_start": 4.202902494331066,
+      "slow_end": 6.420408163265306
+    },
+    {
+      "lesson_id": "A2-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U02-L01--2026.10.22.1--vocabulary--410dbc1ca1--normal.mp3",
+      "slow_file": "audio/files/A2-U02-L01--2026.10.22.1--vocabulary--410dbc1ca1--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U02-L01--2026.10.22.1--vocabulary--p3",
+      "asset_id": "A2-U02-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Děti si hrají.",
+      "start": 5.834149659863946,
+      "end": 7.099637188208617,
+      "slow_start": 6.600408163265306,
+      "slow_end": 8.1097052154195
+    },
+    {
+      "lesson_id": "A2-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U02-L01--2026.10.22.1--vocabulary--410dbc1ca1--normal.mp3",
+      "slow_file": "audio/files/A2-U02-L01--2026.10.22.1--vocabulary--410dbc1ca1--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U02-L01--2026.10.22.1--vocabulary--p4",
+      "asset_id": "A2-U02-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 4,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Používám slovník.",
+      "start": 7.279637188208617,
+      "end": 9.05596371882086,
+      "slow_start": 8.2897052154195,
+      "slow_end": 10.298231292517007
+    },
+    {
+      "lesson_id": "A2-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U02-L01--2026.10.22.1--vocabulary--410dbc1ca1--normal.mp3",
+      "slow_file": "audio/files/A2-U02-L01--2026.10.22.1--vocabulary--410dbc1ca1--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U02-L01--2026.10.22.1--vocabulary--p5",
+      "asset_id": "A2-U02-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 5,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Učebna je světlá.",
+      "start": 9.235963718820862,
+      "end": 10.942630385487528,
+      "slow_start": 10.478231292517007,
+      "slow_end": 12.393877551020408
+    },
+    {
+      "lesson_id": "A2-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U02-L01--2026.10.22.1--exercises--c4a1f2a658--normal.mp3",
+      "slow_file": "audio/files/A2-U02-L01--2026.10.22.1--exercises--c4a1f2a658--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U02-L01--2026.10.22.1--exercises",
+      "role": "exercises-full",
+      "index": 0,
+      "text": "Přinesly tři krabice a dvě nová rádia.",
+      "duration_seconds": 3.546893424036281,
+      "slow_duration_seconds": 4.046122448979592,
+      "sha256": "90a7e222134da232bc4a2450ede4082987793679dd0fd6047fd4acc40b1db337",
+      "slow_sha256": "461d99db80910040a3dcb686b073f3fa27ce346cb176c9a069b7786bb7943074"
+    },
+    {
+      "lesson_id": "A2-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U02-L01--2026.10.22.1--exercises--c4a1f2a658--normal.mp3",
+      "slow_file": "audio/files/A2-U02-L01--2026.10.22.1--exercises--c4a1f2a658--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U02-L01--2026.10.22.1--exercises--p0",
+      "asset_id": "A2-U02-L01--2026.10.22.1--exercises",
+      "role": "exercise",
+      "index": 0,
+      "exercise_id": "A2-U02-L01-E01",
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Přinesly tři krabice a dvě nová rádia.",
+      "start": 0,
+      "end": 3.3668934240362813,
+      "slow_start": 0,
+      "slow_end": 3.866122448979592
+    },
+    {
+      "lesson_id": "A2-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U02-L01--2026.10.22.1--contrasts--3aede5b967--normal.mp3",
+      "slow_file": "audio/files/A2-U02-L01--2026.10.22.1--contrasts--3aede5b967--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U02-L01--2026.10.22.1--contrasts",
+      "role": "contrasts-full",
+      "index": 0,
+      "text": "noví studenti. nové studentky.",
+      "duration_seconds": 3.0708843537414965,
+      "slow_duration_seconds": 3.442403628117914,
+      "sha256": "ed4b6432c9fc834ede09591f9c725ae3fe08704a9866505dd0938cca17c86b82",
+      "slow_sha256": "efb30f131330d2d4ba91c858ed875ba1994ec936883eb96b2a0ae252749dfff1"
+    },
+    {
+      "lesson_id": "A2-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A2-U02-L01--2026.10.22.1--contrasts--3aede5b967--normal.mp3",
+      "slow_file": "audio/files/A2-U02-L01--2026.10.22.1--contrasts--3aede5b967--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A2-U02-L01--2026.10.22.1--contrasts--p0",
+      "asset_id": "A2-U02-L01--2026.10.22.1--contrasts",
+      "role": "contrast",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "noví studenti. nové studentky.",
+      "start": 0,
+      "end": 2.8908843537414968,
+      "slow_start": 0,
+      "slow_end": 3.2624036281179136
+    }
+  ]
+}

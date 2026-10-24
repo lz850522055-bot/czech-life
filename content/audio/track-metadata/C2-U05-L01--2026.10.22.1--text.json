@@ -1,0 +1,602 @@
+{
+  "id": "C2-U05-L01--2026.10.22.1--text",
+  "lesson_id": "C2-U05-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Podklad A, zpráva vedení poradny: Nový objednávkový postup zkrátil dobu, kterou pracovník u přepážky věnuje přijetí jedné žádosti. Ve sledovaném souboru sta žádostí bylo třicet vyplněno předem prostřednictvím formuláře a jejich převzetí proběhlo rychleji než u žádostí doplňovaných na místě. Vedení proto doporučuje postup rozšířit. Zpráva však nesleduje čas, který žadatel strávil přípravou doma, a neuvádí, zda se obě skupiny lišily složitostí případů. Tvrzení o úspoře se tedy opírá o přesně vymezenou část procesu.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Podklad A, zpráva vedení poradny: Nový objednávkový postup zkrátil dobu, kterou pracovník u přepážky věnuje přijetí jedné žádosti.",
+        "Ve sledovaném souboru sta žádostí bylo třicet vyplněno předem prostřednictvím formuláře a jejich převzetí proběhlo rychleji než u žádostí doplňovaných na místě.",
+        "Vedení proto doporučuje postup rozšířit.",
+        "Zpráva však nesleduje čas, který žadatel strávil přípravou doma, a neuvádí, zda se obě skupiny lišily složitostí případů.",
+        "Tvrzení o úspoře se tedy opírá o přesně vymezenou část procesu."
+      ]
+    },
+    {
+      "text": "Podklad B, stanovisko pracovníků: V době zkušebního provozu přibylo telefonických dotazů před návštěvou. Část práce, která dříve probíhala u přepážky, se přesunula na telefon a do oprav neúplných podání. Autoři stanoviska uvádějí několik opakujících se potíží, ale nemají souhrnný časový záznam všech činností. Domnívají se proto, že nová úprava celkovou zátěž nesnížila. Jejich zkušenost zpochybňuje představu automatické celkové úspory, sama však ještě přesnou velikost změny neprokazuje. Příklady mechanismu a měření výsledného dopadu jsou různé typy podkladů.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Podklad B, stanovisko pracovníků: V době zkušebního provozu přibylo telefonických dotazů před návštěvou.",
+        "Část práce, která dříve probíhala u přepážky, se přesunula na telefon a do oprav neúplných podání.",
+        "Autoři stanoviska uvádějí několik opakujících se potíží, ale nemají souhrnný časový záznam všech činností.",
+        "Domnívají se proto, že nová úprava celkovou zátěž nesnížila.",
+        "Jejich zkušenost zpochybňuje představu automatické celkové úspory, sama však ještě přesnou velikost změny neprokazuje.",
+        "Příklady mechanismu a měření výsledného dopadu jsou různé typy podkladů."
+      ]
+    },
+    {
+      "text": "Podklad C, rozhovory s uživateli: Někteří lidé ocenili možnost připravit podání bez čekání. Jiní se k formuláři nedostali nebo si nebyli jisti, jak jej vyplnit. Rozhovory zahrnovaly pouze osoby, které se do poradny nakonec dostavily. Ti, kteří záměr vzdali, v materiálu chybějí. Závěrečná formulace „služba je dostupná všem“ tedy přesahuje rozsah zjištění. Zároveň by bylo stejně nepodložené napsat, že nový postup všechny znevýhodňuje. Rozložení přínosů a překážek je třeba zjišťovat, nikoli odvozovat z jediného pozitivního či negativního příběhu.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Podklad C, rozhovory s uživateli: Někteří lidé ocenili možnost připravit podání bez čekání.",
+        "Jiní se k formuláři nedostali nebo si nebyli jisti, jak jej vyplnit.",
+        "Rozhovory zahrnovaly pouze osoby, které se do poradny nakonec dostavily.",
+        "Ti, kteří záměr vzdali, v materiálu chybějí.",
+        "Závěrečná formulace „služba je dostupná všem“ tedy přesahuje rozsah zjištění.",
+        "Zároveň by bylo stejně nepodložené napsat, že nový postup všechny znevýhodňuje.",
+        "Rozložení přínosů a překážek je třeba zjišťovat, nikoli odvozovat z jediného pozitivního či negativního příběhu."
+      ]
+    },
+    {
+      "text": "Autor souhrnu nejprve rozdělil zdánlivý rozpor na několik samostatných otázek. Zrychlilo se převzetí předem vyplněných žádostí? Snížila se celková práce zaměstnanců? Ušetřili čas uživatelé? Změnil se přístup lidí s různými možnostmi? Odpověď na první otázku mohla být příznivá, zatímco ostatní zůstávaly otevřené nebo ukazovaly rozdílné dopady. Vzájemný vztah zdrojů proto nebylo vhodné popsat jako jednoduchý střet optimistů a pesimistů. Takové označení by nahradilo metodickou otázku psychologickým soudem o autorech.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Autor souhrnu nejprve rozdělil zdánlivý rozpor na několik samostatných otázek.",
+        "Zrychlilo se převzetí předem vyplněných žádostí?",
+        "Snížila se celková práce zaměstnanců?",
+        "Ušetřili čas uživatelé?",
+        "Změnil se přístup lidí s různými možnostmi?",
+        "Odpověď na první otázku mohla být příznivá, zatímco ostatní zůstávaly otevřené nebo ukazovaly rozdílné dopady.",
+        "Vzájemný vztah zdrojů proto nebylo vhodné popsat jako jednoduchý střet optimistů a pesimistů.",
+        "Takové označení by nahradilo metodickou otázku psychologickým soudem o autorech."
+      ]
+    },
+    {
+      "text": "Skutečný rozpor by vznikl například tehdy, kdyby dva podklady uváděly pro stejné období a stejnou skupinu neslučitelné počty žádostí. Tehdy by bylo třeba zkontrolovat evidenci, verzi souboru a definici zařazení případu. Rozdíl mezi časem na přepážce a celkovou zátěží však tímto typem rozporu není. Stejně tak není pouhou chybou měření spor o to, jakou váhu přikládat pohodlí většiny a dostupnosti pro menší skupinu. Zde se fakta propojují s hodnotovým rozhodnutím, které musí být pojmenováno a zdůvodněno samostatně.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Skutečný rozpor by vznikl například tehdy, kdyby dva podklady uváděly pro stejné období a stejnou skupinu neslučitelné počty žádostí.",
+        "Tehdy by bylo třeba zkontrolovat evidenci, verzi souboru a definici zařazení případu.",
+        "Rozdíl mezi časem na přepážce a celkovou zátěží však tímto typem rozporu není.",
+        "Stejně tak není pouhou chybou měření spor o to, jakou váhu přikládat pohodlí většiny a dostupnosti pro menší skupinu.",
+        "Zde se fakta propojují s hodnotovým rozhodnutím, které musí být pojmenováno a zdůvodněno samostatně."
+      ]
+    },
+    {
+      "text": "V návrhu doporučení autor odmítl dvě krajnosti. Nemohl tvrdit, že zkrácení jedné činnosti opravňuje k okamžitému úplnému přechodu. Nemusel však ani požadovat, aby se každý pokus zastavil, dokud nebude existovat dokonalý obraz všech důsledků. Navrhl pokračování v omezeném rozsahu, zachování alternativní cesty a společné měření několika druhů času. Podmínkou bylo předem určit, které zjištění by vedlo k úpravě nebo ukončení postupu. Doporučení tak spojilo dostupné důkazy s otevřeným přiznáním zbytkové nejistoty, místo aby nejistotu používalo jako univerzální důvod k nečinnosti.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "V návrhu doporučení autor odmítl dvě krajnosti.",
+        "Nemohl tvrdit, že zkrácení jedné činnosti opravňuje k okamžitému úplnému přechodu.",
+        "Nemusel však ani požadovat, aby se každý pokus zastavil, dokud nebude existovat dokonalý obraz všech důsledků.",
+        "Navrhl pokračování v omezeném rozsahu, zachování alternativní cesty a společné měření několika druhů času.",
+        "Podmínkou bylo předem určit, které zjištění by vedlo k úpravě nebo ukončení postupu.",
+        "Doporučení tak spojilo dostupné důkazy s otevřeným přiznáním zbytkové nejistoty, místo aby nejistotu používalo jako univerzální důvod k nečinnosti."
+      ]
+    },
+    {
+      "text": "Při psaní závěru se ukázalo, že největší riziko zkreslení spočívá ve spojovacích větách. Citované části zdrojů byly přesné, ale mezi nimi autor původně vložil „proto je projekt úspěšný“. Právě toto „proto“ vytvářelo nepodložený přechod od dílčího údaje k celkovému hodnocení. Po revizi napsal, že první výsledek podporuje další ověřování, nikoli konečný soud. Syntéza není neutrální lepidlo: jejím prostřednictvím vznikají nové vztahy mezi tvrzeními, za jejichž oprávněnost nese odpovědnost autor souhrnu.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Při psaní závěru se ukázalo, že největší riziko zkreslení spočívá ve spojovacích větách.",
+        "Citované části zdrojů byly přesné, ale mezi nimi autor původně vložil „proto je projekt úspěšný“.",
+        "Právě toto „proto“ vytvářelo nepodložený přechod od dílčího údaje k celkovému hodnocení.",
+        "Po revizi napsal, že první výsledek podporuje další ověřování, nikoli konečný soud.",
+        "Syntéza není neutrální lepidlo: jejím prostřednictvím vznikají nové vztahy mezi tvrzeními, za jejichž oprávněnost nese odpovědnost autor souhrnu."
+      ]
+    },
+    {
+      "text": "Čtenář výsledné zprávy tak mohl odlišit tři úrovně: co bylo přímo pozorováno, co se z toho s určitou opatrností vyvozuje a o čem se má teprve rozhodnout. Nemusel souhlasit s doporučením, aby přesto uznal, že zdroje byly popsány poctivě. Tato oddělitelnost je znakem kvalitní práce s rozporem. Umožňuje změnit rozhodnutí při novém důkazu, aniž by bylo nutné zpětně přepisovat stará pozorování nebo předstírat, že všichni účastníci od počátku mysleli stejnou věc a používali stejné měřítko úspěchu.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Čtenář výsledné zprávy tak mohl odlišit tři úrovně: co bylo přímo pozorováno, co se z toho s určitou opatrností vyvozuje a o čem se má teprve rozhodnout.",
+        "Nemusel souhlasit s doporučením, aby přesto uznal, že zdroje byly popsány poctivě.",
+        "Tato oddělitelnost je znakem kvalitní práce s rozporem.",
+        "Umožňuje změnit rozhodnutí při novém důkazu, aniž by bylo nutné zpětně přepisovat stará pozorování nebo předstírat, že všichni účastníci od počátku mysleli stejnou věc a používali stejné měřítko úspěchu."
+      ]
+    }
+  ],
+  "text_sha256": "eb8677f5498cd5c1a30d5fa1dd9b2ae5ac7d0441ea23216efc39006b010506b7",
+  "source_file": "content/lessons/C2/C2-U05-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U05-L01--2026.10.22.1--text--eb8677f549--normal.mp3",
+  "slow_file": "content/audio/files/C2-U05-L01--2026.10.22.1--text--eb8677f549--slow.mp3",
+  "duration_seconds": 386.66077097505666,
+  "slow_duration_seconds": 436.89714285714285,
+  "cues": [
+    {
+      "text": "Podklad A, zpráva vedení poradny: Nový objednávkový postup zkrátil dobu, kterou pracovník u přepážky věnuje přijetí jedné žádosti. Ve sledovaném souboru sta žádostí bylo třicet vyplněno předem prostřednictvím formuláře a jejich převzetí proběhlo rychleji než u žádostí doplňovaných na místě. Vedení proto doporučuje postup rozšířit. Zpráva však nesleduje čas, který žadatel strávil přípravou doma, a neuvádí, zda se obě skupiny lišily složitostí případů. Tvrzení o úspoře se tedy opírá o přesně vymezenou část procesu.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Podklad A, zpráva vedení poradny: Nový objednávkový postup zkrátil dobu, kterou pracovník u přepážky věnuje přijetí jedné žádosti.",
+        "Ve sledovaném souboru sta žádostí bylo třicet vyplněno předem prostřednictvím formuláře a jejich převzetí proběhlo rychleji než u žádostí doplňovaných na místě.",
+        "Vedení proto doporučuje postup rozšířit.",
+        "Zpráva však nesleduje čas, který žadatel strávil přípravou doma, a neuvádí, zda se obě skupiny lišily složitostí případů.",
+        "Tvrzení o úspoře se tedy opírá o přesně vymezenou část procesu."
+      ],
+      "start": 0.0,
+      "end": 48.12353741496599,
+      "sentences": [
+        {
+          "text": "Podklad A, zpráva vedení poradny: Nový objednávkový postup zkrátil dobu, kterou pracovník u přepážky věnuje přijetí jedné žádosti.",
+          "start": 0.0,
+          "end": 12.213696145124716,
+          "slow_start": 0.0,
+          "slow_end": 14.071292517006803
+        },
+        {
+          "text": "Ve sledovaném souboru sta žádostí bylo třicet vyplněno předem prostřednictvím formuláře a jejich převzetí proběhlo rychleji než u žádostí doplňovaných na místě.",
+          "start": 12.393696145124716,
+          "end": 26.488208616780046,
+          "slow_start": 14.251292517006803,
+          "slow_end": 30.296281179138322
+        },
+        {
+          "text": "Vedení proto doporučuje postup rozšířit.",
+          "start": 26.668208616780046,
+          "end": 30.232471655328798,
+          "slow_start": 30.476281179138322,
+          "slow_end": 34.771972789115644
+        },
+        {
+          "text": "Zpráva však nesleduje čas, který žadatel strávil přípravou doma, a neuvádí, zda se obě skupiny lišily složitostí případů.",
+          "start": 30.412471655328797,
+          "end": 41.964399092970524,
+          "slow_start": 34.95197278911564,
+          "slow_end": 48.082857142857144
+        },
+        {
+          "text": "Tvrzení o úspoře se tedy opírá o přesně vymezenou část procesu.",
+          "start": 42.144399092970524,
+          "end": 48.12353741496599,
+          "slow_start": 48.26285714285714,
+          "slow_end": 55.263673469387754
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 55.263673469387754
+    },
+    {
+      "text": "Podklad B, stanovisko pracovníků: V době zkušebního provozu přibylo telefonických dotazů před návštěvou. Část práce, která dříve probíhala u přepážky, se přesunula na telefon a do oprav neúplných podání. Autoři stanoviska uvádějí několik opakujících se potíží, ale nemají souhrnný časový záznam všech činností. Domnívají se proto, že nová úprava celkovou zátěž nesnížila. Jejich zkušenost zpochybňuje představu automatické celkové úspory, sama však ještě přesnou velikost změny neprokazuje. Příklady mechanismu a měření výsledného dopadu jsou různé typy podkladů.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Podklad B, stanovisko pracovníků: V době zkušebního provozu přibylo telefonických dotazů před návštěvou.",
+        "Část práce, která dříve probíhala u přepážky, se přesunula na telefon a do oprav neúplných podání.",
+        "Autoři stanoviska uvádějí několik opakujících se potíží, ale nemají souhrnný časový záznam všech činností.",
+        "Domnívají se proto, že nová úprava celkovou zátěž nesnížila.",
+        "Jejich zkušenost zpochybňuje představu automatické celkové úspory, sama však ještě přesnou velikost změny neprokazuje.",
+        "Příklady mechanismu a měření výsledného dopadu jsou různé typy podkladů."
+      ],
+      "start": 48.30353741496599,
+      "end": 98.61560090702947,
+      "sentences": [
+        {
+          "text": "Podklad B, stanovisko pracovníků: V době zkušebního provozu přibylo telefonických dotazů před návštěvou.",
+          "start": 48.30353741496599,
+          "end": 57.52185941043084,
+          "slow_start": 55.443673469387754,
+          "slow_end": 66.02036281179139
+        },
+        {
+          "text": "Část práce, která dříve probíhala u přepážky, se přesunula na telefon a do oprav neúplných podání.",
+          "start": 57.70185941043084,
+          "end": 66.47900226757369,
+          "slow_start": 66.20036281179138,
+          "slow_end": 75.98757369614512
+        },
+        {
+          "text": "Autoři stanoviska uvádějí několik opakujících se potíží, ale nemají souhrnný časový záznam všech činností.",
+          "start": 66.6590022675737,
+          "end": 75.93537414965986,
+          "slow_start": 76.16757369614513,
+          "slow_end": 86.48884353741497
+        },
+        {
+          "text": "Domnívají se proto, že nová úprava celkovou zátěž nesnížila.",
+          "start": 76.11537414965986,
+          "end": 81.68816326530612,
+          "slow_start": 86.66884353741497,
+          "slow_end": 92.91501133786848
+        },
+        {
+          "text": "Jejich zkušenost zpochybňuje představu automatické celkové úspory, sama však ještě přesnou velikost změny neprokazuje.",
+          "start": 81.86816326530612,
+          "end": 92.18943310657596,
+          "slow_start": 93.09501133786848,
+          "slow_end": 104.84430839002268
+        },
+        {
+          "text": "Příklady mechanismu a měření výsledného dopadu jsou různé typy podkladů.",
+          "start": 92.36943310657597,
+          "end": 98.61560090702947,
+          "slow_start": 105.02430839002268,
+          "slow_end": 112.18766439909297
+        }
+      ],
+      "slow_start": 55.443673469387754,
+      "slow_end": 112.18766439909297
+    },
+    {
+      "text": "Podklad C, rozhovory s uživateli: Někteří lidé ocenili možnost připravit podání bez čekání. Jiní se k formuláři nedostali nebo si nebyli jisti, jak jej vyplnit. Rozhovory zahrnovaly pouze osoby, které se do poradny nakonec dostavily. Ti, kteří záměr vzdali, v materiálu chybějí. Závěrečná formulace „služba je dostupná všem“ tedy přesahuje rozsah zjištění. Zároveň by bylo stejně nepodložené napsat, že nový postup všechny znevýhodňuje. Rozložení přínosů a překážek je třeba zjišťovat, nikoli odvozovat z jediného pozitivního či negativního příběhu.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Podklad C, rozhovory s uživateli: Někteří lidé ocenili možnost připravit podání bez čekání.",
+        "Jiní se k formuláři nedostali nebo si nebyli jisti, jak jej vyplnit.",
+        "Rozhovory zahrnovaly pouze osoby, které se do poradny nakonec dostavily.",
+        "Ti, kteří záměr vzdali, v materiálu chybějí.",
+        "Závěrečná formulace „služba je dostupná všem“ tedy přesahuje rozsah zjištění.",
+        "Zároveň by bylo stejně nepodložené napsat, že nový postup všechny znevýhodňuje.",
+        "Rozložení přínosů a překážek je třeba zjišťovat, nikoli odvozovat z jediného pozitivního či negativního příběhu."
+      ],
+      "start": 98.79560090702948,
+      "end": 148.16149659863945,
+      "sentences": [
+        {
+          "text": "Podklad C, rozhovory s uživateli: Někteří lidé ocenili možnost připravit podání bez čekání.",
+          "start": 98.79560090702948,
+          "end": 107.44503401360544,
+          "slow_start": 112.36766439909297,
+          "slow_end": 122.35224489795918
+        },
+        {
+          "text": "Jiní se k formuláři nedostali nebo si nebyli jisti, jak jej vyplnit.",
+          "start": 107.62503401360544,
+          "end": 113.55773242630386,
+          "slow_start": 122.53224489795919,
+          "slow_end": 129.20798185941044
+        },
+        {
+          "text": "Rozhovory zahrnovaly pouze osoby, které se do poradny nakonec dostavily.",
+          "start": 113.73773242630385,
+          "end": 120.13482993197279,
+          "slow_start": 129.38798185941044,
+          "slow_end": 136.42362811791384
+        },
+        {
+          "text": "Ti, kteří záměr vzdali, v materiálu chybějí.",
+          "start": 120.3148299319728,
+          "end": 124.28544217687075,
+          "slow_start": 136.60362811791384,
+          "slow_end": 141.201179138322
+        },
+        {
+          "text": "Závěrečná formulace „služba je dostupná všem“ tedy přesahuje rozsah zjištění.",
+          "start": 124.46544217687075,
+          "end": 131.141179138322,
+          "slow_start": 141.38117913832198,
+          "slow_end": 148.97410430839003
+        },
+        {
+          "text": "Zároveň by bylo stejně nepodložené napsat, že nový postup všechny znevýhodňuje.",
+          "start": 131.321179138322,
+          "end": 138.02013605442176,
+          "slow_start": 149.15410430839003,
+          "slow_end": 157.0372789115646
+        },
+        {
+          "text": "Rozložení přínosů a překážek je třeba zjišťovat, nikoli odvozovat z jediného pozitivního či negativního příběhu.",
+          "start": 138.20013605442176,
+          "end": 148.16149659863945,
+          "slow_start": 157.21727891156462,
+          "slow_end": 168.52539682539683
+        }
+      ],
+      "slow_start": 112.36766439909297,
+      "slow_end": 168.52539682539683
+    },
+    {
+      "text": "Autor souhrnu nejprve rozdělil zdánlivý rozpor na několik samostatných otázek. Zrychlilo se převzetí předem vyplněných žádostí? Snížila se celková práce zaměstnanců? Ušetřili čas uživatelé? Změnil se přístup lidí s různými možnostmi? Odpověď na první otázku mohla být příznivá, zatímco ostatní zůstávaly otevřené nebo ukazovaly rozdílné dopady. Vzájemný vztah zdrojů proto nebylo vhodné popsat jako jednoduchý střet optimistů a pesimistů. Takové označení by nahradilo metodickou otázku psychologickým soudem o autorech.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Autor souhrnu nejprve rozdělil zdánlivý rozpor na několik samostatných otázek.",
+        "Zrychlilo se převzetí předem vyplněných žádostí?",
+        "Snížila se celková práce zaměstnanců?",
+        "Ušetřili čas uživatelé?",
+        "Změnil se přístup lidí s různými možnostmi?",
+        "Odpověď na první otázku mohla být příznivá, zatímco ostatní zůstávaly otevřené nebo ukazovaly rozdílné dopady.",
+        "Vzájemný vztah zdrojů proto nebylo vhodné popsat jako jednoduchý střet optimistů a pesimistů.",
+        "Takové označení by nahradilo metodickou otázku psychologickým soudem o autorech."
+      ],
+      "start": 148.34149659863945,
+      "end": 195.33319727891157,
+      "sentences": [
+        {
+          "text": "Autor souhrnu nejprve rozdělil zdánlivý rozpor na několik samostatných otázek.",
+          "start": 148.34149659863945,
+          "end": 155.12172335600906,
+          "slow_start": 168.70539682539683,
+          "slow_end": 176.36798185941043
+        },
+        {
+          "text": "Zrychlilo se převzetí předem vyplněných žádostí?",
+          "start": 155.30172335600906,
+          "end": 159.5974149659864,
+          "slow_start": 176.54798185941044,
+          "slow_end": 181.28485260770975
+        },
+        {
+          "text": "Snížila se celková práce zaměstnanců?",
+          "start": 159.7774149659864,
+          "end": 163.46938775510205,
+          "slow_start": 181.46485260770976,
+          "slow_end": 185.57478458049886
+        },
+        {
+          "text": "Ušetřili čas uživatelé?",
+          "start": 163.64938775510205,
+          "end": 166.00621315192743,
+          "slow_start": 185.75478458049886,
+          "slow_end": 188.42507936507937
+        },
+        {
+          "text": "Změnil se přístup lidí s různými možnostmi?",
+          "start": 166.18621315192743,
+          "end": 169.98267573696145,
+          "slow_start": 188.60507936507938,
+          "slow_end": 192.9936507936508
+        },
+        {
+          "text": "Odpověď na první otázku mohla být příznivá, zatímco ostatní zůstávaly otevřené nebo ukazovaly rozdílné dopady.",
+          "start": 170.16267573696146,
+          "end": 180.55360544217686,
+          "slow_start": 193.1736507936508,
+          "slow_end": 204.65591836734694
+        },
+        {
+          "text": "Vzájemný vztah zdrojů proto nebylo vhodné popsat jako jednoduchý střet optimistů a pesimistů.",
+          "start": 180.73360544217687,
+          "end": 188.4542403628118,
+          "slow_start": 204.83591836734695,
+          "slow_end": 213.6130612244898
+        },
+        {
+          "text": "Takové označení by nahradilo metodickou otázku psychologickým soudem o autorech.",
+          "start": 188.6342403628118,
+          "end": 195.33319727891157,
+          "slow_start": 213.7930612244898,
+          "slow_end": 221.33954648526077
+        }
+      ],
+      "slow_start": 168.70539682539683,
+      "slow_end": 221.33954648526077
+    },
+    {
+      "text": "Skutečný rozpor by vznikl například tehdy, kdyby dva podklady uváděly pro stejné období a stejnou skupinu neslučitelné počty žádostí. Tehdy by bylo třeba zkontrolovat evidenci, verzi souboru a definici zařazení případu. Rozdíl mezi časem na přepážce a celkovou zátěží však tímto typem rozporu není. Stejně tak není pouhou chybou měření spor o to, jakou váhu přikládat pohodlí většiny a dostupnosti pro menší skupinu. Zde se fakta propojují s hodnotovým rozhodnutím, které musí být pojmenováno a zdůvodněno samostatně.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Skutečný rozpor by vznikl například tehdy, kdyby dva podklady uváděly pro stejné období a stejnou skupinu neslučitelné počty žádostí.",
+        "Tehdy by bylo třeba zkontrolovat evidenci, verzi souboru a definici zařazení případu.",
+        "Rozdíl mezi časem na přepážce a celkovou zátěží však tímto typem rozporu není.",
+        "Stejně tak není pouhou chybou měření spor o to, jakou váhu přikládat pohodlí většiny a dostupnosti pro menší skupinu.",
+        "Zde se fakta propojují s hodnotovým rozhodnutím, které musí být pojmenováno a zdůvodněno samostatně."
+      ],
+      "start": 195.51319727891158,
+      "end": 242.3596371882086,
+      "sentences": [
+        {
+          "text": "Skutečný rozpor by vznikl například tehdy, kdyby dva podklady uváděly pro stejné období a stejnou skupinu neslučitelné počty žádostí.",
+          "start": 195.51319727891158,
+          "end": 207.64562358276643,
+          "slow_start": 221.51954648526078,
+          "slow_end": 235.1148299319728
+        },
+        {
+          "text": "Tehdy by bylo třeba zkontrolovat evidenci, verzi souboru a definici zařazení případu.",
+          "start": 207.82562358276644,
+          "end": 215.41854875283445,
+          "slow_start": 235.2948299319728,
+          "slow_end": 243.8049433106576
+        },
+        {
+          "text": "Rozdíl mezi časem na přepážce a celkovou zátěží však tímto typem rozporu není.",
+          "start": 215.59854875283446,
+          "end": 223.27274376417233,
+          "slow_start": 243.9849433106576,
+          "slow_end": 252.58793650793652
+        },
+        {
+          "text": "Stejně tak není pouhou chybou měření spor o to, jakou váhu přikládat pohodlí většiny a dostupnosti pro menší skupinu.",
+          "start": 223.45274376417234,
+          "end": 233.56503401360544,
+          "slow_start": 252.7679365079365,
+          "slow_end": 264.2734240362812
+        },
+        {
+          "text": "Zde se fakta propojují s hodnotovým rozhodnutím, které musí být pojmenováno a zdůvodněno samostatně.",
+          "start": 233.74503401360545,
+          "end": 242.3596371882086,
+          "slow_start": 264.4534240362812,
+          "slow_end": 274.2754648526077
+        }
+      ],
+      "slow_start": 221.51954648526078,
+      "slow_end": 274.2754648526077
+    },
+    {
+      "text": "V návrhu doporučení autor odmítl dvě krajnosti. Nemohl tvrdit, že zkrácení jedné činnosti opravňuje k okamžitému úplnému přechodu. Nemusel však ani požadovat, aby se každý pokus zastavil, dokud nebude existovat dokonalý obraz všech důsledků. Navrhl pokračování v omezeném rozsahu, zachování alternativní cesty a společné měření několika druhů času. Podmínkou bylo předem určit, které zjištění by vedlo k úpravě nebo ukončení postupu. Doporučení tak spojilo dostupné důkazy s otevřeným přiznáním zbytkové nejistoty, místo aby nejistotu používalo jako univerzální důvod k nečinnosti.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "V návrhu doporučení autor odmítl dvě krajnosti.",
+        "Nemohl tvrdit, že zkrácení jedné činnosti opravňuje k okamžitému úplnému přechodu.",
+        "Nemusel však ani požadovat, aby se každý pokus zastavil, dokud nebude existovat dokonalý obraz všech důsledků.",
+        "Navrhl pokračování v omezeném rozsahu, zachování alternativní cesty a společné měření několika druhů času.",
+        "Podmínkou bylo předem určit, které zjištění by vedlo k úpravě nebo ukončení postupu.",
+        "Doporučení tak spojilo dostupné důkazy s otevřeným přiznáním zbytkové nejistoty, místo aby nejistotu používalo jako univerzální důvod k nečinnosti."
+      ],
+      "start": 242.53963718820862,
+      "end": 295.8354648526077,
+      "sentences": [
+        {
+          "text": "V návrhu doporučení autor odmítl dvě krajnosti.",
+          "start": 242.53963718820862,
+          "end": 247.02108843537414,
+          "slow_start": 274.4554648526077,
+          "slow_end": 279.55224489795916
+        },
+        {
+          "text": "Nemohl tvrdit, že zkrácení jedné činnosti opravňuje k okamžitému úplnému přechodu.",
+          "start": 247.20108843537415,
+          "end": 254.58503401360545,
+          "slow_start": 279.73224489795916,
+          "slow_end": 288.12625850340135
+        },
+        {
+          "text": "Nemusel však ani požadovat, aby se každý pokus zastavil, dokud nebude existovat dokonalý obraz všech důsledků.",
+          "start": 254.76503401360543,
+          "end": 264.2968253968254,
+          "slow_start": 288.30625850340135,
+          "slow_end": 299.1964172335601
+        },
+        {
+          "text": "Navrhl pokračování v omezeném rozsahu, zachování alternativní cesty a společné měření několika druhů času.",
+          "start": 264.4768253968254,
+          "end": 274.85614512471653,
+          "slow_start": 299.3764172335601,
+          "slow_end": 311.2418140589569
+        },
+        {
+          "text": "Podmínkou bylo předem určit, které zjištění by vedlo k úpravě nebo ukončení postupu.",
+          "start": 275.03614512471654,
+          "end": 281.96730158730156,
+          "slow_start": 311.4218140589569,
+          "slow_end": 319.23532879818595
+        },
+        {
+          "text": "Doporučení tak spojilo dostupné důkazy s otevřeným přiznáním zbytkové nejistoty, místo aby nejistotu používalo jako univerzální důvod k nečinnosti.",
+          "start": 282.14730158730157,
+          "end": 295.8354648526077,
+          "slow_start": 319.41532879818595,
+          "slow_end": 334.92625850340136
+        }
+      ],
+      "slow_start": 274.4554648526077,
+      "slow_end": 334.92625850340136
+    },
+    {
+      "text": "Při psaní závěru se ukázalo, že největší riziko zkreslení spočívá ve spojovacích větách. Citované části zdrojů byly přesné, ale mezi nimi autor původně vložil „proto je projekt úspěšný“. Právě toto „proto“ vytvářelo nepodložený přechod od dílčího údaje k celkovému hodnocení. Po revizi napsal, že první výsledek podporuje další ověřování, nikoli konečný soud. Syntéza není neutrální lepidlo: jejím prostřednictvím vznikají nové vztahy mezi tvrzeními, za jejichž oprávněnost nese odpovědnost autor souhrnu.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Při psaní závěru se ukázalo, že největší riziko zkreslení spočívá ve spojovacích větách.",
+        "Citované části zdrojů byly přesné, ale mezi nimi autor původně vložil „proto je projekt úspěšný“.",
+        "Právě toto „proto“ vytvářelo nepodložený přechod od dílčího údaje k celkovému hodnocení.",
+        "Po revizi napsal, že první výsledek podporuje další ověřování, nikoli konečný soud.",
+        "Syntéza není neutrální lepidlo: jejím prostřednictvím vznikají nové vztahy mezi tvrzeními, za jejichž oprávněnost nese odpovědnost autor souhrnu."
+      ],
+      "start": 296.0154648526077,
+      "end": 341.0855782312925,
+      "sentences": [
+        {
+          "text": "Při psaní závěru se ukázalo, že největší riziko zkreslení spočívá ve spojovacích větách.",
+          "start": 296.0154648526077,
+          "end": 304.00312925170067,
+          "slow_start": 335.10625850340136,
+          "slow_end": 344.27814058956915
+        },
+        {
+          "text": "Citované části zdrojů byly přesné, ale mezi nimi autor původně vložil „proto je projekt úspěšný“.",
+          "start": 304.1831292517007,
+          "end": 313.30857142857144,
+          "slow_start": 344.45814058956915,
+          "slow_end": 354.83746031746034
+        },
+        {
+          "text": "Právě toto „proto“ vytvářelo nepodložený přechod od dílčího údaje k celkovému hodnocení.",
+          "start": 313.48857142857145,
+          "end": 320.7331972789116,
+          "slow_start": 355.0174603174603,
+          "slow_end": 363.21410430839
+        },
+        {
+          "text": "Po revizi napsal, že první výsledek podporuje další ověřování, nikoli konečný soud.",
+          "start": 320.9131972789116,
+          "end": 328.4016326530612,
+          "slow_start": 363.39410430839,
+          "slow_end": 371.79972789115646
+        },
+        {
+          "text": "Syntéza není neutrální lepidlo: jejím prostřednictvím vznikají nové vztahy mezi tvrzeními, za jejichž oprávněnost nese odpovědnost autor souhrnu.",
+          "start": 328.5816326530612,
+          "end": 341.0855782312925,
+          "slow_start": 371.9797278911565,
+          "slow_end": 386.3528798185941
+        }
+      ],
+      "slow_start": 335.10625850340136,
+      "slow_end": 386.3528798185941
+    },
+    {
+      "text": "Čtenář výsledné zprávy tak mohl odlišit tři úrovně: co bylo přímo pozorováno, co se z toho s určitou opatrností vyvozuje a o čem se má teprve rozhodnout. Nemusel souhlasit s doporučením, aby přesto uznal, že zdroje byly popsány poctivě. Tato oddělitelnost je znakem kvalitní práce s rozporem. Umožňuje změnit rozhodnutí při novém důkazu, aniž by bylo nutné zpětně přepisovat stará pozorování nebo předstírat, že všichni účastníci od počátku mysleli stejnou věc a používali stejné měřítko úspěchu.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Čtenář výsledné zprávy tak mohl odlišit tři úrovně: co bylo přímo pozorováno, co se z toho s určitou opatrností vyvozuje a o čem se má teprve rozhodnout.",
+        "Nemusel souhlasit s doporučením, aby přesto uznal, že zdroje byly popsány poctivě.",
+        "Tato oddělitelnost je znakem kvalitní práce s rozporem.",
+        "Umožňuje změnit rozhodnutí při novém důkazu, aniž by bylo nutné zpětně přepisovat stará pozorování nebo předstírat, že všichni účastníci od počátku mysleli stejnou věc a používali stejné měřítko úspěchu."
+      ],
+      "start": 341.2655782312925,
+      "end": 386.4807709750567,
+      "sentences": [
+        {
+          "text": "Čtenář výsledné zprávy tak mohl odlišit tři úrovně: co bylo přímo pozorováno, co se z toho s určitou opatrností vyvozuje a o čem se má teprve rozhodnout.",
+          "start": 341.2655782312925,
+          "end": 355.41814058956913,
+          "slow_start": 386.5328798185941,
+          "slow_end": 401.96253968253967
+        },
+        {
+          "text": "Nemusel souhlasit s doporučením, aby přesto uznal, že zdroje byly popsány poctivě.",
+          "start": 355.59814058956914,
+          "end": 363.1562358276644,
+          "slow_start": 402.1425396825397,
+          "slow_end": 410.4204535147392
+        },
+        {
+          "text": "Tato oddělitelnost je znakem kvalitní práce s rozporem.",
+          "start": 363.3362358276644,
+          "end": 368.0382766439909,
+          "slow_start": 410.60045351473923,
+          "slow_end": 415.8597732426304
+        },
+        {
+          "text": "Umožňuje změnit rozhodnutí při novém důkazu, aniž by bylo nutné zpětně přepisovat stará pozorování nebo předstírat, že všichni účastníci od počátku mysleli stejnou věc a používali stejné měřítko úspěchu.",
+          "start": 368.2182766439909,
+          "end": 386.4807709750567,
+          "slow_start": 416.03977324263036,
+          "slow_end": 436.71714285714285
+        }
+      ],
+      "slow_start": 386.5328798185941,
+      "slow_end": 436.71714285714285
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "f64dfa61f544cd05d78678c59aac5c7fa360075bf51781866ee673140e31da4f",
+    "slow": "f9b14dff3aa73c5fcb21a854e25659a3fb5a40a5b348526477254ee0481a84ad"
+  }
+}

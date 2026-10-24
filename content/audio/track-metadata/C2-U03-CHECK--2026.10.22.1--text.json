@@ -1,0 +1,75 @@
+{
+  "id": "C2-U03-CHECK--2026.10.22.1--text",
+  "lesson_id": "C2-U03-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "C2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Vedoucí oznámil, že porady konečně zkrátí. Každému bodu proto přidělil krátké úvodní jednání o tom, jak jej projednat stručně. Sekretářka poznamenala: Výborně, teď už budeme celý den mluvit jen o tom, jak mluvit méně.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Vedoucí oznámil, že porady konečně zkrátí.",
+        "Každému bodu proto přidělil krátké úvodní jednání o tom, jak jej projednat stručně.",
+        "Sekretářka poznamenala: Výborně, teď už budeme celý den mluvit jen o tom, jak mluvit méně."
+      ]
+    }
+  ],
+  "text_sha256": "d5de4adab13108a296f0e516903b4f0d2c7cc086f9716a47693884d08a03c19a",
+  "source_file": "content/assessments/C2-U03.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U03-CHECK--2026.10.22.1--text--d5de4adab1--normal.mp3",
+  "slow_file": "content/audio/files/C2-U03-CHECK--2026.10.22.1--text--d5de4adab1--slow.mp3",
+  "duration_seconds": 19.83578231292517,
+  "slow_duration_seconds": 22.482857142857142,
+  "cues": [
+    {
+      "text": "Vedoucí oznámil, že porady konečně zkrátí. Každému bodu proto přidělil krátké úvodní jednání o tom, jak jej projednat stručně. Sekretářka poznamenala: Výborně, teď už budeme celý den mluvit jen o tom, jak mluvit méně.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Vedoucí oznámil, že porady konečně zkrátí.",
+        "Každému bodu proto přidělil krátké úvodní jednání o tom, jak jej projednat stručně.",
+        "Sekretářka poznamenala: Výborně, teď už budeme celý den mluvit jen o tom, jak mluvit méně."
+      ],
+      "start": 0.0,
+      "end": 19.65578231292517,
+      "sentences": [
+        {
+          "text": "Vedoucí oznámil, že porady konečně zkrátí.",
+          "start": 0.0,
+          "end": 3.982222222222222,
+          "slow_start": 0.0,
+          "slow_end": 4.516281179138322
+        },
+        {
+          "text": "Každému bodu proto přidělil krátké úvodní jednání o tom, jak jej projednat stručně.",
+          "start": 4.162222222222222,
+          "end": 11.209478458049887,
+          "slow_start": 4.696281179138322,
+          "slow_end": 12.63750566893424
+        },
+        {
+          "text": "Sekretářka poznamenala: Výborně, teď už budeme celý den mluvit jen o tom, jak mluvit méně.",
+          "start": 11.389478458049886,
+          "end": 19.65578231292517,
+          "slow_start": 12.81750566893424,
+          "slow_end": 22.302857142857142
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 22.302857142857142
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "d20498842376f0c3ecb0fbc8c903545cdfb06e4e4b3bf984ba3ee65bb1e0153b",
+    "slow": "309cd132d8ffc1061f14b74efd3f0e6a34556dc13f0bebb725107e33f8b73e17"
+  }
+}

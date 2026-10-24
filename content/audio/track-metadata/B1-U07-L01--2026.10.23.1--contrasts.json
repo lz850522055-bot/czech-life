@@ -1,0 +1,58 @@
+{
+  "id": "B1-U07-L01--2026.10.23.1--contrasts",
+  "lesson_id": "B1-U07-L01",
+  "content_version": "2026.10.23.1",
+  "level": "B1",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "mi. mně.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "mi. mně."
+      ]
+    }
+  ],
+  "text_sha256": "5c41dd29fbbe99edaeb5641c415dd56d5dbdd8874d8f83559842a888451da74a",
+  "source_file": "content/lessons/B1/B1-U07-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U07-L01--2026.10.22.1--contrasts--5c41dd29fb--normal.mp3",
+  "slow_file": "content/audio/files/B1-U07-L01--2026.10.22.1--contrasts--5c41dd29fb--slow.mp3",
+  "duration_seconds": 0.9578684807256236,
+  "slow_duration_seconds": 1.085578231292517,
+  "cues": [
+    {
+      "text": "mi. mně.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "mi. mně."
+      ],
+      "start": 0.0,
+      "end": 0.7778684807256235,
+      "sentences": [
+        {
+          "text": "mi. mně.",
+          "start": 0.0,
+          "end": 0.7778684807256235,
+          "slow_start": 0.0,
+          "slow_end": 0.905578231292517
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 0.905578231292517
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "48f2fb480972ebe44f2d6d914dbb5da10f117c5799ae381a935766a6aa8469a3",
+    "slow": "ff7be1c36a93976dc518f8ee59cfe1b89ceadb1b1843b25d9e7c6df7853d2b1b"
+  },
+  "reused_from_track_id": "B1-U07-L01--2026.10.22.1--contrasts"
+}

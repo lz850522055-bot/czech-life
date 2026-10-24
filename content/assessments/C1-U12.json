@@ -1,0 +1,221 @@
+{
+  "id": "C1-U12-CHECK",
+  "kind": "unit",
+  "level": "C1",
+  "unit_id": "C1-U12",
+  "title_zh": "一个近义词，可能改变整句话：新情境检验",
+  "version": "2026.10.22.1",
+  "unseen_text": [
+    {
+      "cs": "Ve zprávě stojí: Zavedli jsme převratný systém. Ve skutečnosti se změnil pouze způsob potvrzování rezervací; ostatní kroky zůstaly stejné. Účastníci ocenili přehlednější potvrzení, nebyla však provedena celková analýza dopadu.",
+      "zh": "报告称颠覆性系统，实际仅改预约确认；参与者认可更清楚，但未分析整体影响。"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "最稳妥的新标题？",
+      "stimulus_cs": "",
+      "answer": "a",
+      "explanation_zh": "具体描述已知改变。",
+      "skill_ids": [
+        "reading"
+      ],
+      "knowledge_points": [
+        "c1-collocation-valency",
+        "c1-connotation-scale"
+      ],
+      "error_category": "comprehension",
+      "options": [
+        {
+          "id": "a",
+          "text": "Přehlednější potvrzování rezervací"
+        },
+        {
+          "id": "b",
+          "text": "Dokonalá změna celého provozu"
+        },
+        {
+          "id": "c",
+          "text": "Zaručená revoluce"
+        }
+      ],
+      "scoring_basis": "封闭题以答案核对；解析说明本题边界。",
+      "id": "C1-U12-CHECK-E01"
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "写一句证据范围说明。",
+      "stimulus_cs": "",
+      "answer": "Dosavadní zpětná vazba se týká přehlednosti potvrzení, nikoli celkového dopadu systému.",
+      "explanation_zh": "保留范围，避免全系统判断。",
+      "skill_ids": [
+        "writing"
+      ],
+      "knowledge_points": [
+        "c1-collocation-valency",
+        "c1-connotation-scale"
+      ],
+      "error_category": "comprehension",
+      "rubric": [
+        "回应具体任务，信息不失真",
+        "逻辑有衔接，能说明证据与限制",
+        "语法与搭配基本准确，语域适合对象",
+        "能自主组织语言而非照读范文"
+      ],
+      "scoring_basis": "开放表达：示范不是唯一答案；依量规自评或人工评阅，未接受人工评阅时不自动判定能力达标。",
+      "id": "C1-U12-CHECK-E02"
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "向作者说明为什么减弱词并非否定工作。",
+      "stimulus_cs": "",
+      "answer": "Konkrétní popis umožňuje ocenit skutečné zlepšení. Nemusíme mu přidávat účinky, které zatím ověřené nejsou.",
+      "explanation_zh": "把准确与认可真实成果连接。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "knowledge_points": [
+        "c1-collocation-valency",
+        "c1-connotation-scale"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "回应具体任务，信息不失真",
+        "逻辑有衔接，能说明证据与限制",
+        "语法与搭配基本准确，语域适合对象",
+        "能自主组织语言而非照读范文"
+      ],
+      "scoring_basis": "开放表达：示范不是唯一答案；依量规自评或人工评阅，未接受人工评阅时不自动判定能力达标。",
+      "id": "C1-U12-CHECK-E03"
+    }
+  ],
+  "rubric": [
+    "理解未见材料中的主张及限定",
+    "主动表达时准确转述不同立场",
+    "区分事实、推断与建议",
+    "能针对误解调整解释方式"
+  ],
+  "remediation": [
+    {
+      "condition_zh": "误把可能性说成事实，或遗漏反方条件",
+      "lesson_ids": [
+        "C1-U12-L01"
+      ],
+      "action_zh": "重做信息定位与转述，标出每个判断的来源和语气词。"
+    },
+    {
+      "condition_zh": "表达卡住或只有单句结论",
+      "lesson_ids": [
+        "C1-U12-L01"
+      ],
+      "action_zh": "先列论点—依据—限制—行动四点，再换对象重录一次。"
+    }
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "C1-U12-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U12-CHECK--2026.10.22.1--text--adb8107341--normal.mp3",
+      "slow_file": "audio/files/C1-U12-CHECK--2026.10.22.1--text--adb8107341--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U12-CHECK--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Ve zprávě stojí: Zavedli jsme převratný systém. Ve skutečnosti se změnil pouze způsob potvrzování rezervací; ostatní kroky zůstaly stejné. Účastníci ocenili přehlednější potvrzení, nebyla však provedena celková analýza dopadu.",
+      "duration_seconds": 20.93873015873016,
+      "slow_duration_seconds": 23.852834467120182,
+      "sha256": "36164270de17b85aa14315e18d33d14025786ffafb66552636d6e87969deb3f4",
+      "slow_sha256": "74afaa3fca747fd1ab41a07cc0a181942e5cfb709e3655c938d87ac17e81b612"
+    },
+    {
+      "lesson_id": "C1-U12-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U12-CHECK--2026.10.22.1--text--adb8107341--normal.mp3",
+      "slow_file": "audio/files/C1-U12-CHECK--2026.10.22.1--text--adb8107341--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U12-CHECK--2026.10.22.1--text--p0",
+      "asset_id": "C1-U12-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Ve zprávě stojí: Zavedli jsme převratný systém. Ve skutečnosti se změnil pouze způsob potvrzování rezervací; ostatní kroky zůstaly stejné. Účastníci ocenili přehlednější potvrzení, nebyla však provedena celková analýza dopadu.",
+      "start": 0,
+      "end": 20.75873015873016,
+      "slow_start": 0,
+      "slow_end": 23.672834467120182
+    },
+    {
+      "lesson_id": "C1-U12-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U12-CHECK--2026.10.22.1--text--adb8107341--normal.mp3",
+      "slow_file": "audio/files/C1-U12-CHECK--2026.10.22.1--text--adb8107341--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U12-CHECK--2026.10.22.1--text--s0",
+      "asset_id": "C1-U12-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Ve zprávě stojí: Zavedli jsme převratný systém.",
+      "start": 0,
+      "end": 4.46984126984127,
+      "slow_start": 0,
+      "slow_end": 5.038730158730159
+    },
+    {
+      "lesson_id": "C1-U12-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U12-CHECK--2026.10.22.1--text--adb8107341--normal.mp3",
+      "slow_file": "audio/files/C1-U12-CHECK--2026.10.22.1--text--adb8107341--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U12-CHECK--2026.10.22.1--text--s1",
+      "asset_id": "C1-U12-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Ve skutečnosti se změnil pouze způsob potvrzování rezervací; ostatní kroky zůstaly stejné.",
+      "start": 4.64984126984127,
+      "end": 12.718775510204082,
+      "slow_start": 5.218730158730159,
+      "slow_end": 14.611201814058957
+    },
+    {
+      "lesson_id": "C1-U12-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U12-CHECK--2026.10.22.1--text--adb8107341--normal.mp3",
+      "slow_file": "audio/files/C1-U12-CHECK--2026.10.22.1--text--adb8107341--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U12-CHECK--2026.10.22.1--text--s2",
+      "asset_id": "C1-U12-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Účastníci ocenili přehlednější potvrzení, nebyla však provedena celková analýza dopadu.",
+      "start": 12.898775510204082,
+      "end": 20.75873015873016,
+      "slow_start": 14.791201814058956,
+      "slow_end": 23.672834467120182
+    }
+  ]
+}

@@ -1,0 +1,1324 @@
+{
+  "id": "B1-U04-L01",
+  "level": "B1",
+  "unit_id": "B1-U04",
+  "order": 36,
+  "version": "2026.10.22.1",
+  "title_zh": "从句与逻辑关系",
+  "title_cs": "Proč se plán změnil",
+  "prerequisites": [
+    "B1-U03-L01"
+  ],
+  "can_do": [
+    "区分原因、目的、条件和让步",
+    "用关系从句准确说明是哪一个人或物",
+    "把零散理由连接成完整解释"
+  ],
+  "scene": "计划变动与逻辑关系",
+  "skills": [
+    "listening",
+    "speaking",
+    "reading",
+    "writing",
+    "interaction",
+    "mediation"
+  ],
+  "knowledge_points": [
+    "subordinate-logic",
+    "relative-reference"
+  ],
+  "intro_zh": "说清楚一件事，不只要会“因为所以”；还要区分“为了”“虽然”“如果”。今天用社区活动改期，把每种关系落到实际句子。",
+  "lesson_text": [
+    {
+      "id": "s01",
+      "cs": "V našem domě jsme chtěli uspořádat společnou snídani na dvoře. Správkyně domu navrhla sobotu, protože většina sousedů nemusí do práce. Několik lidí však upozornilo, že se má ochladit a pršet. Rozhodli jsme se proto připravit také místnost v přízemí. Nechtěli jsme akci hned rušit, přestože předpověď nebyla příznivá. Potřebovali jsme plán, který bude fungovat i za špatného počasí.",
+      "zh": "我们楼想在院子里办公共早餐。管理员提议周六，因为多数邻居不上班。但有人提醒天气要降温下雨。于是我们也准备底楼房间。虽预报不佳，我们不想立刻取消，需要一个坏天气也能执行的方案。",
+      "note_zh": ""
+    },
+    {
+      "id": "s02",
+      "cs": "Paní, která měla přinést domácí koláč, se zeptala na počet hostů. Poslali jsme krátký formulář, aby každý mohl potvrdit účast. Nebyl to seznam lidí, kteří už určitě přijdou; byl to způsob, jak potřebné údaje teprve zjistit. Pokud někdo formulář vyplnit nemohl, stačilo zavolat správkyni. Chtěli jsme, aby se mohli zapojit i sousedé, kteří nepoužívají internet.",
+      "zh": "打算带自制蛋糕的女士问人数。我们发短表让大家确认参加。它不是已确定出席名单，而是收集信息的方法。不能填表的人可打电话给管理员，我们希望不用互联网的邻居也能参加。",
+      "note_zh": ""
+    },
+    {
+      "id": "s03",
+      "cs": "V pátek se ukázalo, že místnost není dost velká. Přestože už potvrdilo účast dvacet lidí, vešlo se do ní jen čtrnáct. Správkyně navrhla dvě menší skupiny. Někteří sousedé nesouhlasili, protože by se všichni nepotkali. Nakonec jsme posunuli začátek na pozdější hodinu, kdy měl déšť ustat. Současně jsme si nechali vnitřní místnost jako náhradní možnost pro starší hosty.",
+      "zh": "周五发现房间不够大。虽然二十人确认参加，但房间只能容纳十四人。管理员提议分两组，一些邻居因无法全员见面而反对。最终把开始时间推迟到雨可能停的时候，同时保留室内房间供年长客人备用。",
+      "note_zh": ""
+    },
+    {
+      "id": "s04",
+      "cs": "Na nástěnku jsme napsali nové oznámení. Uvedli jsme, co se mění, proč se to mění a co zůstává stejné. Kdybychom napsali jen „Snídaně je později“, lidé by nevěděli, v kolik mají přijít. Dobrá zpráva proto obsahovala přesný čas i vysvětlení. Nešlo o dlouhý úřední text, ale o několik vět, mezi kterými byly jasné vztahy.",
+      "zh": "我们在公告栏贴新通知，说明变了什么、为什么变、什么不变。如果只写“早餐晚一点”，大家不会知道几点来。所以好通知需要准确时间和解释；不用写很长的公文，只要几句话关系清楚。",
+      "note_zh": ""
+    }
+  ],
+  "grammar": [
+    {
+      "id": "subordinate-logic",
+      "rule_zh": "连接词决定两件事是什么关系，不能只当句子装饰。",
+      "detail_zh": "protože 表原因；proto 引出结果；aby 表目的或希望实现的内容；přestože/ačkoli 表让步；pokud/jestliže 表条件。为了某人能做某事时，aby 按人称变：abych, abys, aby, abychom, abyste, aby，再配 -l 形式。相同主语也可有其它结构，不机械套中文。",
+      "examples": [
+        {
+          "cs": "Poslal jsem zprávu, protože se změnil čas.",
+          "zh": "我发消息，因为时间变了。",
+          "note_zh": ""
+        },
+        {
+          "cs": "Poslal jsem zprávu, aby všichni věděli o změně.",
+          "zh": "我发消息，好让大家知道变动。",
+          "note_zh": ""
+        }
+      ],
+      "pitfalls": [
+        "protože 是已经解释的原因；aby 指目的，不保证实现。",
+        "标准书写主从句之间通常加逗号。"
+      ],
+      "exceptions": [
+        "jestli 在间接问句中可表示“是否”，不一定是假设条件。"
+      ],
+      "term": "从句逻辑与目的"
+    },
+    {
+      "id": "relative-reference",
+      "rule_zh": "“哪个人/哪件物”由前面的名词决定，从句里的角色决定词尾。",
+      "detail_zh": "který 的性数跟先行词一致；格由从句内的用法决定：místnost, která je malá；místnost, kterou jsme rezervovali；místnost, ve které sedíme。不能看到前面是主语就固定用第一格。",
+      "examples": [
+        {
+          "cs": "Lidé, kteří přijdou, potvrdí účast.",
+          "zh": "要来的人会确认参加。",
+          "note_zh": ""
+        },
+        {
+          "cs": "Místnost, kterou máme, je malá.",
+          "zh": "我们拥有的房间很小。",
+          "note_zh": ""
+        }
+      ],
+      "pitfalls": [
+        "主句中名词的格不能直接复制到 který。"
+      ],
+      "exceptions": [
+        "口语常用 co 引出某些关系句，此课先掌握明确的 který 系列。"
+      ],
+      "term": "关系代词的性数与格"
+    }
+  ],
+  "vocabulary": [
+    {
+      "lemma": "účast",
+      "pos": "名词，阴性",
+      "forms": "účasti; účastí",
+      "meaning_zh": "参加",
+      "collocation": "potvrdit účast",
+      "example_cs": "Potvrďte účast do pátku.",
+      "example_zh": "请周五前确认参加。",
+      "confusion_zh": "účastník 是参加者。"
+    },
+    {
+      "lemma": "předpověď",
+      "pos": "名词，阴性",
+      "forms": "předpovědi",
+      "meaning_zh": "预报",
+      "collocation": "předpověď počasí",
+      "example_cs": "Předpověď slibuje déšť.",
+      "example_zh": "预报将下雨。",
+      "confusion_zh": "不等于已经发生。"
+    },
+    {
+      "lemma": "náhradní možnost",
+      "pos": "名词短语，阴性",
+      "forms": "náhradní možnosti",
+      "meaning_zh": "备用方案",
+      "collocation": "nechat si náhradní možnost",
+      "example_cs": "Máme náhradní možnost.",
+      "example_zh": "我们有备选。",
+      "confusion_zh": "不表示首选已取消。"
+    },
+    {
+      "lemma": "přestože",
+      "pos": "连接词",
+      "forms": "不变化",
+      "meaning_zh": "尽管",
+      "collocation": "přestože prší",
+      "example_cs": "Přišli, přestože pršelo.",
+      "example_zh": "尽管下雨，他们还是来了。",
+      "confusion_zh": "不是因为。"
+    }
+  ],
+  "listening": {
+    "script": [
+      {
+        "cs": "Schůzku přesouváme do knihovny, protože klubovna není volná. Přijďte prosím o deset minut dříve, abychom mohli začít včas. Pokud nové místo nenajdete, zavolejte mi. Přestože se místo mění, začátek zůstává v šest hodin.",
+        "zh": "活动室没空，所以改到图书馆。请早十分钟来，以便准时开始。找不到新地点就给我打电话。尽管地点改变，仍六点开始。",
+        "note_zh": ""
+      }
+    ],
+    "focus_zh": "按“变更/原因/目的/条件/不变项”记信息；不是所有从句都在表达原因。",
+    "source": "original"
+  },
+  "pronunciation": {
+    "focus_zh": "从句开始前做短停顿，别把 protože 拆开。abychom 的末尾不要漏音节。",
+    "contrast": [
+      {
+        "a": "proto",
+        "b": "protože",
+        "note_zh": "前者引结果，后者引原因；注意 že。"
+      }
+    ],
+    "task_zh": "先听一句，再按意义块跟读；录下自然语速版本，对照长短元音、句中停顿和关键词。不要追求机械加速。"
+  },
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "为什么保留底楼房间？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "用于坏天气或年长客人备用"
+        },
+        {
+          "id": "b",
+          "text": "因为早餐已取消"
+        },
+        {
+          "id": "c",
+          "text": "因为所有人不愿见面"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "它是备用安排，不是取消活动。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U04-L01-E01",
+      "knowledge_points": [
+        "subordinate-logic",
+        "relative-reference"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "发确认表的目的是什么？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "证明二十人已到了"
+        },
+        {
+          "id": "b",
+          "text": "了解谁能参加"
+        },
+        {
+          "id": "c",
+          "text": "通知加价"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "aby 和后文明确收集信息，而非已参加记录。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U04-L01-E02",
+      "knowledge_points": [
+        "subordinate-logic",
+        "relative-reference"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "听通知：哪个信息保持不变？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "地点"
+        },
+        {
+          "id": "b",
+          "text": "开始时间"
+        },
+        {
+          "id": "c",
+          "text": "提前到达要求"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "开始仍在六点，地点变为图书馆。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "listening"
+      ],
+      "error_category": "comprehension",
+      "audio_text_cs": "Přestože se místo mění, začátek zůstává v šest hodin.",
+      "id": "B1-U04-L01-E03",
+      "knowledge_points": [
+        "subordinate-logic",
+        "relative-reference"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "表目的，填我们这一人称的 aby 形式。",
+      "stimulus_cs": "Přijďte dřív, ___ mohli začít včas.",
+      "answer": "abychom",
+      "accepted_answers": [
+        "abychom"
+      ],
+      "explanation_zh": "主语我们，使用 abychom，不用 aby jsme。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "B1-U04-L01-E04",
+      "knowledge_points": [
+        "subordinate-logic",
+        "relative-reference"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "“我们预订的房间”，填 který 形式。",
+      "stimulus_cs": "Místnost, ___ jsme rezervovali, je malá.",
+      "answer": "kterou",
+      "accepted_answers": [
+        "kterou"
+      ],
+      "explanation_zh": "místnost 阴性单数；在从句里是预订的宾语，用第四格。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "B1-U04-L01-E05",
+      "knowledge_points": [
+        "subordinate-logic",
+        "relative-reference"
+      ]
+    },
+    {
+      "type": "correct",
+      "prompt_zh": "只改目的连接词的人称标准写法。",
+      "stimulus_cs": "Zavolám, aby jste věděli o změně.",
+      "answer": "Zavolám, abyste věděli o změně.",
+      "accepted_answers": [
+        "Zavolám, abyste věděli o změně."
+      ],
+      "explanation_zh": "标准形式 abyste 连写，不是 aby jste。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "B1-U04-L01-E06",
+      "knowledge_points": [
+        "subordinate-logic",
+        "relative-reference"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt_zh": "先给事实，再用 proto 表结果。",
+      "stimulus_cs": "proto připravíme místnost. / Bude pršet,",
+      "options": [
+        "proto připravíme místnost.",
+        "Bude pršet,"
+      ],
+      "answer": "Bude pršet, proto připravíme místnost.",
+      "accepted_answers": [
+        "Bude pršet, proto připravíme místnost."
+      ],
+      "explanation_zh": "先原因事实，再结果安排。",
+      "scoring_basis": "本题限定句首及语境；不据一个参考语序否定捷语所有语序变体。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "word_order",
+      "id": "B1-U04-L01-E07",
+      "knowledge_points": [
+        "subordinate-logic",
+        "relative-reference"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "“虽然下雨，但人来了”选择哪个关系？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "přestože"
+        },
+        {
+          "id": "b",
+          "text": "aby"
+        },
+        {
+          "id": "c",
+          "text": "pokud"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "让步承认困难但结果仍发生。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U04-L01-E08",
+      "knowledge_points": [
+        "subordinate-logic",
+        "relative-reference"
+      ]
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "解释活动改期，必须分别说原因、目的和一个不变项。",
+      "stimulus_cs": "",
+      "answer": "Začneme později, protože má pršet. Připravíme také místnost, aby starší hosté mohli sedět uvnitř. Přestože měníme čas, společná snídaně se neruší.",
+      "accepted_answers": [],
+      "explanation_zh": "让连接词各做一件事。",
+      "rubric": [
+        "三关系明确",
+        "没有把预报说成事实",
+        "信息能指导行动"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "error_category": "fluency",
+      "id": "B1-U04-L01-E09",
+      "knowledge_points": [
+        "subordinate-logic",
+        "relative-reference"
+      ]
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "给邻居写新通知：周六十一点、院子、雨大改底楼，不改变报名方式。",
+      "stimulus_cs": "",
+      "answer": "V sobotu začneme v jedenáct na dvoře. Pokud bude silně pršet, přesuneme se do místnosti v přízemí. Způsob přihlášení zůstává stejný. Děkujeme za pochopení.",
+      "accepted_answers": [],
+      "explanation_zh": "时间地点条件写全，比“稍晚”具体。",
+      "rubric": [
+        "时间地点明确",
+        "备用条件完整",
+        "不变事项准确"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U04-L01-E10",
+      "knowledge_points": [
+        "subordinate-logic",
+        "relative-reference"
+      ]
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "有人说填表就保证来了？澄清确认意向与实际出席区别。",
+      "stimulus_cs": "",
+      "answer": "Formulář nám pomůže zjistit, kdo plánuje přijít. Pokud se vaše plány změní, dejte prosím vědět správkyni. Samotné vyplnění ještě neznamená, že člověk skutečně dorazil.",
+      "accepted_answers": [],
+      "explanation_zh": "明确统计口径，别责怪对方。",
+      "rubric": [
+        "澄清两种状态",
+        "给变更路径",
+        "语气合作"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "error_category": "fluency",
+      "id": "B1-U04-L01-E11",
+      "knowledge_points": [
+        "subordinate-logic",
+        "relative-reference"
+      ]
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "用中文解释：Přestože se místo mění, začátek zůstává v šest.",
+      "stimulus_cs": "",
+      "answer": "虽然地点变了，开始时间仍是六点。不能因为改地点就自己推断活动晚开。",
+      "accepted_answers": [],
+      "explanation_zh": "保留对比两项。",
+      "rubric": [
+        "变更项准确",
+        "不变项准确",
+        "不添新时间"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U04-L01-E12",
+      "knowledge_points": [
+        "subordinate-logic",
+        "relative-reference"
+      ]
+    }
+  ],
+  "transfer_task": {
+    "prompt_zh": "把通知换成运动课程：教练生病、替代老师、为了不中断、若无法参加可留言。",
+    "model_answer_cs": "Lekci povede jiný lektor, protože původní lektor onemocněl. Zajistili jsme náhradu, aby výuka pokračovala. Pokud nemůžete přijít, napište nám.",
+    "rubric": [
+      "三种关系",
+      "角色指代明确",
+      "事实目的分开"
+    ]
+  },
+  "review_links": [
+    "B1-U03-L01"
+  ],
+  "sources": [
+    {
+      "source_id": "LANG01",
+      "url": "https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions",
+      "scope": "按实际能做的任务编排能力，不把CEFR说成官方捷语语法课表",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    },
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?id=575",
+      "scope": "条件式的人称形式、礼貌用途及过去条件式限制",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    },
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?id=600",
+      "scope": "主语与谓语的性数及有生性一致",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    }
+  ],
+  "content_status": "authored_crosschecked_not_native_reviewed",
+  "quality_notes": [
+    "原创课文和练习；规则按所列来源交叉核查，未获得捷语母语教师逐句审校。",
+    "本课级别属于教材编排判断，不代表官方能力认证。",
+    "听力为原创可合成脚本；真人多说话人、地区口音与录音自然度尚待现场核验。"
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "B1-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--normal.mp3",
+      "slow_file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U04-L01--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "V našem domě jsme chtěli uspořádat společnou snídani na dvoře. Správkyně domu navrhla sobotu, protože většina sousedů nemusí do práce. Několik lidí však upozornilo, že se má ochladit a pršet. Rozhodli jsme se proto připravit také místnost v přízemí. Nechtěli jsme akci hned rušit, přestože předpověď nebyla příznivá. Potřebovali jsme plán, který bude fungovat i za špatného počasí. Paní, která měla přinést domácí koláč, se zeptala na počet hostů. Poslali jsme krátký formulář, aby každý mohl potvrdit účast. Nebyl to seznam lidí, kteří už určitě přijdou; byl to způsob, jak potřebné údaje teprve zjistit. Pokud někdo formulář vyplnit nemohl, stačilo zavolat správkyni. Chtěli jsme, aby se mohli zapojit i sousedé, kteří nepoužívají internet. V pátek se ukázalo, že místnost není dost velká. Přestože už potvrdilo účast dvacet lidí, vešlo se do ní jen čtrnáct. Správkyně navrhla dvě menší skupiny. Někteří sousedé nesouhlasili, protože by se všichni nepotkali. Nakonec jsme posunuli začátek na pozdější hodinu, kdy měl déšť ustat. Současně jsme si nechali vnitřní místnost jako náhradní možnost pro starší hosty. Na nástěnku jsme napsali nové oznámení. Uvedli jsme, co se mění, proč se to mění a co zůstává stejné. Kdybychom napsali jen „Snídaně je později“, lidé by nevěděli, v kolik mají přijít. Dobrá zpráva proto obsahovala přesný čas i vysvětlení. Nešlo o dlouhý úřední text, ale o několik vět, mezi kterými byly jasné vztahy.",
+      "duration_seconds": 129.27809523809523,
+      "slow_duration_seconds": 144.74258503401362,
+      "sha256": "89b556a8268d191948da9c61843a412ef1244f6c84228ef926f48e48be3d2b0d",
+      "slow_sha256": "ebd026b059fadca5cc9be8068a7260c1a830bdcf0023a27e3204d7a68ccfb78e"
+    },
+    {
+      "lesson_id": "B1-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--normal.mp3",
+      "slow_file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U04-L01--2026.10.22.1--text--p0",
+      "asset_id": "B1-U04-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "V našem domě jsme chtěli uspořádat společnou snídani na dvoře. Správkyně domu navrhla sobotu, protože většina sousedů nemusí do práce. Několik lidí však upozornilo, že se má ochladit a pršet. Rozhodli jsme se proto připravit také místnost v přízemí. Nechtěli jsme akci hned rušit, přestože předpověď nebyla příznivá. Potřebovali jsme plán, který bude fungovat i za špatného počasí.",
+      "start": 0,
+      "end": 33.73301587301587,
+      "slow_start": 0,
+      "slow_end": 37.54108843537415
+    },
+    {
+      "lesson_id": "B1-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--normal.mp3",
+      "slow_file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U04-L01--2026.10.22.1--text--s0",
+      "asset_id": "B1-U04-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "V našem domě jsme chtěli uspořádat společnou snídani na dvoře.",
+      "start": 0,
+      "end": 5.340589569160998,
+      "slow_start": 0,
+      "slow_end": 5.944308390022676
+    },
+    {
+      "lesson_id": "B1-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--normal.mp3",
+      "slow_file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U04-L01--2026.10.22.1--text--s1",
+      "asset_id": "B1-U04-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Správkyně domu navrhla sobotu, protože většina sousedů nemusí do práce.",
+      "start": 5.520589569160998,
+      "end": 12.265986394557823,
+      "slow_start": 6.124308390022676,
+      "slow_end": 13.844943310657596
+    },
+    {
+      "lesson_id": "B1-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--normal.mp3",
+      "slow_file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U04-L01--2026.10.22.1--text--s2",
+      "asset_id": "B1-U04-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Několik lidí však upozornilo, že se má ochladit a pršet.",
+      "start": 12.445986394557822,
+      "end": 17.600816326530612,
+      "slow_start": 14.024943310657596,
+      "slow_end": 19.632562358276644
+    },
+    {
+      "lesson_id": "B1-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--normal.mp3",
+      "slow_file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U04-L01--2026.10.22.1--text--s3",
+      "asset_id": "B1-U04-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 3,
+      "paragraph_index": 0,
+      "sentence_index": 3,
+      "text": "Rozhodli jsme se proto připravit také místnost v přízemí.",
+      "start": 17.780816326530612,
+      "end": 22.27387755102041,
+      "slow_start": 19.812562358276644,
+      "slow_end": 24.83968253968254
+    },
+    {
+      "lesson_id": "B1-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--normal.mp3",
+      "slow_file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U04-L01--2026.10.22.1--text--s4",
+      "asset_id": "B1-U04-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 4,
+      "paragraph_index": 0,
+      "sentence_index": 4,
+      "text": "Nechtěli jsme akci hned rušit, přestože předpověď nebyla příznivá.",
+      "start": 22.45387755102041,
+      "end": 28.00344671201814,
+      "slow_start": 25.019682539682538,
+      "slow_end": 31.219410430839
+    },
+    {
+      "lesson_id": "B1-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--normal.mp3",
+      "slow_file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U04-L01--2026.10.22.1--text--s5",
+      "asset_id": "B1-U04-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 5,
+      "paragraph_index": 0,
+      "sentence_index": 5,
+      "text": "Potřebovali jsme plán, který bude fungovat i za špatného počasí.",
+      "start": 28.183446712018142,
+      "end": 33.73301587301587,
+      "slow_start": 31.399410430839,
+      "slow_end": 37.54108843537415
+    },
+    {
+      "lesson_id": "B1-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--normal.mp3",
+      "slow_file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U04-L01--2026.10.22.1--text--p1",
+      "asset_id": "B1-U04-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Paní, která měla přinést domácí koláč, se zeptala na počet hostů. Poslali jsme krátký formulář, aby každý mohl potvrdit účast. Nebyl to seznam lidí, kteří už určitě přijdou; byl to způsob, jak potřebné údaje teprve zjistit. Pokud někdo formulář vyplnit nemohl, stačilo zavolat správkyni. Chtěli jsme, aby se mohli zapojit i sousedé, kteří nepoužívají internet.",
+      "start": 33.91301587301587,
+      "end": 67.01324263038549,
+      "slow_start": 37.72108843537415,
+      "slow_end": 74.84997732426304
+    },
+    {
+      "lesson_id": "B1-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--normal.mp3",
+      "slow_file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U04-L01--2026.10.22.1--text--s6",
+      "asset_id": "B1-U04-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 6,
+      "paragraph_index": 1,
+      "sentence_index": 0,
+      "text": "Paní, která měla přinést domácí koláč, se zeptala na počet hostů.",
+      "start": 33.91301587301587,
+      "end": 40.03147392290249,
+      "slow_start": 37.72108843537415,
+      "slow_end": 44.54775510204082
+    },
+    {
+      "lesson_id": "B1-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--normal.mp3",
+      "slow_file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U04-L01--2026.10.22.1--text--s7",
+      "asset_id": "B1-U04-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 7,
+      "paragraph_index": 1,
+      "sentence_index": 1,
+      "text": "Poslali jsme krátký formulář, aby každý mohl potvrdit účast.",
+      "start": 40.21147392290249,
+      "end": 45.88875283446712,
+      "slow_start": 44.72775510204082,
+      "slow_end": 51.02036281179139
+    },
+    {
+      "lesson_id": "B1-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--normal.mp3",
+      "slow_file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U04-L01--2026.10.22.1--text--s8",
+      "asset_id": "B1-U04-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 8,
+      "paragraph_index": 1,
+      "sentence_index": 2,
+      "text": "Nebyl to seznam lidí, kteří už určitě přijdou; byl to způsob, jak potřebné údaje teprve zjistit.",
+      "start": 46.06875283446712,
+      "end": 54.50920634920635,
+      "slow_start": 51.200362811791386,
+      "slow_end": 60.708934240362815
+    },
+    {
+      "lesson_id": "B1-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--normal.mp3",
+      "slow_file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U04-L01--2026.10.22.1--text--s9",
+      "asset_id": "B1-U04-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 9,
+      "paragraph_index": 1,
+      "sentence_index": 3,
+      "text": "Pokud někdo formulář vyplnit nemohl, stačilo zavolat správkyni.",
+      "start": 54.68920634920635,
+      "end": 60.58707482993197,
+      "slow_start": 60.888934240362815,
+      "slow_end": 67.52984126984127
+    },
+    {
+      "lesson_id": "B1-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--normal.mp3",
+      "slow_file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U04-L01--2026.10.22.1--text--s10",
+      "asset_id": "B1-U04-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 10,
+      "paragraph_index": 1,
+      "sentence_index": 4,
+      "text": "Chtěli jsme, aby se mohli zapojit i sousedé, kteří nepoužívají internet.",
+      "start": 60.76707482993197,
+      "end": 67.01324263038549,
+      "slow_start": 67.70984126984126,
+      "slow_end": 74.84997732426304
+    },
+    {
+      "lesson_id": "B1-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--normal.mp3",
+      "slow_file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U04-L01--2026.10.22.1--text--p2",
+      "asset_id": "B1-U04-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "V pátek se ukázalo, že místnost není dost velká. Přestože už potvrdilo účast dvacet lidí, vešlo se do ní jen čtrnáct. Správkyně navrhla dvě menší skupiny. Někteří sousedé nesouhlasili, protože by se všichni nepotkali. Nakonec jsme posunuli začátek na pozdější hodinu, kdy měl déšť ustat. Současně jsme si nechali vnitřní místnost jako náhradní možnost pro starší hosty.",
+      "start": 67.19324263038548,
+      "end": 99.91619047619048,
+      "slow_start": 75.02997732426304,
+      "slow_end": 112.25759637188209
+    },
+    {
+      "lesson_id": "B1-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--normal.mp3",
+      "slow_file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U04-L01--2026.10.22.1--text--s11",
+      "asset_id": "B1-U04-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 11,
+      "paragraph_index": 2,
+      "sentence_index": 0,
+      "text": "V pátek se ukázalo, že místnost není dost velká.",
+      "start": 67.19324263038548,
+      "end": 71.48893424036281,
+      "slow_start": 75.02997732426304,
+      "slow_end": 79.82489795918367
+    },
+    {
+      "lesson_id": "B1-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--normal.mp3",
+      "slow_file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U04-L01--2026.10.22.1--text--s12",
+      "asset_id": "B1-U04-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 12,
+      "paragraph_index": 2,
+      "sentence_index": 1,
+      "text": "Přestože už potvrdilo účast dvacet lidí, vešlo se do ní jen čtrnáct.",
+      "start": 71.66893424036282,
+      "end": 78.2053514739229,
+      "slow_start": 80.00489795918368,
+      "slow_end": 87.5978231292517
+    },
+    {
+      "lesson_id": "B1-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--normal.mp3",
+      "slow_file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U04-L01--2026.10.22.1--text--s13",
+      "asset_id": "B1-U04-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 13,
+      "paragraph_index": 2,
+      "sentence_index": 2,
+      "text": "Správkyně navrhla dvě menší skupiny.",
+      "start": 78.3853514739229,
+      "end": 81.48521541950113,
+      "slow_start": 87.7778231292517,
+      "slow_end": 91.24920634920635
+    },
+    {
+      "lesson_id": "B1-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--normal.mp3",
+      "slow_file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U04-L01--2026.10.22.1--text--s14",
+      "asset_id": "B1-U04-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 14,
+      "paragraph_index": 2,
+      "sentence_index": 3,
+      "text": "Někteří sousedé nesouhlasili, protože by se všichni nepotkali.",
+      "start": 81.66521541950114,
+      "end": 86.82004535147392,
+      "slow_start": 91.42920634920635,
+      "slow_end": 97.32707482993197
+    },
+    {
+      "lesson_id": "B1-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--normal.mp3",
+      "slow_file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U04-L01--2026.10.22.1--text--s15",
+      "asset_id": "B1-U04-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 15,
+      "paragraph_index": 2,
+      "sentence_index": 4,
+      "text": "Nakonec jsme posunuli začátek na pozdější hodinu, kdy měl déšť ustat.",
+      "start": 87.00004535147393,
+      "end": 93.10689342403629,
+      "slow_start": 97.50707482993197,
+      "slow_end": 104.65882086167801
+    },
+    {
+      "lesson_id": "B1-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--normal.mp3",
+      "slow_file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U04-L01--2026.10.22.1--text--s16",
+      "asset_id": "B1-U04-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 16,
+      "paragraph_index": 2,
+      "sentence_index": 5,
+      "text": "Současně jsme si nechali vnitřní místnost jako náhradní možnost pro starší hosty.",
+      "start": 93.28689342403628,
+      "end": 99.91619047619048,
+      "slow_start": 104.838820861678,
+      "slow_end": 112.25759637188209
+    },
+    {
+      "lesson_id": "B1-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--normal.mp3",
+      "slow_file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U04-L01--2026.10.22.1--text--p3",
+      "asset_id": "B1-U04-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Na nástěnku jsme napsali nové oznámení. Uvedli jsme, co se mění, proč se to mění a co zůstává stejné. Kdybychom napsali jen „Snídaně je později“, lidé by nevěděli, v kolik mají přijít. Dobrá zpráva proto obsahovala přesný čas i vysvětlení. Nešlo o dlouhý úřední text, ale o několik vět, mezi kterými byly jasné vztahy.",
+      "start": 100.09619047619047,
+      "end": 129.09809523809523,
+      "slow_start": 112.43759637188208,
+      "slow_end": 144.5625850340136
+    },
+    {
+      "lesson_id": "B1-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--normal.mp3",
+      "slow_file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U04-L01--2026.10.22.1--text--s17",
+      "asset_id": "B1-U04-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 17,
+      "paragraph_index": 3,
+      "sentence_index": 0,
+      "text": "Na nástěnku jsme napsali nové oznámení.",
+      "start": 100.09619047619047,
+      "end": 103.7301133786848,
+      "slow_start": 112.43759637188208,
+      "slow_end": 116.41981859410431
+    },
+    {
+      "lesson_id": "B1-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--normal.mp3",
+      "slow_file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U04-L01--2026.10.22.1--text--s18",
+      "asset_id": "B1-U04-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 18,
+      "paragraph_index": 3,
+      "sentence_index": 1,
+      "text": "Uvedli jsme, co se mění, proč se to mění a co zůstává stejné.",
+      "start": 103.91011337868481,
+      "end": 109.877641723356,
+      "slow_start": 116.5998185941043,
+      "slow_end": 123.46131519274377
+    },
+    {
+      "lesson_id": "B1-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--normal.mp3",
+      "slow_file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U04-L01--2026.10.22.1--text--s19",
+      "asset_id": "B1-U04-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 19,
+      "paragraph_index": 3,
+      "sentence_index": 2,
+      "text": "Kdybychom napsali jen „Snídaně je později“, lidé by nevěděli, v kolik mají přijít.",
+      "start": 110.05764172335601,
+      "end": 117.11650793650794,
+      "slow_start": 123.64131519274376,
+      "slow_end": 131.44321995464853
+    },
+    {
+      "lesson_id": "B1-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--normal.mp3",
+      "slow_file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U04-L01--2026.10.22.1--text--s20",
+      "asset_id": "B1-U04-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 20,
+      "paragraph_index": 3,
+      "sentence_index": 3,
+      "text": "Dobrá zpráva proto obsahovala přesný čas i vysvětlení.",
+      "start": 117.29650793650794,
+      "end": 122.26557823129252,
+      "slow_start": 131.62321995464853,
+      "slow_end": 137.0334693877551
+    },
+    {
+      "lesson_id": "B1-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--normal.mp3",
+      "slow_file": "audio/files/B1-U04-L01--2026.10.22.1--text--29eb6560e0--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U04-L01--2026.10.22.1--text--s21",
+      "asset_id": "B1-U04-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 21,
+      "paragraph_index": 3,
+      "sentence_index": 4,
+      "text": "Nešlo o dlouhý úřední text, ale o několik vět, mezi kterými byly jasné vztahy.",
+      "start": 122.44557823129252,
+      "end": 129.09809523809523,
+      "slow_start": 137.2134693877551,
+      "slow_end": 144.5625850340136
+    },
+    {
+      "lesson_id": "B1-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U04-L01--2026.10.22.1--listening--c51998a39c--normal.mp3",
+      "slow_file": "audio/files/B1-U04-L01--2026.10.22.1--listening--c51998a39c--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U04-L01--2026.10.22.1--listening",
+      "role": "listening-full",
+      "index": 0,
+      "text": "Schůzku přesouváme do knihovny, protože klubovna není volná. Přijďte prosím o deset minut dříve, abychom mohli začít včas. Pokud nové místo nenajdete, zavolejte mi. Přestože se místo mění, začátek zůstává v šest hodin.",
+      "duration_seconds": 20.224761904761905,
+      "slow_duration_seconds": 22.4887074829932,
+      "sha256": "44311ab80757c0d9a84babe7cf158276b6f760d7a01d1d1f1493bfe83fe04a18",
+      "slow_sha256": "3b807317dfa69da648c41bd1aad4b39fc6e810508beef6e38730a731e314eb65"
+    },
+    {
+      "lesson_id": "B1-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U04-L01--2026.10.22.1--listening--c51998a39c--normal.mp3",
+      "slow_file": "audio/files/B1-U04-L01--2026.10.22.1--listening--c51998a39c--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U04-L01--2026.10.22.1--listening--p0",
+      "asset_id": "B1-U04-L01--2026.10.22.1--listening",
+      "role": "listening",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Schůzku přesouváme do knihovny, protože klubovna není volná. Přijďte prosím o deset minut dříve, abychom mohli začít včas. Pokud nové místo nenajdete, zavolejte mi. Přestože se místo mění, začátek zůstává v šest hodin.",
+      "start": 0,
+      "end": 20.044761904761906,
+      "slow_start": 0,
+      "slow_end": 22.308707482993196
+    },
+    {
+      "lesson_id": "B1-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U04-L01--2026.10.22.1--vocabulary--5a3c81aed0--normal.mp3",
+      "slow_file": "audio/files/B1-U04-L01--2026.10.22.1--vocabulary--5a3c81aed0--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U04-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary-full",
+      "index": 0,
+      "text": "Potvrďte účast do pátku. Předpověď slibuje déšť. Máme náhradní možnost. Přišli, přestože pršelo.",
+      "duration_seconds": 9.613242630385487,
+      "slow_duration_seconds": 10.92517006802721,
+      "sha256": "c6360ea965d6b8055c5681f642c1baeb5295f6ecc9b9804c49ad59eec1baf363",
+      "slow_sha256": "e1706c13d678555727152d5382547e9c77c13465c94569e4ea5f42eb09d2b6f0"
+    },
+    {
+      "lesson_id": "B1-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U04-L01--2026.10.22.1--vocabulary--5a3c81aed0--normal.mp3",
+      "slow_file": "audio/files/B1-U04-L01--2026.10.22.1--vocabulary--5a3c81aed0--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U04-L01--2026.10.22.1--vocabulary--p0",
+      "asset_id": "B1-U04-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Potvrďte účast do pátku.",
+      "start": 0,
+      "end": 2.36843537414966,
+      "slow_start": 0,
+      "slow_end": 2.681904761904762
+    },
+    {
+      "lesson_id": "B1-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U04-L01--2026.10.22.1--vocabulary--5a3c81aed0--normal.mp3",
+      "slow_file": "audio/files/B1-U04-L01--2026.10.22.1--vocabulary--5a3c81aed0--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U04-L01--2026.10.22.1--vocabulary--p1",
+      "asset_id": "B1-U04-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Předpověď slibuje déšť.",
+      "start": 2.5484353741496597,
+      "end": 4.719501133786848,
+      "slow_start": 2.861904761904762,
+      "slow_end": 5.3
+    },
+    {
+      "lesson_id": "B1-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U04-L01--2026.10.22.1--vocabulary--5a3c81aed0--normal.mp3",
+      "slow_file": "audio/files/B1-U04-L01--2026.10.22.1--vocabulary--5a3c81aed0--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U04-L01--2026.10.22.1--vocabulary--p2",
+      "asset_id": "B1-U04-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Máme náhradní možnost.",
+      "start": 4.899501133786848,
+      "end": 7.070566893424036,
+      "slow_start": 5.48,
+      "slow_end": 8.057414965986395
+    },
+    {
+      "lesson_id": "B1-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U04-L01--2026.10.22.1--vocabulary--5a3c81aed0--normal.mp3",
+      "slow_file": "audio/files/B1-U04-L01--2026.10.22.1--vocabulary--5a3c81aed0--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U04-L01--2026.10.22.1--vocabulary--p3",
+      "asset_id": "B1-U04-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Přišli, přestože pršelo.",
+      "start": 7.250566893424036,
+      "end": 9.433242630385488,
+      "slow_start": 8.237414965986394,
+      "slow_end": 10.74517006802721
+    },
+    {
+      "lesson_id": "B1-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U04-L01--2026.10.22.1--exercises--ae33dff978--normal.mp3",
+      "slow_file": "audio/files/B1-U04-L01--2026.10.22.1--exercises--ae33dff978--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U04-L01--2026.10.22.1--exercises",
+      "role": "exercises-full",
+      "index": 0,
+      "text": "Přestože se místo mění, začátek zůstává v šest hodin.",
+      "duration_seconds": 5.241950113378685,
+      "slow_duration_seconds": 5.9733786848072565,
+      "sha256": "179510891e7778a0b87599863347d880048dd0b64e4f821c917d83c83f0132e1",
+      "slow_sha256": "314e4e4c35b605acf59fc74a60d5b5f5f9d5ce0faf4c065d058cf1199c68783f"
+    },
+    {
+      "lesson_id": "B1-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U04-L01--2026.10.22.1--exercises--ae33dff978--normal.mp3",
+      "slow_file": "audio/files/B1-U04-L01--2026.10.22.1--exercises--ae33dff978--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U04-L01--2026.10.22.1--exercises--p0",
+      "asset_id": "B1-U04-L01--2026.10.22.1--exercises",
+      "role": "exercise",
+      "index": 0,
+      "exercise_id": "B1-U04-L01-E03",
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Přestože se místo mění, začátek zůstává v šest hodin.",
+      "start": 0,
+      "end": 5.061950113378685,
+      "slow_start": 0,
+      "slow_end": 5.793378684807256
+    },
+    {
+      "lesson_id": "B1-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U04-L01--2026.10.22.1--contrasts--f08d6a3a0a--normal.mp3",
+      "slow_file": "audio/files/B1-U04-L01--2026.10.22.1--contrasts--f08d6a3a0a--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U04-L01--2026.10.22.1--contrasts",
+      "role": "contrasts-full",
+      "index": 0,
+      "text": "proto. protože.",
+      "duration_seconds": 1.399047619047619,
+      "slow_duration_seconds": 1.6544671201814058,
+      "sha256": "53a7c5b6c811eb2300504bbcb637ba732535235023fe519bfd9324145e226334",
+      "slow_sha256": "751611f2f4a238886dc3c39a954a2b85365a6e93d4eded76f6453784d8e4ef71"
+    },
+    {
+      "lesson_id": "B1-U04-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U04-L01--2026.10.22.1--contrasts--f08d6a3a0a--normal.mp3",
+      "slow_file": "audio/files/B1-U04-L01--2026.10.22.1--contrasts--f08d6a3a0a--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U04-L01--2026.10.22.1--contrasts--p0",
+      "asset_id": "B1-U04-L01--2026.10.22.1--contrasts",
+      "role": "contrast",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "proto. protože.",
+      "start": 0,
+      "end": 1.2190476190476192,
+      "slow_start": 0,
+      "slow_end": 1.474467120181406
+    }
+  ]
+}

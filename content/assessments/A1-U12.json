@@ -1,0 +1,250 @@
+{
+  "id": "A1-U12-CHECK",
+  "kind": "unit",
+  "level": "A1",
+  "unit_id": "A1-U12",
+  "title_zh": "独立办一件事：取包裹：换情境独立完成",
+  "version": "2026.10.22.1",
+  "unseen_text": [
+    {
+      "cs": "Zásilka je na poště v Nové ulici číslo sedm. Pošta zavírá ve čtyři. Kód je devět, tři, jedna.",
+      "zh": "包裹在Nová街7号邮局，四点关门，代码931。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "代码是多少？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "931"
+        },
+        {
+          "id": "b",
+          "text": "913"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "devět, tři, jedna。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "listening"
+      ],
+      "error_category": "comprehension",
+      "audio_text_cs": "Kód je devět, tři, jedna.",
+      "id": "A1-U12-CHECK-E01",
+      "knowledge_points": [
+        "task-confirmation",
+        "imperative-recognition"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "门牌号码，写数字。",
+      "stimulus_cs": "",
+      "answer": "7",
+      "accepted_answers": [
+        "7"
+      ],
+      "explanation_zh": "sedm是7。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "comprehension",
+      "id": "A1-U12-CHECK-E02",
+      "knowledge_points": [
+        "task-confirmation",
+        "imperative-recognition"
+      ]
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "你三点半能到，确认四点关门并问是否来得及。",
+      "stimulus_cs": "",
+      "answer": "Zavíráte ve čtyři? Můžu přijít v půl čtvrté?",
+      "accepted_answers": [],
+      "explanation_zh": "půl čtvrté=3:30。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A1-U12-CHECK-E03",
+      "knowledge_points": [
+        "task-confirmation",
+        "imperative-recognition"
+      ]
+    }
+  ],
+  "rubric": [
+    "能提取新材料中的关键事实，不靠背诵原文",
+    "能根据变化的条件组织一句或一段表达",
+    "能指出不确定之处并请求澄清"
+  ],
+  "remediation": [
+    {
+      "condition_zh": "目标规律使用不稳定或未能提取关键信息",
+      "lesson_ids": [
+        "A1-U12-L01"
+      ],
+      "action_zh": "返回规律卡，对照两例；隔一次其他练习后重做未见情境。"
+    }
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "A1-U12-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U12-CHECK--2026.10.22.1--text--3a242c0d63--normal.mp3",
+      "slow_file": "audio/files/A1-U12-CHECK--2026.10.22.1--text--3a242c0d63--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U12-CHECK--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Zásilka je na poště v Nové ulici číslo sedm. Pošta zavírá ve čtyři. Kód je devět, tři, jedna.",
+      "duration_seconds": 8.539274376417234,
+      "slow_duration_seconds": 9.549342403628119,
+      "sha256": "de7b41e34d255633d5322291fd4ec34473effeb4b01dbb3a436cb92618760a69",
+      "slow_sha256": "fc4317635135515355bc6b9c9b00b535983eafb9fd56af5b1e6777a06e7545a3"
+    },
+    {
+      "lesson_id": "A1-U12-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U12-CHECK--2026.10.22.1--text--3a242c0d63--normal.mp3",
+      "slow_file": "audio/files/A1-U12-CHECK--2026.10.22.1--text--3a242c0d63--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U12-CHECK--2026.10.22.1--text--p0",
+      "asset_id": "A1-U12-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Zásilka je na poště v Nové ulici číslo sedm. Pošta zavírá ve čtyři. Kód je devět, tři, jedna.",
+      "start": 0,
+      "end": 8.359274376417234,
+      "slow_start": 0,
+      "slow_end": 9.369342403628117
+    },
+    {
+      "lesson_id": "A1-U12-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U12-CHECK--2026.10.22.1--text--3a242c0d63--normal.mp3",
+      "slow_file": "audio/files/A1-U12-CHECK--2026.10.22.1--text--3a242c0d63--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U12-CHECK--2026.10.22.1--text--s0",
+      "asset_id": "A1-U12-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Zásilka je na poště v Nové ulici číslo sedm.",
+      "start": 0,
+      "end": 3.8080725623582765,
+      "slow_start": 0,
+      "slow_end": 4.179591836734694
+    },
+    {
+      "lesson_id": "A1-U12-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U12-CHECK--2026.10.22.1--text--3a242c0d63--normal.mp3",
+      "slow_file": "audio/files/A1-U12-CHECK--2026.10.22.1--text--3a242c0d63--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U12-CHECK--2026.10.22.1--text--s1",
+      "asset_id": "A1-U12-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Pošta zavírá ve čtyři.",
+      "start": 3.9880725623582767,
+      "end": 5.903718820861678,
+      "slow_start": 4.359591836734694,
+      "slow_end": 6.611927437641723
+    },
+    {
+      "lesson_id": "A1-U12-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U12-CHECK--2026.10.22.1--text--3a242c0d63--normal.mp3",
+      "slow_file": "audio/files/A1-U12-CHECK--2026.10.22.1--text--3a242c0d63--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U12-CHECK--2026.10.22.1--text--s2",
+      "asset_id": "A1-U12-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Kód je devět, tři, jedna.",
+      "start": 6.083718820861678,
+      "end": 8.359274376417234,
+      "slow_start": 6.791927437641723,
+      "slow_end": 9.369342403628117
+    },
+    {
+      "lesson_id": "A1-U12-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U12-CHECK--2026.10.22.1--exercises--8a82c9416f--normal.mp3",
+      "slow_file": "audio/files/A1-U12-CHECK--2026.10.22.1--exercises--8a82c9416f--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U12-CHECK--2026.10.22.1--exercises",
+      "role": "exercises-full",
+      "index": 0,
+      "text": "Kód je devět, tři, jedna.",
+      "duration_seconds": 2.4439455782312924,
+      "slow_duration_seconds": 2.7690249433106575,
+      "sha256": "5384b5cea20e7e3bb4fa7b3dc20fa8a9d8660480a7c3f4fce6043a952a7b2d6f",
+      "slow_sha256": "f2fff1aa8066081eae82f28f405f324d0ebf786d76a724a3f5aef6bacfd4afe9"
+    },
+    {
+      "lesson_id": "A1-U12-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U12-CHECK--2026.10.22.1--exercises--8a82c9416f--normal.mp3",
+      "slow_file": "audio/files/A1-U12-CHECK--2026.10.22.1--exercises--8a82c9416f--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U12-CHECK--2026.10.22.1--exercises--p0",
+      "asset_id": "A1-U12-CHECK--2026.10.22.1--exercises",
+      "role": "exercise",
+      "index": 0,
+      "exercise_id": "A1-U12-CHECK-E01",
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Kód je devět, tři, jedna.",
+      "start": 0,
+      "end": 2.2639455782312927,
+      "slow_start": 0,
+      "slow_end": 2.589024943310658
+    }
+  ]
+}

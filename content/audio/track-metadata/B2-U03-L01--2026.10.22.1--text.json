@@ -1,0 +1,418 @@
+{
+  "id": "B2-U03-L01--2026.10.22.1--text",
+  "lesson_id": "B2-U03-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Náš spolek připravoval zprávu o opravě společné zahrady. Návrh textu obsahoval správná čísla, ale několik vět bylo nejasných. Autor například napsal, že se členové setkali s nový sousedé a že nové lavičky byly instalováni. Čtenář mohl význam odhadnout, přesto tyto chyby ztěžovaly plynulé čtení. Rozhodli jsme se opravit text tak, aby byl přesný a současně zůstal srozumitelný lidem bez jazykového vzdělání.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Náš spolek připravoval zprávu o opravě společné zahrady.",
+        "Návrh textu obsahoval správná čísla, ale několik vět bylo nejasných.",
+        "Autor například napsal, že se členové setkali s nový sousedé a že nové lavičky byly instalováni.",
+        "Čtenář mohl význam odhadnout, přesto tyto chyby ztěžovaly plynulé čtení.",
+        "Rozhodli jsme se opravit text tak, aby byl přesný a současně zůstal srozumitelný lidem bez jazykového vzdělání."
+      ]
+    },
+    {
+      "text": "Nejprve jsme určili vztahy ve větě. Setkat se vyžaduje předložku s a sedmý pád, takže správně je s novými sousedy. U laviček rozhoduje rod ženský a množné číslo: nové lavičky byly instalovány. Kdyby podmětem byli pracovníci, napsali bychom pracovníci byli připraveni. U středního rodu v množném čísle by věta zněla například nová hřiště byla otevřena. Koncovku tedy nevolíme podle slova, které je náhodou nejblíže.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Nejprve jsme určili vztahy ve větě.",
+        "Setkat se vyžaduje předložku s a sedmý pád, takže správně je s novými sousedy.",
+        "U laviček rozhoduje rod ženský a množné číslo: nové lavičky byly instalovány.",
+        "Kdyby podmětem byli pracovníci, napsali bychom pracovníci byli připraveni.",
+        "U středního rodu v množném čísle by věta zněla například nová hřiště byla otevřena.",
+        "Koncovku tedy nevolíme podle slova, které je náhodou nejblíže."
+      ]
+    },
+    {
+      "text": "Další věta uváděla, že pět dobrovolníků přišli včas. V běžné neutrální konstrukci s číslovkou pět jako součástí podmětu jsme zvolili pět dobrovolníků přišlo včas. Zároveň jsme si připomněli, že složitější shoda může záviset na stavbě věty a významu. Nechtěli jsme z jednoduchého cvičení vytvořit tvrzení, že každá věta s číslovkou musí vypadat úplně stejně bez ohledu na kontext.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Další věta uváděla, že pět dobrovolníků přišli včas.",
+        "V běžné neutrální konstrukci s číslovkou pět jako součástí podmětu jsme zvolili pět dobrovolníků přišlo včas.",
+        "Zároveň jsme si připomněli, že složitější shoda může záviset na stavbě věty a významu.",
+        "Nechtěli jsme z jednoduchého cvičení vytvořit tvrzení, že každá věta s číslovkou musí vypadat úplně stejně bez ohledu na kontext."
+      ]
+    },
+    {
+      "text": "U zájmen jsme sledovali, komu patří nářadí. Věta Petr přinesl jeho nářadí naznačuje v daném kontextu nářadí jiného muže. Pokud Petr přinesl vlastní vybavení, přesnější je Petr přinesl své nářadí. Ani tady však nestačí nahradit každé jeho slovem své. Musíme vědět, kdo je podmětem a kdo vlastníkem. Při změně podmětu se může změnit i správná volba zájmena.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "U zájmen jsme sledovali, komu patří nářadí.",
+        "Věta Petr přinesl jeho nářadí naznačuje v daném kontextu nářadí jiného muže.",
+        "Pokud Petr přinesl vlastní vybavení, přesnější je Petr přinesl své nářadí.",
+        "Ani tady však nestačí nahradit každé jeho slovem své.",
+        "Musíme vědět, kdo je podmětem a kdo vlastníkem.",
+        "Při změně podmětu se může změnit i správná volba zájmena."
+      ]
+    },
+    {
+      "text": "Nakonec jsme zkontrolovali vazby v poděkování. Děkujeme dobrovolníkům za pomoc používá třetí pád u lidí a čtvrtý pád po za. S pomocí dobrovolníků bychom zahradu opravili rychleji má jinou stavbu: pomoc stojí po s v sedmém pádě a dobrovolníků vyjadřuje, čí pomoc to je. Stejné osoby tedy mohou mít v sousedních větách různé koncovky, aniž by se změnila jejich totožnost.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Nakonec jsme zkontrolovali vazby v poděkování.",
+        "Děkujeme dobrovolníkům za pomoc používá třetí pád u lidí a čtvrtý pád po za.",
+        "S pomocí dobrovolníků bychom zahradu opravili rychleji má jinou stavbu: pomoc stojí po s v sedmém pádě a dobrovolníků vyjadřuje, čí pomoc to je.",
+        "Stejné osoby tedy mohou mít v sousedních větách různé koncovky, aniž by se změnila jejich totožnost."
+      ]
+    },
+    {
+      "text": "Při druhém čtení jsme už neřešili pouze správnost tvarů. Zkrátili jsme dvě příliš dlouhé věty a vysvětlili, které práce byly dokončeny a které teprve čekají. Přesná gramatika není samoúčelná sbírka koncovek. Pomáhá rozlišit osoby, odpovědnost, počet, vlastnictví i časový stav úkolu. Když oprava změní tato fakta, nejde o stylistické vylepšení, ale o chybu, kterou je nutné vrátit zpět.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Při druhém čtení jsme už neřešili pouze správnost tvarů.",
+        "Zkrátili jsme dvě příliš dlouhé věty a vysvětlili, které práce byly dokončeny a které teprve čekají.",
+        "Přesná gramatika není samoúčelná sbírka koncovek.",
+        "Pomáhá rozlišit osoby, odpovědnost, počet, vlastnictví i časový stav úkolu.",
+        "Když oprava změní tato fakta, nejde o stylistické vylepšení, ale o chybu, kterou je nutné vrátit zpět."
+      ]
+    }
+  ],
+  "text_sha256": "c06693dabaa266d060ce3a16e059a77733496cf4df56f3dde18b07fae877071f",
+  "source_file": "content/lessons/B2/B2-U03-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--normal.mp3",
+  "slow_file": "content/audio/files/B2-U03-L01--2026.10.22.1--text--c06693daba--slow.mp3",
+  "duration_seconds": 212.85868480725622,
+  "slow_duration_seconds": 238.2148752834467,
+  "cues": [
+    {
+      "text": "Náš spolek připravoval zprávu o opravě společné zahrady. Návrh textu obsahoval správná čísla, ale několik vět bylo nejasných. Autor například napsal, že se členové setkali s nový sousedé a že nové lavičky byly instalováni. Čtenář mohl význam odhadnout, přesto tyto chyby ztěžovaly plynulé čtení. Rozhodli jsme se opravit text tak, aby byl přesný a současně zůstal srozumitelný lidem bez jazykového vzdělání.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Náš spolek připravoval zprávu o opravě společné zahrady.",
+        "Návrh textu obsahoval správná čísla, ale několik vět bylo nejasných.",
+        "Autor například napsal, že se členové setkali s nový sousedé a že nové lavičky byly instalováni.",
+        "Čtenář mohl význam odhadnout, přesto tyto chyby ztěžovaly plynulé čtení.",
+        "Rozhodli jsme se opravit text tak, aby byl přesný a současně zůstal srozumitelný lidem bez jazykového vzdělání."
+      ],
+      "start": 0.0,
+      "end": 36.96634920634921,
+      "sentences": [
+        {
+          "text": "Náš spolek připravoval zprávu o opravě společné zahrady.",
+          "start": 0.0,
+          "end": 4.922630385487528,
+          "slow_start": 0.0,
+          "slow_end": 5.596009070294785
+        },
+        {
+          "text": "Návrh textu obsahoval správná čísla, ale několik vět bylo nejasných.",
+          "start": 5.102630385487529,
+          "end": 11.464897959183673,
+          "slow_start": 5.776009070294784,
+          "slow_end": 12.67233560090703
+        },
+        {
+          "text": "Autor například napsal, že se členové setkali s nový sousedé a že nové lavičky byly instalováni.",
+          "start": 11.644897959183673,
+          "end": 20.619410430839004,
+          "slow_start": 12.852335600907029,
+          "slow_end": 23.115555555555556
+        },
+        {
+          "text": "Čtenář mohl význam odhadnout, přesto tyto chyby ztěžovaly plynulé čtení.",
+          "start": 20.799410430839004,
+          "end": 27.28938775510204,
+          "slow_start": 23.295555555555556,
+          "slow_end": 30.400861678004535
+        },
+        {
+          "text": "Rozhodli jsme se opravit text tak, aby byl přesný a současně zůstal srozumitelný lidem bez jazykového vzdělání.",
+          "start": 27.46938775510204,
+          "end": 36.96634920634921,
+          "slow_start": 30.580861678004535,
+          "slow_end": 40.96018140589569
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 40.96018140589569
+    },
+    {
+      "text": "Nejprve jsme určili vztahy ve větě. Setkat se vyžaduje předložku s a sedmý pád, takže správně je s novými sousedy. U laviček rozhoduje rod ženský a množné číslo: nové lavičky byly instalovány. Kdyby podmětem byli pracovníci, napsali bychom pracovníci byli připraveni. U středního rodu v množném čísle by věta zněla například nová hřiště byla otevřena. Koncovku tedy nevolíme podle slova, které je náhodou nejblíže.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Nejprve jsme určili vztahy ve větě.",
+        "Setkat se vyžaduje předložku s a sedmý pád, takže správně je s novými sousedy.",
+        "U laviček rozhoduje rod ženský a množné číslo: nové lavičky byly instalovány.",
+        "Kdyby podmětem byli pracovníci, napsali bychom pracovníci byli připraveni.",
+        "U středního rodu v množném čísle by věta zněla například nová hřiště byla otevřena.",
+        "Koncovku tedy nevolíme podle slova, které je náhodou nejblíže."
+      ],
+      "start": 37.14634920634921,
+      "end": 74.72226757369614,
+      "sentences": [
+        {
+          "text": "Nejprve jsme určili vztahy ve větě.",
+          "start": 37.14634920634921,
+          "end": 40.29265306122449,
+          "slow_start": 41.14018140589569,
+          "slow_end": 44.65800453514739
+        },
+        {
+          "text": "Setkat se vyžaduje předložku s a sedmý pád, takže správně je s novými sousedy.",
+          "start": 40.47265306122449,
+          "end": 47.19482993197279,
+          "slow_start": 44.83800453514739,
+          "slow_end": 52.28
+        },
+        {
+          "text": "U laviček rozhoduje rod ženský a množné číslo: nové lavičky byly instalovány.",
+          "start": 47.37482993197279,
+          "end": 54.58462585034014,
+          "slow_start": 52.46,
+          "slow_end": 60.737913832199546
+        },
+        {
+          "text": "Kdyby podmětem byli pracovníci, napsali bychom pracovníci byli připraveni.",
+          "start": 54.76462585034014,
+          "end": 61.33587301587301,
+          "slow_start": 60.917913832199545,
+          "slow_end": 68.15092970521542
+        },
+        {
+          "text": "U středního rodu v množném čísle by věta zněla například nová hřiště byla otevřena.",
+          "start": 61.51587301587302,
+          "end": 69.22489795918368,
+          "slow_start": 68.33092970521542,
+          "slow_end": 76.89909297052154
+        },
+        {
+          "text": "Koncovku tedy nevolíme podle slova, které je náhodou nejblíže.",
+          "start": 69.40489795918367,
+          "end": 74.72226757369614,
+          "slow_start": 77.07909297052154,
+          "slow_end": 83.05823129251701
+        }
+      ],
+      "slow_start": 41.14018140589569,
+      "slow_end": 83.05823129251701
+    },
+    {
+      "text": "Další věta uváděla, že pět dobrovolníků přišli včas. V běžné neutrální konstrukci s číslovkou pět jako součástí podmětu jsme zvolili pět dobrovolníků přišlo včas. Zároveň jsme si připomněli, že složitější shoda může záviset na stavbě věty a významu. Nechtěli jsme z jednoduchého cvičení vytvořit tvrzení, že každá věta s číslovkou musí vypadat úplně stejně bez ohledu na kontext.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Další věta uváděla, že pět dobrovolníků přišli včas.",
+        "V běžné neutrální konstrukci s číslovkou pět jako součástí podmětu jsme zvolili pět dobrovolníků přišlo včas.",
+        "Zároveň jsme si připomněli, že složitější shoda může záviset na stavbě věty a významu.",
+        "Nechtěli jsme z jednoduchého cvičení vytvořit tvrzení, že každá věta s číslovkou musí vypadat úplně stejně bez ohledu na kontext."
+      ],
+      "start": 74.90226757369615,
+      "end": 110.19092970521542,
+      "sentences": [
+        {
+          "text": "Další věta uváděla, že pět dobrovolníků přišli včas.",
+          "start": 74.90226757369615,
+          "end": 80.39378684807257,
+          "slow_start": 83.238231292517,
+          "slow_end": 89.40312925170068
+        },
+        {
+          "text": "V běžné neutrální konstrukci s číslovkou pět jako součástí podmětu jsme zvolili pět dobrovolníků přišlo včas.",
+          "start": 80.57378684807256,
+          "end": 91.12725623582766,
+          "slow_start": 89.58312925170068,
+          "slow_end": 101.59945578231293
+        },
+        {
+          "text": "Zároveň jsme si připomněli, že složitější shoda může záviset na stavbě věty a významu.",
+          "start": 91.30725623582767,
+          "end": 98.7724716553288,
+          "slow_start": 101.77945578231292,
+          "slow_end": 110.24312925170068
+        },
+        {
+          "text": "Nechtěli jsme z jednoduchého cvičení vytvořit tvrzení, že každá věta s číslovkou musí vypadat úplně stejně bez ohledu na kontext.",
+          "start": 98.9524716553288,
+          "end": 110.19092970521542,
+          "slow_start": 110.42312925170069,
+          "slow_end": 123.01995464852608
+        }
+      ],
+      "slow_start": 83.238231292517,
+      "slow_end": 123.01995464852608
+    },
+    {
+      "text": "U zájmen jsme sledovali, komu patří nářadí. Věta Petr přinesl jeho nářadí naznačuje v daném kontextu nářadí jiného muže. Pokud Petr přinesl vlastní vybavení, přesnější je Petr přinesl své nářadí. Ani tady však nestačí nahradit každé jeho slovem své. Musíme vědět, kdo je podmětem a kdo vlastníkem. Při změně podmětu se může změnit i správná volba zájmena.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "U zájmen jsme sledovali, komu patří nářadí.",
+        "Věta Petr přinesl jeho nářadí naznačuje v daném kontextu nářadí jiného muže.",
+        "Pokud Petr přinesl vlastní vybavení, přesnější je Petr přinesl své nářadí.",
+        "Ani tady však nestačí nahradit každé jeho slovem své.",
+        "Musíme vědět, kdo je podmětem a kdo vlastníkem.",
+        "Při změně podmětu se může změnit i správná volba zájmena."
+      ],
+      "start": 110.37092970521542,
+      "end": 142.8384580498866,
+      "sentences": [
+        {
+          "text": "U zájmen jsme sledovali, komu patří nářadí.",
+          "start": 110.37092970521542,
+          "end": 114.4924716553288,
+          "slow_start": 123.19995464852607,
+          "slow_end": 127.77428571428571
+        },
+        {
+          "text": "Věta Petr přinesl jeho nářadí naznačuje v daném kontextu nářadí jiného muže.",
+          "start": 114.67247165532879,
+          "end": 121.52235827664398,
+          "slow_start": 127.95428571428572,
+          "slow_end": 135.5936507936508
+        },
+        {
+          "text": "Pokud Petr přinesl vlastní vybavení, přesnější je Petr přinesl své nářadí.",
+          "start": 121.70235827664399,
+          "end": 128.2271655328798,
+          "slow_start": 135.7736507936508,
+          "slow_end": 143.26208616780045
+        },
+        {
+          "text": "Ani tady však nestačí nahradit každé jeho slovem své.",
+          "start": 128.40716553287982,
+          "end": 133.32979591836735,
+          "slow_start": 143.44208616780045,
+          "slow_end": 148.94521541950112
+        },
+        {
+          "text": "Musíme vědět, kdo je podmětem a kdo vlastníkem.",
+          "start": 133.50979591836736,
+          "end": 137.5152380952381,
+          "slow_start": 149.12521541950113,
+          "slow_end": 153.69954648526078
+        },
+        {
+          "text": "Při změně podmětu se může změnit i správná volba zájmena.",
+          "start": 137.6952380952381,
+          "end": 142.8384580498866,
+          "slow_start": 153.87954648526076,
+          "slow_end": 159.69614512471657
+        }
+      ],
+      "slow_start": 123.19995464852607,
+      "slow_end": 159.69614512471657
+    },
+    {
+      "text": "Nakonec jsme zkontrolovali vazby v poděkování. Děkujeme dobrovolníkům za pomoc používá třetí pád u lidí a čtvrtý pád po za. S pomocí dobrovolníků bychom zahradu opravili rychleji má jinou stavbu: pomoc stojí po s v sedmém pádě a dobrovolníků vyjadřuje, čí pomoc to je. Stejné osoby tedy mohou mít v sousedních větách různé koncovky, aniž by se změnila jejich totožnost.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Nakonec jsme zkontrolovali vazby v poděkování.",
+        "Děkujeme dobrovolníkům za pomoc používá třetí pád u lidí a čtvrtý pád po za.",
+        "S pomocí dobrovolníků bychom zahradu opravili rychleji má jinou stavbu: pomoc stojí po s v sedmém pádě a dobrovolníků vyjadřuje, čí pomoc to je.",
+        "Stejné osoby tedy mohou mít v sousedních větách různé koncovky, aniž by se změnila jejich totožnost."
+      ],
+      "start": 143.01845804988662,
+      "end": 177.26222222222222,
+      "sentences": [
+        {
+          "text": "Nakonec jsme zkontrolovali vazby v poděkování.",
+          "start": 143.01845804988662,
+          "end": 146.97746031746033,
+          "slow_start": 159.87614512471654,
+          "slow_end": 164.33437641723356
+        },
+        {
+          "text": "Děkujeme dobrovolníkům za pomoc používá třetí pád u lidí a čtvrtý pád po za.",
+          "start": 147.1574603174603,
+          "end": 154.50657596371883,
+          "slow_start": 164.51437641723356,
+          "slow_end": 173.16380952380953
+        },
+        {
+          "text": "S pomocí dobrovolníků bychom zahradu opravili rychleji má jinou stavbu: pomoc stojí po s v sedmém pádě a dobrovolníků vyjadřuje, čí pomoc to je.",
+          "start": 154.6865759637188,
+          "end": 167.8522902494331,
+          "slow_start": 173.3438095238095,
+          "slow_end": 188.39034013605442
+        },
+        {
+          "text": "Stejné osoby tedy mohou mít v sousedních větách různé koncovky, aniž by se změnila jejich totožnost.",
+          "start": 168.03229024943312,
+          "end": 177.26222222222222,
+          "slow_start": 188.57034013605443,
+          "slow_end": 198.63619047619048
+        }
+      ],
+      "slow_start": 159.87614512471654,
+      "slow_end": 198.63619047619048
+    },
+    {
+      "text": "Při druhém čtení jsme už neřešili pouze správnost tvarů. Zkrátili jsme dvě příliš dlouhé věty a vysvětlili, které práce byly dokončeny a které teprve čekají. Přesná gramatika není samoúčelná sbírka koncovek. Pomáhá rozlišit osoby, odpovědnost, počet, vlastnictví i časový stav úkolu. Když oprava změní tato fakta, nejde o stylistické vylepšení, ale o chybu, kterou je nutné vrátit zpět.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Při druhém čtení jsme už neřešili pouze správnost tvarů.",
+        "Zkrátili jsme dvě příliš dlouhé věty a vysvětlili, které práce byly dokončeny a které teprve čekají.",
+        "Přesná gramatika není samoúčelná sbírka koncovek.",
+        "Pomáhá rozlišit osoby, odpovědnost, počet, vlastnictví i časový stav úkolu.",
+        "Když oprava změní tato fakta, nejde o stylistické vylepšení, ale o chybu, kterou je nutné vrátit zpět."
+      ],
+      "start": 177.44222222222223,
+      "end": 212.67868480725625,
+      "sentences": [
+        {
+          "text": "Při druhém čtení jsme už neřešili pouze správnost tvarů.",
+          "start": 177.44222222222223,
+          "end": 182.10943310657598,
+          "slow_start": 198.81619047619049,
+          "slow_end": 204.00585034013605
+        },
+        {
+          "text": "Zkrátili jsme dvě příliš dlouhé věty a vysvětlili, které práce byly dokončeny a které teprve čekají.",
+          "start": 182.28943310657596,
+          "end": 191.1710657596372,
+          "slow_start": 204.18585034013606,
+          "slow_end": 214.13560090702947
+        },
+        {
+          "text": "Přesná gramatika není samoúčelná sbírka koncovek.",
+          "start": 191.35106575963718,
+          "end": 196.04149659863947,
+          "slow_start": 214.31560090702948,
+          "slow_end": 219.55170068027212
+        },
+        {
+          "text": "Pomáhá rozlišit osoby, odpovědnost, počet, vlastnictví i časový stav úkolu.",
+          "start": 196.22149659863945,
+          "end": 203.50095238095238,
+          "slow_start": 219.7317006802721,
+          "slow_end": 227.80063492063493
+        },
+        {
+          "text": "Když oprava změní tato fakta, nejde o stylistické vylepšení, ale o chybu, kterou je nutné vrátit zpět.",
+          "start": 203.6809523809524,
+          "end": 212.67868480725625,
+          "slow_start": 227.9806349206349,
+          "slow_end": 238.03487528344672
+        }
+      ],
+      "slow_start": 198.81619047619049,
+      "slow_end": 238.03487528344672
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "a9627cf57a71d237c45268deaee1f473d36fc0fccd14c03f1927dae95a434aa6",
+    "slow": "769cf0039d9bab0c15146fdca54769bfcb4007a60a6aafe8b44095762be90b3b"
+  }
+}

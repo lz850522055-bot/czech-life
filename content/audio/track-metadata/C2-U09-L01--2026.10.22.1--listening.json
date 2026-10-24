@@ -1,0 +1,75 @@
+{
+  "id": "C2-U09-L01--2026.10.22.1--listening",
+  "lesson_id": "C2-U09-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C2",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Pět případů trvalo jednu, jednu, jednu, jednu a šest minut. Průměr jsou dvě minuty, nikoli slib pro každý případ. Navíc jsme nepočítali dobu ve frontě, takže zákazník mohl čekat déle, aniž by výpočet průměru byl chybný.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Pět případů trvalo jednu, jednu, jednu, jednu a šest minut.",
+        "Průměr jsou dvě minuty, nikoli slib pro každý případ.",
+        "Navíc jsme nepočítali dobu ve frontě, takže zákazník mohl čekat déle, aniž by výpočet průměru byl chybný."
+      ]
+    }
+  ],
+  "text_sha256": "e8c3efc6b923235cccdc7a71e6981fdbce42338880a5531fe74bcc2a9aa1eab5",
+  "source_file": "content/lessons/C2/C2-U09-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U09-L01--2026.10.22.1--listening--e8c3efc6b9--normal.mp3",
+  "slow_file": "content/audio/files/C2-U09-L01--2026.10.22.1--listening--e8c3efc6b9--slow.mp3",
+  "duration_seconds": 20.056371882086168,
+  "slow_duration_seconds": 22.424807256235827,
+  "cues": [
+    {
+      "text": "Pět případů trvalo jednu, jednu, jednu, jednu a šest minut. Průměr jsou dvě minuty, nikoli slib pro každý případ. Navíc jsme nepočítali dobu ve frontě, takže zákazník mohl čekat déle, aniž by výpočet průměru byl chybný.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Pět případů trvalo jednu, jednu, jednu, jednu a šest minut.",
+        "Průměr jsou dvě minuty, nikoli slib pro každý případ.",
+        "Navíc jsme nepočítali dobu ve frontě, takže zákazník mohl čekat déle, aniž by výpočet průměru byl chybný."
+      ],
+      "start": 0.0,
+      "end": 19.87637188208617,
+      "sentences": [
+        {
+          "text": "Pět případů trvalo jednu, jednu, jednu, jednu a šest minut.",
+          "start": 0.0,
+          "end": 5.456689342403628,
+          "slow_start": 0.0,
+          "slow_end": 6.199727891156463
+        },
+        {
+          "text": "Průměr jsou dvě minuty, nikoli slib pro každý případ.",
+          "start": 5.636689342403628,
+          "end": 10.361950113378684,
+          "slow_start": 6.379727891156462,
+          "slow_end": 11.627437641723356
+        },
+        {
+          "text": "Navíc jsme nepočítali dobu ve frontě, takže zákazník mohl čekat déle, aniž by výpočet průměru byl chybný.",
+          "start": 10.541950113378684,
+          "end": 19.87637188208617,
+          "slow_start": 11.807437641723356,
+          "slow_end": 22.244807256235827
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 22.244807256235827
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "aefbf4abd95c6ae9b893152637c1920c5c96a0cc4df60fb1cefa84465dc57dc5",
+    "slow": "49efad15fb097ba3eeee6e0a4f8d109257a111e1b0fdd371b5ea61f312fcd985"
+  }
+}

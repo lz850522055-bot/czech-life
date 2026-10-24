@@ -1,0 +1,75 @@
+{
+  "id": "A2-U03-CHECK--2026.10.22.1--text",
+  "lesson_id": "A2-U03-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Pavel poslal dopis sestře. V dopise napsal o novém městě. Sestra mu za dopis poděkovala.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Pavel poslal dopis sestře.",
+        "V dopise napsal o novém městě.",
+        "Sestra mu za dopis poděkovala."
+      ]
+    }
+  ],
+  "text_sha256": "d9e67cd1f17dc2cb4c803b6fa68ae93677b0cd7cbded569378752a44c3abf26b",
+  "source_file": "content/assessments/A2-U03.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U03-CHECK--2026.10.22.1--text--d9e67cd1f1--normal.mp3",
+  "slow_file": "content/audio/files/A2-U03-CHECK--2026.10.22.1--text--d9e67cd1f1--slow.mp3",
+  "duration_seconds": 8.783083900226757,
+  "slow_duration_seconds": 9.82798185941043,
+  "cues": [
+    {
+      "text": "Pavel poslal dopis sestře. V dopise napsal o novém městě. Sestra mu za dopis poděkovala.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Pavel poslal dopis sestře.",
+        "V dopise napsal o novém městě.",
+        "Sestra mu za dopis poděkovala."
+      ],
+      "start": 0.0,
+      "end": 8.603083900226757,
+      "sentences": [
+        {
+          "text": "Pavel poslal dopis sestře.",
+          "start": 0.0,
+          "end": 2.716734693877551,
+          "slow_start": 0.0,
+          "slow_end": 2.9837641723356008
+        },
+        {
+          "text": "V dopise napsal o novém městě.",
+          "start": 2.896734693877551,
+          "end": 5.7063492063492065,
+          "slow_start": 3.163764172335601,
+          "slow_end": 6.391337868480726
+        },
+        {
+          "text": "Sestra mu za dopis poděkovala.",
+          "start": 5.886349206349206,
+          "end": 8.603083900226757,
+          "slow_start": 6.571337868480725,
+          "slow_end": 9.64798185941043
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 9.64798185941043
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "0dc15260acd091b0b5eb2d3f00c7b871e0662a71c8aa1f4f61ae58fca05c9abf",
+    "slow": "7df7284a1c95eb0925c8b8b115d43b9f2bbefd3e75d11cb678533979a218d622"
+  }
+}

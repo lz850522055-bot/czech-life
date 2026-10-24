@@ -1,0 +1,406 @@
+{
+  "id": "A1-U01-L01--2026.10.22.1--text",
+  "lesson_id": "A1-U01-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Dobrý den, já jsem Li. Jsem z Číny a teď bydlím v Praze.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Dobrý den, já jsem Li.",
+        "Jsem z Číny a teď bydlím v Praze."
+      ]
+    },
+    {
+      "text": "Dobrý den, já jsem Jana Nováková. Těší mě. Jste tady nový?",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Dobrý den, já jsem Jana Nováková.",
+        "Těší mě.",
+        "Jste tady nový?"
+      ]
+    },
+    {
+      "text": "Ano, jsem tady nový. Mluvím trochu česky, ale nerozumím všemu.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Ano, jsem tady nový.",
+        "Mluvím trochu česky, ale nerozumím všemu."
+      ]
+    },
+    {
+      "text": "To nevadí. Můžu mluvit pomalu. Jak se jmenujete příjmením?",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "To nevadí.",
+        "Můžu mluvit pomalu.",
+        "Jak se jmenujete příjmením?"
+      ]
+    },
+    {
+      "text": "Moje příjmení je Li. A jak vám mám říkat?",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Moje příjmení je Li.",
+        "A jak vám mám říkat?"
+      ]
+    },
+    {
+      "text": "Říkejte mi Jana. Jsme sousedé. Tady je můj manžel Petr.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Říkejte mi Jana.",
+        "Jsme sousedé.",
+        "Tady je můj manžel Petr."
+      ]
+    },
+    {
+      "text": "Dobrý den, pane Nováku. Těší mě.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Dobrý den, pane Nováku.",
+        "Těší mě."
+      ]
+    },
+    {
+      "text": "Taky mě těší. Když nerozumíte, řekněte prosím ještě jednou.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Taky mě těší.",
+        "Když nerozumíte, řekněte prosím ještě jednou."
+      ]
+    },
+    {
+      "text": "Děkuju. Teď už rozumím. Na shledanou.",
+      "index": 8,
+      "role": "text",
+      "parts": [
+        "Děkuju.",
+        "Teď už rozumím.",
+        "Na shledanou."
+      ]
+    }
+  ],
+  "text_sha256": "13a19f71d23cdcd6f1e93936880aaf58d1e2e963b3fe21ff66b017f7ce7e11db",
+  "source_file": "content/lessons/A1/A1-U01-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U01-L01--2026.10.22.1--text--13a19f71d2--normal.mp3",
+  "slow_file": "content/audio/files/A1-U01-L01--2026.10.22.1--text--13a19f71d2--slow.mp3",
+  "duration_seconds": 47.69478458049887,
+  "slow_duration_seconds": 53.59265306122449,
+  "cues": [
+    {
+      "text": "Dobrý den, já jsem Li. Jsem z Číny a teď bydlím v Praze.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Dobrý den, já jsem Li.",
+        "Jsem z Číny a teď bydlím v Praze."
+      ],
+      "start": 0.0,
+      "end": 5.485759637188209,
+      "sentences": [
+        {
+          "text": "Dobrý den, já jsem Li.",
+          "start": 0.0,
+          "end": 2.147845804988662,
+          "slow_start": 0.0,
+          "slow_end": 2.48453514739229
+        },
+        {
+          "text": "Jsem z Číny a teď bydlím v Praze.",
+          "start": 2.3278458049886623,
+          "end": 5.485759637188209,
+          "slow_start": 2.6645351473922902,
+          "slow_end": 6.193968253968254
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 6.193968253968254
+    },
+    {
+      "text": "Dobrý den, já jsem Jana Nováková. Těší mě. Jste tady nový?",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Dobrý den, já jsem Jana Nováková.",
+        "Těší mě.",
+        "Jste tady nový?"
+      ],
+      "start": 5.665759637188208,
+      "end": 12.29514739229025,
+      "sentences": [
+        {
+          "text": "Dobrý den, já jsem Jana Nováková.",
+          "start": 5.665759637188208,
+          "end": 9.346122448979592,
+          "slow_start": 6.373968253968254,
+          "slow_end": 10.48390022675737
+        },
+        {
+          "text": "Těší mě.",
+          "start": 9.526122448979592,
+          "end": 10.652290249433106,
+          "slow_start": 10.66390022675737,
+          "slow_end": 11.859727891156462
+        },
+        {
+          "text": "Jste tady nový?",
+          "start": 10.832290249433106,
+          "end": 12.29514739229025,
+          "slow_start": 12.039727891156463,
+          "slow_end": 13.699954648526077
+        }
+      ],
+      "slow_start": 6.373968253968254,
+      "slow_end": 13.699954648526077
+    },
+    {
+      "text": "Ano, jsem tady nový. Mluvím trochu česky, ale nerozumím všemu.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Ano, jsem tady nový.",
+        "Mluvím trochu česky, ale nerozumím všemu."
+      ],
+      "start": 12.47514739229025,
+      "end": 18.297596371882086,
+      "sentences": [
+        {
+          "text": "Ano, jsem tady nový.",
+          "start": 12.47514739229025,
+          "end": 14.379183673469388,
+          "slow_start": 13.879954648526077,
+          "slow_end": 16.016190476190477
+        },
+        {
+          "text": "Mluvím trochu česky, ale nerozumím všemu.",
+          "start": 14.559183673469388,
+          "end": 18.297596371882086,
+          "slow_start": 16.196190476190477,
+          "slow_end": 20.36417233560091
+        }
+      ],
+      "slow_start": 13.879954648526077,
+      "slow_end": 20.36417233560091
+    },
+    {
+      "text": "To nevadí. Můžu mluvit pomalu. Jak se jmenujete příjmením?",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "To nevadí.",
+        "Můžu mluvit pomalu.",
+        "Jak se jmenujete příjmením?"
+      ],
+      "start": 18.477596371882086,
+      "end": 24.038866213151927,
+      "sentences": [
+        {
+          "text": "To nevadí.",
+          "start": 18.477596371882086,
+          "end": 19.418004535147393,
+          "slow_start": 20.54417233560091,
+          "slow_end": 21.612290249433105
+        },
+        {
+          "text": "Můžu mluvit pomalu.",
+          "start": 19.598004535147393,
+          "end": 21.629750566893424,
+          "slow_start": 21.79229024943311,
+          "slow_end": 24.125895691609976
+        },
+        {
+          "text": "Jak se jmenujete příjmením?",
+          "start": 21.809750566893424,
+          "end": 24.038866213151927,
+          "slow_start": 24.305895691609976,
+          "slow_end": 26.825260770975056
+        }
+      ],
+      "slow_start": 20.54417233560091,
+      "slow_end": 26.825260770975056
+    },
+    {
+      "text": "Moje příjmení je Li. A jak vám mám říkat?",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Moje příjmení je Li.",
+        "A jak vám mám říkat?"
+      ],
+      "start": 24.218866213151927,
+      "end": 28.21854875283447,
+      "sentences": [
+        {
+          "text": "Moje příjmení je Li.",
+          "start": 24.218866213151927,
+          "end": 25.925532879818594,
+          "slow_start": 27.005260770975056,
+          "slow_end": 29.013786848072563
+        },
+        {
+          "text": "A jak vám mám říkat?",
+          "start": 26.105532879818593,
+          "end": 28.21854875283447,
+          "slow_start": 29.193786848072563,
+          "slow_end": 31.678321995464852
+        }
+      ],
+      "slow_start": 27.005260770975056,
+      "slow_end": 31.678321995464852
+    },
+    {
+      "text": "Říkejte mi Jana. Jsme sousedé. Tady je můj manžel Petr.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Říkejte mi Jana.",
+        "Jsme sousedé.",
+        "Tady je můj manžel Petr."
+      ],
+      "start": 28.39854875283447,
+      "end": 33.855328798185944,
+      "sentences": [
+        {
+          "text": "Říkejte mi Jana.",
+          "start": 28.39854875283447,
+          "end": 29.814965986394558,
+          "slow_start": 31.858321995464852,
+          "slow_end": 33.437278911564626
+        },
+        {
+          "text": "Jsme sousedé.",
+          "start": 29.994965986394558,
+          "end": 31.481043083900225,
+          "slow_start": 33.617278911564625,
+          "slow_end": 35.254285714285714
+        },
+        {
+          "text": "Tady je můj manžel Petr.",
+          "start": 31.66104308390023,
+          "end": 33.855328798185944,
+          "slow_start": 35.434285714285714,
+          "slow_end": 37.953650793650795
+        }
+      ],
+      "slow_start": 31.858321995464852,
+      "slow_end": 37.953650793650795
+    },
+    {
+      "text": "Dobrý den, pane Nováku. Těší mě.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Dobrý den, pane Nováku.",
+        "Těší mě."
+      ],
+      "start": 34.035328798185944,
+      "end": 37.76798185941043,
+      "sentences": [
+        {
+          "text": "Dobrý den, pane Nováku.",
+          "start": 34.035328798185944,
+          "end": 36.51986394557823,
+          "slow_start": 38.133650793650794,
+          "slow_end": 40.94326530612245
+        },
+        {
+          "text": "Těší mě.",
+          "start": 36.69986394557823,
+          "end": 37.76798185941043,
+          "slow_start": 41.12326530612245,
+          "slow_end": 42.34231292517007
+        }
+      ],
+      "slow_start": 38.133650793650794,
+      "slow_end": 42.34231292517007
+    },
+    {
+      "text": "Taky mě těší. Když nerozumíte, řekněte prosím ještě jednou.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Taky mě těší.",
+        "Když nerozumíte, řekněte prosím ještě jednou."
+      ],
+      "start": 37.94798185941043,
+      "end": 43.491791383219955,
+      "sentences": [
+        {
+          "text": "Taky mě těší.",
+          "start": 37.94798185941043,
+          "end": 39.36439909297052,
+          "slow_start": 42.52231292517007,
+          "slow_end": 44.17092970521542
+        },
+        {
+          "text": "Když nerozumíte, řekněte prosím ještě jednou.",
+          "start": 39.54439909297052,
+          "end": 43.491791383219955,
+          "slow_start": 44.35092970521542,
+          "slow_end": 49.006530612244894
+        }
+      ],
+      "slow_start": 42.52231292517007,
+      "slow_end": 49.006530612244894
+    },
+    {
+      "text": "Děkuju. Teď už rozumím. Na shledanou.",
+      "index": 8,
+      "role": "text",
+      "parts": [
+        "Děkuju.",
+        "Teď už rozumím.",
+        "Na shledanou."
+      ],
+      "start": 43.671791383219954,
+      "end": 47.51478458049887,
+      "sentences": [
+        {
+          "text": "Děkuju.",
+          "start": 43.671791383219954,
+          "end": 44.49609977324263,
+          "slow_start": 49.1865306122449,
+          "slow_end": 50.10371882086168
+        },
+        {
+          "text": "Teď už rozumím.",
+          "start": 44.67609977324263,
+          "end": 46.23183673469388,
+          "slow_start": 50.28371882086168,
+          "slow_end": 51.94394557823129
+        },
+        {
+          "text": "Na shledanou.",
+          "start": 46.41183673469388,
+          "end": 47.51478458049887,
+          "slow_start": 52.12394557823129,
+          "slow_end": 53.41265306122449
+        }
+      ],
+      "slow_start": 49.1865306122449,
+      "slow_end": 53.41265306122449
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "61f9d45a32805e13edf3681f5832d7b5192fe0f66b67c016e831e4ade1213fb6",
+    "slow": "1ed755158cd38a3a086c621c87763a029be680157372775ad6d723ee1410febe"
+  }
+}

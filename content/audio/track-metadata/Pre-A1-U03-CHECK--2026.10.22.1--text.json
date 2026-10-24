@@ -1,0 +1,86 @@
+{
+  "id": "Pre-A1-U03-CHECK--2026.10.22.1--text",
+  "lesson_id": "Pre-A1-U03-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "Pre-A1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Tady jsou tři židle.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Tady jsou tři židle."
+      ]
+    },
+    {
+      "text": "U řeky je malý park.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "U řeky je malý park."
+      ]
+    }
+  ],
+  "text_sha256": "d292a37eaf8cbb712a5330b55a4e4b3a0db78bbe593de4580cf3f660ce9aa7aa",
+  "source_file": "content/assessments/Pre-A1-U03.json",
+  "status": "generated",
+  "file": "content/audio/files/Pre-A1-U03-CHECK--2026.10.22.1--text--d292a37eaf--normal.mp3",
+  "slow_file": "content/audio/files/Pre-A1-U03-CHECK--2026.10.22.1--text--d292a37eaf--slow.mp3",
+  "duration_seconds": 3.8429931972789118,
+  "slow_duration_seconds": 4.202902494331066,
+  "cues": [
+    {
+      "text": "Tady jsou tři židle.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Tady jsou tři židle."
+      ],
+      "start": 0.0,
+      "end": 1.6486167800453515,
+      "sentences": [
+        {
+          "text": "Tady jsou tři židle.",
+          "start": 0.0,
+          "end": 1.6486167800453515,
+          "slow_start": 0.0,
+          "slow_end": 1.8459863945578232
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.8459863945578232
+    },
+    {
+      "text": "U řeky je malý park.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "U řeky je malý park."
+      ],
+      "start": 1.8286167800453514,
+      "end": 3.6629931972789116,
+      "sentences": [
+        {
+          "text": "U řeky je malý park.",
+          "start": 1.8286167800453514,
+          "end": 3.6629931972789116,
+          "slow_start": 2.025986394557823,
+          "slow_end": 4.022902494331066
+        }
+      ],
+      "slow_start": 2.025986394557823,
+      "slow_end": 4.022902494331066
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "5ec151223340687cb9709744d65a5c03647f53cbc1b175cf0a56fae72392e2d2",
+    "slow": "4b6e91f9e92257eaa5a9872cc0476c4167614bc6401efe6fa4d863275000529f"
+  }
+}

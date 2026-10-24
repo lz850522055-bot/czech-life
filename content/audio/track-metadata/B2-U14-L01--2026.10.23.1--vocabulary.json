@@ -1,0 +1,145 @@
+{
+  "id": "B2-U14-L01--2026.10.23.1--vocabulary",
+  "lesson_id": "B2-U14-L01",
+  "content_version": "2026.10.23.1",
+  "level": "B2",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Řidič ověří objízdnou trasu.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Řidič ověří objízdnou trasu."
+      ]
+    },
+    {
+      "text": "Doplatek musí být předem potvrzen.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Doplatek musí být předem potvrzen."
+      ]
+    },
+    {
+      "text": "Termín předání je podmíněný potvrzením.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Termín předání je podmíněný potvrzením."
+      ]
+    },
+    {
+      "text": "Skříň musíme rozebrat předem.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Skříň musíme rozebrat předem."
+      ]
+    }
+  ],
+  "text_sha256": "8b1c7484f3500e575653ff10f9aa540d4739fc72a40e3826d2c8850365fcbf04",
+  "source_file": "content/lessons/B2/B2-U14-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U14-L01--2026.10.22.1--vocabulary--8b1c7484f3--normal.mp3",
+  "slow_file": "content/audio/files/B2-U14-L01--2026.10.22.1--vocabulary--8b1c7484f3--slow.mp3",
+  "duration_seconds": 13.049795918367346,
+  "slow_duration_seconds": 14.837732426303855,
+  "cues": [
+    {
+      "text": "Řidič ověří objízdnou trasu.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Řidič ověří objízdnou trasu."
+      ],
+      "start": 0.0,
+      "end": 2.914104308390023,
+      "sentences": [
+        {
+          "text": "Řidič ověří objízdnou trasu.",
+          "start": 0.0,
+          "end": 2.914104308390023,
+          "slow_start": 0.0,
+          "slow_end": 3.436553287981859
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 3.436553287981859
+    },
+    {
+      "text": "Doplatek musí být předem potvrzen.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Doplatek musí být předem potvrzen."
+      ],
+      "start": 3.0941043083900226,
+      "end": 6.240408163265307,
+      "sentences": [
+        {
+          "text": "Doplatek musí být předem potvrzen.",
+          "start": 3.0941043083900226,
+          "end": 6.240408163265307,
+          "slow_start": 3.6165532879818594,
+          "slow_end": 7.238866213151927
+        }
+      ],
+      "slow_start": 3.6165532879818594,
+      "slow_end": 7.238866213151927
+    },
+    {
+      "text": "Termín předání je podmíněný potvrzením.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Termín předání je podmíněný potvrzením."
+      ],
+      "start": 6.420408163265306,
+      "end": 9.845351473922902,
+      "sentences": [
+        {
+          "text": "Termín předání je podmíněný potvrzením.",
+          "start": 6.420408163265306,
+          "end": 9.845351473922902,
+          "slow_start": 7.418866213151928,
+          "slow_end": 11.377868480725624
+        }
+      ],
+      "slow_start": 7.418866213151928,
+      "slow_end": 11.377868480725624
+    },
+    {
+      "text": "Skříň musíme rozebrat předem.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Skříň musíme rozebrat předem."
+      ],
+      "start": 10.025351473922903,
+      "end": 12.869795918367346,
+      "sentences": [
+        {
+          "text": "Skříň musíme rozebrat předem.",
+          "start": 10.025351473922903,
+          "end": 12.869795918367346,
+          "slow_start": 11.557868480725624,
+          "slow_end": 14.657732426303856
+        }
+      ],
+      "slow_start": 11.557868480725624,
+      "slow_end": 14.657732426303856
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "403de46fb8fad3272b80e668d30d3b1be7f4e205d0a16431aad9d8868f42c601",
+    "slow": "8dc8ba049df9e556ceadad1a15300bad9398fe21dc98d97625f28eec42ca605a"
+  },
+  "reused_from_track_id": "B2-U14-L01--2026.10.22.1--vocabulary"
+}

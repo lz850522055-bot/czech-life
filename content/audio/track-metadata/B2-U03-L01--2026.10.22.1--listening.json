@@ -1,0 +1,84 @@
+{
+  "id": "B2-U03-L01--2026.10.22.1--listening",
+  "lesson_id": "B2-U03-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B2",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Pět dobrovolníků dorazilo ráno. Dvě skupiny pracovaly na zahradě, zatímco tři technici kontrolovali osvětlení. Nové lavičky byly připraveny, ale dětská hřiště ještě nebyla otevřena. Petr si přinesl vlastní nářadí; ostatní použili vybavení spolku.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Pět dobrovolníků dorazilo ráno.",
+        "Dvě skupiny pracovaly na zahradě, zatímco tři technici kontrolovali osvětlení.",
+        "Nové lavičky byly připraveny, ale dětská hřiště ještě nebyla otevřena.",
+        "Petr si přinesl vlastní nářadí; ostatní použili vybavení spolku."
+      ]
+    }
+  ],
+  "text_sha256": "f49bdc76c7973fa71930579a9b851f320aadb570269f13ef69615794d3fa89fa",
+  "source_file": "content/lessons/B2/B2-U03-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U03-L01--2026.10.22.1--listening--f49bdc76c7--normal.mp3",
+  "slow_file": "content/audio/files/B2-U03-L01--2026.10.22.1--listening--f49bdc76c7--slow.mp3",
+  "duration_seconds": 21.641179138321995,
+  "slow_duration_seconds": 24.555283446712018,
+  "cues": [
+    {
+      "text": "Pět dobrovolníků dorazilo ráno. Dvě skupiny pracovaly na zahradě, zatímco tři technici kontrolovali osvětlení. Nové lavičky byly připraveny, ale dětská hřiště ještě nebyla otevřena. Petr si přinesl vlastní nářadí; ostatní použili vybavení spolku.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Pět dobrovolníků dorazilo ráno.",
+        "Dvě skupiny pracovaly na zahradě, zatímco tři technici kontrolovali osvětlení.",
+        "Nové lavičky byly připraveny, ale dětská hřiště ještě nebyla otevřena.",
+        "Petr si přinesl vlastní nářadí; ostatní použili vybavení spolku."
+      ],
+      "start": 0.0,
+      "end": 21.461179138321995,
+      "sentences": [
+        {
+          "text": "Pět dobrovolníků dorazilo ráno.",
+          "start": 0.0,
+          "end": 2.9373242630385485,
+          "slow_start": 0.0,
+          "slow_end": 3.4481632653061225
+        },
+        {
+          "text": "Dvě skupiny pracovaly na zahradě, zatímco tři technici kontrolovali osvětlení.",
+          "start": 3.1173242630385487,
+          "end": 9.746621315192744,
+          "slow_start": 3.6281632653061227,
+          "slow_end": 11.116598639455782
+        },
+        {
+          "text": "Nové lavičky byly připraveny, ale dětská hřiště ještě nebyla otevřena.",
+          "start": 9.926621315192744,
+          "end": 15.41814058956916,
+          "slow_start": 11.296598639455782,
+          "slow_end": 17.55437641723356
+        },
+        {
+          "text": "Petr si přinesl vlastní nářadí; ostatní použili vybavení spolku.",
+          "start": 15.59814058956916,
+          "end": 21.461179138321995,
+          "slow_start": 17.73437641723356,
+          "slow_end": 24.375283446712018
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 24.375283446712018
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "6966c6de4a3db38317bf3160c8431ef24616f093cb89605e74ecf56ec54fa5da",
+    "slow": "3764631ed0cff43c894dae68e81b846267b62435815e72bc65279d337be36072"
+  }
+}

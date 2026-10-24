@@ -1,0 +1,84 @@
+{
+  "id": "C1-U05-CHECK--2026.10.22.1--text",
+  "lesson_id": "C1-U05-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Vedoucí kurzu: Zpočátku jsme úspěch měřili počtem přihlášek. Později jsme zjistili, že část lidí kurz vůbec nezačala. Nyní oddělujeme zájem, skutečnou účast a schopnost použít dovednost. Ani dokončení samo o sobě poslední bod nepotvrzuje.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Vedoucí kurzu: Zpočátku jsme úspěch měřili počtem přihlášek.",
+        "Později jsme zjistili, že část lidí kurz vůbec nezačala.",
+        "Nyní oddělujeme zájem, skutečnou účast a schopnost použít dovednost.",
+        "Ani dokončení samo o sobě poslední bod nepotvrzuje."
+      ]
+    }
+  ],
+  "text_sha256": "ffe765137b77b6f0f4698b98b1e769f30f0574908aaf86c02eff5fd17ebbd6bd",
+  "source_file": "content/assessments/C1-U05.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U05-CHECK--2026.10.22.1--text--ffe765137b--normal.mp3",
+  "slow_file": "content/audio/files/C1-U05-CHECK--2026.10.22.1--text--ffe765137b--slow.mp3",
+  "duration_seconds": 22.73251700680272,
+  "slow_duration_seconds": 25.53052154195011,
+  "cues": [
+    {
+      "text": "Vedoucí kurzu: Zpočátku jsme úspěch měřili počtem přihlášek. Později jsme zjistili, že část lidí kurz vůbec nezačala. Nyní oddělujeme zájem, skutečnou účast a schopnost použít dovednost. Ani dokončení samo o sobě poslední bod nepotvrzuje.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Vedoucí kurzu: Zpočátku jsme úspěch měřili počtem přihlášek.",
+        "Později jsme zjistili, že část lidí kurz vůbec nezačala.",
+        "Nyní oddělujeme zájem, skutečnou účast a schopnost použít dovednost.",
+        "Ani dokončení samo o sobě poslední bod nepotvrzuje."
+      ],
+      "start": 0.0,
+      "end": 22.55251700680272,
+      "sentences": [
+        {
+          "text": "Vedoucí kurzu: Zpočátku jsme úspěch měřili počtem přihlášek.",
+          "start": 0.0,
+          "end": 5.897868480725624,
+          "slow_start": 0.0,
+          "slow_end": 6.675736961451247
+        },
+        {
+          "text": "Později jsme zjistili, že část lidí kurz vůbec nezačala.",
+          "start": 6.077868480725623,
+          "end": 11.081768707482993,
+          "slow_start": 6.855736961451247,
+          "slow_end": 12.591065759637187
+        },
+        {
+          "text": "Nyní oddělujeme zájem, skutečnou účast a schopnost použít dovednost.",
+          "start": 11.261768707482993,
+          "end": 17.763356009070296,
+          "slow_start": 12.771065759637189,
+          "slow_end": 20.062131519274377
+        },
+        {
+          "text": "Ani dokončení samo o sobě poslední bod nepotvrzuje.",
+          "start": 17.943356009070296,
+          "end": 22.55251700680272,
+          "slow_start": 20.242131519274377,
+          "slow_end": 25.350521541950112
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 25.350521541950112
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "610c3e15c680cc0f804bf4532430cae1f97357bd796de078cd08b88627f0cc9e",
+    "slow": "fc1da561f91f980ce432ef4c9597619eddcc95e799875375f4a7434d1fb63e68"
+  }
+}

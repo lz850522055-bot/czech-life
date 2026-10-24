@@ -1,0 +1,68 @@
+{
+  "id": "C2-U08-L01--2026.10.23.1--exercises",
+  "lesson_id": "C2-U08-L01",
+  "content_version": "2026.10.23.1",
+  "level": "C2",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Na konci dovolí spolku připravit návrh, pokud hodiny zatím zůstanou na místě. Nejde tedy nutně o úplné odmítnutí změny.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "C2-U08-L01-E06",
+      "parts": [
+        "Na konci dovolí spolku připravit návrh, pokud hodiny zatím zůstanou na místě.",
+        "Nejde tedy nutně o úplné odmítnutí změny."
+      ]
+    }
+  ],
+  "text_sha256": "5a5aa3fe549c7519f21530003fbaa946f0c084c63d98b797c77107a1e4950394",
+  "source_file": "content/lessons/C2/C2-U08-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U08-L01--2026.10.23.1--exercises--5a5aa3fe54--normal.mp3",
+  "slow_file": "content/audio/files/C2-U08-L01--2026.10.23.1--exercises--5a5aa3fe54--slow.mp3",
+  "duration_seconds": 10.936689342403628,
+  "slow_duration_seconds": 12.039637188208618,
+  "cues": [
+    {
+      "text": "Na konci dovolí spolku připravit návrh, pokud hodiny zatím zůstanou na místě. Nejde tedy nutně o úplné odmítnutí změny.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "C2-U08-L01-E06",
+      "parts": [
+        "Na konci dovolí spolku připravit návrh, pokud hodiny zatím zůstanou na místě.",
+        "Nejde tedy nutně o úplné odmítnutí změny."
+      ],
+      "start": 0.0,
+      "end": 10.756689342403629,
+      "sentences": [
+        {
+          "text": "Na konci dovolí spolku připravit návrh, pokud hodiny zatím zůstanou na místě.",
+          "start": 0.0,
+          "end": 6.791836734693877,
+          "slow_start": 0.0,
+          "slow_end": 7.511655328798186
+        },
+        {
+          "text": "Nejde tedy nutně o úplné odmítnutí změny.",
+          "start": 6.971836734693878,
+          "end": 10.756689342403629,
+          "slow_start": 7.691655328798186,
+          "slow_end": 11.859637188208616
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 11.859637188208616
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "1b5ad6abc7cac4255d32a1b6c92d2ebda1cdf0d43501d7014e4e4a2cb8298b66",
+    "slow": "64a98c0a9ba23671ccfa4b1c01dfaea61848143c2dc4111dbcfbb517b3cfc428"
+  }
+}

@@ -1,0 +1,368 @@
+{
+  "id": "A2-U12-L01--2026.10.22.1--text",
+  "lesson_id": "A2-U12-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Dobrý den, dnes jsme převzali objednávku číslo sto dvacet čtyři. Děkujeme za rychlé dodání, ale při kontrole jsme našli rozdíl.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Dobrý den, dnes jsme převzali objednávku číslo sto dvacet čtyři.",
+        "Děkujeme za rychlé dodání, ale při kontrole jsme našli rozdíl."
+      ]
+    },
+    {
+      "text": "Objednali jsme dvacet modrých hrnků a deset bílých. V krabici bylo pouze patnáct modrých a patnáct bílých. Celkový počet je tedy správný, ale barvy neodpovídají objednávce.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Objednali jsme dvacet modrých hrnků a deset bílých.",
+        "V krabici bylo pouze patnáct modrých a patnáct bílých.",
+        "Celkový počet je tedy správný, ale barvy neodpovídají objednávce."
+      ]
+    },
+    {
+      "text": "Dva modré hrnky jsou navíc poškozené. Jeden má prasklinu a druhý má ulomené ucho. Posíláme fotografie výrobků i obalu.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Dva modré hrnky jsou navíc poškozené.",
+        "Jeden má prasklinu a druhý má ulomené ucho.",
+        "Posíláme fotografie výrobků i obalu."
+      ]
+    },
+    {
+      "text": "Potřebujeme zboží na páteční akci. Bylo by možné poslat správné kusy do čtvrtka? Rádi si s vámi potvrdíme přesný postup.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Potřebujeme zboží na páteční akci.",
+        "Bylo by možné poslat správné kusy do čtvrtka?",
+        "Rádi si s vámi potvrdíme přesný postup."
+      ]
+    },
+    {
+      "text": "Dodavatel odpovídá: Omlouváme se za chybu. Prosím zatím nic neposílejte zpět. Nejprve ověříme sklad a domluvíme dopravu.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Dodavatel odpovídá: Omlouváme se za chybu.",
+        "Prosím zatím nic neposílejte zpět.",
+        "Nejprve ověříme sklad a domluvíme dopravu."
+      ]
+    },
+    {
+      "text": "Můžeme dodat pět chybějících modrých hrnků a vyměnit dva poškozené. Pět bílých kusů vyzvedne náš kurýr.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Můžeme dodat pět chybějících modrých hrnků a vyměnit dva poškozené.",
+        "Pět bílých kusů vyzvedne náš kurýr."
+      ]
+    },
+    {
+      "text": "Děkujeme. Potvrďte prosím datum doručení, adresu vyzvednutí a kdo zaplatí dopravu. Bez těchto informací nemůžeme plán uzavřít.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Děkujeme.",
+        "Potvrďte prosím datum doručení, adresu vyzvednutí a kdo zaplatí dopravu.",
+        "Bez těchto informací nemůžeme plán uzavřít."
+      ]
+    },
+    {
+      "text": "Jakmile dostaneme potvrzení, připravíme bílé a poškozené kusy zvlášť, aby při výměně nevznikla další chyba.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Jakmile dostaneme potvrzení, připravíme bílé a poškozené kusy zvlášť, aby při výměně nevznikla další chyba."
+      ]
+    }
+  ],
+  "text_sha256": "e9f64e5069b271c0287aa2318c36d4825d9e5dabddeda155d7fb660b56a4cc31",
+  "source_file": "content/lessons/A2/A2-U12-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U12-L01--2026.10.22.1--text--e9f64e5069--normal.mp3",
+  "slow_file": "content/audio/files/A2-U12-L01--2026.10.22.1--text--e9f64e5069--slow.mp3",
+  "duration_seconds": 92.92716553287981,
+  "slow_duration_seconds": 104.36299319727891,
+  "cues": [
+    {
+      "text": "Dobrý den, dnes jsme převzali objednávku číslo sto dvacet čtyři. Děkujeme za rychlé dodání, ale při kontrole jsme našli rozdíl.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Dobrý den, dnes jsme převzali objednávku číslo sto dvacet čtyři.",
+        "Děkujeme za rychlé dodání, ale při kontrole jsme našli rozdíl."
+      ],
+      "start": 0.0,
+      "end": 11.046938775510204,
+      "sentences": [
+        {
+          "text": "Dobrý den, dnes jsme převzali objednávku číslo sto dvacet čtyři.",
+          "start": 0.0,
+          "end": 5.596009070294785,
+          "slow_start": 0.0,
+          "slow_end": 6.141678004535147
+        },
+        {
+          "text": "Děkujeme za rychlé dodání, ale při kontrole jsme našli rozdíl.",
+          "start": 5.776009070294784,
+          "end": 11.046938775510204,
+          "slow_start": 6.321678004535148,
+          "slow_end": 12.196326530612245
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 12.196326530612245
+    },
+    {
+      "text": "Objednali jsme dvacet modrých hrnků a deset bílých. V krabici bylo pouze patnáct modrých a patnáct bílých. Celkový počet je tedy správný, ale barvy neodpovídají objednávce.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Objednali jsme dvacet modrých hrnků a deset bílých.",
+        "V krabici bylo pouze patnáct modrých a patnáct bílých.",
+        "Celkový počet je tedy správný, ale barvy neodpovídají objednávce."
+      ],
+      "start": 11.226938775510204,
+      "end": 27.748027210884352,
+      "sentences": [
+        {
+          "text": "Objednali jsme dvacet modrých hrnků a deset bílých.",
+          "start": 11.226938775510204,
+          "end": 15.940589569160998,
+          "slow_start": 12.376326530612245,
+          "slow_end": 17.78657596371882
+        },
+        {
+          "text": "V krabici bylo pouze patnáct modrých a patnáct bílých.",
+          "start": 16.120589569160998,
+          "end": 21.228979591836733,
+          "slow_start": 17.96657596371882,
+          "slow_end": 23.667074829931973
+        },
+        {
+          "text": "Celkový počet je tedy správný, ale barvy neodpovídají objednávce.",
+          "start": 21.408979591836733,
+          "end": 27.748027210884352,
+          "slow_start": 23.847074829931973,
+          "slow_end": 31.033650793650793
+        }
+      ],
+      "slow_start": 12.376326530612245,
+      "slow_end": 31.033650793650793
+    },
+    {
+      "text": "Dva modré hrnky jsou navíc poškozené. Jeden má prasklinu a druhý má ulomené ucho. Posíláme fotografie výrobků i obalu.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Dva modré hrnky jsou navíc poškozené.",
+        "Jeden má prasklinu a druhý má ulomené ucho.",
+        "Posíláme fotografie výrobků i obalu."
+      ],
+      "start": 27.928027210884355,
+      "end": 39.305895691609976,
+      "sentences": [
+        {
+          "text": "Dva modré hrnky jsou navíc poškozené.",
+          "start": 27.928027210884355,
+          "end": 31.28331065759637,
+          "slow_start": 31.213650793650793,
+          "slow_end": 35.07977324263039
+        },
+        {
+          "text": "Jeden má prasklinu a druhý má ulomené ucho.",
+          "start": 31.46331065759637,
+          "end": 35.64290249433107,
+          "slow_start": 35.25977324263039,
+          "slow_end": 39.8108843537415
+        },
+        {
+          "text": "Posíláme fotografie výrobků i obalu.",
+          "start": 35.82290249433107,
+          "end": 39.305895691609976,
+          "slow_start": 39.9908843537415,
+          "slow_end": 43.98471655328798
+        }
+      ],
+      "slow_start": 31.213650793650793,
+      "slow_end": 43.98471655328798
+    },
+    {
+      "text": "Potřebujeme zboží na páteční akci. Bylo by možné poslat správné kusy do čtvrtka? Rádi si s vámi potvrdíme přesný postup.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Potřebujeme zboží na páteční akci.",
+        "Bylo by možné poslat správné kusy do čtvrtka?",
+        "Rádi si s vámi potvrdíme přesný postup."
+      ],
+      "start": 39.485895691609976,
+      "end": 50.66639455782313,
+      "sentences": [
+        {
+          "text": "Potřebujeme zboží na páteční akci.",
+          "start": 39.485895691609976,
+          "end": 42.945668934240366,
+          "slow_start": 44.16471655328798,
+          "slow_end": 48.14693877551021
+        },
+        {
+          "text": "Bylo by možné poslat správné kusy do čtvrtka?",
+          "start": 43.125668934240366,
+          "end": 47.09628117913832,
+          "slow_start": 48.32693877551021,
+          "slow_end": 52.83160997732426
+        },
+        {
+          "text": "Rádi si s vámi potvrdíme přesný postup.",
+          "start": 47.27628117913832,
+          "end": 50.66639455782313,
+          "slow_start": 53.01160997732426,
+          "slow_end": 56.92417233560091
+        }
+      ],
+      "slow_start": 44.16471655328798,
+      "slow_end": 56.92417233560091
+    },
+    {
+      "text": "Dodavatel odpovídá: Omlouváme se za chybu. Prosím zatím nic neposílejte zpět. Nejprve ověříme sklad a domluvíme dopravu.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Dodavatel odpovídá: Omlouváme se za chybu.",
+        "Prosím zatím nic neposílejte zpět.",
+        "Nejprve ověříme sklad a domluvíme dopravu."
+      ],
+      "start": 50.84639455782313,
+      "end": 61.841133786848076,
+      "sentences": [
+        {
+          "text": "Dodavatel odpovídá: Omlouváme se za chybu.",
+          "start": 50.84639455782313,
+          "end": 54.43387755102041,
+          "slow_start": 57.10417233560091,
+          "slow_end": 61.22571428571428
+        },
+        {
+          "text": "Prosím zatím nic neposílejte zpět.",
+          "start": 54.61387755102041,
+          "end": 58.02721088435374,
+          "slow_start": 61.40571428571429,
+          "slow_end": 65.22539682539683
+        },
+        {
+          "text": "Nejprve ověříme sklad a domluvíme dopravu.",
+          "start": 58.20721088435374,
+          "end": 61.841133786848076,
+          "slow_start": 65.40539682539682,
+          "slow_end": 69.53854875283447
+        }
+      ],
+      "slow_start": 57.10417233560091,
+      "slow_end": 69.53854875283447
+    },
+    {
+      "text": "Můžeme dodat pět chybějících modrých hrnků a vyměnit dva poškozené. Pět bílých kusů vyzvedne náš kurýr.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Můžeme dodat pět chybějících modrých hrnků a vyměnit dva poškozené.",
+        "Pět bílých kusů vyzvedne náš kurýr."
+      ],
+      "start": 62.021133786848075,
+      "end": 71.50072562358277,
+      "sentences": [
+        {
+          "text": "Můžeme dodat pět chybějících modrých hrnků a vyměnit dva poškozené.",
+          "start": 62.021133786848075,
+          "end": 68.17442176870749,
+          "slow_start": 69.71854875283447,
+          "slow_end": 76.67292517006803
+        },
+        {
+          "text": "Pět bílých kusů vyzvedne náš kurýr.",
+          "start": 68.35442176870748,
+          "end": 71.50072562358277,
+          "slow_start": 76.85292517006803,
+          "slow_end": 80.51006802721088
+        }
+      ],
+      "slow_start": 69.71854875283447,
+      "slow_end": 80.51006802721088
+    },
+    {
+      "text": "Děkujeme. Potvrďte prosím datum doručení, adresu vyzvednutí a kdo zaplatí dopravu. Bez těchto informací nemůžeme plán uzavřít.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Děkujeme.",
+        "Potvrďte prosím datum doručení, adresu vyzvednutí a kdo zaplatí dopravu.",
+        "Bez těchto informací nemůžeme plán uzavřít."
+      ],
+      "start": 71.68072562358276,
+      "end": 83.33723356009071,
+      "sentences": [
+        {
+          "text": "Děkujeme.",
+          "start": 71.68072562358276,
+          "end": 72.63274376417233,
+          "slow_start": 80.69006802721088,
+          "slow_end": 81.71174603174603
+        },
+        {
+          "text": "Potvrďte prosím datum doručení, adresu vyzvednutí a kdo zaplatí dopravu.",
+          "start": 72.81274376417234,
+          "end": 78.90798185941043,
+          "slow_start": 81.89174603174604,
+          "slow_end": 88.69519274376417
+        },
+        {
+          "text": "Bez těchto informací nemůžeme plán uzavřít.",
+          "start": 79.08798185941043,
+          "end": 83.33723356009071,
+          "slow_start": 88.87519274376417,
+          "slow_end": 93.65850340136055
+        }
+      ],
+      "slow_start": 80.69006802721088,
+      "slow_end": 93.65850340136055
+    },
+    {
+      "text": "Jakmile dostaneme potvrzení, připravíme bílé a poškozené kusy zvlášť, aby při výměně nevznikla další chyba.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Jakmile dostaneme potvrzení, připravíme bílé a poškozené kusy zvlášť, aby při výměně nevznikla další chyba."
+      ],
+      "start": 83.5172335600907,
+      "end": 92.74716553287982,
+      "sentences": [
+        {
+          "text": "Jakmile dostaneme potvrzení, připravíme bílé a poškozené kusy zvlášť, aby při výměně nevznikla další chyba.",
+          "start": 83.5172335600907,
+          "end": 92.74716553287982,
+          "slow_start": 93.83850340136054,
+          "slow_end": 104.18299319727892
+        }
+      ],
+      "slow_start": 93.83850340136054,
+      "slow_end": 104.18299319727892
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "bda4172e36aa0f7d62782a0e4a7400de3857a21f2b04eb6178a20bd7c442e112",
+    "slow": "1ee684947dcef6b780c0f33da6d9296261656ba504edb38ce5cc55219804d802"
+  }
+}

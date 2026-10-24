@@ -1,0 +1,57 @@
+{
+  "id": "Pre-A1-U02-L01--2026.10.22.1--contrasts",
+  "lesson_id": "Pre-A1-U02-L01",
+  "content_version": "2026.10.22.1",
+  "level": "Pre-A1",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "pas. pás.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "pas. pás."
+      ]
+    }
+  ],
+  "text_sha256": "12771b98d7d16266ddde6dd89f93d40316110f864df689349800a2aa6b0431ab",
+  "source_file": "content/lessons/Pre-A1/Pre-A1-U02-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/Pre-A1-U02-L01--2026.10.22.1--contrasts--12771b98d7--normal.mp3",
+  "slow_file": "content/audio/files/Pre-A1-U02-L01--2026.10.22.1--contrasts--12771b98d7--slow.mp3",
+  "duration_seconds": 1.2481179138321996,
+  "slow_duration_seconds": 1.4338775510204083,
+  "cues": [
+    {
+      "text": "pas. pás.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "pas. pás."
+      ],
+      "start": 0.0,
+      "end": 1.0681179138321995,
+      "sentences": [
+        {
+          "text": "pas. pás.",
+          "start": 0.0,
+          "end": 1.0681179138321995,
+          "slow_start": 0.0,
+          "slow_end": 1.253877551020408
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.253877551020408
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "99ae61ce2202c8868a60694c889bc4006c235349a507f3b10663f620e9035386",
+    "slow": "a7c54c5633e5439187bda6e5a659ea9fd0eb8e2a9a8cdc8344cc7d3f0fa57636"
+  }
+}

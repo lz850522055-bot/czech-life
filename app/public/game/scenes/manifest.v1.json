@@ -1,0 +1,14 @@
+{
+  "version":"2026.10.24.1",
+  "scenes":[{
+    "id":"mala-strana-square-v1",
+    "image":"/game/scenes/mala-strana-square-v1.png",
+    "name_cs":"Malostranské náměstí",
+    "name_zh":"小城区广场",
+    "bounds":{"left":-2140,"top":-1620,"width":600,"height":400},
+    "pixels":[1536,1024],
+    "geometry_sources":["OpenStreetMap snapshot 2026-10-23","IPR Praha snapshot 2026-10-23"],
+    "status":"first_authored_scene_alignment_pending",
+    "appearance":"original illustrated artistic rendition; not surveyed facade imagery"
+  }]
+}

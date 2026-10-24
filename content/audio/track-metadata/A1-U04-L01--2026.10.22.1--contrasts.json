@@ -1,0 +1,57 @@
+{
+  "id": "A1-U04-L01--2026.10.22.1--contrasts",
+  "lesson_id": "A1-U04-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A1",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "musíte. nemusíte.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "musíte. nemusíte."
+      ]
+    }
+  ],
+  "text_sha256": "68e1c893a0d4ee2430dce71b0d06adf8bdc3161c0dd15b9a3e3b366eab7a2041",
+  "source_file": "content/lessons/A1/A1-U04-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U04-L01--2026.10.22.1--contrasts--68e1c893a0--normal.mp3",
+  "slow_file": "content/audio/files/A1-U04-L01--2026.10.22.1--contrasts--68e1c893a0--slow.mp3",
+  "duration_seconds": 1.8634467120181406,
+  "slow_duration_seconds": 2.0956462585034012,
+  "cues": [
+    {
+      "text": "musíte. nemusíte.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "musíte. nemusíte."
+      ],
+      "start": 0.0,
+      "end": 1.6834467120181407,
+      "sentences": [
+        {
+          "text": "musíte. nemusíte.",
+          "start": 0.0,
+          "end": 1.6834467120181407,
+          "slow_start": 0.0,
+          "slow_end": 1.9156462585034013
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.9156462585034013
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "efe9065f1e08c3c153acb15ee9c03b9adaca02ad3354515fd5863e3f9915d500",
+    "slow": "c83f38a310c5bc3f1469d68ee014840fb1b3533b2be603b3134b0a00102178a5"
+  }
+}

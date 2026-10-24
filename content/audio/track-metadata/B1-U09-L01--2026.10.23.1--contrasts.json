@@ -1,0 +1,58 @@
+{
+  "id": "B1-U09-L01--2026.10.23.1--contrasts",
+  "lesson_id": "B1-U09-L01",
+  "content_version": "2026.10.23.1",
+  "level": "B1",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "odeslání. doručení.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "odeslání. doručení."
+      ]
+    }
+  ],
+  "text_sha256": "d646420dc921de1184ca86623394417830cb5418c81e790b2b1fd4f8bf453bfa",
+  "source_file": "content/lessons/B1/B1-U09-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U09-L01--2026.10.22.1--contrasts--d646420dc9--normal.mp3",
+  "slow_file": "content/audio/files/B1-U09-L01--2026.10.22.1--contrasts--d646420dc9--slow.mp3",
+  "duration_seconds": 2.1653061224489796,
+  "slow_duration_seconds": 2.374285714285714,
+  "cues": [
+    {
+      "text": "odeslání. doručení.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "odeslání. doručení."
+      ],
+      "start": 0.0,
+      "end": 1.9853061224489796,
+      "sentences": [
+        {
+          "text": "odeslání. doručení.",
+          "start": 0.0,
+          "end": 1.9853061224489796,
+          "slow_start": 0.0,
+          "slow_end": 2.1942857142857144
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.1942857142857144
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "55d8742422e5a1add7080519d42e5a6c61870377032e287605ff84e02516861c",
+    "slow": "134f59b70cd14c73d0ef8a35aa846f599f6661f08cbb68589a4671ff5fb90fa4"
+  },
+  "reused_from_track_id": "B1-U09-L01--2026.10.22.1--contrasts"
+}

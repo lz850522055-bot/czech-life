@@ -1,0 +1,93 @@
+{
+  "id": "B2-U13-L01--2026.10.22.1--listening",
+  "lesson_id": "B2-U13-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B2",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Zástupce školy: Jméno v dotazníku není, ale správce má seznam kódů. Rodič: Takže lze odpověď spojit s konkrétním dítětem? Zástupce: Technicky ano. Učitelům chceme posílat jen souhrn, přesná pravidla ale ještě doplníme. Zprostředkovatel: Do shrnutí tedy napíšu, že přístup učitelů je navrhované omezení, které musí být potvrzeno, ne už ověřený stav.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Zástupce školy: Jméno v dotazníku není, ale správce má seznam kódů.",
+        "Rodič: Takže lze odpověď spojit s konkrétním dítětem?",
+        "Zástupce: Technicky ano.",
+        "Učitelům chceme posílat jen souhrn, přesná pravidla ale ještě doplníme.",
+        "Zprostředkovatel: Do shrnutí tedy napíšu, že přístup učitelů je navrhované omezení, které musí být potvrzeno, ne už ověřený stav."
+      ]
+    }
+  ],
+  "text_sha256": "c0a12ffc972937551ba10f07f2c5a4a244f5efa3727d7102e84fe7ff265b3eaf",
+  "source_file": "content/lessons/B2/B2-U13-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U13-L01--2026.10.22.1--listening--c0a12ffc97--normal.mp3",
+  "slow_file": "content/audio/files/B2-U13-L01--2026.10.22.1--listening--c0a12ffc97--slow.mp3",
+  "duration_seconds": 33.5356462585034,
+  "slow_duration_seconds": 37.88938775510204,
+  "cues": [
+    {
+      "text": "Zástupce školy: Jméno v dotazníku není, ale správce má seznam kódů. Rodič: Takže lze odpověď spojit s konkrétním dítětem? Zástupce: Technicky ano. Učitelům chceme posílat jen souhrn, přesná pravidla ale ještě doplníme. Zprostředkovatel: Do shrnutí tedy napíšu, že přístup učitelů je navrhované omezení, které musí být potvrzeno, ne už ověřený stav.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Zástupce školy: Jméno v dotazníku není, ale správce má seznam kódů.",
+        "Rodič: Takže lze odpověď spojit s konkrétním dítětem?",
+        "Zástupce: Technicky ano.",
+        "Učitelům chceme posílat jen souhrn, přesná pravidla ale ještě doplníme.",
+        "Zprostředkovatel: Do shrnutí tedy napíšu, že přístup učitelů je navrhované omezení, které musí být potvrzeno, ne už ověřený stav."
+      ],
+      "start": 0.0,
+      "end": 33.3556462585034,
+      "sentences": [
+        {
+          "text": "Zástupce školy: Jméno v dotazníku není, ale správce má seznam kódů.",
+          "start": 0.0,
+          "end": 6.524807256235827,
+          "slow_start": 0.0,
+          "slow_end": 7.418775510204082
+        },
+        {
+          "text": "Rodič: Takže lze odpověď spojit s konkrétním dítětem?",
+          "start": 6.704807256235828,
+          "end": 11.72031746031746,
+          "slow_start": 7.5987755102040815,
+          "slow_end": 13.392154195011338
+        },
+        {
+          "text": "Zástupce: Technicky ano.",
+          "start": 11.90031746031746,
+          "end": 14.280362811791383,
+          "slow_start": 13.572154195011338,
+          "slow_end": 16.312108843537416
+        },
+        {
+          "text": "Učitelům chceme posílat jen souhrn, přesná pravidla ale ještě doplníme.",
+          "start": 14.460362811791382,
+          "end": 20.764580498866213,
+          "slow_start": 16.492108843537416,
+          "slow_end": 23.62063492063492
+        },
+        {
+          "text": "Zprostředkovatel: Do shrnutí tedy napíšu, že přístup učitelů je navrhované omezení, které musí být potvrzeno, ne už ověřený stav.",
+          "start": 20.944580498866213,
+          "end": 33.3556462585034,
+          "slow_start": 23.80063492063492,
+          "slow_end": 37.70938775510204
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 37.70938775510204
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "990a3b9380d4f236c98d0348fb6375cbe519a8e456a4cde0e995a776ba530021",
+    "slow": "fee4c22195dc92627a2c161ec7d3f5f7de0700ce4c881c9d0b0876f50b96f0fc"
+  }
+}

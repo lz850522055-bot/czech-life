@@ -1,0 +1,75 @@
+{
+  "id": "C1-U01-L01--2026.10.22.1--listening",
+  "lesson_id": "C1-U01-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Otevření tržnice podpoříme, pokud zůstanou alespoň některé prostory přístupné bez nákupu. Nežádáme, aby celý provoz hradilo město. Chceme však vědět, kdo splnění této podmínky zkontroluje a jak se bude postupovat při jejím porušení.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Otevření tržnice podpoříme, pokud zůstanou alespoň některé prostory přístupné bez nákupu.",
+        "Nežádáme, aby celý provoz hradilo město.",
+        "Chceme však vědět, kdo splnění této podmínky zkontroluje a jak se bude postupovat při jejím porušení."
+      ]
+    }
+  ],
+  "text_sha256": "96b6defad3b68f4e927f16c42492cd24db5706eee59ddd870048b0599e05b453",
+  "source_file": "content/lessons/C1/C1-U01-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U01-L01--2026.10.22.1--listening--96b6defad3--normal.mp3",
+  "slow_file": "content/audio/files/C1-U01-L01--2026.10.22.1--listening--96b6defad3--slow.mp3",
+  "duration_seconds": 20.497551020408164,
+  "slow_duration_seconds": 23.27233560090703,
+  "cues": [
+    {
+      "text": "Otevření tržnice podpoříme, pokud zůstanou alespoň některé prostory přístupné bez nákupu. Nežádáme, aby celý provoz hradilo město. Chceme však vědět, kdo splnění této podmínky zkontroluje a jak se bude postupovat při jejím porušení.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Otevření tržnice podpoříme, pokud zůstanou alespoň některé prostory přístupné bez nákupu.",
+        "Nežádáme, aby celý provoz hradilo město.",
+        "Chceme však vědět, kdo splnění této podmínky zkontroluje a jak se bude postupovat při jejím porušení."
+      ],
+      "start": 0.0,
+      "end": 20.317551020408164,
+      "sentences": [
+        {
+          "text": "Otevření tržnice podpoříme, pokud zůstanou alespoň některé prostory přístupné bez nákupu.",
+          "start": 0.0,
+          "end": 7.964444444444444,
+          "slow_start": 0.0,
+          "slow_end": 8.997732426303855
+        },
+        {
+          "text": "Nežádáme, aby celý provoz hradilo město.",
+          "start": 8.144444444444444,
+          "end": 12.033786848072562,
+          "slow_start": 9.177732426303855,
+          "slow_end": 13.879773242630385
+        },
+        {
+          "text": "Chceme však vědět, kdo splnění této podmínky zkontroluje a jak se bude postupovat při jejím porušení.",
+          "start": 12.213786848072562,
+          "end": 20.317551020408164,
+          "slow_start": 14.059773242630385,
+          "slow_end": 23.09233560090703
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 23.09233560090703
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "48634e554d1c2ea4d0bb8738338283910c0bf4b55e7000f50e5019ed06679314",
+    "slow": "c383a136db1e098e8ec29d0b470bf6a98ef7ff31e4ad1ac76d1018344e8b9667"
+  }
+}

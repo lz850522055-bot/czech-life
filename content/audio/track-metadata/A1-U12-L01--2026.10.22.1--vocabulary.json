@@ -1,0 +1,202 @@
+{
+  "id": "A1-U12-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "A1-U12-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A1",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Mám tady zásilku.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Mám tady zásilku."
+      ]
+    },
+    {
+      "text": "Tady je kód.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Tady je kód."
+      ]
+    },
+    {
+      "text": "Mám doklad.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Mám doklad."
+      ]
+    },
+    {
+      "text": "Podepište se tady.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Podepište se tady."
+      ]
+    },
+    {
+      "text": "Východ je vpravo.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Východ je vpravo."
+      ]
+    },
+    {
+      "text": "Krabice je velká.",
+      "index": 5,
+      "role": "vocabulary",
+      "parts": [
+        "Krabice je velká."
+      ]
+    }
+  ],
+  "text_sha256": "290f9ec9b0b3f45c654fda9926d5e4c21765e6a3975c1d3e6c54b4b21f2aa5d0",
+  "source_file": "content/lessons/A1/A1-U12-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U12-L01--2026.10.22.1--vocabulary--290f9ec9b0--normal.mp3",
+  "slow_file": "content/audio/files/A1-U12-L01--2026.10.22.1--vocabulary--290f9ec9b0--slow.mp3",
+  "duration_seconds": 10.135782312925171,
+  "slow_duration_seconds": 11.331609977324263,
+  "cues": [
+    {
+      "text": "Mám tady zásilku.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Mám tady zásilku."
+      ],
+      "start": 0.0,
+      "end": 1.7763265306122449,
+      "sentences": [
+        {
+          "text": "Mám tady zásilku.",
+          "start": 0.0,
+          "end": 1.7763265306122449,
+          "slow_start": 0.0,
+          "slow_end": 2.043356009070295
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.043356009070295
+    },
+    {
+      "text": "Tady je kód.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Tady je kód."
+      ],
+      "start": 1.9563265306122448,
+      "end": 3.268253968253968,
+      "sentences": [
+        {
+          "text": "Tady je kód.",
+          "start": 1.9563265306122448,
+          "end": 3.268253968253968,
+          "slow_start": 2.2233560090702946,
+          "slow_end": 3.6629931972789116
+        }
+      ],
+      "slow_start": 2.2233560090702946,
+      "slow_end": 3.6629931972789116
+    },
+    {
+      "text": "Mám doklad.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Mám doklad."
+      ],
+      "start": 3.4482539682539683,
+      "end": 4.67891156462585,
+      "sentences": [
+        {
+          "text": "Mám doklad.",
+          "start": 3.4482539682539683,
+          "end": 4.67891156462585,
+          "slow_start": 3.8429931972789118,
+          "slow_end": 5.271020408163265
+        }
+      ],
+      "slow_start": 3.8429931972789118,
+      "slow_end": 5.271020408163265
+    },
+    {
+      "text": "Podepište se tady.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Podepište se tady."
+      ],
+      "start": 4.85891156462585,
+      "end": 6.403038548752835,
+      "sentences": [
+        {
+          "text": "Podepište se tady.",
+          "start": 4.85891156462585,
+          "end": 6.403038548752835,
+          "slow_start": 5.451020408163266,
+          "slow_end": 7.157687074829932
+        }
+      ],
+      "slow_start": 5.451020408163266,
+      "slow_end": 7.157687074829932
+    },
+    {
+      "text": "Východ je vpravo.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Východ je vpravo."
+      ],
+      "start": 6.5830385487528345,
+      "end": 8.080725623582767,
+      "sentences": [
+        {
+          "text": "Východ je vpravo.",
+          "start": 6.5830385487528345,
+          "end": 8.080725623582767,
+          "slow_start": 7.337687074829932,
+          "slow_end": 9.079183673469387
+        }
+      ],
+      "slow_start": 7.337687074829932,
+      "slow_end": 9.079183673469387
+    },
+    {
+      "text": "Krabice je velká.",
+      "index": 5,
+      "role": "vocabulary",
+      "parts": [
+        "Krabice je velká."
+      ],
+      "start": 8.260725623582767,
+      "end": 9.95578231292517,
+      "sentences": [
+        {
+          "text": "Krabice je velká.",
+          "start": 8.260725623582767,
+          "end": 9.95578231292517,
+          "slow_start": 9.259183673469387,
+          "slow_end": 11.151609977324263
+        }
+      ],
+      "slow_start": 9.259183673469387,
+      "slow_end": 11.151609977324263
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "b029e593a01cf481a5ca780af30fc30a46ace21402f463a2ec08249a59a6f633",
+    "slow": "be8c6d61597bbf95ea0a1ee7ed37492f95545b72b2d0b1ec03593a4cd743c37d"
+  }
+}

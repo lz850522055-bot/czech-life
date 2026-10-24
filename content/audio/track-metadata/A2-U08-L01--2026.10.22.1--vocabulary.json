@@ -1,0 +1,202 @@
+{
+  "id": "A2-U08-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "A2-U08-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Vyřiďte jí to.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Vyřiďte jí to."
+      ]
+    },
+    {
+      "text": "Potvrdím čas.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Potvrdím čas."
+      ]
+    },
+    {
+      "text": "Můžete číslo zopakovat?",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Můžete číslo zopakovat?"
+      ]
+    },
+    {
+      "text": "To je omyl.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "To je omyl."
+      ]
+    },
+    {
+      "text": "Přinesu podklady.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Přinesu podklady."
+      ]
+    },
+    {
+      "text": "Špatně vás slyším.",
+      "index": 5,
+      "role": "vocabulary",
+      "parts": [
+        "Špatně vás slyším."
+      ]
+    }
+  ],
+  "text_sha256": "a45d0fbd8d2fdc2aead30df73052fad63d6bbb21f46583ec0a84fa317508b006",
+  "source_file": "content/lessons/A2/A2-U08-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U08-L01--2026.10.22.1--vocabulary--a45d0fbd8d--normal.mp3",
+  "slow_file": "content/audio/files/A2-U08-L01--2026.10.22.1--vocabulary--a45d0fbd8d--slow.mp3",
+  "duration_seconds": 10.739501133786849,
+  "slow_duration_seconds": 11.842448979591836,
+  "cues": [
+    {
+      "text": "Vyřiďte jí to.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Vyřiďte jí to."
+      ],
+      "start": 0.0,
+      "end": 1.3351473922902495,
+      "sentences": [
+        {
+          "text": "Vyřiďte jí to.",
+          "start": 0.0,
+          "end": 1.3351473922902495,
+          "slow_start": 0.0,
+          "slow_end": 1.3583673469387756
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.3583673469387756
+    },
+    {
+      "text": "Potvrdím čas.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Potvrdím čas."
+      ],
+      "start": 1.5151473922902494,
+      "end": 3.221814058956916,
+      "sentences": [
+        {
+          "text": "Potvrdím čas.",
+          "start": 1.5151473922902494,
+          "end": 3.221814058956916,
+          "slow_start": 1.5383673469387755,
+          "slow_end": 3.454013605442177
+        }
+      ],
+      "slow_start": 1.5383673469387755,
+      "slow_end": 3.454013605442177
+    },
+    {
+      "text": "Můžete číslo zopakovat?",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Můžete číslo zopakovat?"
+      ],
+      "start": 3.401814058956916,
+      "end": 5.6309297052154195,
+      "sentences": [
+        {
+          "text": "Můžete číslo zopakovat?",
+          "start": 3.401814058956916,
+          "end": 5.6309297052154195,
+          "slow_start": 3.6340136054421768,
+          "slow_end": 6.118548752834467
+        }
+      ],
+      "slow_start": 3.6340136054421768,
+      "slow_end": 6.118548752834467
+    },
+    {
+      "text": "To je omyl.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "To je omyl."
+      ],
+      "start": 5.810929705215419,
+      "end": 6.704897959183674,
+      "sentences": [
+        {
+          "text": "To je omyl.",
+          "start": 5.810929705215419,
+          "end": 6.704897959183674,
+          "slow_start": 6.298548752834467,
+          "slow_end": 7.343446712018141
+        }
+      ],
+      "slow_start": 6.298548752834467,
+      "slow_end": 7.343446712018141
+    },
+    {
+      "text": "Přinesu podklady.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Přinesu podklady."
+      ],
+      "start": 6.884897959183673,
+      "end": 8.417414965986394,
+      "sentences": [
+        {
+          "text": "Přinesu podklady.",
+          "start": 6.884897959183673,
+          "end": 8.417414965986394,
+          "slow_start": 7.52344671201814,
+          "slow_end": 9.230113378684807
+        }
+      ],
+      "slow_start": 7.52344671201814,
+      "slow_end": 9.230113378684807
+    },
+    {
+      "text": "Špatně vás slyším.",
+      "index": 5,
+      "role": "vocabulary",
+      "parts": [
+        "Špatně vás slyším."
+      ],
+      "start": 8.597414965986395,
+      "end": 10.559501133786847,
+      "sentences": [
+        {
+          "text": "Špatně vás slyším.",
+          "start": 8.597414965986395,
+          "end": 10.559501133786847,
+          "slow_start": 9.410113378684807,
+          "slow_end": 11.662448979591836
+        }
+      ],
+      "slow_start": 9.410113378684807,
+      "slow_end": 11.662448979591836
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "fd658e229c16e21b0aab5d669d40d686c6b82526be2001a791d57c6125240c24",
+    "slow": "abbbb1abd79a356301efcc8364f7df95fa4503117a7089a60d28f6ea996c5b0c"
+  }
+}

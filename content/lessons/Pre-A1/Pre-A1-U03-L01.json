@@ -1,0 +1,1250 @@
+{
+  "id": "Pre-A1-U03-L01",
+  "level": "Pre-A1",
+  "unit_id": "Pre-A1-U03",
+  "order": 3,
+  "version": "2026.10.23.1",
+  "title_zh": "舌头放哪里：c、č、r和ř",
+  "title_cs": "Souhlásky a ř",
+  "prerequisites": [
+    "Pre-A1-U02-L01"
+  ],
+  "can_do": [
+    "区分前后齿龈辅音",
+    "尝试r与ř的发音位置",
+    "说出含辅音群的短词"
+  ],
+  "scene": "发音起步",
+  "skills": [
+    "listening",
+    "speaking",
+    "reading",
+    "writing",
+    "interaction",
+    "mediation"
+  ],
+  "knowledge_points": [
+    "consonant-place",
+    "syllabic-rl"
+  ],
+  "intro_zh": "先把可理解的声音练出来；ř可以分步练，不必因为一个音停住整套学习。",
+  "lesson_text": [
+    {
+      "id": "s01",
+      "cs": "Cena. Čaj.",
+      "zh": "价格。茶。",
+      "note_zh": "c与č的阻气位置不同。"
+    },
+    {
+      "id": "s02",
+      "cs": "Rada. Řada.",
+      "zh": "建议。一排/队列。",
+      "note_zh": "r与ř不同。"
+    },
+    {
+      "id": "s03",
+      "cs": "Tři. Čtyři.",
+      "zh": "三。四。",
+      "note_zh": "先听完整词，不在辅音群之间加元音。"
+    },
+    {
+      "id": "s04",
+      "cs": "Ruka. Řeka.",
+      "zh": "手。河。",
+      "note_zh": "这两词用于声音练习，不是最小对立词。"
+    },
+    {
+      "id": "s05",
+      "cs": "Krk. Vlk.",
+      "zh": "脖子。狼。",
+      "note_zh": "r或l能构成音节核心。"
+    },
+    {
+      "id": "s06",
+      "cs": "Tady je řeka.",
+      "zh": "这里有条河。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s07",
+      "cs": "Prosím tři čaje.",
+      "zh": "请给三杯茶。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s08",
+      "cs": "Řekněte to pomalu, prosím.",
+      "zh": "请慢慢说。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "consonant-place",
+      "rule_zh": "辅音靠嘴里哪儿挡气来区分，不靠额外加一个元音。",
+      "detail_zh": "c是前齿龈塞擦音；č在更靠后的位置。r靠舌尖短促颤动；ř在颤动同时有较强摩擦。练ř时先找r的位置，再使气流更集中，不要硬卷舌或把它拆成r加ž两个完整音节。",
+      "examples": [
+        {
+          "cs": "rada",
+          "zh": "建议",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        },
+        {
+          "cs": "řada",
+          "zh": "一排",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        }
+      ],
+      "pitfalls": [
+        "把ř读成两个音节。"
+      ],
+      "exceptions": [
+        "教材的口型说明不能诊断个人发音障碍；困难时先做辨听与短时模仿。"
+      ],
+      "term": "发音部位"
+    },
+    {
+      "id": "syllabic-rl",
+      "rule_zh": "有些词没有元音字母，r或l仍能撑起一个音节。",
+      "detail_zh": "krk和vlk可以成为完整词，不必在中间插入a或e。先慢慢保持连续气流，再恢复整词节奏。h是喉部的浊擦音；ch主要在舌后与软腭附近摩擦，不是同一个音的两个拼法。",
+      "examples": [
+        {
+          "cs": "krk",
+          "zh": "脖子",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        },
+        {
+          "cs": "vlk",
+          "zh": "狼",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        },
+        {
+          "cs": "hora",
+          "zh": "山",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        },
+        {
+          "cs": "chata",
+          "zh": "小屋",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        }
+      ],
+      "pitfalls": [
+        "把krk念成有两个额外元音的多音节词。"
+      ],
+      "exceptions": [
+        "语流中会有细微过渡声，不等于应主动增加独立元音。"
+      ],
+      "term": "成音节辅音"
+    }
+  ],
+  "vocabulary": [
+    {
+      "lemma": "řeka",
+      "pos": "名词，阴性",
+      "forms": "řeky; řeky",
+      "meaning_zh": "河",
+      "collocation": "velká řeka",
+      "example_cs": "Tady je řeka.",
+      "example_zh": "这里有一条河。",
+      "confusion_zh": "r与ř不同。"
+    },
+    {
+      "lemma": "řada",
+      "pos": "名词，阴性",
+      "forms": "řady; řady",
+      "meaning_zh": "一排；队列",
+      "collocation": "první řada",
+      "example_cs": "To je první řada.",
+      "example_zh": "这是第一排。",
+      "confusion_zh": "与rada区分。"
+    },
+    {
+      "lemma": "tři",
+      "pos": "数词",
+      "forms": "tří; třem; třemi",
+      "meaning_zh": "三",
+      "collocation": "tři čaje",
+      "example_cs": "Prosím tři čaje.",
+      "example_zh": "请给三杯茶。",
+      "confusion_zh": "ř在t后可清化。"
+    },
+    {
+      "lemma": "krk",
+      "pos": "名词，阳性无生",
+      "forms": "krku; krky",
+      "meaning_zh": "脖子",
+      "collocation": "bolest v krku",
+      "example_cs": "Bolí mě krk.",
+      "example_zh": "我脖子疼。",
+      "confusion_zh": "r撑起音节。"
+    }
+  ],
+  "listening": {
+    "script": [
+      {
+        "cs": "Prosím čtyři čaje.",
+        "zh": "请给四杯茶。",
+        "note_zh": "先理解整句意图，再回看本课规律。"
+      },
+      {
+        "cs": "Tři, nebo čtyři?",
+        "zh": "三杯还是四杯？",
+        "note_zh": "先理解整句意图，再回看本课规律。"
+      },
+      {
+        "cs": "Čtyři, děkuju.",
+        "zh": "四杯，谢谢。",
+        "note_zh": "先理解整句意图，再回看本课规律。"
+      }
+    ],
+    "focus_zh": "先不看文本听出任务关键信息；第二遍核对词形、数字与否定；最后对照中文。",
+    "source": "original"
+  },
+  "pronunciation": {
+    "focus_zh": "舌尖轻触上齿龈附近，气流让它短颤形成r；ř的通道更窄并有摩擦。先听r/ř，若一时做不出，不用持续使劲。",
+    "contrast": [
+      {
+        "a": "rada",
+        "b": "řada",
+        "note_zh": "首辅音不同；后面元音和辅音相同。"
+      }
+    ],
+    "task_zh": "录下rada–řada、tři–čtyři；标记哪一处需要回听，不自动判音素分。"
+  },
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "听到的是几？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "tři"
+        },
+        {
+          "id": "b",
+          "text": "čtyři"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "听到čtyři。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "listening"
+      ],
+      "error_category": "pronunciation",
+      "audio_text_cs": "čtyři",
+      "id": "Pre-A1-U03-L01-E01",
+      "knowledge_points": [
+        "consonant-place",
+        "syllabic-rl"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "哪个词有成音节r？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "krk"
+        },
+        {
+          "id": "b",
+          "text": "káva"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "krk的r是音节核心。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "Pre-A1-U03-L01-E02",
+      "knowledge_points": [
+        "consonant-place",
+        "syllabic-rl"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "写出数字3的捷语。",
+      "stimulus_cs": "",
+      "answer": "tři",
+      "accepted_answers": [
+        "tři"
+      ],
+      "explanation_zh": "保留ř的小钩。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "spelling",
+      "id": "Pre-A1-U03-L01-E03",
+      "knowledge_points": [
+        "consonant-place",
+        "syllabic-rl"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "哪项是合理的ř练法？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "拆成三个带元音的声音"
+        },
+        {
+          "id": "b",
+          "text": "先找舌尖颤音位置，再增加摩擦"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "不要为了发出ř而额外增加音节。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "pronunciation",
+      "id": "Pre-A1-U03-L01-E04",
+      "knowledge_points": [
+        "consonant-place",
+        "syllabic-rl"
+      ]
+    },
+    {
+      "type": "correct",
+      "prompt_zh": "修正拼写：要写“河”。",
+      "stimulus_cs": "reka",
+      "answer": "řeka",
+      "accepted_answers": [
+        "řeka"
+      ],
+      "explanation_zh": "这里需要ř。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "spelling",
+      "id": "Pre-A1-U03-L01-E05",
+      "knowledge_points": [
+        "consonant-place",
+        "syllabic-rl"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "h和ch的关系是？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "完全同音"
+        },
+        {
+          "id": "b",
+          "text": "发音位置和清浊存在区别"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "h主要在喉部，ch主要在软腭处摩擦。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "pronunciation",
+      "id": "Pre-A1-U03-L01-E06",
+      "knowledge_points": [
+        "consonant-place",
+        "syllabic-rl"
+      ]
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "分别录下cena、čaj，回听开头音是否不同。",
+      "stimulus_cs": "",
+      "answer": "Cena. Čaj.",
+      "accepted_answers": [],
+      "explanation_zh": "比较舌位，不给臆造精确分。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "Pre-A1-U03-L01-E07",
+      "knowledge_points": [
+        "consonant-place",
+        "syllabic-rl"
+      ]
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "对方没听清你要三杯还是四杯，请澄清你要三杯。",
+      "stimulus_cs": "",
+      "answer": "Tři čaje, prosím.",
+      "accepted_answers": [],
+      "explanation_zh": "可以把tři单独重复一次。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "Pre-A1-U03-L01-E08",
+      "knowledge_points": [
+        "consonant-place",
+        "syllabic-rl"
+      ]
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "写下你最难的一个辅音，并写中文发音位置提示。",
+      "stimulus_cs": "",
+      "answer": "ř：舌尖颤动并有摩擦。",
+      "accepted_answers": [],
+      "explanation_zh": "这是一条可重复练习的自检提示。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "Pre-A1-U03-L01-E09",
+      "knowledge_points": [
+        "consonant-place",
+        "syllabic-rl"
+      ]
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "用中文向初学者解释krk为什么不需要插入额外元音。",
+      "stimulus_cs": "",
+      "answer": "krk里的r本身能承担音节核心，所以这个词不需要再塞入a、e之类的独立元音。先听整词，再保持一个音节跟读。",
+      "accepted_answers": [],
+      "explanation_zh": "中文说清r本身可以承担音节核心即可。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "Pre-A1-U03-L01-E10",
+      "knowledge_points": [
+        "consonant-place",
+        "syllabic-rl"
+      ]
+    }
+  ],
+  "transfer_task": {
+    "prompt_zh": "在三、四两个数量中临时选一个，完整说出点茶请求；回听数量是否清楚。",
+    "model_answer_cs": "Prosím čtyři čaje.",
+    "rubric": [
+      "任务信息完整",
+      "用目标规律表达",
+      "独立完成并回听/回看"
+    ]
+  },
+  "review_links": [
+    "Pre-A1-U02-L01"
+  ],
+  "sources": [
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?id=905",
+      "scope": "本课涉及的声音/词形/语法规则；编排与例句为原创",
+      "verification": "官方来源用于相关规则交叉核查；具体查核范围见content/sources/foundation-verification.md；本课例句为原创，未逐句母语审校。"
+    },
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?id=915",
+      "scope": "本课涉及的声音/词形/语法规则；编排与例句为原创",
+      "verification": "官方来源用于相关规则交叉核查；具体查核范围见content/sources/foundation-verification.md；本课例句为原创，未逐句母语审校。"
+    }
+  ],
+  "content_status": "authored_crosschecked_not_native_reviewed",
+  "quality_notes": [
+    "课程及题目原创；自动检查结构、唯一ID与答案。",
+    "已对照所列官方发音、数词、条件式、物主词等章节核查相应规则；其余内容做内部语言一致性复核，未逐句外部审校。",
+    "CEFR级别为教学编排，不构成官方达标或考试认证。"
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "Pre-A1-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--text--3740a92239--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--text--3740a92239--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U03-L01--2026.10.23.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Cena. Čaj. Rada. Řada. Tři. Čtyři. Ruka. Řeka. Krk. Vlk. Tady je řeka. Prosím tři čaje. Řekněte to pomalu, prosím.",
+      "duration_seconds": 14.867165532879818,
+      "slow_duration_seconds": 16.51578231292517,
+      "sha256": "56e91e780219182e65c89fa04f5dbc1c5e49c4f6a1db39645e6612b0c43e0726",
+      "slow_sha256": "1052ae58ab08810a2d056eeaaea4f2628cef06b5a158b6845b9ea98fcb8646e6"
+    },
+    {
+      "lesson_id": "Pre-A1-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--text--3740a92239--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--text--3740a92239--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U03-L01--2026.10.23.1--text--p0",
+      "asset_id": "Pre-A1-U03-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Cena. Čaj.",
+      "start": 0,
+      "end": 1.5499773242630386,
+      "slow_start": 0,
+      "slow_end": 1.677687074829932
+    },
+    {
+      "lesson_id": "Pre-A1-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--text--3740a92239--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--text--3740a92239--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U03-L01--2026.10.23.1--text--s0",
+      "asset_id": "Pre-A1-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Cena.",
+      "start": 0,
+      "end": 0.626938775510204,
+      "slow_start": 0,
+      "slow_end": 0.6965986394557823
+    },
+    {
+      "lesson_id": "Pre-A1-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--text--3740a92239--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--text--3740a92239--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U03-L01--2026.10.23.1--text--s1",
+      "asset_id": "Pre-A1-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Čaj.",
+      "start": 0.8069387755102041,
+      "end": 1.5499773242630386,
+      "slow_start": 0.8765986394557823,
+      "slow_end": 1.677687074829932
+    },
+    {
+      "lesson_id": "Pre-A1-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--text--3740a92239--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--text--3740a92239--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U03-L01--2026.10.23.1--text--p1",
+      "asset_id": "Pre-A1-U03-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Rada. Řada.",
+      "start": 1.7299773242630385,
+      "end": 3.303174603174603,
+      "slow_start": 1.857687074829932,
+      "slow_end": 3.7327437641723358
+    },
+    {
+      "lesson_id": "Pre-A1-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--text--3740a92239--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--text--3740a92239--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U03-L01--2026.10.23.1--text--s2",
+      "asset_id": "Pre-A1-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 1,
+      "sentence_index": 0,
+      "text": "Rada.",
+      "start": 1.7299773242630385,
+      "end": 2.403356009070295,
+      "slow_start": 1.857687074829932,
+      "slow_end": 2.693605442176871
+    },
+    {
+      "lesson_id": "Pre-A1-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--text--3740a92239--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--text--3740a92239--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U03-L01--2026.10.23.1--text--s3",
+      "asset_id": "Pre-A1-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 3,
+      "paragraph_index": 1,
+      "sentence_index": 1,
+      "text": "Řada.",
+      "start": 2.583356009070295,
+      "end": 3.303174603174603,
+      "slow_start": 2.8736054421768706,
+      "slow_end": 3.7327437641723358
+    },
+    {
+      "lesson_id": "Pre-A1-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--text--3740a92239--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--text--3740a92239--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U03-L01--2026.10.23.1--text--p2",
+      "asset_id": "Pre-A1-U03-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Tři. Čtyři.",
+      "start": 3.483174603174603,
+      "end": 5.0331519274376415,
+      "slow_start": 3.9127437641723355,
+      "slow_end": 5.683310657596372
+    },
+    {
+      "lesson_id": "Pre-A1-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--text--3740a92239--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--text--3740a92239--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U03-L01--2026.10.23.1--text--s4",
+      "asset_id": "Pre-A1-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 4,
+      "paragraph_index": 2,
+      "sentence_index": 0,
+      "text": "Tři.",
+      "start": 3.483174603174603,
+      "end": 4.075283446712018,
+      "slow_start": 3.9127437641723355,
+      "slow_end": 4.667392290249433
+    },
+    {
+      "lesson_id": "Pre-A1-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--text--3740a92239--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--text--3740a92239--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U03-L01--2026.10.23.1--text--s5",
+      "asset_id": "Pre-A1-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 5,
+      "paragraph_index": 2,
+      "sentence_index": 1,
+      "text": "Čtyři.",
+      "start": 4.255283446712018,
+      "end": 5.0331519274376415,
+      "slow_start": 4.8473922902494335,
+      "slow_end": 5.683310657596372
+    },
+    {
+      "lesson_id": "Pre-A1-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--text--3740a92239--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--text--3740a92239--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U03-L01--2026.10.23.1--text--p3",
+      "asset_id": "Pre-A1-U03-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Ruka. Řeka.",
+      "start": 5.213151927437642,
+      "end": 6.983718820861678,
+      "slow_start": 5.863310657596372,
+      "slow_end": 7.877687074829932
+    },
+    {
+      "lesson_id": "Pre-A1-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--text--3740a92239--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--text--3740a92239--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U03-L01--2026.10.23.1--text--s6",
+      "asset_id": "Pre-A1-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 6,
+      "paragraph_index": 3,
+      "sentence_index": 0,
+      "text": "Ruka.",
+      "start": 5.213151927437642,
+      "end": 6.002630385487528,
+      "slow_start": 5.863310657596372,
+      "slow_end": 6.734058956916099
+    },
+    {
+      "lesson_id": "Pre-A1-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--text--3740a92239--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--text--3740a92239--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U03-L01--2026.10.23.1--text--s7",
+      "asset_id": "Pre-A1-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 7,
+      "paragraph_index": 3,
+      "sentence_index": 1,
+      "text": "Řeka.",
+      "start": 6.182630385487529,
+      "end": 6.983718820861678,
+      "slow_start": 6.9140589569161,
+      "slow_end": 7.877687074829932
+    },
+    {
+      "lesson_id": "Pre-A1-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--text--3740a92239--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--text--3740a92239--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U03-L01--2026.10.23.1--text--p4",
+      "asset_id": "Pre-A1-U03-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 4,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Krk. Vlk.",
+      "start": 7.163718820861678,
+      "end": 8.922675736961452,
+      "slow_start": 8.057687074829932,
+      "slow_end": 9.99079365079365
+    },
+    {
+      "lesson_id": "Pre-A1-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--text--3740a92239--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--text--3740a92239--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U03-L01--2026.10.23.1--text--s8",
+      "asset_id": "Pre-A1-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 8,
+      "paragraph_index": 4,
+      "sentence_index": 0,
+      "text": "Krk.",
+      "start": 7.163718820861678,
+      "end": 7.767437641723356,
+      "slow_start": 8.057687074829932,
+      "slow_end": 8.742675736961452
+    },
+    {
+      "lesson_id": "Pre-A1-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--text--3740a92239--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--text--3740a92239--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U03-L01--2026.10.23.1--text--s9",
+      "asset_id": "Pre-A1-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 9,
+      "paragraph_index": 4,
+      "sentence_index": 1,
+      "text": "Vlk.",
+      "start": 7.947437641723356,
+      "end": 8.922675736961452,
+      "slow_start": 8.922675736961452,
+      "slow_end": 9.99079365079365
+    },
+    {
+      "lesson_id": "Pre-A1-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--text--3740a92239--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--text--3740a92239--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U03-L01--2026.10.23.1--text--p5",
+      "asset_id": "Pre-A1-U03-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 5,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Tady je řeka.",
+      "start": 9.102675736961451,
+      "end": 10.310113378684807,
+      "slow_start": 10.170793650793652,
+      "slow_end": 11.494331065759637
+    },
+    {
+      "lesson_id": "Pre-A1-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--text--3740a92239--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--text--3740a92239--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U03-L01--2026.10.23.1--text--s10",
+      "asset_id": "Pre-A1-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 10,
+      "paragraph_index": 5,
+      "sentence_index": 0,
+      "text": "Tady je řeka.",
+      "start": 9.102675736961451,
+      "end": 10.310113378684807,
+      "slow_start": 10.170793650793652,
+      "slow_end": 11.494331065759637
+    },
+    {
+      "lesson_id": "Pre-A1-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--text--3740a92239--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--text--3740a92239--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U03-L01--2026.10.23.1--text--p6",
+      "asset_id": "Pre-A1-U03-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 6,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Prosím tři čaje.",
+      "start": 10.490113378684807,
+      "end": 12.057460317460318,
+      "slow_start": 11.674331065759636,
+      "slow_end": 13.450657596371881
+    },
+    {
+      "lesson_id": "Pre-A1-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--text--3740a92239--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--text--3740a92239--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U03-L01--2026.10.23.1--text--s11",
+      "asset_id": "Pre-A1-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 11,
+      "paragraph_index": 6,
+      "sentence_index": 0,
+      "text": "Prosím tři čaje.",
+      "start": 10.490113378684807,
+      "end": 12.057460317460318,
+      "slow_start": 11.674331065759636,
+      "slow_end": 13.450657596371881
+    },
+    {
+      "lesson_id": "Pre-A1-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--text--3740a92239--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--text--3740a92239--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U03-L01--2026.10.23.1--text--p7",
+      "asset_id": "Pre-A1-U03-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 7,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Řekněte to pomalu, prosím.",
+      "start": 12.237460317460318,
+      "end": 14.687165532879819,
+      "slow_start": 13.630657596371883,
+      "slow_end": 16.33578231292517
+    },
+    {
+      "lesson_id": "Pre-A1-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--text--3740a92239--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--text--3740a92239--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U03-L01--2026.10.23.1--text--s12",
+      "asset_id": "Pre-A1-U03-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 12,
+      "paragraph_index": 7,
+      "sentence_index": 0,
+      "text": "Řekněte to pomalu, prosím.",
+      "start": 12.237460317460318,
+      "end": 14.687165532879819,
+      "slow_start": 13.630657596371883,
+      "slow_end": 16.33578231292517
+    },
+    {
+      "lesson_id": "Pre-A1-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--listening--20db1950ad--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--listening--20db1950ad--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U03-L01--2026.10.23.1--listening",
+      "role": "listening-full",
+      "index": 0,
+      "text": "Prosím čtyři čaje. Tři, nebo čtyři? Čtyři, děkuju.",
+      "duration_seconds": 5.462630385487528,
+      "slow_duration_seconds": 5.950249433106576,
+      "sha256": "d1ae9d650f7ce6160d7149159fb3f72f70d2797538a421e439ff941353fa6d96",
+      "slow_sha256": "55352796f88c87c26665e7b95ae1b32d53ae17f66868e44d75f314a7643d76f2"
+    },
+    {
+      "lesson_id": "Pre-A1-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--listening--20db1950ad--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--listening--20db1950ad--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U03-L01--2026.10.23.1--listening--p0",
+      "asset_id": "Pre-A1-U03-L01--2026.10.23.1--listening",
+      "role": "listening",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Prosím čtyři čaje.",
+      "start": 0,
+      "end": 1.787936507936508,
+      "slow_start": 0,
+      "slow_end": 1.9388662131519274
+    },
+    {
+      "lesson_id": "Pre-A1-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--listening--20db1950ad--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--listening--20db1950ad--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U03-L01--2026.10.23.1--listening--p1",
+      "asset_id": "Pre-A1-U03-L01--2026.10.23.1--listening",
+      "role": "listening",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Tři, nebo čtyři?",
+      "start": 1.9679365079365079,
+      "end": 3.6397732426303855,
+      "slow_start": 2.1188662131519274,
+      "slow_end": 3.9068027210884355
+    },
+    {
+      "lesson_id": "Pre-A1-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--listening--20db1950ad--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--listening--20db1950ad--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U03-L01--2026.10.23.1--listening--p2",
+      "asset_id": "Pre-A1-U03-L01--2026.10.23.1--listening",
+      "role": "listening",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Čtyři, děkuju.",
+      "start": 3.8197732426303856,
+      "end": 5.282630385487528,
+      "slow_start": 4.086802721088436,
+      "slow_end": 5.770249433106576
+    },
+    {
+      "lesson_id": "Pre-A1-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--vocabulary--77ea851131--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--vocabulary--77ea851131--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U03-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary-full",
+      "index": 0,
+      "text": "Tady je řeka. To je první řada. Prosím tři čaje. Bolí mě krk.",
+      "duration_seconds": 6.466938775510204,
+      "slow_duration_seconds": 7.233197278911565,
+      "sha256": "1bb860261b8872557095731545ddb8b0b4a3ac4108060b5fcabc5e0b869891a1",
+      "slow_sha256": "c298afded5489207579783a48263647160cc871c23beddd4dbe758f39c4cb482"
+    },
+    {
+      "lesson_id": "Pre-A1-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--vocabulary--77ea851131--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--vocabulary--77ea851131--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U03-L01--2026.10.23.1--vocabulary--p0",
+      "asset_id": "Pre-A1-U03-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Tady je řeka.",
+      "start": 0,
+      "end": 1.18421768707483,
+      "slow_start": 0,
+      "slow_end": 1.3815873015873017
+    },
+    {
+      "lesson_id": "Pre-A1-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--vocabulary--77ea851131--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--vocabulary--77ea851131--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U03-L01--2026.10.23.1--vocabulary--p1",
+      "asset_id": "Pre-A1-U03-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "To je první řada.",
+      "start": 1.36421768707483,
+      "end": 3.0708843537414965,
+      "slow_start": 1.5615873015873016,
+      "slow_end": 3.407573696145125
+    },
+    {
+      "lesson_id": "Pre-A1-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--vocabulary--77ea851131--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--vocabulary--77ea851131--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U03-L01--2026.10.23.1--vocabulary--p2",
+      "asset_id": "Pre-A1-U03-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Prosím tři čaje.",
+      "start": 3.2508843537414966,
+      "end": 4.783401360544218,
+      "slow_start": 3.5875736961451246,
+      "slow_end": 5.259410430839003
+    },
+    {
+      "lesson_id": "Pre-A1-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--vocabulary--77ea851131--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--vocabulary--77ea851131--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U03-L01--2026.10.23.1--vocabulary--p3",
+      "asset_id": "Pre-A1-U03-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Bolí mě krk.",
+      "start": 4.963401360544218,
+      "end": 6.286938775510204,
+      "slow_start": 5.439410430839002,
+      "slow_end": 7.053197278911565
+    },
+    {
+      "lesson_id": "Pre-A1-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--exercises--8a8d70f9f5--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--exercises--8a8d70f9f5--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U03-L01--2026.10.23.1--exercises",
+      "role": "exercises-full",
+      "index": 0,
+      "text": "čtyři",
+      "duration_seconds": 0.9346485260770975,
+      "slow_duration_seconds": 1.062358276643991,
+      "sha256": "0951abaf143bfa113f0ffa2474deac40442014c82ba7dafbc8a019243ded8707",
+      "slow_sha256": "032da60b9dc149578d82c5247fecad6c5551574ce707662164a55f9fc2e067d2"
+    },
+    {
+      "lesson_id": "Pre-A1-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--exercises--8a8d70f9f5--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--exercises--8a8d70f9f5--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U03-L01--2026.10.23.1--exercises--p0",
+      "asset_id": "Pre-A1-U03-L01--2026.10.23.1--exercises",
+      "role": "exercise",
+      "index": 0,
+      "exercise_id": "Pre-A1-U03-L01-E01",
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "čtyři",
+      "start": 0,
+      "end": 0.7546485260770975,
+      "slow_start": 0,
+      "slow_end": 0.8823582766439909
+    },
+    {
+      "lesson_id": "Pre-A1-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--contrasts--3695a5ea80--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--contrasts--3695a5ea80--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U03-L01--2026.10.23.1--contrasts",
+      "role": "contrasts-full",
+      "index": 0,
+      "text": "rada. řada.",
+      "duration_seconds": 1.36421768707483,
+      "slow_duration_seconds": 1.5035374149659864,
+      "sha256": "d2528ef06f560fbc51743c213b2d16cc35700772e635e0f8adf7b243bf40d5e9",
+      "slow_sha256": "25afd30663d41ff74b15814e17dfe74da482732b477bed01b61cea63e590d898"
+    },
+    {
+      "lesson_id": "Pre-A1-U03-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--contrasts--3695a5ea80--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U03-L01--2026.10.22.1--contrasts--3695a5ea80--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U03-L01--2026.10.23.1--contrasts--p0",
+      "asset_id": "Pre-A1-U03-L01--2026.10.23.1--contrasts",
+      "role": "contrast",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "rada. řada.",
+      "start": 0,
+      "end": 1.18421768707483,
+      "slow_start": 0,
+      "slow_end": 1.3235374149659864
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "id": "A2-U01-L01--2026.10.22.1--scenario-SC-A2-01",
+  "lesson_id": "A2-U01-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "scenario-SC-A2-01",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Dobrý den, máte rezervaci na dnešek. Přijdete ve čtyři?",
+      "index": 0,
+      "role": "scenario",
+      "scenario_id": "SC-A2-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "start",
+      "parts": [
+        "Dobrý den, máte rezervaci na dnešek.",
+        "Přijdete ve čtyři?"
+      ]
+    },
+    {
+      "text": "Zítra máme volno až v pět. Hodí se vám to?",
+      "index": 1,
+      "role": "scenario",
+      "scenario_id": "SC-A2-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "offer",
+      "parts": [
+        "Zítra máme volno až v pět.",
+        "Hodí se vám to?"
+      ]
+    },
+    {
+      "text": "Ptám se na dnešek. Chcete rezervaci změnit na zítřek?",
+      "index": 2,
+      "role": "scenario",
+      "scenario_id": "SC-A2-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "repair",
+      "parts": [
+        "Ptám se na dnešek.",
+        "Chcete rezervaci změnit na zítřek?"
+      ]
+    },
+    {
+      "text": "Platí tedy zítra v pět. Dnešní rezervaci ruším.",
+      "index": 3,
+      "role": "scenario",
+      "scenario_id": "SC-A2-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "done",
+      "parts": [
+        "Platí tedy zítra v pět.",
+        "Dnešní rezervaci ruším."
+      ]
+    },
+    {
+      "text": "Dnešní rezervace je zrušená. Nový termín zatím nemáme.",
+      "index": 4,
+      "role": "scenario",
+      "scenario_id": "SC-A2-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "pending",
+      "parts": [
+        "Dnešní rezervace je zrušená.",
+        "Nový termín zatím nemáme."
+      ]
+    }
+  ],
+  "text_sha256": "ead1634d2f2b43e4ae77566f4b9d00a05d690d68c6de9672f6acb674d8df7bd5",
+  "source_file": "content/scenarios.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U01-L01--2026.10.22.1--scenario-SC-A2-01--ead1634d2f--normal.mp3",
+  "slow_file": "content/audio/files/A2-U01-L01--2026.10.22.1--scenario-SC-A2-01--ead1634d2f--slow.mp3",
+  "duration_seconds": 25.21732426303855,
+  "slow_duration_seconds": 28.410068027210883,
+  "cues": [
+    {
+      "text": "Dobrý den, máte rezervaci na dnešek. Přijdete ve čtyři?",
+      "index": 0,
+      "role": "scenario",
+      "scenario_id": "SC-A2-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "start",
+      "parts": [
+        "Dobrý den, máte rezervaci na dnešek.",
+        "Přijdete ve čtyři?"
+      ],
+      "start": 0.0,
+      "end": 4.940090702947846,
+      "sentences": [
+        {
+          "text": "Dobrý den, máte rezervaci na dnešek.",
+          "start": 0.0,
+          "end": 3.3668934240362813,
+          "slow_start": 0.0,
+          "slow_end": 3.8312925170068026
+        },
+        {
+          "text": "Přijdete ve čtyři?",
+          "start": 3.546893424036281,
+          "end": 4.940090702947846,
+          "slow_start": 4.011292517006803,
+          "slow_end": 5.56702947845805
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 5.56702947845805
+    },
+    {
+      "text": "Zítra máme volno až v pět. Hodí se vám to?",
+      "index": 1,
+      "role": "scenario",
+      "scenario_id": "SC-A2-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "offer",
+      "parts": [
+        "Zítra máme volno až v pět.",
+        "Hodí se vám to?"
+      ],
+      "start": 5.120090702947846,
+      "end": 9.433242630385488,
+      "sentences": [
+        {
+          "text": "Zítra máme volno až v pět.",
+          "start": 5.120090702947846,
+          "end": 7.662675736961451,
+          "slow_start": 5.74702947845805,
+          "slow_end": 8.707573696145126
+        },
+        {
+          "text": "Hodí se vám to?",
+          "start": 7.842675736961451,
+          "end": 9.433242630385488,
+          "slow_start": 8.887573696145125,
+          "slow_end": 10.652290249433106
+        }
+      ],
+      "slow_start": 5.74702947845805,
+      "slow_end": 10.652290249433106
+    },
+    {
+      "text": "Ptám se na dnešek. Chcete rezervaci změnit na zítřek?",
+      "index": 2,
+      "role": "scenario",
+      "scenario_id": "SC-A2-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "repair",
+      "parts": [
+        "Ptám se na dnešek.",
+        "Chcete rezervaci změnit na zítřek?"
+      ],
+      "start": 9.613242630385487,
+      "end": 14.483673469387755,
+      "sentences": [
+        {
+          "text": "Ptám se na dnešek.",
+          "start": 9.613242630385487,
+          "end": 11.250249433106577,
+          "slow_start": 10.832290249433106,
+          "slow_end": 12.67827664399093
+        },
+        {
+          "text": "Chcete rezervaci změnit na zítřek?",
+          "start": 11.430249433106576,
+          "end": 14.483673469387755,
+          "slow_start": 12.85827664399093,
+          "slow_end": 16.271609977324264
+        }
+      ],
+      "slow_start": 10.832290249433106,
+      "slow_end": 16.271609977324264
+    },
+    {
+      "text": "Platí tedy zítra v pět. Dnešní rezervaci ruším.",
+      "index": 3,
+      "role": "scenario",
+      "scenario_id": "SC-A2-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "done",
+      "parts": [
+        "Platí tedy zítra v pět.",
+        "Dnešní rezervaci ruším."
+      ],
+      "start": 14.663673469387755,
+      "end": 19.40639455782313,
+      "sentences": [
+        {
+          "text": "Platí tedy zítra v pět.",
+          "start": 14.663673469387755,
+          "end": 16.89278911564626,
+          "slow_start": 16.451609977324264,
+          "slow_end": 18.92453514739229
+        },
+        {
+          "text": "Dnešní rezervaci ruším.",
+          "start": 17.07278911564626,
+          "end": 19.40639455782313,
+          "slow_start": 19.10453514739229,
+          "slow_end": 21.798049886621314
+        }
+      ],
+      "slow_start": 16.451609977324264,
+      "slow_end": 21.798049886621314
+    },
+    {
+      "text": "Dnešní rezervace je zrušená. Nový termín zatím nemáme.",
+      "index": 4,
+      "role": "scenario",
+      "scenario_id": "SC-A2-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "pending",
+      "parts": [
+        "Dnešní rezervace je zrušená.",
+        "Nový termín zatím nemáme."
+      ],
+      "start": 19.58639455782313,
+      "end": 25.03732426303855,
+      "sentences": [
+        {
+          "text": "Dnešní rezervace je zrušená.",
+          "start": 19.58639455782313,
+          "end": 22.18702947845805,
+          "slow_start": 21.978049886621314,
+          "slow_end": 25.01986394557823
+        },
+        {
+          "text": "Nový termín zatím nemáme.",
+          "start": 22.36702947845805,
+          "end": 25.03732426303855,
+          "slow_start": 25.19986394557823,
+          "slow_end": 28.230068027210883
+        }
+      ],
+      "slow_start": 21.978049886621314,
+      "slow_end": 28.230068027210883
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "62689e00c2eae17555add27c48ee5eb804735d03efac231e84d9e02d9fed2b63",
+    "slow": "c6eb9535d33f8e863bb9221c263b317b2f51c784a2d69ac7c79ebe0ec1aaa72a"
+  }
+}

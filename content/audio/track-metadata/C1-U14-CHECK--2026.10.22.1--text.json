@@ -1,0 +1,75 @@
+{
+  "id": "C1-U14-CHECK--2026.10.22.1--text",
+  "lesson_id": "C1-U14-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Komunitní kuchyni sdílejí tři skupiny. Jedna potřebuje ráno čistý prostor pro kurz, druhá chce večer připravovat jídlo a třetí skladuje suroviny. Spor vznikl, protože večerní skupina chápala úklid jako odnesení nádobí, ranní jako připravené pracovní plochy.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Komunitní kuchyni sdílejí tři skupiny.",
+        "Jedna potřebuje ráno čistý prostor pro kurz, druhá chce večer připravovat jídlo a třetí skladuje suroviny.",
+        "Spor vznikl, protože večerní skupina chápala úklid jako odnesení nádobí, ranní jako připravené pracovní plochy."
+      ]
+    }
+  ],
+  "text_sha256": "322bbb1f21457012e9eae223b1fb5d150943d75793caa26ef5b25dcaf6ee9308",
+  "source_file": "content/assessments/C1-U14.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U14-CHECK--2026.10.22.1--text--322bbb1f21--normal.mp3",
+  "slow_file": "content/audio/files/C1-U14-CHECK--2026.10.22.1--text--322bbb1f21--slow.mp3",
+  "duration_seconds": 22.57573696145125,
+  "slow_duration_seconds": 25.129931972789116,
+  "cues": [
+    {
+      "text": "Komunitní kuchyni sdílejí tři skupiny. Jedna potřebuje ráno čistý prostor pro kurz, druhá chce večer připravovat jídlo a třetí skladuje suroviny. Spor vznikl, protože večerní skupina chápala úklid jako odnesení nádobí, ranní jako připravené pracovní plochy.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Komunitní kuchyni sdílejí tři skupiny.",
+        "Jedna potřebuje ráno čistý prostor pro kurz, druhá chce večer připravovat jídlo a třetí skladuje suroviny.",
+        "Spor vznikl, protože večerní skupina chápala úklid jako odnesení nádobí, ranní jako připravené pracovní plochy."
+      ],
+      "start": 0.0,
+      "end": 22.39573696145125,
+      "sentences": [
+        {
+          "text": "Komunitní kuchyni sdílejí tři skupiny.",
+          "start": 0.0,
+          "end": 3.1927437641723357,
+          "slow_start": 0.0,
+          "slow_end": 3.633922902494331
+        },
+        {
+          "text": "Jedna potřebuje ráno čistý prostor pro kurz, druhá chce večer připravovat jídlo a třetí skladuje suroviny.",
+          "start": 3.3727437641723355,
+          "end": 12.149886621315193,
+          "slow_start": 3.813922902494331,
+          "slow_end": 13.635963718820861
+        },
+        {
+          "text": "Spor vznikl, protože večerní skupina chápala úklid jako odnesení nádobí, ranní jako připravené pracovní plochy.",
+          "start": 12.329886621315193,
+          "end": 22.39573696145125,
+          "slow_start": 13.815963718820862,
+          "slow_end": 24.949931972789116
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 24.949931972789116
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "798b7d6fcb154937536dfc5d7b3302aea3dc0bd4ae002bd5b002cb051cffac6f",
+    "slow": "ea69db75c3887a47261f503ff07e35daace39dd76c17f51bfcda094eb21cdf93"
+  }
+}

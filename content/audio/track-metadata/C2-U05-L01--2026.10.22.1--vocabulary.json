@@ -1,0 +1,173 @@
+{
+  "id": "C2-U05-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "C2-U05-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C2",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Neúplné podání vyžaduje opravu.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Neúplné podání vyžaduje opravu."
+      ]
+    },
+    {
+      "text": "Zbytkovou nejistotu přiznáme.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Zbytkovou nejistotu přiznáme."
+      ]
+    },
+    {
+      "text": "Tvrzení jsou pro stejný soubor neslučitelná.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Tvrzení jsou pro stejný soubor neslučitelná."
+      ]
+    },
+    {
+      "text": "Ověřte pravidlo zařazení případu.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Ověřte pravidlo zařazení případu."
+      ]
+    },
+    {
+      "text": "Posuzujeme oprávněnost závěru.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Posuzujeme oprávněnost závěru."
+      ]
+    }
+  ],
+  "text_sha256": "fd75385468af382012b9c872df10a30a0fd902b6dc0347326c3a2f244e725500",
+  "source_file": "content/lessons/C2/C2-U05-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U05-L01--2026.10.22.1--vocabulary--fd75385468--normal.mp3",
+  "slow_file": "content/audio/files/C2-U05-L01--2026.10.22.1--vocabulary--fd75385468--slow.mp3",
+  "duration_seconds": 16.26,
+  "slow_duration_seconds": 18.338185941043083,
+  "cues": [
+    {
+      "text": "Neúplné podání vyžaduje opravu.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Neúplné podání vyžaduje opravu."
+      ],
+      "start": 0.0,
+      "end": 2.8676643990929707,
+      "sentences": [
+        {
+          "text": "Neúplné podání vyžaduje opravu.",
+          "start": 0.0,
+          "end": 2.8676643990929707,
+          "slow_start": 0.0,
+          "slow_end": 3.2624036281179136
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 3.2624036281179136
+    },
+    {
+      "text": "Zbytkovou nejistotu přiznáme.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Zbytkovou nejistotu přiznáme."
+      ],
+      "start": 3.0476643990929704,
+      "end": 5.497369614512472,
+      "sentences": [
+        {
+          "text": "Zbytkovou nejistotu přiznáme.",
+          "start": 3.0476643990929704,
+          "end": 5.497369614512472,
+          "slow_start": 3.442403628117914,
+          "slow_end": 6.182358276643991
+        }
+      ],
+      "slow_start": 3.442403628117914,
+      "slow_end": 6.182358276643991
+    },
+    {
+      "text": "Tvrzení jsou pro stejný soubor neslučitelná.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Tvrzení jsou pro stejný soubor neslučitelná."
+      ],
+      "start": 5.677369614512472,
+      "end": 9.764081632653062,
+      "sentences": [
+        {
+          "text": "Tvrzení jsou pro stejný soubor neslučitelná.",
+          "start": 5.677369614512472,
+          "end": 9.764081632653062,
+          "slow_start": 6.362358276643991,
+          "slow_end": 11.076009070294784
+        }
+      ],
+      "slow_start": 6.362358276643991,
+      "slow_end": 11.076009070294784
+    },
+    {
+      "text": "Ověřte pravidlo zařazení případu.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Ověřte pravidlo zařazení případu."
+      ],
+      "start": 9.944081632653061,
+      "end": 12.962675736961451,
+      "sentences": [
+        {
+          "text": "Ověřte pravidlo zařazení případu.",
+          "start": 9.944081632653061,
+          "end": 12.962675736961451,
+          "slow_start": 11.256009070294784,
+          "slow_end": 14.704172335600907
+        }
+      ],
+      "slow_start": 11.256009070294784,
+      "slow_end": 14.704172335600907
+    },
+    {
+      "text": "Posuzujeme oprávněnost závěru.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Posuzujeme oprávněnost závěru."
+      ],
+      "start": 13.14267573696145,
+      "end": 16.08,
+      "sentences": [
+        {
+          "text": "Posuzujeme oprávněnost závěru.",
+          "start": 13.14267573696145,
+          "end": 16.08,
+          "slow_start": 14.884172335600907,
+          "slow_end": 18.158185941043083
+        }
+      ],
+      "slow_start": 14.884172335600907,
+      "slow_end": 18.158185941043083
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "3cde3ff4b74f051a2aaece9e63f4ea447c8cfefd96ec1784725da6d3817432db",
+    "slow": "d9337f973e914b91fc92549ee0baa53ad9be9cd61c2804d93680fb7769f0f8e3"
+  }
+}

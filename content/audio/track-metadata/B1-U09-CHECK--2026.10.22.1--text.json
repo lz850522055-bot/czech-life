@@ -1,0 +1,75 @@
+{
+  "id": "B1-U09-CHECK--2026.10.22.1--text",
+  "lesson_id": "B1-U09-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Z deseti objednaných sešitů dorazilo osm. Dva z doručených měly poškozené obálky. Prodejce nabízí doposlání dvou chybějících sešitů, ale poškození zatím neřešil.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Z deseti objednaných sešitů dorazilo osm.",
+        "Dva z doručených měly poškozené obálky.",
+        "Prodejce nabízí doposlání dvou chybějících sešitů, ale poškození zatím neřešil."
+      ]
+    }
+  ],
+  "text_sha256": "7494a8fdf5e9a068c8ea70eaa9de2fbf6fb393af0208c1b00f11f143c25e58c1",
+  "source_file": "content/assessments/B1-U09.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U09-CHECK--2026.10.22.1--text--7494a8fdf5--normal.mp3",
+  "slow_file": "content/audio/files/B1-U09-CHECK--2026.10.22.1--text--7494a8fdf5--slow.mp3",
+  "duration_seconds": 15.040861678004536,
+  "slow_duration_seconds": 17.38607709750567,
+  "cues": [
+    {
+      "text": "Z deseti objednaných sešitů dorazilo osm. Dva z doručených měly poškozené obálky. Prodejce nabízí doposlání dvou chybějících sešitů, ale poškození zatím neřešil.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Z deseti objednaných sešitů dorazilo osm.",
+        "Dva z doručených měly poškozené obálky.",
+        "Prodejce nabízí doposlání dvou chybějících sešitů, ale poškození zatím neřešil."
+      ],
+      "start": 0.0,
+      "end": 14.860861678004536,
+      "sentences": [
+        {
+          "text": "Z deseti objednaných sešitů dorazilo osm.",
+          "start": 0.0,
+          "end": 3.5874829931972787,
+          "slow_start": 0.0,
+          "slow_end": 4.179591836734694
+        },
+        {
+          "text": "Dva z doručených měly poškozené obálky.",
+          "start": 3.767482993197279,
+          "end": 7.378185941043084,
+          "slow_start": 4.359591836734694,
+          "slow_end": 8.446303854875284
+        },
+        {
+          "text": "Prodejce nabízí doposlání dvou chybějících sešitů, ale poškození zatím neřešil.",
+          "start": 7.558185941043084,
+          "end": 14.860861678004536,
+          "slow_start": 8.626303854875284,
+          "slow_end": 17.20607709750567
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 17.20607709750567
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "8f538aa5bfb139861da8d93c430c731c81e5356ab8a367c64b4b3be593c31c8c",
+    "slow": "4d81238de5b926acf313293aff360909527e56c18bcb5018e13f0c312dae32be"
+  }
+}

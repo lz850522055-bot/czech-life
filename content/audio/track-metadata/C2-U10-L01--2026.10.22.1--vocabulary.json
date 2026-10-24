@@ -1,0 +1,173 @@
+{
+  "id": "C2-U10-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "C2-U10-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C2",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Prostředník ověřuje význam závazků.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Prostředník ověřuje význam závazků."
+      ]
+    },
+    {
+      "text": "Termín je pouze předběžný.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Termín je pouze předběžný."
+      ]
+    },
+    {
+      "text": "Naléhání nenahradí souhlas třetí strany.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Naléhání nenahradí souhlas třetí strany."
+      ]
+    },
+    {
+      "text": "Důstojnost lze chránit bez zatajení chyby.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Důstojnost lze chránit bez zatajení chyby."
+      ]
+    },
+    {
+      "text": "Odhalili jsme nesoulad očekávání.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Odhalili jsme nesoulad očekávání."
+      ]
+    }
+  ],
+  "text_sha256": "d76fd24674f83f3a2cfce9f9cf1a65e4193a7d13c7dad76f13d15d5b04e53a5b",
+  "source_file": "content/lessons/C2/C2-U10-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U10-L01--2026.10.22.1--vocabulary--d76fd24674--normal.mp3",
+  "slow_file": "content/audio/files/C2-U10-L01--2026.10.22.1--vocabulary--d76fd24674--slow.mp3",
+  "duration_seconds": 17.409387755102042,
+  "slow_duration_seconds": 19.568843537414967,
+  "cues": [
+    {
+      "text": "Prostředník ověřuje význam závazků.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Prostředník ověřuje význam závazků."
+      ],
+      "start": 0.0,
+      "end": 3.5062131519274375,
+      "sentences": [
+        {
+          "text": "Prostředník ověřuje význam závazků.",
+          "start": 0.0,
+          "end": 3.5062131519274375,
+          "slow_start": 0.0,
+          "slow_end": 3.842902494331066
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 3.842902494331066
+    },
+    {
+      "text": "Termín je pouze předběžný.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Termín je pouze předběžný."
+      ],
+      "start": 3.6862131519274377,
+      "end": 6.0082086167800455,
+      "sentences": [
+        {
+          "text": "Termín je pouze předběžný.",
+          "start": 3.6862131519274377,
+          "end": 6.0082086167800455,
+          "slow_start": 4.022902494331066,
+          "slow_end": 6.855736961451247
+        }
+      ],
+      "slow_start": 4.022902494331066,
+      "slow_end": 6.855736961451247
+    },
+    {
+      "text": "Naléhání nenahradí souhlas třetí strany.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Naléhání nenahradí souhlas třetí strany."
+      ],
+      "start": 6.188208616780045,
+      "end": 9.938231292517006,
+      "sentences": [
+        {
+          "text": "Naléhání nenahradí souhlas třetí strany.",
+          "start": 6.188208616780045,
+          "end": 9.938231292517006,
+          "slow_start": 7.0357369614512475,
+          "slow_end": 11.110839002267573
+        }
+      ],
+      "slow_start": 7.0357369614512475,
+      "slow_end": 11.110839002267573
+    },
+    {
+      "text": "Důstojnost lze chránit bez zatajení chyby.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Důstojnost lze chránit bez zatajení chyby."
+      ],
+      "start": 10.118231292517006,
+      "end": 13.903083900226758,
+      "sentences": [
+        {
+          "text": "Důstojnost lze chránit bez zatajení chyby.",
+          "start": 10.118231292517006,
+          "end": 13.903083900226758,
+          "slow_start": 11.290839002267573,
+          "slow_end": 15.586530612244898
+        }
+      ],
+      "slow_start": 11.290839002267573,
+      "slow_end": 15.586530612244898
+    },
+    {
+      "text": "Odhalili jsme nesoulad očekávání.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Odhalili jsme nesoulad očekávání."
+      ],
+      "start": 14.083083900226757,
+      "end": 17.229387755102042,
+      "sentences": [
+        {
+          "text": "Odhalili jsme nesoulad očekávání.",
+          "start": 14.083083900226757,
+          "end": 17.229387755102042,
+          "slow_start": 15.766530612244898,
+          "slow_end": 19.388843537414967
+        }
+      ],
+      "slow_start": 15.766530612244898,
+      "slow_end": 19.388843537414967
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "df03c7c14663d3275ac70514eb511e49a944989d4cc5916ce089f1a000947d43",
+    "slow": "e51f47b3eaf79ec94cb652f19f8b5f19493f39cf07e157dac5bdf7b197773c8a"
+  }
+}

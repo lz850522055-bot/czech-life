@@ -1,0 +1,66 @@
+{
+  "id": "A2-U11-L01--2026.10.22.1--listening",
+  "lesson_id": "A2-U11-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Dvě hodiny jsem četla článek, ale nedočetla jsem ho. Zítra ho dočtu a napíšu krátké shrnutí.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Dvě hodiny jsem četla článek, ale nedočetla jsem ho.",
+        "Zítra ho dočtu a napíšu krátké shrnutí."
+      ]
+    }
+  ],
+  "text_sha256": "60d746ee0a0023358bb003d2fca8c60fac17dac8ce05c0e48166e06d616d310c",
+  "source_file": "content/lessons/A2/A2-U11-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U11-L01--2026.10.22.1--listening--60d746ee0a--normal.mp3",
+  "slow_file": "content/audio/files/A2-U11-L01--2026.10.22.1--listening--60d746ee0a--slow.mp3",
+  "duration_seconds": 8.812063492063492,
+  "slow_duration_seconds": 9.810521541950113,
+  "cues": [
+    {
+      "text": "Dvě hodiny jsem četla článek, ale nedočetla jsem ho. Zítra ho dočtu a napíšu krátké shrnutí.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Dvě hodiny jsem četla článek, ale nedočetla jsem ho.",
+        "Zítra ho dočtu a napíšu krátké shrnutí."
+      ],
+      "start": 0.0,
+      "end": 8.632063492063493,
+      "sentences": [
+        {
+          "text": "Dvě hodiny jsem četla článek, ale nedočetla jsem ho.",
+          "start": 0.0,
+          "end": 4.806530612244898,
+          "slow_start": 0.0,
+          "slow_end": 5.433469387755102
+        },
+        {
+          "text": "Zítra ho dočtu a napíšu krátké shrnutí.",
+          "start": 4.986530612244898,
+          "end": 8.632063492063493,
+          "slow_start": 5.613469387755102,
+          "slow_end": 9.630521541950113
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 9.630521541950113
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "074c2f2e9f2b03e1661c8dbb51605e6193a238733fa412560bb2437e0efe4d55",
+    "slow": "cca82f0ab8bc592a731623dbf76901a4d2786990433176ea19ad7e15471fcf86"
+  }
+}

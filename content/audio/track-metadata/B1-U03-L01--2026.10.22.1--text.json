@@ -1,0 +1,306 @@
+{
+  "id": "B1-U03-L01--2026.10.22.1--text",
+  "lesson_id": "B1-U03-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Každý čtvrtek chodím do jazykové kavárny, ale dnes tam jedu tramvají, protože nesu těžkou tašku s knihami. Obvykle jezdím jen dvě zastávky a zbytek cesty jdu pěšky. Kamarád Pavel mě požádal, abych mu vysvětlil cestu od nádraží. Ve městě je poprvé a některé ulice mají podobné názvy. Nechtěl jsem ho poslat ke špatnému vchodu.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Každý čtvrtek chodím do jazykové kavárny, ale dnes tam jedu tramvají, protože nesu těžkou tašku s knihami.",
+        "Obvykle jezdím jen dvě zastávky a zbytek cesty jdu pěšky.",
+        "Kamarád Pavel mě požádal, abych mu vysvětlil cestu od nádraží.",
+        "Ve městě je poprvé a některé ulice mají podobné názvy.",
+        "Nechtěl jsem ho poslat ke špatnému vchodu."
+      ]
+    },
+    {
+      "text": "Řekl jsem mu: „Od nádraží jeď tramvají směrem k parku. Vystup na třetí zastávce, přejdi ulici na přechodu a pokračuj rovně. Potom projdi průchodem mezi lékárnou a knihkupectvím. Kavárna je ve dvoře. Nechoď do hlavní budovy, vstup je z pravé strany.“ Pavel si pokyny zopakoval a ověřil si, zda má přejít ulici hned po vystoupení.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Řekl jsem mu: „Od nádraží jeď tramvají směrem k parku.",
+        "Vystup na třetí zastávce, přejdi ulici na přechodu a pokračuj rovně.",
+        "Potom projdi průchodem mezi lékárnou a knihkupectvím.",
+        "Kavárna je ve dvoře.",
+        "Nechoď do hlavní budovy, vstup je z pravé strany.“",
+        "Pavel si pokyny zopakoval a ověřil si, zda má přejít ulici hned po vystoupení."
+      ]
+    },
+    {
+      "text": "Za chvíli mi zavolal, že už přijel, ale stojí na opačné straně parku. Zjistili jsme, že nastoupil do správné linky, jen jel opačným směrem. Nemusel se vracet až na nádraží. Stačilo přejít na druhou zastávku a jet dvě stanice zpátky. Počkal jsem na něj u vchodu, aby už nemusel hledat sám.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Za chvíli mi zavolal, že už přijel, ale stojí na opačné straně parku.",
+        "Zjistili jsme, že nastoupil do správné linky, jen jel opačným směrem.",
+        "Nemusel se vracet až na nádraží.",
+        "Stačilo přejít na druhou zastávku a jet dvě stanice zpátky.",
+        "Počkal jsem na něj u vchodu, aby už nemusel hledat sám."
+      ]
+    },
+    {
+      "text": "Když Pavel přišel, všiml si rozdílu mezi přijel a přišel. Do čtvrti přijel dopravním prostředkem, poslední část ale ušel pěšky. Večer jsme z kavárny odešli společně. Já jsem odjel domů autobusem a Pavel šel na návštěvu ke známým. Příště už bude vědět, že číslo linky nestačí: musí si ověřit také směr, zastávku a přesné místo setkání. Pavel si nakonec uložil do telefonu přesný název zastávky i adresu kavárny, aby je mohl znovu zkontrolovat.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Když Pavel přišel, všiml si rozdílu mezi přijel a přišel.",
+        "Do čtvrti přijel dopravním prostředkem, poslední část ale ušel pěšky.",
+        "Večer jsme z kavárny odešli společně.",
+        "Já jsem odjel domů autobusem a Pavel šel na návštěvu ke známým.",
+        "Příště už bude vědět, že číslo linky nestačí: musí si ověřit také směr, zastávku a přesné místo setkání.",
+        "Pavel si nakonec uložil do telefonu přesný název zastávky i adresu kavárny, aby je mohl znovu zkontrolovat."
+      ]
+    }
+  ],
+  "text_sha256": "91b92e0bb600b638699c4dcb7f8bf1aff642ee7a6bd407f0b787a6ef02011458",
+  "source_file": "content/lessons/B1/B1-U03-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--normal.mp3",
+  "slow_file": "content/audio/files/B1-U03-L01--2026.10.22.1--text--91b92e0bb6--slow.mp3",
+  "duration_seconds": 125.53968253968254,
+  "slow_duration_seconds": 141.80526077097505,
+  "cues": [
+    {
+      "text": "Každý čtvrtek chodím do jazykové kavárny, ale dnes tam jedu tramvají, protože nesu těžkou tašku s knihami. Obvykle jezdím jen dvě zastávky a zbytek cesty jdu pěšky. Kamarád Pavel mě požádal, abych mu vysvětlil cestu od nádraží. Ve městě je poprvé a některé ulice mají podobné názvy. Nechtěl jsem ho poslat ke špatnému vchodu.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Každý čtvrtek chodím do jazykové kavárny, ale dnes tam jedu tramvají, protože nesu těžkou tašku s knihami.",
+        "Obvykle jezdím jen dvě zastávky a zbytek cesty jdu pěšky.",
+        "Kamarád Pavel mě požádal, abych mu vysvětlil cestu od nádraží.",
+        "Ve městě je poprvé a některé ulice mají podobné názvy.",
+        "Nechtěl jsem ho poslat ke špatnému vchodu."
+      ],
+      "start": 0.0,
+      "end": 28.68843537414966,
+      "sentences": [
+        {
+          "text": "Každý čtvrtek chodím do jazykové kavárny, ale dnes tam jedu tramvají, protože nesu těžkou tašku s knihami.",
+          "start": 0.0,
+          "end": 8.997732426303855,
+          "slow_start": 0.0,
+          "slow_end": 10.332879818594105
+        },
+        {
+          "text": "Obvykle jezdím jen dvě zastávky a zbytek cesty jdu pěšky.",
+          "start": 9.177732426303855,
+          "end": 14.35578231292517,
+          "slow_start": 10.512879818594104,
+          "slow_end": 16.364308390022675
+        },
+        {
+          "text": "Kamarád Pavel mě požádal, abych mu vysvětlil cestu od nádraží.",
+          "start": 14.53578231292517,
+          "end": 20.03891156462585,
+          "slow_start": 16.544308390022675,
+          "slow_end": 22.70920634920635
+        },
+        {
+          "text": "Ve městě je poprvé a některé ulice mají podobné názvy.",
+          "start": 20.21891156462585,
+          "end": 24.95578231292517,
+          "slow_start": 22.88920634920635,
+          "slow_end": 28.380725623582766
+        },
+        {
+          "text": "Nechtěl jsem ho poslat ke špatnému vchodu.",
+          "start": 25.13578231292517,
+          "end": 28.68843537414966,
+          "slow_start": 28.560725623582766,
+          "slow_end": 32.519727891156464
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 32.519727891156464
+    },
+    {
+      "text": "Řekl jsem mu: „Od nádraží jeď tramvají směrem k parku. Vystup na třetí zastávce, přejdi ulici na přechodu a pokračuj rovně. Potom projdi průchodem mezi lékárnou a knihkupectvím. Kavárna je ve dvoře. Nechoď do hlavní budovy, vstup je z pravé strany.“ Pavel si pokyny zopakoval a ověřil si, zda má přejít ulici hned po vystoupení.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Řekl jsem mu: „Od nádraží jeď tramvají směrem k parku.",
+        "Vystup na třetí zastávce, přejdi ulici na přechodu a pokračuj rovně.",
+        "Potom projdi průchodem mezi lékárnou a knihkupectvím.",
+        "Kavárna je ve dvoře.",
+        "Nechoď do hlavní budovy, vstup je z pravé strany.“",
+        "Pavel si pokyny zopakoval a ověřil si, zda má přejít ulici hned po vystoupení."
+      ],
+      "start": 28.86843537414966,
+      "end": 58.18965986394558,
+      "sentences": [
+        {
+          "text": "Řekl jsem mu: „Od nádraží jeď tramvají směrem k parku.",
+          "start": 28.86843537414966,
+          "end": 33.849115646258504,
+          "slow_start": 32.69972789115646,
+          "slow_end": 38.237687074829935
+        },
+        {
+          "text": "Vystup na třetí zastávce, přejdi ulici na přechodu a pokračuj rovně.",
+          "start": 34.029115646258504,
+          "end": 40.112743764172336,
+          "slow_start": 38.417687074829935,
+          "slow_end": 45.04698412698413
+        },
+        {
+          "text": "Potom projdi průchodem mezi lékárnou a knihkupectvím.",
+          "start": 40.292743764172336,
+          "end": 45.099274376417235,
+          "slow_start": 45.22698412698413,
+          "slow_end": 50.66045351473923
+        },
+        {
+          "text": "Kavárna je ve dvoře.",
+          "start": 45.279274376417234,
+          "end": 47.05560090702948,
+          "slow_start": 50.84045351473923,
+          "slow_end": 52.767709750566894
+        },
+        {
+          "text": "Nechoď do hlavní budovy, vstup je z pravé strany.“",
+          "start": 47.23560090702948,
+          "end": 51.27587301587302,
+          "slow_start": 52.947709750566894,
+          "slow_end": 57.46399092970522
+        },
+        {
+          "text": "Pavel si pokyny zopakoval a ověřil si, zda má přejít ulici hned po vystoupení.",
+          "start": 51.45587301587302,
+          "end": 58.18965986394558,
+          "slow_start": 57.64399092970522,
+          "slow_end": 65.24852607709751
+        }
+      ],
+      "slow_start": 32.69972789115646,
+      "slow_end": 65.24852607709751
+    },
+    {
+      "text": "Za chvíli mi zavolal, že už přijel, ale stojí na opačné straně parku. Zjistili jsme, že nastoupil do správné linky, jen jel opačným směrem. Nemusel se vracet až na nádraží. Stačilo přejít na druhou zastávku a jet dvě stanice zpátky. Počkal jsem na něj u vchodu, aby už nemusel hledat sám.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Za chvíli mi zavolal, že už přijel, ale stojí na opačné straně parku.",
+        "Zjistili jsme, že nastoupil do správné linky, jen jel opačným směrem.",
+        "Nemusel se vracet až na nádraží.",
+        "Stačilo přejít na druhou zastávku a jet dvě stanice zpátky.",
+        "Počkal jsem na něj u vchodu, aby už nemusel hledat sám."
+      ],
+      "start": 58.36965986394558,
+      "end": 84.31814058956915,
+      "sentences": [
+        {
+          "text": "Za chvíli mi zavolal, že už přijel, ale stojí na opačné straně parku.",
+          "start": 58.36965986394558,
+          "end": 64.23269841269841,
+          "slow_start": 65.4285260770975,
+          "slow_end": 72.1855328798186
+        },
+        {
+          "text": "Zjistili jsme, že nastoupil do správné linky, jen jel opačným směrem.",
+          "start": 64.41269841269842,
+          "end": 70.42666666666666,
+          "slow_start": 72.36553287981859,
+          "slow_end": 79.1457596371882
+        },
+        {
+          "text": "Nemusel se vracet až na nádraží.",
+          "start": 70.60666666666667,
+          "end": 73.7065306122449,
+          "slow_start": 79.32575963718821,
+          "slow_end": 82.82036281179138
+        },
+        {
+          "text": "Stačilo přejít na druhou zastávku a jet dvě stanice zpátky.",
+          "start": 73.8865306122449,
+          "end": 79.1342403628118,
+          "slow_start": 83.00036281179138,
+          "slow_end": 88.95628117913832
+        },
+        {
+          "text": "Počkal jsem na něj u vchodu, aby už nemusel hledat sám.",
+          "start": 79.31424036281179,
+          "end": 84.31814058956915,
+          "slow_start": 89.13628117913832,
+          "slow_end": 95.04575963718821
+        }
+      ],
+      "slow_start": 65.4285260770975,
+      "slow_end": 95.04575963718821
+    },
+    {
+      "text": "Když Pavel přišel, všiml si rozdílu mezi přijel a přišel. Do čtvrti přijel dopravním prostředkem, poslední část ale ušel pěšky. Večer jsme z kavárny odešli společně. Já jsem odjel domů autobusem a Pavel šel na návštěvu ke známým. Příště už bude vědět, že číslo linky nestačí: musí si ověřit také směr, zastávku a přesné místo setkání. Pavel si nakonec uložil do telefonu přesný název zastávky i adresu kavárny, aby je mohl znovu zkontrolovat.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Když Pavel přišel, všiml si rozdílu mezi přijel a přišel.",
+        "Do čtvrti přijel dopravním prostředkem, poslední část ale ušel pěšky.",
+        "Večer jsme z kavárny odešli společně.",
+        "Já jsem odjel domů autobusem a Pavel šel na návštěvu ke známým.",
+        "Příště už bude vědět, že číslo linky nestačí: musí si ověřit také směr, zastávku a přesné místo setkání.",
+        "Pavel si nakonec uložil do telefonu přesný název zastávky i adresu kavárny, aby je mohl znovu zkontrolovat."
+      ],
+      "start": 84.49814058956916,
+      "end": 125.35968253968254,
+      "sentences": [
+        {
+          "text": "Když Pavel přišel, všiml si rozdílu mezi přijel a přišel.",
+          "start": 84.49814058956916,
+          "end": 89.92,
+          "slow_start": 95.2257596371882,
+          "slow_end": 101.18167800453514
+        },
+        {
+          "text": "Do čtvrti přijel dopravním prostředkem, poslední část ale ušel pěšky.",
+          "start": 90.1,
+          "end": 96.23006802721089,
+          "slow_start": 101.36167800453515,
+          "slow_end": 108.30444444444444
+        },
+        {
+          "text": "Večer jsme z kavárny odešli společně.",
+          "start": 96.41006802721088,
+          "end": 99.84662131519275,
+          "slow_start": 108.48444444444445,
+          "slow_end": 112.33895691609978
+        },
+        {
+          "text": "Já jsem odjel domů autobusem a Pavel šel na návštěvu ke známým.",
+          "start": 100.02662131519274,
+          "end": 105.93609977324263,
+          "slow_start": 112.51895691609977,
+          "slow_end": 119.17147392290249
+        },
+        {
+          "text": "Příště už bude vědět, že číslo linky nestačí: musí si ověřit také směr, zastávku a přesné místo setkání.",
+          "start": 106.11609977324262,
+          "end": 115.69433106575964,
+          "slow_start": 119.3514739229025,
+          "slow_end": 130.29968253968255
+        },
+        {
+          "text": "Pavel si nakonec uložil do telefonu přesný název zastávky i adresu kavárny, aby je mohl znovu zkontrolovat.",
+          "start": 115.87433106575963,
+          "end": 125.35968253968254,
+          "slow_start": 130.47968253968253,
+          "slow_end": 141.62526077097505
+        }
+      ],
+      "slow_start": 95.2257596371882,
+      "slow_end": 141.62526077097505
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "e0bf1660397394abdbabb2fdc1fc49c7655b50726192fae2d9ac4be64c6908ee",
+    "slow": "6aa46c6e7d02573870c44db9ca7f516074b091f2b82e0b108c29d202f4210ac9"
+  }
+}

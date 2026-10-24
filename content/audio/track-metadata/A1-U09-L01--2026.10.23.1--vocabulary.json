@@ -1,0 +1,203 @@
+{
+  "id": "A1-U09-L01--2026.10.23.1--vocabulary",
+  "lesson_id": "A1-U09-L01",
+  "content_version": "2026.10.23.1",
+  "level": "A1",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Kde je zastávka?",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Kde je zastávka?"
+      ]
+    },
+    {
+      "text": "Jděte rovně.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Jděte rovně."
+      ]
+    },
+    {
+      "text": "Potom doleva.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Potom doleva."
+      ]
+    },
+    {
+      "text": "Je naproti obchodu.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Je naproti obchodu."
+      ]
+    },
+    {
+      "text": "Kde mám vystoupit?",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Kde mám vystoupit?"
+      ]
+    },
+    {
+      "text": "Jdu pěšky.",
+      "index": 5,
+      "role": "vocabulary",
+      "parts": [
+        "Jdu pěšky."
+      ]
+    }
+  ],
+  "text_sha256": "6a47e7f8b9139659ce1d28428e11e33a12dc1d4c58d9b89539b7ca9b9d6c7168",
+  "source_file": "content/lessons/A1/A1-U09-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U09-L01--2026.10.22.1--vocabulary--6a47e7f8b9--normal.mp3",
+  "slow_file": "content/audio/files/A1-U09-L01--2026.10.22.1--vocabulary--6a47e7f8b9--slow.mp3",
+  "duration_seconds": 9.33469387755102,
+  "slow_duration_seconds": 10.518911564625851,
+  "cues": [
+    {
+      "text": "Kde je zastávka?",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Kde je zastávka?"
+      ],
+      "start": 0.0,
+      "end": 1.474467120181406,
+      "sentences": [
+        {
+          "text": "Kde je zastávka?",
+          "start": 0.0,
+          "end": 1.474467120181406,
+          "slow_start": 0.0,
+          "slow_end": 1.6950566893424037
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.6950566893424037
+    },
+    {
+      "text": "Jděte rovně.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Jděte rovně."
+      ],
+      "start": 1.6544671201814058,
+      "end": 2.8502947845804987,
+      "sentences": [
+        {
+          "text": "Jděte rovně.",
+          "start": 1.6544671201814058,
+          "end": 2.8502947845804987,
+          "slow_start": 1.8750566893424037,
+          "slow_end": 3.245034013605442
+        }
+      ],
+      "slow_start": 1.8750566893424037,
+      "slow_end": 3.245034013605442
+    },
+    {
+      "text": "Potom doleva.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Potom doleva."
+      ],
+      "start": 3.030294784580499,
+      "end": 4.226122448979591,
+      "sentences": [
+        {
+          "text": "Potom doleva.",
+          "start": 3.030294784580499,
+          "end": 4.226122448979591,
+          "slow_start": 3.4250340136054422,
+          "slow_end": 4.7601814058956915
+        }
+      ],
+      "slow_start": 3.4250340136054422,
+      "slow_end": 4.7601814058956915
+    },
+    {
+      "text": "Je naproti obchodu.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Je naproti obchodu."
+      ],
+      "start": 4.406122448979592,
+      "end": 6.04312925170068,
+      "sentences": [
+        {
+          "text": "Je naproti obchodu.",
+          "start": 4.406122448979592,
+          "end": 6.04312925170068,
+          "slow_start": 4.940181405895691,
+          "slow_end": 6.879047619047619
+        }
+      ],
+      "slow_start": 4.940181405895691,
+      "slow_end": 6.879047619047619
+    },
+    {
+      "text": "Kde mám vystoupit?",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Kde mám vystoupit?"
+      ],
+      "start": 6.22312925170068,
+      "end": 7.79047619047619,
+      "sentences": [
+        {
+          "text": "Kde mám vystoupit?",
+          "start": 6.22312925170068,
+          "end": 7.79047619047619,
+          "slow_start": 7.059047619047619,
+          "slow_end": 8.870204081632654
+        }
+      ],
+      "slow_start": 7.059047619047619,
+      "slow_end": 8.870204081632654
+    },
+    {
+      "text": "Jdu pěšky.",
+      "index": 5,
+      "role": "vocabulary",
+      "parts": [
+        "Jdu pěšky."
+      ],
+      "start": 7.97047619047619,
+      "end": 9.15469387755102,
+      "sentences": [
+        {
+          "text": "Jdu pěšky.",
+          "start": 7.97047619047619,
+          "end": 9.15469387755102,
+          "slow_start": 9.050204081632653,
+          "slow_end": 10.33891156462585
+        }
+      ],
+      "slow_start": 9.050204081632653,
+      "slow_end": 10.33891156462585
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "a8571fc3200ef42c5f5b40b8a5885772e958059fe9613e8e6833021b1c81fa0c",
+    "slow": "ba03692f29566a60699d56c1fa599c5caa240295c283d28d65fcff384efdde14"
+  },
+  "reused_from_track_id": "A1-U09-L01--2026.10.22.1--vocabulary"
+}

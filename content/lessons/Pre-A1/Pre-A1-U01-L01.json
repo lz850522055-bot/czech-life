@@ -1,0 +1,1364 @@
+{
+  "id": "Pre-A1-U01-L01",
+  "level": "Pre-A1",
+  "unit_id": "Pre-A1-U01",
+  "order": 1,
+  "version": "2026.10.23.1",
+  "title_zh": "先把字母看准，再把声音连起来",
+  "title_cs": "Písmena a zvuky",
+  "prerequisites": [],
+  "can_do": [
+    "认出捷语附加符号",
+    "把简单音节拼成短词",
+    "请求对方再说一次"
+  ],
+  "scene": "发音起步",
+  "skills": [
+    "listening",
+    "speaking",
+    "reading",
+    "writing",
+    "interaction",
+    "mediation"
+  ],
+  "knowledge_points": [
+    "alphabet-diacritics",
+    "sound-letter-cj"
+  ],
+  "intro_zh": "你要在柜台说出一个名字。先分清字母长什么样、实际发什么音，不用中文谐音替代声音。",
+  "lesson_text": [
+    {
+      "id": "s01",
+      "cs": "A, á, e, é, i, í, o, ó, u, ú, ů, y, ý.",
+      "zh": "短长元音及其常见写法。",
+      "note_zh": "字母上方斜线通常提示长元音；ů也是长元音。"
+    },
+    {
+      "id": "s02",
+      "cs": "C, č, s, š, z, ž, r, ř.",
+      "zh": "要重点区分的辅音字母。",
+      "note_zh": "有无háček小钩不是装饰，会改变辅音。"
+    },
+    {
+      "id": "s03",
+      "cs": "Čaj. Káva. Voda.",
+      "zh": "茶。咖啡。水。",
+      "note_zh": "先逐词听，再听自然连读。"
+    },
+    {
+      "id": "s04",
+      "cs": "Dobrý den.",
+      "zh": "您好。",
+      "note_zh": "这是完整问候，不需要逐字翻成“好的一天”。"
+    },
+    {
+      "id": "s05",
+      "cs": "Prosím, ještě jednou.",
+      "zh": "请再说一遍。",
+      "note_zh": "没听清时直接使用。"
+    },
+    {
+      "id": "s06",
+      "cs": "Jak se jmenujete?",
+      "zh": "您叫什么名字？",
+      "note_zh": "把整句先作为声音块认出。"
+    },
+    {
+      "id": "s07",
+      "cs": "Jmenuju se Li.",
+      "zh": "我叫李。",
+      "note_zh": "jmenuju是标准口语形式；jmenuji也可。"
+    },
+    {
+      "id": "s08",
+      "cs": "Děkuju. Na shledanou.",
+      "zh": "谢谢。再见。",
+      "note_zh": "本课先识别与模仿，词形后面再学。"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "alphabet-diacritics",
+      "rule_zh": "先看小钩和长音符，再看主字母。",
+      "detail_zh": "č、š、ž、ř、ď、ť、ň改变辅音；á、é、í、ó、ú、ý表示长元音，ů与ú读音相同。ě通常影响前面的辅音或带来音的组合，不是“长e”。捷语字母ch由两个字符组成，在字母排序中视为一个字母。完整字母表：a á b c č d ď e é ě f g h ch i í j k l m n ň o ó p q r ř s š t ť u ú ů v w x y ý z ž。q、w、x多见于外来词和名字。",
+      "examples": [
+        {
+          "cs": "čaj",
+          "zh": "茶",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        },
+        {
+          "cs": "cena",
+          "zh": "价格",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        }
+      ],
+      "pitfalls": [
+        "把č当成c会换声音。"
+      ],
+      "exceptions": [
+        "外来词、姓名可能保留不同读法，遇到名字可问本人。"
+      ],
+      "term": "字母与附加符号"
+    },
+    {
+      "id": "sound-letter-cj",
+      "rule_zh": "c通常是一个短促的塞擦音，j是平滑过渡音。",
+      "detail_zh": "c先短暂阻气再放成[s]摩擦，整体不要拆成两个音节；č的舌位略后，带更明显的后齿龈摩擦。j舌面接近硬腭，不要念成字母名称。先模仿cena、čaj、já，再看拼写。",
+      "examples": [
+        {
+          "cs": "cena",
+          "zh": "价格",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        },
+        {
+          "cs": "já",
+          "zh": "我",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        }
+      ],
+      "pitfalls": [
+        "不能照英语字母习惯读捷语c或j。"
+      ],
+      "exceptions": [
+        "字母名称与词内声音是两件事；本课播放以词内声音为主。"
+      ],
+      "term": "音素与字母"
+    }
+  ],
+  "vocabulary": [
+    {
+      "lemma": "čaj",
+      "pos": "名词，阳性无生",
+      "forms": "čaje; čaje",
+      "meaning_zh": "茶",
+      "collocation": "zelený čaj",
+      "example_cs": "To je čaj.",
+      "example_zh": "这是茶。",
+      "confusion_zh": "č和c不同。"
+    },
+    {
+      "lemma": "káva",
+      "pos": "名词，阴性",
+      "forms": "kávy; kávy",
+      "meaning_zh": "咖啡",
+      "collocation": "černá káva",
+      "example_cs": "To je káva.",
+      "example_zh": "这是咖啡。",
+      "confusion_zh": "á要保持长音。"
+    },
+    {
+      "lemma": "voda",
+      "pos": "名词，阴性",
+      "forms": "vody; vody",
+      "meaning_zh": "水",
+      "collocation": "pitná voda",
+      "example_cs": "To je voda.",
+      "example_zh": "这是水。",
+      "confusion_zh": "普通词不用逐字母报名称。"
+    },
+    {
+      "lemma": "prosím",
+      "pos": "礼貌用语/动词形式",
+      "forms": "prosit; prosím",
+      "meaning_zh": "请；不客气；请说",
+      "collocation": "ještě jednou, prosím",
+      "example_cs": "Prosím, ještě jednou.",
+      "example_zh": "请再说一遍。",
+      "confusion_zh": "意义取决于场景。"
+    }
+  ],
+  "listening": {
+    "script": [
+      {
+        "cs": "Dobrý den.",
+        "zh": "您好。",
+        "note_zh": "先理解整句意图，再回看本课规律。"
+      },
+      {
+        "cs": "Jmenuju se Eva.",
+        "zh": "我叫伊娃。",
+        "note_zh": "先理解整句意图，再回看本课规律。"
+      },
+      {
+        "cs": "Prosím, ještě jednou.",
+        "zh": "请再说一遍。",
+        "note_zh": "先理解整句意图，再回看本课规律。"
+      },
+      {
+        "cs": "Eva.",
+        "zh": "伊娃。",
+        "note_zh": "先理解整句意图，再回看本课规律。"
+      }
+    ],
+    "focus_zh": "先不看文本听出任务关键信息；第二遍核对词形、数字与否定；最后对照中文。",
+    "source": "original"
+  },
+  "pronunciation": {
+    "focus_zh": "对镜子看：a嘴张开；i舌面较高、唇不圆；u嘴唇圆拢。音与音之间不加多余的“呃”。",
+    "contrast": [
+      {
+        "a": "cena",
+        "b": "čaj",
+        "note_zh": "c与č的舌位不同；这里比较的是开头声音，不是最小对立词。"
+      }
+    ],
+    "task_zh": "录下 čaj、káva、voda、Dobrý den；回听有无多加音节。"
+  },
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "哪个词含有小钩辅音č？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "čaj"
+        },
+        {
+          "id": "b",
+          "text": "cena"
+        },
+        {
+          "id": "c",
+          "text": "káva"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "čaj开头是č；cena是c。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "spelling",
+      "id": "Pre-A1-U01-L01-E01",
+      "knowledge_points": [
+        "alphabet-diacritics",
+        "sound-letter-cj"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "听完选择听到的饮品。",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "káva"
+        },
+        {
+          "id": "b",
+          "text": "voda"
+        },
+        {
+          "id": "c",
+          "text": "čaj"
+        }
+      ],
+      "answer": "c",
+      "accepted_answers": [],
+      "explanation_zh": "音频是čaj，注意开头č。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "listening"
+      ],
+      "error_category": "pronunciation",
+      "audio_text_cs": "čaj",
+      "id": "Pre-A1-U01-L01-E02",
+      "knowledge_points": [
+        "alphabet-diacritics",
+        "sound-letter-cj"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "抄写“茶”，保留小钩。",
+      "stimulus_cs": "茶",
+      "answer": "čaj",
+      "accepted_answers": [
+        "čaj"
+      ],
+      "explanation_zh": "不是caj；小钩影响读音。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "spelling",
+      "id": "Pre-A1-U01-L01-E03",
+      "knowledge_points": [
+        "alphabet-diacritics",
+        "sound-letter-cj"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "ů主要提示什么？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "重读"
+        },
+        {
+          "id": "b",
+          "text": "长u音"
+        },
+        {
+          "id": "c",
+          "text": "问句"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "ů与ú表示相同长元音；不是重音符。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "pronunciation",
+      "id": "Pre-A1-U01-L01-E04",
+      "knowledge_points": [
+        "alphabet-diacritics",
+        "sound-letter-cj"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "补全“您好”，只填缺失词。",
+      "stimulus_cs": "Dobrý ___.",
+      "answer": "den",
+      "accepted_answers": [
+        "den"
+      ],
+      "explanation_zh": "固定问候Dobrý den。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "collocation",
+      "id": "Pre-A1-U01-L01-E05",
+      "knowledge_points": [
+        "alphabet-diacritics",
+        "sound-letter-cj"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt_zh": "以Prosím开头，排成“请再说一遍”。",
+      "stimulus_cs": "jednou / Prosím, / ještě",
+      "answer": "Prosím, ještě jednou.",
+      "accepted_answers": [
+        "Prosím, ještě jednou."
+      ],
+      "explanation_zh": "ještě jednou整体是再一次。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "word_order",
+      "options": [
+        "jednou",
+        "Prosím,",
+        "ještě"
+      ],
+      "id": "Pre-A1-U01-L01-E06",
+      "knowledge_points": [
+        "alphabet-diacritics",
+        "sound-letter-cj"
+      ]
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "录音说出 čaj、káva、voda，然后说 Dobrý den。",
+      "stimulus_cs": "",
+      "answer": "Čaj. Káva. Voda. Dobrý den.",
+      "accepted_answers": [],
+      "explanation_zh": "先比较辅音和元音时长，不追求快。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "每个词听得到",
+        "长á没有缩成短a",
+        "没有在辅音后多加元音"
+      ],
+      "id": "Pre-A1-U01-L01-E07",
+      "knowledge_points": [
+        "alphabet-diacritics",
+        "sound-letter-cj"
+      ]
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "对方说了名字，你没听清。用一句话请他再说一次。",
+      "stimulus_cs": "",
+      "answer": "Prosím, ještě jednou.",
+      "accepted_answers": [],
+      "explanation_zh": "可以加Děkuju表示感谢。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "Pre-A1-U01-L01-E08",
+      "knowledge_points": [
+        "alphabet-diacritics",
+        "sound-letter-cj"
+      ]
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "写出你的拉丁字母姓名；再写一句“我叫……”。",
+      "stimulus_cs": "",
+      "answer": "Jmenuju se Li.",
+      "accepted_answers": [],
+      "explanation_zh": "自己的姓名不要求按示范照抄。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "Pre-A1-U01-L01-E09",
+      "knowledge_points": [
+        "alphabet-diacritics",
+        "sound-letter-cj"
+      ]
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "用中文向初学朋友说明为什么caj和čaj不能随便混写。",
+      "stimulus_cs": "",
+      "answer": "čaj是“茶”；č上面的小钩会改变辅音，c和č不是同一个声音，所以不能为了省事把čaj写成caj。",
+      "accepted_answers": [],
+      "explanation_zh": "说明小钩改变声音；不是装饰。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "明确小钩有发音作用",
+        "举出čaj这个词",
+        "不依靠中文谐音"
+      ],
+      "id": "Pre-A1-U01-L01-E10",
+      "knowledge_points": [
+        "alphabet-diacritics",
+        "sound-letter-cj"
+      ]
+    }
+  ],
+  "transfer_task": {
+    "prompt_zh": "在纸上写出三种饮品；闭眼听对应词后指出，再说一句请求。",
+    "model_answer_cs": "Čaj, káva, voda. Prosím, ještě jednou.",
+    "rubric": [
+      "任务信息完整",
+      "用目标规律表达",
+      "独立完成并回听/回看"
+    ]
+  },
+  "review_links": [],
+  "sources": [
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?id=903",
+      "scope": "本课涉及的声音/词形/语法规则；编排与例句为原创",
+      "verification": "官方来源用于相关规则交叉核查；具体查核范围见content/sources/foundation-verification.md；本课例句为原创，未逐句母语审校。"
+    },
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?id=905",
+      "scope": "本课涉及的声音/词形/语法规则；编排与例句为原创",
+      "verification": "官方来源用于相关规则交叉核查；具体查核范围见content/sources/foundation-verification.md；本课例句为原创，未逐句母语审校。"
+    }
+  ],
+  "content_status": "authored_crosschecked_not_native_reviewed",
+  "quality_notes": [
+    "课程及题目原创；自动检查结构、唯一ID与答案。",
+    "已对照所列官方发音、数词、条件式、物主词等章节核查相应规则；其余内容做内部语言一致性复核，未逐句外部审校。",
+    "CEFR级别为教学编排，不构成官方达标或考试认证。"
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "Pre-A1-U01-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--text--737c6aecd3--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--text--737c6aecd3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U01-L01--2026.10.23.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "A, á, e, é, i, í, o, ó, u, ú, ů, y, ý. C, č, s, š, z, ž, r, ř. Čaj. Káva. Voda. Dobrý den. Prosím, ještě jednou. Jak se jmenujete? Jmenuju se Li. Děkuju. Na shledanou.",
+      "duration_seconds": 22.657369614512472,
+      "slow_duration_seconds": 25.188344671201815,
+      "sha256": "c2a87360da9c1029a211377932d89eb032e5026b5c6225597f61855ac91edee4",
+      "slow_sha256": "54789abc223817868eb539be96cf5f4311364c448fe9c4dd08a062a489a60afd"
+    },
+    {
+      "lesson_id": "Pre-A1-U01-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--text--737c6aecd3--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--text--737c6aecd3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U01-L01--2026.10.23.1--text--p0",
+      "asset_id": "Pre-A1-U01-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "A, á, e, é, i, í, o, ó, u, ú, ů, y, ý.",
+      "start": 0,
+      "end": 7.523265306122449,
+      "slow_start": 0,
+      "slow_end": 8.266303854875284
+    },
+    {
+      "lesson_id": "Pre-A1-U01-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--text--737c6aecd3--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--text--737c6aecd3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U01-L01--2026.10.23.1--text--s0",
+      "asset_id": "Pre-A1-U01-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "A, á, e, é, i, í, o, ó, u, ú, ů, y, ý.",
+      "start": 0,
+      "end": 7.523265306122449,
+      "slow_start": 0,
+      "slow_end": 8.266303854875284
+    },
+    {
+      "lesson_id": "Pre-A1-U01-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--text--737c6aecd3--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--text--737c6aecd3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U01-L01--2026.10.23.1--text--p1",
+      "asset_id": "Pre-A1-U01-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "C, č, s, š, z, ž, r, ř.",
+      "start": 7.703265306122449,
+      "end": 10.837959183673469,
+      "slow_start": 8.446303854875284,
+      "slow_end": 12.115056689342403
+    },
+    {
+      "lesson_id": "Pre-A1-U01-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--text--737c6aecd3--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--text--737c6aecd3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U01-L01--2026.10.23.1--text--s1",
+      "asset_id": "Pre-A1-U01-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 1,
+      "sentence_index": 0,
+      "text": "C, č, s, š, z, ž, r, ř.",
+      "start": 7.703265306122449,
+      "end": 10.837959183673469,
+      "slow_start": 8.446303854875284,
+      "slow_end": 12.115056689342403
+    },
+    {
+      "lesson_id": "Pre-A1-U01-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--text--737c6aecd3--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--text--737c6aecd3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U01-L01--2026.10.23.1--text--p2",
+      "asset_id": "Pre-A1-U01-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Čaj. Káva. Voda.",
+      "start": 11.017959183673469,
+      "end": 13.502585034013606,
+      "slow_start": 12.295056689342404,
+      "slow_end": 14.93061224489796
+    },
+    {
+      "lesson_id": "Pre-A1-U01-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--text--737c6aecd3--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--text--737c6aecd3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U01-L01--2026.10.23.1--text--s2",
+      "asset_id": "Pre-A1-U01-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 2,
+      "sentence_index": 0,
+      "text": "Čaj.",
+      "start": 11.017959183673469,
+      "end": 11.726167800453515,
+      "slow_start": 12.295056689342404,
+      "slow_end": 13.038095238095238
+    },
+    {
+      "lesson_id": "Pre-A1-U01-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--text--737c6aecd3--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--text--737c6aecd3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U01-L01--2026.10.23.1--text--s3",
+      "asset_id": "Pre-A1-U01-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 3,
+      "paragraph_index": 2,
+      "sentence_index": 1,
+      "text": "Káva.",
+      "start": 11.906167800453515,
+      "end": 12.567936507936508,
+      "slow_start": 13.218095238095238,
+      "slow_end": 13.91469387755102
+    },
+    {
+      "lesson_id": "Pre-A1-U01-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--text--737c6aecd3--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--text--737c6aecd3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U01-L01--2026.10.23.1--text--s4",
+      "asset_id": "Pre-A1-U01-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 4,
+      "paragraph_index": 2,
+      "sentence_index": 2,
+      "text": "Voda.",
+      "start": 12.747936507936508,
+      "end": 13.502585034013606,
+      "slow_start": 14.09469387755102,
+      "slow_end": 14.93061224489796
+    },
+    {
+      "lesson_id": "Pre-A1-U01-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--text--737c6aecd3--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--text--737c6aecd3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U01-L01--2026.10.23.1--text--p3",
+      "asset_id": "Pre-A1-U01-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Dobrý den.",
+      "start": 13.682585034013606,
+      "end": 14.739092970521542,
+      "slow_start": 15.11061224489796,
+      "slow_end": 16.271609977324264
+    },
+    {
+      "lesson_id": "Pre-A1-U01-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--text--737c6aecd3--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--text--737c6aecd3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U01-L01--2026.10.23.1--text--s5",
+      "asset_id": "Pre-A1-U01-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 5,
+      "paragraph_index": 3,
+      "sentence_index": 0,
+      "text": "Dobrý den.",
+      "start": 13.682585034013606,
+      "end": 14.739092970521542,
+      "slow_start": 15.11061224489796,
+      "slow_end": 16.271609977324264
+    },
+    {
+      "lesson_id": "Pre-A1-U01-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--text--737c6aecd3--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--text--737c6aecd3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U01-L01--2026.10.23.1--text--p4",
+      "asset_id": "Pre-A1-U01-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 4,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Prosím, ještě jednou.",
+      "start": 14.919092970521541,
+      "end": 16.881179138321997,
+      "slow_start": 16.451609977324264,
+      "slow_end": 18.72716553287982
+    },
+    {
+      "lesson_id": "Pre-A1-U01-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--text--737c6aecd3--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--text--737c6aecd3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U01-L01--2026.10.23.1--text--s6",
+      "asset_id": "Pre-A1-U01-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 6,
+      "paragraph_index": 4,
+      "sentence_index": 0,
+      "text": "Prosím, ještě jednou.",
+      "start": 14.919092970521541,
+      "end": 16.881179138321997,
+      "slow_start": 16.451609977324264,
+      "slow_end": 18.72716553287982
+    },
+    {
+      "lesson_id": "Pre-A1-U01-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--text--737c6aecd3--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--text--737c6aecd3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U01-L01--2026.10.23.1--text--p5",
+      "asset_id": "Pre-A1-U01-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 5,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Jak se jmenujete?",
+      "start": 17.061179138321997,
+      "end": 18.582086167800455,
+      "slow_start": 18.90716553287982,
+      "slow_end": 20.648662131519274
+    },
+    {
+      "lesson_id": "Pre-A1-U01-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--text--737c6aecd3--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--text--737c6aecd3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U01-L01--2026.10.23.1--text--s7",
+      "asset_id": "Pre-A1-U01-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 7,
+      "paragraph_index": 5,
+      "sentence_index": 0,
+      "text": "Jak se jmenujete?",
+      "start": 17.061179138321997,
+      "end": 18.582086167800455,
+      "slow_start": 18.90716553287982,
+      "slow_end": 20.648662131519274
+    },
+    {
+      "lesson_id": "Pre-A1-U01-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--text--737c6aecd3--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--text--737c6aecd3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U01-L01--2026.10.23.1--text--p6",
+      "asset_id": "Pre-A1-U01-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 6,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Jmenuju se Li.",
+      "start": 18.762086167800454,
+      "end": 20.12045351473923,
+      "slow_start": 20.828662131519273,
+      "slow_end": 22.37278911564626
+    },
+    {
+      "lesson_id": "Pre-A1-U01-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--text--737c6aecd3--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--text--737c6aecd3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U01-L01--2026.10.23.1--text--s8",
+      "asset_id": "Pre-A1-U01-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 8,
+      "paragraph_index": 6,
+      "sentence_index": 0,
+      "text": "Jmenuju se Li.",
+      "start": 18.762086167800454,
+      "end": 20.12045351473923,
+      "slow_start": 20.828662131519273,
+      "slow_end": 22.37278911564626
+    },
+    {
+      "lesson_id": "Pre-A1-U01-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--text--737c6aecd3--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--text--737c6aecd3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U01-L01--2026.10.23.1--text--p7",
+      "asset_id": "Pre-A1-U01-L01--2026.10.23.1--text",
+      "role": "text",
+      "index": 7,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Děkuju. Na shledanou.",
+      "start": 20.300453514739228,
+      "end": 22.477369614512472,
+      "slow_start": 22.55278911564626,
+      "slow_end": 25.008344671201815
+    },
+    {
+      "lesson_id": "Pre-A1-U01-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--text--737c6aecd3--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--text--737c6aecd3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U01-L01--2026.10.23.1--text--s9",
+      "asset_id": "Pre-A1-U01-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 9,
+      "paragraph_index": 7,
+      "sentence_index": 0,
+      "text": "Děkuju.",
+      "start": 20.300453514739228,
+      "end": 21.10154195011338,
+      "slow_start": 22.55278911564626,
+      "slow_end": 23.51641723356009
+    },
+    {
+      "lesson_id": "Pre-A1-U01-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--text--737c6aecd3--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--text--737c6aecd3--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U01-L01--2026.10.23.1--text--s10",
+      "asset_id": "Pre-A1-U01-L01--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 10,
+      "paragraph_index": 7,
+      "sentence_index": 1,
+      "text": "Na shledanou.",
+      "start": 21.28154195011338,
+      "end": 22.477369614512472,
+      "slow_start": 23.69641723356009,
+      "slow_end": 25.008344671201815
+    },
+    {
+      "lesson_id": "Pre-A1-U01-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--listening--2843f4f796--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--listening--2843f4f796--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U01-L01--2026.10.23.1--listening",
+      "role": "listening-full",
+      "index": 0,
+      "text": "Dobrý den. Jmenuju se Eva. Prosím, ještě jednou. Eva.",
+      "duration_seconds": 6.025759637188209,
+      "slow_duration_seconds": 6.60625850340136,
+      "sha256": "1a127e1c06b788f62470c0a4cf4916517c27c4d758ead70e5f607dca9bb80c28",
+      "slow_sha256": "69621bc90b1ebea464c4bcf4ca70bcae92f30eede337c35b137e15987cd7d80c"
+    },
+    {
+      "lesson_id": "Pre-A1-U01-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--listening--2843f4f796--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--listening--2843f4f796--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U01-L01--2026.10.23.1--listening--p0",
+      "asset_id": "Pre-A1-U01-L01--2026.10.23.1--listening",
+      "role": "listening",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Dobrý den.",
+      "start": 0,
+      "end": 1.1145578231292517,
+      "slow_start": 0,
+      "slow_end": 1.195827664399093
+    },
+    {
+      "lesson_id": "Pre-A1-U01-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--listening--2843f4f796--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--listening--2843f4f796--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U01-L01--2026.10.23.1--listening--p1",
+      "asset_id": "Pre-A1-U01-L01--2026.10.23.1--listening",
+      "role": "listening",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Jmenuju se Eva.",
+      "start": 1.2945578231292516,
+      "end": 2.8502947845804987,
+      "slow_start": 1.375827664399093,
+      "slow_end": 3.0824943310657598
+    },
+    {
+      "lesson_id": "Pre-A1-U01-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--listening--2843f4f796--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--listening--2843f4f796--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U01-L01--2026.10.23.1--listening--p2",
+      "asset_id": "Pre-A1-U01-L01--2026.10.23.1--listening",
+      "role": "listening",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Prosím, ještě jednou.",
+      "start": 3.030294784580499,
+      "end": 5.038820861678005,
+      "slow_start": 3.2624943310657595,
+      "slow_end": 5.514829931972789
+    },
+    {
+      "lesson_id": "Pre-A1-U01-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--listening--2843f4f796--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--listening--2843f4f796--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U01-L01--2026.10.23.1--listening--p3",
+      "asset_id": "Pre-A1-U01-L01--2026.10.23.1--listening",
+      "role": "listening",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Eva.",
+      "start": 5.2188208616780045,
+      "end": 5.845759637188209,
+      "slow_start": 5.694829931972789,
+      "slow_end": 6.42625850340136
+    },
+    {
+      "lesson_id": "Pre-A1-U01-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--vocabulary--01d551f185--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--vocabulary--01d551f185--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U01-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary-full",
+      "index": 0,
+      "text": "To je čaj. To je káva. To je voda. Prosím, ještě jednou.",
+      "duration_seconds": 5.72390022675737,
+      "slow_duration_seconds": 6.420498866213152,
+      "sha256": "8cad0fad1e705a2422fb6e2137c0f1d362247de16c551f6496571761bab0fadd",
+      "slow_sha256": "58d0730eb33b9d690703dfb9a2f131886ea07ce171d66d9850a586dd40c5cd89"
+    },
+    {
+      "lesson_id": "Pre-A1-U01-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--vocabulary--01d551f185--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--vocabulary--01d551f185--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U01-L01--2026.10.23.1--vocabulary--p0",
+      "asset_id": "Pre-A1-U01-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "To je čaj.",
+      "start": 0,
+      "end": 1.0100680272108844,
+      "slow_start": 0,
+      "slow_end": 1.2190476190476192
+    },
+    {
+      "lesson_id": "Pre-A1-U01-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--vocabulary--01d551f185--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--vocabulary--01d551f185--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U01-L01--2026.10.23.1--vocabulary--p1",
+      "asset_id": "Pre-A1-U01-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "To je káva.",
+      "start": 1.1900680272108843,
+      "end": 2.2233560090702946,
+      "slow_start": 1.399047619047619,
+      "slow_end": 2.5252154195011336
+    },
+    {
+      "lesson_id": "Pre-A1-U01-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--vocabulary--01d551f185--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--vocabulary--01d551f185--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U01-L01--2026.10.23.1--vocabulary--p2",
+      "asset_id": "Pre-A1-U01-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "To je voda.",
+      "start": 2.403356009070295,
+      "end": 3.390204081632653,
+      "slow_start": 2.7052154195011338,
+      "slow_end": 3.7733333333333334
+    },
+    {
+      "lesson_id": "Pre-A1-U01-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--vocabulary--01d551f185--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--vocabulary--01d551f185--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U01-L01--2026.10.23.1--vocabulary--p3",
+      "asset_id": "Pre-A1-U01-L01--2026.10.23.1--vocabulary",
+      "role": "vocabulary",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Prosím, ještě jednou.",
+      "start": 3.570204081632653,
+      "end": 5.54390022675737,
+      "slow_start": 3.953333333333333,
+      "slow_end": 6.2404988662131515
+    },
+    {
+      "lesson_id": "Pre-A1-U01-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--exercises--091e280cee--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--exercises--091e280cee--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U01-L01--2026.10.23.1--exercises",
+      "role": "exercises-full",
+      "index": 0,
+      "text": "čaj",
+      "duration_seconds": 0.8301587301587302,
+      "slow_duration_seconds": 0.9114285714285715,
+      "sha256": "6134285584891b9a26c8a61df663353a1c75c00f0f92c157033d467316d9c2d2",
+      "slow_sha256": "8dcd3950cf0bc643f0f09f93b408dafbbecbdf6441eb49517fecfef9f308fe25"
+    },
+    {
+      "lesson_id": "Pre-A1-U01-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--exercises--091e280cee--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--exercises--091e280cee--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U01-L01--2026.10.23.1--exercises--p0",
+      "asset_id": "Pre-A1-U01-L01--2026.10.23.1--exercises",
+      "role": "exercise",
+      "index": 0,
+      "exercise_id": "Pre-A1-U01-L01-E02",
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "čaj",
+      "start": 0,
+      "end": 0.6501587301587302,
+      "slow_start": 0,
+      "slow_end": 0.7314285714285714
+    },
+    {
+      "lesson_id": "Pre-A1-U01-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--contrasts--5e531fe5db--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--contrasts--5e531fe5db--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U01-L01--2026.10.23.1--contrasts",
+      "role": "contrasts-full",
+      "index": 0,
+      "text": "cena. čaj.",
+      "duration_seconds": 1.3177777777777777,
+      "slow_duration_seconds": 1.4338775510204083,
+      "sha256": "e3a014ed841076321115c660296e438ea4b9a58c7bb7b7451497deb345ed3f1d",
+      "slow_sha256": "236992483caa72d9d4884361079274c21fedf89fc509f912dc94ff5ae8ba112b"
+    },
+    {
+      "lesson_id": "Pre-A1-U01-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--contrasts--5e531fe5db--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--contrasts--5e531fe5db--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U01-L01--2026.10.23.1--contrasts--p0",
+      "asset_id": "Pre-A1-U01-L01--2026.10.23.1--contrasts",
+      "role": "contrast",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "cena. čaj.",
+      "start": 0,
+      "end": 1.1377777777777778,
+      "slow_start": 0,
+      "slow_end": 1.253877551020408
+    },
+    {
+      "lesson_id": "Pre-A1-U01-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--scenario-SC-Pre-A1-01--a3cb626ddf--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--scenario-SC-Pre-A1-01--a3cb626ddf--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U01-L01--2026.10.23.1--scenario-SC-Pre-A1-01",
+      "role": "scenario-SC-Pre-A1-01-full",
+      "index": 0,
+      "text": "Jana, nebo Hana? Jana. J-A-N-A. Je to správně? Prosím, které jméno? Jana? Hana? Dobře, Jana. Děkuji. Tady: JANA.",
+      "duration_seconds": 12.53922902494331,
+      "slow_duration_seconds": 14.048526077097506,
+      "sha256": "2c39ad2d79c3827cc3c276e95570cb0a2a2aeb686b326a35c73a7bf2bac8c699",
+      "slow_sha256": "ed65b61e5ab70af61965614172005f56cb808dff4eb0313f5ff18d47b7cfdf58"
+    },
+    {
+      "lesson_id": "Pre-A1-U01-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--scenario-SC-Pre-A1-01--a3cb626ddf--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--scenario-SC-Pre-A1-01--a3cb626ddf--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U01-L01--2026.10.23.1--scenario-SC-Pre-A1-01--p0",
+      "asset_id": "Pre-A1-U01-L01--2026.10.23.1--scenario-SC-Pre-A1-01",
+      "role": "scenario",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": "SC-Pre-A1-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "start",
+      "text": "Jana, nebo Hana?",
+      "start": 0,
+      "end": 1.5441269841269842,
+      "slow_start": 0,
+      "slow_end": 1.7414965986394557
+    },
+    {
+      "lesson_id": "Pre-A1-U01-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--scenario-SC-Pre-A1-01--a3cb626ddf--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--scenario-SC-Pre-A1-01--a3cb626ddf--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U01-L01--2026.10.23.1--scenario-SC-Pre-A1-01--p1",
+      "asset_id": "Pre-A1-U01-L01--2026.10.23.1--scenario-SC-Pre-A1-01",
+      "role": "scenario",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": "SC-Pre-A1-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "spell",
+      "text": "Jana. J-A-N-A. Je to správně?",
+      "start": 1.7241269841269842,
+      "end": 4.847301587301588,
+      "slow_start": 1.9214965986394559,
+      "slow_end": 5.462630385487528
+    },
+    {
+      "lesson_id": "Pre-A1-U01-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--scenario-SC-Pre-A1-01--a3cb626ddf--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--scenario-SC-Pre-A1-01--a3cb626ddf--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U01-L01--2026.10.23.1--scenario-SC-Pre-A1-01--p2",
+      "asset_id": "Pre-A1-U01-L01--2026.10.23.1--scenario-SC-Pre-A1-01",
+      "role": "scenario",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": "SC-Pre-A1-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "repair",
+      "text": "Prosím, které jméno? Jana? Hana?",
+      "start": 5.027301587301587,
+      "end": 8.591655328798186,
+      "slow_start": 5.642630385487529,
+      "slow_end": 9.671383219954649
+    },
+    {
+      "lesson_id": "Pre-A1-U01-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--scenario-SC-Pre-A1-01--a3cb626ddf--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--scenario-SC-Pre-A1-01--a3cb626ddf--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U01-L01--2026.10.23.1--scenario-SC-Pre-A1-01--p3",
+      "asset_id": "Pre-A1-U01-L01--2026.10.23.1--scenario-SC-Pre-A1-01",
+      "role": "scenario",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": "SC-Pre-A1-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "done",
+      "text": "Dobře, Jana. Děkuji.",
+      "start": 8.771655328798186,
+      "end": 11.053061224489795,
+      "slow_start": 9.851383219954648,
+      "slow_end": 12.411428571428571
+    },
+    {
+      "lesson_id": "Pre-A1-U01-L01",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--scenario-SC-Pre-A1-01--a3cb626ddf--normal.mp3",
+      "slow_file": "audio/files/Pre-A1-U01-L01--2026.10.22.1--scenario-SC-Pre-A1-01--a3cb626ddf--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "Pre-A1-U01-L01--2026.10.23.1--scenario-SC-Pre-A1-01--p4",
+      "asset_id": "Pre-A1-U01-L01--2026.10.23.1--scenario-SC-Pre-A1-01",
+      "role": "scenario",
+      "index": 4,
+      "exercise_id": null,
+      "scenario_id": "SC-Pre-A1-01",
+      "scenario_version": "2026.10.22.1",
+      "node_id": "written",
+      "text": "Tady: JANA.",
+      "start": 11.233061224489797,
+      "end": 12.35922902494331,
+      "slow_start": 12.59142857142857,
+      "slow_end": 13.868526077097506
+    }
+  ]
+}

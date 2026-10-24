@@ -1,0 +1,84 @@
+{
+  "id": "C2-U09-CHECK--2026.10.22.1--text",
+  "lesson_id": "C2-U09-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "C2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Při zkoušce trvaly čtyři opravy dvě, dvě, čtyři a osm hodin. Zpráva uvádí průměr čtyři hodiny. Čas čekání na díly se měřil zvlášť. Reklamní věta však slibuje opravu včetně dílů každému do čtyř hodin.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Při zkoušce trvaly čtyři opravy dvě, dvě, čtyři a osm hodin.",
+        "Zpráva uvádí průměr čtyři hodiny.",
+        "Čas čekání na díly se měřil zvlášť.",
+        "Reklamní věta však slibuje opravu včetně dílů každému do čtyř hodin."
+      ]
+    }
+  ],
+  "text_sha256": "110044a4d6e0ba17398874e546448ee28657ab8e4f4c75a183d72ca73c7a33d3",
+  "source_file": "content/assessments/C2-U09.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U09-CHECK--2026.10.22.1--text--110044a4d6--normal.mp3",
+  "slow_file": "content/audio/files/C2-U09-CHECK--2026.10.22.1--text--110044a4d6--slow.mp3",
+  "duration_seconds": 18.483265306122448,
+  "slow_duration_seconds": 21.025850340136053,
+  "cues": [
+    {
+      "text": "Při zkoušce trvaly čtyři opravy dvě, dvě, čtyři a osm hodin. Zpráva uvádí průměr čtyři hodiny. Čas čekání na díly se měřil zvlášť. Reklamní věta však slibuje opravu včetně dílů každému do čtyř hodin.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Při zkoušce trvaly čtyři opravy dvě, dvě, čtyři a osm hodin.",
+        "Zpráva uvádí průměr čtyři hodiny.",
+        "Čas čekání na díly se měřil zvlášť.",
+        "Reklamní věta však slibuje opravu včetně dílů každému do čtyř hodin."
+      ],
+      "start": 0.0,
+      "end": 18.303265306122448,
+      "sentences": [
+        {
+          "text": "Při zkoušce trvaly čtyři opravy dvě, dvě, čtyři a osm hodin.",
+          "start": 0.0,
+          "end": 5.12,
+          "slow_start": 0.0,
+          "slow_end": 5.909478458049887
+        },
+        {
+          "text": "Zpráva uvádí průměr čtyři hodiny.",
+          "start": 5.3,
+          "end": 8.481133786848073,
+          "slow_start": 6.089478458049887,
+          "slow_end": 9.76984126984127
+        },
+        {
+          "text": "Čas čekání na díly se měřil zvlášť.",
+          "start": 8.661133786848072,
+          "end": 12.109297052154195,
+          "slow_start": 9.94984126984127,
+          "slow_end": 13.815963718820862
+        },
+        {
+          "text": "Reklamní věta však slibuje opravu včetně dílů každému do čtyř hodin.",
+          "start": 12.289297052154195,
+          "end": 18.303265306122448,
+          "slow_start": 13.995963718820862,
+          "slow_end": 20.845850340136053
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 20.845850340136053
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "26acdc2a37e26d91f72137b6574042aa2594f446bdb89602b8df24ca28cb4730",
+    "slow": "75c21a59db28fc891065b8c423f39511656e2a84df96462043ef11ce2c23c465"
+  }
+}

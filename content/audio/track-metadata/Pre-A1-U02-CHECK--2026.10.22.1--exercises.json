@@ -1,0 +1,59 @@
+{
+  "id": "Pre-A1-U02-CHECK--2026.10.22.1--exercises",
+  "lesson_id": "Pre-A1-U02-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "Pre-A1",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "byt",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "Pre-A1-U02-CHECK-E01",
+      "parts": [
+        "byt"
+      ]
+    }
+  ],
+  "text_sha256": "c78920c842679d21dd1e66b5de1afbf5cfb436e591859be0cd9a82276706de6a",
+  "source_file": "content/assessments/Pre-A1-U02.json",
+  "status": "generated",
+  "file": "content/audio/files/Pre-A1-U02-CHECK--2026.10.22.1--exercises--c78920c842--normal.mp3",
+  "slow_file": "content/audio/files/Pre-A1-U02-CHECK--2026.10.22.1--exercises--c78920c842--slow.mp3",
+  "duration_seconds": 0.9114285714285715,
+  "slow_duration_seconds": 1.050748299319728,
+  "cues": [
+    {
+      "text": "byt",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "Pre-A1-U02-CHECK-E01",
+      "parts": [
+        "byt"
+      ],
+      "start": 0.0,
+      "end": 0.7314285714285714,
+      "sentences": [
+        {
+          "text": "byt",
+          "start": 0.0,
+          "end": 0.7314285714285714,
+          "slow_start": 0.0,
+          "slow_end": 0.8707482993197279
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 0.8707482993197279
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "74c7705747c360827a31968719e8ff74bd4aa3b1ab1066029c109c1e7cbe2115",
+    "slow": "3d87d5f3f85faea5e54e9845fe60de16ab9b204bc73458486620c5daa436ef5c"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "A1-U07-CHECK--2026.10.22.1--text",
+  "lesson_id": "A1-U07-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "A1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Petr má bratra. Jeho bratr je lékař a rád plave. Petr rád vaří.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Petr má bratra.",
+        "Jeho bratr je lékař a rád plave.",
+        "Petr rád vaří."
+      ]
+    }
+  ],
+  "text_sha256": "1c5a697c17eb67dd75c21b6e267b38e0c14a2f3902e335a8fae001d556e7b359",
+  "source_file": "content/assessments/A1-U07.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U07-CHECK--2026.10.22.1--text--1c5a697c17--normal.mp3",
+  "slow_file": "content/audio/files/A1-U07-CHECK--2026.10.22.1--text--1c5a697c17--slow.mp3",
+  "duration_seconds": 6.995147392290249,
+  "slow_duration_seconds": 7.807845804988662,
+  "cues": [
+    {
+      "text": "Petr má bratra. Jeho bratr je lékař a rád plave. Petr rád vaří.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Petr má bratra.",
+        "Jeho bratr je lékař a rád plave.",
+        "Petr rád vaří."
+      ],
+      "start": 0.0,
+      "end": 6.81514739229025,
+      "sentences": [
+        {
+          "text": "Petr má bratra.",
+          "start": 0.0,
+          "end": 1.6486167800453515,
+          "slow_start": 0.0,
+          "slow_end": 1.8343764172335602
+        },
+        {
+          "text": "Jeho bratr je lékař a rád plave.",
+          "start": 1.8286167800453514,
+          "end": 5.021360544217687,
+          "slow_start": 2.01437641723356,
+          "slow_end": 5.590249433106576
+        },
+        {
+          "text": "Petr rád vaří.",
+          "start": 5.201360544217687,
+          "end": 6.81514739229025,
+          "slow_start": 5.770249433106576,
+          "slow_end": 7.627845804988662
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 7.627845804988662
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "c6d96580b50c4addec85eb58db35db582f6c9691a01e1100f526fbd0a026d97f",
+    "slow": "30156c2fe9d7cacafeecd843c4088d1be26534d7f3ff0d593762401774c6fd79"
+  }
+}

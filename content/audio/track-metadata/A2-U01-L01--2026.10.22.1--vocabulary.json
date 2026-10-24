@@ -1,0 +1,202 @@
+{
+  "id": "A2-U01-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "A2-U01-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Včera jsem pracoval.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Včera jsem pracoval."
+      ]
+    },
+    {
+      "text": "Musel jsem se vrátit.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Musel jsem se vrátit."
+      ]
+    },
+    {
+      "text": "Zapomněl jsem adresu.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Zapomněl jsem adresu."
+      ]
+    },
+    {
+      "text": "Zůstali jsme doma.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Zůstali jsme doma."
+      ]
+    },
+    {
+      "text": "Plánujeme další týden.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Plánujeme další týden."
+      ]
+    },
+    {
+      "text": "Čekám na telefonát.",
+      "index": 5,
+      "role": "vocabulary",
+      "parts": [
+        "Čekám na telefonát."
+      ]
+    }
+  ],
+  "text_sha256": "d848e2393fbe1b926c7209485f8f75125c45250f9d3807b8b157b6cddfc21dc9",
+  "source_file": "content/lessons/A2/A2-U01-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U01-L01--2026.10.22.1--vocabulary--d848e2393f--normal.mp3",
+  "slow_file": "content/audio/files/A2-U01-L01--2026.10.22.1--vocabulary--d848e2393f--slow.mp3",
+  "duration_seconds": 12.782857142857143,
+  "slow_duration_seconds": 14.466303854875283,
+  "cues": [
+    {
+      "text": "Včera jsem pracoval.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Včera jsem pracoval."
+      ],
+      "start": 0.0,
+      "end": 1.822766439909297,
+      "sentences": [
+        {
+          "text": "Včera jsem pracoval.",
+          "start": 0.0,
+          "end": 1.822766439909297,
+          "slow_start": 0.0,
+          "slow_end": 2.10140589569161
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.10140589569161
+    },
+    {
+      "text": "Musel jsem se vrátit.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Musel jsem se vrátit."
+      ],
+      "start": 2.0027664399092973,
+      "end": 4.220272108843537,
+      "sentences": [
+        {
+          "text": "Musel jsem se vrátit.",
+          "start": 2.0027664399092973,
+          "end": 4.220272108843537,
+          "slow_start": 2.28140589569161,
+          "slow_end": 4.858820861678004
+        }
+      ],
+      "slow_start": 2.28140589569161,
+      "slow_end": 4.858820861678004
+    },
+    {
+      "text": "Zapomněl jsem adresu.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Zapomněl jsem adresu."
+      ],
+      "start": 4.400272108843537,
+      "end": 6.629387755102041,
+      "sentences": [
+        {
+          "text": "Zapomněl jsem adresu.",
+          "start": 4.400272108843537,
+          "end": 6.629387755102041,
+          "slow_start": 5.038820861678005,
+          "slow_end": 7.569795918367347
+        }
+      ],
+      "slow_start": 5.038820861678005,
+      "slow_end": 7.569795918367347
+    },
+    {
+      "text": "Zůstali jsme doma.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Zůstali jsme doma."
+      ],
+      "start": 6.8093877551020405,
+      "end": 8.237414965986394,
+      "sentences": [
+        {
+          "text": "Zůstali jsme doma.",
+          "start": 6.8093877551020405,
+          "end": 8.237414965986394,
+          "slow_start": 7.749795918367347,
+          "slow_end": 9.375192743764172
+        }
+      ],
+      "slow_start": 7.749795918367347,
+      "slow_end": 9.375192743764172
+    },
+    {
+      "text": "Plánujeme další týden.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Plánujeme další týden."
+      ],
+      "start": 8.417414965986394,
+      "end": 10.449160997732426,
+      "sentences": [
+        {
+          "text": "Plánujeme další týden.",
+          "start": 8.417414965986394,
+          "end": 10.449160997732426,
+          "slow_start": 9.555192743764172,
+          "slow_end": 11.865578231292517
+        }
+      ],
+      "slow_start": 9.555192743764172,
+      "slow_end": 11.865578231292517
+    },
+    {
+      "text": "Čekám na telefonát.",
+      "index": 5,
+      "role": "vocabulary",
+      "parts": [
+        "Čekám na telefonát."
+      ],
+      "start": 10.629160997732427,
+      "end": 12.602857142857143,
+      "sentences": [
+        {
+          "text": "Čekám na telefonát.",
+          "start": 10.629160997732427,
+          "end": 12.602857142857143,
+          "slow_start": 12.045578231292517,
+          "slow_end": 14.286303854875284
+        }
+      ],
+      "slow_start": 12.045578231292517,
+      "slow_end": 14.286303854875284
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "36c214290a292cf9b0d1b8836838ddcd3f89312394f41f3f669f1ed882201fc9",
+    "slow": "826dcb1a8ee050f5c4e581d6b77a21b19c1ba10fe592ce3772293a884c386938"
+  }
+}

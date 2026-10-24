@@ -1,0 +1,236 @@
+{
+  "id": "A1-U02-CHECK",
+  "kind": "unit",
+  "level": "A1",
+  "unit_id": "A1-U02",
+  "title_zh": "东西也有语法性别：换情境独立完成",
+  "version": "2026.10.22.1",
+  "unseen_text": [
+    {
+      "cs": "To je malé auto. Ten řidič je můj kolega.",
+      "zh": "这是一辆小汽车。那位司机是我的同事。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "cs": "Ta mapa je stará.",
+      "zh": "那张地图旧了。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "prompt_zh": "填“新的汽车”中的形容词。",
+      "stimulus_cs": "___ auto",
+      "answer": "nové",
+      "accepted_answers": [
+        "nové"
+      ],
+      "explanation_zh": "auto中性。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "A1-U02-CHECK-E01",
+      "knowledge_points": [
+        "noun-gender",
+        "animacy-intro"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "řidič属于哪类？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "阳性有生"
+        },
+        {
+          "id": "b",
+          "text": "阳性无生"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "司机是阳性有生名词。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "A1-U02-CHECK-E02",
+      "knowledge_points": [
+        "noun-gender",
+        "animacy-intro"
+      ]
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "介绍一辆车及一张地图，不照抄材料形容词。",
+      "stimulus_cs": "",
+      "answer": "To auto je nové. Ta mapa je velká.",
+      "accepted_answers": [],
+      "explanation_zh": "检查中性与阴性。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A1-U02-CHECK-E03",
+      "knowledge_points": [
+        "noun-gender",
+        "animacy-intro"
+      ]
+    }
+  ],
+  "rubric": [
+    "能提取新材料中的关键事实，不靠背诵原文",
+    "能根据变化的条件组织一句或一段表达",
+    "能指出不确定之处并请求澄清"
+  ],
+  "remediation": [
+    {
+      "condition_zh": "目标规律使用不稳定或未能提取关键信息",
+      "lesson_ids": [
+        "A1-U02-L01"
+      ],
+      "action_zh": "返回规律卡，对照两例；隔一次其他练习后重做未见情境。"
+    }
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "A1-U02-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U02-CHECK--2026.10.22.1--text--d1159f83d2--normal.mp3",
+      "slow_file": "audio/files/A1-U02-CHECK--2026.10.22.1--text--d1159f83d2--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U02-CHECK--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "To je malé auto. Ten řidič je můj kolega. Ta mapa je stará.",
+      "duration_seconds": 5.810929705215419,
+      "slow_duration_seconds": 6.414648526077097,
+      "sha256": "e0a2f2f3e9a416153a2b15e308c5ed50463453f529e29e05f55785be6c70d519",
+      "slow_sha256": "f4b3b66ec5cdca6f4ff5da83dac71ccdb246287d6c8881b678b08f5a426c19d7"
+    },
+    {
+      "lesson_id": "A1-U02-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U02-CHECK--2026.10.22.1--text--d1159f83d2--normal.mp3",
+      "slow_file": "audio/files/A1-U02-CHECK--2026.10.22.1--text--d1159f83d2--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U02-CHECK--2026.10.22.1--text--p0",
+      "asset_id": "A1-U02-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "To je malé auto. Ten řidič je můj kolega.",
+      "start": 0,
+      "end": 4.0345124716553284,
+      "slow_start": 0,
+      "slow_end": 4.487301587301587
+    },
+    {
+      "lesson_id": "A1-U02-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U02-CHECK--2026.10.22.1--text--d1159f83d2--normal.mp3",
+      "slow_file": "audio/files/A1-U02-CHECK--2026.10.22.1--text--d1159f83d2--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U02-CHECK--2026.10.22.1--text--s0",
+      "asset_id": "A1-U02-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "To je malé auto.",
+      "start": 0,
+      "end": 1.5905668934240362,
+      "slow_start": 0,
+      "slow_end": 1.7647165532879818
+    },
+    {
+      "lesson_id": "A1-U02-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U02-CHECK--2026.10.22.1--text--d1159f83d2--normal.mp3",
+      "slow_file": "audio/files/A1-U02-CHECK--2026.10.22.1--text--d1159f83d2--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U02-CHECK--2026.10.22.1--text--s1",
+      "asset_id": "A1-U02-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Ten řidič je můj kolega.",
+      "start": 1.7705668934240364,
+      "end": 4.0345124716553284,
+      "slow_start": 1.9447165532879818,
+      "slow_end": 4.487301587301587
+    },
+    {
+      "lesson_id": "A1-U02-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U02-CHECK--2026.10.22.1--text--d1159f83d2--normal.mp3",
+      "slow_file": "audio/files/A1-U02-CHECK--2026.10.22.1--text--d1159f83d2--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U02-CHECK--2026.10.22.1--text--p1",
+      "asset_id": "A1-U02-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Ta mapa je stará.",
+      "start": 4.214512471655329,
+      "end": 5.6309297052154195,
+      "slow_start": 4.667301587301587,
+      "slow_end": 6.234648526077097
+    },
+    {
+      "lesson_id": "A1-U02-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U02-CHECK--2026.10.22.1--text--d1159f83d2--normal.mp3",
+      "slow_file": "audio/files/A1-U02-CHECK--2026.10.22.1--text--d1159f83d2--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U02-CHECK--2026.10.22.1--text--s2",
+      "asset_id": "A1-U02-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 1,
+      "sentence_index": 0,
+      "text": "Ta mapa je stará.",
+      "start": 4.214512471655329,
+      "end": 5.6309297052154195,
+      "slow_start": 4.667301587301587,
+      "slow_end": 6.234648526077097
+    }
+  ]
+}

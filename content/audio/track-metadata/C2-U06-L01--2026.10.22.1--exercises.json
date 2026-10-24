@@ -1,0 +1,59 @@
+{
+  "id": "C2-U06-L01--2026.10.22.1--exercises",
+  "lesson_id": "C2-U06-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C2",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Dnes vám potvrdíme další krok, nikoli nutně datum dodání.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "C2-U06-L01-E06",
+      "parts": [
+        "Dnes vám potvrdíme další krok, nikoli nutně datum dodání."
+      ]
+    }
+  ],
+  "text_sha256": "35184c0d576b7ad98eb66c5e29198bc889e9f178f5e3493d1fd2174acc7e242b",
+  "source_file": "content/lessons/C2/C2-U06-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U06-L01--2026.10.22.1--exercises--35184c0d57--normal.mp3",
+  "slow_file": "content/audio/files/C2-U06-L01--2026.10.22.1--exercises--35184c0d57--slow.mp3",
+  "duration_seconds": 5.323219954648526,
+  "slow_duration_seconds": 5.926938775510204,
+  "cues": [
+    {
+      "text": "Dnes vám potvrdíme další krok, nikoli nutně datum dodání.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "C2-U06-L01-E06",
+      "parts": [
+        "Dnes vám potvrdíme další krok, nikoli nutně datum dodání."
+      ],
+      "start": 0.0,
+      "end": 5.143219954648526,
+      "sentences": [
+        {
+          "text": "Dnes vám potvrdíme další krok, nikoli nutně datum dodání.",
+          "start": 0.0,
+          "end": 5.143219954648526,
+          "slow_start": 0.0,
+          "slow_end": 5.746938775510204
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 5.746938775510204
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "33a5602650b42cc85f080e48e3d278ee18c85b004a7f12564af9fa52118ce07c",
+    "slow": "c2c2faac611e403b71133009c9027db6caec11252100f04c5180c8ff00785c80"
+  }
+}

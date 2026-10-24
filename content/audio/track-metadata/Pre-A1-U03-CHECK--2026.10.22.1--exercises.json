@@ -1,0 +1,59 @@
+{
+  "id": "Pre-A1-U03-CHECK--2026.10.22.1--exercises",
+  "lesson_id": "Pre-A1-U03-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "Pre-A1",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Tady jsou tři židle.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "Pre-A1-U03-CHECK-E01",
+      "parts": [
+        "Tady jsou tři židle."
+      ]
+    }
+  ],
+  "text_sha256": "403d2e7ab329f20f5ec0c40482d2bca330981eb021fe627a0520de2d03a0ec86",
+  "source_file": "content/assessments/Pre-A1-U03.json",
+  "status": "generated",
+  "file": "content/audio/files/Pre-A1-U03-CHECK--2026.10.22.1--exercises--403d2e7ab3--normal.mp3",
+  "slow_file": "content/audio/files/Pre-A1-U03-CHECK--2026.10.22.1--exercises--403d2e7ab3--slow.mp3",
+  "duration_seconds": 1.8518367346938776,
+  "slow_duration_seconds": 2.049206349206349,
+  "cues": [
+    {
+      "text": "Tady jsou tři židle.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "Pre-A1-U03-CHECK-E01",
+      "parts": [
+        "Tady jsou tři židle."
+      ],
+      "start": 0.0,
+      "end": 1.6718367346938776,
+      "sentences": [
+        {
+          "text": "Tady jsou tři židle.",
+          "start": 0.0,
+          "end": 1.6718367346938776,
+          "slow_start": 0.0,
+          "slow_end": 1.8692063492063493
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.8692063492063493
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "c673a500f6ddf717a94f648be3b4c619fb28317811715f9a9d7359d537eae400",
+    "slow": "e2f9711fd4173a4854441389269149c58259971722def79166b6b91d1efd8787"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "B1-U04-L01--2026.10.22.1--contrasts",
+  "lesson_id": "B1-U04-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "proto. protože.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "proto. protože."
+      ]
+    }
+  ],
+  "text_sha256": "f08d6a3a0a2712268c20297217105ec9816219f694163dc8b4d7fdc5df5ed801",
+  "source_file": "content/lessons/B1/B1-U04-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U04-L01--2026.10.22.1--contrasts--f08d6a3a0a--normal.mp3",
+  "slow_file": "content/audio/files/B1-U04-L01--2026.10.22.1--contrasts--f08d6a3a0a--slow.mp3",
+  "duration_seconds": 1.399047619047619,
+  "slow_duration_seconds": 1.6544671201814058,
+  "cues": [
+    {
+      "text": "proto. protože.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "proto. protože."
+      ],
+      "start": 0.0,
+      "end": 1.2190476190476192,
+      "sentences": [
+        {
+          "text": "proto. protože.",
+          "start": 0.0,
+          "end": 1.2190476190476192,
+          "slow_start": 0.0,
+          "slow_end": 1.474467120181406
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.474467120181406
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "53a7c5b6c811eb2300504bbcb637ba732535235023fe519bfd9324145e226334",
+    "slow": "751611f2f4a238886dc3c39a954a2b85365a6e93d4eded76f6453784d8e4ef71"
+  }
+}

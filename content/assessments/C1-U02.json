@@ -1,0 +1,200 @@
+{
+  "id": "C1-U02-CHECK",
+  "kind": "unit",
+  "level": "C1",
+  "unit_id": "C1-U02",
+  "title_zh": "把长句拆成可追踪的逻辑：新情境检验",
+  "version": "2026.10.22.1",
+  "unseen_text": [
+    {
+      "cs": "Knihovna připraví večerní program, pokud se přihlásí dost dobrovolníků, kteří po krátkém školení zajistí dohled. Toto opatření má umožnit delší provoz; neznamená však omezení běžných služeb.",
+      "zh": "图书馆在有足够志愿者经短训负责值守的条件下准备晚间活动；该措施延长开放，不减少常规服务。"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "晚间活动依赖哪个条件？",
+      "stimulus_cs": "",
+      "answer": "a",
+      "explanation_zh": "条件从句限定活动准备。",
+      "skill_ids": [
+        "reading"
+      ],
+      "knowledge_points": [
+        "c1-clause-hierarchy",
+        "c1-reference-chain"
+      ],
+      "error_category": "comprehension",
+      "options": [
+        {
+          "id": "a",
+          "text": "足够受训志愿者值守"
+        },
+        {
+          "id": "b",
+          "text": "减少日间服务"
+        },
+        {
+          "id": "c",
+          "text": "所有读者报名"
+        }
+      ],
+      "scoring_basis": "封闭题以答案核对；解析说明本题边界。",
+      "id": "C1-U02-CHECK-E01"
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "把材料改写成三句易懂捷语，保留全部条件。",
+      "stimulus_cs": "",
+      "answer": "Knihovna chce nabídnout večerní program. Potřebuje dost dobrovolníků, kteří projdou školením a zajistí dohled. Běžné služby zůstanou zachovány.",
+      "explanation_zh": "结构可以变化，但限定不能消失。",
+      "skill_ids": [
+        "writing"
+      ],
+      "knowledge_points": [
+        "c1-clause-hierarchy",
+        "c1-reference-chain"
+      ],
+      "error_category": "comprehension",
+      "rubric": [
+        "回应具体任务，信息不失真",
+        "逻辑有衔接，能说明证据与限制",
+        "语法与搭配基本准确，语域适合对象",
+        "能自主组织语言而非照读范文"
+      ],
+      "scoring_basis": "开放表达：示范不是唯一答案；依量规自评或人工评阅，未接受人工评阅时不自动判定能力达标。",
+      "id": "C1-U02-CHECK-E02"
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "指出 Toto opatření 在这里为什么仍可能需要更明确的名词。",
+      "stimulus_cs": "",
+      "answer": "Čtenář může váhat, zda jde o školení, nebo o zapojení dobrovolníků. Lze napsat: Zapojení vyškolených dobrovolníků umožní delší provoz.",
+      "explanation_zh": "提出候选指代与具体修订。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "knowledge_points": [
+        "c1-clause-hierarchy",
+        "c1-reference-chain"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "回应具体任务，信息不失真",
+        "逻辑有衔接，能说明证据与限制",
+        "语法与搭配基本准确，语域适合对象",
+        "能自主组织语言而非照读范文"
+      ],
+      "scoring_basis": "开放表达：示范不是唯一答案；依量规自评或人工评阅，未接受人工评阅时不自动判定能力达标。",
+      "id": "C1-U02-CHECK-E03"
+    }
+  ],
+  "rubric": [
+    "理解未见材料中的主张及限定",
+    "主动表达时准确转述不同立场",
+    "区分事实、推断与建议",
+    "能针对误解调整解释方式"
+  ],
+  "remediation": [
+    {
+      "condition_zh": "误把可能性说成事实，或遗漏反方条件",
+      "lesson_ids": [
+        "C1-U02-L01"
+      ],
+      "action_zh": "重做信息定位与转述，标出每个判断的来源和语气词。"
+    },
+    {
+      "condition_zh": "表达卡住或只有单句结论",
+      "lesson_ids": [
+        "C1-U02-L01"
+      ],
+      "action_zh": "先列论点—依据—限制—行动四点，再换对象重录一次。"
+    }
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "C1-U02-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U02-CHECK--2026.10.22.1--text--5e82ad6096--normal.mp3",
+      "slow_file": "audio/files/C1-U02-CHECK--2026.10.22.1--text--5e82ad6096--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U02-CHECK--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Knihovna připraví večerní program, pokud se přihlásí dost dobrovolníků, kteří po krátkém školení zajistí dohled. Toto opatření má umožnit delší provoz; neznamená však omezení běžných služeb.",
+      "duration_seconds": 16.93904761904762,
+      "slow_duration_seconds": 18.90113378684807,
+      "sha256": "37fa6a4e47282e0be3ef1ff8d001ef856f1b0b5f96463951ea6f117203809950",
+      "slow_sha256": "549ad6148c2d4c9b5b368e85593983a89fa40298710d188f4cbba2459796502e"
+    },
+    {
+      "lesson_id": "C1-U02-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U02-CHECK--2026.10.22.1--text--5e82ad6096--normal.mp3",
+      "slow_file": "audio/files/C1-U02-CHECK--2026.10.22.1--text--5e82ad6096--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U02-CHECK--2026.10.22.1--text--p0",
+      "asset_id": "C1-U02-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Knihovna připraví večerní program, pokud se přihlásí dost dobrovolníků, kteří po krátkém školení zajistí dohled. Toto opatření má umožnit delší provoz; neznamená však omezení běžných služeb.",
+      "start": 0,
+      "end": 16.759047619047617,
+      "slow_start": 0,
+      "slow_end": 18.72113378684807
+    },
+    {
+      "lesson_id": "C1-U02-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U02-CHECK--2026.10.22.1--text--5e82ad6096--normal.mp3",
+      "slow_file": "audio/files/C1-U02-CHECK--2026.10.22.1--text--5e82ad6096--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U02-CHECK--2026.10.22.1--text--s0",
+      "asset_id": "C1-U02-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Knihovna připraví večerní program, pokud se přihlásí dost dobrovolníků, kteří po krátkém školení zajistí dohled.",
+      "start": 0,
+      "end": 9.7059410430839,
+      "slow_start": 0,
+      "slow_end": 10.820498866213152
+    },
+    {
+      "lesson_id": "C1-U02-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/C1-U02-CHECK--2026.10.22.1--text--5e82ad6096--normal.mp3",
+      "slow_file": "audio/files/C1-U02-CHECK--2026.10.22.1--text--5e82ad6096--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "C1-U02-CHECK--2026.10.22.1--text--s1",
+      "asset_id": "C1-U02-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Toto opatření má umožnit delší provoz; neznamená však omezení běžných služeb.",
+      "start": 9.8859410430839,
+      "end": 16.759047619047617,
+      "slow_start": 11.000498866213151,
+      "slow_end": 18.72113378684807
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "B2-U09-CHECK--2026.10.22.1--text",
+  "lesson_id": "B2-U09-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "B2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Nabídka A uvádí cenu za jeden den bez materiálu. Nabídka B je za dva dny včetně základního materiálu. Účastník může přijít jen první den a nabídka B se nekrátí.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Nabídka A uvádí cenu za jeden den bez materiálu.",
+        "Nabídka B je za dva dny včetně základního materiálu.",
+        "Účastník může přijít jen první den a nabídka B se nekrátí."
+      ]
+    }
+  ],
+  "text_sha256": "5e1daf3ba5cc1506b842e24b9d3daa93f26fbb671d290743051517af4e08a739",
+  "source_file": "content/assessments/B2-U09.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U09-CHECK--2026.10.22.1--text--5e1daf3ba5--normal.mp3",
+  "slow_file": "content/audio/files/B2-U09-CHECK--2026.10.22.1--text--5e1daf3ba5--slow.mp3",
+  "duration_seconds": 15.447210884353742,
+  "slow_duration_seconds": 17.409297052154194,
+  "cues": [
+    {
+      "text": "Nabídka A uvádí cenu za jeden den bez materiálu. Nabídka B je za dva dny včetně základního materiálu. Účastník může přijít jen první den a nabídka B se nekrátí.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Nabídka A uvádí cenu za jeden den bez materiálu.",
+        "Nabídka B je za dva dny včetně základního materiálu.",
+        "Účastník může přijít jen první den a nabídka B se nekrátí."
+      ],
+      "start": 0.0,
+      "end": 15.26721088435374,
+      "sentences": [
+        {
+          "text": "Nabídka A uvádí cenu za jeden den bez materiálu.",
+          "start": 0.0,
+          "end": 4.760090702947846,
+          "slow_start": 0.0,
+          "slow_end": 5.537959183673469
+        },
+        {
+          "text": "Nabídka B je za dva dny včetně základního materiálu.",
+          "start": 4.940090702947846,
+          "end": 9.514421768707482,
+          "slow_start": 5.71795918367347,
+          "slow_end": 10.779909297052154
+        },
+        {
+          "text": "Účastník může přijít jen první den a nabídka B se nekrátí.",
+          "start": 9.694421768707484,
+          "end": 15.26721088435374,
+          "slow_start": 10.959909297052155,
+          "slow_end": 17.229297052154195
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 17.229297052154195
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "69c86c05726b45f4471545020d4d1874993368479bb6f2071e0491b0ba35a1f4",
+    "slow": "e1b0761e93efed582c1ea1daec4c3997e940225903319b38108af2ccded44b74"
+  }
+}

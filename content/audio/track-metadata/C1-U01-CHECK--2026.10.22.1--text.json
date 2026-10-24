@@ -1,0 +1,84 @@
+{
+  "id": "C1-U01-CHECK--2026.10.22.1--text",
+  "lesson_id": "C1-U01-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Obec chce přeměnit nevyužívanou školu na sdílené dílny. Řemeslníci návrh vítají, ale sousedé se obávají hluku. Správce slibuje klidný provoz, zatím však nepředložil pravidla. Jeden obyvatel navrhuje zkušební otevření se zveřejněným rozvrhem a postupem pro stížnosti.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Obec chce přeměnit nevyužívanou školu na sdílené dílny.",
+        "Řemeslníci návrh vítají, ale sousedé se obávají hluku.",
+        "Správce slibuje klidný provoz, zatím však nepředložil pravidla.",
+        "Jeden obyvatel navrhuje zkušební otevření se zveřejněným rozvrhem a postupem pro stížnosti."
+      ]
+    }
+  ],
+  "text_sha256": "47422e30d887f7c1b083160459f770268870d46a5839222b6d75a6cf2953499f",
+  "source_file": "content/assessments/C1-U01.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U01-CHECK--2026.10.22.1--text--47422e30d8--normal.mp3",
+  "slow_file": "content/audio/files/C1-U01-CHECK--2026.10.22.1--text--47422e30d8--slow.mp3",
+  "duration_seconds": 25.14739229024943,
+  "slow_duration_seconds": 27.980226757369614,
+  "cues": [
+    {
+      "text": "Obec chce přeměnit nevyužívanou školu na sdílené dílny. Řemeslníci návrh vítají, ale sousedé se obávají hluku. Správce slibuje klidný provoz, zatím však nepředložil pravidla. Jeden obyvatel navrhuje zkušební otevření se zveřejněným rozvrhem a postupem pro stížnosti.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Obec chce přeměnit nevyužívanou školu na sdílené dílny.",
+        "Řemeslníci návrh vítají, ale sousedé se obávají hluku.",
+        "Správce slibuje klidný provoz, zatím však nepředložil pravidla.",
+        "Jeden obyvatel navrhuje zkušební otevření se zveřejněným rozvrhem a postupem pro stížnosti."
+      ],
+      "start": 0.0,
+      "end": 24.967392290249432,
+      "sentences": [
+        {
+          "text": "Obec chce přeměnit nevyužívanou školu na sdílené dílny.",
+          "start": 0.0,
+          "end": 5.027120181405896,
+          "slow_start": 0.0,
+          "slow_end": 5.630839002267574
+        },
+        {
+          "text": "Řemeslníci návrh vítají, ale sousedé se obávají hluku.",
+          "start": 5.207120181405895,
+          "end": 11.012108843537415,
+          "slow_start": 5.810839002267573,
+          "slow_end": 12.149886621315193
+        },
+        {
+          "text": "Správce slibuje klidný provoz, zatím však nepředložil pravidla.",
+          "start": 11.192108843537415,
+          "end": 16.63718820861678,
+          "slow_start": 12.329886621315193,
+          "slow_end": 18.448344671201813
+        },
+        {
+          "text": "Jeden obyvatel navrhuje zkušební otevření se zveřejněným rozvrhem a postupem pro stížnosti.",
+          "start": 16.81718820861678,
+          "end": 24.967392290249432,
+          "slow_start": 18.628344671201813,
+          "slow_end": 27.800226757369614
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 27.800226757369614
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "388fe5365ec20889345411cd7ac0366157c77613d7557af4e344c531a4987b10",
+    "slow": "e60e8efc0d90810f037b35f5e96c917245cb561bad7eba656953726558687721"
+  }
+}

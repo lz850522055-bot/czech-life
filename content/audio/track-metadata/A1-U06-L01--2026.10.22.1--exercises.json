@@ -1,0 +1,59 @@
+{
+  "id": "A1-U06-L01--2026.10.22.1--exercises",
+  "lesson_id": "A1-U06-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A1",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Ve čtvrtek v půl osmé večer, tedy v devatenáct třicet.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "A1-U06-L01-E01",
+      "parts": [
+        "Ve čtvrtek v půl osmé večer, tedy v devatenáct třicet."
+      ]
+    }
+  ],
+  "text_sha256": "355f3837f74c07d91171315730d86536a7448adc680ed65afff5938aebdc2408",
+  "source_file": "content/lessons/A1/A1-U06-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U06-L01--2026.10.22.1--exercises--355f3837f7--normal.mp3",
+  "slow_file": "content/audio/files/A1-U06-L01--2026.10.22.1--exercises--355f3837f7--slow.mp3",
+  "duration_seconds": 5.03297052154195,
+  "slow_duration_seconds": 5.68312925170068,
+  "cues": [
+    {
+      "text": "Ve čtvrtek v půl osmé večer, tedy v devatenáct třicet.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "A1-U06-L01-E01",
+      "parts": [
+        "Ve čtvrtek v půl osmé večer, tedy v devatenáct třicet."
+      ],
+      "start": 0.0,
+      "end": 4.85297052154195,
+      "sentences": [
+        {
+          "text": "Ve čtvrtek v půl osmé večer, tedy v devatenáct třicet.",
+          "start": 0.0,
+          "end": 4.85297052154195,
+          "slow_start": 0.0,
+          "slow_end": 5.50312925170068
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 5.50312925170068
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "0e755947c3af86176fe23c1b5372e449c203a049ca355856cdb4e66b249e1f16",
+    "slow": "5e4ba02e2567e51649106bc06ab4dfdba79dcd74b3f57acc7819c34961d6e9bb"
+  }
+}

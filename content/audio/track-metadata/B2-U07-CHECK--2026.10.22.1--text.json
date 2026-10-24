@@ -1,0 +1,75 @@
+{
+  "id": "B2-U07-CHECK--2026.10.22.1--text",
+  "lesson_id": "B2-U07-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "B2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Sportovní centrum uvádí, že návštěvnost vzrostla ze sta na sto padesát vstupů týdně. Současně prodloužilo otevírací dobu. Počet jedinečných návštěvníků nesleduje.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Sportovní centrum uvádí, že návštěvnost vzrostla ze sta na sto padesát vstupů týdně.",
+        "Současně prodloužilo otevírací dobu.",
+        "Počet jedinečných návštěvníků nesleduje."
+      ]
+    }
+  ],
+  "text_sha256": "d0e8b07db5bc3cde205b84c60b8f1a5b31a12aa46c3ff4b615bce5fe60b4da8f",
+  "source_file": "content/assessments/B2-U07.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U07-CHECK--2026.10.22.1--text--d0e8b07db5--normal.mp3",
+  "slow_file": "content/audio/files/B2-U07-CHECK--2026.10.22.1--text--d0e8b07db5--slow.mp3",
+  "duration_seconds": 14.739002267573696,
+  "slow_duration_seconds": 16.73591836734694,
+  "cues": [
+    {
+      "text": "Sportovní centrum uvádí, že návštěvnost vzrostla ze sta na sto padesát vstupů týdně. Současně prodloužilo otevírací dobu. Počet jedinečných návštěvníků nesleduje.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Sportovní centrum uvádí, že návštěvnost vzrostla ze sta na sto padesát vstupů týdně.",
+        "Současně prodloužilo otevírací dobu.",
+        "Počet jedinečných návštěvníků nesleduje."
+      ],
+      "start": 0.0,
+      "end": 14.559002267573696,
+      "sentences": [
+        {
+          "text": "Sportovní centrum uvádí, že návštěvnost vzrostla ze sta na sto padesát vstupů týdně.",
+          "start": 0.0,
+          "end": 7.233015873015873,
+          "slow_start": 0.0,
+          "slow_end": 8.440453514739229
+        },
+        {
+          "text": "Současně prodloužilo otevírací dobu.",
+          "start": 7.413015873015873,
+          "end": 10.663809523809524,
+          "slow_start": 8.620453514739228,
+          "slow_end": 12.196326530612245
+        },
+        {
+          "text": "Počet jedinečných návštěvníků nesleduje.",
+          "start": 10.843809523809524,
+          "end": 14.559002267573696,
+          "slow_start": 12.376326530612245,
+          "slow_end": 16.555918367346937
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 16.555918367346937
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "0b2cb0e39bb9a86ef325f25f92d939ae7c596e47e76a3cdf90c2a86cf551f7b2",
+    "slow": "83a9d6c07d76388b5e4971b687ce8b6ce48e6f747ed31fb9371a6cf6b44380a5"
+  }
+}

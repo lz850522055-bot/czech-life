@@ -1,0 +1,85 @@
+{
+  "id": "B1-U08-L01--2026.10.23.1--listening",
+  "lesson_id": "B1-U08-L01",
+  "content_version": "2026.10.23.1",
+  "level": "B1",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Souhlasím s tím, že potřebujeme klidnější dvůr. Nejsem si ale jistý, zda zákaz všech návštěv pomůže. Můj soused potřebuje pravidelnou domácí pomoc. Navrhuji nejdřív zjistit, kdo a proč do domu chodí, a teprve potom změnit pravidla.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Souhlasím s tím, že potřebujeme klidnější dvůr.",
+        "Nejsem si ale jistý, zda zákaz všech návštěv pomůže.",
+        "Můj soused potřebuje pravidelnou domácí pomoc.",
+        "Navrhuji nejdřív zjistit, kdo a proč do domu chodí, a teprve potom změnit pravidla."
+      ]
+    }
+  ],
+  "text_sha256": "032413482bb99c4737f41c41ea2c6132bb3095e14e01d02b6aa7c90f88d7fd66",
+  "source_file": "content/lessons/B1/B1-U08-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U08-L01--2026.10.22.1--listening--032413482b--normal.mp3",
+  "slow_file": "content/audio/files/B1-U08-L01--2026.10.22.1--listening--032413482b--slow.mp3",
+  "duration_seconds": 20.944580498866213,
+  "slow_duration_seconds": 23.6497052154195,
+  "cues": [
+    {
+      "text": "Souhlasím s tím, že potřebujeme klidnější dvůr. Nejsem si ale jistý, zda zákaz všech návštěv pomůže. Můj soused potřebuje pravidelnou domácí pomoc. Navrhuji nejdřív zjistit, kdo a proč do domu chodí, a teprve potom změnit pravidla.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Souhlasím s tím, že potřebujeme klidnější dvůr.",
+        "Nejsem si ale jistý, zda zákaz všech návštěv pomůže.",
+        "Můj soused potřebuje pravidelnou domácí pomoc.",
+        "Navrhuji nejdřív zjistit, kdo a proč do domu chodí, a teprve potom změnit pravidla."
+      ],
+      "start": 0.0,
+      "end": 20.764580498866213,
+      "sentences": [
+        {
+          "text": "Souhlasím s tím, že potřebujeme klidnější dvůr.",
+          "start": 0.0,
+          "end": 4.121541950113379,
+          "slow_start": 0.0,
+          "slow_end": 4.841360544217687
+        },
+        {
+          "text": "Nejsem si ale jistý, zda zákaz všech návštěv pomůže.",
+          "start": 4.3015419501133785,
+          "end": 9.142902494331066,
+          "slow_start": 5.021360544217687,
+          "slow_end": 10.478049886621315
+        },
+        {
+          "text": "Můj soused potřebuje pravidelnou domácí pomoc.",
+          "start": 9.322902494331066,
+          "end": 13.746303854875283,
+          "slow_start": 10.658049886621315,
+          "slow_end": 15.650340136054421
+        },
+        {
+          "text": "Navrhuji nejdřív zjistit, kdo a proč do domu chodí, a teprve potom změnit pravidla.",
+          "start": 13.926303854875284,
+          "end": 20.764580498866213,
+          "slow_start": 15.830340136054422,
+          "slow_end": 23.469705215419502
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 23.469705215419502
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "75bf0154523c751be2c1906fd646d201fedcbf58b3e403c170036324c7741fc2",
+    "slow": "3ce830b4282d11d188334bacac9345e8a320b936332cb8254128732be007f4ad"
+  },
+  "reused_from_track_id": "B1-U08-L01--2026.10.22.1--listening"
+}

@@ -1,0 +1,20 @@
+{
+  "region": "prague",
+  "source": "https://overpass-api.de/api/interpreter",
+  "query": "query.overpassql",
+  "downloaded_at": "2026-10-23T20:03:09.893760+00:00",
+  "source_timestamp": "2026-10-23T20:00:36Z",
+  "licence": "ODbL-1.0",
+  "attribution": "© OpenStreetMap contributors",
+  "licence_url": "https://www.openstreetmap.org/copyright",
+  "sha256": "75777361e7c648c31105beb9bd6973a727735429b68c76dc14a8f14b01d45dfe",
+  "bytes": 428161149,
+  "nodes": 2976923,
+  "ways": 500807,
+  "highway_ways": 209868,
+  "building_ways": 287769,
+  "relations": 1272,
+  "all_way_node_references_present": true,
+  "scope": "bbox extract; source tags require access/foot/level/bridge/tunnel filtering before game routing",
+  "status": "downloaded_not_game_accepted"
+}

@@ -1,0 +1,24 @@
+name: Bug report
+description: A reproducible prototype problem
+title: "[Bug] "
+labels: [bug]
+body:
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps and route
+      description: What did you do, what happened, what should happen?
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Commit, OS, device, browser, viewport, warm/cold cache.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: Screenshots, console errors, frame times. Remove tokens/personal data.

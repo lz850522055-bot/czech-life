@@ -1,0 +1,68 @@
+{
+  "id": "A2-U12-L01--2026.10.22.1--exercises",
+  "lesson_id": "A2-U12-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Nic není poškozené. Dvě krabice mají nesprávnou velikost.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "A2-U12-L01-E01",
+      "parts": [
+        "Nic není poškozené.",
+        "Dvě krabice mají nesprávnou velikost."
+      ]
+    }
+  ],
+  "text_sha256": "0f3facf6aed83b8d3092a69c851003e84f64331f71eed8fb5e7ab96f37a3a3a0",
+  "source_file": "content/lessons/A2/A2-U12-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U12-L01--2026.10.22.1--exercises--0f3facf6ae--normal.mp3",
+  "slow_file": "content/audio/files/A2-U12-L01--2026.10.22.1--exercises--0f3facf6ae--slow.mp3",
+  "duration_seconds": 5.839909297052154,
+  "slow_duration_seconds": 6.710657596371882,
+  "cues": [
+    {
+      "text": "Nic není poškozené. Dvě krabice mají nesprávnou velikost.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "A2-U12-L01-E01",
+      "parts": [
+        "Nic není poškozené.",
+        "Dvě krabice mají nesprávnou velikost."
+      ],
+      "start": 0.0,
+      "end": 5.659909297052154,
+      "sentences": [
+        {
+          "text": "Nic není poškozené.",
+          "start": 0.0,
+          "end": 1.9504761904761905,
+          "slow_start": 0.0,
+          "slow_end": 2.2987755102040817
+        },
+        {
+          "text": "Dvě krabice mají nesprávnou velikost.",
+          "start": 2.1304761904761906,
+          "end": 5.659909297052154,
+          "slow_start": 2.478775510204082,
+          "slow_end": 6.530657596371882
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 6.530657596371882
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "f63097ce31fe45570b23c8c33c1135bae7a7a8265f9de9679573a6ffe4dc1784",
+    "slow": "8558dcbcecf576b3c448d07ac5f968777ead30a1133a832a695d362b54303e94"
+  }
+}

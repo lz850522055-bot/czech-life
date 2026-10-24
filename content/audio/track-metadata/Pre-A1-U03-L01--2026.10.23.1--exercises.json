@@ -1,0 +1,60 @@
+{
+  "id": "Pre-A1-U03-L01--2026.10.23.1--exercises",
+  "lesson_id": "Pre-A1-U03-L01",
+  "content_version": "2026.10.23.1",
+  "level": "Pre-A1",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "čtyři",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "Pre-A1-U03-L01-E01",
+      "parts": [
+        "čtyři"
+      ]
+    }
+  ],
+  "text_sha256": "8a8d70f9f5bf542c32d8dac92494af33a8c0e82560014945f9672aa1ca742767",
+  "source_file": "content/lessons/Pre-A1/Pre-A1-U03-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/Pre-A1-U03-L01--2026.10.22.1--exercises--8a8d70f9f5--normal.mp3",
+  "slow_file": "content/audio/files/Pre-A1-U03-L01--2026.10.22.1--exercises--8a8d70f9f5--slow.mp3",
+  "duration_seconds": 0.9346485260770975,
+  "slow_duration_seconds": 1.062358276643991,
+  "cues": [
+    {
+      "text": "čtyři",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "Pre-A1-U03-L01-E01",
+      "parts": [
+        "čtyři"
+      ],
+      "start": 0.0,
+      "end": 0.7546485260770975,
+      "sentences": [
+        {
+          "text": "čtyři",
+          "start": 0.0,
+          "end": 0.7546485260770975,
+          "slow_start": 0.0,
+          "slow_end": 0.8823582766439909
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 0.8823582766439909
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "0951abaf143bfa113f0ffa2474deac40442014c82ba7dafbc8a019243ded8707",
+    "slow": "032da60b9dc149578d82c5247fecad6c5551574ce707662164a55f9fc2e067d2"
+  },
+  "reused_from_track_id": "Pre-A1-U03-L01--2026.10.22.1--exercises"
+}

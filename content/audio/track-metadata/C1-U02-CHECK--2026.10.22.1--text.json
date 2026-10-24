@@ -1,0 +1,66 @@
+{
+  "id": "C1-U02-CHECK--2026.10.22.1--text",
+  "lesson_id": "C1-U02-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "C1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Knihovna připraví večerní program, pokud se přihlásí dost dobrovolníků, kteří po krátkém školení zajistí dohled. Toto opatření má umožnit delší provoz; neznamená však omezení běžných služeb.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Knihovna připraví večerní program, pokud se přihlásí dost dobrovolníků, kteří po krátkém školení zajistí dohled.",
+        "Toto opatření má umožnit delší provoz; neznamená však omezení běžných služeb."
+      ]
+    }
+  ],
+  "text_sha256": "5e82ad60966f697b67f784e63f2ba6fe531005101a489ae6e8cc8a406e49b84c",
+  "source_file": "content/assessments/C1-U02.json",
+  "status": "generated",
+  "file": "content/audio/files/C1-U02-CHECK--2026.10.22.1--text--5e82ad6096--normal.mp3",
+  "slow_file": "content/audio/files/C1-U02-CHECK--2026.10.22.1--text--5e82ad6096--slow.mp3",
+  "duration_seconds": 16.93904761904762,
+  "slow_duration_seconds": 18.90113378684807,
+  "cues": [
+    {
+      "text": "Knihovna připraví večerní program, pokud se přihlásí dost dobrovolníků, kteří po krátkém školení zajistí dohled. Toto opatření má umožnit delší provoz; neznamená však omezení běžných služeb.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Knihovna připraví večerní program, pokud se přihlásí dost dobrovolníků, kteří po krátkém školení zajistí dohled.",
+        "Toto opatření má umožnit delší provoz; neznamená však omezení běžných služeb."
+      ],
+      "start": 0.0,
+      "end": 16.759047619047617,
+      "sentences": [
+        {
+          "text": "Knihovna připraví večerní program, pokud se přihlásí dost dobrovolníků, kteří po krátkém školení zajistí dohled.",
+          "start": 0.0,
+          "end": 9.7059410430839,
+          "slow_start": 0.0,
+          "slow_end": 10.820498866213152
+        },
+        {
+          "text": "Toto opatření má umožnit delší provoz; neznamená však omezení běžných služeb.",
+          "start": 9.8859410430839,
+          "end": 16.759047619047617,
+          "slow_start": 11.000498866213151,
+          "slow_end": 18.72113378684807
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 18.72113378684807
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "37fa6a4e47282e0be3ef1ff8d001ef856f1b0b5f96463951ea6f117203809950",
+    "slow": "549ad6148c2d4c9b5b368e85593983a89fa40298710d188f4cbba2459796502e"
+  }
+}

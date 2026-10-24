@@ -1,0 +1,202 @@
+{
+  "id": "A2-U05-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "A2-U05-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Vezmu dvě lahve.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Vezmu dvě lahve."
+      ]
+    },
+    {
+      "text": "Nechci celý karton.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Nechci celý karton."
+      ]
+    },
+    {
+      "text": "Jaký je objem lahve?",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Jaký je objem lahve?"
+      ]
+    },
+    {
+      "text": "Jaká je hmotnost balení?",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Jaká je hmotnost balení?"
+      ]
+    },
+    {
+      "text": "Můžeme míchat druhy?",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Můžeme míchat druhy?"
+      ]
+    },
+    {
+      "text": "Zvážím sýr.",
+      "index": 5,
+      "role": "vocabulary",
+      "parts": [
+        "Zvážím sýr."
+      ]
+    }
+  ],
+  "text_sha256": "1be4a003c686d7706fc36f407f367b848fd51c893c66c0a654b841d8f103c9d7",
+  "source_file": "content/lessons/A2/A2-U05-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U05-L01--2026.10.22.1--vocabulary--1be4a003c6--normal.mp3",
+  "slow_file": "content/audio/files/A2-U05-L01--2026.10.22.1--vocabulary--1be4a003c6--slow.mp3",
+  "duration_seconds": 12.03981859410431,
+  "slow_duration_seconds": 13.676825396825397,
+  "cues": [
+    {
+      "text": "Vezmu dvě lahve.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Vezmu dvě lahve."
+      ],
+      "start": 0.0,
+      "end": 1.555736961451247,
+      "sentences": [
+        {
+          "text": "Vezmu dvě lahve.",
+          "start": 0.0,
+          "end": 1.555736961451247,
+          "slow_start": 0.0,
+          "slow_end": 1.7531065759637188
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.7531065759637188
+    },
+    {
+      "text": "Nechci celý karton.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Nechci celý karton."
+      ],
+      "start": 1.7357369614512472,
+      "end": 3.755873015873016,
+      "sentences": [
+        {
+          "text": "Nechci celý karton.",
+          "start": 1.7357369614512472,
+          "end": 3.755873015873016,
+          "slow_start": 1.933106575963719,
+          "slow_end": 4.289931972789116
+        }
+      ],
+      "slow_start": 1.933106575963719,
+      "slow_end": 4.289931972789116
+    },
+    {
+      "text": "Jaký je objem lahve?",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Jaký je objem lahve?"
+      ],
+      "start": 3.9358730158730157,
+      "end": 5.8979591836734695,
+      "sentences": [
+        {
+          "text": "Jaký je objem lahve?",
+          "start": 3.9358730158730157,
+          "end": 5.8979591836734695,
+          "slow_start": 4.469931972789116,
+          "slow_end": 6.66421768707483
+        }
+      ],
+      "slow_start": 4.469931972789116,
+      "slow_end": 6.66421768707483
+    },
+    {
+      "text": "Jaká je hmotnost balení?",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Jaká je hmotnost balení?"
+      ],
+      "start": 6.077959183673469,
+      "end": 8.179365079365079,
+      "sentences": [
+        {
+          "text": "Jaká je hmotnost balení?",
+          "start": 6.077959183673469,
+          "end": 8.179365079365079,
+          "slow_start": 6.84421768707483,
+          "slow_end": 9.282312925170068
+        }
+      ],
+      "slow_start": 6.84421768707483,
+      "slow_end": 9.282312925170068
+    },
+    {
+      "text": "Můžeme míchat druhy?",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Můžeme míchat druhy?"
+      ],
+      "start": 8.35936507936508,
+      "end": 10.30984126984127,
+      "sentences": [
+        {
+          "text": "Můžeme míchat druhy?",
+          "start": 8.35936507936508,
+          "end": 10.30984126984127,
+          "slow_start": 9.462312925170068,
+          "slow_end": 11.784308390022677
+        }
+      ],
+      "slow_start": 9.462312925170068,
+      "slow_end": 11.784308390022677
+    },
+    {
+      "text": "Zvážím sýr.",
+      "index": 5,
+      "role": "vocabulary",
+      "parts": [
+        "Zvážím sýr."
+      ],
+      "start": 10.48984126984127,
+      "end": 11.859818594104308,
+      "sentences": [
+        {
+          "text": "Zvážím sýr.",
+          "start": 10.48984126984127,
+          "end": 11.859818594104308,
+          "slow_start": 11.964308390022676,
+          "slow_end": 13.496825396825397
+        }
+      ],
+      "slow_start": 11.964308390022676,
+      "slow_end": 13.496825396825397
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "bb6e0695192b70665097c8536345b3b4f4bd0aa19c169a97a94c86c093cd1e65",
+    "slow": "6f20da33bd35ed9f460b60616a6d02437100f62d0588c5bdcfdc2374b40201d1"
+  }
+}

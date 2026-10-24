@@ -1,0 +1,75 @@
+{
+  "id": "B2-U05-CHECK--2026.10.22.1--text",
+  "lesson_id": "B2-U05-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "B2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Objednávka byla přijata a platba zaevidována. Zboží se nyní balí. Dopravci bude předáno zítra; doručení zatím potvrzeno není.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Objednávka byla přijata a platba zaevidována.",
+        "Zboží se nyní balí.",
+        "Dopravci bude předáno zítra; doručení zatím potvrzeno není."
+      ]
+    }
+  ],
+  "text_sha256": "dda8b00c28e71e3d283a5caa989acf556538a3d04e7dca887b69f873cb5edd29",
+  "source_file": "content/assessments/B2-U05.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U05-CHECK--2026.10.22.1--text--dda8b00c28--normal.mp3",
+  "slow_file": "content/audio/files/B2-U05-CHECK--2026.10.22.1--text--dda8b00c28--slow.mp3",
+  "duration_seconds": 11.940997732426304,
+  "slow_duration_seconds": 13.496734693877551,
+  "cues": [
+    {
+      "text": "Objednávka byla přijata a platba zaevidována. Zboží se nyní balí. Dopravci bude předáno zítra; doručení zatím potvrzeno není.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Objednávka byla přijata a platba zaevidována.",
+        "Zboží se nyní balí.",
+        "Dopravci bude předáno zítra; doručení zatím potvrzeno není."
+      ],
+      "start": 0.0,
+      "end": 11.760997732426304,
+      "sentences": [
+        {
+          "text": "Objednávka byla přijata a platba zaevidována.",
+          "start": 0.0,
+          "end": 3.8080725623582765,
+          "slow_start": 0.0,
+          "slow_end": 4.562721088435374
+        },
+        {
+          "text": "Zboží se nyní balí.",
+          "start": 3.9880725623582767,
+          "end": 5.95015873015873,
+          "slow_start": 4.742721088435374,
+          "slow_end": 6.86734693877551
+        },
+        {
+          "text": "Dopravci bude předáno zítra; doručení zatím potvrzeno není.",
+          "start": 6.130158730158731,
+          "end": 11.760997732426304,
+          "slow_start": 7.04734693877551,
+          "slow_end": 13.316734693877551
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 13.316734693877551
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "0ac545042e407bb2ce510137988b97d4ad164b0b0d850cae761a1ae7050abb16",
+    "slow": "e44b21fe09189615f8a50fc871534184d9ee8c9f05231903da5f8a6051fc1e0e"
+  }
+}

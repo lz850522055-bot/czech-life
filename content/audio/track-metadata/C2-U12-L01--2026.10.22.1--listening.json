@@ -1,0 +1,84 @@
+{
+  "id": "C2-U12-L01--2026.10.22.1--listening",
+  "lesson_id": "C2-U12-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C2",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Dramaturg: Necháme první větu, ta je nejsilnější. Redaktorka: Jenže hned potom ji mluvčí omezí. Bez toho bude znít, jako by si byl naprosto jistý. Koordinátorka: Zkusme kratší úryvek, ale s obratem; dlouhou verzi nabídneme zvlášť.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Dramaturg: Necháme první větu, ta je nejsilnější.",
+        "Redaktorka: Jenže hned potom ji mluvčí omezí.",
+        "Bez toho bude znít, jako by si byl naprosto jistý.",
+        "Koordinátorka: Zkusme kratší úryvek, ale s obratem; dlouhou verzi nabídneme zvlášť."
+      ]
+    }
+  ],
+  "text_sha256": "ae472a2ff2f84f141ff372a8f05de56df5b0c56e04cf504e88a152dfe4323c92",
+  "source_file": "content/lessons/C2/C2-U12-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U12-L01--2026.10.22.1--listening--ae472a2ff2--normal.mp3",
+  "slow_file": "content/audio/files/C2-U12-L01--2026.10.22.1--listening--ae472a2ff2--slow.mp3",
+  "duration_seconds": 21.5134693877551,
+  "slow_duration_seconds": 23.963174603174604,
+  "cues": [
+    {
+      "text": "Dramaturg: Necháme první větu, ta je nejsilnější. Redaktorka: Jenže hned potom ji mluvčí omezí. Bez toho bude znít, jako by si byl naprosto jistý. Koordinátorka: Zkusme kratší úryvek, ale s obratem; dlouhou verzi nabídneme zvlášť.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Dramaturg: Necháme první větu, ta je nejsilnější.",
+        "Redaktorka: Jenže hned potom ji mluvčí omezí.",
+        "Bez toho bude znít, jako by si byl naprosto jistý.",
+        "Koordinátorka: Zkusme kratší úryvek, ale s obratem; dlouhou verzi nabídneme zvlášť."
+      ],
+      "start": 0.0,
+      "end": 21.333469387755102,
+      "sentences": [
+        {
+          "text": "Dramaturg: Necháme první větu, ta je nejsilnější.",
+          "start": 0.0,
+          "end": 4.562721088435374,
+          "slow_start": 0.0,
+          "slow_end": 5.131609977324263
+        },
+        {
+          "text": "Redaktorka: Jenže hned potom ji mluvčí omezí.",
+          "start": 4.742721088435374,
+          "end": 9.177732426303855,
+          "slow_start": 5.311609977324263,
+          "slow_end": 10.315510204081633
+        },
+        {
+          "text": "Bez toho bude znít, jako by si byl naprosto jistý.",
+          "start": 9.357732426303855,
+          "end": 13.363174603174603,
+          "slow_start": 10.495510204081633,
+          "slow_end": 14.965351473922903
+        },
+        {
+          "text": "Koordinátorka: Zkusme kratší úryvek, ale s obratem; dlouhou verzi nabídneme zvlášť.",
+          "start": 13.543174603174602,
+          "end": 21.333469387755102,
+          "slow_start": 15.145351473922902,
+          "slow_end": 23.783174603174604
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 23.783174603174604
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "9bf4f92cca58f06a467b8c11937300fe086dd20bc9d7beb258d6c2c5915f1b1d",
+    "slow": "da579061e4444539c898b7fe43c633cd713ba81103ef8832c0436bab2b4740ea"
+  }
+}

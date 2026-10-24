@@ -1,0 +1,76 @@
+{
+  "id": "A1-U06-L01--2026.10.23.1--listening",
+  "lesson_id": "A1-U06-L01",
+  "content_version": "2026.10.23.1",
+  "level": "A1",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Sejdeme se ve čtvrtek v půl osmé večer. To je devatenáct třicet. Čekám před knihovnou.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Sejdeme se ve čtvrtek v půl osmé večer.",
+        "To je devatenáct třicet.",
+        "Čekám před knihovnou."
+      ]
+    }
+  ],
+  "text_sha256": "87b10862f3391bbb224ac277d3f7937a81107e83bfa0d3f7033a2f52b855028c",
+  "source_file": "content/lessons/A1/A1-U06-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U06-L01--2026.10.22.1--listening--87b10862f3--normal.mp3",
+  "slow_file": "content/audio/files/A1-U06-L01--2026.10.22.1--listening--87b10862f3--slow.mp3",
+  "duration_seconds": 8.086485260770974,
+  "slow_duration_seconds": 9.003673469387754,
+  "cues": [
+    {
+      "text": "Sejdeme se ve čtvrtek v půl osmé večer. To je devatenáct třicet. Čekám před knihovnou.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Sejdeme se ve čtvrtek v půl osmé večer.",
+        "To je devatenáct třicet.",
+        "Čekám před knihovnou."
+      ],
+      "start": 0.0,
+      "end": 7.9064852607709755,
+      "sentences": [
+        {
+          "text": "Sejdeme se ve čtvrtek v půl osmé večer.",
+          "start": 0.0,
+          "end": 3.6687528344671203,
+          "slow_start": 0.0,
+          "slow_end": 4.051882086167801
+        },
+        {
+          "text": "To je devatenáct třicet.",
+          "start": 3.84875283446712,
+          "end": 5.926938775510204,
+          "slow_start": 4.231882086167801,
+          "slow_end": 6.588707482993197
+        },
+        {
+          "text": "Čekám před knihovnou.",
+          "start": 6.106938775510204,
+          "end": 7.9064852607709755,
+          "slow_start": 6.7687074829931975,
+          "slow_end": 8.823673469387755
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 8.823673469387755
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "362bbb31da48d5d537bf0240581433e7a9b84fbe3347dae5f38436698accf75c",
+    "slow": "ab2bc08af712613eecb14158cad27f249f04a6f9941ab098179446a8ead67ec4"
+  },
+  "reused_from_track_id": "A1-U06-L01--2026.10.22.1--listening"
+}

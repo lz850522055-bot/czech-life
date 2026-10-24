@@ -1,0 +1,75 @@
+{
+  "id": "A1-U12-CHECK--2026.10.22.1--text",
+  "lesson_id": "A1-U12-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "A1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Zásilka je na poště v Nové ulici číslo sedm. Pošta zavírá ve čtyři. Kód je devět, tři, jedna.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Zásilka je na poště v Nové ulici číslo sedm.",
+        "Pošta zavírá ve čtyři.",
+        "Kód je devět, tři, jedna."
+      ]
+    }
+  ],
+  "text_sha256": "3a242c0d63d317d3b4f2e745f89bf4d67c00ccfc36b036df84ce93b2830cdae9",
+  "source_file": "content/assessments/A1-U12.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U12-CHECK--2026.10.22.1--text--3a242c0d63--normal.mp3",
+  "slow_file": "content/audio/files/A1-U12-CHECK--2026.10.22.1--text--3a242c0d63--slow.mp3",
+  "duration_seconds": 8.539274376417234,
+  "slow_duration_seconds": 9.549342403628119,
+  "cues": [
+    {
+      "text": "Zásilka je na poště v Nové ulici číslo sedm. Pošta zavírá ve čtyři. Kód je devět, tři, jedna.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Zásilka je na poště v Nové ulici číslo sedm.",
+        "Pošta zavírá ve čtyři.",
+        "Kód je devět, tři, jedna."
+      ],
+      "start": 0.0,
+      "end": 8.359274376417234,
+      "sentences": [
+        {
+          "text": "Zásilka je na poště v Nové ulici číslo sedm.",
+          "start": 0.0,
+          "end": 3.8080725623582765,
+          "slow_start": 0.0,
+          "slow_end": 4.179591836734694
+        },
+        {
+          "text": "Pošta zavírá ve čtyři.",
+          "start": 3.9880725623582767,
+          "end": 5.903718820861678,
+          "slow_start": 4.359591836734694,
+          "slow_end": 6.611927437641723
+        },
+        {
+          "text": "Kód je devět, tři, jedna.",
+          "start": 6.083718820861678,
+          "end": 8.359274376417234,
+          "slow_start": 6.791927437641723,
+          "slow_end": 9.369342403628117
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 9.369342403628117
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "de7b41e34d255633d5322291fd4ec34473effeb4b01dbb3a436cb92618760a69",
+    "slow": "fc4317635135515355bc6b9c9b00b535983eafb9fd56af5b1e6777a06e7545a3"
+  }
+}

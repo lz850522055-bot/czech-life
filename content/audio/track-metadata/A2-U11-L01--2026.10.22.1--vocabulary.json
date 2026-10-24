@@ -1,0 +1,202 @@
+{
+  "id": "A2-U11-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "A2-U11-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Píšu zprávu.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Píšu zprávu."
+      ]
+    },
+    {
+      "text": "Napíšu zprávu.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Napíšu zprávu."
+      ]
+    },
+    {
+      "text": "Kupujeme ovoce každý týden.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Kupujeme ovoce každý týden."
+      ]
+    },
+    {
+      "text": "Koupil jsem jablka.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Koupil jsem jablka."
+      ]
+    },
+    {
+      "text": "Večeře je hotová.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Večeře je hotová."
+      ]
+    },
+    {
+      "text": "Někdo mě přerušil.",
+      "index": 5,
+      "role": "vocabulary",
+      "parts": [
+        "Někdo mě přerušil."
+      ]
+    }
+  ],
+  "text_sha256": "535e30ea597ac72653e3245c618f0a29bbbe7aedd6b4aa9a64aca16303c69be9",
+  "source_file": "content/lessons/A2/A2-U11-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U11-L01--2026.10.22.1--vocabulary--535e30ea59--normal.mp3",
+  "slow_file": "content/audio/files/A2-U11-L01--2026.10.22.1--vocabulary--535e30ea59--slow.mp3",
+  "duration_seconds": 11.88888888888889,
+  "slow_duration_seconds": 13.061496598639456,
+  "cues": [
+    {
+      "text": "Píšu zprávu.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Píšu zprávu."
+      ],
+      "start": 0.0,
+      "end": 1.3351473922902495,
+      "sentences": [
+        {
+          "text": "Píšu zprávu.",
+          "start": 0.0,
+          "end": 1.3351473922902495,
+          "slow_start": 0.0,
+          "slow_end": 1.3583673469387756
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.3583673469387756
+    },
+    {
+      "text": "Napíšu zprávu.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Napíšu zprávu."
+      ],
+      "start": 1.5151473922902494,
+      "end": 3.0708843537414965,
+      "sentences": [
+        {
+          "text": "Napíšu zprávu.",
+          "start": 1.5151473922902494,
+          "end": 3.0708843537414965,
+          "slow_start": 1.5383673469387755,
+          "slow_end": 3.3146938775510204
+        }
+      ],
+      "slow_start": 1.5383673469387755,
+      "slow_end": 3.3146938775510204
+    },
+    {
+      "text": "Kupujeme ovoce každý týden.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Kupujeme ovoce každý týden."
+      ],
+      "start": 3.2508843537414966,
+      "end": 5.851519274376417,
+      "sentences": [
+        {
+          "text": "Kupujeme ovoce každý týden.",
+          "start": 3.2508843537414966,
+          "end": 5.851519274376417,
+          "slow_start": 3.4946938775510206,
+          "slow_end": 6.28108843537415
+        }
+      ],
+      "slow_start": 3.4946938775510206,
+      "slow_end": 6.28108843537415
+    },
+    {
+      "text": "Koupil jsem jablka.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Koupil jsem jablka."
+      ],
+      "start": 6.031519274376417,
+      "end": 7.865895691609977,
+      "sentences": [
+        {
+          "text": "Koupil jsem jablka.",
+          "start": 6.031519274376417,
+          "end": 7.865895691609977,
+          "slow_start": 6.461088435374149,
+          "slow_end": 8.52766439909297
+        }
+      ],
+      "slow_start": 6.461088435374149,
+      "slow_end": 8.52766439909297
+    },
+    {
+      "text": "Večeře je hotová.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Večeře je hotová."
+      ],
+      "start": 8.045895691609978,
+      "end": 9.729342403628118,
+      "sentences": [
+        {
+          "text": "Večeře je hotová.",
+          "start": 8.045895691609978,
+          "end": 9.729342403628118,
+          "slow_start": 8.707664399092971,
+          "slow_end": 10.658140589569161
+        }
+      ],
+      "slow_start": 8.707664399092971,
+      "slow_end": 10.658140589569161
+    },
+    {
+      "text": "Někdo mě přerušil.",
+      "index": 5,
+      "role": "vocabulary",
+      "parts": [
+        "Někdo mě přerušil."
+      ],
+      "start": 9.909342403628118,
+      "end": 11.70888888888889,
+      "sentences": [
+        {
+          "text": "Někdo mě přerušil.",
+          "start": 9.909342403628118,
+          "end": 11.70888888888889,
+          "slow_start": 10.83814058956916,
+          "slow_end": 12.881496598639457
+        }
+      ],
+      "slow_start": 10.83814058956916,
+      "slow_end": 12.881496598639457
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "615c30a7ebf858143650be57b88356864ef257a74d4ad0c8f7e2c97cc8964b47",
+    "slow": "77ced1fedef4a5c672da2eae993823db02bc9ee34b1cf6e5ebac3eac03a13e22"
+  }
+}

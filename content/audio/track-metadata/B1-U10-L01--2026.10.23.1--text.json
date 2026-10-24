@@ -1,0 +1,316 @@
+{
+  "id": "B1-U10-L01--2026.10.23.1--text",
+  "lesson_id": "B1-U10-L01",
+  "content_version": "2026.10.23.1",
+  "level": "B1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Místní rozhlas připravil rozhovor o plánované opravě knihovny. Moderátorka nejprve oznámila, že hlavní budova bude od začátku června dočasně uzavřena. Neřekla, že knihovna končí natrvalo. Výpůjční služby se mají přesunout do menší pobočky. Lidé si zároveň budou moci objednávat knihy předem a vyzvedávat je dvakrát týdně na dočasném místě. Přesná adresa má být zveřejněna později.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Místní rozhlas připravil rozhovor o plánované opravě knihovny.",
+        "Moderátorka nejprve oznámila, že hlavní budova bude od začátku června dočasně uzavřena.",
+        "Neřekla, že knihovna končí natrvalo.",
+        "Výpůjční služby se mají přesunout do menší pobočky.",
+        "Lidé si zároveň budou moci objednávat knihy předem a vyzvedávat je dvakrát týdně na dočasném místě.",
+        "Přesná adresa má být zveřejněna později."
+      ]
+    },
+    {
+      "text": "Ředitelka vysvětlila, že oprava zahrnuje střechu, elektrické rozvody a bezbariérový vstup. Podle současného plánu má trvat tři měsíce. Upozornila však, že termín závisí na stavu konstrukce, který se ukáže až po zahájení prací. Moderátorka se zeptala, zda je zářijové otevření zaručené. Ředitelka odpověděla, že je to cíl, nikoli bezpodmínečný slib.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Ředitelka vysvětlila, že oprava zahrnuje střechu, elektrické rozvody a bezbariérový vstup.",
+        "Podle současného plánu má trvat tři měsíce.",
+        "Upozornila však, že termín závisí na stavu konstrukce, který se ukáže až po zahájení prací.",
+        "Moderátorka se zeptala, zda je zářijové otevření zaručené.",
+        "Ředitelka odpověděla, že je to cíl, nikoli bezpodmínečný slib."
+      ]
+    },
+    {
+      "text": "V další části dostali prostor dva návštěvníci. Starší muž ocenil nový vstup, protože nyní špatně zvládá schody. Studentka se obávala, že v malé pobočce nebude dost míst ke studiu. Oba popisovali vlastní potřeby. Jejich výroky samy o sobě neříkaly, kolik lidí bude změnou spokojeno nebo nespokojeno. Pro takový závěr by bylo potřeba více informací.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "V další části dostali prostor dva návštěvníci.",
+        "Starší muž ocenil nový vstup, protože nyní špatně zvládá schody.",
+        "Studentka se obávala, že v malé pobočce nebude dost míst ke studiu.",
+        "Oba popisovali vlastní potřeby.",
+        "Jejich výroky samy o sobě neříkaly, kolik lidí bude změnou spokojeno nebo nespokojeno.",
+        "Pro takový závěr by bylo potřeba více informací."
+      ]
+    },
+    {
+      "text": "Po poslechu jsem si zapsal čtyři otázky: co je potvrzené, co se teprve plánuje, koho změna ovlivní a co mám ještě ověřit. Kamarádovi jsem pak poslal krátké shrnutí. Uvedl jsem dočasné uzavření hlavní budovy a možnost objednávat knihy. Nepřidal jsem přesnou adresu, protože v rozhovoru nezazněla. Také jsem nepředstíral jistotu o termínu, který sama ředitelka označila za podmíněný. Při druhém poslechu jsem zvlášť ověřil záporné věty, protože právě ony měnily praktický význam zprávy.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Po poslechu jsem si zapsal čtyři otázky: co je potvrzené, co se teprve plánuje, koho změna ovlivní a co mám ještě ověřit.",
+        "Kamarádovi jsem pak poslal krátké shrnutí.",
+        "Uvedl jsem dočasné uzavření hlavní budovy a možnost objednávat knihy.",
+        "Nepřidal jsem přesnou adresu, protože v rozhovoru nezazněla.",
+        "Také jsem nepředstíral jistotu o termínu, který sama ředitelka označila za podmíněný.",
+        "Při druhém poslechu jsem zvlášť ověřil záporné věty, protože právě ony měnily praktický význam zprávy."
+      ]
+    }
+  ],
+  "text_sha256": "880e0cf0854dc4aa2b04a94c3c7dbfd6b06eb8afdcbb3de7c4d3c37af1968fb6",
+  "source_file": "content/lessons/B1/B1-U10-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U10-L01--2026.10.22.1--text--880e0cf085--normal.mp3",
+  "slow_file": "content/audio/files/B1-U10-L01--2026.10.22.1--text--880e0cf085--slow.mp3",
+  "duration_seconds": 142.79795918367347,
+  "slow_duration_seconds": 160.2825850340136,
+  "cues": [
+    {
+      "text": "Místní rozhlas připravil rozhovor o plánované opravě knihovny. Moderátorka nejprve oznámila, že hlavní budova bude od začátku června dočasně uzavřena. Neřekla, že knihovna končí natrvalo. Výpůjční služby se mají přesunout do menší pobočky. Lidé si zároveň budou moci objednávat knihy předem a vyzvedávat je dvakrát týdně na dočasném místě. Přesná adresa má být zveřejněna později.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Místní rozhlas připravil rozhovor o plánované opravě knihovny.",
+        "Moderátorka nejprve oznámila, že hlavní budova bude od začátku června dočasně uzavřena.",
+        "Neřekla, že knihovna končí natrvalo.",
+        "Výpůjční služby se mají přesunout do menší pobočky.",
+        "Lidé si zároveň budou moci objednávat knihy předem a vyzvedávat je dvakrát týdně na dočasném místě.",
+        "Přesná adresa má být zveřejněna později."
+      ],
+      "start": 0.0,
+      "end": 34.35995464852608,
+      "sentences": [
+        {
+          "text": "Místní rozhlas připravil rozhovor o plánované opravě knihovny.",
+          "start": 0.0,
+          "end": 5.50312925170068,
+          "slow_start": 0.0,
+          "slow_end": 6.222947845804988
+        },
+        {
+          "text": "Moderátorka nejprve oznámila, že hlavní budova bude od začátku června dočasně uzavřena.",
+          "start": 5.68312925170068,
+          "end": 13.17156462585034,
+          "slow_start": 6.402947845804989,
+          "slow_end": 14.796961451247165
+        },
+        {
+          "text": "Neřekla, že knihovna končí natrvalo.",
+          "start": 13.35156462585034,
+          "end": 16.660408163265306,
+          "slow_start": 14.976961451247165,
+          "slow_end": 18.796643990929706
+        },
+        {
+          "text": "Výpůjční služby se mají přesunout do menší pobočky.",
+          "start": 16.840408163265305,
+          "end": 21.414739229024942,
+          "slow_start": 18.976643990929706,
+          "slow_end": 24.061814058956916
+        },
+        {
+          "text": "Lidé si zároveň budou moci objednávat knihy předem a vyzvedávat je dvakrát týdně na dočasném místě.",
+          "start": 21.594739229024942,
+          "end": 30.74340136054422,
+          "slow_start": 24.241814058956916,
+          "slow_end": 34.12190476190476
+        },
+        {
+          "text": "Přesná adresa má být zveřejněna později.",
+          "start": 30.92340136054422,
+          "end": 34.35995464852608,
+          "slow_start": 34.301904761904765,
+          "slow_end": 38.2492970521542
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 38.2492970521542
+    },
+    {
+      "text": "Ředitelka vysvětlila, že oprava zahrnuje střechu, elektrické rozvody a bezbariérový vstup. Podle současného plánu má trvat tři měsíce. Upozornila však, že termín závisí na stavu konstrukce, který se ukáže až po zahájení prací. Moderátorka se zeptala, zda je zářijové otevření zaručené. Ředitelka odpověděla, že je to cíl, nikoli bezpodmínečný slib.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Ředitelka vysvětlila, že oprava zahrnuje střechu, elektrické rozvody a bezbariérový vstup.",
+        "Podle současného plánu má trvat tři měsíce.",
+        "Upozornila však, že termín závisí na stavu konstrukce, který se ukáže až po zahájení prací.",
+        "Moderátorka se zeptala, zda je zářijové otevření zaručené.",
+        "Ředitelka odpověděla, že je to cíl, nikoli bezpodmínečný slib."
+      ],
+      "start": 34.53995464852608,
+      "end": 66.57206349206349,
+      "sentences": [
+        {
+          "text": "Ředitelka vysvětlila, že oprava zahrnuje střechu, elektrické rozvody a bezbariérový vstup.",
+          "start": 34.53995464852608,
+          "end": 42.22575963718821,
+          "slow_start": 38.4292970521542,
+          "slow_end": 46.97424036281179
+        },
+        {
+          "text": "Podle současného plánu má trvat tři měsíce.",
+          "start": 42.40575963718821,
+          "end": 46.70145124716553,
+          "slow_start": 47.15424036281179,
+          "slow_end": 51.94916099773243
+        },
+        {
+          "text": "Upozornila však, že termín závisí na stavu konstrukce, který se ukáže až po zahájení prací.",
+          "start": 46.881451247165536,
+          "end": 54.92716553287982,
+          "slow_start": 52.12916099773243,
+          "slow_end": 61.06884353741496
+        },
+        {
+          "text": "Moderátorka se zeptala, zda je zářijové otevření zaručené.",
+          "start": 55.10716553287982,
+          "end": 60.610294784580496,
+          "slow_start": 61.24884353741496,
+          "slow_end": 67.70399092970521
+        },
+        {
+          "text": "Ředitelka odpověděla, že je to cíl, nikoli bezpodmínečný slib.",
+          "start": 60.790294784580496,
+          "end": 66.57206349206349,
+          "slow_start": 67.88399092970522,
+          "slow_end": 74.35074829931973
+        }
+      ],
+      "slow_start": 38.4292970521542,
+      "slow_end": 74.35074829931973
+    },
+    {
+      "text": "V další části dostali prostor dva návštěvníci. Starší muž ocenil nový vstup, protože nyní špatně zvládá schody. Studentka se obávala, že v malé pobočce nebude dost míst ke studiu. Oba popisovali vlastní potřeby. Jejich výroky samy o sobě neříkaly, kolik lidí bude změnou spokojeno nebo nespokojeno. Pro takový závěr by bylo potřeba více informací.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "V další části dostali prostor dva návštěvníci.",
+        "Starší muž ocenil nový vstup, protože nyní špatně zvládá schody.",
+        "Studentka se obávala, že v malé pobočce nebude dost míst ke studiu.",
+        "Oba popisovali vlastní potřeby.",
+        "Jejich výroky samy o sobě neříkaly, kolik lidí bude změnou spokojeno nebo nespokojeno.",
+        "Pro takový závěr by bylo potřeba více informací."
+      ],
+      "start": 66.7520634920635,
+      "end": 98.01215419501133,
+      "sentences": [
+        {
+          "text": "V další části dostali prostor dva návštěvníci.",
+          "start": 66.7520634920635,
+          "end": 70.83877551020409,
+          "slow_start": 74.53074829931973,
+          "slow_end": 79.11668934240363
+        },
+        {
+          "text": "Starší muž ocenil nový vstup, protože nyní špatně zvládá schody.",
+          "start": 71.01877551020408,
+          "end": 77.11401360544218,
+          "slow_start": 79.29668934240362,
+          "slow_end": 86.05369614512472
+        },
+        {
+          "text": "Studentka se obávala, že v malé pobočce nebude dost míst ke studiu.",
+          "start": 77.29401360544217,
+          "end": 82.94807256235828,
+          "slow_start": 86.23369614512471,
+          "slow_end": 92.68884353741497
+        },
+        {
+          "text": "Oba popisovali vlastní potřeby.",
+          "start": 83.12807256235827,
+          "end": 86.01895691609977,
+          "slow_start": 92.86884353741496,
+          "slow_end": 96.00353741496599
+        },
+        {
+          "text": "Jejich výroky samy o sobě neříkaly, kolik lidí bude změnou spokojeno nebo nespokojeno.",
+          "start": 86.19895691609977,
+          "end": 93.64095238095238,
+          "slow_start": 96.18353741496598,
+          "slow_end": 104.65882086167801
+        },
+        {
+          "text": "Pro takový závěr by bylo potřeba více informací.",
+          "start": 93.82095238095238,
+          "end": 98.01215419501133,
+          "slow_start": 104.838820861678,
+          "slow_end": 109.49442176870748
+        }
+      ],
+      "slow_start": 74.53074829931973,
+      "slow_end": 109.49442176870748
+    },
+    {
+      "text": "Po poslechu jsem si zapsal čtyři otázky: co je potvrzené, co se teprve plánuje, koho změna ovlivní a co mám ještě ověřit. Kamarádovi jsem pak poslal krátké shrnutí. Uvedl jsem dočasné uzavření hlavní budovy a možnost objednávat knihy. Nepřidal jsem přesnou adresu, protože v rozhovoru nezazněla. Také jsem nepředstíral jistotu o termínu, který sama ředitelka označila za podmíněný. Při druhém poslechu jsem zvlášť ověřil záporné věty, protože právě ony měnily praktický význam zprávy.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Po poslechu jsem si zapsal čtyři otázky: co je potvrzené, co se teprve plánuje, koho změna ovlivní a co mám ještě ověřit.",
+        "Kamarádovi jsem pak poslal krátké shrnutí.",
+        "Uvedl jsem dočasné uzavření hlavní budovy a možnost objednávat knihy.",
+        "Nepřidal jsem přesnou adresu, protože v rozhovoru nezazněla.",
+        "Také jsem nepředstíral jistotu o termínu, který sama ředitelka označila za podmíněný.",
+        "Při druhém poslechu jsem zvlášť ověřil záporné věty, protože právě ony měnily praktický význam zprávy."
+      ],
+      "start": 98.19215419501134,
+      "end": 142.61795918367346,
+      "sentences": [
+        {
+          "text": "Po poslechu jsem si zapsal čtyři otázky: co je potvrzené, co se teprve plánuje, koho změna ovlivní a co mám ještě ověřit.",
+          "start": 98.19215419501134,
+          "end": 109.18680272108844,
+          "slow_start": 109.67442176870749,
+          "slow_end": 122.39895691609978
+        },
+        {
+          "text": "Kamarádovi jsem pak poslal krátké shrnutí.",
+          "start": 109.36680272108843,
+          "end": 113.17487528344671,
+          "slow_start": 122.57895691609977,
+          "slow_end": 126.88625850340136
+        },
+        {
+          "text": "Uvedl jsem dočasné uzavření hlavní budovy a možnost objednávat knihy.",
+          "start": 113.35487528344672,
+          "end": 119.64748299319727,
+          "slow_start": 127.06625850340136,
+          "slow_end": 134.27605442176872
+        },
+        {
+          "text": "Nepřidal jsem přesnou adresu, protože v rozhovoru nezazněla.",
+          "start": 119.82748299319728,
+          "end": 125.07519274376418,
+          "slow_start": 134.4560544217687,
+          "slow_end": 140.3887528344671
+        },
+        {
+          "text": "Také jsem nepředstíral jistotu o termínu, který sama ředitelka označila za podmíněný.",
+          "start": 125.25519274376417,
+          "end": 132.74362811791383,
+          "slow_start": 140.56875283446712,
+          "slow_end": 149.02081632653062
+        },
+        {
+          "text": "Při druhém poslechu jsem zvlášť ověřil záporné věty, protože právě ony měnily praktický význam zprávy.",
+          "start": 132.92362811791384,
+          "end": 142.61795918367346,
+          "slow_start": 149.2008163265306,
+          "slow_end": 160.1025850340136
+        }
+      ],
+      "slow_start": 109.67442176870749,
+      "slow_end": 160.1025850340136
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "7bb7f618c0add97bb363ab2f45f805e9448e60da85c3ae7335acf7290736f32c",
+    "slow": "0ccea92555268725dd4bdd2726f26b41b78f58c9b02687c7efe16eb90ed4c16a"
+  },
+  "reused_from_track_id": "B1-U10-L01--2026.10.22.1--text"
+}

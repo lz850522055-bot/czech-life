@@ -1,0 +1,323 @@
+{
+  "id": "Pre-A1-U04-L01--2026.10.22.1--text",
+  "lesson_id": "Pre-A1-U04-L01",
+  "content_version": "2026.10.22.1",
+  "level": "Pre-A1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Díky. Dítě. Nic.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Díky.",
+        "Dítě.",
+        "Nic."
+      ]
+    },
+    {
+      "text": "Dým. Ty. Nyní.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Dým.",
+        "Ty.",
+        "Nyní."
+      ]
+    },
+    {
+      "text": "Děkuju. Těší mě.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Děkuju.",
+        "Těší mě."
+      ]
+    },
+    {
+      "text": "Běží. Pět. Věc.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Běží.",
+        "Pět.",
+        "Věc."
+      ]
+    },
+    {
+      "text": "Město.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Město."
+      ]
+    },
+    {
+      "text": "To je nové město.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "To je nové město."
+      ]
+    },
+    {
+      "text": "Díky, už rozumím.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Díky, už rozumím."
+      ]
+    },
+    {
+      "text": "Napište to, prosím.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Napište to, prosím."
+      ]
+    }
+  ],
+  "text_sha256": "a789a04b6435b088d0fad2fb764c811793c525e8343c95f7aa117d0468c378cb",
+  "source_file": "content/lessons/Pre-A1/Pre-A1-U04-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--normal.mp3",
+  "slow_file": "content/audio/files/Pre-A1-U04-L01--2026.10.22.1--text--a789a04b64--slow.mp3",
+  "duration_seconds": 17.22408163265306,
+  "slow_duration_seconds": 19.46480725623583,
+  "cues": [
+    {
+      "text": "Díky. Dítě. Nic.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Díky.",
+        "Dítě.",
+        "Nic."
+      ],
+      "start": 0.0,
+      "end": 2.6239455782312926,
+      "sentences": [
+        {
+          "text": "Díky.",
+          "start": 0.0,
+          "end": 0.7198185941043084,
+          "slow_start": 0.0,
+          "slow_end": 0.893968253968254
+        },
+        {
+          "text": "Dítě.",
+          "start": 0.8998185941043084,
+          "end": 1.6312471655328797,
+          "slow_start": 1.073968253968254,
+          "slow_end": 1.8866666666666667
+        },
+        {
+          "text": "Nic.",
+          "start": 1.81124716553288,
+          "end": 2.6239455782312926,
+          "slow_start": 2.066666666666667,
+          "slow_end": 2.9838548752834466
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.9838548752834466
+    },
+    {
+      "text": "Dým. Ty. Nyní.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Dým.",
+        "Ty.",
+        "Nyní."
+      ],
+      "start": 2.8039455782312923,
+      "end": 5.114421768707483,
+      "sentences": [
+        {
+          "text": "Dým.",
+          "start": 2.8039455782312923,
+          "end": 3.430884353741497,
+          "slow_start": 3.1638548752834468,
+          "slow_end": 3.8836734693877553
+        },
+        {
+          "text": "Ty.",
+          "start": 3.6108843537414965,
+          "end": 4.202993197278912,
+          "slow_start": 4.063673469387755,
+          "slow_end": 4.737052154195012
+        },
+        {
+          "text": "Nyní.",
+          "start": 4.382993197278911,
+          "end": 5.114421768707483,
+          "slow_start": 4.917052154195011,
+          "slow_end": 5.776190476190476
+        }
+      ],
+      "slow_start": 3.1638548752834468,
+      "slow_end": 5.776190476190476
+    },
+    {
+      "text": "Děkuju. Těší mě.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Děkuju.",
+        "Těší mě."
+      ],
+      "start": 5.294421768707483,
+      "end": 7.355238095238096,
+      "sentences": [
+        {
+          "text": "Děkuju.",
+          "start": 5.294421768707483,
+          "end": 6.130340136054421,
+          "slow_start": 5.956190476190476,
+          "slow_end": 6.8965986394557826
+        },
+        {
+          "text": "Těší mě.",
+          "start": 6.310340136054422,
+          "end": 7.355238095238096,
+          "slow_start": 7.076598639455782,
+          "slow_end": 8.318866213151928
+        }
+      ],
+      "slow_start": 5.956190476190476,
+      "slow_end": 8.318866213151928
+    },
+    {
+      "text": "Běží. Pět. Věc.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Běží.",
+        "Pět.",
+        "Věc."
+      ],
+      "start": 7.535238095238095,
+      "end": 10.298503401360545,
+      "sentences": [
+        {
+          "text": "Běží.",
+          "start": 7.535238095238095,
+          "end": 8.39437641723356,
+          "slow_start": 8.498866213151928,
+          "slow_end": 9.485714285714286
+        },
+        {
+          "text": "Pět.",
+          "start": 8.57437641723356,
+          "end": 9.22453514739229,
+          "slow_start": 9.665714285714285,
+          "slow_end": 10.37392290249433
+        },
+        {
+          "text": "Věc.",
+          "start": 9.40453514739229,
+          "end": 10.298503401360545,
+          "slow_start": 10.553922902494332,
+          "slow_end": 11.656870748299319
+        }
+      ],
+      "slow_start": 8.498866213151928,
+      "slow_end": 11.656870748299319
+    },
+    {
+      "text": "Město.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Město."
+      ],
+      "start": 10.478503401360545,
+      "end": 11.442131519274376,
+      "sentences": [
+        {
+          "text": "Město.",
+          "start": 10.478503401360545,
+          "end": 11.442131519274376,
+          "slow_start": 11.83687074829932,
+          "slow_end": 12.939818594104308
+        }
+      ],
+      "slow_start": 11.83687074829932,
+      "slow_end": 12.939818594104308
+    },
+    {
+      "text": "To je nové město.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "To je nové město."
+      ],
+      "start": 11.622131519274376,
+      "end": 13.143038548752834,
+      "sentences": [
+        {
+          "text": "To je nové město.",
+          "start": 11.622131519274376,
+          "end": 13.143038548752834,
+          "slow_start": 13.119818594104308,
+          "slow_end": 14.814875283446712
+        }
+      ],
+      "slow_start": 13.119818594104308,
+      "slow_end": 14.814875283446712
+    },
+    {
+      "text": "Díky, už rozumím.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Díky, už rozumím."
+      ],
+      "start": 13.323038548752834,
+      "end": 15.018095238095238,
+      "sentences": [
+        {
+          "text": "Díky, už rozumím.",
+          "start": 13.323038548752834,
+          "end": 15.018095238095238,
+          "slow_start": 14.994875283446712,
+          "slow_end": 16.980181405895692
+        }
+      ],
+      "slow_start": 14.994875283446712,
+      "slow_end": 16.980181405895692
+    },
+    {
+      "text": "Napište to, prosím.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Napište to, prosím."
+      ],
+      "start": 15.198095238095238,
+      "end": 17.04408163265306,
+      "sentences": [
+        {
+          "text": "Napište to, prosím.",
+          "start": 15.198095238095238,
+          "end": 17.04408163265306,
+          "slow_start": 17.160181405895692,
+          "slow_end": 19.284807256235826
+        }
+      ],
+      "slow_start": 17.160181405895692,
+      "slow_end": 19.284807256235826
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "e627604e744338ed7525aad5255ccc45163a6c6fb9ba861cdfe14278befada2a",
+    "slow": "2a2d5b6d4a54bd687f31c7a64c2737f9c9017c5a545722981a11aaa3a730ce6d"
+  }
+}

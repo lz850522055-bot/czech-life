@@ -1,0 +1,95 @@
+{
+  "id": "Pre-A1-U05-CHECK--2026.10.22.1--text",
+  "lesson_id": "Pre-A1-U05-CHECK",
+  "content_version": "2026.10.22.1",
+  "level": "Pre-A1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Kde je pošta? Je za obchodem.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Kde je pošta?",
+        "Je za obchodem."
+      ]
+    },
+    {
+      "text": "Prosím vás, mluvte pomaleji.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Prosím vás, mluvte pomaleji."
+      ]
+    }
+  ],
+  "text_sha256": "fcd7ce1ed4ffe46e01d8eceb8a3ca500aaaa120292e8963fb7f32f81364cba9d",
+  "source_file": "content/assessments/Pre-A1-U05.json",
+  "status": "generated",
+  "file": "content/audio/files/Pre-A1-U05-CHECK--2026.10.22.1--text--fcd7ce1ed4--normal.mp3",
+  "slow_file": "content/audio/files/Pre-A1-U05-CHECK--2026.10.22.1--text--fcd7ce1ed4--slow.mp3",
+  "duration_seconds": 5.857369614512471,
+  "slow_duration_seconds": 6.472698412698413,
+  "cues": [
+    {
+      "text": "Kde je pošta? Je za obchodem.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Kde je pošta?",
+        "Je za obchodem."
+      ],
+      "start": 0.0,
+      "end": 2.6877551020408164,
+      "sentences": [
+        {
+          "text": "Kde je pošta?",
+          "start": 0.0,
+          "end": 1.2654875283446712,
+          "slow_start": 0.0,
+          "slow_end": 1.3931972789115645
+        },
+        {
+          "text": "Je za obchodem.",
+          "start": 1.445487528344671,
+          "end": 2.6877551020408164,
+          "slow_start": 1.5731972789115647,
+          "slow_end": 2.919954648526077
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.919954648526077
+    },
+    {
+      "text": "Prosím vás, mluvte pomaleji.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Prosím vás, mluvte pomaleji."
+      ],
+      "start": 2.8677551020408165,
+      "end": 5.677369614512472,
+      "sentences": [
+        {
+          "text": "Prosím vás, mluvte pomaleji.",
+          "start": 2.8677551020408165,
+          "end": 5.677369614512472,
+          "slow_start": 3.099954648526077,
+          "slow_end": 6.292698412698413
+        }
+      ],
+      "slow_start": 3.099954648526077,
+      "slow_end": 6.292698412698413
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "5656eaea9ac2060e67826e0d7328b4b32738c3f219cb38cda0d0471ccea86c3a",
+    "slow": "e6238f6a15e6aca1fbd54449ee3a9ace4713a1e84f99e6cec1a255762ec96811"
+  }
+}

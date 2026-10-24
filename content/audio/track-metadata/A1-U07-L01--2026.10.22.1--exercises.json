@@ -1,0 +1,59 @@
+{
+  "id": "A1-U07-L01--2026.10.22.1--exercises",
+  "lesson_id": "A1-U07-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A1",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Eva ráda běhá, ale její sestra raději čte.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "A1-U07-L01-E01",
+      "parts": [
+        "Eva ráda běhá, ale její sestra raději čte."
+      ]
+    }
+  ],
+  "text_sha256": "2c8b65148761f0777506753abbd1e802d7484f3b8ea2f23b560f03c6afac3270",
+  "source_file": "content/lessons/A1/A1-U07-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U07-L01--2026.10.22.1--exercises--2c8b651487--normal.mp3",
+  "slow_file": "content/audio/files/A1-U07-L01--2026.10.22.1--exercises--2c8b651487--slow.mp3",
+  "duration_seconds": 4.057732426303855,
+  "slow_duration_seconds": 4.673061224489796,
+  "cues": [
+    {
+      "text": "Eva ráda běhá, ale její sestra raději čte.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "A1-U07-L01-E01",
+      "parts": [
+        "Eva ráda běhá, ale její sestra raději čte."
+      ],
+      "start": 0.0,
+      "end": 3.877732426303855,
+      "sentences": [
+        {
+          "text": "Eva ráda běhá, ale její sestra raději čte.",
+          "start": 0.0,
+          "end": 3.877732426303855,
+          "slow_start": 0.0,
+          "slow_end": 4.493061224489796
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 4.493061224489796
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "bebd6ad0b050377107e4aede5462937df00f7e64ac5595e29ce662de35375282",
+    "slow": "690525c54ae4c9d99b4692bc38c0a82cec3726a0237149714ea3fae8cc7e96db"
+  }
+}

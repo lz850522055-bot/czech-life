@@ -1,0 +1,436 @@
+{
+  "id": "B2-U10-L01--2026.10.22.1--text",
+  "lesson_id": "B2-U10-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Plánujeme víkendový výlet pro skupinu lidí, z nichž někteří přijedou z jiného města. Základní plán počítá s vlakem a pěší cestou kolem řeky. Pokud bude pršet, zkrátíme venkovní část a navštívíme muzeum. To je reálná podmínka, kterou můžeme rozhodnout podle předpovědi. Neříkáme tím, že déšť už nastal nebo že je jistý. Připravujeme postup pro jednu z možných budoucích situací.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Plánujeme víkendový výlet pro skupinu lidí, z nichž někteří přijedou z jiného města.",
+        "Základní plán počítá s vlakem a pěší cestou kolem řeky.",
+        "Pokud bude pršet, zkrátíme venkovní část a navštívíme muzeum.",
+        "To je reálná podmínka, kterou můžeme rozhodnout podle předpovědi.",
+        "Neříkáme tím, že déšť už nastal nebo že je jistý.",
+        "Připravujeme postup pro jednu z možných budoucích situací."
+      ]
+    },
+    {
+      "text": "Jedna účastnice navrhuje pronajmout autobus. Odpovídáme: „Kdyby nás jelo víc, autobus by možná vyšel levněji.“ V současnosti ale nemáme dost potvrzených účastníků, a proto s touto variantou nepočítáme jako s hotovým rozhodnutím. Podmínka zde popisuje jiný stav než ten, z něhož právě vycházíme. Přesto může být užitečná: ukazuje, která proměnná by mohla změnit výsledek našeho srovnání.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Jedna účastnice navrhuje pronajmout autobus.",
+        "Odpovídáme: „Kdyby nás jelo víc, autobus by možná vyšel levněji.“",
+        "V současnosti ale nemáme dost potvrzených účastníků, a proto s touto variantou nepočítáme jako s hotovým rozhodnutím.",
+        "Podmínka zde popisuje jiný stav než ten, z něhož právě vycházíme.",
+        "Přesto může být užitečná: ukazuje, která proměnná by mohla změnit výsledek našeho srovnání."
+      ]
+    },
+    {
+      "text": "Při přípravě se vracíme k minulému výletu. Tehdy jsme nakoupili jízdenky pozdě a část skupiny seděla v jiném voze. Říkáme: „Kdybychom tehdy rezervovali místa dřív, seděli bychom pohromadě.“ Z časového výrazu tehdy a z kontextu je zřejmé, že mluvíme o neuskutečněné možnosti v minulosti. Není nutné v každé běžné větě používat složitý tvar s býval. Ten může minulý nerealizovaný děj zdůraznit, ale v současné komunikaci bývá omezený.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Při přípravě se vracíme k minulému výletu.",
+        "Tehdy jsme nakoupili jízdenky pozdě a část skupiny seděla v jiném voze.",
+        "Říkáme: „Kdybychom tehdy rezervovali místa dřív, seděli bychom pohromadě.“",
+        "Z časového výrazu tehdy a z kontextu je zřejmé, že mluvíme o neuskutečněné možnosti v minulosti.",
+        "Není nutné v každé běžné větě používat složitý tvar s býval.",
+        "Ten může minulý nerealizovaný děj zdůraznit, ale v současné komunikaci bývá omezený."
+      ]
+    },
+    {
+      "text": "Také další spojky mění vztah mezi podmínkou a výsledkem. Věta „Pojedeme, i kdyby bylo chladno“ připouští nepříznivou okolnost, která rozhodnutí nezmění. „Pojedeme, pokud nebude řeka nebezpečně rozvodněná“ naopak stanovuje omezení. „Výlet se uskuteční, ledaže by bylo zrušeno vlakové spojení“ uvádí výjimku, která plán zastaví. Tyto vztahy nelze při překladu všechny vyjádřit stejným neurčitým slovem, aniž by se ztratila jejich logika.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Také další spojky mění vztah mezi podmínkou a výsledkem.",
+        "Věta „Pojedeme, i kdyby bylo chladno“ připouští nepříznivou okolnost, která rozhodnutí nezmění.",
+        "„Pojedeme, pokud nebude řeka nebezpečně rozvodněná“ naopak stanovuje omezení.",
+        "„Výlet se uskuteční, ledaže by bylo zrušeno vlakové spojení“ uvádí výjimku, která plán zastaví.",
+        "Tyto vztahy nelze při překladu všechny vyjádřit stejným neurčitým slovem, aniž by se ztratila jejich logika."
+      ]
+    },
+    {
+      "text": "Při psaní pokynů jsme si dali pozor na dvojitý zápor. „Nepojedeme, pokud nebude potvrzené ubytování“ znamená, že potvrzení je nutnou podmínkou odjezdu. Není to totéž jako „Pojedeme, i když ubytování potvrzené nebude“. Aby účastníci nemuseli složitou větu rozplétat ve spěchu, přepsali jsme důležitý bod pozitivně: „Odjedeme až po potvrzení ubytování.“ Přesnost někdy vyžaduje jednodušší formulaci, ne složitější gramatiku.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Při psaní pokynů jsme si dali pozor na dvojitý zápor.",
+        "„Nepojedeme, pokud nebude potvrzené ubytování“ znamená, že potvrzení je nutnou podmínkou odjezdu.",
+        "Není to totéž jako „Pojedeme, i když ubytování potvrzené nebude“.",
+        "Aby účastníci nemuseli složitou větu rozplétat ve spěchu, přepsali jsme důležitý bod pozitivně: „Odjedeme až po potvrzení ubytování.“",
+        "Přesnost někdy vyžaduje jednodušší formulaci, ne složitější gramatiku."
+      ]
+    },
+    {
+      "text": "Na konci jsme vytvořili tři jasné větve plánu: běžné počasí, déšť a zrušené spojení. U každé jsme uvedli odpovědnou osobu a způsob oznámení změny. Hypotetické úvahy tak dostaly praktický smysl. Nešlo o nekonečné vymýšlení katastrof, ale o přípravu několika podmínek, které skutečně mění naše rozhodnutí. Po získání nových informací se máme vrátit k těmto podmínkám a vybrat odpovídající větev, nikoli zaměnit jednu domněnku za potvrzený fakt.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Na konci jsme vytvořili tři jasné větve plánu: běžné počasí, déšť a zrušené spojení.",
+        "U každé jsme uvedli odpovědnou osobu a způsob oznámení změny.",
+        "Hypotetické úvahy tak dostaly praktický smysl.",
+        "Nešlo o nekonečné vymýšlení katastrof, ale o přípravu několika podmínek, které skutečně mění naše rozhodnutí.",
+        "Po získání nových informací se máme vrátit k těmto podmínkám a vybrat odpovídající větev, nikoli zaměnit jednu domněnku za potvrzený fakt."
+      ]
+    }
+  ],
+  "text_sha256": "ece1aa051116b1c497cf8f44cd34c1d354c6061f4e47b3e8c91eafc097cbe6fa",
+  "source_file": "content/lessons/B2/B2-U10-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U10-L01--2026.10.22.1--text--ece1aa0511--normal.mp3",
+  "slow_file": "content/audio/files/B2-U10-L01--2026.10.22.1--text--ece1aa0511--slow.mp3",
+  "duration_seconds": 222.10031746031746,
+  "slow_duration_seconds": 250.1732426303855,
+  "cues": [
+    {
+      "text": "Plánujeme víkendový výlet pro skupinu lidí, z nichž někteří přijedou z jiného města. Základní plán počítá s vlakem a pěší cestou kolem řeky. Pokud bude pršet, zkrátíme venkovní část a navštívíme muzeum. To je reálná podmínka, kterou můžeme rozhodnout podle předpovědi. Neříkáme tím, že déšť už nastal nebo že je jistý. Připravujeme postup pro jednu z možných budoucích situací.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Plánujeme víkendový výlet pro skupinu lidí, z nichž někteří přijedou z jiného města.",
+        "Základní plán počítá s vlakem a pěší cestou kolem řeky.",
+        "Pokud bude pršet, zkrátíme venkovní část a navštívíme muzeum.",
+        "To je reálná podmínka, kterou můžeme rozhodnout podle předpovědi.",
+        "Neříkáme tím, že déšť už nastal nebo že je jistý.",
+        "Připravujeme postup pro jednu z možných budoucích situací."
+      ],
+      "start": 0.0,
+      "end": 33.68657596371882,
+      "sentences": [
+        {
+          "text": "Plánujeme víkendový výlet pro skupinu lidí, z nichž někteří přijedou z jiného města.",
+          "start": 0.0,
+          "end": 7.569705215419501,
+          "slow_start": 0.0,
+          "slow_end": 8.417233560090702
+        },
+        {
+          "text": "Základní plán počítá s vlakem a pěší cestou kolem řeky.",
+          "start": 7.749705215419501,
+          "end": 13.02063492063492,
+          "slow_start": 8.597233560090704,
+          "slow_end": 14.73891156462585
+        },
+        {
+          "text": "Pokud bude pršet, zkrátíme venkovní část a navštívíme muzeum.",
+          "start": 13.20063492063492,
+          "end": 18.599274376417235,
+          "slow_start": 14.91891156462585,
+          "slow_end": 21.10702947845805
+        },
+        {
+          "text": "To je reálná podmínka, kterou můžeme rozhodnout podle předpovědi.",
+          "start": 18.779274376417234,
+          "end": 24.27079365079365,
+          "slow_start": 21.28702947845805,
+          "slow_end": 27.626077097505668
+        },
+        {
+          "text": "Neříkáme tím, že déšť už nastal nebo že je jistý.",
+          "start": 24.45079365079365,
+          "end": 28.827755102040815,
+          "slow_start": 27.806077097505668,
+          "slow_end": 32.902857142857144
+        },
+        {
+          "text": "Připravujeme postup pro jednu z možných budoucích situací.",
+          "start": 29.007755102040818,
+          "end": 33.68657596371882,
+          "slow_start": 33.082857142857144,
+          "slow_end": 38.36539682539683
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 38.36539682539683
+    },
+    {
+      "text": "Jedna účastnice navrhuje pronajmout autobus. Odpovídáme: „Kdyby nás jelo víc, autobus by možná vyšel levněji.“ V současnosti ale nemáme dost potvrzených účastníků, a proto s touto variantou nepočítáme jako s hotovým rozhodnutím. Podmínka zde popisuje jiný stav než ten, z něhož právě vycházíme. Přesto může být užitečná: ukazuje, která proměnná by mohla změnit výsledek našeho srovnání.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Jedna účastnice navrhuje pronajmout autobus.",
+        "Odpovídáme: „Kdyby nás jelo víc, autobus by možná vyšel levněji.“",
+        "V současnosti ale nemáme dost potvrzených účastníků, a proto s touto variantou nepočítáme jako s hotovým rozhodnutím.",
+        "Podmínka zde popisuje jiný stav než ten, z něhož právě vycházíme.",
+        "Přesto může být užitečná: ukazuje, která proměnná by mohla změnit výsledek našeho srovnání."
+      ],
+      "start": 33.86657596371882,
+      "end": 68.74312925170068,
+      "sentences": [
+        {
+          "text": "Jedna účastnice navrhuje pronajmout autobus.",
+          "start": 33.86657596371882,
+          "end": 38.18548752834467,
+          "slow_start": 38.54539682539683,
+          "slow_end": 43.35192743764172
+        },
+        {
+          "text": "Odpovídáme: „Kdyby nás jelo víc, autobus by možná vyšel levněji.“",
+          "start": 38.36548752834467,
+          "end": 44.40267573696145,
+          "slow_start": 43.53192743764173,
+          "slow_end": 50.24249433106576
+        },
+        {
+          "text": "V současnosti ale nemáme dost potvrzených účastníků, a proto s touto variantou nepočítáme jako s hotovým rozhodnutím.",
+          "start": 44.58267573696145,
+          "end": 54.60208616780045,
+          "slow_start": 50.42249433106576,
+          "slow_end": 61.80027210884354
+        },
+        {
+          "text": "Podmínka zde popisuje jiný stav než ten, z něhož právě vycházíme.",
+          "start": 54.78208616780045,
+          "end": 60.52902494331066,
+          "slow_start": 61.980272108843536,
+          "slow_end": 68.2728798185941
+        },
+        {
+          "text": "Přesto může být užitečná: ukazuje, která proměnná by mohla změnit výsledek našeho srovnání.",
+          "start": 60.70902494331066,
+          "end": 68.74312925170068,
+          "slow_start": 68.4528798185941,
+          "slow_end": 77.47383219954648
+        }
+      ],
+      "slow_start": 38.54539682539683,
+      "slow_end": 77.47383219954648
+    },
+    {
+      "text": "Při přípravě se vracíme k minulému výletu. Tehdy jsme nakoupili jízdenky pozdě a část skupiny seděla v jiném voze. Říkáme: „Kdybychom tehdy rezervovali místa dřív, seděli bychom pohromadě.“ Z časového výrazu tehdy a z kontextu je zřejmé, že mluvíme o neuskutečněné možnosti v minulosti. Není nutné v každé běžné větě používat složitý tvar s býval. Ten může minulý nerealizovaný děj zdůraznit, ale v současné komunikaci bývá omezený.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Při přípravě se vracíme k minulému výletu.",
+        "Tehdy jsme nakoupili jízdenky pozdě a část skupiny seděla v jiném voze.",
+        "Říkáme: „Kdybychom tehdy rezervovali místa dřív, seděli bychom pohromadě.“",
+        "Z časového výrazu tehdy a z kontextu je zřejmé, že mluvíme o neuskutečněné možnosti v minulosti.",
+        "Není nutné v každé běžné větě používat složitý tvar s býval.",
+        "Ten může minulý nerealizovaný děj zdůraznit, ale v současné komunikaci bývá omezený."
+      ],
+      "start": 68.92312925170069,
+      "end": 107.18403628117913,
+      "sentences": [
+        {
+          "text": "Při přípravě se vracíme k minulému výletu.",
+          "start": 68.92312925170069,
+          "end": 72.69637188208617,
+          "slow_start": 77.65383219954649,
+          "slow_end": 81.79859410430839
+        },
+        {
+          "text": "Tehdy jsme nakoupili jízdenky pozdě a část skupiny seděla v jiném voze.",
+          "start": 72.87637188208616,
+          "end": 78.8671201814059,
+          "slow_start": 81.97859410430839,
+          "slow_end": 88.7936507936508
+        },
+        {
+          "text": "Říkáme: „Kdybychom tehdy rezervovali místa dřív, seděli bychom pohromadě.“",
+          "start": 79.0471201814059,
+          "end": 85.51387755102041,
+          "slow_start": 88.97365079365079,
+          "slow_end": 96.35759637188208
+        },
+        {
+          "text": "Z časového výrazu tehdy a z kontextu je zřejmé, že mluvíme o neuskutečněné možnosti v minulosti.",
+          "start": 85.6938775510204,
+          "end": 93.87891156462585,
+          "slow_start": 96.53759637188209,
+          "slow_end": 105.79074829931973
+        },
+        {
+          "text": "Není nutné v každé běžné větě používat složitý tvar s býval.",
+          "start": 94.05891156462584,
+          "end": 99.37628117913832,
+          "slow_start": 105.97074829931972,
+          "slow_end": 112.08920634920635
+        },
+        {
+          "text": "Ten může minulý nerealizovaný děj zdůraznit, ale v současné komunikaci bývá omezený.",
+          "start": 99.55628117913832,
+          "end": 107.18403628117913,
+          "slow_start": 112.26920634920634,
+          "slow_end": 120.860589569161
+        }
+      ],
+      "slow_start": 77.65383219954649,
+      "slow_end": 120.860589569161
+    },
+    {
+      "text": "Také další spojky mění vztah mezi podmínkou a výsledkem. Věta „Pojedeme, i kdyby bylo chladno“ připouští nepříznivou okolnost, která rozhodnutí nezmění. „Pojedeme, pokud nebude řeka nebezpečně rozvodněná“ naopak stanovuje omezení. „Výlet se uskuteční, ledaže by bylo zrušeno vlakové spojení“ uvádí výjimku, která plán zastaví. Tyto vztahy nelze při překladu všechny vyjádřit stejným neurčitým slovem, aniž by se ztratila jejich logika.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Také další spojky mění vztah mezi podmínkou a výsledkem.",
+        "Věta „Pojedeme, i kdyby bylo chladno“ připouští nepříznivou okolnost, která rozhodnutí nezmění.",
+        "„Pojedeme, pokud nebude řeka nebezpečně rozvodněná“ naopak stanovuje omezení.",
+        "„Výlet se uskuteční, ledaže by bylo zrušeno vlakové spojení“ uvádí výjimku, která plán zastaví.",
+        "Tyto vztahy nelze při překladu všechny vyjádřit stejným neurčitým slovem, aniž by se ztratila jejich logika."
+      ],
+      "start": 107.36403628117914,
+      "end": 144.7251247165533,
+      "sentences": [
+        {
+          "text": "Také další spojky mění vztah mezi podmínkou a výsledkem.",
+          "start": 107.36403628117914,
+          "end": 112.46081632653062,
+          "slow_start": 121.040589569161,
+          "slow_end": 126.8804081632653
+        },
+        {
+          "text": "Věta „Pojedeme, i kdyby bylo chladno“ připouští nepříznivou okolnost, která rozhodnutí nezmění.",
+          "start": 112.64081632653061,
+          "end": 120.57043083900227,
+          "slow_start": 127.06040816326531,
+          "slow_end": 135.84916099773244
+        },
+        {
+          "text": "„Pojedeme, pokud nebude řeka nebezpečně rozvodněná“ naopak stanovuje omezení.",
+          "start": 120.75043083900226,
+          "end": 126.97337868480726,
+          "slow_start": 136.02916099773242,
+          "slow_end": 142.90226757369615
+        },
+        {
+          "text": "„Výlet se uskuteční, ledaže by bylo zrušeno vlakové spojení“ uvádí výjimku, která plán zastaví.",
+          "start": 127.15337868480725,
+          "end": 135.76798185941044,
+          "slow_start": 143.08226757369616,
+          "slow_end": 152.8578684807256
+        },
+        {
+          "text": "Tyto vztahy nelze při překladu všechny vyjádřit stejným neurčitým slovem, aniž by se ztratila jejich logika.",
+          "start": 135.94798185941042,
+          "end": 144.7251247165533,
+          "slow_start": 153.03786848072562,
+          "slow_end": 163.01083900226757
+        }
+      ],
+      "slow_start": 121.040589569161,
+      "slow_end": 163.01083900226757
+    },
+    {
+      "text": "Při psaní pokynů jsme si dali pozor na dvojitý zápor. „Nepojedeme, pokud nebude potvrzené ubytování“ znamená, že potvrzení je nutnou podmínkou odjezdu. Není to totéž jako „Pojedeme, i když ubytování potvrzené nebude“. Aby účastníci nemuseli složitou větu rozplétat ve spěchu, přepsali jsme důležitý bod pozitivně: „Odjedeme až po potvrzení ubytování.“ Přesnost někdy vyžaduje jednodušší formulaci, ne složitější gramatiku.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Při psaní pokynů jsme si dali pozor na dvojitý zápor.",
+        "„Nepojedeme, pokud nebude potvrzené ubytování“ znamená, že potvrzení je nutnou podmínkou odjezdu.",
+        "Není to totéž jako „Pojedeme, i když ubytování potvrzené nebude“.",
+        "Aby účastníci nemuseli složitou větu rozplétat ve spěchu, přepsali jsme důležitý bod pozitivně: „Odjedeme až po potvrzení ubytování.“",
+        "Přesnost někdy vyžaduje jednodušší formulaci, ne složitější gramatiku."
+      ],
+      "start": 144.90512471655327,
+      "end": 181.69732426303855,
+      "sentences": [
+        {
+          "text": "Při psaní pokynů jsme si dali pozor na dvojitý zápor.",
+          "start": 144.90512471655327,
+          "end": 149.8974149659864,
+          "slow_start": 163.19083900226758,
+          "slow_end": 168.85650793650794
+        },
+        {
+          "text": "„Nepojedeme, pokud nebude potvrzené ubytování“ znamená, že potvrzení je nutnou podmínkou odjezdu.",
+          "start": 150.0774149659864,
+          "end": 158.16956916099772,
+          "slow_start": 169.03650793650795,
+          "slow_end": 178.42897959183674
+        },
+        {
+          "text": "Není to totéž jako „Pojedeme, i když ubytování potvrzené nebude“.",
+          "start": 158.34956916099773,
+          "end": 163.84108843537416,
+          "slow_start": 178.60897959183674,
+          "slow_end": 184.83192743764172
+        },
+        {
+          "text": "Aby účastníci nemuseli složitou větu rozplétat ve spěchu, přepsali jsme důležitý bod pozitivně: „Odjedeme až po potvrzení ubytování.“",
+          "start": 164.02108843537414,
+          "end": 175.92131519274378,
+          "slow_start": 185.01192743764173,
+          "slow_end": 198.21247165532878
+        },
+        {
+          "text": "Přesnost někdy vyžaduje jednodušší formulaci, ne složitější gramatiku.",
+          "start": 176.10131519274375,
+          "end": 181.69732426303855,
+          "slow_start": 198.3924716553288,
+          "slow_end": 204.84761904761905
+        }
+      ],
+      "slow_start": 163.19083900226758,
+      "slow_end": 204.84761904761905
+    },
+    {
+      "text": "Na konci jsme vytvořili tři jasné větve plánu: běžné počasí, déšť a zrušené spojení. U každé jsme uvedli odpovědnou osobu a způsob oznámení změny. Hypotetické úvahy tak dostaly praktický smysl. Nešlo o nekonečné vymýšlení katastrof, ale o přípravu několika podmínek, které skutečně mění naše rozhodnutí. Po získání nových informací se máme vrátit k těmto podmínkám a vybrat odpovídající větev, nikoli zaměnit jednu domněnku za potvrzený fakt.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Na konci jsme vytvořili tři jasné větve plánu: běžné počasí, déšť a zrušené spojení.",
+        "U každé jsme uvedli odpovědnou osobu a způsob oznámení změny.",
+        "Hypotetické úvahy tak dostaly praktický smysl.",
+        "Nešlo o nekonečné vymýšlení katastrof, ale o přípravu několika podmínek, které skutečně mění naše rozhodnutí.",
+        "Po získání nových informací se máme vrátit k těmto podmínkám a vybrat odpovídající větev, nikoli zaměnit jednu domněnku za potvrzený fakt."
+      ],
+      "start": 181.87732426303856,
+      "end": 221.92031746031745,
+      "sentences": [
+        {
+          "text": "Na konci jsme vytvořili tři jasné větve plánu: běžné počasí, déšť a zrušené spojení.",
+          "start": 181.87732426303856,
+          "end": 189.95786848072564,
+          "slow_start": 205.02761904761905,
+          "slow_end": 214.09501133786847
+        },
+        {
+          "text": "U každé jsme uvedli odpovědnou osobu a způsob oznámení změny.",
+          "start": 190.13786848072561,
+          "end": 195.75709750566892,
+          "slow_start": 214.27501133786848,
+          "slow_end": 220.67210884353742
+        },
+        {
+          "text": "Hypotetické úvahy tak dostaly praktický smysl.",
+          "start": 195.93709750566893,
+          "end": 200.15151927437643,
+          "slow_start": 220.85210884353742,
+          "slow_end": 225.43804988662131
+        },
+        {
+          "text": "Nešlo o nekonečné vymýšlení katastrof, ale o přípravu několika podmínek, které skutečně mění naše rozhodnutí.",
+          "start": 200.3315192743764,
+          "end": 209.46857142857144,
+          "slow_start": 225.61804988662132,
+          "slow_end": 235.81160997732425
+        },
+        {
+          "text": "Po získání nových informací se máme vrátit k těmto podmínkám a vybrat odpovídající větev, nikoli zaměnit jednu domněnku za potvrzený fakt.",
+          "start": 209.64857142857142,
+          "end": 221.92031746031745,
+          "slow_start": 235.99160997732426,
+          "slow_end": 249.99324263038548
+        }
+      ],
+      "slow_start": 205.02761904761905,
+      "slow_end": 249.99324263038548
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "7c3d23972ced6ccce65bf85efa68e2e5d6dce651169b3d0790484a41fea3926a",
+    "slow": "20c2eec5fa928b38a194bf85484f9e6bcd8316f14755dee6c2df05b75ee19ae3"
+  }
+}

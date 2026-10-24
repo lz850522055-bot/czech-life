@@ -1,0 +1,202 @@
+{
+  "id": "A2-U04-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "A2-U04-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Telefon patří Petrovi.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Telefon patří Petrovi."
+      ]
+    },
+    {
+      "text": "Hledám svůj telefon.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Hledám svůj telefon."
+      ]
+    },
+    {
+      "text": "To je cizí taška.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "To je cizí taška."
+      ]
+    },
+    {
+      "text": "Na telefonu je nálepka.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Na telefonu je nálepka."
+      ]
+    },
+    {
+      "text": "Domluvíme předání.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Domluvíme předání."
+      ]
+    },
+    {
+      "text": "Zkontrolujte své věci.",
+      "index": 5,
+      "role": "vocabulary",
+      "parts": [
+        "Zkontrolujte své věci."
+      ]
+    }
+  ],
+  "text_sha256": "d27c3fe5021f3f2ed0c981f12951c5ccdb26c3f0999b973189fb2c23ddc45dac",
+  "source_file": "content/lessons/A2/A2-U04-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U04-L01--2026.10.22.1--vocabulary--d27c3fe502--normal.mp3",
+  "slow_file": "content/audio/files/A2-U04-L01--2026.10.22.1--vocabulary--d27c3fe502--slow.mp3",
+  "duration_seconds": 12.957006802721088,
+  "slow_duration_seconds": 14.443083900226757,
+  "cues": [
+    {
+      "text": "Telefon patří Petrovi.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Telefon patří Petrovi."
+      ],
+      "start": 0.0,
+      "end": 2.1130158730158732,
+      "sentences": [
+        {
+          "text": "Telefon patří Petrovi.",
+          "start": 0.0,
+          "end": 2.1130158730158732,
+          "slow_start": 0.0,
+          "slow_end": 2.391655328798186
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.391655328798186
+    },
+    {
+      "text": "Hledám svůj telefon.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Hledám svůj telefon."
+      ],
+      "start": 2.293015873015873,
+      "end": 4.185442176870748,
+      "sentences": [
+        {
+          "text": "Hledám svůj telefon.",
+          "start": 2.293015873015873,
+          "end": 4.185442176870748,
+          "slow_start": 2.571655328798186,
+          "slow_end": 4.80077097505669
+        }
+      ],
+      "slow_start": 2.571655328798186,
+      "slow_end": 4.80077097505669
+    },
+    {
+      "text": "To je cizí taška.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "To je cizí taška."
+      ],
+      "start": 4.365442176870748,
+      "end": 6.0140589569161,
+      "sentences": [
+        {
+          "text": "To je cizí taška.",
+          "start": 4.365442176870748,
+          "end": 6.0140589569161,
+          "slow_start": 4.980770975056689,
+          "slow_end": 6.803537414965986
+        }
+      ],
+      "slow_start": 4.980770975056689,
+      "slow_end": 6.803537414965986
+    },
+    {
+      "text": "Na telefonu je nálepka.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Na telefonu je nálepka."
+      ],
+      "start": 6.1940589569161,
+      "end": 8.434784580498865,
+      "sentences": [
+        {
+          "text": "Na telefonu je nálepka.",
+          "start": 6.1940589569161,
+          "end": 8.434784580498865,
+          "slow_start": 6.983537414965986,
+          "slow_end": 9.421632653061225
+        }
+      ],
+      "slow_start": 6.983537414965986,
+      "slow_end": 9.421632653061225
+    },
+    {
+      "text": "Domluvíme předání.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Domluvíme předání."
+      ],
+      "start": 8.614784580498867,
+      "end": 10.507210884353741,
+      "sentences": [
+        {
+          "text": "Domluvíme předání.",
+          "start": 8.614784580498867,
+          "end": 10.507210884353741,
+          "slow_start": 9.601632653061225,
+          "slow_end": 11.656598639455781
+        }
+      ],
+      "slow_start": 9.601632653061225,
+      "slow_end": 11.656598639455781
+    },
+    {
+      "text": "Zkontrolujte své věci.",
+      "index": 5,
+      "role": "vocabulary",
+      "parts": [
+        "Zkontrolujte své věci."
+      ],
+      "start": 10.68721088435374,
+      "end": 12.777006802721088,
+      "sentences": [
+        {
+          "text": "Zkontrolujte své věci.",
+          "start": 10.68721088435374,
+          "end": 12.777006802721088,
+          "slow_start": 11.836598639455783,
+          "slow_end": 14.263083900226757
+        }
+      ],
+      "slow_start": 11.836598639455783,
+      "slow_end": 14.263083900226757
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "95175176ee6ae4d2acd1a1f8733515dae2614e1240290b5a11d6af7cd0b32d01",
+    "slow": "c314c0cb265e0e2389622e58ffb4686951c28dc78ab2c361bc226bf47318f27c"
+  }
+}

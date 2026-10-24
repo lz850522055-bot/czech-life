@@ -1,0 +1,382 @@
+{
+  "id": "B2-U02-L01--2026.10.22.1--text",
+  "lesson_id": "B2-U02-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Organizujeme menší kulturní festival a hledáme dodavatele vratných kelímků. Jedna nabídka má nejnižší cenu za kus, ale vyžaduje vysoký minimální odběr a neobsahuje dopravu. Druhá je dražší, zato umožňuje menší počet a dodání přímo na místo. Než jsme začali vyjednávat, sepsali jsme své skutečné potřeby: přiměřené množství, známý celkový rozpočet a jistotu, že zboží dorazí před zahájením akce.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Organizujeme menší kulturní festival a hledáme dodavatele vratných kelímků.",
+        "Jedna nabídka má nejnižší cenu za kus, ale vyžaduje vysoký minimální odběr a neobsahuje dopravu.",
+        "Druhá je dražší, zato umožňuje menší počet a dodání přímo na místo.",
+        "Než jsme začali vyjednávat, sepsali jsme své skutečné potřeby: přiměřené množství, známý celkový rozpočet a jistotu, že zboží dorazí před zahájením akce."
+      ]
+    },
+    {
+      "text": "Dodavateli jsme nevysvětlovali, že jeho cena je prostě nepřijatelná. Popsali jsme omezení a zeptali se, které části nabídky lze upravit. Ukázalo se, že nižší cenu podmiňuje objednávkou několika barev v přesně daném poměru. Pro nás však barva nebyla podstatná. Důležitější bylo, aby se kelímky daly snadno vracet a aby nebyly zaměnitelné s jednorázovým nádobím, které se v areálu také používá.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Dodavateli jsme nevysvětlovali, že jeho cena je prostě nepřijatelná.",
+        "Popsali jsme omezení a zeptali se, které části nabídky lze upravit.",
+        "Ukázalo se, že nižší cenu podmiňuje objednávkou několika barev v přesně daném poměru.",
+        "Pro nás však barva nebyla podstatná.",
+        "Důležitější bylo, aby se kelímky daly snadno vracet a aby nebyly zaměnitelné s jednorázovým nádobím, které se v areálu také používá."
+      ]
+    },
+    {
+      "text": "Navrhli jsme tedy výměnu podmínek: přijmeme dostupné barvy, pokud dodavatel sníží minimální množství a písemně potvrdí termín doručení. On nabídl menší slevu, ale ponechal původní minimum. Taková nabídka na první pohled vypadala výhodněji, celkovou útratu však téměř nesnížila. Vrátili jsme rozhovor k částce za celou objednávku a k tomu, kolik nevyužitých kusů by nám po akci zůstalo.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Navrhli jsme tedy výměnu podmínek: přijmeme dostupné barvy, pokud dodavatel sníží minimální množství a písemně potvrdí termín doručení.",
+        "On nabídl menší slevu, ale ponechal původní minimum.",
+        "Taková nabídka na první pohled vypadala výhodněji, celkovou útratu však téměř nesnížila.",
+        "Vrátili jsme rozhovor k částce za celou objednávku a k tomu, kolik nevyužitých kusů by nám po akci zůstalo."
+      ]
+    },
+    {
+      "text": "V další fázi jsme hledali možnost společné objednávky se sousedním spolkem. Dodavatel s tím souhlasil, pokud bude mít jednoho smluvního partnera a jednu dodací adresu. Museli jsme si proto nejprve interně vyjasnit odpovědnost za převzetí a rozdělení zboží. Bez toho bychom sice dosáhli nižší ceny, ale vytvořili bychom nový spor mezi dvěma organizacemi. Výhodná podmínka pro jednu stranu může přesouvat práci na druhou.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "V další fázi jsme hledali možnost společné objednávky se sousedním spolkem.",
+        "Dodavatel s tím souhlasil, pokud bude mít jednoho smluvního partnera a jednu dodací adresu.",
+        "Museli jsme si proto nejprve interně vyjasnit odpovědnost za převzetí a rozdělení zboží.",
+        "Bez toho bychom sice dosáhli nižší ceny, ale vytvořili bychom nový spor mezi dvěma organizacemi.",
+        "Výhodná podmínka pro jednu stranu může přesouvat práci na druhou."
+      ]
+    },
+    {
+      "text": "Konečná dohoda obsahovala počet kusů, celkovou cenu, dopravu, datum doručení a postup při rozdílu mezi objednávkou a dodávkou. Větu „Pokusíme se dodat do čtvrtka“ jsme nepovažovali za pevné potvrzení. Požádali jsme dodavatele, aby odlišil závazný termín od odhadu. Pokud by termín potvrdit nemohl, museli bychom zvolit jiného partnera, i kdyby jeho nabídka byla o něco dražší.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Konečná dohoda obsahovala počet kusů, celkovou cenu, dopravu, datum doručení a postup při rozdílu mezi objednávkou a dodávkou.",
+        "Větu „Pokusíme se dodat do čtvrtka“ jsme nepovažovali za pevné potvrzení.",
+        "Požádali jsme dodavatele, aby odlišil závazný termín od odhadu.",
+        "Pokud by termín potvrdit nemohl, museli bychom zvolit jiného partnera, i kdyby jeho nabídka byla o něco dražší."
+      ]
+    },
+    {
+      "text": "Jednání skončilo dohodou, protože obě strany našly podmínky, které jim dávaly smysl. Neznamená to, že každá diskuse musí skončit nákupem. Kdyby se nepodařilo splnit klíčovou podmínku včasného doručení, bylo by rozumnější objednávku neuzavřít. Zdvořilá věta o tom, že nabídku nyní nemůžeme přijmout, může být přesnější a užitečnější než neurčitý souhlas, který později nedokážeme dodržet.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Jednání skončilo dohodou, protože obě strany našly podmínky, které jim dávaly smysl.",
+        "Neznamená to, že každá diskuse musí skončit nákupem.",
+        "Kdyby se nepodařilo splnit klíčovou podmínku včasného doručení, bylo by rozumnější objednávku neuzavřít.",
+        "Zdvořilá věta o tom, že nabídku nyní nemůžeme přijmout, může být přesnější a užitečnější než neurčitý souhlas, který později nedokážeme dodržet."
+      ]
+    }
+  ],
+  "text_sha256": "fb6311e032295e3db04319efd0ce108dc104867c0c722a27d4b585959a427271",
+  "source_file": "content/lessons/B2/B2-U02-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--normal.mp3",
+  "slow_file": "content/audio/files/B2-U02-L01--2026.10.22.1--text--fb6311e032--slow.mp3",
+  "duration_seconds": 209.59609977324263,
+  "slow_duration_seconds": 237.44843537414965,
+  "cues": [
+    {
+      "text": "Organizujeme menší kulturní festival a hledáme dodavatele vratných kelímků. Jedna nabídka má nejnižší cenu za kus, ale vyžaduje vysoký minimální odběr a neobsahuje dopravu. Druhá je dražší, zato umožňuje menší počet a dodání přímo na místo. Než jsme začali vyjednávat, sepsali jsme své skutečné potřeby: přiměřené množství, známý celkový rozpočet a jistotu, že zboží dorazí před zahájením akce.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Organizujeme menší kulturní festival a hledáme dodavatele vratných kelímků.",
+        "Jedna nabídka má nejnižší cenu za kus, ale vyžaduje vysoký minimální odběr a neobsahuje dopravu.",
+        "Druhá je dražší, zato umožňuje menší počet a dodání přímo na místo.",
+        "Než jsme začali vyjednávat, sepsali jsme své skutečné potřeby: přiměřené množství, známý celkový rozpočet a jistotu, že zboží dorazí před zahájením akce."
+      ],
+      "start": 0.0,
+      "end": 35.5324716553288,
+      "sentences": [
+        {
+          "text": "Organizujeme menší kulturní festival a hledáme dodavatele vratných kelímků.",
+          "start": 0.0,
+          "end": 6.466757369614513,
+          "slow_start": 0.0,
+          "slow_end": 7.476825396825397
+        },
+        {
+          "text": "Jedna nabídka má nejnižší cenu za kus, ale vyžaduje vysoký minimální odběr a neobsahuje dopravu.",
+          "start": 6.646757369614512,
+          "end": 14.959501133786848,
+          "slow_start": 7.656825396825397,
+          "slow_end": 16.88675736961451
+        },
+        {
+          "text": "Druhá je dražší, zato umožňuje menší počet a dodání přímo na místo.",
+          "start": 15.139501133786847,
+          "end": 21.316009070294786,
+          "slow_start": 17.066757369614514,
+          "slow_end": 24.253333333333334
+        },
+        {
+          "text": "Než jsme začali vyjednávat, sepsali jsme své skutečné potřeby: přiměřené množství, známý celkový rozpočet a jistotu, že zboží dorazí před zahájením akce.",
+          "start": 21.496009070294786,
+          "end": 35.5324716553288,
+          "slow_start": 24.433333333333334,
+          "slow_end": 40.5595918367347
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 40.5595918367347
+    },
+    {
+      "text": "Dodavateli jsme nevysvětlovali, že jeho cena je prostě nepřijatelná. Popsali jsme omezení a zeptali se, které části nabídky lze upravit. Ukázalo se, že nižší cenu podmiňuje objednávkou několika barev v přesně daném poměru. Pro nás však barva nebyla podstatná. Důležitější bylo, aby se kelímky daly snadno vracet a aby nebyly zaměnitelné s jednorázovým nádobím, které se v areálu také používá.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Dodavateli jsme nevysvětlovali, že jeho cena je prostě nepřijatelná.",
+        "Popsali jsme omezení a zeptali se, které části nabídky lze upravit.",
+        "Ukázalo se, že nižší cenu podmiňuje objednávkou několika barev v přesně daném poměru.",
+        "Pro nás však barva nebyla podstatná.",
+        "Důležitější bylo, aby se kelímky daly snadno vracet a aby nebyly zaměnitelné s jednorázovým nádobím, které se v areálu také používá."
+      ],
+      "start": 35.7124716553288,
+      "end": 70.65868480725624,
+      "sentences": [
+        {
+          "text": "Dodavateli jsme nevysvětlovali, že jeho cena je prostě nepřijatelná.",
+          "start": 35.7124716553288,
+          "end": 41.42458049886621,
+          "slow_start": 40.7395918367347,
+          "slow_end": 47.13668934240363
+        },
+        {
+          "text": "Popsali jsme omezení a zeptali se, které části nabídky lze upravit.",
+          "start": 41.60458049886621,
+          "end": 47.72303854875283,
+          "slow_start": 47.31668934240363,
+          "slow_end": 54.20140589569161
+        },
+        {
+          "text": "Ukázalo se, že nižší cenu podmiňuje objednávkou několika barev v přesně daném poměru.",
+          "start": 47.90303854875283,
+          "end": 55.33342403628118,
+          "slow_start": 54.38140589569161,
+          "slow_end": 62.78702947845805
+        },
+        {
+          "text": "Pro nás však barva nebyla podstatná.",
+          "start": 55.51342403628118,
+          "end": 58.69455782312925,
+          "slow_start": 62.96702947845805,
+          "slow_end": 66.60095238095238
+        },
+        {
+          "text": "Důležitější bylo, aby se kelímky daly snadno vracet a aby nebyly zaměnitelné s jednorázovým nádobím, které se v areálu také používá.",
+          "start": 58.87455782312925,
+          "end": 70.65868480725624,
+          "slow_start": 66.78095238095239,
+          "slow_end": 80.19047619047619
+        }
+      ],
+      "slow_start": 40.7395918367347,
+      "slow_end": 80.19047619047619
+    },
+    {
+      "text": "Navrhli jsme tedy výměnu podmínek: přijmeme dostupné barvy, pokud dodavatel sníží minimální množství a písemně potvrdí termín doručení. On nabídl menší slevu, ale ponechal původní minimum. Taková nabídka na první pohled vypadala výhodněji, celkovou útratu však téměř nesnížila. Vrátili jsme rozhovor k částce za celou objednávku a k tomu, kolik nevyužitých kusů by nám po akci zůstalo.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Navrhli jsme tedy výměnu podmínek: přijmeme dostupné barvy, pokud dodavatel sníží minimální množství a písemně potvrdí termín doručení.",
+        "On nabídl menší slevu, ale ponechal původní minimum.",
+        "Taková nabídka na první pohled vypadala výhodněji, celkovou útratu však téměř nesnížila.",
+        "Vrátili jsme rozhovor k částce za celou objednávku a k tomu, kolik nevyužitých kusů by nám po akci zůstalo."
+      ],
+      "start": 70.83868480725623,
+      "end": 104.94312925170068,
+      "sentences": [
+        {
+          "text": "Navrhli jsme tedy výměnu podmínek: přijmeme dostupné barvy, pokud dodavatel sníží minimální množství a písemně potvrdí termín doručení.",
+          "start": 70.83868480725623,
+          "end": 81.97265306122449,
+          "slow_start": 80.3704761904762,
+          "slow_end": 93.29238095238095
+        },
+        {
+          "text": "On nabídl menší slevu, ale ponechal původní minimum.",
+          "start": 82.15265306122448,
+          "end": 87.48163265306123,
+          "slow_start": 93.47238095238096,
+          "slow_end": 99.62566893424037
+        },
+        {
+          "text": "Taková nabídka na první pohled vypadala výhodněji, celkovou útratu však téměř nesnížila.",
+          "start": 87.66163265306122,
+          "end": 95.40548752834466,
+          "slow_start": 99.80566893424036,
+          "slow_end": 108.58281179138322
+        },
+        {
+          "text": "Vrátili jsme rozhovor k částce za celou objednávku a k tomu, kolik nevyužitých kusů by nám po akci zůstalo.",
+          "start": 95.58548752834467,
+          "end": 104.94312925170068,
+          "slow_start": 108.76281179138321,
+          "slow_end": 119.39755102040816
+        }
+      ],
+      "slow_start": 80.3704761904762,
+      "slow_end": 119.39755102040816
+    },
+    {
+      "text": "V další fázi jsme hledali možnost společné objednávky se sousedním spolkem. Dodavatel s tím souhlasil, pokud bude mít jednoho smluvního partnera a jednu dodací adresu. Museli jsme si proto nejprve interně vyjasnit odpovědnost za převzetí a rozdělení zboží. Bez toho bychom sice dosáhli nižší ceny, ale vytvořili bychom nový spor mezi dvěma organizacemi. Výhodná podmínka pro jednu stranu může přesouvat práci na druhou.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "V další fázi jsme hledali možnost společné objednávky se sousedním spolkem.",
+        "Dodavatel s tím souhlasil, pokud bude mít jednoho smluvního partnera a jednu dodací adresu.",
+        "Museli jsme si proto nejprve interně vyjasnit odpovědnost za převzetí a rozdělení zboží.",
+        "Bez toho bychom sice dosáhli nižší ceny, ale vytvořili bychom nový spor mezi dvěma organizacemi.",
+        "Výhodná podmínka pro jednu stranu může přesouvat práci na druhou."
+      ],
+      "start": 105.12312925170068,
+      "end": 141.90371882086168,
+      "sentences": [
+        {
+          "text": "V další fázi jsme hledali možnost společné objednávky se sousedním spolkem.",
+          "start": 105.12312925170068,
+          "end": 111.75242630385488,
+          "slow_start": 119.57755102040817,
+          "slow_end": 127.42589569160998
+        },
+        {
+          "text": "Dodavatel s tím souhlasil, pokud bude mít jednoho smluvního partnera a jednu dodací adresu.",
+          "start": 111.93242630385488,
+          "end": 119.90848072562358,
+          "slow_start": 127.60589569160997,
+          "slow_end": 136.61523809523808
+        },
+        {
+          "text": "Museli jsme si proto nejprve interně vyjasnit odpovědnost za převzetí a rozdělení zboží.",
+          "start": 120.08848072562358,
+          "end": 127.8091156462585,
+          "slow_start": 136.7952380952381,
+          "slow_end": 145.44467120181406
+        },
+        {
+          "text": "Bez toho bychom sice dosáhli nižší ceny, ale vytvořili bychom nový spor mezi dvěma organizacemi.",
+          "start": 127.9891156462585,
+          "end": 136.23219954648525,
+          "slow_start": 145.62467120181407,
+          "slow_end": 154.71528344671202
+        },
+        {
+          "text": "Výhodná podmínka pro jednu stranu může přesouvat práci na druhou.",
+          "start": 136.41219954648525,
+          "end": 141.90371882086168,
+          "slow_start": 154.89528344671203,
+          "slow_end": 161.22272108843538
+        }
+      ],
+      "slow_start": 119.57755102040817,
+      "slow_end": 161.22272108843538
+    },
+    {
+      "text": "Konečná dohoda obsahovala počet kusů, celkovou cenu, dopravu, datum doručení a postup při rozdílu mezi objednávkou a dodávkou. Větu „Pokusíme se dodat do čtvrtka“ jsme nepovažovali za pevné potvrzení. Požádali jsme dodavatele, aby odlišil závazný termín od odhadu. Pokud by termín potvrdit nemohl, museli bychom zvolit jiného partnera, i kdyby jeho nabídka byla o něco dražší.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Konečná dohoda obsahovala počet kusů, celkovou cenu, dopravu, datum doručení a postup při rozdílu mezi objednávkou a dodávkou.",
+        "Větu „Pokusíme se dodat do čtvrtka“ jsme nepovažovali za pevné potvrzení.",
+        "Požádali jsme dodavatele, aby odlišil závazný termín od odhadu.",
+        "Pokud by termín potvrdit nemohl, museli bychom zvolit jiného partnera, i kdyby jeho nabídka byla o něco dražší."
+      ],
+      "start": 142.0837188208617,
+      "end": 174.26090702947846,
+      "sentences": [
+        {
+          "text": "Konečná dohoda obsahovala počet kusů, celkovou cenu, dopravu, datum doručení a postup při rozdílu mezi objednávkou a dodávkou.",
+          "start": 142.0837188208617,
+          "end": 153.43827664399092,
+          "slow_start": 161.40272108843538,
+          "slow_end": 174.40589569160997
+        },
+        {
+          "text": "Větu „Pokusíme se dodat do čtvrtka“ jsme nepovažovali za pevné potvrzení.",
+          "start": 153.61827664399092,
+          "end": 159.44648526077097,
+          "slow_start": 174.58589569160998,
+          "slow_end": 181.12231292517006
+        },
+        {
+          "text": "Požádali jsme dodavatele, aby odlišil závazný termín od odhadu.",
+          "start": 159.62648526077098,
+          "end": 165.07156462585033,
+          "slow_start": 181.30231292517007,
+          "slow_end": 187.50204081632654
+        },
+        {
+          "text": "Pokud by termín potvrdit nemohl, museli bychom zvolit jiného partnera, i kdyby jeho nabídka byla o něco dražší.",
+          "start": 165.25156462585034,
+          "end": 174.26090702947846,
+          "slow_start": 187.68204081632652,
+          "slow_end": 197.89882086167802
+        }
+      ],
+      "slow_start": 161.40272108843538,
+      "slow_end": 197.89882086167802
+    },
+    {
+      "text": "Jednání skončilo dohodou, protože obě strany našly podmínky, které jim dávaly smysl. Neznamená to, že každá diskuse musí skončit nákupem. Kdyby se nepodařilo splnit klíčovou podmínku včasného doručení, bylo by rozumnější objednávku neuzavřít. Zdvořilá věta o tom, že nabídku nyní nemůžeme přijmout, může být přesnější a užitečnější než neurčitý souhlas, který později nedokážeme dodržet.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Jednání skončilo dohodou, protože obě strany našly podmínky, které jim dávaly smysl.",
+        "Neznamená to, že každá diskuse musí skončit nákupem.",
+        "Kdyby se nepodařilo splnit klíčovou podmínku včasného doručení, bylo by rozumnější objednávku neuzavřít.",
+        "Zdvořilá věta o tom, že nabídku nyní nemůžeme přijmout, může být přesnější a užitečnější než neurčitý souhlas, který později nedokážeme dodržet."
+      ],
+      "start": 174.44090702947847,
+      "end": 209.41609977324262,
+      "sentences": [
+        {
+          "text": "Jednání skončilo dohodou, protože obě strany našly podmínky, které jim dávaly smysl.",
+          "start": 174.44090702947847,
+          "end": 181.91773242630384,
+          "slow_start": 198.078820861678,
+          "slow_end": 206.39156462585035
+        },
+        {
+          "text": "Neznamená to, že každá diskuse musí skončit nákupem.",
+          "start": 182.09773242630385,
+          "end": 186.9274829931973,
+          "slow_start": 206.57156462585033,
+          "slow_end": 211.98181405895693
+        },
+        {
+          "text": "Kdyby se nepodařilo splnit klíčovou podmínku včasného doručení, bylo by rozumnější objednávku neuzavřít.",
+          "start": 187.10748299319727,
+          "end": 196.63927437641723,
+          "slow_start": 212.1618140589569,
+          "slow_end": 222.94748299319727
+        },
+        {
+          "text": "Zdvořilá věta o tom, že nabídku nyní nemůžeme přijmout, může být přesnější a užitečnější než neurčitý souhlas, který později nedokážeme dodržet.",
+          "start": 196.81927437641724,
+          "end": 209.41609977324262,
+          "slow_start": 223.12748299319728,
+          "slow_end": 237.26843537414965
+        }
+      ],
+      "slow_start": 198.078820861678,
+      "slow_end": 237.26843537414965
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "262cbd5c306d9b479ee16220c11a6fdf2d03c34ce986c45869d1f4e537c7270a",
+    "slow": "a3e825175141cb757138f64b333644f95379c1ef56e0a592b14d4d56db725cf4"
+  }
+}

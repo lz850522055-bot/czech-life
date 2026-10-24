@@ -1,0 +1,370 @@
+{
+  "id": "A1-U11-L01--2026.10.22.1--text",
+  "lesson_id": "A1-U11-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "To je Petr. Petr dnes připravuje malou oslavu.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "To je Petr.",
+        "Petr dnes připravuje malou oslavu."
+      ]
+    },
+    {
+      "text": "Vidím Petra před obchodem. Kupuje chléb a ovoce.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Vidím Petra před obchodem.",
+        "Kupuje chléb a ovoce."
+      ]
+    },
+    {
+      "text": "Telefonuju Petrovi. Ptám se ho, co ještě potřebuje.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Telefonuju Petrovi.",
+        "Ptám se ho, co ještě potřebuje."
+      ]
+    },
+    {
+      "text": "Petr říká: Přijď bez dárku. Máme všechno.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Petr říká: Přijď bez dárku.",
+        "Máme všechno."
+      ]
+    },
+    {
+      "text": "Jdu do obchodu a potom k Petrovi. Mám jen malou tašku.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Jdu do obchodu a potom k Petrovi.",
+        "Mám jen malou tašku."
+      ]
+    },
+    {
+      "text": "U Petra je Jana. Mluvím s Janou o práci a o Praze.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "U Petra je Jana.",
+        "Mluvím s Janou o práci a o Praze."
+      ]
+    },
+    {
+      "text": "Petře, kde je voda? Je na stole vedle čaje.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Petře, kde je voda?",
+        "Je na stole vedle čaje."
+      ]
+    },
+    {
+      "text": "Děkuju. Čaj si dám bez cukru. Potom jdu s Petrem ven.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Děkuju.",
+        "Čaj si dám bez cukru.",
+        "Potom jdu s Petrem ven."
+      ]
+    },
+    {
+      "text": "Jména se mění, ale pořád mluvíme o stejných lidech.",
+      "index": 8,
+      "role": "text",
+      "parts": [
+        "Jména se mění, ale pořád mluvíme o stejných lidech."
+      ]
+    }
+  ],
+  "text_sha256": "683cc95b2f8ccb9c178af57d6f70b627cce63b5af0c14c69dd410e33a246553e",
+  "source_file": "content/lessons/A1/A1-U11-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U11-L01--2026.10.22.1--text--683cc95b2f--normal.mp3",
+  "slow_file": "content/audio/files/A1-U11-L01--2026.10.22.1--text--683cc95b2f--slow.mp3",
+  "duration_seconds": 43.155102040816324,
+  "slow_duration_seconds": 47.75265306122449,
+  "cues": [
+    {
+      "text": "To je Petr. Petr dnes připravuje malou oslavu.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "To je Petr.",
+        "Petr dnes připravuje malou oslavu."
+      ],
+      "start": 0.0,
+      "end": 4.591791383219955,
+      "sentences": [
+        {
+          "text": "To je Petr.",
+          "start": 0.0,
+          "end": 1.5673469387755101,
+          "slow_start": 0.0,
+          "slow_end": 1.172607709750567
+        },
+        {
+          "text": "Petr dnes připravuje malou oslavu.",
+          "start": 1.7473469387755103,
+          "end": 4.591791383219955,
+          "slow_start": 1.3526077097505669,
+          "slow_end": 4.661451247165533
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 4.661451247165533
+    },
+    {
+      "text": "Vidím Petra před obchodem. Kupuje chléb a ovoce.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Vidím Petra před obchodem.",
+        "Kupuje chléb a ovoce."
+      ],
+      "start": 4.771791383219955,
+      "end": 9.142993197278912,
+      "sentences": [
+        {
+          "text": "Vidím Petra před obchodem.",
+          "start": 4.771791383219955,
+          "end": 7.000907029478458,
+          "slow_start": 4.841451247165533,
+          "slow_end": 7.31437641723356
+        },
+        {
+          "text": "Kupuje chléb a ovoce.",
+          "start": 7.180907029478458,
+          "end": 9.142993197278912,
+          "slow_start": 7.4943764172335605,
+          "slow_end": 9.86281179138322
+        }
+      ],
+      "slow_start": 4.841451247165533,
+      "slow_end": 9.86281179138322
+    },
+    {
+      "text": "Telefonuju Petrovi. Ptám se ho, co ještě potřebuje.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Telefonuju Petrovi.",
+        "Ptám se ho, co ještě potřebuje."
+      ],
+      "start": 9.322993197278912,
+      "end": 14.065714285714286,
+      "sentences": [
+        {
+          "text": "Telefonuju Petrovi.",
+          "start": 9.322993197278912,
+          "end": 11.110929705215419,
+          "slow_start": 10.04281179138322,
+          "slow_end": 12.074557823129252
+        },
+        {
+          "text": "Ptám se ho, co ještě potřebuje.",
+          "start": 11.290929705215419,
+          "end": 14.065714285714286,
+          "slow_start": 12.254557823129252,
+          "slow_end": 15.203492063492064
+        }
+      ],
+      "slow_start": 10.04281179138322,
+      "slow_end": 15.203492063492064
+    },
+    {
+      "text": "Petr říká: Přijď bez dárku. Máme všechno.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Petr říká: Přijď bez dárku.",
+        "Máme všechno."
+      ],
+      "start": 14.245714285714286,
+      "end": 18.628526077097504,
+      "sentences": [
+        {
+          "text": "Petr říká: Přijď bez dárku.",
+          "start": 14.245714285714286,
+          "end": 17.1946485260771,
+          "slow_start": 15.383492063492064,
+          "slow_end": 18.680725623582767
+        },
+        {
+          "text": "Máme všechno.",
+          "start": 17.3746485260771,
+          "end": 18.628526077097504,
+          "slow_start": 18.860725623582766,
+          "slow_end": 20.311972789115647
+        }
+      ],
+      "slow_start": 15.383492063492064,
+      "slow_end": 20.311972789115647
+    },
+    {
+      "text": "Jdu do obchodu a potom k Petrovi. Mám jen malou tašku.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Jdu do obchodu a potom k Petrovi.",
+        "Mám jen malou tašku."
+      ],
+      "start": 18.808526077097504,
+      "end": 23.81827664399093,
+      "sentences": [
+        {
+          "text": "Jdu do obchodu a potom k Petrovi.",
+          "start": 18.808526077097504,
+          "end": 21.49043083900227,
+          "slow_start": 20.491972789115646,
+          "slow_end": 23.5221768707483
+        },
+        {
+          "text": "Mám jen malou tašku.",
+          "start": 21.670430839002268,
+          "end": 23.81827664399093,
+          "slow_start": 23.7021768707483,
+          "slow_end": 26.012562358276643
+        }
+      ],
+      "slow_start": 20.491972789115646,
+      "slow_end": 26.012562358276643
+    },
+    {
+      "text": "U Petra je Jana. Mluvím s Janou o práci a o Praze.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "U Petra je Jana.",
+        "Mluvím s Janou o práci a o Praze."
+      ],
+      "start": 23.99827664399093,
+      "end": 28.60167800453515,
+      "sentences": [
+        {
+          "text": "U Petra je Jana.",
+          "start": 23.99827664399093,
+          "end": 25.379863945578233,
+          "slow_start": 26.192562358276643,
+          "slow_end": 27.829569160997732
+        },
+        {
+          "text": "Mluvím s Janou o práci a o Praze.",
+          "start": 25.559863945578233,
+          "end": 28.60167800453515,
+          "slow_start": 28.00956916099773,
+          "slow_end": 31.573832199546484
+        }
+      ],
+      "slow_start": 26.192562358276643,
+      "slow_end": 31.573832199546484
+    },
+    {
+      "text": "Petře, kde je voda? Je na stole vedle čaje.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Petře, kde je voda?",
+        "Je na stole vedle čaje."
+      ],
+      "start": 28.78167800453515,
+      "end": 32.49111111111111,
+      "sentences": [
+        {
+          "text": "Petře, kde je voda?",
+          "start": 28.78167800453515,
+          "end": 30.47673469387755,
+          "slow_start": 31.753832199546487,
+          "slow_end": 33.599818594104306
+        },
+        {
+          "text": "Je na stole vedle čaje.",
+          "start": 30.65673469387755,
+          "end": 32.49111111111111,
+          "slow_start": 33.779818594104306,
+          "slow_end": 35.77673469387755
+        }
+      ],
+      "slow_start": 31.753832199546487,
+      "slow_end": 35.77673469387755
+    },
+    {
+      "text": "Děkuju. Čaj si dám bez cukru. Potom jdu s Petrem ven.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Děkuju.",
+        "Čaj si dám bez cukru.",
+        "Potom jdu s Petrem ven."
+      ],
+      "start": 32.67111111111111,
+      "end": 37.90730158730159,
+      "sentences": [
+        {
+          "text": "Děkuju.",
+          "start": 32.67111111111111,
+          "end": 33.49541950113379,
+          "slow_start": 35.95673469387755,
+          "slow_end": 36.94358276643991
+        },
+        {
+          "text": "Čaj si dám bez cukru.",
+          "start": 33.67541950113379,
+          "end": 35.54462585034014,
+          "slow_start": 37.12358276643991,
+          "slow_end": 39.2946485260771
+        },
+        {
+          "text": "Potom jdu s Petrem ven.",
+          "start": 35.72462585034014,
+          "end": 37.90730158730159,
+          "slow_start": 39.4746485260771,
+          "slow_end": 41.91274376417233
+        }
+      ],
+      "slow_start": 35.95673469387755,
+      "slow_end": 41.91274376417233
+    },
+    {
+      "text": "Jména se mění, ale pořád mluvíme o stejných lidech.",
+      "index": 8,
+      "role": "text",
+      "parts": [
+        "Jména se mění, ale pořád mluvíme o stejných lidech."
+      ],
+      "start": 38.08730158730159,
+      "end": 42.975102040816324,
+      "sentences": [
+        {
+          "text": "Jména se mění, ale pořád mluvíme o stejných lidech.",
+          "start": 38.08730158730159,
+          "end": 42.975102040816324,
+          "slow_start": 42.09274376417233,
+          "slow_end": 47.57265306122449
+        }
+      ],
+      "slow_start": 42.09274376417233,
+      "slow_end": 47.57265306122449
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "07e3d25365243a092a7adc3847af1eed59e3cf0016219b6c799ed7e2c35982b5",
+    "slow": "5fac589c45f347d5b4f701311cf43cf195a29414fbd860aa0294bd6912b08dd5"
+  }
+}

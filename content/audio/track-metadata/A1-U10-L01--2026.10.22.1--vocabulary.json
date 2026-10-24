@@ -1,0 +1,202 @@
+{
+  "id": "A1-U10-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "A1-U10-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A1",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Mám hlad.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Mám hlad."
+      ]
+    },
+    {
+      "text": "Mám žízeň.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Mám žízeň."
+      ]
+    },
+    {
+      "text": "Jsem unavený.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Jsem unavený."
+      ]
+    },
+    {
+      "text": "Bolí mě hlava.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Bolí mě hlava."
+      ]
+    },
+    {
+      "text": "Potřebuju pomoc.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Potřebuju pomoc."
+      ]
+    },
+    {
+      "text": "Chci odpočívat.",
+      "index": 5,
+      "role": "vocabulary",
+      "parts": [
+        "Chci odpočívat."
+      ]
+    }
+  ],
+  "text_sha256": "1859d0fdde91b9e10af0710f351506cb08bf7c914592e69f1e06dc8eb8420cc2",
+  "source_file": "content/lessons/A1/A1-U10-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U10-L01--2026.10.22.1--vocabulary--1859d0fdde--normal.mp3",
+  "slow_file": "content/audio/files/A1-U10-L01--2026.10.22.1--vocabulary--1859d0fdde--slow.mp3",
+  "duration_seconds": 9.532063492063491,
+  "slow_duration_seconds": 10.63501133786848,
+  "cues": [
+    {
+      "text": "Mám hlad.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Mám hlad."
+      ],
+      "start": 0.0,
+      "end": 1.1609977324263039,
+      "sentences": [
+        {
+          "text": "Mám hlad.",
+          "start": 0.0,
+          "end": 1.1609977324263039,
+          "slow_start": 0.0,
+          "slow_end": 1.3699773242630386
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.3699773242630386
+    },
+    {
+      "text": "Mám žízeň.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Mám žízeň."
+      ],
+      "start": 1.3409977324263038,
+      "end": 2.478775510204082,
+      "sentences": [
+        {
+          "text": "Mám žízeň.",
+          "start": 1.3409977324263038,
+          "end": 2.478775510204082,
+          "slow_start": 1.5499773242630386,
+          "slow_end": 2.803854875283447
+        }
+      ],
+      "slow_start": 1.5499773242630386,
+      "slow_end": 2.803854875283447
+    },
+    {
+      "text": "Jsem unavený.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Jsem unavený."
+      ],
+      "start": 2.6587755102040815,
+      "end": 4.14485260770975,
+      "sentences": [
+        {
+          "text": "Jsem unavený.",
+          "start": 2.6587755102040815,
+          "end": 4.14485260770975,
+          "slow_start": 2.9838548752834466,
+          "slow_end": 4.725351473922903
+        }
+      ],
+      "slow_start": 2.9838548752834466,
+      "slow_end": 4.725351473922903
+    },
+    {
+      "text": "Bolí mě hlava.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Bolí mě hlava."
+      ],
+      "start": 4.324852607709751,
+      "end": 5.868979591836735,
+      "sentences": [
+        {
+          "text": "Bolí mě hlava.",
+          "start": 4.324852607709751,
+          "end": 5.868979591836735,
+          "slow_start": 4.905351473922902,
+          "slow_end": 6.519138321995465
+        }
+      ],
+      "slow_start": 4.905351473922902,
+      "slow_end": 6.519138321995465
+    },
+    {
+      "text": "Potřebuju pomoc.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Potřebuju pomoc."
+      ],
+      "start": 6.048979591836734,
+      "end": 7.67437641723356,
+      "sentences": [
+        {
+          "text": "Potřebuju pomoc.",
+          "start": 6.048979591836734,
+          "end": 7.67437641723356,
+          "slow_start": 6.6991383219954646,
+          "slow_end": 8.568344671201814
+        }
+      ],
+      "slow_start": 6.6991383219954646,
+      "slow_end": 8.568344671201814
+    },
+    {
+      "text": "Chci odpočívat.",
+      "index": 5,
+      "role": "vocabulary",
+      "parts": [
+        "Chci odpočívat."
+      ],
+      "start": 7.85437641723356,
+      "end": 9.352063492063492,
+      "sentences": [
+        {
+          "text": "Chci odpočívat.",
+          "start": 7.85437641723356,
+          "end": 9.352063492063492,
+          "slow_start": 8.748344671201814,
+          "slow_end": 10.45501133786848
+        }
+      ],
+      "slow_start": 8.748344671201814,
+      "slow_end": 10.45501133786848
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "5464d3b145abb516d7a2d4cb1961670a73c61e8a312b44f8cc1efde67352b98f",
+    "slow": "a2d95c6e7e40351cfb0de57a70b8596c364c737d1ec122448e58beeb8d8f2a53"
+  }
+}

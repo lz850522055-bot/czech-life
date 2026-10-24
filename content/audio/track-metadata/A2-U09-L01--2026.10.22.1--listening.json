@@ -1,0 +1,66 @@
+{
+  "id": "A2-U09-L01--2026.10.22.1--listening",
+  "lesson_id": "A2-U09-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "První byt je levnější, ale menší. Druhý je dražší o tisíc korun měsíčně a je blíž k práci.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "První byt je levnější, ale menší.",
+        "Druhý je dražší o tisíc korun měsíčně a je blíž k práci."
+      ]
+    }
+  ],
+  "text_sha256": "d767c6ad15b4c52c950da4cf62d71a64227b5a54af73a7e54c816efcf799f6ec",
+  "source_file": "content/lessons/A2/A2-U09-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U09-L01--2026.10.22.1--listening--d767c6ad15--normal.mp3",
+  "slow_file": "content/audio/files/A2-U09-L01--2026.10.22.1--listening--d767c6ad15--slow.mp3",
+  "duration_seconds": 8.603083900226757,
+  "slow_duration_seconds": 9.706031746031746,
+  "cues": [
+    {
+      "text": "První byt je levnější, ale menší. Druhý je dražší o tisíc korun měsíčně a je blíž k práci.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "První byt je levnější, ale menší.",
+        "Druhý je dražší o tisíc korun měsíčně a je blíž k práci."
+      ],
+      "start": 0.0,
+      "end": 8.423083900226757,
+      "sentences": [
+        {
+          "text": "První byt je levnější, ale menší.",
+          "start": 0.0,
+          "end": 3.239183673469388,
+          "slow_start": 0.0,
+          "slow_end": 3.657142857142857
+        },
+        {
+          "text": "Druhý je dražší o tisíc korun měsíčně a je blíž k práci.",
+          "start": 3.4191836734693877,
+          "end": 8.423083900226757,
+          "slow_start": 3.837142857142857,
+          "slow_end": 9.526031746031746
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 9.526031746031746
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "44551883fcd6925ca529b888d3dd19f121d30f5e102fe66964bc200a3144f387",
+    "slow": "24e129051cf98550593f51aac0733241e2001312feb6bd6509553496c2aecca9"
+  }
+}

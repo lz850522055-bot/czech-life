@@ -1,0 +1,116 @@
+{
+  "id": "Pre-A1-U04-L01--2026.10.23.1--listening",
+  "lesson_id": "Pre-A1-U04-L01",
+  "content_version": "2026.10.23.1",
+  "level": "Pre-A1",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Díky za pomoc.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Díky za pomoc."
+      ]
+    },
+    {
+      "text": "To je moje dítě.",
+      "index": 1,
+      "role": "listening",
+      "parts": [
+        "To je moje dítě."
+      ]
+    },
+    {
+      "text": "Pět minut, prosím.",
+      "index": 2,
+      "role": "listening",
+      "parts": [
+        "Pět minut, prosím."
+      ]
+    }
+  ],
+  "text_sha256": "7ed4a5f9aa21558f35fbdafd65cd5c72342f17dd67bb3f13d8b6766e0a0a0d01",
+  "source_file": "content/lessons/Pre-A1/Pre-A1-U04-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/Pre-A1-U04-L01--2026.10.22.1--listening--7ed4a5f9aa--normal.mp3",
+  "slow_file": "content/audio/files/Pre-A1-U04-L01--2026.10.22.1--listening--7ed4a5f9aa--slow.mp3",
+  "duration_seconds": 5.27687074829932,
+  "slow_duration_seconds": 5.961859410430839,
+  "cues": [
+    {
+      "text": "Díky za pomoc.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Díky za pomoc."
+      ],
+      "start": 0.0,
+      "end": 1.5673469387755101,
+      "sentences": [
+        {
+          "text": "Díky za pomoc.",
+          "start": 0.0,
+          "end": 1.5673469387755101,
+          "slow_start": 0.0,
+          "slow_end": 1.7414965986394557
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.7414965986394557
+    },
+    {
+      "text": "To je moje dítě.",
+      "index": 1,
+      "role": "listening",
+      "parts": [
+        "To je moje dítě."
+      ],
+      "start": 1.7473469387755103,
+      "end": 3.0128344671201814,
+      "sentences": [
+        {
+          "text": "To je moje dítě.",
+          "start": 1.7473469387755103,
+          "end": 3.0128344671201814,
+          "slow_start": 1.9214965986394559,
+          "slow_end": 3.4191836734693877
+        }
+      ],
+      "slow_start": 1.9214965986394559,
+      "slow_end": 3.4191836734693877
+    },
+    {
+      "text": "Pět minut, prosím.",
+      "index": 2,
+      "role": "listening",
+      "parts": [
+        "Pět minut, prosím."
+      ],
+      "start": 3.1928344671201816,
+      "end": 5.096870748299319,
+      "sentences": [
+        {
+          "text": "Pět minut, prosím.",
+          "start": 3.1928344671201816,
+          "end": 5.096870748299319,
+          "slow_start": 3.599183673469388,
+          "slow_end": 5.781859410430839
+        }
+      ],
+      "slow_start": 3.599183673469388,
+      "slow_end": 5.781859410430839
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "015b39f0f0b3c594f937226af828e6847392d5251c346e521ccb3bdda4ffda01",
+    "slow": "dbec46ce181a9f4502276722386567953ecd6b3e78ed7f64a956dfee8bbcca27"
+  },
+  "reused_from_track_id": "Pre-A1-U04-L01--2026.10.22.1--listening"
+}

@@ -1,0 +1,85 @@
+{
+  "id": "B1-U07-L01--2026.10.23.1--listening",
+  "lesson_id": "B1-U07-L01",
+  "content_version": "2026.10.23.1",
+  "level": "B1",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Na včerejší schůzce jsme se dohodli na novém termínu. Já jsem vám ho poslal večer. Mně ale zatím žádné potvrzení nepřišlo. Můžete mi prosím říct, zda vám zpráva dorazila?",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Na včerejší schůzce jsme se dohodli na novém termínu.",
+        "Já jsem vám ho poslal večer.",
+        "Mně ale zatím žádné potvrzení nepřišlo.",
+        "Můžete mi prosím říct, zda vám zpráva dorazila?"
+      ]
+    }
+  ],
+  "text_sha256": "6d0ff414ceb87ce1f2adcff8a89f1fb2ce481f5c291757c305d90450761612dc",
+  "source_file": "content/lessons/B1/B1-U07-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U07-L01--2026.10.22.1--listening--6d0ff414ce--normal.mp3",
+  "slow_file": "content/audio/files/B1-U07-L01--2026.10.22.1--listening--6d0ff414ce--slow.mp3",
+  "duration_seconds": 16.11482993197279,
+  "slow_duration_seconds": 18.158185941043083,
+  "cues": [
+    {
+      "text": "Na včerejší schůzce jsme se dohodli na novém termínu. Já jsem vám ho poslal večer. Mně ale zatím žádné potvrzení nepřišlo. Můžete mi prosím říct, zda vám zpráva dorazila?",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Na včerejší schůzce jsme se dohodli na novém termínu.",
+        "Já jsem vám ho poslal večer.",
+        "Mně ale zatím žádné potvrzení nepřišlo.",
+        "Můžete mi prosím říct, zda vám zpráva dorazila?"
+      ],
+      "start": 0.0,
+      "end": 15.93482993197279,
+      "sentences": [
+        {
+          "text": "Na včerejší schůzce jsme se dohodli na novém termínu.",
+          "start": 0.0,
+          "end": 3.912562358276644,
+          "slow_start": 0.0,
+          "slow_end": 4.458231292517007
+        },
+        {
+          "text": "Já jsem vám ho poslal večer.",
+          "start": 4.092562358276644,
+          "end": 7.053106575963719,
+          "slow_start": 4.638231292517006,
+          "slow_end": 7.981904761904762
+        },
+        {
+          "text": "Mně ale zatím žádné potvrzení nepřišlo.",
+          "start": 7.233106575963719,
+          "end": 11.064399092970522,
+          "slow_start": 8.161904761904761,
+          "slow_end": 12.492426303854876
+        },
+        {
+          "text": "Můžete mi prosím říct, zda vám zpráva dorazila?",
+          "start": 11.244399092970522,
+          "end": 15.93482993197279,
+          "slow_start": 12.672426303854875,
+          "slow_end": 17.978185941043083
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 17.978185941043083
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "155119aa7df9578ee028665143670ef167bc399457424492334b0d8252f9888d",
+    "slow": "e83f2c0c935cec2090d73f748e116949dfbbf99d1f2babdb0078fab9fa989c78"
+  },
+  "reused_from_track_id": "B1-U07-L01--2026.10.22.1--listening"
+}

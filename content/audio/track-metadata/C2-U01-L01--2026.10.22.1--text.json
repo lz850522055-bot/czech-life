@@ -1,0 +1,773 @@
+{
+  "id": "C2-U01-L01--2026.10.22.1--text",
+  "lesson_id": "C2-U01-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Eva: Takže ten sál máme od pátku? Marek: Od soboty. Teda přístup možná už v pátek, ale to ještě musí potvrdit správce. Eva: Jasně, já právě kvůli technice, ne kvůli lidem. Tereza: Techniku bych tam bez převzetí nenechávala. Marek: To jsem ani neříkal. Jen že by se dala přivézt dřív. Eva: Dobře, tak zatím počítejme s dopravou v sobotu; pátek si necháme jako možnost, ne jako hotovou věc. Ostatní přikývnou, ale do sdíleného kalendáře se tato oprava zatím nedostane.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Eva: Takže ten sál máme od pátku?",
+        "Marek: Od soboty.",
+        "Teda přístup možná už v pátek, ale to ještě musí potvrdit správce.",
+        "Eva: Jasně, já právě kvůli technice, ne kvůli lidem.",
+        "Tereza: Techniku bych tam bez převzetí nenechávala.",
+        "Marek: To jsem ani neříkal.",
+        "Jen že by se dala přivézt dřív.",
+        "Eva: Dobře, tak zatím počítejme s dopravou v sobotu; pátek si necháme jako možnost, ne jako hotovou věc.",
+        "Ostatní přikývnou, ale do sdíleného kalendáře se tato oprava zatím nedostane."
+      ]
+    },
+    {
+      "text": "Tereza: A ti z dílny? Eva: Dva určitě, zbytek podle směn. Marek: Myslíš na stavbu, nebo na program? Eva: Na stavbu. Na program máme jiný seznam. Tereza: Právě, protože mně psali, že odpoledne nemůžou. Eva: To sedí, potřebuju je ráno. Marek: Tak to jsem si spojil špatně. V krátkých odpovědích zůstává nevyřčeno několik sloves i označení skupin, přesto si účastníci většinu významu doplňují z předchozího tématu. Posluchač, který přišel později, tuto společnou oporu nemá a nemůže ji bezpečně nahradit pouhým odhadem.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Tereza: A ti z dílny?",
+        "Eva: Dva určitě, zbytek podle směn.",
+        "Marek: Myslíš na stavbu, nebo na program?",
+        "Eva: Na stavbu.",
+        "Na program máme jiný seznam.",
+        "Tereza: Právě, protože mně psali, že odpoledne nemůžou.",
+        "Eva: To sedí, potřebuju je ráno.",
+        "Marek: Tak to jsem si spojil špatně.",
+        "V krátkých odpovědích zůstává nevyřčeno několik sloves i označení skupin, přesto si účastníci většinu významu doplňují z předchozího tématu.",
+        "Posluchač, který přišel později, tuto společnou oporu nemá a nemůže ji bezpečně nahradit pouhým odhadem."
+      ]
+    },
+    {
+      "text": "Do hovoru vstoupí Adam: Promiňte, slyšel jsem jen sobotu a dva lidi. Znamená to, že montáž je zajištěná? Eva: Ne tak docela. Dva pomocníci ano, vedoucí montáže ještě ne. Adam: Aha, tak jsem přeskočil důležitý kus. Můžete mi říct, co je potvrzené a co teprve řešíte? Místo žádosti o opakování celého rozhovoru vymezí přesně mezeru v porozumění. Tím ostatním umožní podat užitečné shrnutí a neztratit znovu čas detaily, které už nejsou předmětem sporu.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Do hovoru vstoupí Adam: Promiňte, slyšel jsem jen sobotu a dva lidi.",
+        "Znamená to, že montáž je zajištěná?",
+        "Eva: Ne tak docela.",
+        "Dva pomocníci ano, vedoucí montáže ještě ne.",
+        "Adam: Aha, tak jsem přeskočil důležitý kus.",
+        "Můžete mi říct, co je potvrzené a co teprve řešíte?",
+        "Místo žádosti o opakování celého rozhovoru vymezí přesně mezeru v porozumění.",
+        "Tím ostatním umožní podat užitečné shrnutí a neztratit znovu čas detaily, které už nejsou předmětem sporu."
+      ]
+    },
+    {
+      "text": "Marek: Sál od soboty potvrzený, doprava domluvená, lidi částečně. To poslední dořeší Eva. Eva: Pokud tím myslíš pomocníky, ano. Vedoucího ale hledá Tereza. Tereza: Já se zeptám, neslíbila jsem, že někoho najdu. Marek: Jasně, beru zpět. Adam do poznámek nenapíše, že Tereza zajistí vedoucího. Zachytí pouze její závazek oslovit možné kontakty. Rozdíl mezi hledáním člověka a zajištěným člověkem je v rychlém hovoru malý počtem slov, ale velký svým důsledkem pro plánování.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Marek: Sál od soboty potvrzený, doprava domluvená, lidi částečně.",
+        "To poslední dořeší Eva.",
+        "Eva: Pokud tím myslíš pomocníky, ano.",
+        "Vedoucího ale hledá Tereza.",
+        "Tereza: Já se zeptám, neslíbila jsem, že někoho najdu.",
+        "Marek: Jasně, beru zpět.",
+        "Adam do poznámek nenapíše, že Tereza zajistí vedoucího.",
+        "Zachytí pouze její závazek oslovit možné kontakty.",
+        "Rozdíl mezi hledáním člověka a zajištěným člověkem je v rychlém hovoru malý počtem slov, ale velký svým důsledkem pro plánování."
+      ]
+    },
+    {
+      "text": "Eva: Ještě k těm cedulím — ty staré ne, myslím ty nové s mapou. Adam: Ty jsem viděl u vchodu. Eva: Tak ty nejsou naše. Tereza: Počkejte, mluvíme pořád o sobotě? Marek: O cedulích, ale jo, na sobotu. Smích krátce přeruší napětí. Výraz ty postupně odkazuje k různým předmětům a samotná shoda rodu či čísla nestačí k jejich určení. Účastníci musí sledovat opravy, ukazování v prostoru a změnu tématu. V čistém přepisu některá vodítka chybějí, proto nelze každou nejasnost vyřešit jen gramatickou analýzou.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Eva: Ještě k těm cedulím — ty staré ne, myslím ty nové s mapou.",
+        "Adam: Ty jsem viděl u vchodu.",
+        "Eva: Tak ty nejsou naše.",
+        "Tereza: Počkejte, mluvíme pořád o sobotě?",
+        "Marek: O cedulích, ale jo, na sobotu.",
+        "Smích krátce přeruší napětí.",
+        "Výraz ty postupně odkazuje k různým předmětům a samotná shoda rodu či čísla nestačí k jejich určení.",
+        "Účastníci musí sledovat opravy, ukazování v prostoru a změnu tématu.",
+        "V čistém přepisu některá vodítka chybějí, proto nelze každou nejasnost vyřešit jen gramatickou analýzou."
+      ]
+    },
+    {
+      "text": "Adam: Zastavím nás na chvíli. Pro návštěvníky potřebujeme nové cedule s mapou. Kdo potvrdí jejich podobu a kdo je přiveze? Eva: Podobu já, dopravu můžeme přidat k technice, jestli už není auto plné. Marek: To ověřím. Tereza: A staré cedule tedy vyřazujeme? Eva: Z programu ano, ale nevyhazovat, jsou půjčené. Závěrečné upřesnění mění praktický význam slova vyřadit. Není to výzva věc zničit ani zbavit se cizího majetku; jde pouze o rozhodnutí nepoužít ji při této akci.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Adam: Zastavím nás na chvíli.",
+        "Pro návštěvníky potřebujeme nové cedule s mapou.",
+        "Kdo potvrdí jejich podobu a kdo je přiveze?",
+        "Eva: Podobu já, dopravu můžeme přidat k technice, jestli už není auto plné.",
+        "Marek: To ověřím.",
+        "Tereza: A staré cedule tedy vyřazujeme?",
+        "Eva: Z programu ano, ale nevyhazovat, jsou půjčené.",
+        "Závěrečné upřesnění mění praktický význam slova vyřadit.",
+        "Není to výzva věc zničit ani zbavit se cizího majetku; jde pouze o rozhodnutí nepoužít ji při této akci."
+      ]
+    },
+    {
+      "text": "Po schůzce Adam připraví stručný souhrn a nechá ostatní opravit jen nejasná místa. Nepřepisuje jejich řeč tak, aby působila od počátku dokonale uspořádaně. Uchovává konečné dohody, ale u neuzavřených bodů označí, z čeho nejistota vyplývá. Při poslechu si pomohl pracovním rozdělením na téma, stav a odpovědnost. Rychlost porozumění nevznikla tím, že by rozpoznal každou hlásku bez zaváhání. Vznikla schopností včas odhalit, která chybějící informace může změnit jednání, a právě na ni se zeptat.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Po schůzce Adam připraví stručný souhrn a nechá ostatní opravit jen nejasná místa.",
+        "Nepřepisuje jejich řeč tak, aby působila od počátku dokonale uspořádaně.",
+        "Uchovává konečné dohody, ale u neuzavřených bodů označí, z čeho nejistota vyplývá.",
+        "Při poslechu si pomohl pracovním rozdělením na téma, stav a odpovědnost.",
+        "Rychlost porozumění nevznikla tím, že by rozpoznal každou hlásku bez zaváhání.",
+        "Vznikla schopností včas odhalit, která chybějící informace může změnit jednání, a právě na ni se zeptat."
+      ]
+    },
+    {
+      "text": "Při nácviku se nejprve čte každá replika s vědomím svého tématu, potom se střídají role a zkracují přirozené mezery mezi odpověďmi. Výpustky se nesmějí doplňovat náhodně a rychlost se nezvyšuje za cenu nesrozumitelné výslovnosti. Textový nebo syntetický model navíc nevytváří skutečnou zkušenost s překrýváním hlasů a regionální výslovností. K úplnému ověření této dovednosti je zapotřebí další poslech autentických nebo nově namluvených rozhovorů, v nichž mluvčí skutečně reagují jeden na druhého. Zde uvedený přepis poskytuje analytický a produkční základ, nikoli důkaz zvládnutí všech podob rychlé češtiny.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Při nácviku se nejprve čte každá replika s vědomím svého tématu, potom se střídají role a zkracují přirozené mezery mezi odpověďmi.",
+        "Výpustky se nesmějí doplňovat náhodně a rychlost se nezvyšuje za cenu nesrozumitelné výslovnosti.",
+        "Textový nebo syntetický model navíc nevytváří skutečnou zkušenost s překrýváním hlasů a regionální výslovností.",
+        "K úplnému ověření této dovednosti je zapotřebí další poslech autentických nebo nově namluvených rozhovorů, v nichž mluvčí skutečně reagují jeden na druhého.",
+        "Zde uvedený přepis poskytuje analytický a produkční základ, nikoli důkaz zvládnutí všech podob rychlé češtiny."
+      ]
+    }
+  ],
+  "text_sha256": "db226ad58d465a3fcf7b7dadaa2c93831a31c643b70bb67632e1fcce0323223c",
+  "source_file": "content/lessons/C2/C2-U01-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U01-L01--2026.10.22.1--text--db226ad58d--normal.mp3",
+  "slow_file": "content/audio/files/C2-U01-L01--2026.10.22.1--text--db226ad58d--slow.mp3",
+  "duration_seconds": 365.74625850340135,
+  "slow_duration_seconds": 412.5112471655329,
+  "cues": [
+    {
+      "text": "Eva: Takže ten sál máme od pátku? Marek: Od soboty. Teda přístup možná už v pátek, ale to ještě musí potvrdit správce. Eva: Jasně, já právě kvůli technice, ne kvůli lidem. Tereza: Techniku bych tam bez převzetí nenechávala. Marek: To jsem ani neříkal. Jen že by se dala přivézt dřív. Eva: Dobře, tak zatím počítejme s dopravou v sobotu; pátek si necháme jako možnost, ne jako hotovou věc. Ostatní přikývnou, ale do sdíleného kalendáře se tato oprava zatím nedostane.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Eva: Takže ten sál máme od pátku?",
+        "Marek: Od soboty.",
+        "Teda přístup možná už v pátek, ale to ještě musí potvrdit správce.",
+        "Eva: Jasně, já právě kvůli technice, ne kvůli lidem.",
+        "Tereza: Techniku bych tam bez převzetí nenechávala.",
+        "Marek: To jsem ani neříkal.",
+        "Jen že by se dala přivézt dřív.",
+        "Eva: Dobře, tak zatím počítejme s dopravou v sobotu; pátek si necháme jako možnost, ne jako hotovou věc.",
+        "Ostatní přikývnou, ale do sdíleného kalendáře se tato oprava zatím nedostane."
+      ],
+      "start": 0.0,
+      "end": 42.272290249433105,
+      "sentences": [
+        {
+          "text": "Eva: Takže ten sál máme od pátku?",
+          "start": 0.0,
+          "end": 3.355283446712018,
+          "slow_start": 0.0,
+          "slow_end": 3.8545124716553287
+        },
+        {
+          "text": "Marek: Od soboty.",
+          "start": 3.535283446712018,
+          "end": 5.102630385487529,
+          "slow_start": 4.0345124716553284,
+          "slow_end": 5.799229024943311
+        },
+        {
+          "text": "Teda přístup možná už v pátek, ale to ještě musí potvrdit správce.",
+          "start": 5.282630385487528,
+          "end": 11.528798185941042,
+          "slow_start": 5.979229024943311,
+          "slow_end": 12.898775510204082
+        },
+        {
+          "text": "Eva: Jasně, já právě kvůli technice, ne kvůli lidem.",
+          "start": 11.708798185941044,
+          "end": 16.538548752834465,
+          "slow_start": 13.078775510204082,
+          "slow_end": 18.547074829931972
+        },
+        {
+          "text": "Tereza: Techniku bych tam bez převzetí nenechávala.",
+          "start": 16.71854875283447,
+          "end": 20.782040816326532,
+          "slow_start": 18.727074829931972,
+          "slow_end": 23.313015873015875
+        },
+        {
+          "text": "Marek: To jsem ani neříkal.",
+          "start": 20.96204081632653,
+          "end": 23.469795918367346,
+          "slow_start": 23.493015873015874,
+          "slow_end": 26.325850340136054
+        },
+        {
+          "text": "Jen že by se dala přivézt dřív.",
+          "start": 23.649795918367346,
+          "end": 26.49424036281179,
+          "slow_start": 26.505850340136053,
+          "slow_end": 29.74503401360544
+        },
+        {
+          "text": "Eva: Dobře, tak zatím počítejme s dopravou v sobotu; pátek si necháme jako možnost, ne jako hotovou věc.",
+          "start": 26.67424036281179,
+          "end": 35.53265306122449,
+          "slow_start": 29.92503401360544,
+          "slow_end": 40.292743764172336
+        },
+        {
+          "text": "Ostatní přikývnou, ale do sdíleného kalendáře se tato oprava zatím nedostane.",
+          "start": 35.712653061224486,
+          "end": 42.272290249433105,
+          "slow_start": 40.472743764172336,
+          "slow_end": 47.97278911564626
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 47.97278911564626
+    },
+    {
+      "text": "Tereza: A ti z dílny? Eva: Dva určitě, zbytek podle směn. Marek: Myslíš na stavbu, nebo na program? Eva: Na stavbu. Na program máme jiný seznam. Tereza: Právě, protože mně psali, že odpoledne nemůžou. Eva: To sedí, potřebuju je ráno. Marek: Tak to jsem si spojil špatně. V krátkých odpovědích zůstává nevyřčeno několik sloves i označení skupin, přesto si účastníci většinu významu doplňují z předchozího tématu. Posluchač, který přišel později, tuto společnou oporu nemá a nemůže ji bezpečně nahradit pouhým odhadem.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Tereza: A ti z dílny?",
+        "Eva: Dva určitě, zbytek podle směn.",
+        "Marek: Myslíš na stavbu, nebo na program?",
+        "Eva: Na stavbu.",
+        "Na program máme jiný seznam.",
+        "Tereza: Právě, protože mně psali, že odpoledne nemůžou.",
+        "Eva: To sedí, potřebuju je ráno.",
+        "Marek: Tak to jsem si spojil špatně.",
+        "V krátkých odpovědích zůstává nevyřčeno několik sloves i označení skupin, přesto si účastníci většinu významu doplňují z předchozího tématu.",
+        "Posluchač, který přišel později, tuto společnou oporu nemá a nemůže ji bezpečně nahradit pouhým odhadem."
+      ],
+      "start": 42.452290249433105,
+      "end": 90.67473922902494,
+      "sentences": [
+        {
+          "text": "Tereza: A ti z dílny?",
+          "start": 42.452290249433105,
+          "end": 44.367936507936506,
+          "slow_start": 48.15278911564626,
+          "slow_end": 50.323854875283445
+        },
+        {
+          "text": "Eva: Dva určitě, zbytek podle směn.",
+          "start": 44.547936507936505,
+          "end": 48.08897959183673,
+          "slow_start": 50.503854875283444,
+          "slow_end": 54.671836734693876
+        },
+        {
+          "text": "Marek: Myslíš na stavbu, nebo na program?",
+          "start": 48.26897959183673,
+          "end": 51.86807256235828,
+          "slow_start": 54.851836734693876,
+          "slow_end": 58.88049886621315
+        },
+        {
+          "text": "Eva: Na stavbu.",
+          "start": 52.04807256235828,
+          "end": 53.59219954648526,
+          "slow_start": 59.06049886621315,
+          "slow_end": 60.81360544217687
+        },
+        {
+          "text": "Na program máme jiný seznam.",
+          "start": 53.77219954648526,
+          "end": 56.29156462585034,
+          "slow_start": 60.99360544217687,
+          "slow_end": 63.89609977324263
+        },
+        {
+          "text": "Tereza: Právě, protože mně psali, že odpoledne nemůžou.",
+          "start": 56.47156462585034,
+          "end": 61.243265306122446,
+          "slow_start": 64.07609977324263,
+          "slow_end": 69.41668934240363
+        },
+        {
+          "text": "Eva: To sedí, potřebuju je ráno.",
+          "start": 61.42326530612245,
+          "end": 64.62761904761905,
+          "slow_start": 69.59668934240362,
+          "slow_end": 73.2190022675737
+        },
+        {
+          "text": "Marek: Tak to jsem si spojil špatně.",
+          "start": 64.80761904761904,
+          "end": 67.89587301587302,
+          "slow_start": 73.39900226757369,
+          "slow_end": 76.85877551020408
+        },
+        {
+          "text": "V krátkých odpovědích zůstává nevyřčeno několik sloves i označení skupin, přesto si účastníci většinu významu doplňují z předchozího tématu.",
+          "start": 68.07587301587301,
+          "end": 81.32285714285715,
+          "slow_start": 77.03877551020408,
+          "slow_end": 91.78344671201815
+        },
+        {
+          "text": "Posluchač, který přišel později, tuto společnou oporu nemá a nemůže ji bezpečně nahradit pouhým odhadem.",
+          "start": 81.50285714285714,
+          "end": 90.67473922902494,
+          "slow_start": 91.96344671201814,
+          "slow_end": 102.14539682539683
+        }
+      ],
+      "slow_start": 48.15278911564626,
+      "slow_end": 102.14539682539683
+    },
+    {
+      "text": "Do hovoru vstoupí Adam: Promiňte, slyšel jsem jen sobotu a dva lidi. Znamená to, že montáž je zajištěná? Eva: Ne tak docela. Dva pomocníci ano, vedoucí montáže ještě ne. Adam: Aha, tak jsem přeskočil důležitý kus. Můžete mi říct, co je potvrzené a co teprve řešíte? Místo žádosti o opakování celého rozhovoru vymezí přesně mezeru v porozumění. Tím ostatním umožní podat užitečné shrnutí a neztratit znovu čas detaily, které už nejsou předmětem sporu.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Do hovoru vstoupí Adam: Promiňte, slyšel jsem jen sobotu a dva lidi.",
+        "Znamená to, že montáž je zajištěná?",
+        "Eva: Ne tak docela.",
+        "Dva pomocníci ano, vedoucí montáže ještě ne.",
+        "Adam: Aha, tak jsem přeskočil důležitý kus.",
+        "Můžete mi říct, co je potvrzené a co teprve řešíte?",
+        "Místo žádosti o opakování celého rozhovoru vymezí přesně mezeru v porozumění.",
+        "Tím ostatním umožní podat užitečné shrnutí a neztratit znovu čas detaily, které už nejsou předmětem sporu."
+      ],
+      "start": 90.85473922902494,
+      "end": 132.9934693877551,
+      "sentences": [
+        {
+          "text": "Do hovoru vstoupí Adam: Promiňte, slyšel jsem jen sobotu a dva lidi.",
+          "start": 90.85473922902494,
+          "end": 97.04285714285714,
+          "slow_start": 102.32539682539682,
+          "slow_end": 109.39587301587302
+        },
+        {
+          "text": "Znamená to, že montáž je zajištěná?",
+          "start": 97.22285714285714,
+          "end": 100.53170068027211,
+          "slow_start": 109.57587301587301,
+          "slow_end": 113.37233560090704
+        },
+        {
+          "text": "Eva: Ne tak docela.",
+          "start": 100.7117006802721,
+          "end": 102.55768707482993,
+          "slow_start": 113.55233560090703,
+          "slow_end": 115.72340136054422
+        },
+        {
+          "text": "Dva pomocníci ano, vedoucí montáže ještě ne.",
+          "start": 102.73768707482994,
+          "end": 106.91727891156462,
+          "slow_start": 115.90340136054422,
+          "slow_end": 120.60544217687075
+        },
+        {
+          "text": "Adam: Aha, tak jsem přeskočil důležitý kus.",
+          "start": 107.09727891156463,
+          "end": 111.11433106575964,
+          "slow_start": 120.78544217687075,
+          "slow_end": 125.40621315192743
+        },
+        {
+          "text": "Můžete mi říct, co je potvrzené a co teprve řešíte?",
+          "start": 111.29433106575964,
+          "end": 116.03120181405896,
+          "slow_start": 125.58621315192744,
+          "slow_end": 131.00807256235828
+        },
+        {
+          "text": "Místo žádosti o opakování celého rozhovoru vymezí přesně mezeru v porozumění.",
+          "start": 116.21120181405895,
+          "end": 123.14235827664399,
+          "slow_start": 131.1880725623583,
+          "slow_end": 138.943537414966
+        },
+        {
+          "text": "Tím ostatním umožní podat užitečné shrnutí a neztratit znovu čas detaily, které už nejsou předmětem sporu.",
+          "start": 123.322358276644,
+          "end": 132.9934693877551,
+          "slow_start": 139.123537414966,
+          "slow_end": 149.81632653061226
+        }
+      ],
+      "slow_start": 102.32539682539682,
+      "slow_end": 149.81632653061226
+    },
+    {
+      "text": "Marek: Sál od soboty potvrzený, doprava domluvená, lidi částečně. To poslední dořeší Eva. Eva: Pokud tím myslíš pomocníky, ano. Vedoucího ale hledá Tereza. Tereza: Já se zeptám, neslíbila jsem, že někoho najdu. Marek: Jasně, beru zpět. Adam do poznámek nenapíše, že Tereza zajistí vedoucího. Zachytí pouze její závazek oslovit možné kontakty. Rozdíl mezi hledáním člověka a zajištěným člověkem je v rychlém hovoru malý počtem slov, ale velký svým důsledkem pro plánování.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Marek: Sál od soboty potvrzený, doprava domluvená, lidi částečně.",
+        "To poslední dořeší Eva.",
+        "Eva: Pokud tím myslíš pomocníky, ano.",
+        "Vedoucího ale hledá Tereza.",
+        "Tereza: Já se zeptám, neslíbila jsem, že někoho najdu.",
+        "Marek: Jasně, beru zpět.",
+        "Adam do poznámek nenapíše, že Tereza zajistí vedoucího.",
+        "Zachytí pouze její závazek oslovit možné kontakty.",
+        "Rozdíl mezi hledáním člověka a zajištěným člověkem je v rychlém hovoru malý počtem slov, ale velký svým důsledkem pro plánování."
+      ],
+      "start": 133.1734693877551,
+      "end": 178.03478458049887,
+      "sentences": [
+        {
+          "text": "Marek: Sál od soboty potvrzený, doprava domluvená, lidi částečně.",
+          "start": 133.1734693877551,
+          "end": 139.16421768707482,
+          "slow_start": 149.99632653061224,
+          "slow_end": 156.88104308390024
+        },
+        {
+          "text": "To poslední dořeší Eva.",
+          "start": 139.34421768707483,
+          "end": 141.7126530612245,
+          "slow_start": 157.06104308390022,
+          "slow_end": 159.7081179138322
+        },
+        {
+          "text": "Eva: Pokud tím myslíš pomocníky, ano.",
+          "start": 141.89265306122448,
+          "end": 145.6891156462585,
+          "slow_start": 159.8881179138322,
+          "slow_end": 164.14897959183673
+        },
+        {
+          "text": "Vedoucího ale hledá Tereza.",
+          "start": 145.8691156462585,
+          "end": 148.23755102040818,
+          "slow_start": 164.32897959183674,
+          "slow_end": 167.0108843537415
+        },
+        {
+          "text": "Tereza: Já se zeptám, neslíbila jsem, že někoho najdu.",
+          "start": 148.41755102040815,
+          "end": 153.3053514739229,
+          "slow_start": 167.1908843537415,
+          "slow_end": 172.89138321995466
+        },
+        {
+          "text": "Marek: Jasně, beru zpět.",
+          "start": 153.4853514739229,
+          "end": 155.98149659863947,
+          "slow_start": 173.07138321995464,
+          "slow_end": 175.86938775510205
+        },
+        {
+          "text": "Adam do poznámek nenapíše, že Tereza zajistí vedoucího.",
+          "start": 156.16149659863945,
+          "end": 160.96802721088434,
+          "slow_start": 176.04938775510203,
+          "slow_end": 181.59895691609978
+        },
+        {
+          "text": "Zachytí pouze její závazek oslovit možné kontakty.",
+          "start": 161.14802721088435,
+          "end": 166.10548752834467,
+          "slow_start": 181.7789569160998,
+          "slow_end": 187.47945578231293
+        },
+        {
+          "text": "Rozdíl mezi hledáním člověka a zajištěným člověkem je v rychlém hovoru malý počtem slov, ale velký svým důsledkem pro plánování.",
+          "start": 166.28548752834467,
+          "end": 178.03478458049887,
+          "slow_start": 187.65945578231293,
+          "slow_end": 201.1734693877551
+        }
+      ],
+      "slow_start": 149.99632653061224,
+      "slow_end": 201.1734693877551
+    },
+    {
+      "text": "Eva: Ještě k těm cedulím — ty staré ne, myslím ty nové s mapou. Adam: Ty jsem viděl u vchodu. Eva: Tak ty nejsou naše. Tereza: Počkejte, mluvíme pořád o sobotě? Marek: O cedulích, ale jo, na sobotu. Smích krátce přeruší napětí. Výraz ty postupně odkazuje k různým předmětům a samotná shoda rodu či čísla nestačí k jejich určení. Účastníci musí sledovat opravy, ukazování v prostoru a změnu tématu. V čistém přepisu některá vodítka chybějí, proto nelze každou nejasnost vyřešit jen gramatickou analýzou.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Eva: Ještě k těm cedulím — ty staré ne, myslím ty nové s mapou.",
+        "Adam: Ty jsem viděl u vchodu.",
+        "Eva: Tak ty nejsou naše.",
+        "Tereza: Počkejte, mluvíme pořád o sobotě?",
+        "Marek: O cedulích, ale jo, na sobotu.",
+        "Smích krátce přeruší napětí.",
+        "Výraz ty postupně odkazuje k různým předmětům a samotná shoda rodu či čísla nestačí k jejich určení.",
+        "Účastníci musí sledovat opravy, ukazování v prostoru a změnu tématu.",
+        "V čistém přepisu některá vodítka chybějí, proto nelze každou nejasnost vyřešit jen gramatickou analýzou."
+      ],
+      "start": 178.21478458049887,
+      "end": 224.73632653061225,
+      "sentences": [
+        {
+          "text": "Eva: Ještě k těm cedulím — ty staré ne, myslím ty nové s mapou.",
+          "start": 178.21478458049887,
+          "end": 183.78757369614513,
+          "slow_start": 201.3534693877551,
+          "slow_end": 207.52997732426303
+        },
+        {
+          "text": "Adam: Ty jsem viděl u vchodu.",
+          "start": 183.96757369614514,
+          "end": 186.64947845804988,
+          "slow_start": 207.70997732426304,
+          "slow_end": 210.72857142857143
+        },
+        {
+          "text": "Eva: Tak ty nejsou naše.",
+          "start": 186.8294784580499,
+          "end": 189.1166439909297,
+          "slow_start": 210.90857142857143,
+          "slow_end": 213.47437641723357
+        },
+        {
+          "text": "Tereza: Počkejte, mluvíme pořád o sobotě?",
+          "start": 189.2966439909297,
+          "end": 193.08149659863946,
+          "slow_start": 213.65437641723355,
+          "slow_end": 217.9152380952381
+        },
+        {
+          "text": "Marek: O cedulích, ale jo, na sobotu.",
+          "start": 193.26149659863947,
+          "end": 196.5819501133787,
+          "slow_start": 218.0952380952381,
+          "slow_end": 221.90331065759636
+        },
+        {
+          "text": "Smích krátce přeruší napětí.",
+          "start": 196.76195011337867,
+          "end": 199.52512471655328,
+          "slow_start": 222.08331065759637,
+          "slow_end": 225.1831746031746
+        },
+        {
+          "text": "Výraz ty postupně odkazuje k různým předmětům a samotná shoda rodu či čísla nestačí k jejich určení.",
+          "start": 199.70512471655329,
+          "end": 208.8073469387755,
+          "slow_start": 225.3631746031746,
+          "slow_end": 235.6380045351474
+        },
+        {
+          "text": "Účastníci musí sledovat opravy, ukazování v prostoru a změnu tématu.",
+          "start": 208.98734693877552,
+          "end": 215.40766439909297,
+          "slow_start": 235.8180045351474,
+          "slow_end": 242.94653061224489
+        },
+        {
+          "text": "V čistém přepisu některá vodítka chybějí, proto nelze každou nejasnost vyřešit jen gramatickou analýzou.",
+          "start": 215.58766439909297,
+          "end": 224.73632653061225,
+          "slow_start": 243.1265306122449,
+          "slow_end": 253.49424036281178
+        }
+      ],
+      "slow_start": 201.3534693877551,
+      "slow_end": 253.49424036281178
+    },
+    {
+      "text": "Adam: Zastavím nás na chvíli. Pro návštěvníky potřebujeme nové cedule s mapou. Kdo potvrdí jejich podobu a kdo je přiveze? Eva: Podobu já, dopravu můžeme přidat k technice, jestli už není auto plné. Marek: To ověřím. Tereza: A staré cedule tedy vyřazujeme? Eva: Z programu ano, ale nevyhazovat, jsou půjčené. Závěrečné upřesnění mění praktický význam slova vyřadit. Není to výzva věc zničit ani zbavit se cizího majetku; jde pouze o rozhodnutí nepoužít ji při této akci.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Adam: Zastavím nás na chvíli.",
+        "Pro návštěvníky potřebujeme nové cedule s mapou.",
+        "Kdo potvrdí jejich podobu a kdo je přiveze?",
+        "Eva: Podobu já, dopravu můžeme přidat k technice, jestli už není auto plné.",
+        "Marek: To ověřím.",
+        "Tereza: A staré cedule tedy vyřazujeme?",
+        "Eva: Z programu ano, ale nevyhazovat, jsou půjčené.",
+        "Závěrečné upřesnění mění praktický význam slova vyřadit.",
+        "Není to výzva věc zničit ani zbavit se cizího majetku; jde pouze o rozhodnutí nepoužít ji při této akci."
+      ],
+      "start": 224.91632653061225,
+      "end": 267.79233560090705,
+      "sentences": [
+        {
+          "text": "Adam: Zastavím nás na chvíli.",
+          "start": 224.91632653061225,
+          "end": 227.65628117913832,
+          "slow_start": 253.6742403628118,
+          "slow_end": 256.8205442176871
+        },
+        {
+          "text": "Pro návštěvníky potřebujeme nové cedule s mapou.",
+          "start": 227.83628117913833,
+          "end": 231.74884353741496,
+          "slow_start": 257.0005442176871,
+          "slow_end": 261.47038548752835
+        },
+        {
+          "text": "Kdo potvrdí jejich podobu a kdo je přiveze?",
+          "start": 231.92884353741496,
+          "end": 235.23768707482992,
+          "slow_start": 261.65038548752835,
+          "slow_end": 265.31913832199547
+        },
+        {
+          "text": "Eva: Podobu já, dopravu můžeme přidat k technice, jestli už není auto plné.",
+          "start": 235.41768707482993,
+          "end": 242.82485260770974,
+          "slow_start": 265.4991383219955,
+          "slow_end": 273.73061224489794
+        },
+        {
+          "text": "Marek: To ověřím.",
+          "start": 243.00485260770975,
+          "end": 244.5954195011338,
+          "slow_start": 273.91061224489795,
+          "slow_end": 275.80303854875285
+        },
+        {
+          "text": "Tereza: A staré cedule tedy vyřazujeme?",
+          "start": 244.7754195011338,
+          "end": 248.2235827664399,
+          "slow_start": 275.98303854875286,
+          "slow_end": 279.8839909297052
+        },
+        {
+          "text": "Eva: Z programu ano, ale nevyhazovat, jsou půjčené.",
+          "start": 248.4035827664399,
+          "end": 253.31460317460318,
+          "slow_start": 280.0639909297052,
+          "slow_end": 285.4974603174603
+        },
+        {
+          "text": "Závěrečné upřesnění mění praktický význam slova vyřadit.",
+          "start": 253.49460317460318,
+          "end": 258.8584126984127,
+          "slow_start": 285.6774603174603,
+          "slow_end": 291.66820861678
+        },
+        {
+          "text": "Není to výzva věc zničit ani zbavit se cizího majetku; jde pouze o rozhodnutí nepoužít ji při této akci.",
+          "start": 259.0384126984127,
+          "end": 267.79233560090705,
+          "slow_start": 291.84820861678,
+          "slow_end": 301.77473922902493
+        }
+      ],
+      "slow_start": 253.6742403628118,
+      "slow_end": 301.77473922902493
+    },
+    {
+      "text": "Po schůzce Adam připraví stručný souhrn a nechá ostatní opravit jen nejasná místa. Nepřepisuje jejich řeč tak, aby působila od počátku dokonale uspořádaně. Uchovává konečné dohody, ale u neuzavřených bodů označí, z čeho nejistota vyplývá. Při poslechu si pomohl pracovním rozdělením na téma, stav a odpovědnost. Rychlost porozumění nevznikla tím, že by rozpoznal každou hlásku bez zaváhání. Vznikla schopností včas odhalit, která chybějící informace může změnit jednání, a právě na ni se zeptat.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Po schůzce Adam připraví stručný souhrn a nechá ostatní opravit jen nejasná místa.",
+        "Nepřepisuje jejich řeč tak, aby působila od počátku dokonale uspořádaně.",
+        "Uchovává konečné dohody, ale u neuzavřených bodů označí, z čeho nejistota vyplývá.",
+        "Při poslechu si pomohl pracovním rozdělením na téma, stav a odpovědnost.",
+        "Rychlost porozumění nevznikla tím, že by rozpoznal každou hlásku bez zaváhání.",
+        "Vznikla schopností včas odhalit, která chybějící informace může změnit jednání, a právě na ni se zeptat."
+      ],
+      "start": 267.972335600907,
+      "end": 312.0034013605442,
+      "sentences": [
+        {
+          "text": "Po schůzce Adam připraví stručný souhrn a nechá ostatní opravit jen nejasná místa.",
+          "start": 267.972335600907,
+          "end": 274.97315192743764,
+          "slow_start": 301.95473922902494,
+          "slow_end": 309.89596371882084
+        },
+        {
+          "text": "Nepřepisuje jejich řeč tak, aby působila od počátku dokonale uspořádaně.",
+          "start": 275.15315192743765,
+          "end": 281.30643990929707,
+          "slow_start": 310.07596371882084,
+          "slow_end": 317.0419501133787
+        },
+        {
+          "text": "Uchovává konečné dohody, ale u neuzavřených bodů označí, z čeho nejistota vyplývá.",
+          "start": 281.4864399092971,
+          "end": 288.6381859410431,
+          "slow_start": 317.2219501133787,
+          "slow_end": 325.43020408163267
+        },
+        {
+          "text": "Při poslechu si pomohl pracovním rozdělením na téma, stav a odpovědnost.",
+          "start": 288.8181859410431,
+          "end": 295.5868027210884,
+          "slow_start": 325.6102040816327,
+          "slow_end": 333.261179138322
+        },
+        {
+          "text": "Rychlost porozumění nevznikla tím, že by rozpoznal každou hlásku bez zaváhání.",
+          "start": 295.7668027210884,
+          "end": 302.3960997732426,
+          "slow_start": 333.441179138322,
+          "slow_end": 341.1037641723356
+        },
+        {
+          "text": "Vznikla schopností včas odhalit, která chybějící informace může změnit jednání, a právě na ni se zeptat.",
+          "start": 302.5760997732426,
+          "end": 312.0034013605442,
+          "slow_start": 341.2837641723356,
+          "slow_end": 351.84884353741495
+        }
+      ],
+      "slow_start": 301.95473922902494,
+      "slow_end": 351.84884353741495
+    },
+    {
+      "text": "Při nácviku se nejprve čte každá replika s vědomím svého tématu, potom se střídají role a zkracují přirozené mezery mezi odpověďmi. Výpustky se nesmějí doplňovat náhodně a rychlost se nezvyšuje za cenu nesrozumitelné výslovnosti. Textový nebo syntetický model navíc nevytváří skutečnou zkušenost s překrýváním hlasů a regionální výslovností. K úplnému ověření této dovednosti je zapotřebí další poslech autentických nebo nově namluvených rozhovorů, v nichž mluvčí skutečně reagují jeden na druhého. Zde uvedený přepis poskytuje analytický a produkční základ, nikoli důkaz zvládnutí všech podob rychlé češtiny.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Při nácviku se nejprve čte každá replika s vědomím svého tématu, potom se střídají role a zkracují přirozené mezery mezi odpověďmi.",
+        "Výpustky se nesmějí doplňovat náhodně a rychlost se nezvyšuje za cenu nesrozumitelné výslovnosti.",
+        "Textový nebo syntetický model navíc nevytváří skutečnou zkušenost s překrýváním hlasů a regionální výslovností.",
+        "K úplnému ověření této dovednosti je zapotřebí další poslech autentických nebo nově namluvených rozhovorů, v nichž mluvčí skutečně reagují jeden na druhého.",
+        "Zde uvedený přepis poskytuje analytický a produkční základ, nikoli důkaz zvládnutí všech podob rychlé češtiny."
+      ],
+      "start": 312.1834013605442,
+      "end": 365.56625850340134,
+      "sentences": [
+        {
+          "text": "Při nácviku se nejprve čte každá replika s vědomím svého tématu, potom se střídají role a zkracují přirozené mezery mezi odpověďmi.",
+          "start": 312.1834013605442,
+          "end": 324.1532879818594,
+          "slow_start": 352.02884353741496,
+          "slow_end": 365.3919274376417
+        },
+        {
+          "text": "Výpustky se nesmějí doplňovat náhodně a rychlost se nezvyšuje za cenu nesrozumitelné výslovnosti.",
+          "start": 324.3332879818594,
+          "end": 332.30934240362814,
+          "slow_start": 365.5719274376417,
+          "slow_end": 374.69736961451247
+        },
+        {
+          "text": "Textový nebo syntetický model navíc nevytváří skutečnou zkušenost s překrýváním hlasů a regionální výslovností.",
+          "start": 332.48934240362814,
+          "end": 342.3926530612245,
+          "slow_start": 374.8773696145125,
+          "slow_end": 386.0809977324263
+        },
+        {
+          "text": "K úplnému ověření této dovednosti je zapotřebí další poslech autentických nebo nově namluvených rozhovorů, v nichž mluvčí skutečně reagují jeden na druhého.",
+          "start": 342.5726530612245,
+          "end": 355.7383673469388,
+          "slow_start": 386.2609977324263,
+          "slow_end": 401.11015873015873
+        },
+        {
+          "text": "Zde uvedený přepis poskytuje analytický a produkční základ, nikoli důkaz zvládnutí všech podob rychlé češtiny.",
+          "start": 355.9183673469388,
+          "end": 365.56625850340134,
+          "slow_start": 401.29015873015874,
+          "slow_end": 412.3312471655329
+        }
+      ],
+      "slow_start": 352.02884353741496,
+      "slow_end": 412.3312471655329
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "c9862c41e77ef94462ebcf50f4825ede11b01a57e87ffebfa4f8bd7f8c4619ba",
+    "slow": "44ed33e662dd1692075963e4b2423b5a034316d8c5aefdec00128bd8a8973edc"
+  }
+}

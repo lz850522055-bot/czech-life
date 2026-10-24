@@ -1,0 +1,208 @@
+{
+  "id": "A1-U10-CHECK",
+  "kind": "unit",
+  "level": "A1",
+  "unit_id": "A1-U10",
+  "title_zh": "说清你需要什么、哪里不舒服：换情境独立完成",
+  "version": "2026.10.22.1",
+  "unseen_text": [
+    {
+      "cs": "Pavel nemá hlad. Má žízeň a je mu horko. Chce otevřít okno.",
+      "zh": "帕维尔不饿，他渴而且觉得热，想开窗。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "Pavel想做什么？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "关窗"
+        },
+        {
+          "id": "b",
+          "text": "开窗"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "otevřít是打开。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "A1-U10-CHECK-E01",
+      "knowledge_points": [
+        "needs-feelings",
+        "want-need"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "填“他热”。",
+      "stimulus_cs": "Je ___ horko.",
+      "answer": "mu",
+      "accepted_answers": [
+        "mu"
+      ],
+      "explanation_zh": "第三人称常用je mu。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "A1-U10-CHECK-E02",
+      "knowledge_points": [
+        "needs-feelings",
+        "want-need"
+      ]
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "询问能否为Pavel开窗和拿水。",
+      "stimulus_cs": "",
+      "answer": "Můžu otevřít okno? Chceš vodu?",
+      "accepted_answers": [],
+      "explanation_zh": "把帮助落到实际动作。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A1-U10-CHECK-E03",
+      "knowledge_points": [
+        "needs-feelings",
+        "want-need"
+      ]
+    }
+  ],
+  "rubric": [
+    "能提取新材料中的关键事实，不靠背诵原文",
+    "能根据变化的条件组织一句或一段表达",
+    "能指出不确定之处并请求澄清"
+  ],
+  "remediation": [
+    {
+      "condition_zh": "目标规律使用不稳定或未能提取关键信息",
+      "lesson_ids": [
+        "A1-U10-L01"
+      ],
+      "action_zh": "返回规律卡，对照两例；隔一次其他练习后重做未见情境。"
+    }
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "A1-U10-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U10-CHECK--2026.10.22.1--text--eb712d0f75--normal.mp3",
+      "slow_file": "audio/files/A1-U10-CHECK--2026.10.22.1--text--eb712d0f75--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U10-CHECK--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Pavel nemá hlad. Má žízeň a je mu horko. Chce otevřít okno.",
+      "duration_seconds": 5.903809523809524,
+      "slow_duration_seconds": 6.681678004535147,
+      "sha256": "1b5c312b3b523b98f4b48609a00a4dcfa327b2ed948dcdd1984d1c85f866cfe7",
+      "slow_sha256": "e00900c33c23a599cb6998e81eb9aa26528d6ac8f6f6664c1e5821c7cb19c6cf"
+    },
+    {
+      "lesson_id": "A1-U10-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U10-CHECK--2026.10.22.1--text--eb712d0f75--normal.mp3",
+      "slow_file": "audio/files/A1-U10-CHECK--2026.10.22.1--text--eb712d0f75--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U10-CHECK--2026.10.22.1--text--p0",
+      "asset_id": "A1-U10-CHECK--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Pavel nemá hlad. Má žízeň a je mu horko. Chce otevřít okno.",
+      "start": 0,
+      "end": 5.723809523809524,
+      "slow_start": 0,
+      "slow_end": 6.501678004535147
+    },
+    {
+      "lesson_id": "A1-U10-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U10-CHECK--2026.10.22.1--text--eb712d0f75--normal.mp3",
+      "slow_file": "audio/files/A1-U10-CHECK--2026.10.22.1--text--eb712d0f75--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U10-CHECK--2026.10.22.1--text--s0",
+      "asset_id": "A1-U10-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Pavel nemá hlad.",
+      "start": 0,
+      "end": 1.7182766439909296,
+      "slow_start": 0,
+      "slow_end": 1.9272562358276644
+    },
+    {
+      "lesson_id": "A1-U10-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U10-CHECK--2026.10.22.1--text--eb712d0f75--normal.mp3",
+      "slow_file": "audio/files/A1-U10-CHECK--2026.10.22.1--text--eb712d0f75--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U10-CHECK--2026.10.22.1--text--s1",
+      "asset_id": "A1-U10-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Má žízeň a je mu horko.",
+      "start": 1.8982766439909298,
+      "end": 4.011292517006803,
+      "slow_start": 2.1072562358276645,
+      "slow_end": 4.498911564625851
+    },
+    {
+      "lesson_id": "A1-U10-CHECK",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U10-CHECK--2026.10.22.1--text--eb712d0f75--normal.mp3",
+      "slow_file": "audio/files/A1-U10-CHECK--2026.10.22.1--text--eb712d0f75--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U10-CHECK--2026.10.22.1--text--s2",
+      "asset_id": "A1-U10-CHECK--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Chce otevřít okno.",
+      "start": 4.1912925170068025,
+      "end": 5.723809523809524,
+      "slow_start": 4.67891156462585,
+      "slow_end": 6.501678004535147
+    }
+  ]
+}

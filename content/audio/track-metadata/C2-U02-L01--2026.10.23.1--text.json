@@ -1,0 +1,585 @@
+{
+  "id": "C2-U02-L01--2026.10.23.1--text",
+  "lesson_id": "C2-U02-L01",
+  "content_version": "2026.10.23.1",
+  "level": "C2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "V tiskové odpovědi organizace stálo, že ne všichni účastníci podpořili navrženou změnu. Jeden komentář tuto větu převyprávěl slovy všichni účastníci byli proti. Rozdíl se na první pohled mohl zdát malý, protože v obou formulacích vystupovalo slovo všichni a zápor. Ve skutečnosti se změnil rozsah tvrzení. Původní věta popírala úplnou shodu; nevylučovala přitom, že návrh získal výraznou podporu. Druhá připisovala nesouhlas každému jednotlivému člověku. K takovému závěru původní sdělení žádný podklad nedávalo.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "V tiskové odpovědi organizace stálo, že ne všichni účastníci podpořili navrženou změnu.",
+        "Jeden komentář tuto větu převyprávěl slovy všichni účastníci byli proti.",
+        "Rozdíl se na první pohled mohl zdát malý, protože v obou formulacích vystupovalo slovo všichni a zápor.",
+        "Ve skutečnosti se změnil rozsah tvrzení.",
+        "Původní věta popírala úplnou shodu; nevylučovala přitom, že návrh získal výraznou podporu.",
+        "Druhá připisovala nesouhlas každému jednotlivému člověku.",
+        "K takovému závěru původní sdělení žádný podklad nedávalo."
+      ]
+    },
+    {
+      "text": "Editorka požádala autora, aby místo hry s pořadím slov popsal známý stav přímo. Pokud jsou známy jednotlivé odpovědi, lze uvést, kdo návrh podpořil, kdo odmítl a kdo se nevyjádřil. Pokud je známo pouze to, že jednomyslnost nenastala, má text zůstat právě u tohoto zjištění. Nevyjádření není totéž co nesouhlas a zdržení se hlasování nemusí označovat lhostejnost. Přesná věta někdy obsahuje méně interpretace, než by si čtenář přál, ale právě tím mu ponechává možnost vlastní úsudek nepřepnout do jistoty.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Editorka požádala autora, aby místo hry s pořadím slov popsal známý stav přímo.",
+        "Pokud jsou známy jednotlivé odpovědi, lze uvést, kdo návrh podpořil, kdo odmítl a kdo se nevyjádřil.",
+        "Pokud je známo pouze to, že jednomyslnost nenastala, má text zůstat právě u tohoto zjištění.",
+        "Nevyjádření není totéž co nesouhlas a zdržení se hlasování nemusí označovat lhostejnost.",
+        "Přesná věta někdy obsahuje méně interpretace, než by si čtenář přál, ale právě tím mu ponechává možnost vlastní úsudek nepřepnout do jistoty."
+      ]
+    },
+    {
+      "text": "Další spor vyvolala formulace návrh nemusí být chybný. Část týmu ji chápala jako tvrzení, že návrh je správný. Ve významu, v němž byla použita, však pouze odmítala nutnost závěru o chybě: existovala možnost, že návrh obstojí. Věta návrh nesmí být chybný by naproti tomu stanovovala požadavek, nikoli hodnotila důkazy. Modální slovesa zde nevyjadřují jen sílu jistoty. Mohou přesouvat celou výpověď mezi popisem možnosti a pravidlem, podle něhož má někdo jednat.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Další spor vyvolala formulace návrh nemusí být chybný.",
+        "Část týmu ji chápala jako tvrzení, že návrh je správný.",
+        "Ve významu, v němž byla použita, však pouze odmítala nutnost závěru o chybě: existovala možnost, že návrh obstojí.",
+        "Věta návrh nesmí být chybný by naproti tomu stanovovala požadavek, nikoli hodnotila důkazy.",
+        "Modální slovesa zde nevyjadřují jen sílu jistoty.",
+        "Mohou přesouvat celou výpověď mezi popisem možnosti a pravidlem, podle něhož má někdo jednat."
+      ]
+    },
+    {
+      "text": "Časové výrazy dodávaly další předpoklady. Odpověď ještě nemáme potvrzení naznačovala, že potvrzení je očekáváno nebo přinejmenším relevantní v dalším průběhu. Odpověď už nemáme potvrzení by v běžném kontextu vedla k otázce, co se stalo s dříve platným potvrzením. Ani jeden výraz ovšem neurčoval, kdy přesně se stav změní. Když redaktor vypustil ještě ve snaze text zkrátit, nezměnil jen rytmus věty; odstranil část vztahu mezi současným stavem a očekávaným pokračováním.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Časové výrazy dodávaly další předpoklady.",
+        "Odpověď ještě nemáme potvrzení naznačovala, že potvrzení je očekáváno nebo přinejmenším relevantní v dalším průběhu.",
+        "Odpověď už nemáme potvrzení by v běžném kontextu vedla k otázce, co se stalo s dříve platným potvrzením.",
+        "Ani jeden výraz ovšem neurčoval, kdy přesně se stav změní.",
+        "Když redaktor vypustil ještě ve snaze text zkrátit, nezměnil jen rytmus věty; odstranil část vztahu mezi současným stavem a očekávaným pokračováním."
+      ]
+    },
+    {
+      "text": "U částice jen bylo třeba určit, k čemu se vztahuje. Věta jen koordinátorka potvrdila termín soustřeďuje omezení na osobu. Věta koordinátorka potvrdila jen termín omezuje rozsah potvrzených věcí. Pokud se druhá převede na první, může zmizet informace, že místo nebo rozpočet zůstávají nejasné. V řeči pomáhá důraz a intonace, v zápisu je někdy bezpečnější doplnit výslovné upřesnění. Stručnost není výhodou, jestliže posluchač musí sám rozhodnout, který ze dvou odlišných závazků mluvčí přijal.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "U částice jen bylo třeba určit, k čemu se vztahuje.",
+        "Věta jen koordinátorka potvrdila termín soustřeďuje omezení na osobu.",
+        "Věta koordinátorka potvrdila jen termín omezuje rozsah potvrzených věcí.",
+        "Pokud se druhá převede na první, může zmizet informace, že místo nebo rozpočet zůstávají nejasné.",
+        "V řeči pomáhá důraz a intonace, v zápisu je někdy bezpečnější doplnit výslovné upřesnění.",
+        "Stručnost není výhodou, jestliže posluchač musí sám rozhodnout, který ze dvou odlišných závazků mluvčí přijal."
+      ]
+    },
+    {
+      "text": "Editorka přitom nechtěla vytvořit mechanický slovník, v němž má každé malé slovo jeden neměnný účinek. Význam vzniká spolu s konstrukcí, důrazem a kontextem. Slovo sotva může vyjadřovat malou míru pravděpodobnosti, ale v jiném spojení časovou návaznost. Učící se mluvčí proto potřebuje porovnávat celé věty a ptát se, který závěr z nich skutečně plyne. Překlad jediným českým nebo čínským ekvivalentem může pomoci při prvním setkání, nestačí však pro přesné čtení složitějšího sdělení.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Editorka přitom nechtěla vytvořit mechanický slovník, v němž má každé malé slovo jeden neměnný účinek.",
+        "Význam vzniká spolu s konstrukcí, důrazem a kontextem.",
+        "Slovo sotva může vyjadřovat malou míru pravděpodobnosti, ale v jiném spojení časovou návaznost.",
+        "Učící se mluvčí proto potřebuje porovnávat celé věty a ptát se, který závěr z nich skutečně plyne.",
+        "Překlad jediným českým nebo čínským ekvivalentem může pomoci při prvním setkání, nestačí však pro přesné čtení složitějšího sdělení."
+      ]
+    },
+    {
+      "text": "Při závěrečné kontrole si tým u každé sporné věty napsal dvě otázky: co tato věta vylučuje a co ještě nechává otevřené? U ne všichni souhlasili vyloučil jednomyslný souhlas, ale počet odpůrců ponechal neurčený. U termín zatím nelze potvrdit odmítl současnou jistotu, nikoli možnost budoucího konání. Tato práce nebyla samoúčelnou logickou hrou. Bránila tomu, aby se v komunikaci nepozorovaně vytvářely závazky, obvinění nebo jistoty, které původní mluvčí nevyjádřil a podklady nepotvrzovaly.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Při závěrečné kontrole si tým u každé sporné věty napsal dvě otázky: co tato věta vylučuje a co ještě nechává otevřené?",
+        "U ne všichni souhlasili vyloučil jednomyslný souhlas, ale počet odpůrců ponechal neurčený.",
+        "U termín zatím nelze potvrdit odmítl současnou jistotu, nikoli možnost budoucího konání.",
+        "Tato práce nebyla samoúčelnou logickou hrou.",
+        "Bránila tomu, aby se v komunikaci nepozorovaně vytvářely závazky, obvinění nebo jistoty, které původní mluvčí nevyjádřil a podklady nepotvrzovaly."
+      ]
+    },
+    {
+      "text": "V odpovědi veřejnosti nakonec zaznělo, že změnu nepodpořili všichni, ale přesné rozložení postojů nebylo předmětem zveřejněného podkladu. Organizace zároveň uvedla, které části projektu jsou potvrzeny a které čekají na další rozhodnutí. Někomu takový text připadal méně úderný. Byl však odolnější vůči zkreslujícímu zkrácení, protože kritická omezení nebyla schována jen v jediném slově. Pokročilá přesnost znamená umět jemný rozdíl nejen rozpoznat, ale v citlivé situaci také vyjádřit tak, aby jej druhý nemusel pracně rekonstruovat.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "V odpovědi veřejnosti nakonec zaznělo, že změnu nepodpořili všichni, ale přesné rozložení postojů nebylo předmětem zveřejněného podkladu.",
+        "Organizace zároveň uvedla, které části projektu jsou potvrzeny a které čekají na další rozhodnutí.",
+        "Někomu takový text připadal méně úderný.",
+        "Byl však odolnější vůči zkreslujícímu zkrácení, protože kritická omezení nebyla schována jen v jediném slově.",
+        "Pokročilá přesnost znamená umět jemný rozdíl nejen rozpoznat, ale v citlivé situaci také vyjádřit tak, aby jej druhý nemusel pracně rekonstruovat."
+      ]
+    }
+  ],
+  "text_sha256": "9d6533bb51aaf32184829df0198dad49a7a6952f57feab33d19435216f56f459",
+  "source_file": "content/lessons/C2/C2-U02-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U02-L01--2026.10.22.1--text--9d6533bb51--normal.mp3",
+  "slow_file": "content/audio/files/C2-U02-L01--2026.10.22.1--text--9d6533bb51--slow.mp3",
+  "duration_seconds": 363.89351473922903,
+  "slow_duration_seconds": 411.69179138321994,
+  "cues": [
+    {
+      "text": "V tiskové odpovědi organizace stálo, že ne všichni účastníci podpořili navrženou změnu. Jeden komentář tuto větu převyprávěl slovy všichni účastníci byli proti. Rozdíl se na první pohled mohl zdát malý, protože v obou formulacích vystupovalo slovo všichni a zápor. Ve skutečnosti se změnil rozsah tvrzení. Původní věta popírala úplnou shodu; nevylučovala přitom, že návrh získal výraznou podporu. Druhá připisovala nesouhlas každému jednotlivému člověku. K takovému závěru původní sdělení žádný podklad nedávalo.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "V tiskové odpovědi organizace stálo, že ne všichni účastníci podpořili navrženou změnu.",
+        "Jeden komentář tuto větu převyprávěl slovy všichni účastníci byli proti.",
+        "Rozdíl se na první pohled mohl zdát malý, protože v obou formulacích vystupovalo slovo všichni a zápor.",
+        "Ve skutečnosti se změnil rozsah tvrzení.",
+        "Původní věta popírala úplnou shodu; nevylučovala přitom, že návrh získal výraznou podporu.",
+        "Druhá připisovala nesouhlas každému jednotlivému člověku.",
+        "K takovému závěru původní sdělení žádný podklad nedávalo."
+      ],
+      "start": 0.0,
+      "end": 48.40226757369614,
+      "sentences": [
+        {
+          "text": "V tiskové odpovědi organizace stálo, že ne všichni účastníci podpořili navrženou změnu.",
+          "start": 0.0,
+          "end": 7.929614512471655,
+          "slow_start": 0.0,
+          "slow_end": 8.93968253968254
+        },
+        {
+          "text": "Jeden komentář tuto větu převyprávěl slovy všichni účastníci byli proti.",
+          "start": 8.109614512471655,
+          "end": 14.611201814058957,
+          "slow_start": 9.11968253968254,
+          "slow_end": 16.399138321995466
+        },
+        {
+          "text": "Rozdíl se na první pohled mohl zdát malý, protože v obou formulacích vystupovalo slovo všichni a zápor.",
+          "start": 14.791201814058956,
+          "end": 25.30984126984127,
+          "slow_start": 16.579138321995465,
+          "slow_end": 28.9437641723356
+        },
+        {
+          "text": "Ve skutečnosti se změnil rozsah tvrzení.",
+          "start": 25.48984126984127,
+          "end": 29.019274376417233,
+          "slow_start": 29.1237641723356,
+          "slow_end": 33.14081632653061
+        },
+        {
+          "text": "Původní věta popírala úplnou shodu; nevylučovala přitom, že návrh získal výraznou podporu.",
+          "start": 29.199274376417232,
+          "end": 37.63972789115646,
+          "slow_start": 33.32081632653061,
+          "slow_end": 43.131247165532876
+        },
+        {
+          "text": "Druhá připisovala nesouhlas každému jednotlivému člověku.",
+          "start": 37.81972789115646,
+          "end": 42.8004081632653,
+          "slow_start": 43.31124716553288,
+          "slow_end": 48.90725623582767
+        },
+        {
+          "text": "K takovému závěru původní sdělení žádný podklad nedávalo.",
+          "start": 42.98040816326531,
+          "end": 48.40226757369614,
+          "slow_start": 49.08725623582767,
+          "slow_end": 55.519183673469385
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 55.519183673469385
+    },
+    {
+      "text": "Editorka požádala autora, aby místo hry s pořadím slov popsal známý stav přímo. Pokud jsou známy jednotlivé odpovědi, lze uvést, kdo návrh podpořil, kdo odmítl a kdo se nevyjádřil. Pokud je známo pouze to, že jednomyslnost nenastala, má text zůstat právě u tohoto zjištění. Nevyjádření není totéž co nesouhlas a zdržení se hlasování nemusí označovat lhostejnost. Přesná věta někdy obsahuje méně interpretace, než by si čtenář přál, ale právě tím mu ponechává možnost vlastní úsudek nepřepnout do jistoty.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Editorka požádala autora, aby místo hry s pořadím slov popsal známý stav přímo.",
+        "Pokud jsou známy jednotlivé odpovědi, lze uvést, kdo návrh podpořil, kdo odmítl a kdo se nevyjádřil.",
+        "Pokud je známo pouze to, že jednomyslnost nenastala, má text zůstat právě u tohoto zjištění.",
+        "Nevyjádření není totéž co nesouhlas a zdržení se hlasování nemusí označovat lhostejnost.",
+        "Přesná věta někdy obsahuje méně interpretace, než by si čtenář přál, ale právě tím mu ponechává možnost vlastní úsudek nepřepnout do jistoty."
+      ],
+      "start": 48.58226757369614,
+      "end": 95.6492970521542,
+      "sentences": [
+        {
+          "text": "Editorka požádala autora, aby místo hry s pořadím slov popsal známý stav přímo.",
+          "start": 48.58226757369614,
+          "end": 55.96621315192744,
+          "slow_start": 55.699183673469385,
+          "slow_end": 63.91904761904762
+        },
+        {
+          "text": "Pokud jsou známy jednotlivé odpovědi, lze uvést, kdo návrh podpořil, kdo odmítl a kdo se nevyjádřil.",
+          "start": 56.14621315192744,
+          "end": 65.13233560090703,
+          "slow_start": 64.09904761904762,
+          "slow_end": 74.30421768707482
+        },
+        {
+          "text": "Pokud je známo pouze to, že jednomyslnost nenastala, má text zůstat právě u tohoto zjištění.",
+          "start": 65.31233560090703,
+          "end": 73.21873015873015,
+          "slow_start": 74.48421768707483,
+          "slow_end": 83.69092970521542
+        },
+        {
+          "text": "Nevyjádření není totéž co nesouhlas a zdržení se hlasování nemusí označovat lhostejnost.",
+          "start": 73.39873015873016,
+          "end": 82.31519274376417,
+          "slow_start": 83.87092970521542,
+          "slow_end": 94.06448979591836
+        },
+        {
+          "text": "Přesná věta někdy obsahuje méně interpretace, než by si čtenář přál, ale právě tím mu ponechává možnost vlastní úsudek nepřepnout do jistoty.",
+          "start": 82.49519274376418,
+          "end": 95.6492970521542,
+          "slow_start": 94.24448979591837,
+          "slow_end": 108.9659410430839
+        }
+      ],
+      "slow_start": 55.699183673469385,
+      "slow_end": 108.9659410430839
+    },
+    {
+      "text": "Další spor vyvolala formulace návrh nemusí být chybný. Část týmu ji chápala jako tvrzení, že návrh je správný. Ve významu, v němž byla použita, však pouze odmítala nutnost závěru o chybě: existovala možnost, že návrh obstojí. Věta návrh nesmí být chybný by naproti tomu stanovovala požadavek, nikoli hodnotila důkazy. Modální slovesa zde nevyjadřují jen sílu jistoty. Mohou přesouvat celou výpověď mezi popisem možnosti a pravidlem, podle něhož má někdo jednat.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Další spor vyvolala formulace návrh nemusí být chybný.",
+        "Část týmu ji chápala jako tvrzení, že návrh je správný.",
+        "Ve významu, v němž byla použita, však pouze odmítala nutnost závěru o chybě: existovala možnost, že návrh obstojí.",
+        "Věta návrh nesmí být chybný by naproti tomu stanovovala požadavek, nikoli hodnotila důkazy.",
+        "Modální slovesa zde nevyjadřují jen sílu jistoty.",
+        "Mohou přesouvat celou výpověď mezi popisem možnosti a pravidlem, podle něhož má někdo jednat."
+      ],
+      "start": 95.82929705215419,
+      "end": 137.7821768707483,
+      "sentences": [
+        {
+          "text": "Další spor vyvolala formulace návrh nemusí být chybný.",
+          "start": 95.82929705215419,
+          "end": 100.90285714285714,
+          "slow_start": 109.1459410430839,
+          "slow_end": 114.91609977324264
+        },
+        {
+          "text": "Část týmu ji chápala jako tvrzení, že návrh je správný.",
+          "start": 101.08285714285714,
+          "end": 106.29573696145124,
+          "slow_start": 115.09609977324263,
+          "slow_end": 120.90108843537415
+        },
+        {
+          "text": "Ve významu, v němž byla použita, však pouze odmítala nutnost závěru o chybě: existovala možnost, že návrh obstojí.",
+          "start": 106.47573696145125,
+          "end": 117.27301587301588,
+          "slow_start": 121.08108843537416,
+          "slow_end": 133.2251247165533
+        },
+        {
+          "text": "Věta návrh nesmí být chybný by naproti tomu stanovovala požadavek, nikoli hodnotila důkazy.",
+          "start": 117.45301587301587,
+          "end": 124.86018140589569,
+          "slow_start": 133.40512471655327,
+          "slow_end": 141.79913832199546
+        },
+        {
+          "text": "Modální slovesa zde nevyjadřují jen sílu jistoty.",
+          "start": 125.0401814058957,
+          "end": 129.51002267573696,
+          "slow_start": 141.97913832199546,
+          "slow_end": 147.0875283446712
+        },
+        {
+          "text": "Mohou přesouvat celou výpověď mezi popisem možnosti a pravidlem, podle něhož má někdo jednat.",
+          "start": 129.69002267573697,
+          "end": 137.7821768707483,
+          "slow_start": 147.2675283446712,
+          "slow_end": 156.35814058956916
+        }
+      ],
+      "slow_start": 109.1459410430839,
+      "slow_end": 156.35814058956916
+    },
+    {
+      "text": "Časové výrazy dodávaly další předpoklady. Odpověď ještě nemáme potvrzení naznačovala, že potvrzení je očekáváno nebo přinejmenším relevantní v dalším průběhu. Odpověď už nemáme potvrzení by v běžném kontextu vedla k otázce, co se stalo s dříve platným potvrzením. Ani jeden výraz ovšem neurčoval, kdy přesně se stav změní. Když redaktor vypustil ještě ve snaze text zkrátit, nezměnil jen rytmus věty; odstranil část vztahu mezi současným stavem a očekávaným pokračováním.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Časové výrazy dodávaly další předpoklady.",
+        "Odpověď ještě nemáme potvrzení naznačovala, že potvrzení je očekáváno nebo přinejmenším relevantní v dalším průběhu.",
+        "Odpověď už nemáme potvrzení by v běžném kontextu vedla k otázce, co se stalo s dříve platným potvrzením.",
+        "Ani jeden výraz ovšem neurčoval, kdy přesně se stav změní.",
+        "Když redaktor vypustil ještě ve snaze text zkrátit, nezměnil jen rytmus věty; odstranil část vztahu mezi současným stavem a očekávaným pokračováním."
+      ],
+      "start": 137.9621768707483,
+      "end": 182.33569160997732,
+      "sentences": [
+        {
+          "text": "Časové výrazy dodávaly další předpoklady.",
+          "start": 137.9621768707483,
+          "end": 142.21142857142857,
+          "slow_start": 156.53814058956917,
+          "slow_end": 161.15891156462584
+        },
+        {
+          "text": "Odpověď ještě nemáme potvrzení naznačovala, že potvrzení je očekáváno nebo přinejmenším relevantní v dalším průběhu.",
+          "start": 142.39142857142858,
+          "end": 152.7475283446712,
+          "slow_start": 161.33891156462585,
+          "slow_end": 172.92566893424035
+        },
+        {
+          "text": "Odpověď už nemáme potvrzení by v běžném kontextu vedla k otázce, co se stalo s dříve platným potvrzením.",
+          "start": 152.9275283446712,
+          "end": 163.12108843537416,
+          "slow_start": 173.10566893424036,
+          "slow_end": 184.86657596371882
+        },
+        {
+          "text": "Ani jeden výraz ovšem neurčoval, kdy přesně se stav změní.",
+          "start": 163.30108843537414,
+          "end": 168.6184580498866,
+          "slow_start": 185.04657596371882,
+          "slow_end": 191.3391836734694
+        },
+        {
+          "text": "Když redaktor vypustil ještě ve snaze text zkrátit, nezměnil jen rytmus věty; odstranil část vztahu mezi současným stavem a očekávaným pokračováním.",
+          "start": 168.79845804988662,
+          "end": 182.33569160997732,
+          "slow_start": 191.5191836734694,
+          "slow_end": 207.0997732426304
+        }
+      ],
+      "slow_start": 156.53814058956917,
+      "slow_end": 207.0997732426304
+    },
+    {
+      "text": "U částice jen bylo třeba určit, k čemu se vztahuje. Věta jen koordinátorka potvrdila termín soustřeďuje omezení na osobu. Věta koordinátorka potvrdila jen termín omezuje rozsah potvrzených věcí. Pokud se druhá převede na první, může zmizet informace, že místo nebo rozpočet zůstávají nejasné. V řeči pomáhá důraz a intonace, v zápisu je někdy bezpečnější doplnit výslovné upřesnění. Stručnost není výhodou, jestliže posluchač musí sám rozhodnout, který ze dvou odlišných závazků mluvčí přijal.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "U částice jen bylo třeba určit, k čemu se vztahuje.",
+        "Věta jen koordinátorka potvrdila termín soustřeďuje omezení na osobu.",
+        "Věta koordinátorka potvrdila jen termín omezuje rozsah potvrzených věcí.",
+        "Pokud se druhá převede na první, může zmizet informace, že místo nebo rozpočet zůstávají nejasné.",
+        "V řeči pomáhá důraz a intonace, v zápisu je někdy bezpečnější doplnit výslovné upřesnění.",
+        "Stručnost není výhodou, jestliže posluchač musí sám rozhodnout, který ze dvou odlišných závazků mluvčí přijal."
+      ],
+      "start": 182.51569160997732,
+      "end": 226.9879365079365,
+      "sentences": [
+        {
+          "text": "U částice jen bylo třeba určit, k čemu se vztahuje.",
+          "start": 182.51569160997732,
+          "end": 186.9274829931973,
+          "slow_start": 207.2797732426304,
+          "slow_end": 212.28367346938776
+        },
+        {
+          "text": "Věta jen koordinátorka potvrdila termín soustřeďuje omezení na osobu.",
+          "start": 187.10748299319727,
+          "end": 193.1678911564626,
+          "slow_start": 212.46367346938774,
+          "slow_end": 219.1742403628118
+        },
+        {
+          "text": "Věta koordinátorka potvrdila jen termín omezuje rozsah potvrzených věcí.",
+          "start": 193.3478911564626,
+          "end": 199.8146485260771,
+          "slow_start": 219.3542403628118,
+          "slow_end": 226.63369614512473
+        },
+        {
+          "text": "Pokud se druhá převede na první, může zmizet informace, že místo nebo rozpočet zůstávají nejasné.",
+          "start": 199.9946485260771,
+          "end": 208.6556916099773,
+          "slow_start": 226.8136961451247,
+          "slow_end": 236.56607709750566
+        },
+        {
+          "text": "V řeči pomáhá důraz a intonace, v zápisu je někdy bezpečnější doplnit výslovné upřesnění.",
+          "start": 208.83569160997732,
+          "end": 216.93945578231293,
+          "slow_start": 236.74607709750566,
+          "slow_end": 245.8134693877551
+        },
+        {
+          "text": "Stručnost není výhodou, jestliže posluchač musí sám rozhodnout, který ze dvou odlišných závazků mluvčí přijal.",
+          "start": 217.1194557823129,
+          "end": 226.9879365079365,
+          "slow_start": 245.9934693877551,
+          "slow_end": 257.243537414966
+        }
+      ],
+      "slow_start": 207.2797732426304,
+      "slow_end": 257.243537414966
+    },
+    {
+      "text": "Editorka přitom nechtěla vytvořit mechanický slovník, v němž má každé malé slovo jeden neměnný účinek. Význam vzniká spolu s konstrukcí, důrazem a kontextem. Slovo sotva může vyjadřovat malou míru pravděpodobnosti, ale v jiném spojení časovou návaznost. Učící se mluvčí proto potřebuje porovnávat celé věty a ptát se, který závěr z nich skutečně plyne. Překlad jediným českým nebo čínským ekvivalentem může pomoci při prvním setkání, nestačí však pro přesné čtení složitějšího sdělení.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Editorka přitom nechtěla vytvořit mechanický slovník, v němž má každé malé slovo jeden neměnný účinek.",
+        "Význam vzniká spolu s konstrukcí, důrazem a kontextem.",
+        "Slovo sotva může vyjadřovat malou míru pravděpodobnosti, ale v jiném spojení časovou návaznost.",
+        "Učící se mluvčí proto potřebuje porovnávat celé věty a ptát se, který závěr z nich skutečně plyne.",
+        "Překlad jediným českým nebo čínským ekvivalentem může pomoci při prvním setkání, nestačí však pro přesné čtení složitějšího sdělení."
+      ],
+      "start": 227.1679365079365,
+      "end": 271.40213151927435,
+      "sentences": [
+        {
+          "text": "Editorka přitom nechtěla vytvořit mechanický slovník, v němž má každé malé slovo jeden neměnný účinek.",
+          "start": 227.1679365079365,
+          "end": 236.29337868480727,
+          "slow_start": 257.423537414966,
+          "slow_end": 267.65192743764175
+        },
+        {
+          "text": "Význam vzniká spolu s konstrukcí, důrazem a kontextem.",
+          "start": 236.47337868480724,
+          "end": 241.5469387755102,
+          "slow_start": 267.8319274376417,
+          "slow_end": 273.63691609977326
+        },
+        {
+          "text": "Slovo sotva může vyjadřovat malou míru pravděpodobnosti, ale v jiném spojení časovou návaznost.",
+          "start": 241.7269387755102,
+          "end": 250.53891156462586,
+          "slow_start": 273.81691609977327,
+          "slow_end": 283.7898866213152
+        },
+        {
+          "text": "Učící se mluvčí proto potřebuje porovnávat celé věty a ptát se, který závěr z nich skutečně plyne.",
+          "start": 250.71891156462584,
+          "end": 259.36834467120184,
+          "slow_start": 283.9698866213152,
+          "slow_end": 293.8964172335601
+        },
+        {
+          "text": "Překlad jediným českým nebo čínským ekvivalentem může pomoci při prvním setkání, nestačí však pro přesné čtení složitějšího sdělení.",
+          "start": 259.5483446712018,
+          "end": 271.40213151927435,
+          "slow_start": 294.0764172335601,
+          "slow_end": 307.3698412698413
+        }
+      ],
+      "slow_start": 257.423537414966,
+      "slow_end": 307.3698412698413
+    },
+    {
+      "text": "Při závěrečné kontrole si tým u každé sporné věty napsal dvě otázky: co tato věta vylučuje a co ještě nechává otevřené? U ne všichni souhlasili vyloučil jednomyslný souhlas, ale počet odpůrců ponechal neurčený. U termín zatím nelze potvrdit odmítl současnou jistotu, nikoli možnost budoucího konání. Tato práce nebyla samoúčelnou logickou hrou. Bránila tomu, aby se v komunikaci nepozorovaně vytvářely závazky, obvinění nebo jistoty, které původní mluvčí nevyjádřil a podklady nepotvrzovaly.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Při závěrečné kontrole si tým u každé sporné věty napsal dvě otázky: co tato věta vylučuje a co ještě nechává otevřené?",
+        "U ne všichni souhlasili vyloučil jednomyslný souhlas, ale počet odpůrců ponechal neurčený.",
+        "U termín zatím nelze potvrdit odmítl současnou jistotu, nikoli možnost budoucího konání.",
+        "Tato práce nebyla samoúčelnou logickou hrou.",
+        "Bránila tomu, aby se v komunikaci nepozorovaně vytvářely závazky, obvinění nebo jistoty, které původní mluvčí nevyjádřil a podklady nepotvrzovaly."
+      ],
+      "start": 271.58213151927436,
+      "end": 316.1878458049887,
+      "sentences": [
+        {
+          "text": "Při závěrečné kontrole si tým u každé sporné věty napsal dvě otázky: co tato věta vylučuje a co ještě nechává otevřené?",
+          "start": 271.58213151927436,
+          "end": 282.3097505668934,
+          "slow_start": 307.5498412698413,
+          "slow_end": 319.68226757369615
+        },
+        {
+          "text": "U ne všichni souhlasili vyloučil jednomyslný souhlas, ale počet odpůrců ponechal neurčený.",
+          "start": 282.4897505668934,
+          "end": 290.36131519274375,
+          "slow_start": 319.86226757369616,
+          "slow_end": 328.7671201814059
+        },
+        {
+          "text": "U termín zatím nelze potvrdit odmítl současnou jistotu, nikoli možnost budoucího konání.",
+          "start": 290.54131519274375,
+          "end": 298.83083900226757,
+          "slow_start": 328.9471201814059,
+          "slow_end": 338.18866213151927
+        },
+        {
+          "text": "Tato práce nebyla samoúčelnou logickou hrou.",
+          "start": 299.0108390022676,
+          "end": 303.1672108843537,
+          "slow_start": 338.3686621315193,
+          "slow_end": 342.86172335600907
+        },
+        {
+          "text": "Bránila tomu, aby se v komunikaci nepozorovaně vytvářely závazky, obvinění nebo jistoty, které původní mluvčí nevyjádřil a podklady nepotvrzovaly.",
+          "start": 303.34721088435373,
+          "end": 316.1878458049887,
+          "slow_start": 343.0417233560091,
+          "slow_end": 357.34521541950113
+        }
+      ],
+      "slow_start": 307.5498412698413,
+      "slow_end": 357.34521541950113
+    },
+    {
+      "text": "V odpovědi veřejnosti nakonec zaznělo, že změnu nepodpořili všichni, ale přesné rozložení postojů nebylo předmětem zveřejněného podkladu. Organizace zároveň uvedla, které části projektu jsou potvrzeny a které čekají na další rozhodnutí. Někomu takový text připadal méně úderný. Byl však odolnější vůči zkreslujícímu zkrácení, protože kritická omezení nebyla schována jen v jediném slově. Pokročilá přesnost znamená umět jemný rozdíl nejen rozpoznat, ale v citlivé situaci také vyjádřit tak, aby jej druhý nemusel pracně rekonstruovat.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "V odpovědi veřejnosti nakonec zaznělo, že změnu nepodpořili všichni, ale přesné rozložení postojů nebylo předmětem zveřejněného podkladu.",
+        "Organizace zároveň uvedla, které části projektu jsou potvrzeny a které čekají na další rozhodnutí.",
+        "Někomu takový text připadal méně úderný.",
+        "Byl však odolnější vůči zkreslujícímu zkrácení, protože kritická omezení nebyla schována jen v jediném slově.",
+        "Pokročilá přesnost znamená umět jemný rozdíl nejen rozpoznat, ale v citlivé situaci také vyjádřit tak, aby jej druhý nemusel pracně rekonstruovat."
+      ],
+      "start": 316.3678458049887,
+      "end": 363.713514739229,
+      "sentences": [
+        {
+          "text": "V odpovědi veřejnosti nakonec zaznělo, že změnu nepodpořili všichni, ale přesné rozložení postojů nebylo předmětem zveřejněného podkladu.",
+          "start": 316.3678458049887,
+          "end": 327.7456235827664,
+          "slow_start": 357.52521541950114,
+          "slow_end": 370.4471201814059
+        },
+        {
+          "text": "Organizace zároveň uvedla, které části projektu jsou potvrzeny a které čekají na další rozhodnutí.",
+          "start": 327.92562358276643,
+          "end": 336.40090702947845,
+          "slow_start": 370.62712018140587,
+          "slow_end": 380.34467120181404
+        },
+        {
+          "text": "Někomu takový text připadal méně úderný.",
+          "start": 336.58090702947845,
+          "end": 340.3773696145125,
+          "slow_start": 380.52467120181404,
+          "slow_end": 384.86680272108845
+        },
+        {
+          "text": "Byl však odolnější vůči zkreslujícímu zkrácení, protože kritická omezení nebyla schována jen v jediném slově.",
+          "start": 340.5573696145125,
+          "end": 350.42585034013604,
+          "slow_start": 385.04680272108845,
+          "slow_end": 396.26204081632653
+        },
+        {
+          "text": "Pokročilá přesnost znamená umět jemný rozdíl nejen rozpoznat, ale v citlivé situaci také vyjádřit tak, aby jej druhý nemusel pracně rekonstruovat.",
+          "start": 350.60585034013604,
+          "end": 363.713514739229,
+          "slow_start": 396.44204081632654,
+          "slow_end": 411.51179138321993
+        }
+      ],
+      "slow_start": 357.52521541950114,
+      "slow_end": 411.51179138321993
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "7064833f3ad92277bbb8a5fb0c10431913e6d291f5b29f425415c726950b5ee2",
+    "slow": "c9e7ef58de0eb8bdabf90c1da881982e00951d0495404a7628b9b62d71353cec"
+  },
+  "reused_from_track_id": "C2-U02-L01--2026.10.22.1--text"
+}

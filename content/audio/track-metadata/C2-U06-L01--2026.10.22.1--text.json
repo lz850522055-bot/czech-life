@@ -1,0 +1,593 @@
+{
+  "id": "C2-U06-L01--2026.10.22.1--text",
+  "lesson_id": "C2-U06-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Dodavatel zaslal zákazníkovi první odpověď na stížnost větou, že v průběhu realizace zřejmě došlo k určitým nedorozuměním. Zákazník ji četl jako vyhýbání se odpovědnosti. V objednávce byl uveden rozměr, dodané zboží mělo jiný a fotografie rozdíl jasně ukazovala. Slova zřejmě a určitým zde nezachycovala skutečnou nejistotu; rozostřovala již doložený problém. Nejisté bylo něco jiného: v jakém kroku se chyba dostala do výroby a zda se týká i dalších kusů, které ještě nebyly zkontrolovány.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Dodavatel zaslal zákazníkovi první odpověď na stížnost větou, že v průběhu realizace zřejmě došlo k určitým nedorozuměním.",
+        "Zákazník ji četl jako vyhýbání se odpovědnosti.",
+        "V objednávce byl uveden rozměr, dodané zboží mělo jiný a fotografie rozdíl jasně ukazovala.",
+        "Slova zřejmě a určitým zde nezachycovala skutečnou nejistotu; rozostřovala již doložený problém.",
+        "Nejisté bylo něco jiného: v jakém kroku se chyba dostala do výroby a zda se týká i dalších kusů, které ještě nebyly zkontrolovány."
+      ]
+    },
+    {
+      "text": "Při revizi odpovědi pracovník oddělil uznání výsledku od vysvětlení příčiny. Napsal, že dodaný kus neodpovídá potvrzenému rozměru a že se za tuto chybu omlouvá. Potom uvedl, že firma prověřuje výrobní podklad a ostatní kusy ze stejné zakázky. Neoznačil ještě konkrétního kolegu za viníka, protože takový závěr neměl ověřený. Přímé převzetí odpovědnosti za vyřízení stížnosti se tak spojilo s opatrností v otázce příčiny. Přesnost nevyžadovala ani mlžení, ani unáhlené obvinění.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Při revizi odpovědi pracovník oddělil uznání výsledku od vysvětlení příčiny.",
+        "Napsal, že dodaný kus neodpovídá potvrzenému rozměru a že se za tuto chybu omlouvá.",
+        "Potom uvedl, že firma prověřuje výrobní podklad a ostatní kusy ze stejné zakázky.",
+        "Neoznačil ještě konkrétního kolegu za viníka, protože takový závěr neměl ověřený.",
+        "Přímé převzetí odpovědnosti za vyřízení stížnosti se tak spojilo s opatrností v otázce příčiny.",
+        "Přesnost nevyžadovala ani mlžení, ani unáhlené obvinění."
+      ]
+    },
+    {
+      "text": "Druhá obtíž se týkala nápravy. Zákazník potřeboval vybavení před zahájením akce a žádal pevný termín. Pracovník chtěl situaci uklidnit příslibem, že nový kus určitě dorazí včas. Výroba však zatím nepotvrdila kapacitu a dopravce nevěděl o zvláštní zásilce. Taková věta by krátkodobě snížila napětí, zároveň by vytvořila další závazek bez opory. Místo ní bylo třeba jasně rozdělit, co firma může udělat okamžitě, co závisí na potvrzení a kdy zákazník dostane další rozhodnou informaci.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Druhá obtíž se týkala nápravy.",
+        "Zákazník potřeboval vybavení před zahájením akce a žádal pevný termín.",
+        "Pracovník chtěl situaci uklidnit příslibem, že nový kus určitě dorazí včas.",
+        "Výroba však zatím nepotvrdila kapacitu a dopravce nevěděl o zvláštní zásilce.",
+        "Taková věta by krátkodobě snížila napětí, zároveň by vytvořila další závazek bez opory.",
+        "Místo ní bylo třeba jasně rozdělit, co firma může udělat okamžitě, co závisí na potvrzení a kdy zákazník dostane další rozhodnou informaci."
+      ]
+    },
+    {
+      "text": "Odpověď proto obsahovala konkrétní krok: dnes porovnáme výrobní podklad s potvrzenou objednávkou a dohodneme s vámi vhodnou variantu nápravy. U termínu náhradního dodání pracovník napsal, že jej potvrdí po ověření výroby a dopravy. Neměl-li možnost zaručit ani čas této kontroly, nesměl jej vymyslet. Mohl však slíbit zprávu v dohodnutém okamžiku, i kdyby měla obsahovat informaci, že některé potvrzení stále chybí. Závazek informovat se liší od záruky výsledku, který zatím závisí na dalších účastnících.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Odpověď proto obsahovala konkrétní krok: dnes porovnáme výrobní podklad s potvrzenou objednávkou a dohodneme s vámi vhodnou variantu nápravy.",
+        "U termínu náhradního dodání pracovník napsal, že jej potvrdí po ověření výroby a dopravy.",
+        "Neměl-li možnost zaručit ani čas této kontroly, nesměl jej vymyslet.",
+        "Mohl však slíbit zprávu v dohodnutém okamžiku, i kdyby měla obsahovat informaci, že některé potvrzení stále chybí.",
+        "Závazek informovat se liší od záruky výsledku, který zatím závisí na dalších účastnících."
+      ]
+    },
+    {
+      "text": "Významnou roli hrála také formulace případného nesouhlasu. Věta vaše očekávání byla nereálná by přesunula spor k hodnocení zákazníka. Přesnější bylo říci, že určitý dodatečný požadavek nebyl součástí potvrzené objednávky, a ukázat, ke kterému záznamu se tvrzení vztahuje. Ani zde ovšem nestačilo vybrat z komunikace jedinou výhodnou větu. Pokud pozdější zpráva podmínku změnila, bylo nutné pracovat s poslední skutečně potvrzenou verzí. Jazyková rozhodnost nemůže nahradit kontrolu toho, co si strany opravdu dohodly.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Významnou roli hrála také formulace případného nesouhlasu.",
+        "Věta vaše očekávání byla nereálná by přesunula spor k hodnocení zákazníka.",
+        "Přesnější bylo říci, že určitý dodatečný požadavek nebyl součástí potvrzené objednávky, a ukázat, ke kterému záznamu se tvrzení vztahuje.",
+        "Ani zde ovšem nestačilo vybrat z komunikace jedinou výhodnou větu.",
+        "Pokud pozdější zpráva podmínku změnila, bylo nutné pracovat s poslední skutečně potvrzenou verzí.",
+        "Jazyková rozhodnost nemůže nahradit kontrolu toho, co si strany opravdu dohodly."
+      ]
+    },
+    {
+      "text": "Zákazník ocenil přímou omluvu, ale namítl, že mu samotné vysvětlení nezachrání přípravu akce. Pracovník se nevrátil k obraně formulací. Nabídl porovnání dvou uskutečnitelných cest: opravu stávajícího kusu, pokud bude technicky vhodná, nebo náhradní dodání s nově potvrzeným termínem. U obou měl uvést, které informace ještě potřebuje a kdo zajistí další kontakt. Nešlo o předstírání volby mezi dvěma již hotovými řešeními. Šlo o strukturované hledání nápravy, v němž zákazník nepřichází o přehled ani o možnost rozhodnout podle svých potřeb.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Zákazník ocenil přímou omluvu, ale namítl, že mu samotné vysvětlení nezachrání přípravu akce.",
+        "Pracovník se nevrátil k obraně formulací.",
+        "Nabídl porovnání dvou uskutečnitelných cest: opravu stávajícího kusu, pokud bude technicky vhodná, nebo náhradní dodání s nově potvrzeným termínem.",
+        "U obou měl uvést, které informace ještě potřebuje a kdo zajistí další kontakt.",
+        "Nešlo o předstírání volby mezi dvěma již hotovými řešeními.",
+        "Šlo o strukturované hledání nápravy, v němž zákazník nepřichází o přehled ani o možnost rozhodnout podle svých potřeb."
+      ]
+    },
+    {
+      "text": "Po uzavření případu se tým podíval na původní odpověď znovu. Zjistil, že výraz patrně použil právě tam, kde měl být konkrétní, a slovo určitě tam, kde ještě chyběly podklady. Nešlo tedy o to být obecně odvážnější nebo opatrnější. Bylo třeba přiřadit míru jistoty ke správné části sdělení. Některá fakta si zasloužila přímé uznání, jiné závěry podmínku, další otázky otevřené pojmenování. Jednotný tón sebejistoty ani jednotný tón mlhavé zdrženlivosti by tuto strukturu nezachytil.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Po uzavření případu se tým podíval na původní odpověď znovu.",
+        "Zjistil, že výraz patrně použil právě tam, kde měl být konkrétní, a slovo určitě tam, kde ještě chyběly podklady.",
+        "Nešlo tedy o to být obecně odvážnější nebo opatrnější.",
+        "Bylo třeba přiřadit míru jistoty ke správné části sdělení.",
+        "Některá fakta si zasloužila přímé uznání, jiné závěry podmínku, další otázky otevřené pojmenování.",
+        "Jednotný tón sebejistoty ani jednotný tón mlhavé zdrženlivosti by tuto strukturu nezachytil."
+      ]
+    },
+    {
+      "text": "Přirozenost výsledné komunikace nevznikla odstraněním všech odborných údajů. Vznikla tím, že každá věta měla rozpoznatelnou práci: uznat chybu, vymezit neznámé, navrhnout krok nebo požádat o rozhodnutí. Zákazník nemusel hádat, zda omluva znamená souhlas se všemi jeho tvrzeními, a pracovník nemusel skrývat nejistotu za dlouhý neosobní odstavec. Přesné vyjadřování tak chránilo vztah i praktický průběh řešení. Jeho cílem nebylo vyhrát spor o slovíčka, ale snížit prostor pro další nesplnitelná očekávání a neověřené závěry.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Přirozenost výsledné komunikace nevznikla odstraněním všech odborných údajů.",
+        "Vznikla tím, že každá věta měla rozpoznatelnou práci: uznat chybu, vymezit neznámé, navrhnout krok nebo požádat o rozhodnutí.",
+        "Zákazník nemusel hádat, zda omluva znamená souhlas se všemi jeho tvrzeními, a pracovník nemusel skrývat nejistotu za dlouhý neosobní odstavec.",
+        "Přesné vyjadřování tak chránilo vztah i praktický průběh řešení.",
+        "Jeho cílem nebylo vyhrát spor o slovíčka, ale snížit prostor pro další nesplnitelná očekávání a neověřené závěry."
+      ]
+    }
+  ],
+  "text_sha256": "8cc38274efffac956bbdd4ef566b61cfa6e8e604a673c25225dadc9a4baa530e",
+  "source_file": "content/lessons/C2/C2-U06-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U06-L01--2026.10.22.1--text--8cc38274ef--normal.mp3",
+  "slow_file": "content/audio/files/C2-U06-L01--2026.10.22.1--text--8cc38274ef--slow.mp3",
+  "duration_seconds": 368.4504761904762,
+  "slow_duration_seconds": 415.4128344671202,
+  "cues": [
+    {
+      "text": "Dodavatel zaslal zákazníkovi první odpověď na stížnost větou, že v průběhu realizace zřejmě došlo k určitým nedorozuměním. Zákazník ji četl jako vyhýbání se odpovědnosti. V objednávce byl uveden rozměr, dodané zboží mělo jiný a fotografie rozdíl jasně ukazovala. Slova zřejmě a určitým zde nezachycovala skutečnou nejistotu; rozostřovala již doložený problém. Nejisté bylo něco jiného: v jakém kroku se chyba dostala do výroby a zda se týká i dalších kusů, které ještě nebyly zkontrolovány.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Dodavatel zaslal zákazníkovi první odpověď na stížnost větou, že v průběhu realizace zřejmě došlo k určitým nedorozuměním.",
+        "Zákazník ji četl jako vyhýbání se odpovědnosti.",
+        "V objednávce byl uveden rozměr, dodané zboží mělo jiný a fotografie rozdíl jasně ukazovala.",
+        "Slova zřejmě a určitým zde nezachycovala skutečnou nejistotu; rozostřovala již doložený problém.",
+        "Nejisté bylo něco jiného: v jakém kroku se chyba dostala do výroby a zda se týká i dalších kusů, které ještě nebyly zkontrolovány."
+      ],
+      "start": 0.0,
+      "end": 43.87428571428571,
+      "sentences": [
+        {
+          "text": "Dodavatel zaslal zákazníkovi první odpověď na stížnost větou, že v průběhu realizace zřejmě došlo k určitým nedorozuměním.",
+          "start": 0.0,
+          "end": 10.924988662131518,
+          "slow_start": 0.0,
+          "slow_end": 12.1556462585034
+        },
+        {
+          "text": "Zákazník ji četl jako vyhýbání se odpovědnosti.",
+          "start": 11.10498866213152,
+          "end": 15.319410430839003,
+          "slow_start": 12.3356462585034,
+          "slow_end": 17.165396825396826
+        },
+        {
+          "text": "V objednávce byl uveden rozměr, dodané zboží mělo jiný a fotografie rozdíl jasně ukazovala.",
+          "start": 15.499410430839003,
+          "end": 23.777324263038548,
+          "slow_start": 17.345396825396826,
+          "slow_end": 26.946848072562357
+        },
+        {
+          "text": "Slova zřejmě a určitým zde nezachycovala skutečnou nejistotu; rozostřovala již doložený problém.",
+          "start": 23.957324263038547,
+          "end": 32.82734693877551,
+          "slow_start": 27.126848072562357,
+          "slow_end": 37.099818594104306
+        },
+        {
+          "text": "Nejisté bylo něco jiného: v jakém kroku se chyba dostala do výroby a zda se týká i dalších kusů, které ještě nebyly zkontrolovány.",
+          "start": 33.00734693877551,
+          "end": 43.87428571428571,
+          "slow_start": 37.279818594104306,
+          "slow_end": 49.73732426303855
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 49.73732426303855
+    },
+    {
+      "text": "Při revizi odpovědi pracovník oddělil uznání výsledku od vysvětlení příčiny. Napsal, že dodaný kus neodpovídá potvrzenému rozměru a že se za tuto chybu omlouvá. Potom uvedl, že firma prověřuje výrobní podklad a ostatní kusy ze stejné zakázky. Neoznačil ještě konkrétního kolegu za viníka, protože takový závěr neměl ověřený. Přímé převzetí odpovědnosti za vyřízení stížnosti se tak spojilo s opatrností v otázce příčiny. Přesnost nevyžadovala ani mlžení, ani unáhlené obvinění.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Při revizi odpovědi pracovník oddělil uznání výsledku od vysvětlení příčiny.",
+        "Napsal, že dodaný kus neodpovídá potvrzenému rozměru a že se za tuto chybu omlouvá.",
+        "Potom uvedl, že firma prověřuje výrobní podklad a ostatní kusy ze stejné zakázky.",
+        "Neoznačil ještě konkrétního kolegu za viníka, protože takový závěr neměl ověřený.",
+        "Přímé převzetí odpovědnosti za vyřízení stížnosti se tak spojilo s opatrností v otázce příčiny.",
+        "Přesnost nevyžadovala ani mlžení, ani unáhlené obvinění."
+      ],
+      "start": 44.05428571428571,
+      "end": 88.01569160997732,
+      "sentences": [
+        {
+          "text": "Při revizi odpovědi pracovník oddělil uznání výsledku od vysvětlení příčiny.",
+          "start": 44.05428571428571,
+          "end": 50.753242630385486,
+          "slow_start": 49.91732426303855,
+          "slow_end": 57.359319727891155
+        },
+        {
+          "text": "Napsal, že dodaný kus neodpovídá potvrzenému rozměru a že se za tuto chybu omlouvá.",
+          "start": 50.933242630385486,
+          "end": 58.06176870748299,
+          "slow_start": 57.539319727891154,
+          "slow_end": 65.56181405895691
+        },
+        {
+          "text": "Potom uvedl, že firma prověřuje výrobní podklad a ostatní kusy ze stejné zakázky.",
+          "start": 58.24176870748299,
+          "end": 65.74181405895692,
+          "slow_start": 65.74181405895692,
+          "slow_end": 74.13582766439909
+        },
+        {
+          "text": "Neoznačil ještě konkrétního kolegu za viníka, protože takový závěr neměl ověřený.",
+          "start": 65.92181405895691,
+          "end": 73.64244897959183,
+          "slow_start": 74.3158276643991,
+          "slow_end": 82.93043083900227
+        },
+        {
+          "text": "Přímé převzetí odpovědnosti za vyřízení stížnosti se tak spojilo s opatrností v otázce příčiny.",
+          "start": 73.82244897959184,
+          "end": 82.44866213151927,
+          "slow_start": 83.11043083900226,
+          "slow_end": 92.86281179138322
+        },
+        {
+          "text": "Přesnost nevyžadovala ani mlžení, ani unáhlené obvinění.",
+          "start": 82.62866213151928,
+          "end": 88.01569160997732,
+          "slow_start": 93.04281179138322,
+          "slow_end": 99.16126984126984
+        }
+      ],
+      "slow_start": 49.91732426303855,
+      "slow_end": 99.16126984126984
+    },
+    {
+      "text": "Druhá obtíž se týkala nápravy. Zákazník potřeboval vybavení před zahájením akce a žádal pevný termín. Pracovník chtěl situaci uklidnit příslibem, že nový kus určitě dorazí včas. Výroba však zatím nepotvrdila kapacitu a dopravce nevěděl o zvláštní zásilce. Taková věta by krátkodobě snížila napětí, zároveň by vytvořila další závazek bez opory. Místo ní bylo třeba jasně rozdělit, co firma může udělat okamžitě, co závisí na potvrzení a kdy zákazník dostane další rozhodnou informaci.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Druhá obtíž se týkala nápravy.",
+        "Zákazník potřeboval vybavení před zahájením akce a žádal pevný termín.",
+        "Pracovník chtěl situaci uklidnit příslibem, že nový kus určitě dorazí včas.",
+        "Výroba však zatím nepotvrdila kapacitu a dopravce nevěděl o zvláštní zásilce.",
+        "Taková věta by krátkodobě snížila napětí, zároveň by vytvořila další závazek bez opory.",
+        "Místo ní bylo třeba jasně rozdělit, co firma může udělat okamžitě, co závisí na potvrzení a kdy zákazník dostane další rozhodnou informaci."
+      ],
+      "start": 88.19569160997733,
+      "end": 134.35138321995464,
+      "sentences": [
+        {
+          "text": "Druhá obtíž se týkala nápravy.",
+          "start": 88.19569160997733,
+          "end": 91.08657596371881,
+          "slow_start": 99.34126984126983,
+          "slow_end": 102.51079365079364
+        },
+        {
+          "text": "Zákazník potřeboval vybavení před zahájením akce a žádal pevný termín.",
+          "start": 91.26657596371882,
+          "end": 98.04680272108844,
+          "slow_start": 102.69079365079365,
+          "slow_end": 110.14439909297052
+        },
+        {
+          "text": "Pracovník chtěl situaci uklidnit příslibem, že nový kus určitě dorazí včas.",
+          "start": 98.22680272108843,
+          "end": 105.13473922902494,
+          "slow_start": 110.32439909297052,
+          "slow_end": 117.9637641723356
+        },
+        {
+          "text": "Výroba však zatím nepotvrdila kapacitu a dopravce nevěděl o zvláštní zásilce.",
+          "start": 105.31473922902494,
+          "end": 112.30394557823129,
+          "slow_start": 118.14376417233561,
+          "slow_end": 126.00371882086168
+        },
+        {
+          "text": "Taková věta by krátkodobě snížila napětí, zároveň by vytvořila další závazek bez opory.",
+          "start": 112.4839455782313,
+          "end": 120.95922902494331,
+          "slow_start": 126.18371882086167,
+          "slow_end": 135.71551020408162
+        },
+        {
+          "text": "Místo ní bylo třeba jasně rozdělit, co firma může udělat okamžitě, co závisí na potvrzení a kdy zákazník dostane další rozhodnou informaci.",
+          "start": 121.1392290249433,
+          "end": 134.35138321995464,
+          "slow_start": 135.89551020408163,
+          "slow_end": 150.77950113378685
+        }
+      ],
+      "slow_start": 99.34126984126983,
+      "slow_end": 150.77950113378685
+    },
+    {
+      "text": "Odpověď proto obsahovala konkrétní krok: dnes porovnáme výrobní podklad s potvrzenou objednávkou a dohodneme s vámi vhodnou variantu nápravy. U termínu náhradního dodání pracovník napsal, že jej potvrdí po ověření výroby a dopravy. Neměl-li možnost zaručit ani čas této kontroly, nesměl jej vymyslet. Mohl však slíbit zprávu v dohodnutém okamžiku, i kdyby měla obsahovat informaci, že některé potvrzení stále chybí. Závazek informovat se liší od záruky výsledku, který zatím závisí na dalších účastnících.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Odpověď proto obsahovala konkrétní krok: dnes porovnáme výrobní podklad s potvrzenou objednávkou a dohodneme s vámi vhodnou variantu nápravy.",
+        "U termínu náhradního dodání pracovník napsal, že jej potvrdí po ověření výroby a dopravy.",
+        "Neměl-li možnost zaručit ani čas této kontroly, nesměl jej vymyslet.",
+        "Mohl však slíbit zprávu v dohodnutém okamžiku, i kdyby měla obsahovat informaci, že některé potvrzení stále chybí.",
+        "Závazek informovat se liší od záruky výsledku, který zatím závisí na dalších účastnících."
+      ],
+      "start": 134.53138321995465,
+      "end": 180.24004535147392,
+      "sentences": [
+        {
+          "text": "Odpověď proto obsahovala konkrétní krok: dnes porovnáme výrobní podklad s potvrzenou objednávkou a dohodneme s vámi vhodnou variantu nápravy.",
+          "start": 134.53138321995465,
+          "end": 146.5477097505669,
+          "slow_start": 150.95950113378686,
+          "slow_end": 164.46190476190475
+        },
+        {
+          "text": "U termínu náhradního dodání pracovník napsal, že jej potvrdí po ověření výroby a dopravy.",
+          "start": 146.7277097505669,
+          "end": 154.6689342403628,
+          "slow_start": 164.64190476190475,
+          "slow_end": 173.59319727891156
+        },
+        {
+          "text": "Neměl-li možnost zaručit ani čas této kontroly, nesměl jej vymyslet.",
+          "start": 154.8489342403628,
+          "end": 161.18798185941043,
+          "slow_start": 173.77319727891157,
+          "slow_end": 180.89011337868482
+        },
+        {
+          "text": "Mohl však slíbit zprávu v dohodnutém okamžiku, i kdyby měla obsahovat informaci, že některé potvrzení stále chybí.",
+          "start": 161.36798185941043,
+          "end": 171.53832199546486,
+          "slow_start": 181.0701133786848,
+          "slow_end": 192.52916099773242
+        },
+        {
+          "text": "Závazek informovat se liší od záruky výsledku, který zatím závisí na dalších účastnících.",
+          "start": 171.71832199546486,
+          "end": 180.24004535147392,
+          "slow_start": 192.70916099773243,
+          "slow_end": 202.47315192743764
+        }
+      ],
+      "slow_start": 150.95950113378686,
+      "slow_end": 202.47315192743764
+    },
+    {
+      "text": "Významnou roli hrála také formulace případného nesouhlasu. Věta vaše očekávání byla nereálná by přesunula spor k hodnocení zákazníka. Přesnější bylo říci, že určitý dodatečný požadavek nebyl součástí potvrzené objednávky, a ukázat, ke kterému záznamu se tvrzení vztahuje. Ani zde ovšem nestačilo vybrat z komunikace jedinou výhodnou větu. Pokud pozdější zpráva podmínku změnila, bylo nutné pracovat s poslední skutečně potvrzenou verzí. Jazyková rozhodnost nemůže nahradit kontrolu toho, co si strany opravdu dohodly.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Významnou roli hrála také formulace případného nesouhlasu.",
+        "Věta vaše očekávání byla nereálná by přesunula spor k hodnocení zákazníka.",
+        "Přesnější bylo říci, že určitý dodatečný požadavek nebyl součástí potvrzené objednávky, a ukázat, ke kterému záznamu se tvrzení vztahuje.",
+        "Ani zde ovšem nestačilo vybrat z komunikace jedinou výhodnou větu.",
+        "Pokud pozdější zpráva podmínku změnila, bylo nutné pracovat s poslední skutečně potvrzenou verzí.",
+        "Jazyková rozhodnost nemůže nahradit kontrolu toho, co si strany opravdu dohodly."
+      ],
+      "start": 180.42004535147393,
+      "end": 226.76149659863947,
+      "sentences": [
+        {
+          "text": "Významnou roli hrála také formulace případného nesouhlasu.",
+          "start": 180.42004535147393,
+          "end": 185.43555555555557,
+          "slow_start": 202.65315192743765,
+          "slow_end": 208.34204081632652
+        },
+        {
+          "text": "Věta vaše očekávání byla nereálná by přesunula spor k hodnocení zákazníka.",
+          "start": 185.61555555555555,
+          "end": 192.83696145124716,
+          "slow_start": 208.52204081632652,
+          "slow_end": 216.7302947845805
+        },
+        {
+          "text": "Přesnější bylo říci, že určitý dodatečný požadavek nebyl součástí potvrzené objednávky, a ukázat, ke kterému záznamu se tvrzení vztahuje.",
+          "start": 193.01696145124717,
+          "end": 205.40480725623584,
+          "slow_start": 216.9102947845805,
+          "slow_end": 230.96997732426303
+        },
+        {
+          "text": "Ani zde ovšem nestačilo vybrat z komunikace jedinou výhodnou větu.",
+          "start": 205.58480725623582,
+          "end": 211.08793650793652,
+          "slow_start": 231.14997732426303,
+          "slow_end": 237.6283446712018
+        },
+        {
+          "text": "Pokud pozdější zpráva podmínku změnila, bylo nutné pracovat s poslední skutečně potvrzenou verzí.",
+          "start": 211.2679365079365,
+          "end": 219.66195011337868,
+          "slow_start": 237.8083446712018,
+          "slow_end": 247.38657596371883
+        },
+        {
+          "text": "Jazyková rozhodnost nemůže nahradit kontrolu toho, co si strany opravdu dohodly.",
+          "start": 219.8419501133787,
+          "end": 226.76149659863947,
+          "slow_start": 247.56657596371883,
+          "slow_end": 255.35687074829931
+        }
+      ],
+      "slow_start": 202.65315192743765,
+      "slow_end": 255.35687074829931
+    },
+    {
+      "text": "Zákazník ocenil přímou omluvu, ale namítl, že mu samotné vysvětlení nezachrání přípravu akce. Pracovník se nevrátil k obraně formulací. Nabídl porovnání dvou uskutečnitelných cest: opravu stávajícího kusu, pokud bude technicky vhodná, nebo náhradní dodání s nově potvrzeným termínem. U obou měl uvést, které informace ještě potřebuje a kdo zajistí další kontakt. Nešlo o předstírání volby mezi dvěma již hotovými řešeními. Šlo o strukturované hledání nápravy, v němž zákazník nepřichází o přehled ani o možnost rozhodnout podle svých potřeb.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Zákazník ocenil přímou omluvu, ale namítl, že mu samotné vysvětlení nezachrání přípravu akce.",
+        "Pracovník se nevrátil k obraně formulací.",
+        "Nabídl porovnání dvou uskutečnitelných cest: opravu stávajícího kusu, pokud bude technicky vhodná, nebo náhradní dodání s nově potvrzeným termínem.",
+        "U obou měl uvést, které informace ještě potřebuje a kdo zajistí další kontakt.",
+        "Nešlo o předstírání volby mezi dvěma již hotovými řešeními.",
+        "Šlo o strukturované hledání nápravy, v němž zákazník nepřichází o přehled ani o možnost rozhodnout podle svých potřeb."
+      ],
+      "start": 226.94149659863945,
+      "end": 274.9199546485261,
+      "sentences": [
+        {
+          "text": "Zákazník ocenil přímou omluvu, ale namítl, že mu samotné vysvětlení nezachrání přípravu akce.",
+          "start": 226.94149659863945,
+          "end": 235.63736961451247,
+          "slow_start": 255.53687074829932,
+          "slow_end": 265.1267120181406
+        },
+        {
+          "text": "Pracovník se nevrátil k obraně formulací.",
+          "start": 235.81736961451247,
+          "end": 239.4861224489796,
+          "slow_start": 265.3067120181406,
+          "slow_end": 269.4514739229025
+        },
+        {
+          "text": "Nabídl porovnání dvou uskutečnitelných cest: opravu stávajícího kusu, pokud bude technicky vhodná, nebo náhradní dodání s nově potvrzeným termínem.",
+          "start": 239.6661224489796,
+          "end": 252.6692970521542,
+          "slow_start": 269.6314739229025,
+          "slow_end": 284.66639455782314
+        },
+        {
+          "text": "U obou měl uvést, které informace ještě potřebuje a kdo zajistí další kontakt.",
+          "start": 252.84929705215418,
+          "end": 259.5366439909297,
+          "slow_start": 284.84639455782315,
+          "slow_end": 292.47414965986394
+        },
+        {
+          "text": "Nešlo o předstírání volby mezi dvěma již hotovými řešeními.",
+          "start": 259.7166439909297,
+          "end": 264.67410430839004,
+          "slow_start": 292.65414965986395,
+          "slow_end": 298.2269387755102
+        },
+        {
+          "text": "Šlo o strukturované hledání nápravy, v němž zákazník nepřichází o přehled ani o možnost rozhodnout podle svých potřeb.",
+          "start": 264.85410430839005,
+          "end": 274.9199546485261,
+          "slow_start": 298.4069387755102,
+          "slow_end": 309.8195464852608
+        }
+      ],
+      "slow_start": 255.53687074829932,
+      "slow_end": 309.8195464852608
+    },
+    {
+      "text": "Po uzavření případu se tým podíval na původní odpověď znovu. Zjistil, že výraz patrně použil právě tam, kde měl být konkrétní, a slovo určitě tam, kde ještě chyběly podklady. Nešlo tedy o to být obecně odvážnější nebo opatrnější. Bylo třeba přiřadit míru jistoty ke správné části sdělení. Některá fakta si zasloužila přímé uznání, jiné závěry podmínku, další otázky otevřené pojmenování. Jednotný tón sebejistoty ani jednotný tón mlhavé zdrženlivosti by tuto strukturu nezachytil.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Po uzavření případu se tým podíval na původní odpověď znovu.",
+        "Zjistil, že výraz patrně použil právě tam, kde měl být konkrétní, a slovo určitě tam, kde ještě chyběly podklady.",
+        "Nešlo tedy o to být obecně odvážnější nebo opatrnější.",
+        "Bylo třeba přiřadit míru jistoty ke správné části sdělení.",
+        "Některá fakta si zasloužila přímé uznání, jiné závěry podmínku, další otázky otevřené pojmenování.",
+        "Jednotný tón sebejistoty ani jednotný tón mlhavé zdrženlivosti by tuto strukturu nezachytil."
+      ],
+      "start": 275.0999546485261,
+      "end": 319.8740589569161,
+      "sentences": [
+        {
+          "text": "Po uzavření případu se tým podíval na původní odpověď znovu.",
+          "start": 275.0999546485261,
+          "end": 280.6611337868481,
+          "slow_start": 309.9995464852608,
+          "slow_end": 316.1760544217687
+        },
+        {
+          "text": "Zjistil, že výraz patrně použil právě tam, kde měl být konkrétní, a slovo určitě tam, kde ještě chyběly podklady.",
+          "start": 280.84113378684805,
+          "end": 290.52385487528346,
+          "slow_start": 316.3560544217687,
+          "slow_end": 327.5016326530612
+        },
+        {
+          "text": "Nešlo tedy o to být obecně odvážnější nebo opatrnější.",
+          "start": 290.70385487528347,
+          "end": 295.84707482993196,
+          "slow_start": 327.68163265306123,
+          "slow_end": 333.39374149659864
+        },
+        {
+          "text": "Bylo třeba přiřadit míru jistoty ke správné části sdělení.",
+          "start": 296.02707482993196,
+          "end": 301.43732426303853,
+          "slow_start": 333.57374149659864,
+          "slow_end": 339.6225396825397
+        },
+        {
+          "text": "Některá fakta si zasloužila přímé uznání, jiné závěry podmínku, další otázky otevřené pojmenování.",
+          "start": 301.61732426303854,
+          "end": 311.3697052154195,
+          "slow_start": 339.8025396825397,
+          "slow_end": 350.8552380952381
+        },
+        {
+          "text": "Jednotný tón sebejistoty ani jednotný tón mlhavé zdrženlivosti by tuto strukturu nezachytil.",
+          "start": 311.5497052154195,
+          "end": 319.8740589569161,
+          "slow_start": 351.03523809523807,
+          "slow_end": 360.4857596371882
+        }
+      ],
+      "slow_start": 309.9995464852608,
+      "slow_end": 360.4857596371882
+    },
+    {
+      "text": "Přirozenost výsledné komunikace nevznikla odstraněním všech odborných údajů. Vznikla tím, že každá věta měla rozpoznatelnou práci: uznat chybu, vymezit neznámé, navrhnout krok nebo požádat o rozhodnutí. Zákazník nemusel hádat, zda omluva znamená souhlas se všemi jeho tvrzeními, a pracovník nemusel skrývat nejistotu za dlouhý neosobní odstavec. Přesné vyjadřování tak chránilo vztah i praktický průběh řešení. Jeho cílem nebylo vyhrát spor o slovíčka, ale snížit prostor pro další nesplnitelná očekávání a neověřené závěry.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Přirozenost výsledné komunikace nevznikla odstraněním všech odborných údajů.",
+        "Vznikla tím, že každá věta měla rozpoznatelnou práci: uznat chybu, vymezit neznámé, navrhnout krok nebo požádat o rozhodnutí.",
+        "Zákazník nemusel hádat, zda omluva znamená souhlas se všemi jeho tvrzeními, a pracovník nemusel skrývat nejistotu za dlouhý neosobní odstavec.",
+        "Přesné vyjadřování tak chránilo vztah i praktický průběh řešení.",
+        "Jeho cílem nebylo vyhrát spor o slovíčka, ale snížit prostor pro další nesplnitelná očekávání a neověřené závěry."
+      ],
+      "start": 320.0540589569161,
+      "end": 368.2704761904762,
+      "sentences": [
+        {
+          "text": "Přirozenost výsledné komunikace nevznikla odstraněním všech odborných údajů.",
+          "start": 320.0540589569161,
+          "end": 326.2770068027211,
+          "slow_start": 360.6657596371882,
+          "slow_end": 367.6665759637188
+        },
+        {
+          "text": "Vznikla tím, že každá věta měla rozpoznatelnou práci: uznat chybu, vymezit neznámé, navrhnout krok nebo požádat o rozhodnutí.",
+          "start": 326.4570068027211,
+          "end": 337.8696145124716,
+          "slow_start": 367.8465759637188,
+          "slow_end": 380.7684807256236
+        },
+        {
+          "text": "Zákazník nemusel hádat, zda omluva znamená souhlas se všemi jeho tvrzeními, a pracovník nemusel skrývat nejistotu za dlouhý neosobní odstavec.",
+          "start": 338.04961451247163,
+          "end": 350.7857596371882,
+          "slow_start": 380.9484807256236,
+          "slow_end": 395.43773242630385
+        },
+        {
+          "text": "Přesné vyjadřování tak chránilo vztah i praktický průběh řešení.",
+          "start": 350.9657596371882,
+          "end": 356.561768707483,
+          "slow_start": 395.61773242630386,
+          "slow_end": 401.8290702947846
+        },
+        {
+          "text": "Jeho cílem nebylo vyhrát spor o slovíčka, ale snížit prostor pro další nesplnitelná očekávání a neověřené závěry.",
+          "start": 356.741768707483,
+          "end": 368.2704761904762,
+          "slow_start": 402.0090702947846,
+          "slow_end": 415.2328344671202
+        }
+      ],
+      "slow_start": 360.6657596371882,
+      "slow_end": 415.2328344671202
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "dc4290580d2409c1e8b16c2dce3989df637c92e3b0c2b7435929b34408896107",
+    "slow": "b331c9867279def05159ba66aeacd94229c25223833ca2fb65b3626416785049"
+  }
+}

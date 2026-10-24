@@ -1,0 +1,57 @@
+{
+  "id": "B1-U08-L01--2026.10.22.1--contrasts",
+  "lesson_id": "B1-U08-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "souhlasím. nesouhlasím.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "souhlasím. nesouhlasím."
+      ]
+    }
+  ],
+  "text_sha256": "70a99413b2419e5af078c59e50b025274c4dac1146ed3a44bec63a7d8c3df226",
+  "source_file": "content/lessons/B1/B1-U08-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U08-L01--2026.10.22.1--contrasts--70a99413b2--normal.mp3",
+  "slow_file": "content/audio/files/B1-U08-L01--2026.10.22.1--contrasts--70a99413b2--slow.mp3",
+  "duration_seconds": 2.4555555555555557,
+  "slow_duration_seconds": 2.8502947845804987,
+  "cues": [
+    {
+      "text": "souhlasím. nesouhlasím.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "souhlasím. nesouhlasím."
+      ],
+      "start": 0.0,
+      "end": 2.2755555555555556,
+      "sentences": [
+        {
+          "text": "souhlasím. nesouhlasím.",
+          "start": 0.0,
+          "end": 2.2755555555555556,
+          "slow_start": 0.0,
+          "slow_end": 2.670294784580499
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.670294784580499
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "4f48f0af7c79e85197f36373668ab871ef821b4ff41c3dc213945e65bc7d84b3",
+    "slow": "eb19cbb8192d2b15dcab856139519a759bfed14687a5888d17bc325372c0ad11"
+  }
+}

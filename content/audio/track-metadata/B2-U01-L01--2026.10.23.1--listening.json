@@ -1,0 +1,103 @@
+{
+  "id": "B2-U01-L01--2026.10.23.1--listening",
+  "lesson_id": "B2-U01-L01",
+  "content_version": "2026.10.23.1",
+  "level": "B2",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Moderátor: Tvrdíte tedy, že omezení musí platit bez výjimek? Obyvatelka: Ne, to jsem neřekla. Podporuji klidnější ulice, ale lidé s omezenou pohyblivostí potřebují přístup. Obchodník: S tím souhlasím. Mně jde především o zásobování ráno, nikoli o volný průjezd celý den. Moderátor: Společným bodem je tedy omezení zbytečného provozu, zatímco rozsah výjimek je třeba dopracovat.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Moderátor: Tvrdíte tedy, že omezení musí platit bez výjimek?",
+        "Obyvatelka: Ne, to jsem neřekla.",
+        "Podporuji klidnější ulice, ale lidé s omezenou pohyblivostí potřebují přístup.",
+        "Obchodník: S tím souhlasím.",
+        "Mně jde především o zásobování ráno, nikoli o volný průjezd celý den.",
+        "Moderátor: Společným bodem je tedy omezení zbytečného provozu, zatímco rozsah výjimek je třeba dopracovat."
+      ]
+    }
+  ],
+  "text_sha256": "4c00c0050ba2745c1757e0de5fcb90ddd9d0f18acdfdd914c26802f3d77f5daf",
+  "source_file": "content/lessons/B2/B2-U01-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U01-L01--2026.10.22.1--listening--4c00c0050b--normal.mp3",
+  "slow_file": "content/audio/files/B2-U01-L01--2026.10.22.1--listening--4c00c0050b--slow.mp3",
+  "duration_seconds": 35.5384126984127,
+  "slow_duration_seconds": 39.70639455782313,
+  "cues": [
+    {
+      "text": "Moderátor: Tvrdíte tedy, že omezení musí platit bez výjimek? Obyvatelka: Ne, to jsem neřekla. Podporuji klidnější ulice, ale lidé s omezenou pohyblivostí potřebují přístup. Obchodník: S tím souhlasím. Mně jde především o zásobování ráno, nikoli o volný průjezd celý den. Moderátor: Společným bodem je tedy omezení zbytečného provozu, zatímco rozsah výjimek je třeba dopracovat.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Moderátor: Tvrdíte tedy, že omezení musí platit bez výjimek?",
+        "Obyvatelka: Ne, to jsem neřekla.",
+        "Podporuji klidnější ulice, ale lidé s omezenou pohyblivostí potřebují přístup.",
+        "Obchodník: S tím souhlasím.",
+        "Mně jde především o zásobování ráno, nikoli o volný průjezd celý den.",
+        "Moderátor: Společným bodem je tedy omezení zbytečného provozu, zatímco rozsah výjimek je třeba dopracovat."
+      ],
+      "start": 0.0,
+      "end": 35.3584126984127,
+      "sentences": [
+        {
+          "text": "Moderátor: Tvrdíte tedy, že omezení musí platit bez výjimek?",
+          "start": 0.0,
+          "end": 5.50312925170068,
+          "slow_start": 0.0,
+          "slow_end": 6.130068027210885
+        },
+        {
+          "text": "Obyvatelka: Ne, to jsem neřekla.",
+          "start": 5.68312925170068,
+          "end": 8.690113378684806,
+          "slow_start": 6.3100680272108844,
+          "slow_end": 9.700181405895691
+        },
+        {
+          "text": "Podporuji klidnější ulice, ale lidé s omezenou pohyblivostí potřebují přístup.",
+          "start": 8.870113378684808,
+          "end": 15.894149659863945,
+          "slow_start": 9.880181405895692,
+          "slow_end": 17.612426303854875
+        },
+        {
+          "text": "Obchodník: S tím souhlasím.",
+          "start": 16.074149659863945,
+          "end": 18.686394557823128,
+          "slow_start": 17.792426303854874,
+          "slow_end": 20.776190476190475
+        },
+        {
+          "text": "Mně jde především o zásobování ráno, nikoli o volný průjezd celý den.",
+          "start": 18.866394557823128,
+          "end": 25.228662131519275,
+          "slow_start": 20.956190476190475,
+          "slow_end": 28.2356462585034
+        },
+        {
+          "text": "Moderátor: Společným bodem je tedy omezení zbytečného provozu, zatímco rozsah výjimek je třeba dopracovat.",
+          "start": 25.408662131519275,
+          "end": 35.3584126984127,
+          "slow_start": 28.4156462585034,
+          "slow_end": 39.52639455782313
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 39.52639455782313
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "20bf76b4eae1a2290b651cc67c862575d6c4b6c97dbb7080693b663872af8cf6",
+    "slow": "17e01fb18c160a83aeed0a8dbe0a6407d5938d553d24f0607f1ea68124df60c0"
+  },
+  "reused_from_track_id": "B2-U01-L01--2026.10.22.1--listening"
+}

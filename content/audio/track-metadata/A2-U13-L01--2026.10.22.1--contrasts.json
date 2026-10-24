@@ -1,0 +1,57 @@
+{
+  "id": "A2-U13-L01--2026.10.22.1--contrasts",
+  "lesson_id": "A2-U13-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "zůstává. mění se.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "zůstává. mění se."
+      ]
+    }
+  ],
+  "text_sha256": "e0728a9b8718b09e042e07659a2f7ab22b3828ff9d06b2715d54f99a237a6dbe",
+  "source_file": "content/lessons/A2/A2-U13-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U13-L01--2026.10.22.1--contrasts--e0728a9b87--normal.mp3",
+  "slow_file": "content/audio/files/A2-U13-L01--2026.10.22.1--contrasts--e0728a9b87--slow.mp3",
+  "duration_seconds": 1.8982766439909298,
+  "slow_duration_seconds": 2.072426303854875,
+  "cues": [
+    {
+      "text": "zůstává. mění se.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "zůstává. mění se."
+      ],
+      "start": 0.0,
+      "end": 1.7182766439909296,
+      "sentences": [
+        {
+          "text": "zůstává. mění se.",
+          "start": 0.0,
+          "end": 1.7182766439909296,
+          "slow_start": 0.0,
+          "slow_end": 1.8924263038548752
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.8924263038548752
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "293e4dd88f0facb2fa1b8bd70352663989f8c955e37cd01d219259898b5b6ace",
+    "slow": "9ee2c41fa14b9b359aade78177db36c4de558c1bbd5e0d0098781a59f9a838cf"
+  }
+}

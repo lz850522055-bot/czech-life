@@ -1,0 +1,173 @@
+{
+  "id": "B1-U02-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "B1-U02-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Chybí mi podklady pro zprávu.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Chybí mi podklady pro zprávu."
+      ]
+    },
+    {
+      "text": "Tabulku dokončím večer.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Tabulku dokončím večer."
+      ]
+    },
+    {
+      "text": "Potřebuji znát termín odevzdání.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Potřebuji znát termín odevzdání."
+      ]
+    },
+    {
+      "text": "Tyto údaje musíme ověřit.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Tyto údaje musíme ověřit."
+      ]
+    },
+    {
+      "text": "Ve druhém sloupci je chyba.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Ve druhém sloupci je chyba."
+      ]
+    }
+  ],
+  "text_sha256": "dfbcac7e50f1b5c5f9cf8340e832e0b41de610262441125053d5f29614192a71",
+  "source_file": "content/lessons/B1/B1-U02-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U02-L01--2026.10.22.1--vocabulary--dfbcac7e50--normal.mp3",
+  "slow_file": "content/audio/files/B1-U02-L01--2026.10.22.1--vocabulary--dfbcac7e50--slow.mp3",
+  "duration_seconds": 13.543265306122448,
+  "slow_duration_seconds": 15.249931972789115,
+  "cues": [
+    {
+      "text": "Chybí mi podklady pro zprávu.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Chybí mi podklady pro zprávu."
+      ],
+      "start": 0.0,
+      "end": 2.36843537414966,
+      "sentences": [
+        {
+          "text": "Chybí mi podklady pro zprávu.",
+          "start": 0.0,
+          "end": 2.36843537414966,
+          "slow_start": 0.0,
+          "slow_end": 2.716734693877551
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.716734693877551
+    },
+    {
+      "text": "Tabulku dokončím večer.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Tabulku dokončím večer."
+      ],
+      "start": 2.5484353741496597,
+      "end": 4.905260770975056,
+      "sentences": [
+        {
+          "text": "Tabulku dokončím večer.",
+          "start": 2.5484353741496597,
+          "end": 4.905260770975056,
+          "slow_start": 2.896734693877551,
+          "slow_end": 5.578639455782313
+        }
+      ],
+      "slow_start": 2.896734693877551,
+      "slow_end": 5.578639455782313
+    },
+    {
+      "text": "Potřebuji znát termín odevzdání.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Potřebuji znát termín odevzdání."
+      ],
+      "start": 5.085260770975057,
+      "end": 8.11546485260771,
+      "sentences": [
+        {
+          "text": "Potřebuji znát termín odevzdání.",
+          "start": 5.085260770975057,
+          "end": 8.11546485260771,
+          "slow_start": 5.758639455782313,
+          "slow_end": 9.18358276643991
+        }
+      ],
+      "slow_start": 5.758639455782313,
+      "slow_end": 9.18358276643991
+    },
+    {
+      "text": "Tyto údaje musíme ověřit.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Tyto údaje musíme ověřit."
+      ],
+      "start": 8.29546485260771,
+      "end": 10.872879818594104,
+      "sentences": [
+        {
+          "text": "Tyto údaje musíme ověřit.",
+          "start": 8.29546485260771,
+          "end": 10.872879818594104,
+          "slow_start": 9.36358276643991,
+          "slow_end": 12.208027210884353
+        }
+      ],
+      "slow_start": 9.36358276643991,
+      "slow_end": 12.208027210884353
+    },
+    {
+      "text": "Ve druhém sloupci je chyba.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Ve druhém sloupci je chyba."
+      ],
+      "start": 11.052879818594104,
+      "end": 13.363265306122448,
+      "sentences": [
+        {
+          "text": "Ve druhém sloupci je chyba.",
+          "start": 11.052879818594104,
+          "end": 13.363265306122448,
+          "slow_start": 12.388027210884355,
+          "slow_end": 15.069931972789115
+        }
+      ],
+      "slow_start": 12.388027210884355,
+      "slow_end": 15.069931972789115
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "3f21bfc3ab850df882cd1383fbb2b96fa663a1cf4b1a3bdc669e4001c91565be",
+    "slow": "2d23a61bb90844d5a75933292b2b409bea3f9267be48cd0df5507d4cac7225e7"
+  }
+}

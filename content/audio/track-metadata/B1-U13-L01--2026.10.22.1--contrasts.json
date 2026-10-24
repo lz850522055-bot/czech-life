@@ -1,0 +1,57 @@
+{
+  "id": "B1-U13-L01--2026.10.22.1--contrasts",
+  "lesson_id": "B1-U13-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "prodejce. prodejna.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "prodejce. prodejna."
+      ]
+    }
+  ],
+  "text_sha256": "8582d51c9e3066fe710b609c9270047f8bd3407445c06f1594049041064819f1",
+  "source_file": "content/lessons/B1/B1-U13-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U13-L01--2026.10.22.1--contrasts--8582d51c9e--normal.mp3",
+  "slow_file": "content/audio/files/B1-U13-L01--2026.10.22.1--contrasts--8582d51c9e--slow.mp3",
+  "duration_seconds": 1.6196371882086167,
+  "slow_duration_seconds": 1.8053968253968253,
+  "cues": [
+    {
+      "text": "prodejce. prodejna.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "prodejce. prodejna."
+      ],
+      "start": 0.0,
+      "end": 1.4396371882086167,
+      "sentences": [
+        {
+          "text": "prodejce. prodejna.",
+          "start": 0.0,
+          "end": 1.4396371882086167,
+          "slow_start": 0.0,
+          "slow_end": 1.6253968253968254
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.6253968253968254
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "725d32fb2fdf7d4bae22937445675d20332f1a0a1badd195242d59b0a7d60219",
+    "slow": "cbf4d3c0ee2b878d7b942fb19d712dd6c191a2c5d054d2b529a95ea9dea057de"
+  }
+}

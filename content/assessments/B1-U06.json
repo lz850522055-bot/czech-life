@@ -1,0 +1,220 @@
+{
+  "unseen_text": [
+    {
+      "cs": "Eva učí děti plavat. Sama se učí hrát na kytaru. Před první hodinou se bála chyb, ale učiteli poděkovala za trpělivost.",
+      "zh": "伊娃教孩子游泳，自己学吉他。第一次课前担心犯错，但感谢老师耐心。",
+      "note_zh": ""
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "Eva 正在学习什么？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "游泳"
+        },
+        {
+          "id": "b",
+          "text": "吉他"
+        },
+        {
+          "id": "c",
+          "text": "教学资格"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "učí děti 是教别人；sama se učí 是自己学。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U06-CHECK-E01",
+      "knowledge_points": [
+        "reflexive-functions",
+        "valency-patterns"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "填教师的第三格形式。",
+      "stimulus_cs": "Poděkovala ___ za trpělivost.",
+      "answer": "učiteli",
+      "accepted_answers": [
+        "učiteli",
+        "učitelovi"
+      ],
+      "explanation_zh": "děkovat někomu接第三格；učiteli和učitelovi都是正确单数形式。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "B1-U06-CHECK-E02",
+      "knowledge_points": [
+        "reflexive-functions",
+        "valency-patterns"
+      ]
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "以 Eva 身份描述教与学的两种角色。",
+      "stimulus_cs": "",
+      "answer": "Učím děti plavat, ale sama se učím hrát na kytaru. Ze začátku jsem se bála chyb. Učiteli děkuji za pomoc.",
+      "accepted_answers": [],
+      "explanation_zh": "保留 se，女性过去式 -a。",
+      "rubric": [
+        "角色分明",
+        "搭配准确",
+        "三句连贯"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "error_category": "fluency",
+      "id": "B1-U06-CHECK-E03",
+      "knowledge_points": [
+        "reflexive-functions",
+        "valency-patterns"
+      ]
+    }
+  ],
+  "id": "B1-U06-CHECK",
+  "kind": "unit",
+  "level": "B1",
+  "unit_id": "B1-U06",
+  "title_zh": "反身及格支配深化：换场景检验",
+  "version": "2026.10.23.1",
+  "rubric": [
+    "关键信息准确且没有添加原文没有的信息",
+    "能使用本单元规律完成新情境",
+    "输出能让对方采取下一步行动"
+  ],
+  "remediation": [
+    {
+      "condition_zh": "理解遗漏或把推测说成事实",
+      "lesson_ids": [
+        "B1-U06-L01"
+      ],
+      "action_zh": "对照逐段译文，重新提取人物、限制和下一步。"
+    },
+    {
+      "condition_zh": "表达需要提示或形式反复出错",
+      "lesson_ids": [
+        "B1-U06-L01"
+      ],
+      "action_zh": "复看规律卡后更换人物、时间与限制条件，延后独立重做。"
+    }
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "B1-U06-CHECK",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U06-CHECK--2026.10.22.1--text--677e505672--normal.mp3",
+      "slow_file": "audio/files/B1-U06-CHECK--2026.10.22.1--text--677e505672--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U06-CHECK--2026.10.23.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Eva učí děti plavat. Sama se učí hrát na kytaru. Před první hodinou se bála chyb, ale učiteli poděkovala za trpělivost.",
+      "duration_seconds": 11.012199546485261,
+      "slow_duration_seconds": 12.544716553287982,
+      "sha256": "b18c8c77ea28e5e7fefc6eb78016dd8d85b180c938ae84eb62657d6ca39ea789",
+      "slow_sha256": "09e10fed59be6bd50e006dad59af92a523d910e897b26ffdd82d46dd8aa5c0a9"
+    },
+    {
+      "lesson_id": "B1-U06-CHECK",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U06-CHECK--2026.10.22.1--text--677e505672--normal.mp3",
+      "slow_file": "audio/files/B1-U06-CHECK--2026.10.22.1--text--677e505672--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U06-CHECK--2026.10.23.1--text--p0",
+      "asset_id": "B1-U06-CHECK--2026.10.23.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Eva učí děti plavat. Sama se učí hrát na kytaru. Před první hodinou se bála chyb, ale učiteli poděkovala za trpělivost.",
+      "start": 0,
+      "end": 10.832199546485262,
+      "slow_start": 0,
+      "slow_end": 12.364716553287982
+    },
+    {
+      "lesson_id": "B1-U06-CHECK",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U06-CHECK--2026.10.22.1--text--677e505672--normal.mp3",
+      "slow_file": "audio/files/B1-U06-CHECK--2026.10.22.1--text--677e505672--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U06-CHECK--2026.10.23.1--text--s0",
+      "asset_id": "B1-U06-CHECK--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Eva učí děti plavat.",
+      "start": 0,
+      "end": 2.020136054421769,
+      "slow_start": 0,
+      "slow_end": 2.2987755102040817
+    },
+    {
+      "lesson_id": "B1-U06-CHECK",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U06-CHECK--2026.10.22.1--text--677e505672--normal.mp3",
+      "slow_file": "audio/files/B1-U06-CHECK--2026.10.22.1--text--677e505672--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U06-CHECK--2026.10.23.1--text--s1",
+      "asset_id": "B1-U06-CHECK--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Sama se učí hrát na kytaru.",
+      "start": 2.2001360544217685,
+      "end": 4.858820861678004,
+      "slow_start": 2.478775510204082,
+      "slow_end": 5.462539682539682
+    },
+    {
+      "lesson_id": "B1-U06-CHECK",
+      "content_version": "2026.10.23.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U06-CHECK--2026.10.22.1--text--677e505672--normal.mp3",
+      "slow_file": "audio/files/B1-U06-CHECK--2026.10.22.1--text--677e505672--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U06-CHECK--2026.10.23.1--text--s2",
+      "asset_id": "B1-U06-CHECK--2026.10.23.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "Před první hodinou se bála chyb, ale učiteli poděkovala za trpělivost.",
+      "start": 5.038820861678005,
+      "end": 10.832199546485262,
+      "slow_start": 5.642539682539683,
+      "slow_end": 12.364716553287982
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "id": "B1-U11-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "B1-U11-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Program posílám v příloze.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Program posílám v příloze."
+      ]
+    },
+    {
+      "text": "Zkontrolujte vybavení místnosti.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Zkontrolujte vybavení místnosti."
+      ]
+    },
+    {
+      "text": "Zjistili jsme závadu projektoru.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Zjistili jsme závadu projektoru."
+      ]
+    },
+    {
+      "text": "Děkuji za rychlé vyřízení žádosti.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Děkuji za rychlé vyřízení žádosti."
+      ]
+    }
+  ],
+  "text_sha256": "84e9d83519bc90ad4d1c9c878c20916c41a9d181af9c16e74218ae9d9447e93d",
+  "source_file": "content/lessons/B1/B1-U11-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U11-L01--2026.10.22.1--vocabulary--84e9d83519--normal.mp3",
+  "slow_file": "content/audio/files/B1-U11-L01--2026.10.22.1--vocabulary--84e9d83519--slow.mp3",
+  "duration_seconds": 12.0281179138322,
+  "slow_duration_seconds": 13.386485260770975,
+  "cues": [
+    {
+      "text": "Program posílám v příloze.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Program posílám v příloze."
+      ],
+      "start": 0.0,
+      "end": 2.5193650793650795,
+      "sentences": [
+        {
+          "text": "Program posílám v příloze.",
+          "start": 0.0,
+          "end": 2.5193650793650795,
+          "slow_start": 0.0,
+          "slow_end": 2.7747845804988662
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.7747845804988662
+    },
+    {
+      "text": "Zkontrolujte vybavení místnosti.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Zkontrolujte vybavení místnosti."
+      ],
+      "start": 2.699365079365079,
+      "end": 5.485759637188209,
+      "sentences": [
+        {
+          "text": "Zkontrolujte vybavení místnosti.",
+          "start": 2.699365079365079,
+          "end": 5.485759637188209,
+          "slow_start": 2.9547845804988664,
+          "slow_end": 6.1591383219954645
+        }
+      ],
+      "slow_start": 2.9547845804988664,
+      "slow_end": 6.1591383219954645
+    },
+    {
+      "text": "Zjistili jsme závadu projektoru.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Zjistili jsme závadu projektoru."
+      ],
+      "start": 5.665759637188208,
+      "end": 8.38249433106576,
+      "sentences": [
+        {
+          "text": "Zjistili jsme závadu projektoru.",
+          "start": 5.665759637188208,
+          "end": 8.38249433106576,
+          "slow_start": 6.339138321995465,
+          "slow_end": 9.29968253968254
+        }
+      ],
+      "slow_start": 6.339138321995465,
+      "slow_end": 9.29968253968254
+    },
+    {
+      "text": "Děkuji za rychlé vyřízení žádosti.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Děkuji za rychlé vyřízení žádosti."
+      ],
+      "start": 8.562494331065759,
+      "end": 11.8481179138322,
+      "sentences": [
+        {
+          "text": "Děkuji za rychlé vyřízení žádosti.",
+          "start": 8.562494331065759,
+          "end": 11.8481179138322,
+          "slow_start": 9.479682539682539,
+          "slow_end": 13.206485260770975
+        }
+      ],
+      "slow_start": 9.479682539682539,
+      "slow_end": 13.206485260770975
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "282f142cd136d000c50b1eaac424adca29c8b286b53f476c7f12413d09708185",
+    "slow": "a98620a204f3c3f770f763754df8978bb3775b7db8e74694f02fa2c65ff87e05"
+  }
+}

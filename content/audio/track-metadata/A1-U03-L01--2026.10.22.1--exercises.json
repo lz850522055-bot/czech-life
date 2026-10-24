@@ -1,0 +1,59 @@
+{
+  "id": "A1-U03-L01--2026.10.22.1--exercises",
+  "lesson_id": "A1-U03-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A1",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Eva ráno pracuje a večer vaří.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "A1-U03-L01-E01",
+      "parts": [
+        "Eva ráno pracuje a večer vaří."
+      ]
+    }
+  ],
+  "text_sha256": "a9e15c296180665205f2388cdd7872f1d537ed2ed1445fc9f1362f5a1eb8d8ec",
+  "source_file": "content/lessons/A1/A1-U03-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U03-L01--2026.10.22.1--exercises--a9e15c2961--normal.mp3",
+  "slow_file": "content/audio/files/A1-U03-L01--2026.10.22.1--exercises--a9e15c2961--slow.mp3",
+  "duration_seconds": 3.105714285714286,
+  "slow_duration_seconds": 3.5933333333333333,
+  "cues": [
+    {
+      "text": "Eva ráno pracuje a večer vaří.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "A1-U03-L01-E01",
+      "parts": [
+        "Eva ráno pracuje a večer vaří."
+      ],
+      "start": 0.0,
+      "end": 2.9257142857142857,
+      "sentences": [
+        {
+          "text": "Eva ráno pracuje a večer vaří.",
+          "start": 0.0,
+          "end": 2.9257142857142857,
+          "slow_start": 0.0,
+          "slow_end": 3.4133333333333336
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 3.4133333333333336
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "ea75a3b0a21805c6980c4f6a563a367a259e57648fe4f92d9fac46ab6081e825",
+    "slow": "905a336178d85087a605e442df88a9501612f4959cad37d451fa0e55eb367d9d"
+  }
+}

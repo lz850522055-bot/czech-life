@@ -1,0 +1,437 @@
+{
+  "id": "A1-U08-L01--2026.10.22.1--text",
+  "lesson_id": "A1-U08-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A1",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Dobrý den, chtěl bych jednu kávu a malou vodu.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Dobrý den, chtěl bych jednu kávu a malou vodu."
+      ]
+    },
+    {
+      "text": "Kávu s mlékem? A vodu perlivou, nebo neperlivou?",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Kávu s mlékem?",
+        "A vodu perlivou, nebo neperlivou?"
+      ]
+    },
+    {
+      "text": "Kávu bez mléka, prosím. Vodu neperlivou.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Kávu bez mléka, prosím.",
+        "Vodu neperlivou."
+      ]
+    },
+    {
+      "text": "Máte také něco malého k jídlu? Nemám moc času.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Máte také něco malého k jídlu?",
+        "Nemám moc času."
+      ]
+    },
+    {
+      "text": "Máme čerstvý chléb, polévku a zeleninový salát.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Máme čerstvý chléb, polévku a zeleninový salát."
+      ]
+    },
+    {
+      "text": "Vezmu si polévku. Je v ní maso?",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Vezmu si polévku.",
+        "Je v ní maso?"
+      ]
+    },
+    {
+      "text": "Ne, je zeleninová. Ale obsahuje mléko.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Ne, je zeleninová.",
+        "Ale obsahuje mléko."
+      ]
+    },
+    {
+      "text": "Děkuju za informaci. Tak raději jen salát.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Děkuju za informaci.",
+        "Tak raději jen salát."
+      ]
+    },
+    {
+      "text": "Dobře. Celkem dvě stě deset korun. Platíte hotově, nebo kartou?",
+      "index": 8,
+      "role": "text",
+      "parts": [
+        "Dobře.",
+        "Celkem dvě stě deset korun.",
+        "Platíte hotově, nebo kartou?"
+      ]
+    },
+    {
+      "text": "Kartou, prosím. A prosím účtenku.",
+      "index": 9,
+      "role": "text",
+      "parts": [
+        "Kartou, prosím.",
+        "A prosím účtenku."
+      ]
+    },
+    {
+      "text": "Chcete si jídlo vzít s sebou? Ano, prosím, dnes nemůžu zůstat dlouho.",
+      "index": 10,
+      "role": "text",
+      "parts": [
+        "Chcete si jídlo vzít s sebou?",
+        "Ano, prosím, dnes nemůžu zůstat dlouho."
+      ]
+    }
+  ],
+  "text_sha256": "19d10a2760a9256e99bcaecab7bd662547fec6aa9ad9ed3d1d73003adf704fa9",
+  "source_file": "content/lessons/A1/A1-U08-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U08-L01--2026.10.22.1--text--19d10a2760--normal.mp3",
+  "slow_file": "content/audio/files/A1-U08-L01--2026.10.22.1--text--19d10a2760--slow.mp3",
+  "duration_seconds": 49.96448979591837,
+  "slow_duration_seconds": 56.117777777777775,
+  "cues": [
+    {
+      "text": "Dobrý den, chtěl bych jednu kávu a malou vodu.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Dobrý den, chtěl bych jednu kávu a malou vodu."
+      ],
+      "start": 0.0,
+      "end": 4.017052154195011,
+      "sentences": [
+        {
+          "text": "Dobrý den, chtěl bych jednu kávu a malou vodu.",
+          "start": 0.0,
+          "end": 4.017052154195011,
+          "slow_start": 0.0,
+          "slow_end": 4.435011337868481
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 4.435011337868481
+    },
+    {
+      "text": "Kávu s mlékem? A vodu perlivou, nebo neperlivou?",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Kávu s mlékem?",
+        "A vodu perlivou, nebo neperlivou?"
+      ],
+      "start": 4.197052154195012,
+      "end": 8.34766439909297,
+      "sentences": [
+        {
+          "text": "Kávu s mlékem?",
+          "start": 4.197052154195012,
+          "end": 5.636689342403628,
+          "slow_start": 4.615011337868481,
+          "slow_end": 6.298458049886621
+        },
+        {
+          "text": "A vodu perlivou, nebo neperlivou?",
+          "start": 5.816689342403628,
+          "end": 8.34766439909297,
+          "slow_start": 6.478458049886621,
+          "slow_end": 9.49705215419501
+        }
+      ],
+      "slow_start": 4.615011337868481,
+      "slow_end": 9.49705215419501
+    },
+    {
+      "text": "Kávu bez mléka, prosím. Vodu neperlivou.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Kávu bez mléka, prosím.",
+        "Vodu neperlivou."
+      ],
+      "start": 8.52766439909297,
+      "end": 12.341587301587301,
+      "sentences": [
+        {
+          "text": "Kávu bez mléka, prosím.",
+          "start": 8.52766439909297,
+          "end": 10.710340136054421,
+          "slow_start": 9.677052154195012,
+          "slow_end": 12.126757369614513
+        },
+        {
+          "text": "Vodu neperlivou.",
+          "start": 10.890340136054421,
+          "end": 12.341587301587301,
+          "slow_start": 12.306757369614512,
+          "slow_end": 13.966984126984126
+        }
+      ],
+      "slow_start": 9.677052154195012,
+      "slow_end": 13.966984126984126
+    },
+    {
+      "text": "Máte také něco malého k jídlu? Nemám moc času.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Máte také něco malého k jídlu?",
+        "Nemám moc času."
+      ],
+      "start": 12.521587301587301,
+      "end": 16.881179138321997,
+      "sentences": [
+        {
+          "text": "Máte také něco malého k jídlu?",
+          "start": 12.521587301587301,
+          "end": 14.92485260770975,
+          "slow_start": 14.146984126984126,
+          "slow_end": 16.805668934240362
+        },
+        {
+          "text": "Nemám moc času.",
+          "start": 15.10485260770975,
+          "end": 16.881179138321997,
+          "slow_start": 16.985668934240362,
+          "slow_end": 19.017414965986394
+        }
+      ],
+      "slow_start": 14.146984126984126,
+      "slow_end": 19.017414965986394
+    },
+    {
+      "text": "Máme čerstvý chléb, polévku a zeleninový salát.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Máme čerstvý chléb, polévku a zeleninový salát."
+      ],
+      "start": 17.061179138321997,
+      "end": 21.39170068027211,
+      "sentences": [
+        {
+          "text": "Máme čerstvý chléb, polévku a zeleninový salát.",
+          "start": 17.061179138321997,
+          "end": 21.39170068027211,
+          "slow_start": 19.197414965986393,
+          "slow_end": 24.131655328798185
+        }
+      ],
+      "slow_start": 19.197414965986393,
+      "slow_end": 24.131655328798185
+    },
+    {
+      "text": "Vezmu si polévku. Je v ní maso?",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Vezmu si polévku.",
+        "Je v ní maso?"
+      ],
+      "start": 21.57170068027211,
+      "end": 24.677414965986394,
+      "sentences": [
+        {
+          "text": "Vezmu si polévku.",
+          "start": 21.57170068027211,
+          "end": 23.33641723356009,
+          "slow_start": 24.311655328798185,
+          "slow_end": 26.401451247165532
+        },
+        {
+          "text": "Je v ní maso?",
+          "start": 23.51641723356009,
+          "end": 24.677414965986394,
+          "slow_start": 26.581451247165532,
+          "slow_end": 27.997868480725625
+        }
+      ],
+      "slow_start": 24.311655328798185,
+      "slow_end": 27.997868480725625
+    },
+    {
+      "text": "Ne, je zeleninová. Ale obsahuje mléko.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Ne, je zeleninová.",
+        "Ale obsahuje mléko."
+      ],
+      "start": 24.857414965986393,
+      "end": 28.636507936507936,
+      "sentences": [
+        {
+          "text": "Ne, je zeleninová.",
+          "start": 24.857414965986393,
+          "end": 26.622131519274376,
+          "slow_start": 28.177868480725625,
+          "slow_end": 30.163174603174603
+        },
+        {
+          "text": "Ale obsahuje mléko.",
+          "start": 26.802131519274376,
+          "end": 28.636507936507936,
+          "slow_start": 30.343174603174603,
+          "slow_end": 32.3865306122449
+        }
+      ],
+      "slow_start": 28.177868480725625,
+      "slow_end": 32.3865306122449
+    },
+    {
+      "text": "Děkuju za informaci. Tak raději jen salát.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Děkuju za informaci.",
+        "Tak raději jen salát."
+      ],
+      "start": 28.816507936507936,
+      "end": 32.94390022675737,
+      "sentences": [
+        {
+          "text": "Děkuju za informaci.",
+          "start": 28.816507936507936,
+          "end": 30.801814058956918,
+          "slow_start": 32.5665306122449,
+          "slow_end": 34.66793650793651
+        },
+        {
+          "text": "Tak raději jen salát.",
+          "start": 30.981814058956918,
+          "end": 32.94390022675737,
+          "slow_start": 34.84793650793651,
+          "slow_end": 37.007392290249435
+        }
+      ],
+      "slow_start": 32.5665306122449,
+      "slow_end": 37.007392290249435
+    },
+    {
+      "text": "Dobře. Celkem dvě stě deset korun. Platíte hotově, nebo kartou?",
+      "index": 8,
+      "role": "text",
+      "parts": [
+        "Dobře.",
+        "Celkem dvě stě deset korun.",
+        "Platíte hotově, nebo kartou?"
+      ],
+      "start": 33.12390022675737,
+      "end": 39.300498866213154,
+      "sentences": [
+        {
+          "text": "Dobře.",
+          "start": 33.12390022675737,
+          "end": 33.901768707482994,
+          "slow_start": 37.187392290249434,
+          "slow_end": 38.069750566893426
+        },
+        {
+          "text": "Celkem dvě stě deset korun.",
+          "start": 34.08176870748299,
+          "end": 36.543083900226755,
+          "slow_start": 38.249750566893425,
+          "slow_end": 41.05936507936508
+        },
+        {
+          "text": "Platíte hotově, nebo kartou?",
+          "start": 36.723083900226754,
+          "end": 39.300498866213154,
+          "slow_start": 41.23936507936508,
+          "slow_end": 44.13024943310658
+        }
+      ],
+      "slow_start": 37.187392290249434,
+      "slow_end": 44.13024943310658
+    },
+    {
+      "text": "Kartou, prosím. A prosím účtenku.",
+      "index": 9,
+      "role": "text",
+      "parts": [
+        "Kartou, prosím.",
+        "A prosím účtenku."
+      ],
+      "start": 39.48049886621315,
+      "end": 43.14349206349206,
+      "sentences": [
+        {
+          "text": "Kartou, prosím.",
+          "start": 39.48049886621315,
+          "end": 41.013015873015874,
+          "slow_start": 44.31024943310658,
+          "slow_end": 46.01691609977324
+        },
+        {
+          "text": "A prosím účtenku.",
+          "start": 41.193015873015874,
+          "end": 43.14349206349206,
+          "slow_start": 46.19691609977324,
+          "slow_end": 48.472471655328796
+        }
+      ],
+      "slow_start": 44.31024943310658,
+      "slow_end": 48.472471655328796
+    },
+    {
+      "text": "Chcete si jídlo vzít s sebou? Ano, prosím, dnes nemůžu zůstat dlouho.",
+      "index": 10,
+      "role": "text",
+      "parts": [
+        "Chcete si jídlo vzít s sebou?",
+        "Ano, prosím, dnes nemůžu zůstat dlouho."
+      ],
+      "start": 43.32349206349206,
+      "end": 49.78448979591837,
+      "sentences": [
+        {
+          "text": "Chcete si jídlo vzít s sebou?",
+          "start": 43.32349206349206,
+          "end": 45.761587301587305,
+          "slow_start": 48.652471655328796,
+          "slow_end": 51.40403628117914
+        },
+        {
+          "text": "Ano, prosím, dnes nemůžu zůstat dlouho.",
+          "start": 45.941587301587305,
+          "end": 49.78448979591837,
+          "slow_start": 51.58403628117914,
+          "slow_end": 55.937777777777775
+        }
+      ],
+      "slow_start": 48.652471655328796,
+      "slow_end": 55.937777777777775
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "50ddb519315c918a865f398fe7dc7a3ad87645d57fbb9e804dcad8486e34195f",
+    "slow": "0c64b07f26b3906852dd43c23ad1a8fa717549e7a8ff52094f563704b1a90f65"
+  }
+}

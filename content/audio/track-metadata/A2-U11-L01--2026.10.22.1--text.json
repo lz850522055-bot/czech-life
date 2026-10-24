@@ -1,0 +1,359 @@
+{
+  "id": "A2-U11-L01--2026.10.22.1--text",
+  "lesson_id": "A2-U11-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Včera jsem dvě hodiny psal dlouhou zprávu pro sousedy. Chtěl jsem vysvětlit plán společné akce, ale několikrát mě někdo přerušil.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Včera jsem dvě hodiny psal dlouhou zprávu pro sousedy.",
+        "Chtěl jsem vysvětlit plán společné akce, ale několikrát mě někdo přerušil."
+      ]
+    },
+    {
+      "text": "Večer se mě Jana zeptala: Už jsi tu zprávu napsal? Odpověděl jsem, že jsem psal dlouho, ale text ještě není hotový.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Večer se mě Jana zeptala: Už jsi tu zprávu napsal?",
+        "Odpověděl jsem, že jsem psal dlouho, ale text ještě není hotový."
+      ]
+    },
+    {
+      "text": "Dnes ji dopíšu a pošlu všem. Nejdřív ale zkontroluju adresy, protože minulý týden jsem jednu zprávu poslal nesprávnému člověku.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Dnes ji dopíšu a pošlu všem.",
+        "Nejdřív ale zkontroluju adresy, protože minulý týden jsem jednu zprávu poslal nesprávnému člověku."
+      ]
+    },
+    {
+      "text": "Podobné je to s nákupem. Každý týden kupuju ovoce na trhu. V sobotu jsem koupil jablka, ale hrušky už neměli.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Podobné je to s nákupem.",
+        "Každý týden kupuju ovoce na trhu.",
+        "V sobotu jsem koupil jablka, ale hrušky už neměli."
+      ]
+    },
+    {
+      "text": "Když Petr telefonoval, právě jsem vařil. Zeptal se, jestli už jsem uvařil večeři. Řekl jsem mu, že bude hotová za půl hodiny.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Když Petr telefonoval, právě jsem vařil.",
+        "Zeptal se, jestli už jsem uvařil večeři.",
+        "Řekl jsem mu, že bude hotová za půl hodiny."
+      ]
+    },
+    {
+      "text": "Nemusíme u každého slovesa hledat jednu jednoduchou předponu. Někdy dvojice mění i celý tvar, například brát a vzít.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Nemusíme u každého slovesa hledat jednu jednoduchou předponu.",
+        "Někdy dvojice mění i celý tvar, například brát a vzít."
+      ]
+    },
+    {
+      "text": "Důležité je, co chceme sdělit. Mluvíme o průběhu, opakování nebo celém výsledku? Stejná skutečnost se dá popsat z různých stran.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Důležité je, co chceme sdělit.",
+        "Mluvíme o průběhu, opakování nebo celém výsledku?",
+        "Stejná skutečnost se dá popsat z různých stran."
+      ]
+    },
+    {
+      "text": "Když si nejsem jistý, porovnám dvě věty v konkrétním příběhu. Samotný překlad jednoho slovesa do čínštiny často nestačí.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Když si nejsem jistý, porovnám dvě věty v konkrétním příběhu.",
+        "Samotný překlad jednoho slovesa do čínštiny často nestačí."
+      ]
+    }
+  ],
+  "text_sha256": "f40da7de2b2cd25dada4167f55a4c3f00639efb03d99111e73bc82a967c27fdc",
+  "source_file": "content/lessons/A2/A2-U11-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U11-L01--2026.10.22.1--text--f40da7de2b--normal.mp3",
+  "slow_file": "content/audio/files/A2-U11-L01--2026.10.22.1--text--f40da7de2b--slow.mp3",
+  "duration_seconds": 90.78507936507937,
+  "slow_duration_seconds": 101.87260770975057,
+  "cues": [
+    {
+      "text": "Včera jsem dvě hodiny psal dlouhou zprávu pro sousedy. Chtěl jsem vysvětlit plán společné akce, ale několikrát mě někdo přerušil.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Včera jsem dvě hodiny psal dlouhou zprávu pro sousedy.",
+        "Chtěl jsem vysvětlit plán společné akce, ale několikrát mě někdo přerušil."
+      ],
+      "start": 0.0,
+      "end": 11.4881179138322,
+      "sentences": [
+        {
+          "text": "Včera jsem dvě hodiny psal dlouhou zprávu pro sousedy.",
+          "start": 0.0,
+          "end": 4.609160997732427,
+          "slow_start": 0.0,
+          "slow_end": 5.282539682539682
+        },
+        {
+          "text": "Chtěl jsem vysvětlit plán společné akce, ale několikrát mě někdo přerušil.",
+          "start": 4.789160997732426,
+          "end": 11.4881179138322,
+          "slow_start": 5.462539682539682,
+          "slow_end": 12.8697052154195
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 12.8697052154195
+    },
+    {
+      "text": "Večer se mě Jana zeptala: Už jsi tu zprávu napsal? Odpověděl jsem, že jsem psal dlouho, ale text ještě není hotový.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Večer se mě Jana zeptala: Už jsi tu zprávu napsal?",
+        "Odpověděl jsem, že jsem psal dlouho, ale text ještě není hotový."
+      ],
+      "start": 11.6681179138322,
+      "end": 22.35514739229025,
+      "sentences": [
+        {
+          "text": "Večer se mě Jana zeptala: Už jsi tu zprávu napsal?",
+          "start": 11.6681179138322,
+          "end": 16.381768707482994,
+          "slow_start": 13.0497052154195,
+          "slow_end": 18.25097505668934
+        },
+        {
+          "text": "Odpověděl jsem, že jsem psal dlouho, ale text ještě není hotový.",
+          "start": 16.561768707482994,
+          "end": 22.35514739229025,
+          "slow_start": 18.43097505668934,
+          "slow_end": 24.967392290249432
+        }
+      ],
+      "slow_start": 13.0497052154195,
+      "slow_end": 24.967392290249432
+    },
+    {
+      "text": "Dnes ji dopíšu a pošlu všem. Nejdřív ale zkontroluju adresy, protože minulý týden jsem jednu zprávu poslal nesprávnému člověku.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Dnes ji dopíšu a pošlu všem.",
+        "Nejdřív ale zkontroluju adresy, protože minulý týden jsem jednu zprávu poslal nesprávnému člověku."
+      ],
+      "start": 22.53514739229025,
+      "end": 34.685034013605446,
+      "sentences": [
+        {
+          "text": "Dnes ji dopíšu a pošlu všem.",
+          "start": 22.53514739229025,
+          "end": 25.391201814058956,
+          "slow_start": 25.14739229024943,
+          "slow_end": 28.374965986394557
+        },
+        {
+          "text": "Nejdřív ale zkontroluju adresy, protože minulý týden jsem jednu zprávu poslal nesprávnému člověku.",
+          "start": 25.571201814058956,
+          "end": 34.685034013605446,
+          "slow_start": 28.554965986394556,
+          "slow_end": 38.829795918367346
+        }
+      ],
+      "slow_start": 25.14739229024943,
+      "slow_end": 38.829795918367346
+    },
+    {
+      "text": "Podobné je to s nákupem. Každý týden kupuju ovoce na trhu. V sobotu jsem koupil jablka, ale hrušky už neměli.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Podobné je to s nákupem.",
+        "Každý týden kupuju ovoce na trhu.",
+        "V sobotu jsem koupil jablka, ale hrušky už neměli."
+      ],
+      "start": 34.865034013605445,
+      "end": 44.78004535147392,
+      "sentences": [
+        {
+          "text": "Podobné je to s nákupem.",
+          "start": 34.865034013605445,
+          "end": 36.81551020408163,
+          "slow_start": 39.009795918367345,
+          "slow_end": 41.308571428571426
+        },
+        {
+          "text": "Každý týden kupuju ovoce na trhu.",
+          "start": 36.99551020408163,
+          "end": 39.93283446712018,
+          "slow_start": 41.488571428571426,
+          "slow_end": 44.79741496598639
+        },
+        {
+          "text": "V sobotu jsem koupil jablka, ale hrušky už neměli.",
+          "start": 40.11283446712018,
+          "end": 44.78004535147392,
+          "slow_start": 44.9774149659864,
+          "slow_end": 50.17868480725624
+        }
+      ],
+      "slow_start": 39.009795918367345,
+      "slow_end": 50.17868480725624
+    },
+    {
+      "text": "Když Petr telefonoval, právě jsem vařil. Zeptal se, jestli už jsem uvařil večeři. Řekl jsem mu, že bude hotová za půl hodiny.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Když Petr telefonoval, právě jsem vařil.",
+        "Zeptal se, jestli už jsem uvařil večeři.",
+        "Řekl jsem mu, že bude hotová za půl hodiny."
+      ],
+      "start": 44.96004535147392,
+      "end": 57.12739229024943,
+      "sentences": [
+        {
+          "text": "Když Petr telefonoval, právě jsem vařil.",
+          "start": 44.96004535147392,
+          "end": 48.860997732426306,
+          "slow_start": 50.35868480725624,
+          "slow_end": 54.642766439909295
+        },
+        {
+          "text": "Zeptal se, jestli už jsem uvařil večeři.",
+          "start": 49.040997732426305,
+          "end": 53.10448979591837,
+          "slow_start": 54.822766439909294,
+          "slow_end": 59.39709750566893
+        },
+        {
+          "text": "Řekl jsem mu, že bude hotová za půl hodiny.",
+          "start": 53.28448979591837,
+          "end": 57.12739229024943,
+          "slow_start": 59.57709750566893,
+          "slow_end": 63.930839002267575
+        }
+      ],
+      "slow_start": 50.35868480725624,
+      "slow_end": 63.930839002267575
+    },
+    {
+      "text": "Nemusíme u každého slovesa hledat jednu jednoduchou předponu. Někdy dvojice mění i celý tvar, například brát a vzít.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Nemusíme u každého slovesa hledat jednu jednoduchou předponu.",
+        "Někdy dvojice mění i celý tvar, například brát a vzít."
+      ],
+      "start": 57.30739229024943,
+      "end": 67.78544217687075,
+      "sentences": [
+        {
+          "text": "Nemusíme u každého slovesa hledat jednu jednoduchou předponu.",
+          "start": 57.30739229024943,
+          "end": 62.36934240362812,
+          "slow_start": 64.11083900226757,
+          "slow_end": 69.96226757369614
+        },
+        {
+          "text": "Někdy dvojice mění i celý tvar, například brát a vzít.",
+          "start": 62.54934240362812,
+          "end": 67.78544217687075,
+          "slow_start": 70.14226757369615,
+          "slow_end": 76.04013605442177
+        }
+      ],
+      "slow_start": 64.11083900226757,
+      "slow_end": 76.04013605442177
+    },
+    {
+      "text": "Důležité je, co chceme sdělit. Mluvíme o průběhu, opakování nebo celém výsledku? Stejná skutečnost se dá popsat z různých stran.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Důležité je, co chceme sdělit.",
+        "Mluvíme o průběhu, opakování nebo celém výsledku?",
+        "Stejná skutečnost se dá popsat z různých stran."
+      ],
+      "start": 67.96544217687075,
+      "end": 79.9934693877551,
+      "sentences": [
+        {
+          "text": "Důležité je, co chceme sdělit.",
+          "start": 67.96544217687075,
+          "end": 70.61251700680272,
+          "slow_start": 76.22013605442177,
+          "slow_end": 79.23873015873016
+        },
+        {
+          "text": "Mluvíme o průběhu, opakování nebo celém výsledku?",
+          "start": 70.79251700680273,
+          "end": 75.69192743764172,
+          "slow_start": 79.41873015873016,
+          "slow_end": 84.89863945578232
+        },
+        {
+          "text": "Stejná skutečnost se dá popsat z různých stran.",
+          "start": 75.87192743764173,
+          "end": 79.9934693877551,
+          "slow_start": 85.07863945578231,
+          "slow_end": 89.75746031746031
+        }
+      ],
+      "slow_start": 76.22013605442177,
+      "slow_end": 89.75746031746031
+    },
+    {
+      "text": "Když si nejsem jistý, porovnám dvě věty v konkrétním příběhu. Samotný překlad jednoho slovesa do čínštiny často nestačí.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Když si nejsem jistý, porovnám dvě věty v konkrétním příběhu.",
+        "Samotný překlad jednoho slovesa do čínštiny často nestačí."
+      ],
+      "start": 80.1734693877551,
+      "end": 90.60507936507936,
+      "sentences": [
+        {
+          "text": "Když si nejsem jistý, porovnám dvě věty v konkrétním příběhu.",
+          "start": 80.1734693877551,
+          "end": 85.67659863945578,
+          "slow_start": 89.93746031746032,
+          "slow_end": 96.07913832199546
+        },
+        {
+          "text": "Samotný překlad jednoho slovesa do čínštiny často nestačí.",
+          "start": 85.85659863945578,
+          "end": 90.60507936507936,
+          "slow_start": 96.25913832199547,
+          "slow_end": 101.69260770975056
+        }
+      ],
+      "slow_start": 89.93746031746032,
+      "slow_end": 101.69260770975056
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "99937eab3f3c23d8d49dcf5fb4347f66c132caa241e357d8d3ee3e66085a967a",
+    "slow": "49af7ede49025856f54df98042a1f639798508ffc5b48fa99ff97abf37af61d4"
+  }
+}

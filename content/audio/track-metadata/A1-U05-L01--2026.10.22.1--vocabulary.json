@@ -1,0 +1,202 @@
+{
+  "id": "A1-U05-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "A1-U05-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A1",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Stojí to pět korun.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Stojí to pět korun."
+      ]
+    },
+    {
+      "text": "Cena je za kus.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Cena je za kus."
+      ]
+    },
+    {
+      "text": "To je cena za balení.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "To je cena za balení."
+      ]
+    },
+    {
+      "text": "Celkem sto korun.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Celkem sto korun."
+      ]
+    },
+    {
+      "text": "Prosím účtenku.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Prosím účtenku."
+      ]
+    },
+    {
+      "text": "Vezmu jeden hrnek.",
+      "index": 5,
+      "role": "vocabulary",
+      "parts": [
+        "Vezmu jeden hrnek."
+      ]
+    }
+  ],
+  "text_sha256": "f467665d2910f7878b7200d3ab3c804f250650d947a01cfe7cd32b26291334b2",
+  "source_file": "content/lessons/A1/A1-U05-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U05-L01--2026.10.22.1--vocabulary--f467665d29--normal.mp3",
+  "slow_file": "content/audio/files/A1-U05-L01--2026.10.22.1--vocabulary--f467665d29--slow.mp3",
+  "duration_seconds": 11.540589569160998,
+  "slow_duration_seconds": 13.026666666666667,
+  "cues": [
+    {
+      "text": "Stojí to pět korun.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Stojí to pět korun."
+      ],
+      "start": 0.0,
+      "end": 1.8575963718820863,
+      "sentences": [
+        {
+          "text": "Stojí to pět korun.",
+          "start": 0.0,
+          "end": 1.8575963718820863,
+          "slow_start": 0.0,
+          "slow_end": 2.0549659863945577
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.0549659863945577
+    },
+    {
+      "text": "Cena je za kus.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Cena je za kus."
+      ],
+      "start": 2.037596371882086,
+      "end": 3.5817233560090704,
+      "sentences": [
+        {
+          "text": "Cena je za kus.",
+          "start": 2.037596371882086,
+          "end": 3.5817233560090704,
+          "slow_start": 2.234965986394558,
+          "slow_end": 4.104172335600907
+        }
+      ],
+      "slow_start": 2.234965986394558,
+      "slow_end": 4.104172335600907
+    },
+    {
+      "text": "To je cena za balení.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "To je cena za balení."
+      ],
+      "start": 3.76172335600907,
+      "end": 5.688979591836735,
+      "sentences": [
+        {
+          "text": "To je cena za balení.",
+          "start": 3.76172335600907,
+          "end": 5.688979591836735,
+          "slow_start": 4.284172335600907,
+          "slow_end": 6.4320181405895696
+        }
+      ],
+      "slow_start": 4.284172335600907,
+      "slow_end": 6.4320181405895696
+    },
+    {
+      "text": "Celkem sto korun.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Celkem sto korun."
+      ],
+      "start": 5.868979591836735,
+      "end": 7.471156462585034,
+      "sentences": [
+        {
+          "text": "Celkem sto korun.",
+          "start": 5.868979591836735,
+          "end": 7.471156462585034,
+          "slow_start": 6.612018140589569,
+          "slow_end": 8.481224489795919
+        }
+      ],
+      "slow_start": 6.612018140589569,
+      "slow_end": 8.481224489795919
+    },
+    {
+      "text": "Prosím účtenku.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Prosím účtenku."
+      ],
+      "start": 7.651156462585034,
+      "end": 9.415873015873016,
+      "sentences": [
+        {
+          "text": "Prosím účtenku.",
+          "start": 7.651156462585034,
+          "end": 9.415873015873016,
+          "slow_start": 8.661224489795918,
+          "slow_end": 10.704580498866212
+        }
+      ],
+      "slow_start": 8.661224489795918,
+      "slow_end": 10.704580498866212
+    },
+    {
+      "text": "Vezmu jeden hrnek.",
+      "index": 5,
+      "role": "vocabulary",
+      "parts": [
+        "Vezmu jeden hrnek."
+      ],
+      "start": 9.595873015873016,
+      "end": 11.360589569160998,
+      "sentences": [
+        {
+          "text": "Vezmu jeden hrnek.",
+          "start": 9.595873015873016,
+          "end": 11.360589569160998,
+          "slow_start": 10.884580498866214,
+          "slow_end": 12.846666666666666
+        }
+      ],
+      "slow_start": 10.884580498866214,
+      "slow_end": 12.846666666666666
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "66958c2e88df8d97ca9b792676a5a8a9518cce0c244d7ae0462ab270af5fb13b",
+    "slow": "1363d7fee2eedb3f29b26ba3166a433892d5f4ad724b2a85746ae17b7ed50194"
+  }
+}

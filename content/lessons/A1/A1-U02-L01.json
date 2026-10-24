@@ -1,0 +1,1354 @@
+{
+  "id": "A1-U02-L01",
+  "level": "A1",
+  "unit_id": "A1-U02",
+  "order": 8,
+  "version": "2026.10.22.1",
+  "title_zh": "东西也有语法性别",
+  "title_cs": "Věci kolem nás",
+  "prerequisites": [
+    "A1-U01-L01"
+  ],
+  "can_do": [
+    "用ten/ta/to识别性别",
+    "让形容词与名词一致",
+    "区分有生与无生的基本作用"
+  ],
+  "scene": "居家与物品",
+  "skills": [
+    "listening",
+    "speaking",
+    "reading",
+    "writing",
+    "interaction",
+    "mediation"
+  ],
+  "knowledge_points": [
+    "noun-gender",
+    "animacy-intro"
+  ],
+  "intro_zh": "整理一个房间，能指出哪件东西是什么、属于哪一类。语法性别是配词规则，不是说物品真的有男女。",
+  "lesson_text": [
+    {
+      "id": "s01",
+      "cs": "Tady je náš malý byt. To je kuchyň a vedle je pokoj.",
+      "zh": "这里是我们的小公寓。这是厨房，旁边是房间。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s02",
+      "cs": "Ten stůl je nový, ale ta židle je stará. To okno je velké.",
+      "zh": "那张桌子是新的，那把椅子是旧的。那扇窗很大。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s03",
+      "cs": "Na stole je telefon, kniha a malé rádio. Telefon je černý.",
+      "zh": "桌上有电话、书和一个小收音机。电话是黑色的。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s04",
+      "cs": "Kniha je česká. Rádio je bílé a velmi lehké.",
+      "zh": "书是捷语的。收音机是白色的，而且很轻。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s05",
+      "cs": "Kdo je na fotografii? To je můj kolega Pavel a moje kolegyně Eva.",
+      "zh": "照片上是谁？这是我的同事帕维尔和女同事伊娃。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s06",
+      "cs": "Pavel je nový učitel. Eva je dobrá lékařka.",
+      "zh": "帕维尔是新老师。伊娃是好医生。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s07",
+      "cs": "Je ten pokoj volný? Ano, je volný. Ta kuchyň je společná.",
+      "zh": "那个房间空着吗？是的，空着。厨房是共用的。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    },
+    {
+      "id": "s08",
+      "cs": "Dobře, děkuju. Teď už vím, co je tady nové a co staré.",
+      "zh": "好的，谢谢。现在我知道这里什么是新的，什么是旧的。",
+      "note_zh": "先理解整句意图，再回看本课规律。"
+    }
+  ],
+  "grammar": [
+    {
+      "id": "noun-gender",
+      "rule_zh": "名词带着自己的类别，前后的指示词和形容词跟着换。",
+      "detail_zh": "主格单数常见组合：ten nový stůl（阳性），ta nová kniha（阴性），to nové okno（中性）。辅音结尾常为阳性，-a常阴性，-o/-í常中性，只是线索。kuchyň、věc等辅音结尾却是阴性；kolega是阳性有生，不能只看-a。",
+      "examples": [
+        {
+          "cs": "ten nový telefon",
+          "zh": "那部新电话",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        },
+        {
+          "cs": "ta nová židle",
+          "zh": "那把新椅子",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        },
+        {
+          "cs": "to nové rádio",
+          "zh": "那个新收音机",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        }
+      ],
+      "pitfalls": [
+        "把所有-a结尾词都判为阴性。"
+      ],
+      "exceptions": [
+        "学习词汇时一起记ten/ta/to与常用词形，例外不能靠猜。"
+      ],
+      "term": "性别与形容词一致"
+    },
+    {
+      "id": "animacy-intro",
+      "rule_zh": "阳性还分“有生”和“无生”，后面会影响词形。",
+      "detail_zh": "muž、učitel、kolega属阳性有生；stůl、telefon属阳性无生。语法有生性不是现实生命的完整分类：主要用于一组变格与一致规则。先建立分类，A1宾格和A2复数再用。",
+      "examples": [
+        {
+          "cs": "To je nový učitel.",
+          "zh": "这是新老师。",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        },
+        {
+          "cs": "To je nový telefon.",
+          "zh": "这是新电话。",
+          "note_zh": "先理解整句意图，再回看本课规律。"
+        }
+      ],
+      "pitfalls": [
+        "把树木等所有活物自动按阳性有生处理。"
+      ],
+      "exceptions": [
+        "女性人物仍属于阴性；“有生/无生”的这组对立主要指阳性语法。"
+      ],
+      "term": "有生性"
+    }
+  ],
+  "vocabulary": [
+    {
+      "lemma": "stůl",
+      "pos": "名词，阳性无生",
+      "forms": "stolu; stoly",
+      "meaning_zh": "桌子",
+      "collocation": "nový stůl",
+      "example_cs": "Stůl je nový.",
+      "example_zh": "桌子是新的。",
+      "confusion_zh": "ů在词形变化中可变o。"
+    },
+    {
+      "lemma": "židle",
+      "pos": "名词，阴性",
+      "forms": "židle; židle",
+      "meaning_zh": "椅子",
+      "collocation": "stará židle",
+      "example_cs": "Židle je stará.",
+      "example_zh": "椅子是旧的。",
+      "confusion_zh": "-e结尾也可能阴性。"
+    },
+    {
+      "lemma": "okno",
+      "pos": "名词，中性",
+      "forms": "okna; okna",
+      "meaning_zh": "窗",
+      "collocation": "velké okno",
+      "example_cs": "Okno je velké.",
+      "example_zh": "窗很大。",
+      "confusion_zh": "形容词用-é。"
+    },
+    {
+      "lemma": "kuchyň",
+      "pos": "名词，阴性",
+      "forms": "kuchyně; kuchyně",
+      "meaning_zh": "厨房",
+      "collocation": "společná kuchyň",
+      "example_cs": "Kuchyň je malá.",
+      "example_zh": "厨房小。",
+      "confusion_zh": "辅音结尾的阴性词。"
+    },
+    {
+      "lemma": "kolega",
+      "pos": "名词，阳性有生",
+      "forms": "kolegy; kolegové",
+      "meaning_zh": "男同事",
+      "collocation": "nový kolega",
+      "example_cs": "To je nový kolega.",
+      "example_zh": "这是新同事。",
+      "confusion_zh": "-a不代表阴性。"
+    },
+    {
+      "lemma": "nový",
+      "pos": "形容词",
+      "forms": "nová; nové",
+      "meaning_zh": "新的",
+      "collocation": "nový byt",
+      "example_cs": "Byt je nový.",
+      "example_zh": "公寓是新的。",
+      "confusion_zh": "跟名词类别变化。"
+    }
+  ],
+  "listening": {
+    "script": [
+      {
+        "cs": "Ten telefon je starý. Ta kniha je nová. To rádio je malé.",
+        "zh": "那部电话旧，那本书新，那个收音机小。",
+        "note_zh": "先理解整句意图，再回看本课规律。"
+      },
+      {
+        "cs": "Kuchyň je společná.",
+        "zh": "厨房是共用的。",
+        "note_zh": "先理解整句意图，再回看本课规律。"
+      }
+    ],
+    "focus_zh": "先不看文本听出任务关键信息；第二遍核对词形、数字与否定；最后对照中文。",
+    "source": "original"
+  },
+  "pronunciation": {
+    "focus_zh": "stůl只一个音节；不要在s与t之间加元音。nový的第一音节重读，末尾ý保长。",
+    "contrast": [
+      {
+        "a": "nový",
+        "b": "nová",
+        "note_zh": "后缀随名词换，长音都不能丢。"
+      }
+    ],
+    "task_zh": "指着三样东西录“ten/ta/to + 形容词 + 名词”。"
+  },
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "听力中哪件是新的？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "电话"
+        },
+        {
+          "id": "b",
+          "text": "书"
+        },
+        {
+          "id": "c",
+          "text": "收音机"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "kniha je nová。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "listening"
+      ],
+      "error_category": "comprehension",
+      "audio_text_cs": "Ta kniha je nová.",
+      "id": "A1-U02-L01-E01",
+      "knowledge_points": [
+        "noun-gender",
+        "animacy-intro"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "填“那扇窗”的指示词。",
+      "stimulus_cs": "___ okno",
+      "answer": "to",
+      "accepted_answers": [
+        "to"
+      ],
+      "explanation_zh": "okno中性。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "A1-U02-L01-E02",
+      "knowledge_points": [
+        "noun-gender",
+        "animacy-intro"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "用nový的正确形式。",
+      "stimulus_cs": "nový → ___ kniha",
+      "answer": "nová",
+      "accepted_answers": [
+        "nová"
+      ],
+      "explanation_zh": "kniha阴性。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "A1-U02-L01-E03",
+      "knowledge_points": [
+        "noun-gender",
+        "animacy-intro"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "哪个词虽以-a结尾却是阳性？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "kolega"
+        },
+        {
+          "id": "b",
+          "text": "kniha"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "kolega为阳性有生。",
+      "scoring_basis": "按本题语境的唯一正确选项核对；只证明此题理解。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "inflection",
+      "id": "A1-U02-L01-E04",
+      "knowledge_points": [
+        "noun-gender",
+        "animacy-intro"
+      ]
+    },
+    {
+      "type": "correct",
+      "prompt_zh": "改正唯一一致错误。",
+      "stimulus_cs": "Ta stůl je nový.",
+      "answer": "Ten stůl je nový.",
+      "accepted_answers": [
+        "Ten stůl je nový."
+      ],
+      "explanation_zh": "stůl阳性无生，ten。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "A1-U02-L01-E05",
+      "knowledge_points": [
+        "noun-gender",
+        "animacy-intro"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt_zh": "排列“那把椅子是旧的”。",
+      "stimulus_cs": "je / Ta židle / stará.",
+      "answer": "Ta židle je stará.",
+      "accepted_answers": [
+        "Ta židle je stará."
+      ],
+      "explanation_zh": "形容词与židle一致。",
+      "scoring_basis": "按题目限定的填写范围和可接受答案核对；开放变体请进入自评。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "word_order",
+      "options": [
+        "je",
+        "Ta židle",
+        "stará."
+      ],
+      "id": "A1-U02-L01-E06",
+      "knowledge_points": [
+        "noun-gender",
+        "animacy-intro"
+      ]
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "用ten、ta、to各介绍一件身边物品。",
+      "stimulus_cs": "",
+      "answer": "Ten telefon je nový. Ta kniha je stará. To okno je velké.",
+      "accepted_answers": [],
+      "explanation_zh": "可以选择实际物品。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A1-U02-L01-E07",
+      "knowledge_points": [
+        "noun-gender",
+        "animacy-intro"
+      ]
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "朋友指着房间问是否空着，回答并说明厨房共用。",
+      "stimulus_cs": "",
+      "answer": "Pokoj je volný. Kuchyň je společná.",
+      "accepted_answers": [],
+      "explanation_zh": "区分房间和厨房两项信息。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A1-U02-L01-E08",
+      "knowledge_points": [
+        "noun-gender",
+        "animacy-intro"
+      ]
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "写三件想买的物品，每件带一个形容词。",
+      "stimulus_cs": "",
+      "answer": "Nový stůl, stará kniha, malé rádio.",
+      "accepted_answers": [],
+      "explanation_zh": "这是清单，不必写完整句。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A1-U02-L01-E09",
+      "knowledge_points": [
+        "noun-gender",
+        "animacy-intro"
+      ]
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "用中文向朋友说明：为什么kolega不能按结尾-a判成阴性。",
+      "stimulus_cs": "",
+      "answer": "词尾只是线索，kolega是阳性有生，要记nový kolega。",
+      "accepted_answers": [],
+      "explanation_zh": "不要把语法类别解释成物理属性。",
+      "scoring_basis": "开放任务：示范答案不是唯一答案；按量规自评或教师复核，不自动给语言水平分。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "error_category": "fluency",
+      "rubric": [
+        "传达题目要求的关键信息",
+        "目标结构可理解且与语境相符",
+        "独立完成后再看示范，记录需要帮助的部分"
+      ],
+      "id": "A1-U02-L01-E10",
+      "knowledge_points": [
+        "noun-gender",
+        "animacy-intro"
+      ]
+    }
+  ],
+  "transfer_task": {
+    "prompt_zh": "换成没学过的物品，查词典性别后再配形容词，记录一个例外。",
+    "model_answer_cs": "Ta věc je nová.",
+    "rubric": [
+      "任务信息完整",
+      "用目标规律表达",
+      "独立完成并回听/回看"
+    ]
+  },
+  "review_links": [
+    "A1-U01-L01"
+  ],
+  "sources": [
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/",
+      "scope": "本课涉及的声音/词形/语法规则；编排与例句为原创",
+      "verification": "官方来源用于相关规则交叉核查；具体查核范围见content/sources/foundation-verification.md；本课例句为原创，未逐句母语审校。"
+    }
+  ],
+  "content_status": "authored_crosschecked_not_native_reviewed",
+  "quality_notes": [
+    "课程及题目原创；自动检查结构、唯一ID与答案。",
+    "已对照所列官方发音、数词、条件式、物主词等章节核查相应规则；其余内容做内部语言一致性复核，未逐句外部审校。",
+    "CEFR级别为教学编排，不构成官方达标或考试认证。"
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "A1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--normal.mp3",
+      "slow_file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U02-L01--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Tady je náš malý byt. To je kuchyň a vedle je pokoj. Ten stůl je nový, ale ta židle je stará. To okno je velké. Na stole je telefon, kniha a malé rádio. Telefon je černý. Kniha je česká. Rádio je bílé a velmi lehké. Kdo je na fotografii? To je můj kolega Pavel a moje kolegyně Eva. Pavel je nový učitel. Eva je dobrá lékařka. Je ten pokoj volný? Ano, je volný. Ta kuchyň je společná. Dobře, děkuju. Teď už vím, co je tady nové a co staré.",
+      "duration_seconds": 42.52231292517007,
+      "slow_duration_seconds": 47.25918367346939,
+      "sha256": "0fee63ec7652b62089194deac16bfb30f330428cf65baf0aca56710e07537bac",
+      "slow_sha256": "3badb385916aaf6a8fafa0cd2512b861ea7564f37b00b57e9c7879e94c7fdb54"
+    },
+    {
+      "lesson_id": "A1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--normal.mp3",
+      "slow_file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U02-L01--2026.10.22.1--text--p0",
+      "asset_id": "A1-U02-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Tady je náš malý byt. To je kuchyň a vedle je pokoj.",
+      "start": 0,
+      "end": 4.498911564625851,
+      "slow_start": 0,
+      "slow_end": 5.056190476190476
+    },
+    {
+      "lesson_id": "A1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--normal.mp3",
+      "slow_file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U02-L01--2026.10.22.1--text--s0",
+      "asset_id": "A1-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Tady je náš malý byt.",
+      "start": 0,
+      "end": 2.089795918367347,
+      "slow_start": 0,
+      "slow_end": 2.3103854875283445
+    },
+    {
+      "lesson_id": "A1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--normal.mp3",
+      "slow_file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U02-L01--2026.10.22.1--text--s1",
+      "asset_id": "A1-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "To je kuchyň a vedle je pokoj.",
+      "start": 2.269795918367347,
+      "end": 4.498911564625851,
+      "slow_start": 2.4903854875283447,
+      "slow_end": 5.056190476190476
+    },
+    {
+      "lesson_id": "A1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--normal.mp3",
+      "slow_file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U02-L01--2026.10.22.1--text--p1",
+      "asset_id": "A1-U02-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Ten stůl je nový, ale ta židle je stará. To okno je velké.",
+      "start": 4.67891156462585,
+      "end": 10.292380952380952,
+      "slow_start": 5.236190476190476,
+      "slow_end": 11.441768707482993
+    },
+    {
+      "lesson_id": "A1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--normal.mp3",
+      "slow_file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U02-L01--2026.10.22.1--text--s2",
+      "asset_id": "A1-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 1,
+      "sentence_index": 0,
+      "text": "Ten stůl je nový, ale ta židle je stará.",
+      "start": 4.67891156462585,
+      "end": 8.533424036281179,
+      "slow_start": 5.236190476190476,
+      "slow_end": 9.508662131519275
+    },
+    {
+      "lesson_id": "A1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--normal.mp3",
+      "slow_file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U02-L01--2026.10.22.1--text--s3",
+      "asset_id": "A1-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 3,
+      "paragraph_index": 1,
+      "sentence_index": 1,
+      "text": "To okno je velké.",
+      "start": 8.713424036281179,
+      "end": 10.292380952380952,
+      "slow_start": 9.688662131519274,
+      "slow_end": 11.441768707482993
+    },
+    {
+      "lesson_id": "A1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--normal.mp3",
+      "slow_file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U02-L01--2026.10.22.1--text--p2",
+      "asset_id": "A1-U02-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Na stole je telefon, kniha a malé rádio. Telefon je černý.",
+      "start": 10.472380952380952,
+      "end": 16.085850340136055,
+      "slow_start": 11.621768707482993,
+      "slow_end": 17.734467120181407
+    },
+    {
+      "lesson_id": "A1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--normal.mp3",
+      "slow_file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U02-L01--2026.10.22.1--text--s4",
+      "asset_id": "A1-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 4,
+      "paragraph_index": 2,
+      "sentence_index": 0,
+      "text": "Na stole je telefon, kniha a malé rádio.",
+      "start": 10.472380952380952,
+      "end": 14.141133786848073,
+      "slow_start": 11.621768707482993,
+      "slow_end": 15.534331065759638
+    },
+    {
+      "lesson_id": "A1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--normal.mp3",
+      "slow_file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U02-L01--2026.10.22.1--text--s5",
+      "asset_id": "A1-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 5,
+      "paragraph_index": 2,
+      "sentence_index": 1,
+      "text": "Telefon je černý.",
+      "start": 14.321133786848073,
+      "end": 16.085850340136055,
+      "slow_start": 15.714331065759637,
+      "slow_end": 17.734467120181407
+    },
+    {
+      "lesson_id": "A1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--normal.mp3",
+      "slow_file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U02-L01--2026.10.22.1--text--p3",
+      "asset_id": "A1-U02-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Kniha je česká. Rádio je bílé a velmi lehké.",
+      "start": 16.265850340136055,
+      "end": 20.90408163265306,
+      "slow_start": 17.914467120181406,
+      "slow_end": 23.098367346938776
+    },
+    {
+      "lesson_id": "A1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--normal.mp3",
+      "slow_file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U02-L01--2026.10.22.1--text--s6",
+      "asset_id": "A1-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 6,
+      "paragraph_index": 3,
+      "sentence_index": 0,
+      "text": "Kniha je česká.",
+      "start": 16.265850340136055,
+      "end": 17.786757369614513,
+      "slow_start": 17.914467120181406,
+      "slow_end": 19.65596371882086
+    },
+    {
+      "lesson_id": "A1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--normal.mp3",
+      "slow_file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U02-L01--2026.10.22.1--text--s7",
+      "asset_id": "A1-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 7,
+      "paragraph_index": 3,
+      "sentence_index": 1,
+      "text": "Rádio je bílé a velmi lehké.",
+      "start": 17.966757369614513,
+      "end": 20.90408163265306,
+      "slow_start": 19.83596371882086,
+      "slow_end": 23.098367346938776
+    },
+    {
+      "lesson_id": "A1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--normal.mp3",
+      "slow_file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U02-L01--2026.10.22.1--text--p4",
+      "asset_id": "A1-U02-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 4,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Kdo je na fotografii? To je můj kolega Pavel a moje kolegyně Eva.",
+      "start": 21.08408163265306,
+      "end": 26.511791383219954,
+      "slow_start": 23.278367346938776,
+      "slow_end": 29.495555555555555
+    },
+    {
+      "lesson_id": "A1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--normal.mp3",
+      "slow_file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U02-L01--2026.10.22.1--text--s8",
+      "asset_id": "A1-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 8,
+      "paragraph_index": 4,
+      "sentence_index": 0,
+      "text": "Kdo je na fotografii?",
+      "start": 21.08408163265306,
+      "end": 22.813968253968255,
+      "slow_start": 23.278367346938776,
+      "slow_end": 25.24045351473923
+    },
+    {
+      "lesson_id": "A1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--normal.mp3",
+      "slow_file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U02-L01--2026.10.22.1--text--s9",
+      "asset_id": "A1-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 9,
+      "paragraph_index": 4,
+      "sentence_index": 1,
+      "text": "To je můj kolega Pavel a moje kolegyně Eva.",
+      "start": 22.993968253968255,
+      "end": 26.511791383219954,
+      "slow_start": 25.42045351473923,
+      "slow_end": 29.495555555555555
+    },
+    {
+      "lesson_id": "A1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--normal.mp3",
+      "slow_file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U02-L01--2026.10.22.1--text--p5",
+      "asset_id": "A1-U02-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 5,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Pavel je nový učitel. Eva je dobrá lékařka.",
+      "start": 26.691791383219954,
+      "end": 31.0978231292517,
+      "slow_start": 29.675555555555555,
+      "slow_end": 34.557596371882084
+    },
+    {
+      "lesson_id": "A1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--normal.mp3",
+      "slow_file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U02-L01--2026.10.22.1--text--s10",
+      "asset_id": "A1-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 10,
+      "paragraph_index": 5,
+      "sentence_index": 0,
+      "text": "Pavel je nový učitel.",
+      "start": 26.691791383219954,
+      "end": 28.828027210884354,
+      "slow_start": 29.675555555555555,
+      "slow_end": 32.06721088435374
+    },
+    {
+      "lesson_id": "A1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--normal.mp3",
+      "slow_file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U02-L01--2026.10.22.1--text--s11",
+      "asset_id": "A1-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 11,
+      "paragraph_index": 5,
+      "sentence_index": 1,
+      "text": "Eva je dobrá lékařka.",
+      "start": 29.008027210884354,
+      "end": 31.0978231292517,
+      "slow_start": 32.24721088435374,
+      "slow_end": 34.557596371882084
+    },
+    {
+      "lesson_id": "A1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--normal.mp3",
+      "slow_file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U02-L01--2026.10.22.1--text--p6",
+      "asset_id": "A1-U02-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 6,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Je ten pokoj volný? Ano, je volný. Ta kuchyň je společná.",
+      "start": 31.2778231292517,
+      "end": 36.93197278911565,
+      "slow_start": 34.737596371882084,
+      "slow_end": 41.065124716553285
+    },
+    {
+      "lesson_id": "A1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--normal.mp3",
+      "slow_file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U02-L01--2026.10.22.1--text--s12",
+      "asset_id": "A1-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 12,
+      "paragraph_index": 6,
+      "sentence_index": 0,
+      "text": "Je ten pokoj volný?",
+      "start": 31.2778231292517,
+      "end": 33.12380952380953,
+      "slow_start": 34.737596371882084,
+      "slow_end": 36.74612244897959
+    },
+    {
+      "lesson_id": "A1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--normal.mp3",
+      "slow_file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U02-L01--2026.10.22.1--text--s13",
+      "asset_id": "A1-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 13,
+      "paragraph_index": 6,
+      "sentence_index": 1,
+      "text": "Ano, je volný.",
+      "start": 33.30380952380953,
+      "end": 34.813106575963715,
+      "slow_start": 36.92612244897959,
+      "slow_end": 38.69083900226757
+    },
+    {
+      "lesson_id": "A1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--normal.mp3",
+      "slow_file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U02-L01--2026.10.22.1--text--s14",
+      "asset_id": "A1-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 14,
+      "paragraph_index": 6,
+      "sentence_index": 2,
+      "text": "Ta kuchyň je společná.",
+      "start": 34.99310657596372,
+      "end": 36.93197278911565,
+      "slow_start": 38.87083900226757,
+      "slow_end": 41.065124716553285
+    },
+    {
+      "lesson_id": "A1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--normal.mp3",
+      "slow_file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U02-L01--2026.10.22.1--text--p7",
+      "asset_id": "A1-U02-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 7,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Dobře, děkuju. Teď už vím, co je tady nové a co staré.",
+      "start": 37.11197278911565,
+      "end": 42.34231292517007,
+      "slow_start": 41.245124716553285,
+      "slow_end": 47.07918367346939
+    },
+    {
+      "lesson_id": "A1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--normal.mp3",
+      "slow_file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U02-L01--2026.10.22.1--text--s15",
+      "asset_id": "A1-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 15,
+      "paragraph_index": 7,
+      "sentence_index": 0,
+      "text": "Dobře, děkuju.",
+      "start": 37.11197278911565,
+      "end": 38.50517006802721,
+      "slow_start": 41.245124716553285,
+      "slow_end": 42.789251700680275
+    },
+    {
+      "lesson_id": "A1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--normal.mp3",
+      "slow_file": "audio/files/A1-U02-L01--2026.10.22.1--text--8771c48523--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U02-L01--2026.10.22.1--text--s16",
+      "asset_id": "A1-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 16,
+      "paragraph_index": 7,
+      "sentence_index": 1,
+      "text": "Teď už vím, co je tady nové a co staré.",
+      "start": 38.68517006802721,
+      "end": 42.34231292517007,
+      "slow_start": 42.969251700680275,
+      "slow_end": 47.07918367346939
+    },
+    {
+      "lesson_id": "A1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U02-L01--2026.10.22.1--listening--87742e156b--normal.mp3",
+      "slow_file": "audio/files/A1-U02-L01--2026.10.22.1--listening--87742e156b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U02-L01--2026.10.22.1--listening",
+      "role": "listening-full",
+      "index": 0,
+      "text": "Ten telefon je starý. Ta kniha je nová. To rádio je malé. Kuchyň je společná.",
+      "duration_seconds": 7.477006802721088,
+      "slow_duration_seconds": 8.510294784580498,
+      "sha256": "5ecb0750cfa6b1fb84322f923dcaca0fa911d5053473876199b61bd2136ad018",
+      "slow_sha256": "0f73e58bf8da397cd896f723b40e48e4f807e6c2901531868993d19f0dd63b6c"
+    },
+    {
+      "lesson_id": "A1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U02-L01--2026.10.22.1--listening--87742e156b--normal.mp3",
+      "slow_file": "audio/files/A1-U02-L01--2026.10.22.1--listening--87742e156b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U02-L01--2026.10.22.1--listening--p0",
+      "asset_id": "A1-U02-L01--2026.10.22.1--listening",
+      "role": "listening",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Ten telefon je starý. Ta kniha je nová. To rádio je malé.",
+      "start": 0,
+      "end": 5.363900226757369,
+      "slow_start": 0,
+      "slow_end": 6.153378684807256
+    },
+    {
+      "lesson_id": "A1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U02-L01--2026.10.22.1--listening--87742e156b--normal.mp3",
+      "slow_file": "audio/files/A1-U02-L01--2026.10.22.1--listening--87742e156b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U02-L01--2026.10.22.1--listening--p1",
+      "asset_id": "A1-U02-L01--2026.10.22.1--listening",
+      "role": "listening",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Kuchyň je společná.",
+      "start": 5.54390022675737,
+      "end": 7.297006802721088,
+      "slow_start": 6.333378684807256,
+      "slow_end": 8.330294784580499
+    },
+    {
+      "lesson_id": "A1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U02-L01--2026.10.22.1--vocabulary--1967d3794a--normal.mp3",
+      "slow_file": "audio/files/A1-U02-L01--2026.10.22.1--vocabulary--1967d3794a--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U02-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary-full",
+      "index": 0,
+      "text": "Stůl je nový. Židle je stará. Okno je velké. Kuchyň je malá. To je nový kolega. Byt je nový.",
+      "duration_seconds": 9.671383219954649,
+      "slow_duration_seconds": 10.797551020408163,
+      "sha256": "029877d5824bc7c62fcc541a8489e17aca3fdc8645cf68823082bff752714547",
+      "slow_sha256": "24c6fdfe61c815c62a2cd42ff5a6dc4ad6ed7edc0adc8b455210d931e2c33a82"
+    },
+    {
+      "lesson_id": "A1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U02-L01--2026.10.22.1--vocabulary--1967d3794a--normal.mp3",
+      "slow_file": "audio/files/A1-U02-L01--2026.10.22.1--vocabulary--1967d3794a--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U02-L01--2026.10.22.1--vocabulary--p0",
+      "asset_id": "A1-U02-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Stůl je nový.",
+      "start": 0,
+      "end": 1.4048072562358276,
+      "slow_start": 0,
+      "slow_end": 1.6834467120181407
+    },
+    {
+      "lesson_id": "A1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U02-L01--2026.10.22.1--vocabulary--1967d3794a--normal.mp3",
+      "slow_file": "audio/files/A1-U02-L01--2026.10.22.1--vocabulary--1967d3794a--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U02-L01--2026.10.22.1--vocabulary--p1",
+      "asset_id": "A1-U02-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Židle je stará.",
+      "start": 1.5848072562358277,
+      "end": 3.0128344671201814,
+      "slow_start": 1.8634467120181406,
+      "slow_end": 3.500453514739229
+    },
+    {
+      "lesson_id": "A1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U02-L01--2026.10.22.1--vocabulary--1967d3794a--normal.mp3",
+      "slow_file": "audio/files/A1-U02-L01--2026.10.22.1--vocabulary--1967d3794a--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U02-L01--2026.10.22.1--vocabulary--p2",
+      "asset_id": "A1-U02-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Okno je velké.",
+      "start": 3.1928344671201816,
+      "end": 4.67891156462585,
+      "slow_start": 3.680453514739229,
+      "slow_end": 5.398730158730158
+    },
+    {
+      "lesson_id": "A1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U02-L01--2026.10.22.1--vocabulary--1967d3794a--normal.mp3",
+      "slow_file": "audio/files/A1-U02-L01--2026.10.22.1--vocabulary--1967d3794a--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U02-L01--2026.10.22.1--vocabulary--p3",
+      "asset_id": "A1-U02-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Kuchyň je malá.",
+      "start": 4.85891156462585,
+      "end": 6.344988662131519,
+      "slow_start": 5.578730158730159,
+      "slow_end": 7.192517006802721
+    },
+    {
+      "lesson_id": "A1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U02-L01--2026.10.22.1--vocabulary--1967d3794a--normal.mp3",
+      "slow_file": "audio/files/A1-U02-L01--2026.10.22.1--vocabulary--1967d3794a--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U02-L01--2026.10.22.1--vocabulary--p4",
+      "asset_id": "A1-U02-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 4,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "To je nový kolega.",
+      "start": 6.524988662131519,
+      "end": 7.9878458049886625,
+      "slow_start": 7.372517006802721,
+      "slow_end": 8.963083900226758
+    },
+    {
+      "lesson_id": "A1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U02-L01--2026.10.22.1--vocabulary--1967d3794a--normal.mp3",
+      "slow_file": "audio/files/A1-U02-L01--2026.10.22.1--vocabulary--1967d3794a--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U02-L01--2026.10.22.1--vocabulary--p5",
+      "asset_id": "A1-U02-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 5,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Byt je nový.",
+      "start": 8.167845804988662,
+      "end": 9.491383219954649,
+      "slow_start": 9.143083900226758,
+      "slow_end": 10.617551020408163
+    },
+    {
+      "lesson_id": "A1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U02-L01--2026.10.22.1--exercises--8624fd89d4--normal.mp3",
+      "slow_file": "audio/files/A1-U02-L01--2026.10.22.1--exercises--8624fd89d4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U02-L01--2026.10.22.1--exercises",
+      "role": "exercises-full",
+      "index": 0,
+      "text": "Ta kniha je nová.",
+      "duration_seconds": 1.6544671201814058,
+      "slow_duration_seconds": 1.9214965986394559,
+      "sha256": "c3b6406ce24e7c53b7603402c55515882e2f3f61076ad72c357625d3f4b6b43b",
+      "slow_sha256": "750e6b9f4e0bcf1daf445dbffa973e05cabc7a6c101309b473a2c24bb30d5c38"
+    },
+    {
+      "lesson_id": "A1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U02-L01--2026.10.22.1--exercises--8624fd89d4--normal.mp3",
+      "slow_file": "audio/files/A1-U02-L01--2026.10.22.1--exercises--8624fd89d4--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U02-L01--2026.10.22.1--exercises--p0",
+      "asset_id": "A1-U02-L01--2026.10.22.1--exercises",
+      "role": "exercise",
+      "index": 0,
+      "exercise_id": "A1-U02-L01-E01",
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Ta kniha je nová.",
+      "start": 0,
+      "end": 1.474467120181406,
+      "slow_start": 0,
+      "slow_end": 1.7414965986394557
+    },
+    {
+      "lesson_id": "A1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U02-L01--2026.10.22.1--contrasts--69ca87b477--normal.mp3",
+      "slow_file": "audio/files/A1-U02-L01--2026.10.22.1--contrasts--69ca87b477--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U02-L01--2026.10.22.1--contrasts",
+      "role": "contrasts-full",
+      "index": 0,
+      "text": "nový. nová.",
+      "duration_seconds": 1.387437641723356,
+      "slow_duration_seconds": 1.5383673469387755,
+      "sha256": "5ee5411efbd8e2e4e58e5d7921810a0c96ef730b95eab46d1dfff95cca8cab2e",
+      "slow_sha256": "eb99e41db3d45d76b3335e46400e4cb552611adf9374e47fef29cf6b272d21c9"
+    },
+    {
+      "lesson_id": "A1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/A1-U02-L01--2026.10.22.1--contrasts--69ca87b477--normal.mp3",
+      "slow_file": "audio/files/A1-U02-L01--2026.10.22.1--contrasts--69ca87b477--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "A1-U02-L01--2026.10.22.1--contrasts--p0",
+      "asset_id": "A1-U02-L01--2026.10.22.1--contrasts",
+      "role": "contrast",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "nový. nová.",
+      "start": 0,
+      "end": 1.207437641723356,
+      "slow_start": 0,
+      "slow_end": 1.3583673469387756
+    }
+  ]
+}

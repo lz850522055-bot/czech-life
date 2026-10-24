@@ -1,0 +1,59 @@
+{
+  "id": "A2-U09-L01--2026.10.22.1--exercises",
+  "lesson_id": "A2-U09-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Druhý byt je dražší o tisíc korun měsíčně.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "A2-U09-L01-E01",
+      "parts": [
+        "Druhý byt je dražší o tisíc korun měsíčně."
+      ]
+    }
+  ],
+  "text_sha256": "583dc02b654d8549d5338c924b0b737d74262a2291d4ce7023998e69baa6960f",
+  "source_file": "content/lessons/A2/A2-U09-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U09-L01--2026.10.22.1--exercises--583dc02b65--normal.mp3",
+  "slow_file": "content/audio/files/A2-U09-L01--2026.10.22.1--exercises--583dc02b65--slow.mp3",
+  "duration_seconds": 4.394421768707483,
+  "slow_duration_seconds": 4.789160997732426,
+  "cues": [
+    {
+      "text": "Druhý byt je dražší o tisíc korun měsíčně.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "A2-U09-L01-E01",
+      "parts": [
+        "Druhý byt je dražší o tisíc korun měsíčně."
+      ],
+      "start": 0.0,
+      "end": 4.214421768707483,
+      "sentences": [
+        {
+          "text": "Druhý byt je dražší o tisíc korun měsíčně.",
+          "start": 0.0,
+          "end": 4.214421768707483,
+          "slow_start": 0.0,
+          "slow_end": 4.609160997732427
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 4.609160997732427
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "18c406dcaae71b0a50b9a6432386099132cae1957ad31d394e64f9a830554618",
+    "slow": "00e7d4489998c3bcc7a3ab6cd45e1246410d317e3725783cceee818e8bedd333"
+  }
+}

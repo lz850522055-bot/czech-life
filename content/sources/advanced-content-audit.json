@@ -1,0 +1,271 @@
+{
+  "scope": "C1/C2 authored content; structure and explicit invariants, not native-language or proficiency certification",
+  "date": "2026-10-22",
+  "result": "passed",
+  "json_files_checked": 54,
+  "exercise_ids_checked": 414,
+  "ids_unique": true,
+  "main_paragraphs_unique": true,
+  "all_answers_present": true,
+  "all_six_skills_in_each_final": true,
+  "all_lesson_word_targets_met": true,
+  "closed_options_valid": true,
+  "all_open_tasks_have_rubrics": true,
+  "listening_tasks_have_original_scripts": true,
+  "all_prerequisites_resolve": true,
+  "native_review_completed": false,
+  "standardized_pilot_completed": false,
+  "stats": {
+    "C1": {
+      "lesson_count": 14,
+      "unit_assessments": 14,
+      "final_assessments": 1,
+      "main_text_cs_words": 6581,
+      "main_text_word_min": 450,
+      "main_text_word_max": 489,
+      "lesson_exercises": 168,
+      "unit_assessment_exercises": 42,
+      "final_assessment_exercises": 12,
+      "final_unseen_cs_words": 508,
+      "lessons": [
+        {
+          "id": "C1-U01-L01",
+          "main_text_cs_words": 489,
+          "exercises": 12,
+          "grammar_points": 2,
+          "vocabulary_entries": 6,
+          "sha256": "cd06d6ef491ad818500299d3ee0a97ab7eac2be6bf107054021efd91a9afbd16"
+        },
+        {
+          "id": "C1-U02-L01",
+          "main_text_cs_words": 469,
+          "exercises": 12,
+          "grammar_points": 2,
+          "vocabulary_entries": 5,
+          "sha256": "c5f4a28c053fe048c61565cf5c72943fefe35989d4f956a54d56279174d3137b"
+        },
+        {
+          "id": "C1-U03-L01",
+          "main_text_cs_words": 456,
+          "exercises": 12,
+          "grammar_points": 2,
+          "vocabulary_entries": 5,
+          "sha256": "435688e39e626ada18c767d60a75adadbca3c815c66728fb16b35d2aecacae50"
+        },
+        {
+          "id": "C1-U04-L01",
+          "main_text_cs_words": 485,
+          "exercises": 12,
+          "grammar_points": 2,
+          "vocabulary_entries": 5,
+          "sha256": "9e8cca3d2ed8ed84f2ece2fdec5552dafe11daf885bee46982a54fd39703f219"
+        },
+        {
+          "id": "C1-U05-L01",
+          "main_text_cs_words": 478,
+          "exercises": 12,
+          "grammar_points": 2,
+          "vocabulary_entries": 5,
+          "sha256": "38258d98d8b0d5f3244fd3a749fea1f2e85f745a1e52674bc980bfd0576f7185"
+        },
+        {
+          "id": "C1-U06-L01",
+          "main_text_cs_words": 450,
+          "exercises": 12,
+          "grammar_points": 2,
+          "vocabulary_entries": 5,
+          "sha256": "e9121200c921a6fecf7ea05ee3c0b71f24d0cdcad3611baa1a1bce0e6b50c7d8"
+        },
+        {
+          "id": "C1-U07-L01",
+          "main_text_cs_words": 452,
+          "exercises": 12,
+          "grammar_points": 2,
+          "vocabulary_entries": 5,
+          "sha256": "7e7d23fe714c74c7aaa181376a14dfa322054cd1b86dde6209fc5322c0eaffa3"
+        },
+        {
+          "id": "C1-U08-L01",
+          "main_text_cs_words": 484,
+          "exercises": 12,
+          "grammar_points": 2,
+          "vocabulary_entries": 5,
+          "sha256": "241184b0df75c545fe8898b0beb93dbcf4f2a59ec0676caa2aceac7b9fdaeaba"
+        },
+        {
+          "id": "C1-U09-L01",
+          "main_text_cs_words": 471,
+          "exercises": 12,
+          "grammar_points": 2,
+          "vocabulary_entries": 5,
+          "sha256": "df1fb243490a371c778edf6187113e546fb9e5a0bf49050c5d3416392f9f94a0"
+        },
+        {
+          "id": "C1-U10-L01",
+          "main_text_cs_words": 470,
+          "exercises": 12,
+          "grammar_points": 2,
+          "vocabulary_entries": 5,
+          "sha256": "71329160d073b2367f570d4b567004badd876669407db0b6f6ebddae64e00b81"
+        },
+        {
+          "id": "C1-U11-L01",
+          "main_text_cs_words": 472,
+          "exercises": 12,
+          "grammar_points": 2,
+          "vocabulary_entries": 5,
+          "sha256": "77ce6daa07e2e043f73645d661d5fcc948bd04def12704c90ead7e71dfe13271"
+        },
+        {
+          "id": "C1-U12-L01",
+          "main_text_cs_words": 473,
+          "exercises": 12,
+          "grammar_points": 2,
+          "vocabulary_entries": 5,
+          "sha256": "e6aa85da8e1b2db26498336181fc04eb339c934f57955bd9882b90592a255d7a"
+        },
+        {
+          "id": "C1-U13-L01",
+          "main_text_cs_words": 461,
+          "exercises": 12,
+          "grammar_points": 2,
+          "vocabulary_entries": 5,
+          "sha256": "9b6eb5cbd9f861ded5f855cb65d7cb1c792c5d8ff2d8204ee895ce7f8383913e"
+        },
+        {
+          "id": "C1-U14-L01",
+          "main_text_cs_words": 471,
+          "exercises": 12,
+          "grammar_points": 2,
+          "vocabulary_entries": 5,
+          "sha256": "59b10430f1bcd915892df45536666ac3bba6654612f759869d5f498bc5773c99"
+        }
+      ]
+    },
+    "C2": {
+      "lesson_count": 12,
+      "unit_assessments": 12,
+      "final_assessments": 1,
+      "main_text_cs_words": 7317,
+      "main_text_word_min": 574,
+      "main_text_word_max": 645,
+      "lesson_exercises": 144,
+      "unit_assessment_exercises": 36,
+      "final_assessment_exercises": 12,
+      "final_unseen_cs_words": 749,
+      "lessons": [
+        {
+          "id": "C2-U01-L01",
+          "main_text_cs_words": 621,
+          "exercises": 12,
+          "grammar_points": 2,
+          "vocabulary_entries": 5,
+          "sha256": "9ea60f668fd1262973e26442cdb9d568ad8a863b8716ec5fde6de66d9572c286"
+        },
+        {
+          "id": "C2-U02-L01",
+          "main_text_cs_words": 574,
+          "exercises": 12,
+          "grammar_points": 2,
+          "vocabulary_entries": 5,
+          "sha256": "b4a10e1c902bd092a52e1f8d651664660102495fbaadb2b5eff10a369f34cf47"
+        },
+        {
+          "id": "C2-U03-L01",
+          "main_text_cs_words": 595,
+          "exercises": 12,
+          "grammar_points": 2,
+          "vocabulary_entries": 5,
+          "sha256": "93a3224be4f7868fc21fb3dca5987d87088e1f5a33564dcfdaf51596ef65d846"
+        },
+        {
+          "id": "C2-U04-L01",
+          "main_text_cs_words": 618,
+          "exercises": 12,
+          "grammar_points": 2,
+          "vocabulary_entries": 5,
+          "sha256": "e7f82822f9ec0726f314eade0ee168a10e770d4d197f1451f2ce074196c3e27f"
+        },
+        {
+          "id": "C2-U05-L01",
+          "main_text_cs_words": 600,
+          "exercises": 12,
+          "grammar_points": 2,
+          "vocabulary_entries": 5,
+          "sha256": "23201642473f50c9fe2ac927a5b7db7564601c4b721cf3787fa6586edff03b9d"
+        },
+        {
+          "id": "C2-U06-L01",
+          "main_text_cs_words": 580,
+          "exercises": 12,
+          "grammar_points": 2,
+          "vocabulary_entries": 5,
+          "sha256": "bf0f2904810c6a43d8ac1e1ceb20d12e574f2923ca876fdff780ccee23eda356"
+        },
+        {
+          "id": "C2-U07-L01",
+          "main_text_cs_words": 607,
+          "exercises": 12,
+          "grammar_points": 2,
+          "vocabulary_entries": 5,
+          "sha256": "28b823b1aa64bbf994a94719a5e3afd3a5d1aef9a9222925b27866e5636d60a6"
+        },
+        {
+          "id": "C2-U08-L01",
+          "main_text_cs_words": 645,
+          "exercises": 12,
+          "grammar_points": 2,
+          "vocabulary_entries": 5,
+          "sha256": "80d720ac170cc9612fa59c436833383409ac0609aa0de91c19b11ae31e7e0f4d"
+        },
+        {
+          "id": "C2-U09-L01",
+          "main_text_cs_words": 610,
+          "exercises": 12,
+          "grammar_points": 2,
+          "vocabulary_entries": 5,
+          "sha256": "f6c22207b1a9111c1ac47e4e147caba7db69c7cbe5339e06812f88eb912d3a17"
+        },
+        {
+          "id": "C2-U10-L01",
+          "main_text_cs_words": 608,
+          "exercises": 12,
+          "grammar_points": 2,
+          "vocabulary_entries": 5,
+          "sha256": "6801313840e0853c5b6b167a31538709788c0dfc991b2de51cbec6bcd381c852"
+        },
+        {
+          "id": "C2-U11-L01",
+          "main_text_cs_words": 627,
+          "exercises": 12,
+          "grammar_points": 2,
+          "vocabulary_entries": 5,
+          "sha256": "eb7091474b944849e1161e87e13dc86fb90afc1eab133667e895f9ed40cb6037"
+        },
+        {
+          "id": "C2-U12-L01",
+          "main_text_cs_words": 632,
+          "exercises": 12,
+          "grammar_points": 2,
+          "vocabulary_entries": 5,
+          "sha256": "09c3f698529655bbb7d6b2c2b3776f3c7246f574f9965f252ae50a022f72e36e"
+        }
+      ]
+    }
+  },
+  "final_knowledge_points_resolve": true,
+  "final_knowledge_points_note": "2026-10-22 元数据修订：24题人工综合标签替换为既有课内知识点；原始正文和audio_text_cs经前后比对无变化。",
+  "branch_scenarios": {
+    "files": [
+      "content/scenarios.json"
+    ],
+    "count": 7,
+    "nodes": 35,
+    "choices": 42,
+    "terminal_outcomes": 14,
+    "lesson_links_valid": true,
+    "all_nodes_reachable": true,
+    "no_numeric_proficiency_score": true,
+    "audio_status": "由集成流程按最终脚本生成；内容作者不宣称已生成"
+  }
+}

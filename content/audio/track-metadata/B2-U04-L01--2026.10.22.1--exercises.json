@@ -1,0 +1,68 @@
+{
+  "id": "B2-U04-L01--2026.10.22.1--exercises",
+  "lesson_id": "B2-U04-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B2",
+  "group": "exercises",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Můžeme to přesunout na úterý? Prosím o sdělení, zda s navrženou změnou souhlasíte.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "B2-U04-L01-E03",
+      "parts": [
+        "Můžeme to přesunout na úterý?",
+        "Prosím o sdělení, zda s navrženou změnou souhlasíte."
+      ]
+    }
+  ],
+  "text_sha256": "9b563e9c6defcded568884200e13129896c1de592aee9cb6ce0337800e209871",
+  "source_file": "content/lessons/B2/B2-U04-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U04-L01--2026.10.22.1--exercises--9b563e9c6d--normal.mp3",
+  "slow_file": "content/audio/files/B2-U04-L01--2026.10.22.1--exercises--9b563e9c6d--slow.mp3",
+  "duration_seconds": 8.19673469387755,
+  "slow_duration_seconds": 9.346122448979592,
+  "cues": [
+    {
+      "text": "Můžeme to přesunout na úterý? Prosím o sdělení, zda s navrženou změnou souhlasíte.",
+      "index": 0,
+      "role": "exercise",
+      "exercise_id": "B2-U04-L01-E03",
+      "parts": [
+        "Můžeme to přesunout na úterý?",
+        "Prosím o sdělení, zda s navrženou změnou souhlasíte."
+      ],
+      "start": 0.0,
+      "end": 8.01673469387755,
+      "sentences": [
+        {
+          "text": "Můžeme to přesunout na úterý?",
+          "start": 0.0,
+          "end": 2.6238548752834467,
+          "slow_start": 0.0,
+          "slow_end": 2.9024943310657596
+        },
+        {
+          "text": "Prosím o sdělení, zda s navrženou změnou souhlasíte.",
+          "start": 2.803854875283447,
+          "end": 8.01673469387755,
+          "slow_start": 3.0824943310657598,
+          "slow_end": 9.166122448979593
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 9.166122448979593
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "9eaedb7cacd80f12058eaf620a047571b6e4bc9d838e6c2c7bc858f6a2c54c94",
+    "slow": "b15462b860d606cdfce540550d9bdee7fc2797abc24d8812ccb19259246bd473"
+  }
+}

@@ -1,0 +1,639 @@
+{
+  "id": "C2-U11-L01--2026.10.23.1--text",
+  "lesson_id": "C2-U11-L01",
+  "content_version": "2026.10.23.1",
+  "level": "C2",
+  "group": "text",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Autorka krátké eseje začínala slovy: Město mě každé ráno budí cizími kroky. Editor navrhl větu obyvatelé města jsou ráno vystaveni hluku chodců. Druhá formulace působila neutrálněji, ale zároveň změnila předmět textu. Osobní zkušenost se proměnila v obecné tvrzení o obyvatelích a obraz kroků v technicky znějící kategorii hluku. Nešlo už pouze o stylistické uhlazení. Autorka chtěla zkoumat svůj vztah k městu, nikoli předložit zprávu o podmínkách všech lidí, kteří v něm žijí.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Autorka krátké eseje začínala slovy: Město mě každé ráno budí cizími kroky.",
+        "Editor navrhl větu obyvatelé města jsou ráno vystaveni hluku chodců.",
+        "Druhá formulace působila neutrálněji, ale zároveň změnila předmět textu.",
+        "Osobní zkušenost se proměnila v obecné tvrzení o obyvatelích a obraz kroků v technicky znějící kategorii hluku.",
+        "Nešlo už pouze o stylistické uhlazení.",
+        "Autorka chtěla zkoumat svůj vztah k městu, nikoli předložit zprávu o podmínkách všech lidí, kteří v něm žijí."
+      ]
+    },
+    {
+      "text": "Při druhém čtení se editor zeptal, jakou práci má první věta vykonat. Má čtenáře uvést do zvukového vjemu, ukázat odstup od okolí a připravit pozdější proměnu postoje. V takovém případě nebylo nutné metaforu odstranit. Bylo ale možné zkontrolovat, zda navazující věty její význam zbytečně neopakují. Autorka následně vyškrtla vysvětlení, že město samozřejmě není živá bytost. Čtenář je nepotřeboval a rytmus úvodu se jím rozpadal. Přesnost literárního textu nevyžaduje vysvětlit každý obraz doslovně, pokud jeho funkce zůstává srozumitelná.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Při druhém čtení se editor zeptal, jakou práci má první věta vykonat.",
+        "Má čtenáře uvést do zvukového vjemu, ukázat odstup od okolí a připravit pozdější proměnu postoje.",
+        "V takovém případě nebylo nutné metaforu odstranit.",
+        "Bylo ale možné zkontrolovat, zda navazující věty její význam zbytečně neopakují.",
+        "Autorka následně vyškrtla vysvětlení, že město samozřejmě není živá bytost.",
+        "Čtenář je nepotřeboval a rytmus úvodu se jím rozpadal.",
+        "Přesnost literárního textu nevyžaduje vysvětlit každý obraz doslovně, pokud jeho funkce zůstává srozumitelná."
+      ]
+    },
+    {
+      "text": "Jiný odstavec ovšem skutečnou opravu potřeboval. Autorka napsala, že už nikdo v sousedství nikoho nezdraví. Později přitom popsala prodavače, který ji každý den oslovuje jménem. Editor nepovažoval tento rozpor automaticky za chybu, protože první věta mohla vyjadřovat nadsázku a momentální náladu. Požádal však autorku, aby se rozhodla, zda chce rozpor přiznat jako součást vypravěččina pohledu. Nová verze zněla: Myslela jsem, že už tu nikdo nikoho nezdraví. Pak na mě prodavač zavolal jménem. Rozpor se změnil v událost, která posouvá vyprávění.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Jiný odstavec ovšem skutečnou opravu potřeboval.",
+        "Autorka napsala, že už nikdo v sousedství nikoho nezdraví.",
+        "Později přitom popsala prodavače, který ji každý den oslovuje jménem.",
+        "Editor nepovažoval tento rozpor automaticky za chybu, protože první věta mohla vyjadřovat nadsázku a momentální náladu.",
+        "Požádal však autorku, aby se rozhodla, zda chce rozpor přiznat jako součást vypravěččina pohledu.",
+        "Nová verze zněla: Myslela jsem, že už tu nikdo nikoho nezdraví.",
+        "Pak na mě prodavač zavolal jménem.",
+        "Rozpor se změnil v událost, která posouvá vyprávění."
+      ]
+    },
+    {
+      "text": "Důležitá byla i délka vět. V popisu rušné křižovatky autorka použila souvětí, které spojovalo zvuky, pohyb a drobné překážky do jednoho proudu. Editor je původně rozbil na pět krátkých vět. Text byl přehledný, ale ztratil pocit přetížení, který měl čtenář zakusit. V jiném místě naopak krátká věta otevřela důležitý obrat: Tentokrát jsem se zastavila. O jejím účinku nerozhodoval samotný počet slov, nýbrž vztah k okolnímu rytmu. Jednotný zákaz dlouhých vět by odstranil právě kontrast, na němž pasáž stavěla.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Důležitá byla i délka vět.",
+        "V popisu rušné křižovatky autorka použila souvětí, které spojovalo zvuky, pohyb a drobné překážky do jednoho proudu.",
+        "Editor je původně rozbil na pět krátkých vět.",
+        "Text byl přehledný, ale ztratil pocit přetížení, který měl čtenář zakusit.",
+        "V jiném místě naopak krátká věta otevřela důležitý obrat: Tentokrát jsem se zastavila.",
+        "O jejím účinku nerozhodoval samotný počet slov, nýbrž vztah k okolnímu rytmu.",
+        "Jednotný zákaz dlouhých vět by odstranil právě kontrast, na němž pasáž stavěla."
+      ]
+    },
+    {
+      "text": "Při práci se slovosledem si oba všimli rozdílu mezi větami prodavač mě oslovil jménem a jménem mě oslovil prodavač. V prvním případě může být novou informací způsob oslovení, ve druhém totožnost člověka, který jej použil; konkrétní důraz závisí i na kontextu a při hlasitém čtení na intonaci. Editor proto neposouval větné členy pouze kvůli pestrosti. Ptal se, na jakou nevyslovenou otázku věta odpovídá a co čtenář v daném okamžiku již ví. Styl se zde ukázal jako organizace pozornosti, ne jen jako výběr ozdobných slov.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Při práci se slovosledem si oba všimli rozdílu mezi větami prodavač mě oslovil jménem a jménem mě oslovil prodavač.",
+        "V prvním případě může být novou informací způsob oslovení, ve druhém totožnost člověka, který jej použil; konkrétní důraz závisí i na kontextu a při hlasitém čtení na intonaci.",
+        "Editor proto neposouval větné členy pouze kvůli pestrosti.",
+        "Ptal se, na jakou nevyslovenou otázku věta odpovídá a co čtenář v daném okamžiku již ví.",
+        "Styl se zde ukázal jako organizace pozornosti, ne jen jako výběr ozdobných slov."
+      ]
+    },
+    {
+      "text": "Autorka chtěla zachovat některá opakování. Slovo kroky se vracelo při ranním podráždění, při setkání s prodavačem i na konci, kdy sama šla za někým, kdo zapomněl tašku. Mechanické nahrazení výrazem chůze, pohyb nebo zvuk by rozpojilo motiv. Jinde však opakovala obecné hodnocení zajímavý tak často, že se vytratilo, co ji vlastně zaujalo. Tam editor žádal konkrétní detail. Rozdíl mezi funkčním návratem slova a bezděčnou výplní se nedá zjistit pouhým počítáním výskytů; vyžaduje číst, co se při každém návratu mění.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Autorka chtěla zachovat některá opakování.",
+        "Slovo kroky se vracelo při ranním podráždění, při setkání s prodavačem i na konci, kdy sama šla za někým, kdo zapomněl tašku.",
+        "Mechanické nahrazení výrazem chůze, pohyb nebo zvuk by rozpojilo motiv.",
+        "Jinde však opakovala obecné hodnocení zajímavý tak často, že se vytratilo, co ji vlastně zaujalo.",
+        "Tam editor žádal konkrétní detail.",
+        "Rozdíl mezi funkčním návratem slova a bezděčnou výplní se nedá zjistit pouhým počítáním výskytů; vyžaduje číst, co se při každém návratu mění."
+      ]
+    },
+    {
+      "text": "Závěrečná verze zůstala osobní a mírně ironická. Nezískala hlas profesionálního mluvčího instituce ani soubor univerzálních pravd o městě. Získala však jasnější hranici mezi náladou vypravěčky, pozorovaným dějem a pozdějším přehodnocením. Editor u větších změn uvedl důvod a autorka mohla některé návrhy odmítnout, pokud věděla proč. Taková spolupráce předpokládá, že dobré psaní nemá jedinou podobu. Existují ovšem rozpoznatelné problémy, které lze ukázat: nezamýšlené zmatení, ztráta návaznosti, neudržitelná generalizace nebo výraz, který tvrdí jinou věc, než autor zamýšlel.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Závěrečná verze zůstala osobní a mírně ironická.",
+        "Nezískala hlas profesionálního mluvčího instituce ani soubor univerzálních pravd o městě.",
+        "Získala však jasnější hranici mezi náladou vypravěčky, pozorovaným dějem a pozdějším přehodnocením.",
+        "Editor u větších změn uvedl důvod a autorka mohla některé návrhy odmítnout, pokud věděla proč.",
+        "Taková spolupráce předpokládá, že dobré psaní nemá jedinou podobu.",
+        "Existují ovšem rozpoznatelné problémy, které lze ukázat: nezamýšlené zmatení, ztráta návaznosti, neudržitelná generalizace nebo výraz, který tvrdí jinou věc, než autor zamýšlel."
+      ]
+    },
+    {
+      "text": "Při vlastním nácviku je proto užitečné vytvořit dvě alternativní verze stejného odstavce a vysvětlit, jaký účinek každá sleduje. Jedna může urychlit děj, druhá dát prostor rozporu; jedna osloví známého čtenáře, druhá potřebuje doplnit souvislosti. Potom je třeba vybrat podle účelu celého textu, nikoli podle toho, která věta izolovaně zní nejchytřeji. Vyspělý autorský hlas není neměnný zvyk, který se nesmí dotknout revize. Je to vědomá schopnost zachovat vlastní perspektivu a současně převzít odpovědnost za to, co konkrétní formulace čtenáři skutečně umožňuje pochopit.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Při vlastním nácviku je proto užitečné vytvořit dvě alternativní verze stejného odstavce a vysvětlit, jaký účinek každá sleduje.",
+        "Jedna může urychlit děj, druhá dát prostor rozporu; jedna osloví známého čtenáře, druhá potřebuje doplnit souvislosti.",
+        "Potom je třeba vybrat podle účelu celého textu, nikoli podle toho, která věta izolovaně zní nejchytřeji.",
+        "Vyspělý autorský hlas není neměnný zvyk, který se nesmí dotknout revize.",
+        "Je to vědomá schopnost zachovat vlastní perspektivu a současně převzít odpovědnost za to, co konkrétní formulace čtenáři skutečně umožňuje pochopit."
+      ]
+    }
+  ],
+  "text_sha256": "7466f7a1f08ca3a181effede5cd17ecf5b2a3cbc9cd900f824a41aa3aabd1833",
+  "source_file": "content/lessons/C2/C2-U11-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U11-L01--2026.10.22.1--text--7466f7a1f0--normal.mp3",
+  "slow_file": "content/audio/files/C2-U11-L01--2026.10.22.1--text--7466f7a1f0--slow.mp3",
+  "duration_seconds": 392.4659410430839,
+  "slow_duration_seconds": 442.876462585034,
+  "cues": [
+    {
+      "text": "Autorka krátké eseje začínala slovy: Město mě každé ráno budí cizími kroky. Editor navrhl větu obyvatelé města jsou ráno vystaveni hluku chodců. Druhá formulace působila neutrálněji, ale zároveň změnila předmět textu. Osobní zkušenost se proměnila v obecné tvrzení o obyvatelích a obraz kroků v technicky znějící kategorii hluku. Nešlo už pouze o stylistické uhlazení. Autorka chtěla zkoumat svůj vztah k městu, nikoli předložit zprávu o podmínkách všech lidí, kteří v něm žijí.",
+      "index": 0,
+      "role": "text",
+      "parts": [
+        "Autorka krátké eseje začínala slovy: Město mě každé ráno budí cizími kroky.",
+        "Editor navrhl větu obyvatelé města jsou ráno vystaveni hluku chodců.",
+        "Druhá formulace působila neutrálněji, ale zároveň změnila předmět textu.",
+        "Osobní zkušenost se proměnila v obecné tvrzení o obyvatelích a obraz kroků v technicky znějící kategorii hluku.",
+        "Nešlo už pouze o stylistické uhlazení.",
+        "Autorka chtěla zkoumat svůj vztah k městu, nikoli předložit zprávu o podmínkách všech lidí, kteří v něm žijí."
+      ],
+      "start": 0.0,
+      "end": 43.13709750566893,
+      "sentences": [
+        {
+          "text": "Autorka krátké eseje začínala slovy: Město mě každé ráno budí cizími kroky.",
+          "start": 0.0,
+          "end": 7.1401360544217685,
+          "slow_start": 0.0,
+          "slow_end": 7.9760544217687075
+        },
+        {
+          "text": "Editor navrhl větu obyvatelé města jsou ráno vystaveni hluku chodců.",
+          "start": 7.320136054421769,
+          "end": 13.218004535147392,
+          "slow_start": 8.156054421768708,
+          "slow_end": 14.971111111111112
+        },
+        {
+          "text": "Druhá formulace působila neutrálněji, ale zároveň změnila předmět textu.",
+          "start": 13.398004535147392,
+          "end": 20.53814058956916,
+          "slow_start": 15.151111111111112,
+          "slow_end": 23.266485260770974
+        },
+        {
+          "text": "Osobní zkušenost se proměnila v obecné tvrzení o obyvatelích a obraz kroků v technicky znějící kategorii hluku.",
+          "start": 20.71814058956916,
+          "end": 30.04095238095238,
+          "slow_start": 23.446485260770974,
+          "slow_end": 34.26698412698413
+        },
+        {
+          "text": "Nešlo už pouze o stylistické uhlazení.",
+          "start": 30.22095238095238,
+          "end": 33.65750566893424,
+          "slow_start": 34.44698412698413,
+          "slow_end": 38.28988662131519
+        },
+        {
+          "text": "Autorka chtěla zkoumat svůj vztah k městu, nikoli předložit zprávu o podmínkách všech lidí, kteří v něm žijí.",
+          "start": 33.83750566893424,
+          "end": 43.13709750566893,
+          "slow_start": 38.46988662131519,
+          "slow_end": 48.791156462585036
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 48.791156462585036
+    },
+    {
+      "text": "Při druhém čtení se editor zeptal, jakou práci má první věta vykonat. Má čtenáře uvést do zvukového vjemu, ukázat odstup od okolí a připravit pozdější proměnu postoje. V takovém případě nebylo nutné metaforu odstranit. Bylo ale možné zkontrolovat, zda navazující věty její význam zbytečně neopakují. Autorka následně vyškrtla vysvětlení, že město samozřejmě není živá bytost. Čtenář je nepotřeboval a rytmus úvodu se jím rozpadal. Přesnost literárního textu nevyžaduje vysvětlit každý obraz doslovně, pokud jeho funkce zůstává srozumitelná.",
+      "index": 1,
+      "role": "text",
+      "parts": [
+        "Při druhém čtení se editor zeptal, jakou práci má první věta vykonat.",
+        "Má čtenáře uvést do zvukového vjemu, ukázat odstup od okolí a připravit pozdější proměnu postoje.",
+        "V takovém případě nebylo nutné metaforu odstranit.",
+        "Bylo ale možné zkontrolovat, zda navazující věty její význam zbytečně neopakují.",
+        "Autorka následně vyškrtla vysvětlení, že město samozřejmě není živá bytost.",
+        "Čtenář je nepotřeboval a rytmus úvodu se jím rozpadal.",
+        "Přesnost literárního textu nevyžaduje vysvětlit každý obraz doslovně, pokud jeho funkce zůstává srozumitelná."
+      ],
+      "start": 43.31709750566893,
+      "end": 93.658231292517,
+      "sentences": [
+        {
+          "text": "Při druhém čtení se editor zeptal, jakou práci má první věta vykonat.",
+          "start": 43.31709750566893,
+          "end": 49.43555555555555,
+          "slow_start": 48.971156462585036,
+          "slow_end": 55.635283446712016
+        },
+        {
+          "text": "Má čtenáře uvést do zvukového vjemu, ukázat odstup od okolí a připravit pozdější proměnu postoje.",
+          "start": 49.61555555555555,
+          "end": 58.53201814058957,
+          "slow_start": 55.815283446712016,
+          "slow_end": 65.74181405895692
+        },
+        {
+          "text": "V takovém případě nebylo nutné metaforu odstranit.",
+          "start": 58.71201814058957,
+          "end": 63.11219954648526,
+          "slow_start": 65.92181405895691,
+          "slow_end": 70.86766439909297
+        },
+        {
+          "text": "Bylo ale možné zkontrolovat, zda navazující věty její význam zbytečně neopakují.",
+          "start": 63.292199546485264,
+          "end": 70.61809523809524,
+          "slow_start": 71.04766439909297,
+          "slow_end": 79.49972789115647
+        },
+        {
+          "text": "Autorka následně vyškrtla vysvětlení, že město samozřejmě není živá bytost.",
+          "start": 70.79809523809524,
+          "end": 77.58993197278912,
+          "slow_start": 79.67972789115646,
+          "slow_end": 87.17977324263039
+        },
+        {
+          "text": "Čtenář je nepotřeboval a rytmus úvodu se jím rozpadal.",
+          "start": 77.76993197278911,
+          "end": 82.90154195011338,
+          "slow_start": 87.35977324263038,
+          "slow_end": 93.12993197278911
+        },
+        {
+          "text": "Přesnost literárního textu nevyžaduje vysvětlit každý obraz doslovně, pokud jeho funkce zůstává srozumitelná.",
+          "start": 83.08154195011338,
+          "end": 93.658231292517,
+          "slow_start": 93.30993197278912,
+          "slow_end": 105.23337868480725
+        }
+      ],
+      "slow_start": 48.971156462585036,
+      "slow_end": 105.23337868480725
+    },
+    {
+      "text": "Jiný odstavec ovšem skutečnou opravu potřeboval. Autorka napsala, že už nikdo v sousedství nikoho nezdraví. Později přitom popsala prodavače, který ji každý den oslovuje jménem. Editor nepovažoval tento rozpor automaticky za chybu, protože první věta mohla vyjadřovat nadsázku a momentální náladu. Požádal však autorku, aby se rozhodla, zda chce rozpor přiznat jako součást vypravěččina pohledu. Nová verze zněla: Myslela jsem, že už tu nikdo nikoho nezdraví. Pak na mě prodavač zavolal jménem. Rozpor se změnil v událost, která posouvá vyprávění.",
+      "index": 2,
+      "role": "text",
+      "parts": [
+        "Jiný odstavec ovšem skutečnou opravu potřeboval.",
+        "Autorka napsala, že už nikdo v sousedství nikoho nezdraví.",
+        "Později přitom popsala prodavače, který ji každý den oslovuje jménem.",
+        "Editor nepovažoval tento rozpor automaticky za chybu, protože první věta mohla vyjadřovat nadsázku a momentální náladu.",
+        "Požádal však autorku, aby se rozhodla, zda chce rozpor přiznat jako součást vypravěččina pohledu.",
+        "Nová verze zněla: Myslela jsem, že už tu nikdo nikoho nezdraví.",
+        "Pak na mě prodavač zavolal jménem.",
+        "Rozpor se změnil v událost, která posouvá vyprávění."
+      ],
+      "start": 93.83823129251701,
+      "end": 143.67437641723356,
+      "sentences": [
+        {
+          "text": "Jiný odstavec ovšem skutečnou opravu potřeboval.",
+          "start": 93.83823129251701,
+          "end": 98.44739229024944,
+          "slow_start": 105.41337868480726,
+          "slow_end": 110.8004081632653
+        },
+        {
+          "text": "Autorka napsala, že už nikdo v sousedství nikoho nezdraví.",
+          "start": 98.62739229024943,
+          "end": 103.34104308390023,
+          "slow_start": 110.98040816326531,
+          "slow_end": 116.39065759637188
+        },
+        {
+          "text": "Později přitom popsala prodavače, který ji každý den oslovuje jménem.",
+          "start": 103.52104308390022,
+          "end": 109.54662131519274,
+          "slow_start": 116.57065759637189,
+          "slow_end": 123.4437641723356
+        },
+        {
+          "text": "Editor nepovažoval tento rozpor automaticky za chybu, protože první věta mohla vyjadřovat nadsázku a momentální náladu.",
+          "start": 109.72662131519274,
+          "end": 120.50068027210884,
+          "slow_start": 123.6237641723356,
+          "slow_end": 135.84907029478458
+        },
+        {
+          "text": "Požádal však autorku, aby se rozhodla, zda chce rozpor přiznat jako součást vypravěččina pohledu.",
+          "start": 120.68068027210884,
+          "end": 129.82934240362812,
+          "slow_start": 136.0290702947846,
+          "slow_end": 146.11814058956915
+        },
+        {
+          "text": "Nová verze zněla: Myslela jsem, že už tu nikdo nikoho nezdraví.",
+          "start": 130.00934240362812,
+          "end": 135.62857142857143,
+          "slow_start": 146.29814058956916,
+          "slow_end": 152.57913832199546
+        },
+        {
+          "text": "Pak na mě prodavač zavolal jménem.",
+          "start": 135.80857142857144,
+          "end": 138.75750566893424,
+          "slow_start": 152.75913832199547,
+          "slow_end": 156.06798185941042
+        },
+        {
+          "text": "Rozpor se změnil v událost, která posouvá vyprávění.",
+          "start": 138.93750566893425,
+          "end": 143.67437641723356,
+          "slow_start": 156.24798185941043,
+          "slow_end": 161.64662131519273
+        }
+      ],
+      "slow_start": 105.41337868480726,
+      "slow_end": 161.64662131519273
+    },
+    {
+      "text": "Důležitá byla i délka vět. V popisu rušné křižovatky autorka použila souvětí, které spojovalo zvuky, pohyb a drobné překážky do jednoho proudu. Editor je původně rozbil na pět krátkých vět. Text byl přehledný, ale ztratil pocit přetížení, který měl čtenář zakusit. V jiném místě naopak krátká věta otevřela důležitý obrat: Tentokrát jsem se zastavila. O jejím účinku nerozhodoval samotný počet slov, nýbrž vztah k okolnímu rytmu. Jednotný zákaz dlouhých vět by odstranil právě kontrast, na němž pasáž stavěla.",
+      "index": 3,
+      "role": "text",
+      "parts": [
+        "Důležitá byla i délka vět.",
+        "V popisu rušné křižovatky autorka použila souvětí, které spojovalo zvuky, pohyb a drobné překážky do jednoho proudu.",
+        "Editor je původně rozbil na pět krátkých vět.",
+        "Text byl přehledný, ale ztratil pocit přetížení, který měl čtenář zakusit.",
+        "V jiném místě naopak krátká věta otevřela důležitý obrat: Tentokrát jsem se zastavila.",
+        "O jejím účinku nerozhodoval samotný počet slov, nýbrž vztah k okolnímu rytmu.",
+        "Jednotný zákaz dlouhých vět by odstranil právě kontrast, na němž pasáž stavěla."
+      ],
+      "start": 143.85437641723357,
+      "end": 190.06235827664398,
+      "sentences": [
+        {
+          "text": "Důležitá byla i délka vět.",
+          "start": 143.85437641723357,
+          "end": 146.48984126984126,
+          "slow_start": 161.82662131519274,
+          "slow_end": 164.57818594104307
+        },
+        {
+          "text": "V popisu rušné křižovatky autorka použila souvětí, které spojovalo zvuky, pohyb a drobné překážky do jednoho proudu.",
+          "start": 146.66984126984127,
+          "end": 156.1784126984127,
+          "slow_start": 164.75818594104308,
+          "slow_end": 175.48580498866212
+        },
+        {
+          "text": "Editor je původně rozbil na pět krátkých vět.",
+          "start": 156.3584126984127,
+          "end": 160.49156462585034,
+          "slow_start": 175.66580498866213,
+          "slow_end": 180.27496598639456
+        },
+        {
+          "text": "Text byl přehledný, ale ztratil pocit přetížení, který měl čtenář zakusit.",
+          "start": 160.67156462585035,
+          "end": 167.718820861678,
+          "slow_start": 180.45496598639457,
+          "slow_end": 188.3265306122449
+        },
+        {
+          "text": "V jiném místě naopak krátká věta otevřela důležitý obrat: Tentokrát jsem se zastavila.",
+          "start": 167.89882086167802,
+          "end": 175.67750566893423,
+          "slow_start": 188.5065306122449,
+          "slow_end": 197.41138321995464
+        },
+        {
+          "text": "O jejím účinku nerozhodoval samotný počet slov, nýbrž vztah k okolnímu rytmu.",
+          "start": 175.85750566893424,
+          "end": 182.77705215419502,
+          "slow_start": 197.59138321995465,
+          "slow_end": 205.33523809523808
+        },
+        {
+          "text": "Jednotný zákaz dlouhých vět by odstranil právě kontrast, na němž pasáž stavěla.",
+          "start": 182.957052154195,
+          "end": 190.06235827664398,
+          "slow_start": 205.5152380952381,
+          "slow_end": 213.64222222222222
+        }
+      ],
+      "slow_start": 161.82662131519274,
+      "slow_end": 213.64222222222222
+    },
+    {
+      "text": "Při práci se slovosledem si oba všimli rozdílu mezi větami prodavač mě oslovil jménem a jménem mě oslovil prodavač. V prvním případě může být novou informací způsob oslovení, ve druhém totožnost člověka, který jej použil; konkrétní důraz závisí i na kontextu a při hlasitém čtení na intonaci. Editor proto neposouval větné členy pouze kvůli pestrosti. Ptal se, na jakou nevyslovenou otázku věta odpovídá a co čtenář v daném okamžiku již ví. Styl se zde ukázal jako organizace pozornosti, ne jen jako výběr ozdobných slov.",
+      "index": 4,
+      "role": "text",
+      "parts": [
+        "Při práci se slovosledem si oba všimli rozdílu mezi větami prodavač mě oslovil jménem a jménem mě oslovil prodavač.",
+        "V prvním případě může být novou informací způsob oslovení, ve druhém totožnost člověka, který jej použil; konkrétní důraz závisí i na kontextu a při hlasitém čtení na intonaci.",
+        "Editor proto neposouval větné členy pouze kvůli pestrosti.",
+        "Ptal se, na jakou nevyslovenou otázku věta odpovídá a co čtenář v daném okamžiku již ví.",
+        "Styl se zde ukázal jako organizace pozornosti, ne jen jako výběr ozdobných slov."
+      ],
+      "start": 190.24235827664398,
+      "end": 238.71419501133786,
+      "sentences": [
+        {
+          "text": "Při práci se slovosledem si oba všimli rozdílu mezi větami prodavač mě oslovil jménem a jménem mě oslovil prodavač.",
+          "start": 190.24235827664398,
+          "end": 201.26022675736962,
+          "slow_start": 213.82222222222222,
+          "slow_end": 226.5815873015873
+        },
+        {
+          "text": "V prvním případě může být novou informací způsob oslovení, ve druhém totožnost člověka, který jej použil; konkrétní důraz závisí i na kontextu a při hlasitém čtení na intonaci.",
+          "start": 201.4402267573696,
+          "end": 217.28784580498865,
+          "slow_start": 226.7615873015873,
+          "slow_end": 244.90798185941043
+        },
+        {
+          "text": "Editor proto neposouval větné členy pouze kvůli pestrosti.",
+          "start": 217.46784580498866,
+          "end": 222.75038548752835,
+          "slow_start": 245.08798185941043,
+          "slow_end": 251.00907029478458
+        },
+        {
+          "text": "Ptal se, na jakou nevyslovenou otázku věta odpovídá a co čtenář v daném okamžiku již ví.",
+          "start": 222.93038548752835,
+          "end": 231.10380952380953,
+          "slow_start": 251.18907029478459,
+          "slow_end": 260.37256235827664
+        },
+        {
+          "text": "Styl se zde ukázal jako organizace pozornosti, ne jen jako výběr ozdobných slov.",
+          "start": 231.28380952380954,
+          "end": 238.71419501133786,
+          "slow_start": 260.55256235827665,
+          "slow_end": 268.96979591836737
+        }
+      ],
+      "slow_start": 213.82222222222222,
+      "slow_end": 268.96979591836737
+    },
+    {
+      "text": "Autorka chtěla zachovat některá opakování. Slovo kroky se vracelo při ranním podráždění, při setkání s prodavačem i na konci, kdy sama šla za někým, kdo zapomněl tašku. Mechanické nahrazení výrazem chůze, pohyb nebo zvuk by rozpojilo motiv. Jinde však opakovala obecné hodnocení zajímavý tak často, že se vytratilo, co ji vlastně zaujalo. Tam editor žádal konkrétní detail. Rozdíl mezi funkčním návratem slova a bezděčnou výplní se nedá zjistit pouhým počítáním výskytů; vyžaduje číst, co se při každém návratu mění.",
+      "index": 5,
+      "role": "text",
+      "parts": [
+        "Autorka chtěla zachovat některá opakování.",
+        "Slovo kroky se vracelo při ranním podráždění, při setkání s prodavačem i na konci, kdy sama šla za někým, kdo zapomněl tašku.",
+        "Mechanické nahrazení výrazem chůze, pohyb nebo zvuk by rozpojilo motiv.",
+        "Jinde však opakovala obecné hodnocení zajímavý tak často, že se vytratilo, co ji vlastně zaujalo.",
+        "Tam editor žádal konkrétní detail.",
+        "Rozdíl mezi funkčním návratem slova a bezděčnou výplní se nedá zjistit pouhým počítáním výskytů; vyžaduje číst, co se při každém návratu mění."
+      ],
+      "start": 238.89419501133787,
+      "end": 285.7697052154195,
+      "sentences": [
+        {
+          "text": "Autorka chtěla zachovat některá opakování.",
+          "start": 238.89419501133787,
+          "end": 242.4004081632653,
+          "slow_start": 269.1497959183674,
+          "slow_end": 273.23650793650796
+        },
+        {
+          "text": "Slovo kroky se vracelo při ranním podráždění, při setkání s prodavačem i na konci, kdy sama šla za někým, kdo zapomněl tašku.",
+          "start": 242.5804081632653,
+          "end": 253.30802721088435,
+          "slow_start": 273.4165079365079,
+          "slow_end": 285.3863945578231
+        },
+        {
+          "text": "Mechanické nahrazení výrazem chůze, pohyb nebo zvuk by rozpojilo motiv.",
+          "start": 253.48802721088435,
+          "end": 260.0128344671202,
+          "slow_start": 285.5663945578231,
+          "slow_end": 292.8574603174603
+        },
+        {
+          "text": "Jinde však opakovala obecné hodnocení zajímavý tak často, že se vytratilo, co ji vlastně zaujalo.",
+          "start": 260.1928344671202,
+          "end": 268.99319727891157,
+          "slow_start": 293.03746031746033,
+          "slow_end": 302.96399092970523
+        },
+        {
+          "text": "Tam editor žádal konkrétní detail.",
+          "start": 269.1731972789116,
+          "end": 272.50526077097504,
+          "slow_start": 303.14399092970524,
+          "slow_end": 306.87079365079364
+        },
+        {
+          "text": "Rozdíl mezi funkčním návratem slova a bezděčnou výplní se nedá zjistit pouhým počítáním výskytů; vyžaduje číst, co se při každém návratu mění.",
+          "start": 272.68526077097505,
+          "end": 285.7697052154195,
+          "slow_start": 307.05079365079365,
+          "slow_end": 321.87673469387755
+        }
+      ],
+      "slow_start": 269.1497959183674,
+      "slow_end": 321.87673469387755
+    },
+    {
+      "text": "Závěrečná verze zůstala osobní a mírně ironická. Nezískala hlas profesionálního mluvčího instituce ani soubor univerzálních pravd o městě. Získala však jasnější hranici mezi náladou vypravěčky, pozorovaným dějem a pozdějším přehodnocením. Editor u větších změn uvedl důvod a autorka mohla některé návrhy odmítnout, pokud věděla proč. Taková spolupráce předpokládá, že dobré psaní nemá jedinou podobu. Existují ovšem rozpoznatelné problémy, které lze ukázat: nezamýšlené zmatení, ztráta návaznosti, neudržitelná generalizace nebo výraz, který tvrdí jinou věc, než autor zamýšlel.",
+      "index": 6,
+      "role": "text",
+      "parts": [
+        "Závěrečná verze zůstala osobní a mírně ironická.",
+        "Nezískala hlas profesionálního mluvčího instituce ani soubor univerzálních pravd o městě.",
+        "Získala však jasnější hranici mezi náladou vypravěčky, pozorovaným dějem a pozdějším přehodnocením.",
+        "Editor u větších změn uvedl důvod a autorka mohla některé návrhy odmítnout, pokud věděla proč.",
+        "Taková spolupráce předpokládá, že dobré psaní nemá jedinou podobu.",
+        "Existují ovšem rozpoznatelné problémy, které lze ukázat: nezamýšlené zmatení, ztráta návaznosti, neudržitelná generalizace nebo výraz, který tvrdí jinou věc, než autor zamýšlel."
+      ],
+      "start": 285.9497052154195,
+      "end": 340.3833106575964,
+      "sentences": [
+        {
+          "text": "Závěrečná verze zůstala osobní a mírně ironická.",
+          "start": 285.9497052154195,
+          "end": 290.5240362811791,
+          "slow_start": 322.05673469387756,
+          "slow_end": 327.2231746031746
+        },
+        {
+          "text": "Nezískala hlas profesionálního mluvčího instituce ani soubor univerzálních pravd o městě.",
+          "start": 290.7040362811791,
+          "end": 298.85424036281177,
+          "slow_start": 327.4031746031746,
+          "slow_end": 336.865306122449
+        },
+        {
+          "text": "Získala však jasnější hranici mezi náladou vypravěčky, pozorovaným dějem a pozdějším přehodnocením.",
+          "start": 299.0342403628118,
+          "end": 307.7997732426304,
+          "slow_start": 337.045306122449,
+          "slow_end": 347.1575963718821
+        },
+        {
+          "text": "Editor u větších změn uvedl důvod a autorka mohla některé návrhy odmítnout, pokud věděla proč.",
+          "start": 307.97977324263036,
+          "end": 316.72208616780046,
+          "slow_start": 347.3375963718821,
+          "slow_end": 357.2409070294785
+        },
+        {
+          "text": "Taková spolupráce předpokládá, že dobré psaní nemá jedinou podobu.",
+          "start": 316.90208616780046,
+          "end": 322.66063492063495,
+          "slow_start": 357.4209070294785,
+          "slow_end": 364.01537414965986
+        },
+        {
+          "text": "Existují ovšem rozpoznatelné problémy, které lze ukázat: nezamýšlené zmatení, ztráta návaznosti, neudržitelná generalizace nebo výraz, který tvrdí jinou věc, než autor zamýšlel.",
+          "start": 322.8406349206349,
+          "end": 340.3833106575964,
+          "slow_start": 364.19537414965987,
+          "slow_end": 384.1413151927438
+        }
+      ],
+      "slow_start": 322.05673469387756,
+      "slow_end": 384.1413151927438
+    },
+    {
+      "text": "Při vlastním nácviku je proto užitečné vytvořit dvě alternativní verze stejného odstavce a vysvětlit, jaký účinek každá sleduje. Jedna může urychlit děj, druhá dát prostor rozporu; jedna osloví známého čtenáře, druhá potřebuje doplnit souvislosti. Potom je třeba vybrat podle účelu celého textu, nikoli podle toho, která věta izolovaně zní nejchytřeji. Vyspělý autorský hlas není neměnný zvyk, který se nesmí dotknout revize. Je to vědomá schopnost zachovat vlastní perspektivu a současně převzít odpovědnost za to, co konkrétní formulace čtenáři skutečně umožňuje pochopit.",
+      "index": 7,
+      "role": "text",
+      "parts": [
+        "Při vlastním nácviku je proto užitečné vytvořit dvě alternativní verze stejného odstavce a vysvětlit, jaký účinek každá sleduje.",
+        "Jedna může urychlit děj, druhá dát prostor rozporu; jedna osloví známého čtenáře, druhá potřebuje doplnit souvislosti.",
+        "Potom je třeba vybrat podle účelu celého textu, nikoli podle toho, která věta izolovaně zní nejchytřeji.",
+        "Vyspělý autorský hlas není neměnný zvyk, který se nesmí dotknout revize.",
+        "Je to vědomá schopnost zachovat vlastní perspektivu a současně převzít odpovědnost za to, co konkrétní formulace čtenáři skutečně umožňuje pochopit."
+      ],
+      "start": 340.5633106575964,
+      "end": 392.2859410430839,
+      "sentences": [
+        {
+          "text": "Při vlastním nácviku je proto užitečné vytvořit dvě alternativní verze stejného odstavce a vysvětlit, jaký účinek každá sleduje.",
+          "start": 340.5633106575964,
+          "end": 352.64929705215417,
+          "slow_start": 384.3213151927438,
+          "slow_end": 397.8701587301587
+        },
+        {
+          "text": "Jedna může urychlit děj, druhá dát prostor rozporu; jedna osloví známého čtenáře, druhá potřebuje doplnit souvislosti.",
+          "start": 352.8292970521542,
+          "end": 363.324716553288,
+          "slow_start": 398.0501587301587,
+          "slow_end": 409.7646258503401
+        },
+        {
+          "text": "Potom je třeba vybrat podle účelu celého textu, nikoli podle toho, která věta izolovaně zní nejchytřeji.",
+          "start": 363.504716553288,
+          "end": 372.87396825396826,
+          "slow_start": 409.9446258503401,
+          "slow_end": 420.8812244897959
+        },
+        {
+          "text": "Vyspělý autorský hlas není neměnný zvyk, který se nesmí dotknout revize.",
+          "start": 373.05396825396826,
+          "end": 379.1608163265306,
+          "slow_start": 421.0612244897959,
+          "slow_end": 428.0039909297052
+        },
+        {
+          "text": "Je to vědomá schopnost zachovat vlastní perspektivu a současně převzít odpovědnost za to, co konkrétní formulace čtenáři skutečně umožňuje pochopit.",
+          "start": 379.3408163265306,
+          "end": 392.2859410430839,
+          "slow_start": 428.1839909297052,
+          "slow_end": 442.696462585034
+        }
+      ],
+      "slow_start": 384.3213151927438,
+      "slow_end": 442.696462585034
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "2abc9d6b0d67a1e21f2cfb0d5768300ee44c3a81775df8d147f35e899a85f06b",
+    "slow": "f2fc486b903647991a68459e2786fbe766460e004a789ac68fbcc7b44e4bdad8"
+  },
+  "reused_from_track_id": "C2-U11-L01--2026.10.22.1--text"
+}

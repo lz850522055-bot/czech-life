@@ -1,0 +1,145 @@
+{
+  "id": "Pre-A1-U02-L01--2026.10.23.1--vocabulary",
+  "lesson_id": "Pre-A1-U02-L01",
+  "content_version": "2026.10.23.1",
+  "level": "Pre-A1",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Mám pas.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Mám pas."
+      ]
+    },
+    {
+      "text": "Pás je černý.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Pás je černý."
+      ]
+    },
+    {
+      "text": "To je byt.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "To je byt."
+      ]
+    },
+    {
+      "text": "Chci být doma.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Chci být doma."
+      ]
+    }
+  ],
+  "text_sha256": "51c104fca6067f72b4a068e43490788d940dd9415a6686da64d596475240bf29",
+  "source_file": "content/lessons/Pre-A1/Pre-A1-U02-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/Pre-A1-U02-L01--2026.10.22.1--vocabulary--51c104fca6--normal.mp3",
+  "slow_file": "content/audio/files/Pre-A1-U02-L01--2026.10.22.1--vocabulary--51c104fca6--slow.mp3",
+  "duration_seconds": 5.433650793650794,
+  "slow_duration_seconds": 5.816780045351474,
+  "cues": [
+    {
+      "text": "Mám pas.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Mám pas."
+      ],
+      "start": 0.0,
+      "end": 1.230657596371882,
+      "sentences": [
+        {
+          "text": "Mám pas.",
+          "start": 0.0,
+          "end": 1.230657596371882,
+          "slow_start": 0.0,
+          "slow_end": 1.3119274376417234
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.3119274376417234
+    },
+    {
+      "text": "Pás je černý.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Pás je černý."
+      ],
+      "start": 1.4106575963718821,
+      "end": 2.7690249433106575,
+      "sentences": [
+        {
+          "text": "Pás je černý.",
+          "start": 1.4106575963718821,
+          "end": 2.7690249433106575,
+          "slow_start": 1.4919274376417233,
+          "slow_end": 2.908344671201814
+        }
+      ],
+      "slow_start": 1.4919274376417233,
+      "slow_end": 2.908344671201814
+    },
+    {
+      "text": "To je byt.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "To je byt."
+      ],
+      "start": 2.9490249433106577,
+      "end": 3.8778231292517007,
+      "sentences": [
+        {
+          "text": "To je byt.",
+          "start": 2.9490249433106577,
+          "end": 3.8778231292517007,
+          "slow_start": 3.088344671201814,
+          "slow_end": 4.14485260770975
+        }
+      ],
+      "slow_start": 3.088344671201814,
+      "slow_end": 4.14485260770975
+    },
+    {
+      "text": "Chci být doma.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Chci být doma."
+      ],
+      "start": 4.057823129251701,
+      "end": 5.2536507936507935,
+      "sentences": [
+        {
+          "text": "Chci být doma.",
+          "start": 4.057823129251701,
+          "end": 5.2536507936507935,
+          "slow_start": 4.324852607709751,
+          "slow_end": 5.636780045351474
+        }
+      ],
+      "slow_start": 4.324852607709751,
+      "slow_end": 5.636780045351474
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "96c1d9e85616b50eb4bb109bcc2579ced65f34ace40c810b8c6f508c35b11f4b",
+    "slow": "5a32e8fc9f4548e9ba484ec71de2dac6fe4a0c376f1347231c3c7e00cd750ce4"
+  },
+  "reused_from_track_id": "Pre-A1-U02-L01--2026.10.22.1--vocabulary"
+}

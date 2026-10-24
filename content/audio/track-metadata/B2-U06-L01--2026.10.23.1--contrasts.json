@@ -1,0 +1,58 @@
+{
+  "id": "B2-U06-L01--2026.10.23.1--contrasts",
+  "lesson_id": "B2-U06-L01",
+  "content_version": "2026.10.23.1",
+  "level": "B2",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "ano. ano, ale.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "ano. ano, ale."
+      ]
+    }
+  ],
+  "text_sha256": "b2c80225119af5cece31a0de36b82cf738ac2d833f298826a5897689ce59b873",
+  "source_file": "content/lessons/B2/B2-U06-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B2-U06-L01--2026.10.22.1--contrasts--b2c8022511--normal.mp3",
+  "slow_file": "content/audio/files/B2-U06-L01--2026.10.22.1--contrasts--b2c8022511--slow.mp3",
+  "duration_seconds": 1.689297052154195,
+  "slow_duration_seconds": 1.8634467120181406,
+  "cues": [
+    {
+      "text": "ano. ano, ale.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "ano. ano, ale."
+      ],
+      "start": 0.0,
+      "end": 1.509297052154195,
+      "sentences": [
+        {
+          "text": "ano. ano, ale.",
+          "start": 0.0,
+          "end": 1.509297052154195,
+          "slow_start": 0.0,
+          "slow_end": 1.6834467120181407
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 1.6834467120181407
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "f72682a9c54f5ff63029cdaf47c15c52e19f3be212b70b1951069407f7b69a83",
+    "slow": "a9495552e32fbe6121f6809a79a53fc3f267a515f0c23092c47eab37a72724b8"
+  },
+  "reused_from_track_id": "B2-U06-L01--2026.10.22.1--contrasts"
+}

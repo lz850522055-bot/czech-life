@@ -1,0 +1,1318 @@
+{
+  "id": "B1-U02-L01",
+  "level": "B1",
+  "unit_id": "B1-U02",
+  "order": 34,
+  "version": "2026.10.22.1",
+  "title_zh": "动词体与语境选择",
+  "title_cs": "Práce probíhala, výsledek ještě chyběl",
+  "prerequisites": [
+    "B1-U01-L01"
+  ],
+  "can_do": [
+    "区分做过这件事、正在进行与交出结果",
+    "用体和时间短语说明工作进度",
+    "纠正把过程当完成的误会"
+  ],
+  "scene": "工作进度与动词体",
+  "skills": [
+    "listening",
+    "speaking",
+    "reading",
+    "writing",
+    "interaction",
+    "mediation"
+  ],
+  "knowledge_points": [
+    "aspect-result",
+    "aspect-future-phase"
+  ],
+  "intro_zh": "“我写报告了”可能指忙了一下午，也可能指已经交出成稿。捷语经常用不同动词把这个区别直接说出来；这课练怎样把进度说准。",
+  "lesson_text": [
+    {
+      "id": "s01",
+      "cs": "Včera jsem celé dopoledne psal zprávu o návštěvě skladu. Když se mě vedoucí zeptal, jestli už je hotová, odpověděl jsem příliš rychle: „Ano, psal jsem ji.“ On si myslel, že ji může hned poslat zákazníkovi. Ve skutečnosti jsem však ještě neměl všechny údaje. Uvědomil jsem si, že moje odpověď byla nejasná, i když nebyla sama o sobě gramaticky chybná.",
+      "zh": "昨天我整个上午都在写仓库访问报告。负责人问是否完成，我太快回答“我写了”。他以为可以直接发给客户，但我其实还缺数据。我意识到回答不清楚，尽管句子本身并没有语法错误。",
+      "note_zh": ""
+    },
+    {
+      "id": "s02",
+      "cs": "Opravil jsem se: „Pracoval jsem na ní, ale ještě jsem ji nedokončil. Dvě stránky už jsem napsal a poslední část doplním odpoledne.“ Vedoucí potřeboval znát hlavně výsledek a čas odevzdání, nikoli pouze činnost. Domluvili jsme se, že hotovou zprávu pošlu do čtyř hodin. Kdyby mi někdo neodpověděl včas, měl jsem na chybějící informaci výslovně upozornit.",
+      "zh": "我改口说：我一直在做，但还没完成；已写好两页，最后一部分下午补。负责人主要想知道成果和交付时间，不只是做过什么。我们约定四点前发完整报告。如果有人没及时回复，我要明确标出缺失的信息。",
+      "note_zh": ""
+    },
+    {
+      "id": "s03",
+      "cs": "Odpoledne jsem zavolal do skladu, ověřil jsem počet poškozených krabic a dokončil tabulku. Samotnou kontrolu jsem dělal skoro hodinu. Tabulku jsem ale opravil za deset minut, protože chyba byla jen v jednom sloupci. Potom jsem zprávu znovu četl a nakonec ji přečetl celou. Dvě nepřesné věty jsem přepsal, aby zákazník dobře rozuměl navrženému řešení.",
+      "zh": "下午我打电话到仓库，核实损坏箱子的数量并完成表格。核查本身做了快一小时；修表只花十分钟，因为错误只在一列。之后我重新阅读报告，最终从头读完，还改写两个不准确的句子，让客户理解建议方案。",
+      "note_zh": ""
+    },
+    {
+      "id": "s04",
+      "cs": "Dnes už zprávu nepíšu, pouze čekám na odpověď. Zítra budu připravovat podklady pro další návštěvu a večer připravím konečný seznam otázek. Neznamená to, že každý nedokonavý děj trvá dlouho a každý dokonavý jen chvíli. Důležité je, zda popisuji průběh nebo představím děj jako celek s hranicí. Také krátkou zprávu mohu psát dlouho a dlouhý text nakonec dopsat.",
+      "zh": "今天我不再写报告，只等回复。明天会准备下一次访问资料，晚上做好最终问题单。未完成体不代表每件事都很久，完成体也不代表一瞬间；关键是呈现过程，还是有边界的整体。短消息可能写很久，长文也能最终写完。",
+      "note_zh": ""
+    }
+  ],
+  "grammar": [
+    {
+      "id": "aspect-result",
+      "rule_zh": "“在做什么”与“做到一个结果”是两种看法，不是长短时间的区别。",
+      "detail_zh": "psát/napsat、číst/přečíst、opravovat/opravit 可分别突出过程和整体结果。未完成体过去式也能问是否有过某种活动：Četl jste tu knihu? 并不等于断定没读完。完成体的结果意义仍依赖动词本身和上下文；不能只见前缀就自动判断完成体。",
+      "examples": [
+        {
+          "cs": "Psal jsem zprávu hodinu.",
+          "zh": "我写报告写了一小时。",
+          "note_zh": ""
+        },
+        {
+          "cs": "Napsal jsem zprávu za hodinu.",
+          "zh": "我用一小时写成了报告。",
+          "note_zh": ""
+        }
+      ],
+      "pitfalls": [
+        "psal 不自动保证写完，也不自动证明没写完。",
+        "“完成体=很快”是错误简化。"
+      ],
+      "exceptions": [
+        "一些动词没有常用成对形式，需按词条学习。"
+      ],
+      "term": "未完成体与完成体"
+    },
+    {
+      "id": "aspect-future-phase",
+      "rule_zh": "budu 和“开始做”后通常接未完成体不定式。",
+      "detail_zh": "未来的过程用 budu psát；完成整体用 napíšu。开始写用 začnu psát，不用 začnu napsat。在普通当前进行语境里，完成体 napíšu 不表示“我现在正在写”。půjdu/pojedu 等运动动词未来形式需另学。",
+      "examples": [
+        {
+          "cs": "Zítra budu kontrolovat údaje.",
+          "zh": "明天我会检查数据。",
+          "note_zh": ""
+        },
+        {
+          "cs": "Do večera údaje zkontroluji.",
+          "zh": "我会在晚上之前核查完数据。",
+          "note_zh": ""
+        }
+      ],
+      "pitfalls": [
+        "不要写 budu napsat。",
+        "hodinu 与 za hodinu 在进度对比中作用不同。"
+      ],
+      "exceptions": [
+        "特殊叙事语境可能出现完成体现在形式，入门时不要泛化到当前过程。"
+      ],
+      "term": "体与未来、阶段动词"
+    }
+  ],
+  "vocabulary": [
+    {
+      "lemma": "podklad",
+      "pos": "名词，阳性无生",
+      "forms": "podklady; bez podkladů",
+      "meaning_zh": "依据材料",
+      "collocation": "připravit podklady",
+      "example_cs": "Chybí mi podklady pro zprávu.",
+      "example_zh": "我缺报告的资料。",
+      "confusion_zh": "不等于结论 závěr。"
+    },
+    {
+      "lemma": "dokončit",
+      "pos": "动词，完成体",
+      "forms": "dokončím; dokončil",
+      "meaning_zh": "完成",
+      "collocation": "dokončit tabulku",
+      "example_cs": "Tabulku dokončím večer.",
+      "example_zh": "我晚上完成表格。",
+      "confusion_zh": "过程搭配 dokončovat。"
+    },
+    {
+      "lemma": "odevzdání",
+      "pos": "名词，中性",
+      "forms": "termín odevzdání",
+      "meaning_zh": "提交",
+      "collocation": "čas odevzdání",
+      "example_cs": "Potřebuji znát termín odevzdání.",
+      "example_zh": "我需要知道提交时间。",
+      "confusion_zh": "准备完成不一定已提交。"
+    },
+    {
+      "lemma": "údaj",
+      "pos": "名词，阳性无生",
+      "forms": "údaje; údajů",
+      "meaning_zh": "一项数据、信息",
+      "collocation": "ověřit údaje",
+      "example_cs": "Tyto údaje musíme ověřit.",
+      "example_zh": "这些数据必须核实。",
+      "confusion_zh": "资料整体常用 informace/podklady。"
+    },
+    {
+      "lemma": "sloupec",
+      "pos": "名词，阳性无生",
+      "forms": "sloupce; ve sloupci",
+      "meaning_zh": "列",
+      "collocation": "chyba ve sloupci",
+      "example_cs": "Ve druhém sloupci je chyba.",
+      "example_zh": "第二列有错误。",
+      "confusion_zh": "řádek 是行。"
+    }
+  ],
+  "listening": {
+    "script": [
+      {
+        "cs": "Petra: Už jsi poslal nabídku? Milan: Zatím ne. Dopoledne jsem ji připravoval, ale čekal jsem na cenu dopravy. Teď už cenu znám a nabídku dokončím do hodiny. Petra: Dobře, zákazníkovi tedy řeknu, že ji dostane odpoledne, ne že už odešla.",
+        "zh": "佩特拉：报价发了吗？米兰：还没。上午一直在准备，但在等运费。现在价格知道了，一小时内完成。佩特拉：好，我会告诉客户下午收到，而不是已经发了。",
+        "note_zh": ""
+      }
+    ],
+    "focus_zh": "听出 připravoval 与 poslal 的差别，以及“尚未发送”的事实。",
+    "source": "original"
+  },
+  "pronunciation": {
+    "focus_zh": "分别读 připravoval / připravil，听词干末尾的不同音节。不要为强调完成体把整句话读得更快。",
+    "contrast": [
+      {
+        "a": "psal",
+        "b": "napsal",
+        "note_zh": "增加 na- 会改变词与体，不是单纯延长声音。"
+      }
+    ],
+    "task_zh": "先听一句，再按意义块跟读；录下自然语速版本，对照长短元音、句中停顿和关键词。不要追求机械加速。"
+  },
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "为什么第一段回答造成误会？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "把写过报告的活动当成报告已完成"
+        },
+        {
+          "id": "b",
+          "text": "负责人听错仓库名"
+        },
+        {
+          "id": "c",
+          "text": "报告被删除了"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "负责人询问结果，回答只提活动。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U02-L01-E01",
+      "knowledge_points": [
+        "aspect-result",
+        "aspect-future-phase"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "表格修正用了多久？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "几乎一小时"
+        },
+        {
+          "id": "b",
+          "text": "十分钟"
+        },
+        {
+          "id": "c",
+          "text": "整整上午"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "核查约一小时，修表十分钟，不混淆两件事。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U02-L01-E02",
+      "knowledge_points": [
+        "aspect-result",
+        "aspect-future-phase"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "听：报价目前是什么状态？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "已经发出"
+        },
+        {
+          "id": "b",
+          "text": "还没发，将在一小时内完成"
+        },
+        {
+          "id": "c",
+          "text": "客户已经收到"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "Zatím ne 否定已发送。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "listening"
+      ],
+      "error_category": "comprehension",
+      "audio_text_cs": "Nabídku jsem zatím neposlal. Dopoledne jsem ji připravoval a teď ji do hodiny dokončím.",
+      "id": "B1-U02-L01-E03",
+      "knowledge_points": [
+        "aspect-result",
+        "aspect-future-phase"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "填未完成体不定式：明天会持续写。",
+      "stimulus_cs": "Zítra budu ___ zprávu.",
+      "answer": "psát",
+      "accepted_answers": [
+        "psát"
+      ],
+      "explanation_zh": "budu + 未完成体不定式；napsat 不适用于此结构。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "B1-U02-L01-E04",
+      "knowledge_points": [
+        "aspect-result",
+        "aspect-future-phase"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "填“写成”，第一人称单数未来。",
+      "stimulus_cs": "Do večera zprávu ___.",
+      "answer": "napíšu",
+      "accepted_answers": [
+        "napíšu",
+        "napíši"
+      ],
+      "explanation_zh": "napíšu 是完成体非过去形式，普通语境表示将写好。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "B1-U02-L01-E05",
+      "knowledge_points": [
+        "aspect-result",
+        "aspect-future-phase"
+      ]
+    },
+    {
+      "type": "correct",
+      "prompt_zh": "只改动词体的错误搭配。",
+      "stimulus_cs": "Začnu napsat zprávu.",
+      "answer": "Začnu psát zprávu.",
+      "accepted_answers": [
+        "Začnu psát zprávu."
+      ],
+      "explanation_zh": "开始某活动用未完成体不定式 psát。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "B1-U02-L01-E06",
+      "knowledge_points": [
+        "aspect-result",
+        "aspect-future-phase"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt_zh": "以 Zprávu 开头，表达已写好。",
+      "stimulus_cs": "jsem / Zprávu / už napsal.",
+      "options": [
+        "jsem",
+        "Zprávu",
+        "už napsal."
+      ],
+      "answer": "Zprávu jsem už napsal.",
+      "accepted_answers": [
+        "Zprávu jsem už napsal."
+      ],
+      "explanation_zh": "jsem 紧跟首个意义成分 Zprávu；napsal 突出整体。",
+      "scoring_basis": "本题限定句首及语境；不据一个参考语序否定捷语所有语序变体。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "word_order",
+      "id": "B1-U02-L01-E07",
+      "knowledge_points": [
+        "aspect-result",
+        "aspect-future-phase"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "哪句准确说明“仍在处理，尚未完成”？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pracoval jsem na tom, ale ještě jsem to nedokončil."
+        },
+        {
+          "id": "b",
+          "text": "Dokončil jsem to, ale už je to hotové."
+        },
+        {
+          "id": "c",
+          "text": "Hotové to je."
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "显式写出过程与未完成结果，最能避免误会。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U02-L01-E08",
+      "knowledge_points": [
+        "aspect-result",
+        "aspect-future-phase"
+      ]
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "说出三项任务状态：正在检查、已经完成、明天准备；每项说明时间。",
+      "stimulus_cs": "",
+      "answer": "Dnes kontroluji údaje. Včera jsem dokončil tabulku. Zítra budu připravovat prezentaci a do večera připravím její konečnou verzi.",
+      "accepted_answers": [],
+      "explanation_zh": "完成体与未完成体围绕沟通意图选择。",
+      "rubric": [
+        "三状态区分",
+        "时间明确",
+        "不把全部未来都接 budu"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "error_category": "fluency",
+      "id": "B1-U02-L01-E09",
+      "knowledge_points": [
+        "aspect-result",
+        "aspect-future-phase"
+      ]
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "给负责人写四句进度：写了两页，还缺运费，三点前核实，四点交。",
+      "stimulus_cs": "",
+      "answer": "Dvě stránky už jsem napsal. Chybí mi ještě cena dopravy. Do tří hodin ji ověřím. Hotovou zprávu pošlu do čtyř.",
+      "accepted_answers": [],
+      "explanation_zh": "每句传递一种状态或承诺，信息可执行。",
+      "rubric": [
+        "现状准确",
+        "缺项明确",
+        "两时间不混淆"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U02-L01-E10",
+      "knowledge_points": [
+        "aspect-result",
+        "aspect-future-phase"
+      ]
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "客户说“所以已经发了？”你只完成草稿，请纠正。",
+      "stimulus_cs": "",
+      "answer": "Ještě ne, omlouvám se za nejasnou odpověď. Připravil jsem návrh, ale nabídku jsem zatím neposlal. Odešlu ji po kontrole ceny dopravy.",
+      "accepted_answers": [],
+      "explanation_zh": "先纠正关键事实，避免以含糊“快了”代替解释。",
+      "rubric": [
+        "明确否定已发送",
+        "说明草稿状态",
+        "给下一步"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "error_category": "fluency",
+      "id": "B1-U02-L01-E11",
+      "knowledge_points": [
+        "aspect-result",
+        "aspect-future-phase"
+      ]
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "把“Celé ráno jsem to kontroloval, ale ještě jsem to celé nezkontroloval.”解释给中文同事。",
+      "stimulus_cs": "",
+      "answer": "他说整个早上都在核查，但还没有把所有内容检查完。不能据“检查了一个早上”就认为已经全部完成。",
+      "accepted_answers": [],
+      "explanation_zh": "保留过程持续与范围未完两层信息。",
+      "rubric": [
+        "过程与结果分开",
+        "保留全部范围",
+        "不用额外猜测原因"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U02-L01-E12",
+      "knowledge_points": [
+        "aspect-result",
+        "aspect-future-phase"
+      ]
+    }
+  ],
+  "transfer_task": {
+    "prompt_zh": "换成准备晚餐：列正在做的两项、已经完成的一项、最终结束时间。",
+    "model_answer_cs": "Vařím polévku a připravuji zeleninu. Chléb už jsem nakrájel. Večeři dokončím do sedmi.",
+    "rubric": [
+      "语境改变仍能选体",
+      "已有结果与过程不混",
+      "可独立表达"
+    ]
+  },
+  "review_links": [
+    "B1-U01-L01"
+  ],
+  "sources": [
+    {
+      "source_id": "LANG01",
+      "url": "https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions",
+      "scope": "按实际能做的任务编排能力，不把CEFR说成官方捷语语法课表",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    },
+    {
+      "source_id": "LANG05",
+      "url": "https://www.czechency.org/slovnik/VID",
+      "scope": "体的形式、过程与整体视角、未来及阶段动词的搭配",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    },
+    {
+      "source_id": "LANG06",
+      "url": "https://www.czechency.org/slovnik/SLOVOSLED",
+      "scope": "语序的信息结构及附着词常见第二位置",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    }
+  ],
+  "content_status": "authored_crosschecked_not_native_reviewed",
+  "quality_notes": [
+    "原创课文和练习；规则按所列来源交叉核查，未获得捷语母语教师逐句审校。",
+    "本课级别属于教材编排判断，不代表官方能力认证。",
+    "听力为原创可合成脚本；真人多说话人、地区口音与录音自然度尚待现场核验。"
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "B1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--normal.mp3",
+      "slow_file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U02-L01--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Včera jsem celé dopoledne psal zprávu o návštěvě skladu. Když se mě vedoucí zeptal, jestli už je hotová, odpověděl jsem příliš rychle: „Ano, psal jsem ji.“ On si myslel, že ji může hned poslat zákazníkovi. Ve skutečnosti jsem však ještě neměl všechny údaje. Uvědomil jsem si, že moje odpověď byla nejasná, i když nebyla sama o sobě gramaticky chybná. Opravil jsem se: „Pracoval jsem na ní, ale ještě jsem ji nedokončil. Dvě stránky už jsem napsal a poslední část doplním odpoledne.“ Vedoucí potřeboval znát hlavně výsledek a čas odevzdání, nikoli pouze činnost. Domluvili jsme se, že hotovou zprávu pošlu do čtyř hodin. Kdyby mi někdo neodpověděl včas, měl jsem na chybějící informaci výslovně upozornit. Odpoledne jsem zavolal do skladu, ověřil jsem počet poškozených krabic a dokončil tabulku. Samotnou kontrolu jsem dělal skoro hodinu. Tabulku jsem ale opravil za deset minut, protože chyba byla jen v jednom sloupci. Potom jsem zprávu znovu četl a nakonec ji přečetl celou. Dvě nepřesné věty jsem přepsal, aby zákazník dobře rozuměl navrženému řešení. Dnes už zprávu nepíšu, pouze čekám na odpověď. Zítra budu připravovat podklady pro další návštěvu a večer připravím konečný seznam otázek. Neznamená to, že každý nedokonavý děj trvá dlouho a každý dokonavý jen chvíli. Důležité je, zda popisuji průběh nebo představím děj jako celek s hranicí. Také krátkou zprávu mohu psát dlouho a dlouhý text nakonec dopsat.",
+      "duration_seconds": 129.66113378684807,
+      "slow_duration_seconds": 146.97160997732425,
+      "sha256": "7e30829b4d8338de9d0acd45d9203bd73aba3cf0ee6b860975a01b1ba69f7b7a",
+      "slow_sha256": "1886d9b91278e9e1f167a2aeebeac2bbe1ed7efdbe48cf5826932d0935dc8f5a"
+    },
+    {
+      "lesson_id": "B1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--normal.mp3",
+      "slow_file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U02-L01--2026.10.22.1--text--p0",
+      "asset_id": "B1-U02-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Včera jsem celé dopoledne psal zprávu o návštěvě skladu. Když se mě vedoucí zeptal, jestli už je hotová, odpověděl jsem příliš rychle: „Ano, psal jsem ji.“ On si myslel, že ji může hned poslat zákazníkovi. Ve skutečnosti jsem však ještě neměl všechny údaje. Uvědomil jsem si, že moje odpověď byla nejasná, i když nebyla sama o sobě gramaticky chybná.",
+      "start": 0,
+      "end": 31.451609977324264,
+      "slow_start": 0,
+      "slow_end": 35.54993197278912
+    },
+    {
+      "lesson_id": "B1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--normal.mp3",
+      "slow_file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U02-L01--2026.10.22.1--text--s0",
+      "asset_id": "B1-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Včera jsem celé dopoledne psal zprávu o návštěvě skladu.",
+      "start": 0,
+      "end": 4.655600907029479,
+      "slow_start": 0,
+      "slow_end": 5.259319727891157
+    },
+    {
+      "lesson_id": "B1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--normal.mp3",
+      "slow_file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U02-L01--2026.10.22.1--text--s1",
+      "asset_id": "B1-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Když se mě vedoucí zeptal, jestli už je hotová, odpověděl jsem příliš rychle: „Ano, psal jsem ji.“",
+      "start": 4.8356009070294785,
+      "end": 13.752063492063492,
+      "slow_start": 5.4393197278911565,
+      "slow_end": 15.528390022675737
+    },
+    {
+      "lesson_id": "B1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--normal.mp3",
+      "slow_file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U02-L01--2026.10.22.1--text--s2",
+      "asset_id": "B1-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "On si myslel, že ji může hned poslat zákazníkovi.",
+      "start": 13.932063492063492,
+      "end": 18.309024943310657,
+      "slow_start": 15.708390022675736,
+      "slow_end": 20.781950113378684
+    },
+    {
+      "lesson_id": "B1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--normal.mp3",
+      "slow_file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U02-L01--2026.10.22.1--text--s3",
+      "asset_id": "B1-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 3,
+      "paragraph_index": 0,
+      "sentence_index": 3,
+      "text": "Ve skutečnosti jsem však ještě neměl všechny údaje.",
+      "start": 18.489024943310657,
+      "end": 23.016916099773244,
+      "slow_start": 20.961950113378684,
+      "slow_end": 25.90780045351474
+    },
+    {
+      "lesson_id": "B1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--normal.mp3",
+      "slow_file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U02-L01--2026.10.22.1--text--s4",
+      "asset_id": "B1-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 4,
+      "paragraph_index": 0,
+      "sentence_index": 4,
+      "text": "Uvědomil jsem si, že moje odpověď byla nejasná, i když nebyla sama o sobě gramaticky chybná.",
+      "start": 23.196916099773244,
+      "end": 31.451609977324264,
+      "slow_start": 26.08780045351474,
+      "slow_end": 35.54993197278912
+    },
+    {
+      "lesson_id": "B1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--normal.mp3",
+      "slow_file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U02-L01--2026.10.22.1--text--p1",
+      "asset_id": "B1-U02-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Opravil jsem se: „Pracoval jsem na ní, ale ještě jsem ji nedokončil. Dvě stránky už jsem napsal a poslední část doplním odpoledne.“ Vedoucí potřeboval znát hlavně výsledek a čas odevzdání, nikoli pouze činnost. Domluvili jsme se, že hotovou zprávu pošlu do čtyř hodin. Kdyby mi někdo neodpověděl včas, měl jsem na chybějící informaci výslovně upozornit.",
+      "start": 31.631609977324263,
+      "end": 64.5692970521542,
+      "slow_start": 35.72993197278912,
+      "slow_end": 73.520589569161
+    },
+    {
+      "lesson_id": "B1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--normal.mp3",
+      "slow_file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U02-L01--2026.10.22.1--text--s5",
+      "asset_id": "B1-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 5,
+      "paragraph_index": 1,
+      "sentence_index": 0,
+      "text": "Opravil jsem se: „Pracoval jsem na ní, ale ještě jsem ji nedokončil.",
+      "start": 31.631609977324263,
+      "end": 37.900997732426305,
+      "slow_start": 35.72993197278912,
+      "slow_end": 43.06743764172336
+    },
+    {
+      "lesson_id": "B1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--normal.mp3",
+      "slow_file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U02-L01--2026.10.22.1--text--s6",
+      "asset_id": "B1-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 6,
+      "paragraph_index": 1,
+      "sentence_index": 1,
+      "text": "Dvě stránky už jsem napsal a poslední část doplním odpoledne.“",
+      "start": 38.080997732426304,
+      "end": 43.74666666666667,
+      "slow_start": 43.24743764172336,
+      "slow_end": 49.621315192743765
+    },
+    {
+      "lesson_id": "B1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--normal.mp3",
+      "slow_file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U02-L01--2026.10.22.1--text--s7",
+      "asset_id": "B1-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 7,
+      "paragraph_index": 1,
+      "sentence_index": 2,
+      "text": "Vedoucí potřeboval znát hlavně výsledek a čas odevzdání, nikoli pouze činnost.",
+      "start": 43.92666666666667,
+      "end": 51.54281179138322,
+      "slow_start": 49.801315192743765,
+      "slow_end": 58.49718820861678
+    },
+    {
+      "lesson_id": "B1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--normal.mp3",
+      "slow_file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U02-L01--2026.10.22.1--text--s8",
+      "asset_id": "B1-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 8,
+      "paragraph_index": 1,
+      "sentence_index": 3,
+      "text": "Domluvili jsme se, že hotovou zprávu pošlu do čtyř hodin.",
+      "start": 51.72281179138322,
+      "end": 56.80798185941043,
+      "slow_start": 58.67718820861678,
+      "slow_end": 64.4821768707483
+    },
+    {
+      "lesson_id": "B1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--normal.mp3",
+      "slow_file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U02-L01--2026.10.22.1--text--s9",
+      "asset_id": "B1-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 9,
+      "paragraph_index": 1,
+      "sentence_index": 4,
+      "text": "Kdyby mi někdo neodpověděl včas, měl jsem na chybějící informaci výslovně upozornit.",
+      "start": 56.98798185941043,
+      "end": 64.5692970521542,
+      "slow_start": 64.6621768707483,
+      "slow_end": 73.520589569161
+    },
+    {
+      "lesson_id": "B1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--normal.mp3",
+      "slow_file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U02-L01--2026.10.22.1--text--p2",
+      "asset_id": "B1-U02-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Odpoledne jsem zavolal do skladu, ověřil jsem počet poškozených krabic a dokončil tabulku. Samotnou kontrolu jsem dělal skoro hodinu. Tabulku jsem ale opravil za deset minut, protože chyba byla jen v jednom sloupci. Potom jsem zprávu znovu četl a nakonec ji přečetl celou. Dvě nepřesné věty jsem přepsal, aby zákazník dobře rozuměl navrženému řešení.",
+      "start": 64.74929705215419,
+      "end": 96.71174603174603,
+      "slow_start": 73.700589569161,
+      "slow_end": 109.91229024943311
+    },
+    {
+      "lesson_id": "B1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--normal.mp3",
+      "slow_file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U02-L01--2026.10.22.1--text--s10",
+      "asset_id": "B1-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 10,
+      "paragraph_index": 2,
+      "sentence_index": 0,
+      "text": "Odpoledne jsem zavolal do skladu, ověřil jsem počet poškozených krabic a dokončil tabulku.",
+      "start": 64.74929705215419,
+      "end": 72.89950113378684,
+      "slow_start": 73.700589569161,
+      "slow_end": 82.8724716553288
+    },
+    {
+      "lesson_id": "B1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--normal.mp3",
+      "slow_file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U02-L01--2026.10.22.1--text--s11",
+      "asset_id": "B1-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 11,
+      "paragraph_index": 2,
+      "sentence_index": 1,
+      "text": "Samotnou kontrolu jsem dělal skoro hodinu.",
+      "start": 73.07950113378685,
+      "end": 76.62054421768707,
+      "slow_start": 83.0524716553288,
+      "slow_end": 87.12757369614512
+    },
+    {
+      "lesson_id": "B1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--normal.mp3",
+      "slow_file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U02-L01--2026.10.22.1--text--s12",
+      "asset_id": "B1-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 12,
+      "paragraph_index": 2,
+      "sentence_index": 2,
+      "text": "Tabulku jsem ale opravil za deset minut, protože chyba byla jen v jednom sloupci.",
+      "start": 76.80054421768708,
+      "end": 84.13804988662132,
+      "slow_start": 87.30757369614513,
+      "slow_end": 95.63192743764172
+    },
+    {
+      "lesson_id": "B1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--normal.mp3",
+      "slow_file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U02-L01--2026.10.22.1--text--s13",
+      "asset_id": "B1-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 13,
+      "paragraph_index": 2,
+      "sentence_index": 3,
+      "text": "Potom jsem zprávu znovu četl a nakonec ji přečetl celou.",
+      "start": 84.31804988662131,
+      "end": 89.49609977324263,
+      "slow_start": 95.81192743764173,
+      "slow_end": 101.57047619047619
+    },
+    {
+      "lesson_id": "B1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--normal.mp3",
+      "slow_file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U02-L01--2026.10.22.1--text--s14",
+      "asset_id": "B1-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 14,
+      "paragraph_index": 2,
+      "sentence_index": 4,
+      "text": "Dvě nepřesné věty jsem přepsal, aby zákazník dobře rozuměl navrženému řešení.",
+      "start": 89.67609977324263,
+      "end": 96.71174603174603,
+      "slow_start": 101.75047619047619,
+      "slow_end": 109.91229024943311
+    },
+    {
+      "lesson_id": "B1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--normal.mp3",
+      "slow_file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U02-L01--2026.10.22.1--text--p3",
+      "asset_id": "B1-U02-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Dnes už zprávu nepíšu, pouze čekám na odpověď. Zítra budu připravovat podklady pro další návštěvu a večer připravím konečný seznam otázek. Neznamená to, že každý nedokonavý děj trvá dlouho a každý dokonavý jen chvíli. Důležité je, zda popisuji průběh nebo představím děj jako celek s hranicí. Také krátkou zprávu mohu psát dlouho a dlouhý text nakonec dopsat.",
+      "start": 96.89174603174604,
+      "end": 129.48113378684806,
+      "slow_start": 110.0922902494331,
+      "slow_end": 146.79160997732427
+    },
+    {
+      "lesson_id": "B1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--normal.mp3",
+      "slow_file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U02-L01--2026.10.22.1--text--s15",
+      "asset_id": "B1-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 15,
+      "paragraph_index": 3,
+      "sentence_index": 0,
+      "text": "Dnes už zprávu nepíšu, pouze čekám na odpověď.",
+      "start": 96.89174603174604,
+      "end": 101.39641723356009,
+      "slow_start": 110.0922902494331,
+      "slow_end": 115.18907029478459
+    },
+    {
+      "lesson_id": "B1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--normal.mp3",
+      "slow_file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U02-L01--2026.10.22.1--text--s16",
+      "asset_id": "B1-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 16,
+      "paragraph_index": 3,
+      "sentence_index": 1,
+      "text": "Zítra budu připravovat podklady pro další návštěvu a večer připravím konečný seznam otázek.",
+      "start": 101.5764172335601,
+      "end": 109.43637188208616,
+      "slow_start": 115.36907029478458,
+      "slow_end": 124.25070294784581
+    },
+    {
+      "lesson_id": "B1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--normal.mp3",
+      "slow_file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U02-L01--2026.10.22.1--text--s17",
+      "asset_id": "B1-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 17,
+      "paragraph_index": 3,
+      "sentence_index": 2,
+      "text": "Neznamená to, že každý nedokonavý děj trvá dlouho a každý dokonavý jen chvíli.",
+      "start": 109.61637188208617,
+      "end": 116.44303854875284,
+      "slow_start": 124.4307029478458,
+      "slow_end": 132.16294784580498
+    },
+    {
+      "lesson_id": "B1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--normal.mp3",
+      "slow_file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U02-L01--2026.10.22.1--text--s18",
+      "asset_id": "B1-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 18,
+      "paragraph_index": 3,
+      "sentence_index": 3,
+      "text": "Důležité je, zda popisuji průběh nebo představím děj jako celek s hranicí.",
+      "start": 116.62303854875283,
+      "end": 123.40326530612245,
+      "slow_start": 132.34294784580499,
+      "slow_end": 139.95909297052154
+    },
+    {
+      "lesson_id": "B1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--normal.mp3",
+      "slow_file": "audio/files/B1-U02-L01--2026.10.22.1--text--d6b0282504--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U02-L01--2026.10.22.1--text--s19",
+      "asset_id": "B1-U02-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 19,
+      "paragraph_index": 3,
+      "sentence_index": 4,
+      "text": "Také krátkou zprávu mohu psát dlouho a dlouhý text nakonec dopsat.",
+      "start": 123.58326530612244,
+      "end": 129.48113378684806,
+      "slow_start": 140.13909297052155,
+      "slow_end": 146.79160997732427
+    },
+    {
+      "lesson_id": "B1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U02-L01--2026.10.22.1--listening--0f85e53979--normal.mp3",
+      "slow_file": "audio/files/B1-U02-L01--2026.10.22.1--listening--0f85e53979--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U02-L01--2026.10.22.1--listening",
+      "role": "listening-full",
+      "index": 0,
+      "text": "Petra: Už jsi poslal nabídku? Milan: Zatím ne. Dopoledne jsem ji připravoval, ale čekal jsem na cenu dopravy. Teď už cenu znám a nabídku dokončím do hodiny. Petra: Dobře, zákazníkovi tedy řeknu, že ji dostane odpoledne, ne že už odešla.",
+      "duration_seconds": 22.18108843537415,
+      "slow_duration_seconds": 24.828163265306124,
+      "sha256": "faf8ee3ef489abc66ea879e09aa0dfa2b1bf3a974b90edf9ebeb069aade189ca",
+      "slow_sha256": "66bc13fbeb2fd128eb9cd18f66f71b7c4acd57ff70940f6d8e6bd12229763850"
+    },
+    {
+      "lesson_id": "B1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U02-L01--2026.10.22.1--listening--0f85e53979--normal.mp3",
+      "slow_file": "audio/files/B1-U02-L01--2026.10.22.1--listening--0f85e53979--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U02-L01--2026.10.22.1--listening--p0",
+      "asset_id": "B1-U02-L01--2026.10.22.1--listening",
+      "role": "listening",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Petra: Už jsi poslal nabídku? Milan: Zatím ne. Dopoledne jsem ji připravoval, ale čekal jsem na cenu dopravy. Teď už cenu znám a nabídku dokončím do hodiny. Petra: Dobře, zákazníkovi tedy řeknu, že ji dostane odpoledne, ne že už odešla.",
+      "start": 0,
+      "end": 22.00108843537415,
+      "slow_start": 0,
+      "slow_end": 24.648163265306124
+    },
+    {
+      "lesson_id": "B1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U02-L01--2026.10.22.1--vocabulary--dfbcac7e50--normal.mp3",
+      "slow_file": "audio/files/B1-U02-L01--2026.10.22.1--vocabulary--dfbcac7e50--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U02-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary-full",
+      "index": 0,
+      "text": "Chybí mi podklady pro zprávu. Tabulku dokončím večer. Potřebuji znát termín odevzdání. Tyto údaje musíme ověřit. Ve druhém sloupci je chyba.",
+      "duration_seconds": 13.543265306122448,
+      "slow_duration_seconds": 15.249931972789115,
+      "sha256": "3f21bfc3ab850df882cd1383fbb2b96fa663a1cf4b1a3bdc669e4001c91565be",
+      "slow_sha256": "2d23a61bb90844d5a75933292b2b409bea3f9267be48cd0df5507d4cac7225e7"
+    },
+    {
+      "lesson_id": "B1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U02-L01--2026.10.22.1--vocabulary--dfbcac7e50--normal.mp3",
+      "slow_file": "audio/files/B1-U02-L01--2026.10.22.1--vocabulary--dfbcac7e50--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U02-L01--2026.10.22.1--vocabulary--p0",
+      "asset_id": "B1-U02-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Chybí mi podklady pro zprávu.",
+      "start": 0,
+      "end": 2.36843537414966,
+      "slow_start": 0,
+      "slow_end": 2.716734693877551
+    },
+    {
+      "lesson_id": "B1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U02-L01--2026.10.22.1--vocabulary--dfbcac7e50--normal.mp3",
+      "slow_file": "audio/files/B1-U02-L01--2026.10.22.1--vocabulary--dfbcac7e50--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U02-L01--2026.10.22.1--vocabulary--p1",
+      "asset_id": "B1-U02-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Tabulku dokončím večer.",
+      "start": 2.5484353741496597,
+      "end": 4.905260770975056,
+      "slow_start": 2.896734693877551,
+      "slow_end": 5.578639455782313
+    },
+    {
+      "lesson_id": "B1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U02-L01--2026.10.22.1--vocabulary--dfbcac7e50--normal.mp3",
+      "slow_file": "audio/files/B1-U02-L01--2026.10.22.1--vocabulary--dfbcac7e50--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U02-L01--2026.10.22.1--vocabulary--p2",
+      "asset_id": "B1-U02-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Potřebuji znát termín odevzdání.",
+      "start": 5.085260770975057,
+      "end": 8.11546485260771,
+      "slow_start": 5.758639455782313,
+      "slow_end": 9.18358276643991
+    },
+    {
+      "lesson_id": "B1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U02-L01--2026.10.22.1--vocabulary--dfbcac7e50--normal.mp3",
+      "slow_file": "audio/files/B1-U02-L01--2026.10.22.1--vocabulary--dfbcac7e50--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U02-L01--2026.10.22.1--vocabulary--p3",
+      "asset_id": "B1-U02-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Tyto údaje musíme ověřit.",
+      "start": 8.29546485260771,
+      "end": 10.872879818594104,
+      "slow_start": 9.36358276643991,
+      "slow_end": 12.208027210884353
+    },
+    {
+      "lesson_id": "B1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U02-L01--2026.10.22.1--vocabulary--dfbcac7e50--normal.mp3",
+      "slow_file": "audio/files/B1-U02-L01--2026.10.22.1--vocabulary--dfbcac7e50--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U02-L01--2026.10.22.1--vocabulary--p4",
+      "asset_id": "B1-U02-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 4,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Ve druhém sloupci je chyba.",
+      "start": 11.052879818594104,
+      "end": 13.363265306122448,
+      "slow_start": 12.388027210884355,
+      "slow_end": 15.069931972789115
+    },
+    {
+      "lesson_id": "B1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U02-L01--2026.10.22.1--exercises--d5594fc13e--normal.mp3",
+      "slow_file": "audio/files/B1-U02-L01--2026.10.22.1--exercises--d5594fc13e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U02-L01--2026.10.22.1--exercises",
+      "role": "exercises-full",
+      "index": 0,
+      "text": "Nabídku jsem zatím neposlal. Dopoledne jsem ji připravoval a teď ji do hodiny dokončím.",
+      "duration_seconds": 7.929705215419501,
+      "slow_duration_seconds": 9.009433106575964,
+      "sha256": "f7e0a0e582ab441b8f71977d3217bf4e58fd951a30835336b77ae6135265e947",
+      "slow_sha256": "88cc021b77f092a9598bec3bf5cdc90fb1a8ce8ac797b98edfaa55f7de64f2d0"
+    },
+    {
+      "lesson_id": "B1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U02-L01--2026.10.22.1--exercises--d5594fc13e--normal.mp3",
+      "slow_file": "audio/files/B1-U02-L01--2026.10.22.1--exercises--d5594fc13e--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U02-L01--2026.10.22.1--exercises--p0",
+      "asset_id": "B1-U02-L01--2026.10.22.1--exercises",
+      "role": "exercise",
+      "index": 0,
+      "exercise_id": "B1-U02-L01-E03",
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Nabídku jsem zatím neposlal. Dopoledne jsem ji připravoval a teď ji do hodiny dokončím.",
+      "start": 0,
+      "end": 7.749705215419501,
+      "slow_start": 0,
+      "slow_end": 8.829433106575964
+    },
+    {
+      "lesson_id": "B1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U02-L01--2026.10.22.1--contrasts--c4aa9aec89--normal.mp3",
+      "slow_file": "audio/files/B1-U02-L01--2026.10.22.1--contrasts--c4aa9aec89--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U02-L01--2026.10.22.1--contrasts",
+      "role": "contrasts-full",
+      "index": 0,
+      "text": "psal. napsal.",
+      "duration_seconds": 1.4222675736961452,
+      "slow_duration_seconds": 1.7125170068027211,
+      "sha256": "2a92eff501f0ff8ac6939fb3a5e75ac33189cc07e7f4d4f5e94c57e8411feddc",
+      "slow_sha256": "db1c106d664e130eeb154b9cb96964bd8bd80b9435dc4c522178148bed2eab6a"
+    },
+    {
+      "lesson_id": "B1-U02-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U02-L01--2026.10.22.1--contrasts--c4aa9aec89--normal.mp3",
+      "slow_file": "audio/files/B1-U02-L01--2026.10.22.1--contrasts--c4aa9aec89--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U02-L01--2026.10.22.1--contrasts--p0",
+      "asset_id": "B1-U02-L01--2026.10.22.1--contrasts",
+      "role": "contrast",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "psal. napsal.",
+      "start": 0,
+      "end": 1.242267573696145,
+      "slow_start": 0,
+      "slow_end": 1.5325170068027212
+    }
+  ]
+}

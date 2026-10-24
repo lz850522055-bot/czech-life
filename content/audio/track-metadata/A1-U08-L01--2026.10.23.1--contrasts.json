@@ -1,0 +1,58 @@
+{
+  "id": "A1-U08-L01--2026.10.23.1--contrasts",
+  "lesson_id": "A1-U08-L01",
+  "content_version": "2026.10.23.1",
+  "level": "A1",
+  "group": "contrasts",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "malá voda. malou vodu.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "malá voda. malou vodu."
+      ]
+    }
+  ],
+  "text_sha256": "5043dd1546453d3b1772dcd39cb6b7980d513abc1e7b14f02fbc908718e9df33",
+  "source_file": "content/lessons/A1/A1-U08-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A1-U08-L01--2026.10.22.1--contrasts--5043dd1546--normal.mp3",
+  "slow_file": "content/audio/files/A1-U08-L01--2026.10.22.1--contrasts--5043dd1546--slow.mp3",
+  "duration_seconds": 2.1536961451247167,
+  "slow_duration_seconds": 2.39750566893424,
+  "cues": [
+    {
+      "text": "malá voda. malou vodu.",
+      "index": 0,
+      "role": "contrast",
+      "parts": [
+        "malá voda. malou vodu."
+      ],
+      "start": 0.0,
+      "end": 1.9736961451247166,
+      "sentences": [
+        {
+          "text": "malá voda. malou vodu.",
+          "start": 0.0,
+          "end": 1.9736961451247166,
+          "slow_start": 0.0,
+          "slow_end": 2.2175056689342405
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.2175056689342405
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "9cb77c72eb8bc4b5745b1f59bf885f753be06879dbcaac1d1075fd3ed5c46f67",
+    "slow": "4121062fb8e2e898674df272217f4b6a4ffcfd11b3fea7159c1a85cda7e4f45a"
+  },
+  "reused_from_track_id": "A1-U08-L01--2026.10.22.1--contrasts"
+}

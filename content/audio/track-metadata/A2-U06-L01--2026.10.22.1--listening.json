@@ -1,0 +1,75 @@
+{
+  "id": "A2-U06-L01--2026.10.22.1--listening",
+  "lesson_id": "A2-U06-L01",
+  "content_version": "2026.10.22.1",
+  "level": "A2",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Klíče položte na poličku. Taška už leží pod stolem. Krabici dejte za dveře, ne před ně.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Klíče položte na poličku.",
+        "Taška už leží pod stolem.",
+        "Krabici dejte za dveře, ne před ně."
+      ]
+    }
+  ],
+  "text_sha256": "987a273c3c041019e78d7fd488b8c278616f28c184e653d3a4cd53564e43793d",
+  "source_file": "content/lessons/A2/A2-U06-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/A2-U06-L01--2026.10.22.1--listening--987a273c3c--normal.mp3",
+  "slow_file": "content/audio/files/A2-U06-L01--2026.10.22.1--listening--987a273c3c--slow.mp3",
+  "duration_seconds": 7.610476190476191,
+  "slow_duration_seconds": 8.52766439909297,
+  "cues": [
+    {
+      "text": "Klíče položte na poličku. Taška už leží pod stolem. Krabici dejte za dveře, ne před ně.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Klíče položte na poličku.",
+        "Taška už leží pod stolem.",
+        "Krabici dejte za dveře, ne před ně."
+      ],
+      "start": 0.0,
+      "end": 7.430476190476191,
+      "sentences": [
+        {
+          "text": "Klíče položte na poličku.",
+          "start": 0.0,
+          "end": 2.2871655328798184,
+          "slow_start": 0.0,
+          "slow_end": 2.5425850340136056
+        },
+        {
+          "text": "Taška už leží pod stolem.",
+          "start": 2.4671655328798185,
+          "end": 4.591791383219955,
+          "slow_start": 2.7225850340136053,
+          "slow_end": 5.149070294784581
+        },
+        {
+          "text": "Krabici dejte za dveře, ne před ně.",
+          "start": 4.771791383219955,
+          "end": 7.430476190476191,
+          "slow_start": 5.3290702947845805,
+          "slow_end": 8.34766439909297
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 8.34766439909297
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "220aafe0b70e9dac3e7a9b3a09f198dfd85673d53f6baefe1a5e12c73e0bce58",
+    "slow": "b92710642392edf52b4a86320dda282aa853fb114feabb223f2d8880d93df626"
+  }
+}

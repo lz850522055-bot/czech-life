@@ -1,0 +1,173 @@
+{
+  "id": "C2-U11-L01--2026.10.22.1--vocabulary",
+  "lesson_id": "C2-U11-L01",
+  "content_version": "2026.10.22.1",
+  "level": "C2",
+  "group": "vocabulary",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Úvod vytváří zvukový vjem.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Úvod vytváří zvukový vjem."
+      ]
+    },
+    {
+      "text": "Nadsázka může vyjadřovat náladu.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Nadsázka může vyjadřovat náladu."
+      ]
+    },
+    {
+      "text": "Úprava narušila návaznost motivu.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Úprava narušila návaznost motivu."
+      ]
+    },
+    {
+      "text": "Odstraníme bezděčnou výplň.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Odstraníme bezděčnou výplň."
+      ]
+    },
+    {
+      "text": "Perspektiva textu zůstává osobní.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Perspektiva textu zůstává osobní."
+      ]
+    }
+  ],
+  "text_sha256": "1acbb0c4930cbb7fda4a4965518ca9cbdeeb92fb688664d6a176df8d095cf63e",
+  "source_file": "content/lessons/C2/C2-U11-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/C2-U11-L01--2026.10.22.1--vocabulary--1acbb0c493--normal.mp3",
+  "slow_file": "content/audio/files/C2-U11-L01--2026.10.22.1--vocabulary--1acbb0c493--slow.mp3",
+  "duration_seconds": 14.820362811791384,
+  "slow_duration_seconds": 16.585079365079366,
+  "cues": [
+    {
+      "text": "Úvod vytváří zvukový vjem.",
+      "index": 0,
+      "role": "vocabulary",
+      "parts": [
+        "Úvod vytváří zvukový vjem."
+      ],
+      "start": 0.0,
+      "end": 2.403265306122449,
+      "sentences": [
+        {
+          "text": "Úvod vytváří zvukový vjem.",
+          "start": 0.0,
+          "end": 2.403265306122449,
+          "slow_start": 0.0,
+          "slow_end": 2.6586848072562357
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 2.6586848072562357
+    },
+    {
+      "text": "Nadsázka může vyjadřovat náladu.",
+      "index": 1,
+      "role": "vocabulary",
+      "parts": [
+        "Nadsázka může vyjadřovat náladu."
+      ],
+      "start": 2.583265306122449,
+      "end": 5.520589569160998,
+      "sentences": [
+        {
+          "text": "Nadsázka může vyjadřovat náladu.",
+          "start": 2.583265306122449,
+          "end": 5.520589569160998,
+          "slow_start": 2.838684807256236,
+          "slow_end": 6.240408163265307
+        }
+      ],
+      "slow_start": 2.838684807256236,
+      "slow_end": 6.240408163265307
+    },
+    {
+      "text": "Úprava narušila návaznost motivu.",
+      "index": 2,
+      "role": "vocabulary",
+      "parts": [
+        "Úprava narušila návaznost motivu."
+      ],
+      "start": 5.700589569160997,
+      "end": 8.579863945578232,
+      "sentences": [
+        {
+          "text": "Úprava narušila návaznost motivu.",
+          "start": 5.700589569160997,
+          "end": 8.579863945578232,
+          "slow_start": 6.420408163265306,
+          "slow_end": 9.671201814058957
+        }
+      ],
+      "slow_start": 6.420408163265306,
+      "slow_end": 9.671201814058957
+    },
+    {
+      "text": "Odstraníme bezděčnou výplň.",
+      "index": 3,
+      "role": "vocabulary",
+      "parts": [
+        "Odstraníme bezděčnou výplň."
+      ],
+      "start": 8.759863945578232,
+      "end": 11.209569160997733,
+      "sentences": [
+        {
+          "text": "Odstraníme bezděčnou výplň.",
+          "start": 8.759863945578232,
+          "end": 11.209569160997733,
+          "slow_start": 9.851201814058957,
+          "slow_end": 12.544716553287982
+        }
+      ],
+      "slow_start": 9.851201814058957,
+      "slow_end": 12.544716553287982
+    },
+    {
+      "text": "Perspektiva textu zůstává osobní.",
+      "index": 4,
+      "role": "vocabulary",
+      "parts": [
+        "Perspektiva textu zůstává osobní."
+      ],
+      "start": 11.389569160997732,
+      "end": 14.640362811791384,
+      "sentences": [
+        {
+          "text": "Perspektiva textu zůstává osobní.",
+          "start": 11.389569160997732,
+          "end": 14.640362811791384,
+          "slow_start": 12.724716553287982,
+          "slow_end": 16.405079365079366
+        }
+      ],
+      "slow_start": 12.724716553287982,
+      "slow_end": 16.405079365079366
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "f60687687d6447aa6af1944367843dfa5cbaa0190263e7f5565378b200b01da6",
+    "slow": "34225fec351ac65de9e52b2d9aead8275179e6606e2b51b2bcd1b28dcf07db1b"
+  }
+}

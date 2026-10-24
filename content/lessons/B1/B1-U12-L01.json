@@ -1,0 +1,1318 @@
+{
+  "id": "B1-U12-L01",
+  "level": "B1",
+  "unit_id": "B1-U12",
+  "order": 44,
+  "version": "2026.10.22.1",
+  "title_zh": "陌生场景独立互动",
+  "title_cs": "Když nevím, jak se to dělá",
+  "prerequisites": [
+    "B1-U11-L01"
+  ],
+  "can_do": [
+    "在不熟悉流程时问清起点、材料、费用和下一步",
+    "请求重复、拼写和举例",
+    "用复述确认减少误办"
+  ],
+  "scene": "陌生场景与独立互动",
+  "skills": [
+    "listening",
+    "speaking",
+    "reading",
+    "writing",
+    "interaction",
+    "mediation"
+  ],
+  "knowledge_points": [
+    "interaction-repair",
+    "confirm-procedure"
+  ],
+  "intro_zh": "独立不等于什么都提前知道。遇到陌生程序，能把问题拆成几个清楚的提问，并确认自己的理解，就是可用的互动能力。",
+  "lesson_text": [
+    {
+      "id": "s01",
+      "cs": "Přišel jsem poprvé do komunitní dílny, kde si lidé mohou opravovat vlastní věci. Chtěl jsem opravit uvolněnou nohu židle, ale nevěděl jsem, zda se musím předem přihlásit. U vchodu nikdo neseděl a na nástěnce bylo několik různých oznámení. Místo toho, abych náhodně vstoupil do pracovního prostoru, počkal jsem u označeného informačního místa a oslovil dobrovolníka.",
+      "zh": "我首次来到可自己修物品的社区工坊，想修椅子松动的腿，却不知道是否要预登记。入口没人，公告很多。我没有随便进工作区，而是在信息点等候并问志愿者。",
+      "note_zh": ""
+    },
+    {
+      "id": "s02",
+      "cs": "„Dobrý den, jsem tu poprvé. Můžete mi prosím vysvětlit, jak to funguje?“ Dobrovolník mluvil rychle a použil slovo, které jsem neznal. Požádal jsem ho, aby ho napsal a ukázal mi příklad. Vysvětlil, že před použitím nářadí potřebuji krátké zaškolení. Neznamenalo to, že musím absolvovat celý dlouhý kurz. Měl mi ukázat konkrétní zařízení, které budu používat.",
+      "zh": "我问“第一次来，能解释流程吗？”志愿者说得快，出现不认识的词。我请他写下来并举例。他解释用工具前需简短培训，并不是必须上完整长课程，而是示范本次所用设备。",
+      "note_zh": ""
+    },
+    {
+      "id": "s03",
+      "cs": "Potom jsem se zeptal na cenu, dostupný čas a potřebný materiál. Některé nástroje byly zahrnuté ve vstupním poplatku, ale lepidlo se platilo zvlášť. Dobrovolník mi doporučil, abych židli nejdřív ukázal lektorovi. Ten měl rozhodnout, jaký postup je bezpečný. Sám jsem tedy nic nerozebíral. Zapsal jsem si jméno lektora i místo, kde ho najdu.",
+      "zh": "之后我询问费用、可用时间和材料。有些工具含在入场费里，但胶水另付。志愿者建议先给指导员看椅子，由他判断安全方法。我没有自行拆卸，记下指导员名字和位置。",
+      "note_zh": ""
+    },
+    {
+      "id": "s04",
+      "cs": "Na závěr jsem vlastními slovy zopakoval postup: nejdřív registrace, potom konzultace a zaškolení, teprve pak práce. Dobrovolník opravil jeden detail: registrační formulář se vyplňuje až po konzultaci, aby bylo jasné, jakou službu potřebuji. Byl jsem rád, že jsem si porozumění ověřil. Kdybych pouze přikývl, mohl bych udělat špatný první krok, přestože bych rozuměl většině jednotlivých slov. Dobrovolník ocenil moje otázky a ujistil mě, že podobné nejasnosti řeší s novými návštěvníky běžně.",
+      "zh": "最后我用自己的话复述：先登记，再咨询培训，然后操作。志愿者纠正一个细节：应先咨询明确所需服务，再填表。我庆幸确认理解；若只点头，尽管多数词懂，仍可能第一步做错。 志愿者肯定我的提问，并说新访客常有类似需要澄清的地方。",
+      "note_zh": ""
+    }
+  ],
+  "grammar": [
+    {
+      "id": "interaction-repair",
+      "rule_zh": "说出你哪里没懂，比只说“听不懂”更有效。",
+      "detail_zh": "Nerozumím slovu…；Můžete to zopakovat pomaleji?；Můžete uvést příklad?；Jak se to píše? 区分没听清声音、没懂词义和没懂流程。请求重说时可以指定最后一句，避免整段重复。",
+      "examples": [
+        {
+          "cs": "Nerozumím poslednímu kroku.",
+          "zh": "我不理解最后一步。",
+          "note_zh": ""
+        },
+        {
+          "cs": "Můžete mi to ukázat?",
+          "zh": "可以给我演示吗？",
+          "note_zh": ""
+        }
+      ],
+      "pitfalls": [
+        "反复只说 co 会显得突兀，且不指出具体缺口。"
+      ],
+      "exceptions": [
+        "现场安全流程由工作人员判断，不把语言练习当操作授权。"
+      ],
+      "term": "沟通修复策略"
+    },
+    {
+      "id": "confirm-procedure",
+      "rule_zh": "复述时允许对方纠正，别把猜测说成确认。",
+      "detail_zh": "Rozumím tomu správně, že nejdřív…?；Takže mám…?；Teprve potom… 表步骤约束。až po + 第六格表示在某事之后才；před + 第七格表示之前。",
+      "examples": [
+        {
+          "cs": "Formulář vyplním až po konzultaci.",
+          "zh": "咨询之后我才填表。",
+          "note_zh": ""
+        }
+      ],
+      "pitfalls": [
+        "až po 与 před 的方向不能颠倒。"
+      ],
+      "exceptions": [
+        "流程可能因场所变化，必须就当前场景确认。"
+      ],
+      "term": "互动确认与时序"
+    }
+  ],
+  "vocabulary": [
+    {
+      "lemma": "zaškolení",
+      "pos": "名词，中性",
+      "forms": "zaškolení; po zaškolení",
+      "meaning_zh": "上手培训",
+      "collocation": "krátké zaškolení",
+      "example_cs": "Potřebuji krátké zaškolení.",
+      "example_zh": "我需要简短上手培训。",
+      "confusion_zh": "不必然是完整学历课程。"
+    },
+    {
+      "lemma": "nářadí",
+      "pos": "名词，中性集合",
+      "forms": "nářadí",
+      "meaning_zh": "工具",
+      "collocation": "používat nářadí",
+      "example_cs": "Nářadí použijte po zaškolení.",
+      "example_zh": "培训后使用工具。",
+      "confusion_zh": "集合形式不按一个工具机械加复数。"
+    },
+    {
+      "lemma": "zvlášť",
+      "pos": "副词",
+      "forms": "不变化",
+      "meaning_zh": "另行、单独",
+      "collocation": "platit zvlášť",
+      "example_cs": "Materiál se platí zvlášť.",
+      "example_zh": "材料另付。",
+      "confusion_zh": "不等于免费。"
+    },
+    {
+      "lemma": "konzultace",
+      "pos": "名词，阴性",
+      "forms": "konzultaci; po konzultaci",
+      "meaning_zh": "咨询",
+      "collocation": "domluvit konzultaci",
+      "example_cs": "Nejdřív proběhne konzultace.",
+      "example_zh": "先进行咨询。",
+      "confusion_zh": "不是正式批准所有操作。"
+    }
+  ],
+  "listening": {
+    "script": [
+      {
+        "cs": "Nejdřív prosím ukažte předmět lektorovi. Po konzultaci vyplníte formulář a zaplatíte vstup. Materiál není v ceně. Než začnete pracovat, kolega vám vysvětlí použití nářadí. Pokud si nejste jistý, zastavte se a zeptejte se.",
+        "zh": "先给指导员看物品。咨询后填表付入场费，材料不含。操作前同事解释工具使用；不确定就停下问。",
+        "note_zh": ""
+      }
+    ],
+    "focus_zh": "记真实首步是咨询，不是从熟悉的“登记”自动猜起。",
+    "source": "original"
+  },
+  "pronunciation": {
+    "focus_zh": "把 Nejdřív / po konzultaci / než začnete / pokud 当声音路标；句尾小词 se 不要全部吞掉。",
+    "contrast": [
+      {
+        "a": "před konzultací",
+        "b": "po konzultaci",
+        "note_zh": "前后方向不同，词尾也不同。"
+      }
+    ],
+    "task_zh": "先听一句，再按意义块跟读；录下自然语速版本，对照长短元音、句中停顿和关键词。不要追求机械加速。"
+  },
+  "exercises": [
+    {
+      "type": "choice",
+      "prompt_zh": "为什么没有立即进工作区？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "想先确认流程"
+        },
+        {
+          "id": "b",
+          "text": "工作人员拒绝所有人"
+        },
+        {
+          "id": "c",
+          "text": "已经修好了"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "先咨询是主动降低误操作，不是被拒绝。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U12-L01-E01",
+      "knowledge_points": [
+        "interaction-repair",
+        "confirm-procedure"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "复述中哪一步需要纠正？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "应该先咨询再登记"
+        },
+        {
+          "id": "b",
+          "text": "不用培训"
+        },
+        {
+          "id": "c",
+          "text": "材料全部免费"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "最后一段明确先咨询再填表。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U12-L01-E02",
+      "knowledge_points": [
+        "interaction-repair",
+        "confirm-procedure"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "听：入场费是否含材料？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "含"
+        },
+        {
+          "id": "b",
+          "text": "不含"
+        },
+        {
+          "id": "c",
+          "text": "未提及"
+        }
+      ],
+      "answer": "b",
+      "accepted_answers": [],
+      "explanation_zh": "Materiál není v ceně 为明确否定。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "listening"
+      ],
+      "error_category": "comprehension",
+      "audio_text_cs": "Po konzultaci vyplníte formulář. Materiál není v ceně.",
+      "id": "B1-U12-L01-E03",
+      "knowledge_points": [
+        "interaction-repair",
+        "confirm-procedure"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "咨询之后：填 konzultace 的形式。",
+      "stimulus_cs": "Po ___ vyplním formulář.",
+      "answer": "konzultaci",
+      "accepted_answers": [
+        "konzultaci"
+      ],
+      "explanation_zh": "po+第六格。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "inflection",
+      "id": "B1-U12-L01-E04",
+      "knowledge_points": [
+        "interaction-repair",
+        "confirm-procedure"
+      ]
+    },
+    {
+      "type": "fill",
+      "prompt_zh": "请求对方举例，填 příklad。",
+      "stimulus_cs": "Můžete uvést ___?",
+      "answer": "příklad",
+      "accepted_answers": [
+        "příklad"
+      ],
+      "explanation_zh": "uvést příklad 是举例。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "collocation",
+      "id": "B1-U12-L01-E05",
+      "knowledge_points": [
+        "interaction-repair",
+        "confirm-procedure"
+      ]
+    },
+    {
+      "type": "correct",
+      "prompt_zh": "按流程修正“咨询前”的表达，介词与词尾一起调整。",
+      "stimulus_cs": "Formulář vyplním před konzultací.",
+      "answer": "Formulář vyplním po konzultaci.",
+      "accepted_answers": [
+        "Formulář vyplním po konzultaci."
+      ],
+      "explanation_zh": "需要同时改介词及其支配词尾，保存同一内容。",
+      "scoring_basis": "只判断空格内指定形式；其它合理表达可通过开放题记录。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U12-L01-E06",
+      "knowledge_points": [
+        "interaction-repair",
+        "confirm-procedure"
+      ]
+    },
+    {
+      "type": "order",
+      "prompt_zh": "先求解释，再指出具体缺口。",
+      "stimulus_cs": "Nerozumím poslednímu kroku. / Můžete mi postup vysvětlit?",
+      "options": [
+        "Nerozumím poslednímu kroku.",
+        "Můžete mi postup vysvětlit?"
+      ],
+      "answer": "Můžete mi postup vysvětlit? Nerozumím poslednímu kroku.",
+      "accepted_answers": [
+        "Můžete mi postup vysvětlit? Nerozumím poslednímu kroku."
+      ],
+      "explanation_zh": "题目限定请求后说明缺口，其他现实顺序也可。",
+      "scoring_basis": "本题限定句首及语境；不据一个参考语序否定捷语所有语序变体。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "word_order",
+      "id": "B1-U12-L01-E07",
+      "knowledge_points": [
+        "interaction-repair",
+        "confirm-procedure"
+      ]
+    },
+    {
+      "type": "choice",
+      "prompt_zh": "没懂某词拼写，哪问最准确？",
+      "stimulus_cs": "",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jak se to píše?"
+        },
+        {
+          "id": "b",
+          "text": "Kolik to stojí?"
+        },
+        {
+          "id": "c",
+          "text": "Kdo přijde?"
+        }
+      ],
+      "answer": "a",
+      "accepted_answers": [],
+      "explanation_zh": "区分声音、价格与人物问题。",
+      "scoring_basis": "按题目限定语境及解析核对选项。",
+      "skill_ids": [
+        "reading"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U12-L01-E08",
+      "knowledge_points": [
+        "interaction-repair",
+        "confirm-procedure"
+      ]
+    },
+    {
+      "type": "speaking",
+      "prompt_zh": "作为首次到访者，提出流程、费用、材料和时间四个问题。",
+      "stimulus_cs": "",
+      "answer": "Jsem tu poprvé. Jaký je první krok? Kolik stojí vstup? Je materiál v ceně? Kolik času mám k dispozici?",
+      "accepted_answers": [],
+      "explanation_zh": "问题尽量一次一个，方便听答案。",
+      "rubric": [
+        "四个缺口",
+        "问法明确",
+        "可跟进"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "speaking"
+      ],
+      "error_category": "fluency",
+      "id": "B1-U12-L01-E09",
+      "knowledge_points": [
+        "interaction-repair",
+        "confirm-procedure"
+      ]
+    },
+    {
+      "type": "writing",
+      "prompt_zh": "写给朋友一段首次到工坊的提醒。",
+      "stimulus_cs": "",
+      "answer": "Nejdřív ukaž předmět lektorovi. Po konzultaci vyplň formulář. Materiál se platí zvlášť. Nářadí používej až po zaškolení.",
+      "accepted_answers": [],
+      "explanation_zh": "提供顺序与费用，不编现场规则之外内容。",
+      "rubric": [
+        "首步准确",
+        "费用边界",
+        "培训条件"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "writing"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U12-L01-E10",
+      "knowledge_points": [
+        "interaction-repair",
+        "confirm-procedure"
+      ]
+    },
+    {
+      "type": "interaction",
+      "prompt_zh": "对方说了一个不懂词，要求写下来并给例子，再确认自己理解。",
+      "stimulus_cs": "",
+      "answer": "Nerozumím slovu zaškolení. Můžete ho prosím napsat a uvést příklad? Rozumím správně, že mi ukážete použití konkrétního nářadí?",
+      "accepted_answers": [],
+      "explanation_zh": "修复链是指明缺口→请求→核对。",
+      "rubric": [
+        "缺口具体",
+        "两个修复请求",
+        "最终复述"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "interaction"
+      ],
+      "error_category": "fluency",
+      "id": "B1-U12-L01-E11",
+      "knowledge_points": [
+        "interaction-repair",
+        "confirm-procedure"
+      ]
+    },
+    {
+      "type": "mediation",
+      "prompt_zh": "用中文向新伙伴解释“懂词”为什么仍需确认程序。",
+      "stimulus_cs": "",
+      "answer": "理解多数单词不保证步骤正确。文中学习者以为先登记，工作人员说明先咨询。复述程序让这一误解在动手前暴露。",
+      "accepted_answers": [],
+      "explanation_zh": "要谈本课具体错误，不空喊“多问”。",
+      "rubric": [
+        "具体例子",
+        "区别词义与流程",
+        "说明纠正作用"
+      ],
+      "scoring_basis": "开放任务：示范答案非唯一答案。逐项自评或等待教师/可选AI反馈；本地不自动给语言能力分数。",
+      "skill_ids": [
+        "mediation"
+      ],
+      "error_category": "comprehension",
+      "id": "B1-U12-L01-E12",
+      "knowledge_points": [
+        "interaction-repair",
+        "confirm-procedure"
+      ]
+    }
+  ],
+  "transfer_task": {
+    "prompt_zh": "换成图书馆办借书证，自己组织材料、费用、即时使用和丢卡处理问题。",
+    "model_answer_cs": "Jsem tu poprvé. Jaké doklady potřebuji? Kolik stojí registrace? Mohu si půjčit knihu hned? Co mám udělat, když průkaz ztratím?",
+    "rubric": [
+      "不套用工坊规则",
+      "四维提问",
+      "允许澄清"
+    ]
+  },
+  "review_links": [
+    "B1-U11-L01"
+  ],
+  "sources": [
+    {
+      "source_id": "LANG01",
+      "url": "https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions",
+      "scope": "按实际能做的任务编排能力，不把CEFR说成官方捷语语法课表",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    },
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?id=580",
+      "scope": "se/si的不同功能与反身结构",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    },
+    {
+      "source_id": "LANG02",
+      "url": "https://prirucka.ujc.cas.cz/?id=620",
+      "scope": "动词与名词的格搭配、díky/kvůli的语用边界",
+      "verification": "2026-10-22资料入口/对应规则已查核；原创例句未逐句母语审校"
+    }
+  ],
+  "content_status": "authored_crosschecked_not_native_reviewed",
+  "quality_notes": [
+    "原创课文和练习；规则按所列来源交叉核查，未获得捷语母语教师逐句审校。",
+    "本课级别属于教材编排判断，不代表官方能力认证。",
+    "听力为原创可合成脚本；真人多说话人、地区口音与录音自然度尚待现场核验。"
+  ],
+  "audio_refs": [
+    {
+      "lesson_id": "B1-U12-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--normal.mp3",
+      "slow_file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U12-L01--2026.10.22.1--text",
+      "role": "full",
+      "index": 0,
+      "text": "Přišel jsem poprvé do komunitní dílny, kde si lidé mohou opravovat vlastní věci. Chtěl jsem opravit uvolněnou nohu židle, ale nevěděl jsem, zda se musím předem přihlásit. U vchodu nikdo neseděl a na nástěnce bylo několik různých oznámení. Místo toho, abych náhodně vstoupil do pracovního prostoru, počkal jsem u označeného informačního místa a oslovil dobrovolníka. „Dobrý den, jsem tu poprvé. Můžete mi prosím vysvětlit, jak to funguje?“ Dobrovolník mluvil rychle a použil slovo, které jsem neznal. Požádal jsem ho, aby ho napsal a ukázal mi příklad. Vysvětlil, že před použitím nářadí potřebuji krátké zaškolení. Neznamenalo to, že musím absolvovat celý dlouhý kurz. Měl mi ukázat konkrétní zařízení, které budu používat. Potom jsem se zeptal na cenu, dostupný čas a potřebný materiál. Některé nástroje byly zahrnuté ve vstupním poplatku, ale lepidlo se platilo zvlášť. Dobrovolník mi doporučil, abych židli nejdřív ukázal lektorovi. Ten měl rozhodnout, jaký postup je bezpečný. Sám jsem tedy nic nerozebíral. Zapsal jsem si jméno lektora i místo, kde ho najdu. Na závěr jsem vlastními slovy zopakoval postup: nejdřív registrace, potom konzultace a zaškolení, teprve pak práce. Dobrovolník opravil jeden detail: registrační formulář se vyplňuje až po konzultaci, aby bylo jasné, jakou službu potřebuji. Byl jsem rád, že jsem si porozumění ověřil. Kdybych pouze přikývl, mohl bych udělat špatný první krok, přestože bych rozuměl většině jednotlivých slov. Dobrovolník ocenil moje otázky a ujistil mě, že podobné nejasnosti řeší s novými návštěvníky běžně.",
+      "duration_seconds": 143.09396825396826,
+      "slow_duration_seconds": 162.54068027210883,
+      "sha256": "9049761cde51f5c392cdb9d32160ad03b0e8e92378c353ce1e0f034a1bbbcf65",
+      "slow_sha256": "651d1deda48bcdd5d29e489e600b4c9d20ca364b6521ca5dd8be0570d4adae4e"
+    },
+    {
+      "lesson_id": "B1-U12-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--normal.mp3",
+      "slow_file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U12-L01--2026.10.22.1--text--p0",
+      "asset_id": "B1-U12-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Přišel jsem poprvé do komunitní dílny, kde si lidé mohou opravovat vlastní věci. Chtěl jsem opravit uvolněnou nohu židle, ale nevěděl jsem, zda se musím předem přihlásit. U vchodu nikdo neseděl a na nástěnce bylo několik různých oznámení. Místo toho, abych náhodně vstoupil do pracovního prostoru, počkal jsem u označeného informačního místa a oslovil dobrovolníka.",
+      "start": 0,
+      "end": 33.1756462585034,
+      "slow_start": 0,
+      "slow_end": 37.84285714285714
+    },
+    {
+      "lesson_id": "B1-U12-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--normal.mp3",
+      "slow_file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U12-L01--2026.10.22.1--text--s0",
+      "asset_id": "B1-U12-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 0,
+      "paragraph_index": 0,
+      "sentence_index": 0,
+      "text": "Přišel jsem poprvé do komunitní dílny, kde si lidé mohou opravovat vlastní věci.",
+      "start": 0,
+      "end": 6.849886621315193,
+      "slow_start": 0,
+      "slow_end": 7.569705215419501
+    },
+    {
+      "lesson_id": "B1-U12-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--normal.mp3",
+      "slow_file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U12-L01--2026.10.22.1--text--s1",
+      "asset_id": "B1-U12-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 1,
+      "paragraph_index": 0,
+      "sentence_index": 1,
+      "text": "Chtěl jsem opravit uvolněnou nohu židle, ale nevěděl jsem, zda se musím předem přihlásit.",
+      "start": 7.0298866213151925,
+      "end": 14.553151927437641,
+      "slow_start": 7.749705215419501,
+      "slow_end": 16.561678004535146
+    },
+    {
+      "lesson_id": "B1-U12-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--normal.mp3",
+      "slow_file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U12-L01--2026.10.22.1--text--s2",
+      "asset_id": "B1-U12-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 2,
+      "paragraph_index": 0,
+      "sentence_index": 2,
+      "text": "U vchodu nikdo neseděl a na nástěnce bylo několik různých oznámení.",
+      "start": 14.733151927437643,
+      "end": 21.199909297052155,
+      "slow_start": 16.741678004535146,
+      "slow_end": 24.12562358276644
+    },
+    {
+      "lesson_id": "B1-U12-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--normal.mp3",
+      "slow_file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U12-L01--2026.10.22.1--text--s3",
+      "asset_id": "B1-U12-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 3,
+      "paragraph_index": 0,
+      "sentence_index": 3,
+      "text": "Místo toho, abych náhodně vstoupil do pracovního prostoru, počkal jsem u označeného informačního místa a oslovil dobrovolníka.",
+      "start": 21.379909297052155,
+      "end": 33.1756462585034,
+      "slow_start": 24.30562358276644,
+      "slow_end": 37.84285714285714
+    },
+    {
+      "lesson_id": "B1-U12-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--normal.mp3",
+      "slow_file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U12-L01--2026.10.22.1--text--p1",
+      "asset_id": "B1-U12-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "„Dobrý den, jsem tu poprvé. Můžete mi prosím vysvětlit, jak to funguje?“ Dobrovolník mluvil rychle a použil slovo, které jsem neznal. Požádal jsem ho, aby ho napsal a ukázal mi příklad. Vysvětlil, že před použitím nářadí potřebuji krátké zaškolení. Neznamenalo to, že musím absolvovat celý dlouhý kurz. Měl mi ukázat konkrétní zařízení, které budu používat.",
+      "start": 33.3556462585034,
+      "end": 67.15256235827664,
+      "slow_start": 38.02285714285714,
+      "slow_end": 76.16190476190476
+    },
+    {
+      "lesson_id": "B1-U12-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--normal.mp3",
+      "slow_file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U12-L01--2026.10.22.1--text--s4",
+      "asset_id": "B1-U12-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 4,
+      "paragraph_index": 1,
+      "sentence_index": 0,
+      "text": "„Dobrý den, jsem tu poprvé.",
+      "start": 33.3556462585034,
+      "end": 35.81696145124717,
+      "slow_start": 38.02285714285714,
+      "slow_end": 40.936961451247164
+    },
+    {
+      "lesson_id": "B1-U12-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--normal.mp3",
+      "slow_file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U12-L01--2026.10.22.1--text--s5",
+      "asset_id": "B1-U12-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 5,
+      "paragraph_index": 1,
+      "sentence_index": 1,
+      "text": "Můžete mi prosím vysvětlit, jak to funguje?“",
+      "start": 35.99696145124717,
+      "end": 39.87469387755102,
+      "slow_start": 41.116961451247164,
+      "slow_end": 45.52875283446712
+    },
+    {
+      "lesson_id": "B1-U12-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--normal.mp3",
+      "slow_file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U12-L01--2026.10.22.1--text--s6",
+      "asset_id": "B1-U12-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 6,
+      "paragraph_index": 1,
+      "sentence_index": 2,
+      "text": "Dobrovolník mluvil rychle a použil slovo, které jsem neznal.",
+      "start": 40.05469387755102,
+      "end": 45.65070294784581,
+      "slow_start": 45.70875283446712,
+      "slow_end": 52.10585034013605
+    },
+    {
+      "lesson_id": "B1-U12-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--normal.mp3",
+      "slow_file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U12-L01--2026.10.22.1--text--s7",
+      "asset_id": "B1-U12-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 7,
+      "paragraph_index": 1,
+      "sentence_index": 3,
+      "text": "Požádal jsem ho, aby ho napsal a ukázal mi příklad.",
+      "start": 45.83070294784581,
+      "end": 50.77655328798186,
+      "slow_start": 52.28585034013606,
+      "slow_end": 57.951519274376416
+    },
+    {
+      "lesson_id": "B1-U12-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--normal.mp3",
+      "slow_file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U12-L01--2026.10.22.1--text--s8",
+      "asset_id": "B1-U12-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 8,
+      "paragraph_index": 1,
+      "sentence_index": 4,
+      "text": "Vysvětlil, že před použitím nářadí potřebuji krátké zaškolení.",
+      "start": 50.95655328798186,
+      "end": 56.62222222222222,
+      "slow_start": 58.131519274376416,
+      "slow_end": 64.36607709750567
+    },
+    {
+      "lesson_id": "B1-U12-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--normal.mp3",
+      "slow_file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U12-L01--2026.10.22.1--text--s9",
+      "asset_id": "B1-U12-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 9,
+      "paragraph_index": 1,
+      "sentence_index": 5,
+      "text": "Neznamenalo to, že musím absolvovat celý dlouhý kurz.",
+      "start": 56.80222222222222,
+      "end": 61.922222222222224,
+      "slow_start": 64.54607709750567,
+      "slow_end": 70.32784580498866
+    },
+    {
+      "lesson_id": "B1-U12-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--normal.mp3",
+      "slow_file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U12-L01--2026.10.22.1--text--s10",
+      "asset_id": "B1-U12-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 10,
+      "paragraph_index": 1,
+      "sentence_index": 6,
+      "text": "Měl mi ukázat konkrétní zařízení, které budu používat.",
+      "start": 62.102222222222224,
+      "end": 67.15256235827664,
+      "slow_start": 70.50784580498866,
+      "slow_end": 76.16190476190476
+    },
+    {
+      "lesson_id": "B1-U12-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--normal.mp3",
+      "slow_file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U12-L01--2026.10.22.1--text--p2",
+      "asset_id": "B1-U12-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Potom jsem se zeptal na cenu, dostupný čas a potřebný materiál. Některé nástroje byly zahrnuté ve vstupním poplatku, ale lepidlo se platilo zvlášť. Dobrovolník mi doporučil, abych židli nejdřív ukázal lektorovi. Ten měl rozhodnout, jaký postup je bezpečný. Sám jsem tedy nic nerozebíral. Zapsal jsem si jméno lektora i místo, kde ho najdu.",
+      "start": 67.33256235827665,
+      "end": 98.00054421768708,
+      "slow_start": 76.34190476190476,
+      "slow_end": 110.98049886621315
+    },
+    {
+      "lesson_id": "B1-U12-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--normal.mp3",
+      "slow_file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U12-L01--2026.10.22.1--text--s11",
+      "asset_id": "B1-U12-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 11,
+      "paragraph_index": 2,
+      "sentence_index": 0,
+      "text": "Potom jsem se zeptal na cenu, dostupný čas a potřebný materiál.",
+      "start": 67.33256235827665,
+      "end": 73.23043083900227,
+      "slow_start": 76.34190476190476,
+      "slow_end": 82.92476190476191
+    },
+    {
+      "lesson_id": "B1-U12-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--normal.mp3",
+      "slow_file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U12-L01--2026.10.22.1--text--s12",
+      "asset_id": "B1-U12-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 12,
+      "paragraph_index": 2,
+      "sentence_index": 1,
+      "text": "Některé nástroje byly zahrnuté ve vstupním poplatku, ale lepidlo se platilo zvlášť.",
+      "start": 73.41043083900227,
+      "end": 80.66666666666667,
+      "slow_start": 83.1047619047619,
+      "slow_end": 91.32462585034014
+    },
+    {
+      "lesson_id": "B1-U12-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--normal.mp3",
+      "slow_file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U12-L01--2026.10.22.1--text--s13",
+      "asset_id": "B1-U12-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 13,
+      "paragraph_index": 2,
+      "sentence_index": 2,
+      "text": "Dobrovolník mi doporučil, abych židli nejdřív ukázal lektorovi.",
+      "start": 80.84666666666666,
+      "end": 86.29174603174603,
+      "slow_start": 91.50462585034013,
+      "slow_end": 97.68113378684808
+    },
+    {
+      "lesson_id": "B1-U12-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--normal.mp3",
+      "slow_file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U12-L01--2026.10.22.1--text--s14",
+      "asset_id": "B1-U12-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 14,
+      "paragraph_index": 2,
+      "sentence_index": 3,
+      "text": "Ten měl rozhodnout, jaký postup je bezpečný.",
+      "start": 86.47174603174604,
+      "end": 90.43074829931973,
+      "slow_start": 97.86113378684807,
+      "slow_end": 102.30775510204082
+    },
+    {
+      "lesson_id": "B1-U12-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--normal.mp3",
+      "slow_file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U12-L01--2026.10.22.1--text--s15",
+      "asset_id": "B1-U12-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 15,
+      "paragraph_index": 2,
+      "sentence_index": 4,
+      "text": "Sám jsem tedy nic nerozebíral.",
+      "start": 90.61074829931972,
+      "end": 93.42036281179138,
+      "slow_start": 102.48775510204082,
+      "slow_end": 105.7269387755102
+    },
+    {
+      "lesson_id": "B1-U12-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--normal.mp3",
+      "slow_file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U12-L01--2026.10.22.1--text--s16",
+      "asset_id": "B1-U12-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 16,
+      "paragraph_index": 2,
+      "sentence_index": 5,
+      "text": "Zapsal jsem si jméno lektora i místo, kde ho najdu.",
+      "start": 93.60036281179138,
+      "end": 98.00054421768708,
+      "slow_start": 105.9069387755102,
+      "slow_end": 110.98049886621315
+    },
+    {
+      "lesson_id": "B1-U12-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--normal.mp3",
+      "slow_file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U12-L01--2026.10.22.1--text--p3",
+      "asset_id": "B1-U12-L01--2026.10.22.1--text",
+      "role": "text",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Na závěr jsem vlastními slovy zopakoval postup: nejdřív registrace, potom konzultace a zaškolení, teprve pak práce. Dobrovolník opravil jeden detail: registrační formulář se vyplňuje až po konzultaci, aby bylo jasné, jakou službu potřebuji. Byl jsem rád, že jsem si porozumění ověřil. Kdybych pouze přikývl, mohl bych udělat špatný první krok, přestože bych rozuměl většině jednotlivých slov. Dobrovolník ocenil moje otázky a ujistil mě, že podobné nejasnosti řeší s novými návštěvníky běžně.",
+      "start": 98.18054421768707,
+      "end": 142.91396825396825,
+      "slow_start": 111.16049886621315,
+      "slow_end": 162.36068027210885
+    },
+    {
+      "lesson_id": "B1-U12-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--normal.mp3",
+      "slow_file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U12-L01--2026.10.22.1--text--s17",
+      "asset_id": "B1-U12-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 17,
+      "paragraph_index": 3,
+      "sentence_index": 0,
+      "text": "Na závěr jsem vlastními slovy zopakoval postup: nejdřív registrace, potom konzultace a zaškolení, teprve pak práce.",
+      "start": 98.18054421768707,
+      "end": 108.67596371882087,
+      "slow_start": 111.16049886621315,
+      "slow_end": 123.33936507936508
+    },
+    {
+      "lesson_id": "B1-U12-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--normal.mp3",
+      "slow_file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U12-L01--2026.10.22.1--text--s18",
+      "asset_id": "B1-U12-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 18,
+      "paragraph_index": 3,
+      "sentence_index": 1,
+      "text": "Dobrovolník opravil jeden detail: registrační formulář se vyplňuje až po konzultaci, aby bylo jasné, jakou službu potřebuji.",
+      "start": 108.85596371882086,
+      "end": 119.87383219954648,
+      "slow_start": 123.51936507936507,
+      "slow_end": 136.0813605442177
+    },
+    {
+      "lesson_id": "B1-U12-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--normal.mp3",
+      "slow_file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U12-L01--2026.10.22.1--text--s19",
+      "asset_id": "B1-U12-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 19,
+      "paragraph_index": 3,
+      "sentence_index": 2,
+      "text": "Byl jsem rád, že jsem si porozumění ověřil.",
+      "start": 120.05383219954649,
+      "end": 124.26825396825397,
+      "slow_start": 136.2613605442177,
+      "slow_end": 141.10272108843537
+    },
+    {
+      "lesson_id": "B1-U12-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--normal.mp3",
+      "slow_file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U12-L01--2026.10.22.1--text--s20",
+      "asset_id": "B1-U12-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 20,
+      "paragraph_index": 3,
+      "sentence_index": 3,
+      "text": "Kdybych pouze přikývl, mohl bych udělat špatný první krok, přestože bych rozuměl většině jednotlivých slov.",
+      "start": 124.44825396825397,
+      "end": 133.78267573696147,
+      "slow_start": 141.28272108843538,
+      "slow_end": 151.90585034013606
+    },
+    {
+      "lesson_id": "B1-U12-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--normal.mp3",
+      "slow_file": "audio/files/B1-U12-L01--2026.10.22.1--text--2cb15a2099--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U12-L01--2026.10.22.1--text--s21",
+      "asset_id": "B1-U12-L01--2026.10.22.1--text",
+      "role": "text_sentence",
+      "index": 21,
+      "paragraph_index": 3,
+      "sentence_index": 4,
+      "text": "Dobrovolník ocenil moje otázky a ujistil mě, že podobné nejasnosti řeší s novými návštěvníky běžně.",
+      "start": 133.96267573696144,
+      "end": 142.91396825396825,
+      "slow_start": 152.08585034013606,
+      "slow_end": 162.36068027210885
+    },
+    {
+      "lesson_id": "B1-U12-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U12-L01--2026.10.22.1--listening--a4bc9bb272--normal.mp3",
+      "slow_file": "audio/files/B1-U12-L01--2026.10.22.1--listening--a4bc9bb272--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U12-L01--2026.10.22.1--listening",
+      "role": "listening-full",
+      "index": 0,
+      "text": "Nejdřív prosím ukažte předmět lektorovi. Po konzultaci vyplníte formulář a zaplatíte vstup. Materiál není v ceně. Než začnete pracovat, kolega vám vysvětlí použití nářadí. Pokud si nejste jistý, zastavte se a zeptejte se.",
+      "duration_seconds": 20.3118820861678,
+      "slow_duration_seconds": 23.109886621315194,
+      "sha256": "9bf0d4ed7dc4da6e7876e6c9a049a3f750c3cdd83eb849920c66cb5b3394540a",
+      "slow_sha256": "61a2197913ce7f42f642dbbccdae422f07ba9ae71fe62e2bfa8bc4bbaa93f4ea"
+    },
+    {
+      "lesson_id": "B1-U12-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U12-L01--2026.10.22.1--listening--a4bc9bb272--normal.mp3",
+      "slow_file": "audio/files/B1-U12-L01--2026.10.22.1--listening--a4bc9bb272--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U12-L01--2026.10.22.1--listening--p0",
+      "asset_id": "B1-U12-L01--2026.10.22.1--listening",
+      "role": "listening",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Nejdřív prosím ukažte předmět lektorovi. Po konzultaci vyplníte formulář a zaplatíte vstup. Materiál není v ceně. Než začnete pracovat, kolega vám vysvětlí použití nářadí. Pokud si nejste jistý, zastavte se a zeptejte se.",
+      "start": 0,
+      "end": 20.1318820861678,
+      "slow_start": 0,
+      "slow_end": 22.92988662131519
+    },
+    {
+      "lesson_id": "B1-U12-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U12-L01--2026.10.22.1--vocabulary--2d3815a11b--normal.mp3",
+      "slow_file": "audio/files/B1-U12-L01--2026.10.22.1--vocabulary--2d3815a11b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U12-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary-full",
+      "index": 0,
+      "text": "Potřebuji krátké zaškolení. Nářadí použijte po zaškolení. Materiál se platí zvlášť. Nejdřív proběhne konzultace.",
+      "duration_seconds": 11.018049886621315,
+      "slow_duration_seconds": 12.480907029478457,
+      "sha256": "5de87e0cd366b2a9c890c41bd0691dfbec0f1aabd610196fdf5eb2d75bd622d2",
+      "slow_sha256": "a9362999c48dcd6bcd8f90be5dfafaafd815fb550bf1c8db859edd7459ffba18"
+    },
+    {
+      "lesson_id": "B1-U12-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U12-L01--2026.10.22.1--vocabulary--2d3815a11b--normal.mp3",
+      "slow_file": "audio/files/B1-U12-L01--2026.10.22.1--vocabulary--2d3815a11b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U12-L01--2026.10.22.1--vocabulary--p0",
+      "asset_id": "B1-U12-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Potřebuji krátké zaškolení.",
+      "start": 0,
+      "end": 2.5425850340136056,
+      "slow_start": 0,
+      "slow_end": 2.8676643990929707
+    },
+    {
+      "lesson_id": "B1-U12-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U12-L01--2026.10.22.1--vocabulary--2d3815a11b--normal.mp3",
+      "slow_file": "audio/files/B1-U12-L01--2026.10.22.1--vocabulary--2d3815a11b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U12-L01--2026.10.22.1--vocabulary--p1",
+      "asset_id": "B1-U12-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 1,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Nářadí použijte po zaškolení.",
+      "start": 2.7225850340136053,
+      "end": 5.381269841269841,
+      "slow_start": 3.0476643990929704,
+      "slow_end": 6.135918367346939
+    },
+    {
+      "lesson_id": "B1-U12-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U12-L01--2026.10.22.1--vocabulary--2d3815a11b--normal.mp3",
+      "slow_file": "audio/files/B1-U12-L01--2026.10.22.1--vocabulary--2d3815a11b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U12-L01--2026.10.22.1--vocabulary--p2",
+      "asset_id": "B1-U12-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 2,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Materiál se platí zvlášť.",
+      "start": 5.561269841269842,
+      "end": 8.034195011337868,
+      "slow_start": 6.315918367346939,
+      "slow_end": 9.195192743764173
+    },
+    {
+      "lesson_id": "B1-U12-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U12-L01--2026.10.22.1--vocabulary--2d3815a11b--normal.mp3",
+      "slow_file": "audio/files/B1-U12-L01--2026.10.22.1--vocabulary--2d3815a11b--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U12-L01--2026.10.22.1--vocabulary--p3",
+      "asset_id": "B1-U12-L01--2026.10.22.1--vocabulary",
+      "role": "vocabulary",
+      "index": 3,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Nejdřív proběhne konzultace.",
+      "start": 8.214195011337868,
+      "end": 10.838049886621315,
+      "slow_start": 9.375192743764172,
+      "slow_end": 12.300907029478457
+    },
+    {
+      "lesson_id": "B1-U12-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U12-L01--2026.10.22.1--exercises--1df018009d--normal.mp3",
+      "slow_file": "audio/files/B1-U12-L01--2026.10.22.1--exercises--1df018009d--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U12-L01--2026.10.22.1--exercises",
+      "role": "exercises-full",
+      "index": 0,
+      "text": "Po konzultaci vyplníte formulář. Materiál není v ceně.",
+      "duration_seconds": 5.538049886621315,
+      "slow_duration_seconds": 6.1649886621315195,
+      "sha256": "976180c447cf7a65631a19a8974339770ce4a4186527e22a9bc7943c466cbaee",
+      "slow_sha256": "c643fb215f1d1924058b64614ff4a4ee2de51ddb7d78bfcae8bfe6662d2301a4"
+    },
+    {
+      "lesson_id": "B1-U12-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U12-L01--2026.10.22.1--exercises--1df018009d--normal.mp3",
+      "slow_file": "audio/files/B1-U12-L01--2026.10.22.1--exercises--1df018009d--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U12-L01--2026.10.22.1--exercises--p0",
+      "asset_id": "B1-U12-L01--2026.10.22.1--exercises",
+      "role": "exercise",
+      "index": 0,
+      "exercise_id": "B1-U12-L01-E03",
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "Po konzultaci vyplníte formulář. Materiál není v ceně.",
+      "start": 0,
+      "end": 5.358049886621315,
+      "slow_start": 0,
+      "slow_end": 5.984988662131519
+    },
+    {
+      "lesson_id": "B1-U12-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U12-L01--2026.10.22.1--contrasts--f9b1b24dbe--normal.mp3",
+      "slow_file": "audio/files/B1-U12-L01--2026.10.22.1--contrasts--f9b1b24dbe--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U12-L01--2026.10.22.1--contrasts",
+      "role": "contrasts-full",
+      "index": 0,
+      "text": "před konzultací. po konzultaci.",
+      "duration_seconds": 2.885124716553288,
+      "slow_duration_seconds": 3.2334240362811792,
+      "sha256": "ce3957deaefc1c363b8c56bde50c86fe91f68c2a4940d00d2925dd7c39239a3b",
+      "slow_sha256": "2652c9eb4d2ccc41ab36f7504c6d0d8f20c3c1f77d187d17f00954ce02cdbf4b"
+    },
+    {
+      "lesson_id": "B1-U12-L01",
+      "content_version": "2026.10.22.1",
+      "language": "cs-CZ",
+      "status": "generated",
+      "file": "audio/files/B1-U12-L01--2026.10.22.1--contrasts--f9b1b24dbe--normal.mp3",
+      "slow_file": "audio/files/B1-U12-L01--2026.10.22.1--contrasts--f9b1b24dbe--slow.mp3",
+      "quality_status": "machine_checked_not_native_listened",
+      "voice": "cs_CZ-jirka-medium",
+      "id": "B1-U12-L01--2026.10.22.1--contrasts--p0",
+      "asset_id": "B1-U12-L01--2026.10.22.1--contrasts",
+      "role": "contrast",
+      "index": 0,
+      "exercise_id": null,
+      "scenario_id": null,
+      "scenario_version": null,
+      "node_id": null,
+      "text": "před konzultací. po konzultaci.",
+      "start": 0,
+      "end": 2.705124716553288,
+      "slow_start": 0,
+      "slow_end": 3.053424036281179
+    }
+  ]
+}

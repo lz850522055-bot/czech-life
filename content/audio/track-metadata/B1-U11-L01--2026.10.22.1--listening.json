@@ -1,0 +1,84 @@
+{
+  "id": "B1-U11-L01--2026.10.22.1--listening",
+  "lesson_id": "B1-U11-L01",
+  "content_version": "2026.10.22.1",
+  "level": "B1",
+  "group": "listening",
+  "language": "cs-CZ",
+  "units": [
+    {
+      "text": "Místnost vám potvrzujeme na čtvrtek od pěti do sedmi. Projektor zatím potvrdit nemůžeme, technik ho zkontroluje zítra. Po příchodu se prosím hlaste u recepce. Klíč vraťte nejpozději v půl osmé.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Místnost vám potvrzujeme na čtvrtek od pěti do sedmi.",
+        "Projektor zatím potvrdit nemůžeme, technik ho zkontroluje zítra.",
+        "Po příchodu se prosím hlaste u recepce.",
+        "Klíč vraťte nejpozději v půl osmé."
+      ]
+    }
+  ],
+  "text_sha256": "7e7af880775fc8a0e8a525f405e1bc9ee1870c9410efdc3475f22d8788f661aa",
+  "source_file": "content/lessons/B1/B1-U11-L01.json",
+  "status": "generated",
+  "file": "content/audio/files/B1-U11-L01--2026.10.22.1--listening--7e7af88077--normal.mp3",
+  "slow_file": "content/audio/files/B1-U11-L01--2026.10.22.1--listening--7e7af88077--slow.mp3",
+  "duration_seconds": 17.519637188208616,
+  "slow_duration_seconds": 19.655873015873016,
+  "cues": [
+    {
+      "text": "Místnost vám potvrzujeme na čtvrtek od pěti do sedmi. Projektor zatím potvrdit nemůžeme, technik ho zkontroluje zítra. Po příchodu se prosím hlaste u recepce. Klíč vraťte nejpozději v půl osmé.",
+      "index": 0,
+      "role": "listening",
+      "parts": [
+        "Místnost vám potvrzujeme na čtvrtek od pěti do sedmi.",
+        "Projektor zatím potvrdit nemůžeme, technik ho zkontroluje zítra.",
+        "Po příchodu se prosím hlaste u recepce.",
+        "Klíč vraťte nejpozději v půl osmé."
+      ],
+      "start": 0.0,
+      "end": 17.339637188208616,
+      "sentences": [
+        {
+          "text": "Místnost vám potvrzujeme na čtvrtek od pěti do sedmi.",
+          "start": 0.0,
+          "end": 4.493061224489796,
+          "slow_start": 0.0,
+          "slow_end": 5.131609977324263
+        },
+        {
+          "text": "Projektor zatím potvrdit nemůžeme, technik ho zkontroluje zítra.",
+          "start": 4.673061224489796,
+          "end": 10.245850340136055,
+          "slow_start": 5.311609977324263,
+          "slow_end": 11.673877551020409
+        },
+        {
+          "text": "Po příchodu se prosím hlaste u recepce.",
+          "start": 10.425850340136055,
+          "end": 14.094603174603174,
+          "slow_start": 11.853877551020409,
+          "slow_end": 15.870929705215419
+        },
+        {
+          "text": "Klíč vraťte nejpozději v půl osmé.",
+          "start": 14.274603174603175,
+          "end": 17.339637188208616,
+          "slow_start": 16.05092970521542,
+          "slow_end": 19.475873015873017
+        }
+      ],
+      "slow_start": 0.0,
+      "slow_end": 19.475873015873017
+    }
+  ],
+  "engine": "Piper 1.3.0",
+  "voice": "cs_CZ-jirka-medium",
+  "model_sha256": "cbd5c900acacc8e8cbecd64347abb8de39c00a9d3104bed06fee92e4f319efc8",
+  "quality_status": "machine_checked_not_native_listened",
+  "sample_rate": 22050,
+  "files_sha256": {
+    "normal": "4aa308259d718797538a9fae8161be17024b7db407d764cf24f929c1d0f8d21e",
+    "slow": "880b3e29317a6423debbc265968ade224b2d6228377aed1d17ff3b21165fcbbf"
+  }
+}
