@@ -10,7 +10,7 @@ The setup token is printed in your terminal and stored in `data/first-run-token.
 
 `npm run assets:fetch` downloads the pinned v0.1.0-alpha Release archive, verifies SHA-256, validates tar entries and extracts the listed files. It never installs a user DB/config. `npm run assets:verify` checks installed files. For an existing archive: `node scripts/fetch-assets.mjs --archive /path/to/runtime-assets.tar.gz`.
 
-The optional `source-geography.tar.gz` Release archive contains raw geography for contributors, not needed for play. Check its published manifest hash before extracting at the repo root. Keep OSM/IPR attribution and licensing.
+The runtime download uses 11 resumable parts, with each part and the combined archive hash-checked. The installer assembles them automatically. The optional `source-geography.tar.gz` Release archive contains raw geography for contributors, not needed for play. Check its published manifest hash before extracting at the repo root. Keep OSM/IPR attribution and licensing.
 
 ## Progress and phones
 
